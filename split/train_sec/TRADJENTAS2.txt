@@ -1,0 +1,53 @@
+    5  WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  There have been postmarketing reports of acute pancreatitis, including fatal pancreatitis. If pancreatitis is suspected, promptly discontinue TRADJENTA.  (5.1)   
+ *  When used with an insulin secretagogue (e.g., sulfonylurea) or insulin, consider lowering the dose of the insulin secretagogue or insulin to reduce the risk of hypoglycemia  (5.2)   
+ *  There have been postmarketing reports of serious hypersensitivity reactions in patients treated with TRADJENTA including anaphylaxis, angioedema, and exfoliative skin conditions. In such cases, promptly discontinue TRADJENTA, assess for other potential causes, institute appropriate monitoring and treatment, and initiate alternative treatment for diabetes.  (5.3)   
+ *  Severe and disabling arthralgia has been reported in patients taking DPP-4 inhibitors. Consider as a possible cause for severe joint pain and discontinue drug if appropriate.  (5.4)   
+ *  There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with TRADJENTA or any other antidiabetic drug  (5.5)   
+    
+ 
+
+   5.1  Pancreatitis
+
+
+
+  There have been postmarketing reports of  acute≠B-OSE_Labeled_AE   pancreatitis≠I-OSE_Labeled_AE , including  fatal≠B-NonOSE_AE   pancreatitis≠B-OSE_Labeled_AE , in patients taking TRADJENTA. Take careful notice of potential signs and symptoms of  pancreatitis≠B-NonOSE_AE . If  pancreatitis≠B-NonOSE_AE  is suspected, promptly discontinue TRADJENTA and initiate appropriate management. It is unknown whether patients with a history of  pancreatitis≠B-Not_AE_Candidate  are at increased risk for the development of  pancreatitis≠B-NonOSE_AE  while using TRADJENTA.
+
+
+
+    5.2  Use with Medications Known to Cause Hypoglycemia
+
+
+
+  Insulin secretagogues and insulin are known to cause  hypoglycemia≠B-NonOSE_AE . The use of TRADJENTA in combination with an insulin secretagogue (e.g., sulfonylurea) was associated with a higher rate of  hypoglycemia≠B-NonOSE_AE  compared with placebo in a clinical trial [see Adverse Reactions (  6.1  )]  . The use of TRADJENTA in combination with insulin in subjects with severe  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  was associated with a higher rate of  hypoglycemia≠B-NonOSE_AE  [see Adverse Reactions (  6.1  )]  . Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of  hypoglycemia≠B-NonOSE_AE  when used in combination with TRADJENTA.
+
+
+
+    5.3  Hypersensitivity Reactions
+
+
+
+  There have been postmarketing reports of serious  hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  in patients treated with TRADJENTA. These reactions include  anaphylaxis≠B-OSE_Labeled_AE ,  angioedema≠B-OSE_Labeled_AE , and  exfoliative≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE   conditions≠I-OSE_Labeled_AE . Onset of these reactions occurred within the first 3 months after initiation of treatment with TRADJENTA, with some reports occurring after the first dose. If a serious  hypersensitivity≠B-NonOSE_AE   reaction≠I-NonOSE_AE  is suspected, discontinue TRADJENTA, assess for other potential causes for the event, and institute alternative treatment for  diabetes≠B-Not_AE_Candidate .
+
+
+
+  Angioedema≠B-NonOSE_AE  has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors. Use caution in a patient with a history of  angioedema≠B-Not_AE_Candidate  to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to  angioedema≠B-NonOSE_AE  with TRADJENTA.
+
+
+
+    5.4  Severe and Disabling Arthralgia
+
+
+
+   There have been postmarketing reports of severe and disabling  arthralgia≠B-OSE_Labeled_AE  in patients taking DPP-4 inhibitors. The time to onset of symptoms following initiation of drug therapy varied from one day to years. Patients experienced relief of symptoms upon discontinuation of the medication. A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor. Consider DPP-4 inhibitors as a possible cause for severe  joint≠B-NonOSE_AE   pain≠I-NonOSE_AE  and discontinue drug if appropriate.  
+
+
+
+    5.5  Macrovascular Outcomes
+
+
+
+  There have been no clinical studies establishing conclusive evidence of  macrovascular≠B-NonOSE_AE   risk≠I-NonOSE_AE  reduction with TRADJENTA tablets or any other antidiabetic drug.

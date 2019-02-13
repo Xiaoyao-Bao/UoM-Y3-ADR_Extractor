@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="XURIDEN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   No adverse reactions were reported with XURIDEN in patients with hereditary orotic aciduria (  6.1  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Wellstat Therapeutics Corporation at (1-800-914-0071) or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions and using a wide range of doses, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety of XURIDEN was assessed in 4 patients with hereditary orotic aciduria ranging in age from 3 to 19 years (3 male, 1 female) who received 60 mg/kg of XURIDEN once daily for six weeks. The patients continued to receive XURIDEN for at least 9 months at dosages of up to 120 mg/kg once daily. No adverse reactions were reported with XURIDEN.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  None
+
+
+
+   EXCERPT:   None (  5  )
+
+
+
+ 
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="281" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="29" name="excerpt" section="S2" start="46" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="311" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

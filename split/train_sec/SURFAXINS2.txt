@@ -1,0 +1,31 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Acute Changes in Lung Compliance: Infants receiving SURFAXIN should receive frequent clinical assessments so that oxygen and ventilatory support can be modified to respond to changes in respiratory status.  (5.1)   
+ *  Administration-Related Adverse Reactions: If adverse reactions including bradycardia, oxygen desaturation, reflux of SURFAXIN into the endotracheal tube (ETT), and airway/ETT obstruction occur during administration of SURFAXIN, dosing should be interrupted and the infant's clinical condition assessed and stabilized. Suctioning of the ETT or reintubation may be required if airway obstruction persists or is severe.  (5.2)   
+ *  Increased Serious Adverse Reactions in Adults with Acute Respiratory Distress Syndrome (ARDS): Adults with ARDS who received lucinactant via segmental bronchoscopic lavage had an increased incidence of death, multi-organ failure, sepsis, anoxic encephalopathy, renal failure, hypoxia, pneumothorax, hypotension, and pulmonary embolism. SURFAXIN is not indicated for use in ARDS.  (5.3)   
+    
+ 
+
+   5.1 Acute Changes in Lung Compliance
+
+
+
+  Administration of exogenous surfactants, including SURFAXIN, can rapidly affect lung compliance and oxygenation. SURFAXIN should be administered only by clinicians trained and experienced in the resuscitation, intubation, stabilization, and ventilatory management of  premature≠B-Not_AE_Candidate   infants≠I-Not_AE_Candidate  in a clinical setting with the capacity to care for critically ill neonates. Infants receiving SURFAXIN should receive frequent clinical assessments so that oxygen and ventilatory support can be modified to respond to changes in respiratory status.
+
+
+
+    5.2  Administration≠B-NonOSE_AE  -≠I-NonOSE_AE  Related≠I-NonOSE_AE   Adverse≠I-NonOSE_AE   Reactions≠I-NonOSE_AE 
+
+
+
+  Frequently occurring adverse reactions related to the administration of SURFAXIN include  bradycardia≠B-OSE_Labeled_AE ,  oxygen≠B-OSE_Labeled_AE   desaturation≠I-OSE_Labeled_AE ,  reflux≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   drug≠I-OSE_Labeled_AE   into≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   endotracheal≠I-OSE_Labeled_AE   tube≠I-OSE_Labeled_AE  (ETT), and  airway≠B-OSE_Labeled_AE /ETT  obstruction≠I-OSE_Labeled_AE . If any of these events occur, dosing with SURFAXIN should be interrupted and the infant's clinical condition assessed and stabilized. Suctioning of the ETT or reintubation may be required if  airway≠B-NonOSE_AE   obstruction≠I-NonOSE_AE  persists or is severe. After the patient is stable, dosing may proceed with appropriate monitoring.
+
+
+
+    5.3 Increased Serious Adverse Reactions in Adults with ARDS
+
+
+
+  In a two-part clinical trial in adult patients with  ARDS≠B-Not_AE_Candidate , compared to standard of care, patients who received lucinactant via segmental bronchoscopic lavage had an increased incidence of  death≠B-NonOSE_AE ,  multi≠B-NonOSE_AE  -≠I-NonOSE_AE  organ≠I-NonOSE_AE   failure≠I-NonOSE_AE ,  sepsis≠B-NonOSE_AE ,  anoxic≠B-NonOSE_AE   encephalopathy≠I-NonOSE_AE ,  renal≠B-NonOSE_AE   failure≠I-NonOSE_AE ,  hypoxia≠B-NonOSE_AE ,  pneumothorax≠B-NonOSE_AE ,  hypotension≠B-NonOSE_AE , and  pulmonary≠B-NonOSE_AE   embolism≠I-NonOSE_AE . SURFAXIN is not indicated for use in the treatment of ARDS.

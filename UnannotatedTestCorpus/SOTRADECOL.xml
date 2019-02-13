@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="SOTRADECOL">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Local reactions consisting of pain, urticaria or ulceration may occur at the site of injection. A permanent discoloration may remain along the path of the sclerosed vein segment. Sloughing and necrosis of tissue may occur following extravasation of the drug. (See   WARNINGS  section.)
+
+
+
+ Allergic reactions such as hives, asthma, hay fever and anaphylactic shock have been reported. Mild systemic reactions that have been reported include headache, nausea and vomiting. (See   WARNINGS  section.)
+
+
+
+ At least six deaths have been reported with the use of Sotradecol. Four cases of anaphylactic shock leading to death have been reported in patients who received Sotradecol. One of these four patients reported a history of asthma, a contraindication to the administration of Sotradecol. (See   WARNINGS  section.)
+
+
+
+ One death has been reported in a patient who received Sotradecol and who had been receiving an antiovulatory agent. Another death (fatal pulmonary embolism) has been reported in a 36-year-old female treated with sodium tetradecyl  acetate  and who was  not  taking oral contraceptives.
+
+
+
+ Cerebrovascular accident, myocardial infarction
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   GENERAL
+
+
+
+  Extreme caution must be exercised in the presence of underlying arterial disease such as marked peripheral arteriosclerosis or thromboangiitis obliterans (Buerger's Disease).
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Sotradecol (sodium tetradecyl sulfate injection) should only be administered by a healthcare professional experienced in venous anatomy and the diagnosis and treatment of conditions affecting the venous system and familiar with proper injection technique. Severe adverse local effects, including tissue necrosis, may occur following extravasation; therefore, extreme care in intravenous needle placement and using the minimal effective volume at each injection site are important.
+
+
+
+  Emergency resuscitation equipment should be immediately available. Allergic reactions, including fatal anaphylaxis, have been reported. As a precaution against anaphylactic shock, it is recommended that 0.5 mL of Sotradecol be injected into a varicosity, followed by observation of the patient for several hours before administration of a second or larger dose. The possibility of an anaphylactic reaction should be kept in mind, and the physician should be prepared to treat it appropriately.  
+
+
+
+ Because of the danger of thrombosis extension into the deep venous system, thorough preinjection evaluation for valvular competency should be carried out and slow injections with a small amount (not over 2 mL) of the preparation should be injected into the varicosity. Deep venous patency must be determined by noninvasive testing such as duplex ultrasound. Venous sclerotherapy should not be undertaken if tests such as Trendelenberg and Perthes, and angiography show significant valvular or deep venous incompetence.
+
+
+
+ The development of deep vein thrombosis and pulmonary embolism have been reported following sclerotherapy treatment of superficial varicosities. Patients should have post-treatment follow-up of sufficient duration to assess for the development of deep vein thrombosis. Embolism may occur as long as four weeks after injection of sodium tetradecyl sulfate. Adequate post-treatment compression may decrease the incidence of deep vein thrombosis.
+
+
+
+    Arterial Embolism
+
+
+
+  Stroke, transient ischemic attack, myocardial infarction, and impaired cardiac function have been reported in close temporal relationship with STS administration. These events may be caused by air embolism when using the product foamed with room air (high nitrogen concentration) or thromboembolism. The safety and efficacy of STS foamed with room air has not been established and its use should be avoided.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="17" name="heading" section="S3" start="1978" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

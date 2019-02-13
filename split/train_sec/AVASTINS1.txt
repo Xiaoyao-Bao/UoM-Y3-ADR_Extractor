@@ -1,0 +1,284 @@
+  6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
+
+ *   Gastrointestinal≠B-OSE_Labeled_AE   Perforations≠I-OSE_Labeled_AE  and Fistulae [see  Warnings and Precautions (5.1)  ] . 
+ *  Surgery and  Wound≠B-OSE_Labeled_AE   Healing≠I-OSE_Labeled_AE   Complications≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.2)  ]  
+ *   Hemorrhage≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.3)  ].  
+ *   Arterial≠B-OSE_Labeled_AE   Thromboembolic≠I-OSE_Labeled_AE   Events≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.4)  ].  
+ *   Venous≠B-OSE_Labeled_AE   Thromboembolic≠I-OSE_Labeled_AE   Events≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.5)  ].  
+ *   Hypertension≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.6)  ].  
+ *   Posterior≠B-OSE_Labeled_AE   Reversible≠I-OSE_Labeled_AE   Encephalopathy≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.7)  ].  
+ *   Renal≠B-OSE_Labeled_AE   Injury≠I-OSE_Labeled_AE  and  Proteinuria≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.8)  ].  
+ *   Infusion≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.9)  ].  
+ *   Ovarian≠B-OSE_Labeled_AE   Failure≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.11)  ].  
+ *   Congestive≠B-NonOSE_AE   Heart≠I-NonOSE_AE   Failure≠I-NonOSE_AE  [see  Warnings and Precautions (5.12)   . ].  
+      EXCERPT:   Most common adverse reactions incidence (incidence > 10%) are epistaxis, headache, hypertension, rhinitis, proteinuria, taste alteration, dry skin, rectal hemorrhage, lacrimation disorder, back pain and exfoliative dermatitis. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Genentech, Inc. at 1-888-835-2555 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+ The most common adverse reactions observed in patients receiving Avastin as a single agent or in combination with chemotherapy at a rate > 10%, are  epistaxis≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE ,  rhinitis≠B-OSE_Labeled_AE ,  proteinuria≠B-OSE_Labeled_AE ,  taste≠B-OSE_Labeled_AE   alteration≠I-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE ,  rectal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  lacrimation≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  and  exfoliative≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE .
+
+ The safety data below reflect exposure to Avastin in 2919 patients with  mCRC≠B-Not_AE_Candidate , non-squamous  NSCLC≠B-Not_AE_Candidate ,  glioblastoma≠B-Not_AE_Candidate ,  mRCC≠B-Not_AE_Candidate ,  cervical≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate , platinum-resistant or platinum-sensitive  recurrent≠B-Not_AE_Candidate   epithelial≠I-Not_AE_Candidate   ovarian≠I-Not_AE_Candidate , fallopian tube, or primary peritoneal  cancer≠I-Not_AE_Candidate , including controlled studies (AVF2107g, E3200, E4599, EORTC 26101, BO17705, GOG-0240, MO22224, AVF4095, GOG-0213) at the recommended dose and schedule for a median of 6 to 23 doses.
+
+ Across clinical studies, Avastin was discontinued in 8% to 22% of patients because of adverse reactions  [see  Clinical Studies (14)  ].  
+
+     Platinum  -  Resistant Recurrent Epithelia Ovarian, Fallopian Tube, or Primary Peritoneal Cancer  
+
+ The safety of Avastin was evaluated in 179 patients who received at least one dose of Avastin in a multicenter, open-label study (MO22224) in which patients were randomized (1:1) to Avastin with chemotherapy or chemotherapy alone in patients with platinum resistant,  recurrent≠B-Not_AE_Candidate   epithelial≠I-Not_AE_Candidate   ovarian≠I-Not_AE_Candidate , fallopian tube, or primary peritoneal  cancer≠I-Not_AE_Candidate  that recurred within < 6 months from the most recent platinum based therapy. Patients were randomized to receive Avastin (10 mg/kg every 2 weeks or 15 mg/kg every 3 weeks). Patients had received no more than 2 prior chemotherapy regimens. The trial excluded patients with evidence of  recto≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  sigmoid≠I-Not_AE_Candidate   involvement≠I-Not_AE_Candidate  by pelvic examination or  bowel≠B-Not_AE_Candidate   involvement≠I-Not_AE_Candidate  on CT scan or clinical symptoms of  bowel≠B-Not_AE_Candidate   obstruction≠I-Not_AE_Candidate . Patients were treated until disease progression or unacceptable toxicity. Forty percent of patients on the chemotherapy alone arm received Avastin alone upon progression. The demographics of the safety population were similar to the demographics of the efficacy population. Adverse reactions are presented in  Table 2  .
+
+ Table 2: Grade 2-4 Adverse Reactions Occurring at Higher Incidence (>= 5%) in Patients Receiving Avastin with Chemotherapy vs. Chemotherapy Alone in Study MO22224 
+ Adverse Reaction [note: NCI-CTC version 3]   Avastin with Chemotherapy(N=179)          Chemotherapy(N=181)          
+  
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Neutropenia≠B-OSE_Labeled_AE                                       31%                                25%                  
+    General≠B-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE                   
+    Mucosal≠B-OSE_Labeled_AE   inflammation≠I-OSE_Labeled_AE                              13%                                6%                   
+    Infections≠B-NonOSE_AE                          
+    Infection≠B-OSE_Labeled_AE                                         11%                                4%                   
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE            
+     Peripheral≠B-OSE_Labeled_AE   sensory≠I-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE                    18%                                7%                   
+    Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   urinary≠I-NonOSE_AE   disorders≠I-NonOSE_AE         
+    Proteinuria≠B-OSE_Labeled_AE                                       12%                               0.6%                  
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Epistaxis≠B-OSE_Labeled_AE                                         5%                                 0%                   
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Palmar≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  plantar≠I-OSE_Labeled_AE   erythrodysaesthesia≠I-OSE_Labeled_AE                  11%                                5%                   
+    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                     
+    Hypertension≠B-OSE_Labeled_AE                                      19%                                6%                   
+         Grade 3-4 adverse reactions occurring at a higher incidence ( >= 2%) in 179 patients receiving Avastin with chemotherapy compared to 181 patients receiving chemotherapy alone were  hypertension≠B-OSE_Labeled_AE  (6.7% vs. 1.1%) and  palmar≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  plantar≠I-OSE_Labeled_AE   erythrodysaesthesia≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  (4.5% vs. 1.7%).
+ 
+
+     Platinum-Sensitive Recurrent Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer  
+
+ The safety of Avastin was evaluated in 247 patients who received at least one dose of Avastin in a double-blind study (AVF4095g) in patients with platinum sensitive  recurrent≠B-Not_AE_Candidate   epithelial≠I-Not_AE_Candidate   ovarian≠I-Not_AE_Candidate , fallopian tube or primary peritoneal  cancer≠I-Not_AE_Candidate . Patients were randomized (1:1) to receive Avastin (15 mg/kg) or placebo every 3 weeks with carboplatin and gemcitabine for 6 to 10 cycles followed by Avastin or placebo alone until disease progression or unacceptable toxicity. The demographics of the safety population were similar to the demographics of the efficacy population. Adverse reactions are presented in  Table 3  .
+
+ Table 3: Grade 1-5 Adverse Reactions Occurring at a Higher Incidence (>= 5%) in Patients Receiving Avastin with Chemotherapy vs. Placebo with Chemotherapy in Study AVF4095g 
+ Adverse Reaction [note: NCI-CTC version 3]   Avastin with Carboplatin and Gemcitabine(N=247)  Placebo with Carboplatin and Gemcitabine(N=233)   
+  
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Thrombocytopenia≠B-OSE_Labeled_AE                                  58%                                51%                  
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE          
+    Nausea≠B-OSE_Labeled_AE                                            72%                                66%                  
+    Diarrhea≠B-OSE_Labeled_AE                                          38%                                29%                  
+    Stomatitis≠B-OSE_Labeled_AE                                        15%                                7%                   
+    Hemorrhoids≠B-OSE_Labeled_AE                                       8%                                 3%                   
+    Gingival≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE                                 7%                                 0%                   
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE                   
+    Fatigue≠B-OSE_Labeled_AE                                           82%                                75%                  
+    Mucosal≠B-OSE_Labeled_AE   inflammation≠I-OSE_Labeled_AE                              15%                                10%                  
+    Infections≠B-NonOSE_AE                          
+    Sinusitis≠B-OSE_Labeled_AE                                         15%                                9%                   
+    Injury≠B-NonOSE_AE   and≠I-NonOSE_AE   procedural≠I-NonOSE_AE   complications≠I-NonOSE_AE      
+    Contusion≠B-OSE_Labeled_AE                                         17%                                9%                   
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Arthralgia≠B-OSE_Labeled_AE                                        28%                                19%                  
+    Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                         21%                                13%                  
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE            
+    Headache≠B-OSE_Labeled_AE                                          49%                                30%                  
+    Dizziness≠B-OSE_Labeled_AE                                         23%                                17%                  
+    Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE               
+    Insomnia≠B-OSE_Labeled_AE                                          21%                                15%                  
+    Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   urinary≠I-NonOSE_AE   disorders≠I-NonOSE_AE         
+    Proteinuria≠B-OSE_Labeled_AE                                       20%                                3%                   
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Epistaxis≠B-OSE_Labeled_AE                                         55%                                14%                  
+    Dyspnea≠B-OSE_Labeled_AE                                           30%                                24%                  
+    Cough≠B-OSE_Labeled_AE                                             26%                                18%                  
+    Oropharyngeal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                16%                                10%                  
+    Dysphonia≠B-OSE_Labeled_AE                                         13%                                3%                   
+    Rhinorrhea≠B-OSE_Labeled_AE                                        10%                                4%                   
+    Sinus≠B-OSE_Labeled_AE   congestion≠I-OSE_Labeled_AE                                  8%                                 2%                   
+    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE                  
+    Hypertension≠B-OSE_Labeled_AE                                      42%                                9%                   
+         Grade 3-4 adverse reactions occurring at a higher incidence (>= 2%) in patients receiving Avastin with chemotherapy compared to placebo with chemotherapy were:  thrombocytopenia≠B-OSE_Labeled_AE  (40% vs. 34%),  nausea≠B-OSE_Labeled_AE  (4% vs. 1.3%),  fatigue≠B-OSE_Labeled_AE  (6% vs. 4%),  headache≠B-OSE_Labeled_AE  (4% vs. 0.9%),  proteinuria≠B-OSE_Labeled_AE  (10% vs. 0.4%),  dyspnea≠B-OSE_Labeled_AE  (4% vs. 1.7%),  epistaxis≠B-OSE_Labeled_AE  (5% vs. 0.4%), and  hypertension≠B-OSE_Labeled_AE  (17% vs. 0.9%).
+ 
+
+ The safety of Avastin was evaluated in an open-label, controlled study, GOG-0213, in 325 patients with platinum-sensitive  recurrent≠B-Not_AE_Candidate   epithelial≠I-Not_AE_Candidate   ovarian≠I-Not_AE_Candidate , fallopian tube, or primary peritoneal  cancer≠I-Not_AE_Candidate , who have not received more than one previous regimen of chemotherapy. Patients were randomized (1:1) to receive carboplatin and paclitaxel for 6 to 8 cycles or Avastin (15 mg/kg every 3 weeks) with carboplatin and paclitaxel for 6 to 8 cycles followed by Avastin as a single agent until disease progression or unacceptable toxicity. The demographics of the safety population were similar to the demographics of the efficacy population. Adverse reactions are presented in  Table 4  .
+
+ Table 4: Grade 1-5 Adverse Reactions Occurring at Higher Incidence (>= 5%) in Patients Receiving Avastin with Chemotherapy vs. Chemotherapy Alone in Study GOG-0213 
+ Adverse Reaction [note: NCI-CTC version 3]   Avastin with Carboplatin and Paclitaxel(N=325)  Carboplatin and Paclitaxel(N=332)   
+  
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE          
+    Diarrhea≠B-OSE_Labeled_AE                                          39%                                32%                  
+    Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                    33%                                28%                  
+    Vomiting≠B-OSE_Labeled_AE                                          33%                                25%                  
+    Stomatitis≠B-OSE_Labeled_AE                                        33%                                16%                  
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   nutrition≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE                                35%                                25%                  
+    Hyperglycemia≠B-OSE_Labeled_AE                                     31%                                24%                  
+    Hypomagnesemia≠B-OSE_Labeled_AE                                    27%                                17%                  
+    Hyponatremia≠B-OSE_Labeled_AE                                      17%                                6%                   
+    Weight≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE                                  15%                                4%                   
+    Hypocalcemia≠B-OSE_Labeled_AE                                      12%                                5%                   
+    Hypoalbuminemia≠B-OSE_Labeled_AE                                   11%                                6%                   
+    Hyperkalemia≠B-OSE_Labeled_AE                                      9%                                 3%                   
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Arthralgia≠B-OSE_Labeled_AE                                        45%                                30%                  
+    Myalgia≠B-OSE_Labeled_AE                                           29%                                18%                  
+    Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE                                 25%                                14%                  
+    Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                         17%                                10%                  
+    Muscular≠B-OSE_Labeled_AE   weakness≠I-OSE_Labeled_AE                                 13%                                8%                   
+    Neck≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                         9%                                 0%                   
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Epistaxis≠B-OSE_Labeled_AE                                         33%                                2%                   
+    Dyspnea≠B-OSE_Labeled_AE                                           30%                                25%                  
+    Cough≠B-OSE_Labeled_AE                                             30%                                17%                  
+    Rhinitis≠B-OSE_Labeled_AE   allergic≠I-OSE_Labeled_AE                                 17%                                4%                   
+    Nasal≠B-OSE_Labeled_AE   mucosal≠I-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE                            14%                                3%                   
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE            
+    Headache≠B-OSE_Labeled_AE                                          38%                                20%                  
+    Dysarthria≠B-OSE_Labeled_AE                                        14%                                2%                   
+    Dizziness≠B-OSE_Labeled_AE                                         13%                                8%                   
+    Hepatic≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                   
+    Aspartate≠B-OSE_Labeled_AE   aminotransferase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE                  15%                                9%                   
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Exfoliative≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE                                  23%                                16%                  
+    Nail≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE                                     10%                                2%                   
+    Dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE                                          7%                                 2%                   
+    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE                  
+    Hypertension≠B-OSE_Labeled_AE                                      42%                                3%                   
+    Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   urinary≠I-NonOSE_AE   disorders≠I-NonOSE_AE         
+    Proteinuria≠B-OSE_Labeled_AE                                       17%                                1%                   
+    Blood≠B-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE                        13%                                5%                   
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE                   
+    Chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                        8%                                 2%                   
+    Infections≠B-NonOSE_AE                                                             
+    Sinusitis≠B-OSE_Labeled_AE                                         7%                                 2%                   
+         Grade 3-4 adverse reactions occurring at a higher incidence (>= 2%) in patients receiving Avastin with chemotherapy compared to chemotherapy alone were:  hypertension≠B-OSE_Labeled_AE  (11% vs. 0.6%),  fatigue≠B-OSE_Labeled_AE  (8% vs. 3%),  febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE  (6% vs. 3%),  proteinuria≠B-OSE_Labeled_AE  (8% vs. 0%),  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (6% vs. 0.9%),  hyponatremia≠B-OSE_Labeled_AE  (4% vs. 0.9%),  headache≠B-OSE_Labeled_AE  (3% vs. 0.9%), and  pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE  (3% vs. 0%).
+ 
+
+     Metastatic Renal Cell Carcinoma (mRCC)  
+
+ The safety of Avastin was evaluated in 337 patients who received at least one dose of Avastin in a multicenter, double-blind study (BO17705) in patients with  metastatic≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   cell≠I-Not_AE_Candidate   carcinoma≠I-Not_AE_Candidate . Patients who had undergone a nephrectomy were randomized (1:1) to receive either Avastin (10 mg/kg every 2 weeks) or placebo with interferon alfa. Patients were treated until disease progression or unacceptable toxicity. The demographics of the safety population were similar to the demographics of the efficacy population.
+
+ Grade 3-5 adverse reactions occurring at a higher incidence ( >2%) were  fatigue≠B-OSE_Labeled_AE  (13% vs. 8%),  asthenia≠B-OSE_Labeled_AE  (10% vs. 7%),  proteinuria≠B-OSE_Labeled_AE  (7% vs. 0%),  hypertension≠B-OSE_Labeled_AE  (6% vs. 1%; including  hypertension≠B-OSE_Labeled_AE  and  hypertensive≠B-OSE_Labeled_AE   crisis≠I-OSE_Labeled_AE ), and  hemorrhage≠B-OSE_Labeled_AE  (3% vs. 0.3%; including  epistaxis≠B-OSE_Labeled_AE , small  intestinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  aneurysm≠B-OSE_Labeled_AE   ruptured≠I-OSE_Labeled_AE ,  gastric≠B-OSE_Labeled_AE   ulcer≠I-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  gingival≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE ,  hemoptysis≠B-OSE_Labeled_AE ,  hemorrhage≠B-OSE_Labeled_AE   intracranial≠I-OSE_Labeled_AE , large  intestinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  respiratory≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE , and  traumatic≠B-OSE_Labeled_AE   hematoma≠I-OSE_Labeled_AE ). Adverse reactions are presented in  Table 5  .
+
+ Table 5: Grades 1-5 Adverse Reactions Occurring at Higher Incidence (>= 5%) of Patients Receiving Avastin vs. Placebo with Interferon Alfa in Study BO17705 
+ Adverse Reaction [note: NCI-CTC version 3]   Avastin with Interferon Alfa(N=337)  Placebo with Interferon Alfa(N=304)   
+  
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE          
+    Diarrhea≠B-OSE_Labeled_AE                                          21%                                16%                  
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE      
+    Fatigue≠B-OSE_Labeled_AE                                           33%                                27%                  
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   nutrition≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE                                36%                                31%                  
+    Weight≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE                                  20%                                15%                  
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Myalgia≠B-OSE_Labeled_AE                                           19%                                14%                  
+    Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                         12%                                6%                   
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE            
+    Headache≠B-OSE_Labeled_AE                                          24%                                16%                  
+    Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   urinary≠I-NonOSE_AE   disorders≠I-NonOSE_AE         
+    Proteinuria≠B-OSE_Labeled_AE                                       20%                                3%                   
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Epistaxis≠B-OSE_Labeled_AE                                         27%                                4%                   
+    Dysphonia≠B-OSE_Labeled_AE                                         5%                                 0%                   
+    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                     
+    Hypertension≠B-OSE_Labeled_AE                                      28%                                9%                   
+         The following adverse reactions were reported at a 5-fold greater incidence in patients receiving Avastin with interferon-alfa compared to patients receiving placebo with interferon-alfa and not represented in Table 3:  gingival≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE  (13 patients vs. 1 patient);  rhinitis≠B-OSE_Labeled_AE  (9 vs. 0);  blurred≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE  (8 vs. 0);  gingivitis≠B-OSE_Labeled_AE  (8 vs. 1);  gastroesophageal≠B-OSE_Labeled_AE   reflux≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE  (8 vs. 1);  tinnitus≠B-OSE_Labeled_AE  (7 vs. 1);  tooth≠B-OSE_Labeled_AE   abscess≠I-OSE_Labeled_AE  (7 vs. 0);  mouth≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE  (6 vs. 0);  acne≠B-OSE_Labeled_AE  (5 vs. 0);  deafness≠B-OSE_Labeled_AE  (5 vs. 0);  gastritis≠B-OSE_Labeled_AE  (5 vs. 0);  gingival≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (5 vs. 0) and  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE  (5 vs. 1).
+ 
+
+     Persistent, Recurrent, or Metastatic Cervical Cancer  
+
+ The safety of Avastin was evaluated in 218 patients who received at least one dose of Avastin in a multicenter study (GOG-0240) in patients with persistent,  recurrent≠B-Not_AE_Candidate , or metastatic  cervical≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate . Patients were randomized (1:1:1:1) to receive paclitaxel and cisplatin with or without Avastin (15 mg/kg every 3 weeks), or paclitaxel and topotecan with or without Avastin (15 mg/kg every 3 weeks). The demographics of the safety population were similar to the demographics of the efficacy population. Adverse reactions are presented in  Table 6  .
+
+ Table 6: Grades 1-4 Adverse Reactions Occurring at Higher Incidence (>= 5%) in Patients Receiving Avastin with Chemotherapy vs. Chemotherapy Alone in Study GOG-0240 
+ Adverse Reaction [note: NCI-CTC version 3]   Avastin with Chemotherapy(N=218)          Chemotherapy(N=222)          
+  
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   nutrition≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE                                34%                                26%                  
+    Hyperglycemia≠B-OSE_Labeled_AE                                     26%                                19%                  
+    Hypomagnesemia≠B-OSE_Labeled_AE                                    24%                                15%                  
+    Weight≠B-OSE_Labeled_AE   Decreased≠I-OSE_Labeled_AE                                  21%                                7%                   
+    Hyponatremia≠B-OSE_Labeled_AE                                      19%                                10%                  
+    Hypoalbuminemia≠B-OSE_Labeled_AE                                   16%                                11%                  
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE                   
+    Fatigue≠B-OSE_Labeled_AE                                           80%                                75%                  
+    Edema≠B-OSE_Labeled_AE   Peripheral≠I-OSE_Labeled_AE                                  15%                                22%                  
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE         
+    Urinary≠B-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE                           22%                                14%                  
+    Infection≠B-OSE_Labeled_AE                                         10%                                5%                   
+    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE                  
+    Hypertension≠B-OSE_Labeled_AE                                      29%                                6%                   
+    Thrombosis≠B-OSE_Labeled_AE                                        10%                                3%                   
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE            
+    Headache≠B-OSE_Labeled_AE                                          22%                                13%                  
+    Dysarthria≠B-OSE_Labeled_AE                                        8%                                 1%                   
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE          
+    Stomatitis≠B-OSE_Labeled_AE                                        15%                                10%                  
+    Proctalgia≠B-OSE_Labeled_AE                                        6%                                 1%                   
+    Anal≠B-OSE_Labeled_AE   fistula≠I-OSE_Labeled_AE                                      6%                                0.0%                  
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Neutropenia≠B-OSE_Labeled_AE                                       12%                                6%                   
+    Lymphopenia≠B-OSE_Labeled_AE                                       12%                                5%                   
+    Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE               
+    Anxiety≠B-OSE_Labeled_AE                                           17%                                10%                  
+    Reproductive≠B-NonOSE_AE   system≠I-NonOSE_AE   and≠I-NonOSE_AE   breast≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Pelvic≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                       14%                                8%                   
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Epistaxis≠B-OSE_Labeled_AE                                         17%                                1%                   
+    Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   urinary≠I-NonOSE_AE   disorders≠I-NonOSE_AE         
+    Blood≠B-OSE_Labeled_AE   Creatinine≠I-OSE_Labeled_AE   Increased≠I-OSE_Labeled_AE                        16%                                10%                  
+    Proteinuria≠B-OSE_Labeled_AE                                       10%                                3%                   
+         Grade 3-4 adverse reactions occurring at a higher incidence (>= 2%) in 218 patients receiving Avastin with chemotherapy compared to 222 patients receiving chemotherapy alone were  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (12% vs. 10%),  hypertension≠B-OSE_Labeled_AE  (11% vs. 0.5%),  thrombosis≠B-OSE_Labeled_AE  (8% vs. 3%),  diarrhea≠B-OSE_Labeled_AE  (6% vs. 3%),  anal≠B-OSE_Labeled_AE   fistula≠I-OSE_Labeled_AE  (4% vs. 0%),  proctalgia≠B-OSE_Labeled_AE  (3% vs. 0%),  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  (8% vs. 6%),  cellulitis≠B-OSE_Labeled_AE  (3% vs. 0.5%),  fatigue≠B-OSE_Labeled_AE  (14% vs. 10%),  hypokalemia≠B-OSE_Labeled_AE  (7% vs. 4%),  hyponatremia≠B-OSE_Labeled_AE  (4% vs. 1%),  dehydration≠B-OSE_Labeled_AE  (4% vs. 0.5%),  neutropenia≠B-OSE_Labeled_AE  (8% vs. 4%),  lymphopenia≠B-OSE_Labeled_AE  (6% vs. 3%),  back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (6% vs. 3%), and  pelvic≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (6% vs. 1%).
+ 
+
+     Metastatic Colorectal Cancer (mCRC)  
+
+ The safety of Avastin was evaluated in 392 patients who received at least one dose of Avastin in a double-blind, active-controlled study (AVF2107g), which compared Avastin (5 mg/kg every 2 weeks) with bolus-IFL to placebo with bolus IFL in patients with mCRC. Patients were randomized (1:1:1) to placebo with bolus IFL, Avastin with bolus IFL, or Avastin with 5 fluorouracil and leucovorin. The demographics of the safety population were similar to the demographics of the efficacy population.
+
+ All Grade 3-4 adverse reactions and selected Grade 1-2 adverse reactions (i.e.,  hypertension≠B-NonOSE_AE ,  proteinuria≠B-NonOSE_AE ,  thromboembolic≠B-NonOSE_AE   events≠I-NonOSE_AE ) were collected in the entire study population. Adverse reactions are presented in  Table 7  .
+
+ Table 7: Grade 3-4 Adverse Reactions Occurring at Higher Incidence (>= 2%) in Patients Receiving Avastin vs. Placebo in Study AVF2107g 
+ Adverse Reaction [note: NCI-CTC version 3]        Avastin with IFL(N=392)            Placebo with IFL(N=396)        
+  
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE                   
+    Asthenia≠B-OSE_Labeled_AE                                          10%                                7%                   
+    Pain≠B-OSE_Labeled_AE                                              8%                                 5%                   
+    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE                  
+    Hypertension≠B-OSE_Labeled_AE                                      12%                                2%                   
+    Deep≠B-OSE_Labeled_AE   Vein≠I-OSE_Labeled_AE   Thrombosis≠I-OSE_Labeled_AE                              9%                                 5%                   
+    Intra≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Abdominal≠I-OSE_Labeled_AE   Thrombosis≠I-OSE_Labeled_AE                        3%                                 1%                   
+    Syncope≠B-OSE_Labeled_AE                                           3%                                 1%                   
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE          
+    Diarrhea≠B-OSE_Labeled_AE                                          34%                                25%                  
+    Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                    8%                                 5%                   
+    Constipation≠B-OSE_Labeled_AE                                      4%                                 2%                   
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE   disorders≠I-NonOSE_AE       
+    Leukopenia≠B-OSE_Labeled_AE                                        37%                                31%                  
+    Neutropenia≠B-OSE_Labeled_AE                                       21%                                14%                  
+         The safety of Avastin was evaluated in 521 patients in an open-label, active-controlled study (E3200). Patients who were previously treated with irinotecan and fluorouracil for initial therapy for  metastatic≠B-Not_AE_Candidate   colorectal≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate . Patients were randomized (1:1:1) to FOLFOX4, Avastin (10 mg/kg every 2 weeks prior to FOLFOX4 on Day 1) with FOLFOX4, or Avastin alone (10 mg/kg every 2 weeks). Avastin was continued until disease progression or unacceptable toxicity.
+ 
+
+ The demographics of the safety population were similar to the demographics of the efficacy population. The most frequent adverse reactions (selected Grade 3-5 non-hematologic and Grade 4-5 hematologic) occurring at a higher incidence (>= 2%) in patients receiving Avastin with FOLFOX4 compared to FOLFOX4 alone were  fatigue≠B-OSE_Labeled_AE  (19% vs. 13%),  diarrhea≠B-OSE_Labeled_AE  (18% vs. 13%),  sensory≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  (17% vs. 9%),  nausea≠B-OSE_Labeled_AE  (12% vs. 5%),  vomiting≠B-OSE_Labeled_AE  (11% vs. 4%),  dehydration≠B-OSE_Labeled_AE  (10% vs. 5%),  hypertension≠B-OSE_Labeled_AE  (9% vs. 2%),  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (8% vs. 5%),  hemorrhage≠B-OSE_Labeled_AE  (5% vs. 1%),  other≠B-OSE_Labeled_AE   neurological≠I-OSE_Labeled_AE  (5% vs. 3%),  ileus≠B-OSE_Labeled_AE  (4% vs. 1%) and  headache≠B-OSE_Labeled_AE  (3% vs. 0%). These data are likely to under-estimate the true adverse event rates due to the reporting mechanisms.
+
+     First-Line Non Squamous Non Small Cell Lung Cancer (NSCLC)  
+
+ The safety of Avastin was evaluated as first-line treatment in 422 patients with unresectable  NSCLC≠B-Not_AE_Candidate  who received at least one dose of Avastin in an active-controlled, open-label, multicenter trial (E4599). Chemotherapy naive patients with locally advanced, metastatic or recurrent non-squamous  NSCLC≠B-Not_AE_Candidate  were randomized (1:1) to receive six 21 day cycles of paclitaxel and carboplatin with or without Avastin (15 mg/kg every 3 weeks). After completion or upon discontinuation of chemotherapy, patients randomized to receive Avastin continued to receive Avastin alone until disease progression or until unacceptable toxicity. The trial excluded patients with predominant squamous histology (mixed cell type tumors only),  CNS≠B-Not_AE_Candidate   metastasis≠I-Not_AE_Candidate ,  gross≠B-Not_AE_Candidate   hemoptysis≠I-Not_AE_Candidate  (1/2 teaspoon or more of red blood),  unstable≠B-Not_AE_Candidate   angina≠I-Not_AE_Candidate , or receiving therapeutic anticoagulation. The demographics of the safety population were similar to the demographics of the efficacy population.
+
+ Only Grade 3-5 non hematologic and Grade 4-5  hematologic≠B-NonOSE_AE   adverse≠I-NonOSE_AE   reactions≠I-NonOSE_AE  were collected. Grade 3-5  non≠B-NonOSE_AE   hematologic≠I-NonOSE_AE  and Grade 4-5 hematologic  adverse≠I-NonOSE_AE   reactions≠I-NonOSE_AE  occurring at a higher incidence (>= 2%) in patients receiving Avastin with paclitaxel and carboplatin compared with patients receiving chemotherapy alone were  neutropenia≠B-OSE_Labeled_AE  (27% vs. 17%),  fatigue≠B-OSE_Labeled_AE  (16% vs. 13%),  hypertension≠B-OSE_Labeled_AE  (8% vs. 0.7%), infection without  neutropenia≠B-OSE_Labeled_AE  (7% vs. 3%),  venous≠B-OSE_Labeled_AE   thromboembolism≠I-OSE_Labeled_AE  (5% vs. 3%),  febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE  (5% vs. 2%),  pneumonitis≠B-OSE_Labeled_AE / pulmonary≠B-OSE_Labeled_AE   infiltrates≠I-OSE_Labeled_AE  (5% vs. 3%), infection with Grade 3 or 4  neutropenia≠B-OSE_Labeled_AE  (4% vs. 2%),  hyponatremia≠B-OSE_Labeled_AE  (4% vs. 1%),  headache≠B-OSE_Labeled_AE  (3% vs. 1%) and  proteinuria≠B-OSE_Labeled_AE  (3% vs. 0%).
+
+     Recurrent Glioblastoma  
+
+ EORTC 26101 was a multicenter, randomized, open-label study in patients with  recurrent≠B-Not_AE_Candidate   GBM≠I-Not_AE_Candidate  following radiotherapy and temozolomide of whom 278 patients received at least one dose of Avastin and are considered safety evaluable. Patients were randomized (2:1) to receive Avastin (10 mg/kg every 2 weeks) with lomustine or lomustine alone until disease progression or unacceptable toxicity. The demographics of the safety population were similar to the demographics of the efficacy population. In the Avastin with lomustine arm, 22% of patients discontinued treatment due to adverse reactions compared with 10% of patients in the lomustine arm. In patients receiving Avastin with lomustine, the adverse reaction profile was similar to that observed in other approved indications.
+
+   6.2 Immunogenicity
+
+  As with all therapeutic proteins, there is a potential for  immunogenicity≠B-OSE_Labeled_AE . The detection of  antibody≠B-NonOSE_AE   formation≠I-NonOSE_AE  is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of  antibody≠B-NonOSE_AE  (including neutralizing antibody)  positivity≠I-NonOSE_AE  in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   bevacizumab≠I-NonOSE_AE  in the studies described below with the incidence of  antibodies≠B-NonOSE_AE  in other studies or  to≠I-NonOSE_AE   other≠I-NonOSE_AE   products≠I-NonOSE_AE  may be misleading.
+
+ In clinical studies for adjuvant treatment of a solid  tumor≠B-NonOSE_AE , 0.6% (14/2323) of patients tested positive for treatment-emergent  anti≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  bevacizumab≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE  as detected by an electrochemiluminescent (ECL) based assay. Among these 14 patients, three tested  positive≠B-OSE_Labeled_AE   for≠I-OSE_Labeled_AE   neutralizing≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE  against bevacizumab using an enzyme-linked immunosorbent assay (ELISA). The clinical significance of these  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  bevacizumab≠I-NonOSE_AE   antibodies≠I-NonOSE_AE  is not known.
+
+   6.3 Postmarketing Experience
+
+  The following adverse reactions have been identified during post-approval use of Avastin. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+    Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE :   Polyserositis≠B-OSE_Labeled_AE    Cardiovascular≠B-NonOSE_AE :   Pulmonary≠B-OSE_Labeled_AE   hypertension≠I-OSE_Labeled_AE ,  Mesenteric≠B-OSE_Labeled_AE   venous≠I-OSE_Labeled_AE   occlusion≠I-OSE_Labeled_AE    Gastrointestinal≠B-NonOSE_AE :   Gastrointestinal≠B-OSE_Labeled_AE   ulcer≠I-OSE_Labeled_AE ,  Intestinal≠B-OSE_Labeled_AE   necrosis≠I-OSE_Labeled_AE ,  Anastomotic≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE    Hemic≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE :   Pancytopenia≠B-OSE_Labeled_AE    Hepatobiliary≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   Gallbladder≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :   Osteonecrosis≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   jaw≠I-OSE_Labeled_AE   Renal:   Renal≠B-OSE_Labeled_AE   thrombotic≠I-OSE_Labeled_AE   microangiopathy≠I-OSE_Labeled_AE  (manifested as severe  proteinuria≠B-NonOSE_AE )   Respiratory≠B-NonOSE_AE :   Nasal≠B-OSE_Labeled_AE   septum≠I-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE 
+

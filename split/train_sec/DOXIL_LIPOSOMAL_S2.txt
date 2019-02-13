@@ -1,0 +1,17 @@
+
+
+    BOXED WARNING: WARNING: CARDIOMYOPATHY and INFUSION-RELATED REACTIONS
+
+    WARNING: CARDIOMYOPATHY and INFUSION-RELATED REACTIONS  
+
+    *  DOXIL (doxorubicin HCl liposome injection) can cause  myocardial≠B-OSE_Labeled_AE   damage≠I-OSE_Labeled_AE , including  congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE , as the total cumulative dose of doxorubicin HCl approaches 550 mg/m2. In a clinical study of 250 patients with advanced  cancer≠B-Not_AE_Candidate  who were treated with DOXIL, the risk of  cardiotoxicity≠B-OSE_Labeled_AE  was 11% when the cumulative anthracycline dose was between 450-550 mg/m2. Prior use of other anthracyclines or anthracenediones should be included in calculations of total cumulative dosage. The risk of  cardiomyopathy≠B-OSE_Labeled_AE  may be increased at lower cumulative doses in patients with prior mediastinal irradiation [see Warnings and Precautions (5.1)]. 
+ *   Acute≠B-OSE_Labeled_AE   infusion≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  consisting of, but not limited to,  flushing≠B-OSE_Labeled_AE ,  shortness≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   breath≠I-OSE_Labeled_AE ,  facial≠B-OSE_Labeled_AE   swelling≠I-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE ,  back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  tightness≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE  chest or  throat≠I-OSE_Labeled_AE , and/or  hypotension≠B-OSE_Labeled_AE  occurred in 11% of patients with  solid≠B-Not_AE_Candidate   tumors≠I-Not_AE_Candidate  treated with DOXIL. Serious, life-threatening and  fatal≠B-NonOSE_AE   infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  have been reported [see Dosage and Administration (2.6) and Warnings and Precautions (5.2)]. 
+      EXCERPT:     WARNING: CARDIOMYOPATHY and INFUSION-RELATED REACTIONS  
+ 
+
+   See full prescribing information for complete boxed warning.  
+
+ *  Myocardial damage may lead to congestive heart failure and may occur as the total cumulative dose of doxorubicin HCl approaches 550 mg/m2. The risk of cardiomyopathy may be increased at lower cumulative doses with mediastinal irradiation (5.1). 
+ *  Acute infusion-related reactions occurred in 11% of patients with solid tumors. Serious, life-threatening, and fatal infusion reactions have been reported. Medications/emergency equipment to treat such reactions should be available for immediate use (5.2). 
+    
+

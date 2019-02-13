@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="VITRASE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following adverse reactions have been identified during post-approval use of hyaluronidase products. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The most frequently reported adverse reactions have been local injection site reactions.
+
+
+
+ Hyaluronidase has been reported to enhance the adverse reactions associated with co-administered drug products. Edema has been reported most frequently in association with hypodermoclysis.
+
+
+
+ Allergic reactions (e.g., urticaria, angioedema) have been reported in less than 0.1% of patients receiving hyaluronidase. Anaphylactic-like reactions following retrobulbar block or intravenous injections have occurred, rarely.
+
+
+
+   EXCERPT:     Allergic and anaphylactic-like reactions have been reported, rarely. (    6    ) To report SUSPECTED ADVERSE REACTIONS, contact Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Spread of Localized Infection (  5.1  ) 
+ *    Ocular Cornea Damage (  5.2  ) 
+ *    Enzyme Inactivation with Intravenous Administration (  5.3  ) 
+    
+ 
+
+   5.1 Spread of Localized Infection
+
+
+
+  Hyaluronidase should not be injected into or around infected or acutely inflamed area because of the danger of spreading to a localized infection. Hyaluronidase should not be used to reduce the swelling of bites or stings.
+
+
+
+    5.2 Ocular Cornea Damage
+
+
+
+  VITRASE should not be applied directly to the cornea.
+
+
+
+    5.3 Enzyme Inactivation with Intravenous Administration
+
+
+
+  VITRASE should not be used for intravenous injections because the enzyme is rapidly inactivated.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="170" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="33" name="heading" section="S2" start="213" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="482" />
+    <IgnoredRegion len="55" name="heading" section="S2" start="573" />
+    <IgnoredRegion len="288" name="excerpt" section="S1" start="853" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

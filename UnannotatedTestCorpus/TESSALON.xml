@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="TESSALON">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Potential Adverse Reactions to TESSALON may include:
+
+
+
+   Hypersensitivity reactions  including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule.
+
+
+
+   CNS:  sedation; headache; dizziness; mental confusion; visual hallucinations.
+
+
+
+   GI:  constipation; nausea; GI upset.
+
+
+
+   Dermatologic:  pruritus; skin eruptions.
+
+
+
+   Other:  nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity.
+
+
+
+ Deliberate or accidental overdose has resulted in death, particularly in children.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+  Benzonatate is chemically related to anesthetic agents of the para-amino-benzoic acid class (e.g. procaine; tetracaine) and has been associated with adverse CNS effects possibly related to a prior sensitivity to related agents or interaction with concomitant medication.
+
+
+
+    Information for patients
+
+
+
+  Swallow TESSALON Perles whole. Do not break, chew, dissolve, cut, or crush TESSALON Perles. Release of TESSALON from the capsule in the mouth can produce a temporary local anesthesia of the oral mucosa and choking could occur. If numbness or tingling of the tongue, mouth, throat, or face occurs, refrain from oral ingestion of food or liquids until the numbness has resolved. If the symptoms worsen or persist, seek medical attention.
+
+
+
+ Keep TESSALON out of reach of children. Accidental ingestion resulting in death has been reported in children. Signs and symptoms of overdose have been reported within 15-20 minutes and death has been reported within one hour of ingestion. Signs and symptoms may include restlessness, tremors, convulsions, coma and cardiac arrest. If accidental ingestion occurs, seek medical attention immediately.
+
+
+
+ Overdosage resulting in death may occur in adults.
+
+
+
+ Do not exceed a single dose of 200 mg and a total daily dosage of 600 mg. If you miss a dose of TESSALON, skip that dose and take the next dose at the next scheduled time. Do not take 2 doses of TESSALON at one time.
+
+
+
+    Usage in Pregnancy
+
+
+
+   Pregnancy Category C
+
+
+
+  Animal reproduction studies have not been conducted with TESSALON. It is also not known whether TESSALON can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. TESSALON should be given to a pregnant woman only if clearly needed.
+
+
+
+    Nursing mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk caution should be exercised when TESSALON is administered to a nursing woman.
+
+
+
+    Carcinogenesis, mutagenesis, impairment of fertility
+
+
+
+  Carcinogenicity, mutagenicity, and reproduction studies have not been conducted with TESSALON.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in children below the age of 10 have not been established. Accidental ingestion resulting in death has been reported in children below age 10. Keep out of reach of children.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+   Hypersensitivity
+
+
+
+  Severe hypersensitivity reactions (including bronchospasm, laryngospasm and cardiovascular collapse) have been reported which are possibly related to local anesthesia from sucking or chewing the capsule instead of swallowing it. Severe reactions have required intervention with vasopressor agents and supportive measures.
+
+
+
+    Psychiatric Effects
+
+
+
+  Isolated instances of bizarre behavior, including mental confusion and visual hallucinations, have also been reported in patients taking TESSALON in combination with other prescribed drugs.
+
+
+
+    Accidental Ingestion and Death in Children
+
+
+
+  Keep TESSALON out of reach of children. Accidental ingestion of TESSALON resulting in death has been reported in children below age 10. Signs and symptoms of overdose have been reported within 15-20 minutes and death has been reported within one hour of ingestion. If accidental ingestion occurs, seek medical attention immediately (see  OVERDOSAGE  ).
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="16" name="heading" section="S3" start="19" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="299" />
+    <IgnoredRegion len="19" name="heading" section="S3" start="370" />
+    <IgnoredRegion len="42" name="heading" section="S3" start="592" />
+    <IgnoredRegion len="18" name="heading" section="S2" start="1452" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="1477" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1780" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="1993" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2153" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

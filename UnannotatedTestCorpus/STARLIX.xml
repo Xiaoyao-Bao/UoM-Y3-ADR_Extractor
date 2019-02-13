@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="STARLIX">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6     ADVERSE REACTIONS
+
+  The following serious adverse reaction is also described elsewhere in the labeling:
+
+
+
+ *  Hypoglycemia [see Warnings and Precautions (5.1)]  
+   *  Common adverse reactions associated with STARLIX (3% or greater incidence) were upper respiratory tract infection, back pain, flu symptoms, dizziness, arthropathy, diarrhea. (  6.1  ) 
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact Novartis at 1-888-669-6682 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1     Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In clinical trials, approximately 2,600 patients with type 2 diabetes mellitus were treated with STARLIX. Of these, approximately 1,335 patients were treated for 6 months or longer and approximately 190 patients for one year or longer. Table 1 shows the most common adverse reactions associated with STARLIX.
+
+
+
+ Table 1: Adverse Reactions other than Hypoglycemia (%) occurring Greater than or Equal to 2% in STARLIX-Treated Patients from Pool of 12 to 64 week Placebo Controlled Trials 
+                                                       Placebo    N = 458         STARLIX    N = 1441       
+   Preferred Term                                     
+ Upper Respiratory Infection                         8.1                        10.5                        
+ Back Pain                                           3.7                        4.0                         
+ Flu Symptoms                                        2.6                        3.6                         
+ Dizziness                                           2.2                        3.6                         
+ Arthropathy                                         2.2                        3.3                         
+ Diarrhea                                            3.1                        3.2                         
+ Accidental Trauma                                   1.7                        2.9                         
+ Bronchitis                                          2.6                        2.7                         
+ Coughing                                            2.2                        2.4                         
+           Hypoglycemia  
+ 
+
+ Episodes of severe hypoglycemia (plasma glucose less than 36 mg/dL) were reported in two patients treated with STARLIX. Non-severe hypoglycemia occurred in 2.4 % of STARLIX treated patients and 0.4 % of placebo-treated patients  [see Warnings and Precautions (5.1)]  .
+
+
+
+   Weight Gain  
+
+
+
+ Patients treated with STARLIX had statistically significant mean increases in weight compared to placebo. In clinical trials, the mean weight increases with STARLIX 60 mg (3 times daily) and STARLIX 120 mg (3 times daily) compared to placebo were 1.0 kg and 1.6 kg respectively.
+
+
+
+   Laboratory Test  
+
+
+
+   Increases in Uric Acid:  There were increases in mean uric acid levels for patients treated with STARLIX alone, STARLIX in combination with metformin, metformin alone, and glyburide alone. The respective differences from placebo were 0.29 mg/dL, 0.45 mg/dL, 0.28 mg/dL, and 0.19 mg/dL.
+
+
+
+   6.2     Postmarketing Experience
+
+  The following adverse reactions have been identified during post-approval use of STARLIX. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ *   Hypersensitivity Reactions: Rash, itching, and urticaria 
+ *   Hepatobiliary Disorders: Jaundice, cholestatic hepatitis, and elevated liver enzymes 
+</Section>
+    <Section id="S2" name="warnings and precautions">    5     WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Hypoglycemia: STARLIX may cause hypoglycemia. Administer before meals to reduce the risk of hypoglycemia. Skip the scheduled dose of STARLIX if a meal is skipped to reduce the risk of hypoglycemia. (  5.1  ) 
+ *   Macrovascular Outcomes: There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with STARLIX. (  5.2  ) 
+    
+ 
+
+   5.1     Hypoglycemia
+
+
+
+  All glinides, including STARLIX, can cause hypoglycemia [see Adverse Reactions (6.1)  ]. Severe hypoglycemia can cause seizures, may be life-threatening, or cause death. Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
+
+
+
+ Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual. Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes, in patients with diabetic neuropathy (nerve disease), in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7)]  , or in patients who experience recurrent hypoglycemia.
+
+
+
+ Factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content), changes in level of physical activity, changes to coadministered medication [see Drug Interactions (7)], and concomitant use with other antidiabetic agents. Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7), Clinical Pharmacology (12.3)]  .
+
+
+
+ Patients should take STARLIX before meals and be instructed to skip the dose of STARLIX if a meal is skipped [see Dosage and Administration (2)]  . Patients and caregivers must be educated to recognize and manage hypoglycemia. Self-monitoring of blood glucose plays an essential role in the prevention and management of hypoglycemia. In patients at higher risk for hypoglycemia and patients who have reduced symptomatic awareness of hypoglycemia, increased frequency of blood glucose monitoring is recommended.
+
+
+
+    5.2     Macrovascular Outcomes
+
+
+
+  There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with STARLIX.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="23" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="30" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="385" name="excerpt" section="S2" start="40" />
+    <IgnoredRegion len="144" name="excerpt" section="S1" start="370" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="432" />
+    <IgnoredRegion len="34" name="heading" section="S1" start="518" />
+    <IgnoredRegion len="30" name="heading" section="S2" start="2252" />
+    <IgnoredRegion len="32" name="heading" section="S1" start="3381" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="NIACOR">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+    Cardiovascular  : Atrial fibrillation and other cardiac arrhythmias, orthostasis, hypotension.
+
+
+
+   Gastrointestinal  : Dyspepsia, vomiting, diarrhea, peptic ulceration, jaundice, abnormal liver function tests.
+
+
+
+   Skin  : Mild to severe cutaneous flushing, pruritus, hyperpigmentation, acanthosis nigricans, dry skin.
+
+
+
+   Metabolic  : Decreased glucose tolerance, hyperuricemia, gout.
+
+
+
+   Eye  : Toxic amblyopia, cystoid macular edema.
+
+
+
+   Nervous System / Psychiatric  : Headache.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  Before instituting therapy with nicotinic acid, an attempt should be made to control hyperlipidemia with appropriate diet, exercise, and weight reduction in obese patients, and to treat other underlying medical problems [see   INDICATIONS AND USAGE    ].  
+
+
+
+ Patients with a past history of jaundice, hepatobiliary disease, or peptic ulcer should be observed closely during nicotinic acid therapy. Frequent monitoring of liver function tests and blood glucose should be performed to ascertain that the drug is producing no adverse effects on these organ systems. Diabetic patients may experience a dose-related rise in glucose intolerance, the clinical significance of which is unclear. Diabetic or potentially diabetic patients should be observed closely. Adjustment of diet and/or hypoglycemic therapy may be necessary.
+
+
+
+ Caution should also be used when nicotinic acid is used in patients with unstable angina or in the acute phase of myocardial infarction, particularly when such patients are also receiving vasoactive drugs such as nitrates, calcium channel blockers, or adrenergic blocking agents.
+
+
+
+ Elevated uric acid levels have occurred with nicotinic acid therapy, therefore use with caution in patients predisposed to gout.
+
+
+
+    Drug Interactions
+
+
+
+   HMG-CoA Reductase Inhibitors
+
+
+
+  See   WARNINGS, Skeletal Muscle    .
+
+
+
+    Antihypertensive Therapy
+
+
+
+  Nicotinic acid may potentiate the effects of ganglionic blocking agents and vasoactive drugs resulting in postural hypotension.
+
+
+
+    Aspirin
+
+
+
+  Concomitant aspirin may decrease the metabolic clearance of nicotinic acid. The clinical relevance of this finding is unclear.
+
+
+
+    Other
+
+
+
+  Concomitant alcohol or hot drinks may increase the side effects of flushing and pruritus and should be avoided at the time of drug ingestion.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Nicotinic acid administered to mice for a lifetime as a 1% solution in drinking water was not carcinogenic. The mice in this study received approximately 6 to 8 times a human dose of 3,000 milligrams/day as determined on a milligram/square meter basis. Nicotinic acid was negative for mutagenicity in the Ames test. No studies on impairment of fertility have been performed.
+
+
+
+    Pregnancy
+
+
+
+   Pregnancy Category C
+
+
+
+  Animal reproduction studies have not been conducted with nicotinic acid. It is also not known whether nicotinic acid at doses typically used for lipid disorders can cause fetal harm when administered to pregnant women or whether it can affect reproductive capacity. If a woman receiving nicotinic acid for primary hypercholesterolemia (Types IIa or IIb) becomes pregnant, the drug should be discontinued. If a woman being treated with nicotinic acid for hypertriglyceridemia (Types IV or V) conceives, the benefits and risks of continued drug therapy should be assessed on an individual basis.
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from lipid-altering doses of nicotinic acid, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in children and adolescents have not been established.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+   Liver Dysfunction
+
+
+
+   Cases of severe hepatic toxicity, including fulminant hepatic necrosis have occurred in patients who have substituted sustained-release (modified-release, timed-release) nicotinic acid products for immediate-release (crystalline) nicotinic acid at equivalent doses.  
+
+
+
+ Liver function tests should be performed on all patients during therapy with nicotinic acid. Serum transaminase levels, including ALT (SGPT), should be monitored before treatment begins, every six weeks to twelve weeks for the first year, and periodically thereafter (e.g., at approximately 6 month intervals). Special attention should be paid to patients who develop elevated serum transaminase levels, and in these patients, measurements should be repeated promptly and then performed more frequently. If the transaminase levels show evidence of progression, particularly if they rise to three times the upper limit of normal and are persistent, the drug should be discontinued. Liver biopsy should be considered if elevations persist beyond discontinuation of the drug.
+
+
+
+ Nicotinic acid should be used with caution in patients who consume substantial quantities of alcohol and/or have a past history of liver disease. Active liver diseases or unexplained transaminase elevations are contraindications to the use of nicotinic acid.
+
+
+
+    Skeletal Muscle
+
+
+
+  Rare cases of rhabdomyolysis have been associated with concomitant administration of lipid-altering doses (&gt;=1 g/day) of nicotinic acid and HMG-CoA reductase inhibitors. Physicians contemplating combined therapy with HMG-CoA reductase inhibitors and nicotinic acid should carefully weigh the potential benefits and risks and should carefully monitor patients for any signs and symptoms of muscle pain, tenderness, or weakness, particularly during the initial months of therapy and during any periods of upward dosage titration of either drug. Periodic serum creatine phosphokinase (CPK) and potassium determinations should be considered in such situations, but there is no assurance that such monitoring will prevent the occurrence of severe myopathy.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="17" name="heading" section="S3" start="19" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="1283" />
+    <IgnoredRegion len="28" name="heading" section="S2" start="1307" />
+    <IgnoredRegion len="15" name="heading" section="S3" start="1358" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="1385" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="1550" />
+    <IgnoredRegion len="5" name="heading" section="S2" start="1697" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="1857" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="2297" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="2313" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="2940" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="3345" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

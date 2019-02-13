@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="FLUORESCITE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+    Skin and Urine Discoloration  The most common reaction is temporary yellowish discoloration of the skin and urine. Urine may attain a bright yellow color. Discoloration of the skin usually fades in 6 to 12 hours and usually fades in urine in 24 to 36 hours.
+
+
+
+   Gastrointestinal Reactions  Nausea, vomiting, and gastrointestinal distress are common adverse events. A strong taste may develop after injection.
+
+
+
+   Hypersensitivity Reactions  Symptoms and signs of hypersensitivity have occurred. Generalized hives and itching, bronchospasm and anaphylaxis have been reported.  Rare cases of death have been reported.  [see  Contraindications (4.1)  and  Warnings and Precautions (5.1)  ].  
+
+
+
+   Cardiopulmonary Reactions  Cardiac arrest, basilar artery ischemia, severe shock and death may occur rarely.
+
+
+
+   Neurologic Reactions  Headache may occur. Convulsions and syncope may rarely occur following injection.
+
+
+
+   Thrombophlebitis  Thrombophlebitis at the injection site has been reported. Extravasation of the solution at the injection site causes intense pain at the site and a dull aching pain in the injected arm.  [see  Administration (2.3)  and  Warnings and Precautions (5.2)  ].  
+
+
+
+   EXCERPT:   The most common adverse reactions include skin discoloration, urine discoloration, nausea, vomiting, and gastrointestinal distress.  (6)  
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Alcon Laboratories,Inc. at 1-800-757-9195 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.  
+
+
+
+ 
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+     EXCERPT:   Respiratory reactions may require intervention.  (5.1)    Severe local tissue damage can occur with extravasation during injection.  (5.2)  Nausea and/or vomiting may occur within minutes following injection.  (5.3)  
+ 
+
+ 
+
+
+
+   5.1 Respiratory Reactions
+
+
+
+  Caution is to be exercised in patients with a history of allergy or bronchial asthma. An emergency tray should be available in the event of possible reaction to FLUORESCITE  (r)  Injection 10%.
+
+
+
+ If a potential allergy is suspected, an intradermal skin test may be performed prior to intravenous administration, i.e., 0.05 mL injected intradermally to be evaluated 30 to 60 minutes following injection. Given the sensitivity and specificity of skin testing, a negative skin test is not proof that a patient is not allergic to fluorescein.
+
+
+
+    5.2 Severe Local Tissue Damage
+
+
+
+  Care must be taken to avoid extravasation during injection as the high pH of fluorescein solution can result in severe local tissue damage.  The following complications resulting from extravasation of fluorescein have been noted to occur: severe pain in the arm for several hours, sloughing of the skin, superficial phlebitis, subcutaneous granuloma, and toxic neuritis along the median curve in the antecubital area. When significant extravasation occurs, the injection should be discontinued and conservative measures to treat damaged tissue and to relieve pain should be implemented. [see  Administration (2.3)  and  Adverse Reactions(6)  ].  
+
+
+
+    5.3 Nausea and/or Vomiting
+
+
+
+  Nausea and/or vomiting and gastrointestinal distress occur commonly within the first few minutes following injection.  These reactions usually subside within 10 minutes.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="234" name="excerpt" section="S2" start="38" />
+    <IgnoredRegion len="25" name="heading" section="S2" start="279" />
+    <IgnoredRegion len="30" name="heading" section="S2" start="858" />
+    <IgnoredRegion len="303" name="excerpt" section="S1" start="1234" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="1548" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

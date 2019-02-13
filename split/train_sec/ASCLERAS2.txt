@@ -1,0 +1,39 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Be prepared to treat anaphylaxis. (  5.1  ) 
+ *  Do not inject intra-arterially. (  5.2  ) 
+ *  Do not inject intra-perivascularily. (  5.3  ) 
+    
+ 
+
+   5.1 Anaphylaxis
+
+
+
+   Severe  allergic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  have been reported following polidocanol use, including  anaphylactic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE , some of them  fatal≠B-NonOSE_AE . Severe reactions are more frequent with use of larger volumes (> 3 mL). The dose of polidocanol should therefore be minimized. Be prepared to treat  anaphylaxis≠B-NonOSE_AE  appropriately.  
+
+
+
+ Severe  adverse≠B-NonOSE_AE   local≠I-NonOSE_AE   effects≠I-NonOSE_AE , including  tissue≠B-NonOSE_AE   necrosis≠I-NonOSE_AE , may occur following  extravasation≠B-NonOSE_AE ; therefore, care should be taken in intravenous needle placement and the smallest effective volume at each injection site should be used.
+
+
+
+ After the injection session is completed, apply compression with a stocking or bandage, and have the patient walk for 15-20 minutes. Keep the patient under supervision during this period to treat any  anaphylactic≠B-NonOSE_AE  or  allergic≠B-NonOSE_AE   reaction≠I-NonOSE_AE  (see  Dosage and Administration [2]  )  .
+
+
+
+    5.2 Accidental Intra-arterial Injection
+
+
+
+   Intra≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  arterial≠I-OSE_Labeled_AE   injection≠I-OSE_Labeled_AE  can cause severe  necrosis≠B-NonOSE_AE ,  ischemia≠B-NonOSE_AE  or  gangrene≠B-NonOSE_AE . If this occurs consult a vascular surgeon immediately.
+
+
+
+    5.3 Inadvertent Perivascular Injection
+
+
+
+   Inadvertent≠B-OSE_Labeled_AE   perivascular≠I-OSE_Labeled_AE   injection≠I-OSE_Labeled_AE  of Asclera can cause  pain≠B-NonOSE_AE . If  pain≠B-NonOSE_AE  is severe, a local anesthetic (without adrenaline) may be injected.

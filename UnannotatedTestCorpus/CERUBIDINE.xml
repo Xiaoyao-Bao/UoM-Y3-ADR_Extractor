@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CERUBIDINE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Dose-limiting toxicity includes myelosuppression and cardiotoxicity (See  WARNINGS  ). Other reactions include:
+
+
+
+   Cutaneous
+
+  Reversible alopecia occurs in most patients. Rash, contact dermatitis and urticaria have occurred rarely.
+
+
+
+   Gastrointestinal
+
+  Acute nausea and vomiting occur but are usually mild. Antiemetic therapy may be of some help. Mucositis may occur 3 to 7 days after administration. Diarrhea and abdominal pain have occasionally been reported.
+
+
+
+   Local
+
+  If extravasation occurs during administration, severe local tissue necrosis, severe cellulitis, thrombophlebitis, or painful induration can result.
+
+
+
+   Acute Reactions
+
+  Rarely, anaphylactoid reaction, fever, and chills can occur. Hyperuricemia may occur, especially in patients with leukemia, and serum uric acid levels should be monitored.
+</Section>
+    <Section id="S2" name="boxed warnings">
+
+    BOXED WARNING: 
+
+    Rx ONLY  
+
+
+
+   
+
+    WARNING   
+
+
+
+ *  1.Cerubidine must be given into a rapidly flowing intravenous infusion. It must never be given by the intramuscular or subcutaneous route. Severe local tissue necrosis will occur if there is extravasation during administration. 
+ *  2.Myocardial toxicity manifested in its most severe form by potentially fatal congestive heart failure may occur either during therapy or months to years after termination of therapy. The incidence of myocardial toxicity increases after a total cumulative dose exceeding 400 to 550 mg/m2 in adults, 300 mg/m2 in children more than 2 years of age, or 10 mg/kg in children less than 2 years of age. 
+ *  3.Severe myelosuppression occurs when used in therapeutic doses; this may lead to infection or hemorrhage. 
+ *  4.It is recommended that Cerubidine be administered only by physicians who are experienced in leukemia chemotherapy and in facilities with laboratory and supportive resources adequate to monitor drug tolerance and protect and maintain a patient compromised by drug toxicity. The physician and institution must be capable of responding rapidly and completely to severe hemorrhagic conditions and/or overwhelming infection. 
+ *  5.Dosage should be reduced in patients with impaired hepatic or renal function. 
+</Section>
+    <Section id="S3" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  Therapy with Cerubidine requires close patient observation and frequent complete blood-count determinations. Cardiac, renal, and hepatic function should be evaluated prior to each course of treatment.
+
+
+
+ Appropriate measures must be taken to control any systemic infection before beginning therapy with Cerubidine.
+
+
+
+ Cerubidine may transiently impart a red coloration to the urine after administration, and patients should be advised to expect this.
+
+
+
+    Laboratory Tests
+
+
+
+  Cerubidine may induce hyperuricemia secondary to rapid lysis of leukemic renal cells. As a precaution, allopurinol administration is usually begun prior to initiating antileukemic therapy. Blood uric acid levels should be monitored and appropriate therapy initiated in the event that hyperuricemia develops.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Cerubidine, when injected subcutaneously into mice, causes fibrosarcomas to develop at the injection site. When administered to mice thrice weekly intraperitoneally, no carcinogenic effect was noted after 18 months of observation. In male rats administered Cerubidine thrice weekly for 6 months, at 1/70th the recommended human dose on a body surface area basis, peritoneal sarcomas were found at 18 months. A single IV dose of Cerubidine administered to rats at 1.6 fold the recommended human dose on a body surface area basis caused mammary adenocarcinomas to appear at 1 year. Cerubidine was mutagenic in vitro  (Ames assay, V79 hamster cell assay), and clastogenic in vitro  (CCRFCEM human lymphoblasts) and in vivo  (SCE assay in mouse bone marrow) tests.
+
+
+
+ In male dogs at a daily dose of 0.25 mg/kg administered intravenously, testicular atrophy was noted at autopsy. Histologic examination revealed total aplasia of the spermatocyte series in the seminiferous tubules with complete aspermatogenesis.
+
+
+
+    Pregnancy Category D
+
+
+
+  (See  WARNINGS  )
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from Cerubidine, mothers should be advised to discontinue nursing during Cerubidine therapy.
+
+
+
+    Elderly
+
+
+
+  See  CLINICAL PHARMACOLOGY  ,  Special Populations  ,  Geriatric Patients  .
+
+
+
+    Pediatric Use
+
+
+
+  See  CLINICAL PHARMACOLOGY  ,  Special Populations  ,  Pediatric Patients  and  WARNINGS  ,  Cardiac Effects  .
+
+
+
+    Drug Interactions
+
+
+
+  Use of Cerubidine in a patient who has previously received doxorubicin increases the risk of cardiotoxicity. Cerubidine should not be used in patients who have previously received the recommended maximum cumulative doses of doxorubicin or Cerubidine. Cyclophosphamide used concurrently with Cerubidine may also result in increased cardiotoxicity.
+
+
+
+ Dosage reduction of Cerubidine may be required when used concurrently with other myelosuppressive agents.
+
+
+
+ Hepatotoxic medications, such as high-dose methotrexate, may impair liver function and increase the risk of toxicity.
+</Section>
+    <Section id="S4" name="warnings">    WARNINGS
+
+
+
+   Bone Marrow
+
+
+
+  Cerubidine is a potent bone marrow suppressant. Suppression will occur in all patients given a therapeutic dose of this drug. Therapy with Cerubidine should not be started in patients with pre-existing drug-induced bone marrow suppression unless the benefit from such treatment warrants the risk. Persistent, severe myelosuppression may result in superinfection or hemorrhage.
+
+
+
+    Cardiac Effects
+
+
+
+  Special attention must be given to the potential cardiac toxicity of Cerubidine, particularly in infants and children. Pre-existing heart disease and previous therapy with doxorubicin are co-factors of increased risk of Cerubidine-induced cardiac toxicity and the benefit-to-risk ratio of Cerubidine therapy in such patients should be weighed before starting Cerubidine. In adults, at total cumulative doses less than 550 mg/m  2  , acute congestive heart failure is seldom encountered. However, rare instances of pericarditis-myocarditis, not dose-related, have been reported.
+
+
+
+ In adults, at cumulative doses exceeding 550 mg/m  2  , there is an increased incidence of drug-induced congestive heart failure. Based on prior clinical experience with doxorubicin, this limit appears lower, namely 400 mg/m  2  , in patients who received radiation therapy that encompassed the heart.
+
+
+
+ In infants and children, there appears to be a greater susceptibility to anthracycline-induced cardiotoxicity compared to that in adults, which is more clearly dose-related. Anthracycline therapy (including daunorubicin) in pediatric patients has been reported to produce impaired left ventricular systolic performance, reduced contractility, congestive heart failure or death. These conditions may occur months to years following cessation of chemotherapy. This appears to be dose-dependent and aggravated by thoracic irradiation. Long-term periodic evaluation of cardiac function in such patients should, thus, be performed. In both children and adults, the total dose of Cerubidine administered should also take into account any previous or concomitant therapy with other potentially cardiotoxic agents or related compounds such as doxorubicin.
+
+
+
+ There is no absolutely reliable method of predicting the patients in whom acute congestive heart failure will develop as a result of the cardiac toxic effect of Cerubidine. However, certain changes in the electrocardiogram and a decrease in the systolic ejection fraction from pre-treatment baseline may help to recognize those patients at greatest risk to develop congestive heart failure. On the basis of the electrocardiogram, a decrease equal to or greater than 30% in limb lead QRS voltage has been associated with a significant risk of drug-induced cardiomyopathy. Therefore, an electrocardiogram and/or determination of systolic ejection fraction should be performed before each course of Cerubidine. In the event that one or the other of these predictive parameters should occur, the benefit of continued therapy must be weighed against the risk of producing cardiac damage.
+
+
+
+ Early clinical diagnosis of drug-induced congestive heart failure appears to be essential for successful treatment.
+
+
+
+    Evaluation of Hepatic and Renal Function
+
+
+
+  Significant hepatic or renal impairment can enhance the toxicity of the recommended doses of Cerubidine; therefore, prior to administration, evaluation of hepatic function and renal function using conventional clinical laboratory tests is recommended (See  DOSAGE AND ADMINISTRATION  ).
+
+
+
+    Pregnancy
+
+
+
+  Cerubidine may cause fetal harm when administered to a pregnant woman. An increased incidence of fetal abnormalities (parieto-occipital cranioschisis, umbilical hernias, or rachischisis) and abortions was reported in rabbits at doses of 0.05 mg/kg/day or approximately 1/100th of the highest recommended human dose on a body surface area basis. Rats showed an increased incidence of esophageal, cardiovascular and urogenital abnormalities as well as rib fusions at doses of 4 mg/kg/day or approximately 1/2 the human dose on a body surface area basis. Decreases in fetal birth weight and post-delivery growth rate were observed in mice. There are no adequate and well-controlled studies in pregnant women. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus. Women of childbearing potential should be advised to avoid becoming pregnant.
+
+
+
+    Secondary Leukemias
+
+
+
+  There have been reports of secondary leukemias in patients exposed to topoisomerase II inhibitors when used in combination with other antineoplastic agents or radiation therapy.
+
+
+
+    Extravasation at Injection Site
+
+
+
+  Extravasation of Cerubidine at the site of intravenous administration can cause severe local tissue necrosis. (See  ADVERSE REACTIONS  )
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S4" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S4" start="19" />
+    <IgnoredRegion len="7" name="heading" section="S3" start="22" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="43" />
+    <IgnoredRegion len="9" name="heading" section="S1" start="143" />
+    <IgnoredRegion len="16" name="heading" section="S1" start="268" />
+    <IgnoredRegion len="15" name="heading" section="S4" start="420" />
+    <IgnoredRegion len="16" name="heading" section="S3" start="495" />
+    <IgnoredRegion len="5" name="heading" section="S1" start="503" />
+    <IgnoredRegion len="15" name="heading" section="S1" start="666" />
+    <IgnoredRegion len="52" name="heading" section="S3" start="832" />
+    <IgnoredRegion len="20" name="heading" section="S3" start="1907" />
+    <IgnoredRegion len="15" name="heading" section="S3" start="1958" />
+    <IgnoredRegion len="7" name="heading" section="S3" start="2264" />
+    <IgnoredRegion len="13" name="heading" section="S3" start="2361" />
+    <IgnoredRegion len="17" name="heading" section="S3" start="2499" />
+    <IgnoredRegion len="40" name="heading" section="S4" start="3191" />
+    <IgnoredRegion len="9" name="heading" section="S4" start="3531" />
+    <IgnoredRegion len="19" name="heading" section="S4" start="4504" />
+    <IgnoredRegion len="31" name="heading" section="S4" start="4714" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="LUZU">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions observed in clinical trials were application site reactions, which occurred in less than 1% of subjects. (  6.1  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice.
+
+
+
+ In three Phase 3 clinical trials, 616 subjects were exposed to LUZU Cream, 1%: 305 with interdigital tinea pedis and 311 subjects with tinea cruris. Subjects with interdigital tinea pedis or tinea cruris applied LUZU Cream, 1% or vehicle cream once daily for 14 days or 7 days, respectively, to affected and adjacent areas. During clinical trials with LUZU Cream, 1%, the most common adverse reactions were application site reactions which occurred in less than 1% of subjects in both the LUZU and vehicle arms. Most adverse reactions were mild in severity.
+
+
+
+   6.2 Post-Marketing Experience
+
+  The following adverse reactions have been identified during postmarketing use of luliconazole cream, 1%: contact dermatitis and cellulitis. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="331" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="361" />
+    <IgnoredRegion len="29" name="heading" section="S1" start="1228" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

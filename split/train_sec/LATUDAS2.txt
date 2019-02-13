@@ -1,0 +1,25 @@
+
+
+    BOXED WARNING: WARNINGS: INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS; AND SUICIDAL THOUGHTS AND BEHAVIORS
+
+
+
+  WARNINGS: INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS; AND SUICIDAL THOUGHTS AND BEHAVIORS
+
+
+
+    *  Elderly patients with  dementia≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  related≠I-Not_AE_Candidate   psychosis≠I-Not_AE_Candidate  treated with antipsychotic drugs are at an increased risk of  death≠B-NonOSE_AE  [see Warnings and Precautions (5.1 )]. 
+ *  LATUDA is not approved for use in patients with  dementia≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  related≠I-Not_AE_Candidate   psychosis≠I-Not_AE_Candidate  [see Warnings and Precautions (5.1 )]. 
+ *  Antidepressants increased the risk of  suicidal≠B-OSE_Labeled_AE   thoughts≠I-OSE_Labeled_AE  and behavior in children, adolescents, and young adults in short-term studies. These studies did not show an increase in the risk of  suicidal≠B-NonOSE_AE   thoughts≠I-NonOSE_AE  and behavior with antidepressant use in patients over age 24; there was a reduction in risk with antidepressant use in patients aged 65 and older [see Warnings and Precautions (5.2)]. 
+ *  In patients of all ages who are started on antidepressant therapy, monitor closely for worsening, and for emergence of  suicidal≠B-NonOSE_AE  thoughts and  behaviors≠I-NonOSE_AE . Advise families and caregivers of the need for close observation and communication with the prescriber [see Warnings and Precautions (5.2)]. 
+      EXCERPT:     WARNINGS:    INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS; AND SUICIDAL THOUGHTS AND BEHAVIORS  
+ 
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+ *  Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. 
+ *  LATUDA is not approved for the treatment of patients with dementia-related psychosis (5.1). 
+ *  Increased risk of suicidal thinking and behavior in children, adolescents, and young adults taking antidepressants (5.2) 
+ *  Monitor for worsening and emergence of suicidal thoughts and behaviors (5.2) 

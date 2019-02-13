@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ERYTHROMYCIN_AND_BENZOYL_PEROXIDE">
+  <Text>
+    <Section id="S1" name="adverse reactions">      ADVERSE REACTIONS  
+
+  In controlled clinical trials, the incidence of adverse reactions associated with the use of erythromycin and benzoyl peroxide topical gel USP, 3%;5% was approximately 3%. These were dryness and urticarial reaction.
+
+
+
+ The following additional local adverse reactions have been reported occasionally: irritation of the skin including peeling, itching, burning sensation, erythema, inflammation of the face, eyes and nose, and irritation of the eyes. Skin discoloration, oiliness and tenderness of the skin have also been reported.
+</Section>
+    <Section id="S2" name="precautions">     PRECAUTIONS  
+
+
+
+    General  
+
+
+
+  For topical use only; not for ophthalmic use. Concomitant topical acne therapy should be used with caution because a possible cumulative irritancy effect may occur, especially with the use of peeling, desquamating or abrasive agents. If severe irritation develops, discontinue use and institute appropriate therapy.
+
+
+
+ The use of antibiotic agents may be associated with the overgrowth of nonsusceptible organisms including fungi. If this occurs, discontinue use and take appropriate measures.
+
+
+
+ Avoid contact with eyes and all mucous membranes.
+
+
+
+     Information for Patients  
+
+
+
+  Patients using erythromycin and benzoyl peroxide topical gel USP, 3%;5% should receive the following information and instructions.
+
+
+
+ *  This medication is to be used as directed by the physician. It is for external use only. Avoid contact with the eyes, nose, mouth, and all mucous membranes. 
+ *  This medication should not be used for any disorder other than that for which it was prescribed. 
+ *  Patients should not use any other topical acne preparation unless otherwise directed by physician. 
+ *  Patients should report to their physician any signs of local adverse reactions. 
+ *  Erythromycin and benzoyl peroxide topical gel USP, 3%;5% may bleach hair or colored fabric. 
+ *  Keep product refrigerated and discard after 3 months. 
+        Carcinogenesis, Mutagenesis, Impairment of Fertility  
+ 
+
+  Data from a study using mice known to be highly susceptible to cancer suggests that benzoyl peroxide acts as a tumor promoter. The clinical significance of this is unknown.
+
+
+
+ No animal studies have been performed to evaluate the carcinogenic and mutagenic potential or effects on fertility of topical erythromycin. However, long-term (2-year) oral studies in rats with erythromycin ethylsuccinate and erythromycin base did not provide evidence of tumorigenicity. There was no apparent effect on male or female fertility in rats fed erythromycin (base) at levels up to 0.25% of diet.
+
+
+
+     Pregnancy  
+
+
+
+    Teratogenic Effects  
+
+
+
+   Pregnancy CATEGORY C:  Animal reproduction studies have not been conducted with erythromycin and benzoyl peroxide topical gel USP, 3%;5% or benzoyl peroxide.
+
+
+
+ There was no evidence of teratogenicity or any other adverse effect on reproduction in female rats fed erythromycin base (up to 0.25% diet) prior to and during mating, during gestation and through weaning of two successive litters.
+
+
+
+ There are no well-controlled trials in pregnant women with erythromycin and benzoyl peroxide topical gel USP, 3%;5%. It also is not known whether erythromycin and benzoyl peroxide topical gel USP, 3%;5% can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity. Erythromycin and benzoyl peroxide topical gel USP, 3%;5% should be given to a pregnant woman only if clearly needed.
+
+
+
+     Nursing Mothers  
+
+
+
+  It is not known whether erythromycin and benzoyl peroxide topical gel USP, 3%;5% is excreted in human milk after topical application. However, erythromycin is excreted in human milk following oral and parenteral erythromycin administration. Therefore, caution should be exercised when erythromycin is administered to a nursing woman.
+
+
+
+     Pediatric Use  
+
+
+
+  Safety and effectiveness of this product in pediatric patients below the age of 12 have not been established.
+</Section>
+    <Section id="S3" name="warnings">     WARNINGS  
+
+
+
+   Pseudomembranous colitis has been reported with nearly all antibacterial agents, including erythromycin, and may range in severity from mild to life-threatening. Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.  
+
+
+
+ Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia. Studies indicate that a toxin produced by Clostridium difficile  is one primary cause of "antibiotic-associated colitis."
+
+
+
+ After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated. Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone. In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation and treatment with an antibacterial drug clinically effective against C. difficile  colitis.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="21" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="10" name="heading" section="S2" start="25" />
+    <IgnoredRegion len="27" name="heading" section="S2" start="597" />
+    <IgnoredRegion len="55" name="heading" section="S2" start="1380" />
+    <IgnoredRegion len="12" name="heading" section="S2" start="2033" />
+    <IgnoredRegion len="22" name="heading" section="S2" start="2052" />
+    <IgnoredRegion len="18" name="heading" section="S2" start="2902" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="3267" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,283 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Suicidality: Monitor for worsening of depressive symptoms and suicide risk (  5.1  ). 
+ *    Serotonin Syndrome: Serotonin syndrome has been reported with SSRIs and SNRIs, including Savella, both when taken alone, but especially when co-administered with other serotonergic agents (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone and St. John's Wort). If such symptoms occur, discontinue Savella and initiate supportive treatment. If concomitant use of Savella with other serotonergic drugs is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment and dose increases (  5.2  ). 
+ *    Elevated blood pressure and heart rate: Savella may increase blood pressure and heart rate. In an ambulatory blood pressure monitoring study, a substantially higher proportion of Savella-treated patients experienced clinically significant blood pressure and heart rate elevations as compared with placebo-treated patients. Measure blood pressure and heart rate prior to initiating treatment with Savella and monitor periodically throughout treatment (  5.3  ,  5.4  ). 
+ *    Seizures: Cases have been reported with Savella therapy. Prescribe Savella with care in patients with a history of seizure disorder (  5.5  ). 
+ *    Hepatotoxicity: More patients treated with Savella than with placebo experienced mild elevations of ALT and AST. Rarely, fulminant hepatitis has been reported in patients treated with Savella. Avoid concomitant use of Savella in patients with substantial alcohol use or chronic liver disease (  5.6  ). 
+ *    Discontinuation: Withdrawal symptoms have been reported in patients when discontinuing treatment with Savella. A gradual dose reduction is recommended (  5.7  ). 
+ *    Abnormal Bleeding: Savella may increase the risk of bleeding events. Caution patients about the risk of bleeding associated with the concomitant use of Savella and NSAIDs, aspirin, or other drugs that affect coagulation (  5.9  ). 
+ *    Male patients with a history of obstructive uropathies may experience higher rates of genitourinary adverse events (  5.11  ). 
+    
+ 
+
+   5.1 Suicide Risk
+
+
+
+  Savella is a selective serotonin and norepinephrine re-uptake inhibitor (SNRI), similar to some drugs used for the treatment of  depression≠B-Not_AE_Candidate  and other  psychiatric≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate .
+
+
+
+ Patients, both adult and pediatric, with  depression≠B-Not_AE_Candidate  or other  psychiatric≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate  may experience  worsening≠B-NonOSE_AE   of≠I-NonOSE_AE   their≠I-NonOSE_AE   depression≠I-NonOSE_AE  and/or the emergence of  suicidal≠B-NonOSE_AE   ideation≠I-NonOSE_AE  and behavior ( suicidality≠B-NonOSE_AE ) or  unusual≠B-NonOSE_AE   changes≠I-NonOSE_AE   in≠I-NonOSE_AE   behavior≠I-NonOSE_AE , whether or not they are taking these medications, and this risk may persist until significant remission occurs.  Suicide≠B-NonOSE_AE  is a known risk of  depression≠B-Not_AE_Candidate  and certain other  psychiatric≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate , and these disorders themselves are the strongest predictors of  suicide≠B-NonOSE_AE . There has been a long-standing concern, however, that antidepressants, including drugs that inhibit the reuptake of norepinephrine and/or serotonin, may have a role in inducing  worsening≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   depression≠I-OSE_Labeled_AE  and the emergence of  suicidality≠B-OSE_Labeled_AE  in certain patients during the early phases of treatment.
+
+
+
+ In the placebo-controlled clinical trials of adults with  fibromyalgia≠B-Not_AE_Candidate , among the patients who had a history of  depression≠B-Not_AE_Candidate  at treatment initiation, the incidence of  suicidal≠B-OSE_Labeled_AE   ideation≠I-OSE_Labeled_AE  was 0.5% in patients treated with placebo, 0% in patients treated with Savella 100 mg/day, and 1.3% in patients treated with Savella 200 mg/day. No  suicides≠B-NonOSE_AE  occurred in the short-term or longer-term (up to 1 year)  fibromyalgia≠B-Not_AE_Candidate  trials.
+
+
+
+ Pooled analyses of short-term placebo-controlled trials of drugs used to treat  depression≠B-Not_AE_Candidate  (SSRIs and others) showed that these drugs increase the risk of  suicidal≠B-OSE_Labeled_AE   thinking≠I-OSE_Labeled_AE  and behavior ( suicidality≠B-OSE_Labeled_AE ) in children, adolescents, and young adults (ages 18-24) with  major≠B-Not_AE_Candidate   depressive≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  MDD≠I-Not_AE_Candidate ) and other  psychiatric≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate . Short-term studies did not show an increase in the risk of  suicidality≠B-NonOSE_AE  with these drugs compared to placebo in adults beyond age 24; there was a reduction in  suicidality≠B-NonOSE_AE  risk with antidepressants compared to placebo in adults age 65 and older.
+
+
+
+ The pooled analyses of placebo-controlled trials in children and adolescents with  MDD≠B-Not_AE_Candidate ,  obsessive≠B-Not_AE_Candidate   compulsive≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  OCD≠I-Not_AE_Candidate ), or other  psychiatric≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate  included a total of 24 short-term trials of 9 drugs used to treat  depression≠B-Not_AE_Candidate  in over 4400 patients. The pooled analyses of placebo-controlled trials in adults with  MDD≠B-Not_AE_Candidate  or other  psychiatric≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate  included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
+
+
+
+ There was considerable variation in risk of  suicidality≠B-OSE_Labeled_AE  among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied. There were differences in absolute risk of  suicidality≠B-NonOSE_AE  across the different indications, with the highest incidence in  MDD≠B-Not_AE_Candidate . The risk of differences (drug versus placebo), however, were relatively stable within age strata and across indications. These risk differences (drug-placebo difference in the number of cases of  suicidality≠B-NonOSE_AE  per 1000 patients treated) are provided in   Table 1    .
+
+
+
+ Table 1: Risk Differences (Drug - Placebo) in the number of Cases of  Suicidality≠B-OSE_Labeled_AE , per 1000 patients treated 
+  Age Range         Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated    
+  < 18              14 additional cases                                                                   
+  18-24             5 additional cases                                                                    
+                    Decreases Compared to Placebo                                                         
+  25-64             1 fewer case                                                                          
+  >= 65             6 fewer cases                                                                         
+        No  suicides≠B-NonOSE_AE  occurred in any of the pediatric trials. There were  suicides≠B-NonOSE_AE  in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on  suicide≠B-NonOSE_AE .
+ 
+
+ It is unknown whether the  suicidality≠B-NonOSE_AE  risk extends to longer-term use, i.e., beyond several months.
+
+
+
+ However, there is substantial evidence from placebo-controlled maintenance trials in adults with  depression≠B-Not_AE_Candidate  that the use of antidepressants can delay the recurrence of  depression≠B-NonOSE_AE .
+
+
+
+  All patients being treated with drugs inhibiting the reuptake of norepinephrine and/or serotonin for any indication should be monitored appropriately and observed closely for clinical worsening,  suicidality≠B-NonOSE_AE , and  unusual≠B-NonOSE_AE   changes≠I-NonOSE_AE   in≠I-NonOSE_AE   behavior≠I-NonOSE_AE , especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases  .
+
+
+
+ The following symptoms,  anxiety≠B-OSE_Labeled_AE ,  agitation≠B-OSE_Labeled_AE ,  panic≠B-OSE_Labeled_AE   attacks≠I-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  irritability≠B-OSE_Labeled_AE ,  hostility≠B-OSE_Labeled_AE ,  aggressiveness≠B-OSE_Labeled_AE ,  impulsivity≠B-OSE_Labeled_AE ,  akathisia≠B-OSE_Labeled_AE  ( psychomotor≠B-OSE_Labeled_AE   restlessness≠I-OSE_Labeled_AE ),  hypomania≠B-OSE_Labeled_AE ,  mania≠B-OSE_Labeled_AE , have been reported in adult and pediatric patients being treated with drugs inhibiting the reuptake of norepinephrine and/or serotonin for  major≠B-Not_AE_Candidate   depressive≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate  as well as for other indications, both  psychiatric≠B-Not_AE_Candidate  and nonpsychiatric. Although a causal link between the emergence of such symptoms and either the  worsening≠B-NonOSE_AE   of≠I-NonOSE_AE   depression≠I-NonOSE_AE  and/or the emergence of  suicidal≠B-NonOSE_AE   impulses≠I-NonOSE_AE  has not been established, there is concern that such symptoms may represent precursors to emerging  suicidality≠B-NonOSE_AE .
+
+
+
+ Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients who may experience worsening  depressive≠B-NonOSE_AE   symptoms≠I-NonOSE_AE , or who are experiencing emergent  suicidality≠B-NonOSE_AE  or symptoms that might be precursors to worsening  depression≠B-NonOSE_AE  or  suicidality≠B-NonOSE_AE , especially if these symptoms are severe or abrupt in onset, or were not part of the patient's presenting symptoms.
+
+
+
+ If the decision has been made to discontinue treatment due to worsening  depressive≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  or emergent  suicidality≠B-NonOSE_AE , medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can produce  withdrawal≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  [see Dosage and Administration (  2.1  ,  2.4  ), and Warnings and Precautions (  5.7  )]  .
+
+
+
+  Families and caregivers of patients being treated with drugs inhibiting the reuptake of norepinephrine and/or serotonin for  major≠B-Not_AE_Candidate   depressive≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate  or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of  agitation≠B-NonOSE_AE ,  irritability≠B-NonOSE_AE ,  unusual≠B-NonOSE_AE   changes≠I-NonOSE_AE   in≠I-NonOSE_AE   behavior≠I-NonOSE_AE , and the other symptoms described above, as well as the emergence of  suicidality≠B-NonOSE_AE , and to report such symptoms immediately to health care providers. Such monitoring should include daily observation by families and caregivers. Prescriptions for Savella should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of  overdose≠B-NonOSE_AE .  
+
+
+
+    5.2 Serotonin Syndrome
+
+
+
+  The development of a potentially life-threatening  serotonin≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  has been reported with SNRIs and SSRIs, including Savella, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat  psychiatric≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate  and also others, such as linezolid and intravenous methylene blue).
+
+
+
+  Serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE  symptoms may include  mental≠B-NonOSE_AE   status≠I-NonOSE_AE   changes≠I-NonOSE_AE  (e.g.,  agitation≠B-NonOSE_AE ,  hallucinations≠B-NonOSE_AE ,  delirium≠B-NonOSE_AE , and  coma≠B-NonOSE_AE ),  autonomic≠B-NonOSE_AE   instability≠I-NonOSE_AE  (e.g.,  tachycardia≠B-NonOSE_AE ,  labile≠B-NonOSE_AE   blood≠I-NonOSE_AE   pressure≠I-NonOSE_AE ,  dizziness≠B-NonOSE_AE ,  diaphoresis≠B-NonOSE_AE ,  flushing≠B-NonOSE_AE ,  hyperthermia≠B-NonOSE_AE ),  neuromuscular≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  (e.g.,  tremor≠B-NonOSE_AE ,  rigidity≠B-NonOSE_AE ,  myoclonus≠B-NonOSE_AE ,  hyperreflexia≠B-NonOSE_AE ,  incoordination≠B-NonOSE_AE ),  seizures≠B-NonOSE_AE , and/or  gastrointestinal≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  (e.g.,  nausea≠B-NonOSE_AE ,  vomiting≠B-NonOSE_AE ,  diarrhea≠B-NonOSE_AE ). Patients should be monitored for the emergence of  serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE .
+
+
+
+ The concomitant use of Savella with MAOIs intended to treat  psychiatric≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate  is contraindicated. Savella should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue. All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg. No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses. There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking Savella. Savella should be discontinued before initiating treatment with the MAOI [see Contraindications (  4.1  ), Dosage and Administration (  2.5  ,  2.6  )].  
+
+
+
+ If concomitant use of Savella with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for  serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE , particularly during treatment initiation and dose increases.
+
+
+
+ Treatment with Savella and any concomitant serotonergic agents should be discontinued immediately if the above events occur, and supportive symptomatic treatment should be initiated.
+
+
+
+    5.3 Elevated Blood Pressure
+
+
+
+  A double-blind, placebo-controlled ambulatory blood pressure monitoring (ABPM) study was conducted to evaluate the effects of milnacipran (up to 200 mg/day) on blood pressure in 321  fibromyalgia≠B-Not_AE_Candidate  patients. Among  fibromyalgia≠B-Not_AE_Candidate  patients who were normotensive at baseline, an analysis of the blood pressure findings demonstrated a substantially higher proportion of Savella-treated patients had a  hypertensive≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE  measurement at the Week 4, 50 mg BID steady state visit (17.7% [n=21/119]) and the Week 7, 100 mg BID steady state visit (14.3% [n=15/105]) as compared to placebo-treated patients (3.7% [n=2/54] and 0% [0/49] at the Week 4 and Week 7 visits, respectively).  Hypertension≠B-NonOSE_AE  was defined as  mean≠B-NonOSE_AE   systolic≠I-NonOSE_AE   blood≠I-NonOSE_AE   pressure≠I-NonOSE_AE  (SBP)  >≠I-NonOSE_AE  =≠I-NonOSE_AE  1≠I-NonOSE_AE  4≠I-NonOSE_AE  0≠I-NonOSE_AE   mmHg≠I-NonOSE_AE  and  change≠B-NonOSE_AE   from≠I-NonOSE_AE   baseline≠I-NonOSE_AE   in≠I-NonOSE_AE   mean≠I-NonOSE_AE   SBP≠I-NonOSE_AE   >≠I-NonOSE_AE  =≠I-NonOSE_AE  1≠I-NonOSE_AE  0≠I-NonOSE_AE   mmHg≠I-NonOSE_AE  or  mean≠B-NonOSE_AE   diastolic≠I-NonOSE_AE   blood≠I-NonOSE_AE   pressure≠I-NonOSE_AE   (≠I-NonOSE_AE  DBP≠I-NonOSE_AE  )≠I-NonOSE_AE   >≠I-NonOSE_AE  =≠I-NonOSE_AE  9≠I-NonOSE_AE  0≠I-NonOSE_AE   mmHg≠I-NonOSE_AE  and  change≠B-NonOSE_AE   from≠I-NonOSE_AE   baseline≠I-NonOSE_AE   in≠I-NonOSE_AE   mean≠I-NonOSE_AE   DBP≠I-NonOSE_AE   >≠I-NonOSE_AE  =≠I-NonOSE_AE  5≠I-NonOSE_AE   mmHg≠I-NonOSE_AE  for the 12-hour period post AM study drug measurement at that visit. Furthermore, 1.9% (4/210) of Savella-treated and 0.9% (1/111) of placebo patients discontinued treatment for  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE .
+
+
+
+ The  increased≠B-OSE_Labeled_AE   risk≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE  measurements in the  hypertensive≠B-OSE_Labeled_AE  range in Savella-treated patients is supported by substantial  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   mean≠I-OSE_Labeled_AE   SBP≠I-OSE_Labeled_AE  and DBP measurements observed in the ABPM study.   Table 2    shows that, following treatment with Savella 50 mg BID for three weeks in patients who were normotensive at baseline, the  mean≠B-OSE_Labeled_AE   increase≠I-OSE_Labeled_AE   from≠I-OSE_Labeled_AE   baseline≠I-OSE_Labeled_AE   was≠I-OSE_Labeled_AE   5≠I-OSE_Labeled_AE   mmHg≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   systolic≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  SBP≠I-OSE_Labeled_AE ) and diastolic blood pressure (DBP). After further treatment with Savella 100 mg BID for two weeks, the  mean≠B-OSE_Labeled_AE   increase≠I-OSE_Labeled_AE   from≠I-OSE_Labeled_AE   baseline≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE  SBP and  DBP≠I-OSE_Labeled_AE  was 6 mmHg. Similar elevations occurred in Savella-treated patients who were  hypertensive≠B-Not_AE_Candidate  at baseline.
+
+
+
+ Table 2:  Mean≠B-OSE_Labeled_AE  (Standard Error)  Change≠I-OSE_Labeled_AE  from Baseline in Mean 24-hour  Systolic≠I-OSE_Labeled_AE  and Diastolic  Blood≠I-OSE_Labeled_AE   Pressure≠I-OSE_Labeled_AE  (mmHg) of Milnacipran or Placebo following 4 Weeks of Treatment (50mg BID) and a Subsequent 2 Weeks of Treatment (100mg BID) 
+           *Blood pressure measurements made after 3 weeks of milnacipran 50mg BID   
+           ^Blood pressure measurements made after 2 weeks of milnacipran 100mg BID   
+  
+                            Normotensive     Hypertensive≠B-Not_AE_Candidate     
+                            n            Systolic       Diastolic      n             Systolic       Diastolic      
+  Placebo                   39           0(2)           -1(1)          50            0(2)           0(2)           
+  50 mg BID*                92           5(1)           5(1)           84            5(2)           4(1)           
+                                                                                                                   
+  Placebo                   37           0(2)           -1(1)          47            -1(2)          0(1)           
+  100 mg BID^               82           6(1)           6(1)           80            5(2)           4(1)           
+             Similar patterns of treatment-emergent  blood≠B-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  were observed in Phase 3 and clinical pharmacology studies as manifested by an increased risk of new onset  hypertension≠B-OSE_Labeled_AE  or substantial  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE  end of study  blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE  measurements in patients with  hypertension≠B-Not_AE_Candidate  at baseline (   Table 3    ).
+ 
+
+ Table 3: Blood pressure changes in Phase 3 randomized controlled trials 
+                                            Milnacipran50 mg BID    Milnacipran100 mg BID    Placebo               
+   FM≠B-Not_AE_Candidate  patients normotensive at baseline who became  hypertensive≠B-OSE_Labeled_AE  (defined as  SBP≠B-NonOSE_AE   >≠I-NonOSE_AE  =≠I-NonOSE_AE   1≠I-NonOSE_AE  4≠I-NonOSE_AE  0≠I-NonOSE_AE   mmHg≠I-NonOSE_AE  or  DBP≠B-NonOSE_AE   >≠I-NonOSE_AE  =≠I-NonOSE_AE   9≠I-NonOSE_AE  0≠I-NonOSE_AE   mmHg≠I-NonOSE_AE  on three consecutive post-baseline visits)    20%                   17%                   7%                    
+   FM≠B-Not_AE_Candidate  patients with sustained  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   SBP≠I-OSE_Labeled_AE  (increase of >= 15 mmHg on three consecutive post-baseline visits)    9%                    6%                    2%                    
+   FM≠B-Not_AE_Candidate  patients with sustained  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   DBP≠I-OSE_Labeled_AE  (increase of >= 10 mmHg on three consecutive post-baseline visits)    13%                   10 %                  4%                    
+                                            
+   FM≠B-Not_AE_Candidate  patients  hypertensive≠B-Not_AE_Candidate  at baseline who had  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   SBP≠I-OSE_Labeled_AE  >= 15 mmHg at end of study    10%                   7%                    4%                    
+   FM≠B-Not_AE_Candidate  patients  hypertensive≠B-Not_AE_Candidate  at baseline who had  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   DBP≠I-OSE_Labeled_AE  >= 10 mmHg at end of study    8%                    6%                    3%                    
+          Sustained  increases≠B-NonOSE_AE   in≠I-NonOSE_AE   blood≠I-NonOSE_AE   pressure≠I-NonOSE_AE  may have adverse consequences. Cases of  elevated≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE  requiring immediate treatment have been reported.
+ 
+
+ Concomitant use of Savella with drugs that  increase≠B-NonOSE_AE   blood≠I-NonOSE_AE   pressure≠I-NonOSE_AE  and  heart≠B-NonOSE_AE   rate≠I-NonOSE_AE  has not been evaluated and such combinations should be used with caution [see Drug Interactions (  7  )]  .
+
+
+
+ Effects of Savella on blood pressure in patients with significant  hypertension≠B-Not_AE_Candidate  or  cardiac≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  have not been systematically evaluated. Savella should be used with caution in these patients.
+
+
+
+ Measure blood pressure prior to initiating treatment and periodically monitor blood pressure throughout Savella treatment. Treat pre-existing  hypertension≠B-Not_AE_Candidate  and  other≠B-Not_AE_Candidate   cardiovascular≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  before starting therapy with Savella. For patients who experience a sustained  increase≠B-NonOSE_AE   in≠I-NonOSE_AE   blood≠I-NonOSE_AE   pressure≠I-NonOSE_AE  while receiving Savella, either reduce the dose or discontinue treatment with Savella if clinically warranted.
+
+
+
+    5.4 Elevated Heart Rate
+
+
+
+  A double-blind, placebo-controlled ABPM study was conducted to evaluate the effects of milnacipran (up to 200 mg/day) on blood pressure in 321  fibromyalgia≠B-Not_AE_Candidate  patients [see Warnings and Precautions (  5.3  )]  . Information on heart rate was also collected. Following treatment with Savella 50mg BID for three weeks in patients who were normotensive at baseline, the mean  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE  mean 24-hour  heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  from baseline was 13 beats per minute. After further treatment with Savella 100 mg BID for two weeks, the mean  increase≠B-OSE_Labeled_AE   from≠I-OSE_Labeled_AE   baseline≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  was 13 beats per minute.
+
+
+
+ Similar trends were observed in the clinical trials where Savella treatment was associated with mean  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  of approximately 7 to 8 beats per minute [see Adverse Reactions (  6.1  ]  .
+
+
+
+  Increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  >= 20 beats per minute occurred more frequently in Savella-treated patients when compared to placebo (8% in the Savella 50 mg BID and 100 mg BID treatment arms versus 0.3% in the placebo arm).
+
+
+
+ Savella has not been systematically evaluated in patients with a  cardiac≠B-Not_AE_Candidate   rhythm≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate .
+
+
+
+ Measure heart rate prior to initiating treatment and periodically monitor the heart rate throughout Savella treatment. Treat pre-existing  tachyarrhythmias≠B-Not_AE_Candidate  and other  cardiac≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  before starting therapy with Savella. For patients who experience a sustained  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  while receiving Savella, either reduce the dose or discontinue treatment with Savella if clinically warranted.
+
+
+
+    5.5 Seizures
+
+
+
+  Savella has not been systematically evaluated in patients with a  seizure≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate . In clinical trials evaluating Savella in patients with  fibromyalgia≠B-Not_AE_Candidate ,  seizures≠B-NonOSE_AE / convulsions≠B-NonOSE_AE  have not been reported. However,  seizures≠B-NonOSE_AE  have been reported infrequently in patients treated with Savella for disorders other than  fibromyalgia≠B-Not_AE_Candidate . Savella should be prescribed with care in patients with a history of a  seizure≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate .
+
+
+
+    5.6 Hepatotoxicity
+
+
+
+  In the placebo-controlled  fibromyalgia≠B-Not_AE_Candidate  trials, increases in the number of patients treated with Savella with mild  elevations≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   ALT≠I-OSE_Labeled_AE  or AST (1-3 times the upper limit of normal, ULN) were observed.  Increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   ALT≠I-OSE_Labeled_AE  were more frequently observed in the patients treated with Savella 100 mg/day (6%) and Savella 200 mg/day (7%), compared to the patients treated with placebo (3%). One patient receiving Savella 100 mg/day (0.2%) had an  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   ALT≠I-OSE_Labeled_AE  greater than 5 times the upper limit of normal but did not exceed 10 times the upper limit of normal.  Increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   AST≠I-OSE_Labeled_AE  were more frequently observed in the patients treated with Savella 100 mg/day (3%) and Savella 200 mg/day (5%) compared to the patients treated with placebo (2%).
+
+
+
+ The  increases≠B-NonOSE_AE   of≠I-NonOSE_AE   bilirubin≠I-NonOSE_AE  observed in the  fibromyalgia≠B-Not_AE_Candidate  clinical trials were not clinically significant.
+
+
+
+ No case met the criteria of  elevated≠B-NonOSE_AE   ALT≠I-NonOSE_AE   >≠I-NonOSE_AE   3≠I-NonOSE_AE  x≠I-NonOSE_AE   ULN≠I-NonOSE_AE  and associated with an  increase≠B-NonOSE_AE   in≠I-NonOSE_AE   bilirubin≠I-NonOSE_AE  >= 2x ULN.
+
+
+
+ There have been cases of  increased≠B-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   enzymes≠I-OSE_Labeled_AE  and reports of  severe≠B-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE , including  fulminant≠B-OSE_Labeled_AE   hepatitis≠I-OSE_Labeled_AE  with milnacipran from foreign postmarketing experience. In the cases of  severe≠B-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE , there were significant underlying clinical conditions and/or the use of multiple concomitant medications. Because of underreporting, it is impossible to provide an accurate estimate of the true incidence of these reactions.
+
+
+
+ Savella should be discontinued in patients who develop  jaundice≠B-NonOSE_AE  or other evidence of  liver≠B-NonOSE_AE   dysfunction≠I-NonOSE_AE . Treatment with Savella should not be resumed unless another cause can be established.
+
+
+
+ Savella should ordinarily not be prescribed to patients with substantial alcohol use or evidence of  chronic≠B-Not_AE_Candidate   liver≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate .
+
+
+
+    5.7 Discontinuation of Treatment with Savella
+
+
+
+   Withdrawal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  have been observed in clinical trials following discontinuation of milnacipran, as with other SNRIs and SSRIs.
+
+
+
+ During marketing of milnacipran, and other SNRIs and SSRIs, there have been spontaneous reports of adverse events indicative of  withdrawal≠B-OSE_Labeled_AE  and  physical≠B-OSE_Labeled_AE   dependence≠I-OSE_Labeled_AE  occurring upon discontinuation of these drugs, particularly when discontinuation is abrupt. The adverse events include the following:  dysphoric≠B-NonOSE_AE   mood≠I-NonOSE_AE ,  irritability≠B-NonOSE_AE ,  agitation≠B-NonOSE_AE ,  dizziness≠B-NonOSE_AE ,  sensory≠B-NonOSE_AE   disturbances≠I-NonOSE_AE  (e.g.,  paresthesias≠B-NonOSE_AE  such as  electric≠B-NonOSE_AE   shock≠I-NonOSE_AE   sensations≠I-NonOSE_AE ),  anxiety≠B-NonOSE_AE ,  confusion≠B-NonOSE_AE ,  headache≠B-NonOSE_AE ,  lethargy≠B-NonOSE_AE ,  emotional≠B-NonOSE_AE   lability≠I-NonOSE_AE ,  insomnia≠B-NonOSE_AE ,  hypomania≠B-NonOSE_AE ,  tinnitus≠B-NonOSE_AE , and  seizures≠B-NonOSE_AE . Although these events are generally self-limiting, some have been reported to be severe.
+
+
+
+ Patients should be monitored for these  symptoms≠B-NonOSE_AE   when≠I-NonOSE_AE   discontinuing≠I-NonOSE_AE   treatment≠I-NonOSE_AE  with Savella. Savella should be tapered and not abruptly discontinued after extended use. If intolerable  symptoms≠B-NonOSE_AE   occur≠I-NonOSE_AE   following≠I-NonOSE_AE   a≠I-NonOSE_AE   decrease≠I-NonOSE_AE   in≠I-NonOSE_AE   the≠I-NonOSE_AE   dose≠I-NonOSE_AE   or≠I-NonOSE_AE   upon≠I-NonOSE_AE   discontinuation≠I-NonOSE_AE   of≠I-NonOSE_AE   treatment≠I-NonOSE_AE , then resuming the previously prescribed dose may be considered. Subsequently, the physician may continue decreasing the dose but at a more gradual rate [see Dosage and Administration (  2.4  )]  .
+
+
+
+    5.8 Hyponatremia
+
+
+
+   Hyponatremia≠B-OSE_Labeled_AE  may occur as a result of treatment with SSRIs and SNRIs, including Savella. In many cases, this  hyponatremia≠B-OSE_Labeled_AE  appears to be the result of the  syndrome≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   inappropriate≠I-OSE_Labeled_AE   antidiuretic≠I-OSE_Labeled_AE   hormone≠I-OSE_Labeled_AE   secretion≠I-OSE_Labeled_AE  (SIADH). Cases with  serum≠B-OSE_Labeled_AE   sodium≠I-OSE_Labeled_AE   lower≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   mmol≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  L≠I-OSE_Labeled_AE  have been reported. Elderly patients may be at greater risk of developing  hyponatremia≠B-OSE_Labeled_AE  with SNRIs, SSRIs, or Savella. Also, patients taking diuretics or who are otherwise  volume≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  depleted≠I-Not_AE_Candidate  may be at greater risk [see Geriatric Use (  8.5  )]  . Discontinuation of Savella should be considered in patients with symptomatic  hyponatremia≠B-NonOSE_AE .
+
+
+
+ Signs and symptoms of  hyponatremia≠B-NonOSE_AE  include  headache≠B-NonOSE_AE ,  difficulty≠B-NonOSE_AE   concentrating≠I-NonOSE_AE ,  memory≠B-NonOSE_AE   impairment≠I-NonOSE_AE ,  confusion≠B-NonOSE_AE ,  weakness≠B-NonOSE_AE , and  unsteadiness≠B-NonOSE_AE , which may lead to  falls≠B-NonOSE_AE . Signs and symptoms associated with more severe and/or acute cases have included  hallucination≠B-NonOSE_AE ,  syncope≠B-NonOSE_AE ,  seizure≠B-NonOSE_AE ,  coma≠B-NonOSE_AE ,  respiratory≠B-NonOSE_AE   arrest≠I-NonOSE_AE , and  death≠B-NonOSE_AE .
+
+
+
+    5.9 Abnormal Bleeding
+
+
+
+  SSRIs and SNRIs, including Savella, may increase the risk of  bleeding≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE . Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin, and other anti-coagulants may add to this risk. Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of  gastrointestinal≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE .  Bleeding≠B-OSE_Labeled_AE  events related to SSRIs and SNRIs use have ranged from  ecchymoses≠B-OSE_Labeled_AE ,  hematomas≠B-OSE_Labeled_AE ,  epistaxis≠B-OSE_Labeled_AE , and  petechiae≠B-OSE_Labeled_AE  to life-threatening  hemorrhages≠I-OSE_Labeled_AE .
+
+
+
+ Patients should be cautioned about the risk of  bleeding≠B-NonOSE_AE  associated with the concomitant use of Savella and NSAIDs, aspirin, or other drugs that affect coagulation.
+
+
+
+    5.10 Activation of Mania
+
+
+
+  No activation of  mania≠B-NonOSE_AE  or  hypomania≠B-NonOSE_AE  was reported in the clinical trials evaluating effects of Savella in patients with  fibromyalgia≠B-Not_AE_Candidate . However those clinical trials excluded patients with current  major≠B-Not_AE_Candidate   depressive≠I-Not_AE_Candidate   episode≠I-Not_AE_Candidate . Activation of  mania≠B-NonOSE_AE  and  hypomania≠B-NonOSE_AE  have been reported in patients with  mood≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate  who were treated with other similar drugs for  major≠B-Not_AE_Candidate   depressive≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate . As with these other agents, Savella should be used cautiously in patients with a history of  mania≠B-Not_AE_Candidate .
+
+
+
+    5.11 Patients with a History of Dysuria
+
+
+
+  Because of their noradrenergic effect, SNRIs including Savella, can affect  urethral≠B-OSE_Labeled_AE   resistance≠I-OSE_Labeled_AE  and micturition. In the controlled  fibromyalgia≠B-Not_AE_Candidate  trials,  dysuria≠B-OSE_Labeled_AE  occurred more frequently in patients treated with Savella (1%) than in placebo-treated patients (0.5%). Caution is advised in use of Savella in patients with a history of  dysuria≠B-Not_AE_Candidate , notably in male patients with  prostatic≠B-Not_AE_Candidate   hypertrophy≠I-Not_AE_Candidate ,  prostatitis≠B-Not_AE_Candidate , and other  lower≠B-Not_AE_Candidate   urinary≠I-Not_AE_Candidate   tract≠I-Not_AE_Candidate   obstructive≠I-Not_AE_Candidate   disorders≠I-Not_AE_Candidate . Male patients are more prone to  genitourinary≠B-NonOSE_AE   adverse≠I-NonOSE_AE   effects≠I-NonOSE_AE , such as  dysuria≠B-NonOSE_AE  or  urinary≠B-NonOSE_AE   retention≠I-NonOSE_AE , and may experience  testicular≠B-NonOSE_AE   pain≠I-NonOSE_AE  or  ejaculation≠B-NonOSE_AE   disorders≠I-NonOSE_AE .
+
+
+
+    5.12 Angle Closure Glaucoma
+
+
+
+  The  pupillary≠B-OSE_Labeled_AE   dilation≠I-OSE_Labeled_AE  that occurs following use of SNRI drugs including Savella may trigger an  angle≠B-OSE_Labeled_AE   closure≠I-OSE_Labeled_AE   attack≠I-OSE_Labeled_AE  in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
+
+
+    5.13 Concomitant Use with Alcohol
+
+
+
+  In clinical trials, more patients treated with Savella developed  elevated≠B-OSE_Labeled_AE   transaminases≠I-OSE_Labeled_AE  than did placebo treated patients [see Warnings and Precautions (  5.6  )]  . Because it is possible that milnacipran may  aggravate≠B-OSE_Labeled_AE   pre≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  existing≠I-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE , Savella should not be prescribed to patients with substantial alcohol use or evidence of  chronic≠B-Not_AE_Candidate   liver≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate .

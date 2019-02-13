@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="EPIDUO">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  
+
+
+
+   EXCERPT:   Most commonly reported adverse events (&gt;=1%) in patients treated with EPIDUO gel were dry skin, contact dermatitis, application site burning, application site irritation and skin irritation. (  6  )
+
+
+
+ 
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Galderma Laboratories, L.P. at 1-866-735-4137, or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+
+
+ During clinical trials, 1401 subjects were exposed to EPIDUO gel. A total of 1036 subjects with acne vulgaris, 12 years and older, were treated once daily for 12 weeks to 12 months. Related adverse events reported within 12 weeks of treatment and in at least 1% of subjects treated with EPIDUO gel and those reported in subjects treated with the vehicle gel are presented in Table 1:
+
+
+
+ Table 1. Drug Related Adverse Events Reported in Clinical Trials by at Least 1% of Patients Treated For 12 Weeks 
+   System Organ Class/Preferred Term      EPIDUO GelN=564      Vehicle GelN=489     
+   Subjects with AE(s)    14%              4%                
+    Dry skin      7%               2%                
+    Contact dermatitis  3%               &lt;1%               
+    Application site burning  2%               &lt;1%               
+    Application site irritation  1%               &lt;1%               
+    Skin irritation  1%               0%                
+      Local tolerability evaluations, presented in Table 2, were conducted at each study visit in clinical trials by assessment of erythema, scaling, dryness, burning, and stinging.
+ 
+
+ Table 2. Incidence of Local Cutaneous Irritation in Controlled Clinical Trials (N = 553) Treatment Emergent Signs and Symptoms 
+                  Maximum Severity During Treatment  End of Treatment Severity (12 weeks)   
+                  Mild             Moderate         Severe           Mild             Moderate         Severe            
+ Erythema         27%              13%              1%               8%               2%               1%                
+ Scaling          35%              11%              1%               9%               1%               &lt;1%               
+ Dryness          41%              13%              1%               10%              2%               &lt;1%               
+ Stinging/burning  41%              15%              3%               7%               2%               1%                
+      
+ 
+
+ Analysis over the 12-week period showed that local tolerability scores for erythema, scaling, dryness, and stinging/burning peaked at Week 1 of therapy and decreased thereafter.
+
+
+
+ During a pediatric clinical trial, 285 children with acne vulgaris, 9 to 11 years of age were treated with EPIDUO gel or with the vehicle gel once daily for 12 weeks. Overall, the safety profile of EPIDUO gel in these subjects is comparable to the safety profile observed in older subjects 12 years of age and above, both in the nature and frequency of the observed adverse events.
+
+
+
+ Analysis of local tolerability evaluations shows similar incidence of treatment emergent signs and symptoms as in subjects 12 years of age and above, with local tolerability signs and symptoms peaking during the first week and decreasing over time.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during postapproval use of EPIDUO gel:  eyelid edema, sunburn, blister, pain of skin, pruritus, swelling face, conjunctivitis, skin discoloration, rash, eczema, throat tightness and allergic contact dermatitis.  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  
+
+
+
+   EXCERPT:   Ultraviolet Light and Environmental Exposure:  Avoid exposure to sunlight and sunlamps.  Wear sunscreen when sun exposure cannot be avoided. (  5.1  )
+
+
+
+ Erythema, scaling, dryness, stinging/burning, irritant and allergic contact dermatitis may occur with use of EPIDUO gel and may necessitate discontinuation. (  5.2  )
+
+
+
+ 
+
+
+
+   5.1 Ultraviolet Light and Environmental Exposure
+
+
+
+  Exposure to sunlight, including sunlamps, should be minimized during the use of EPIDUO gel. Patients with high levels of sun exposure and those with inherent sensitivity to sun should exercise particular caution. Use of sunscreen products and protective apparel, (e.g., hat) are recommended when exposure cannot be avoided. Weather extremes, such as wind or cold, may be irritating to patients under treatment with EPIDUO gel.
+
+
+
+    5.2 Local Cutaneous Reactions
+
+
+
+  Erythema, scaling, dryness, and stinging/burning may be experienced with use of EPIDUO gel. These are most likely to occur during the first four weeks of treatment, are mostly mild to moderate in intensity, and usually lessen with continued use of the medication. Irritant and allergic contact dermatitis may occur. Depending upon the severity of these adverse reactions, patients should be instructed to use a moisturizer, reduce the frequency of the application of EPIDUO gel, or discontinue use. The product should not be applied to cuts, abrasions, eczematous or sunburned skin. As with other retinoids, use of "waxing" as a depilatory method should be avoided on skin treated with EPIDUO gel.
+
+
+
+ Avoid concomitant use of other potentially irritating topical products (medicated or abrasive soaps and cleansers, soaps and cosmetics that have strong skin-drying effect and products with high concentrations of alcohol, astringents, spices, or limes).
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="374" name="excerpt" section="S1" start="33" />
+    <IgnoredRegion len="338" name="excerpt" section="S2" start="42" />
+    <IgnoredRegion len="48" name="heading" section="S2" start="387" />
+    <IgnoredRegion len="31" name="heading" section="S1" start="411" />
+    <IgnoredRegion len="29" name="heading" section="S2" start="875" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="3524" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,444 @@
+    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in more detail in other sections of the labeling:
+
+
+
+ *  Increased  Mortality≠B-NonOSE_AE  in Elderly Patients with  Dementia≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  Related≠I-Not_AE_Candidate   Psychosis≠I-Not_AE_Candidate  [see  Boxed Warning  and Warnings and Precautions (  5.1  )]  
+ *   Suicidal≠B-OSE_Labeled_AE   Thoughts≠I-OSE_Labeled_AE  and Behaviors [see  Boxed Warning  and Warnings and Precautions (  5.2  )]  
+ *   Cerebrovascular≠B-NonOSE_AE   Adverse≠I-NonOSE_AE   Reactions≠I-NonOSE_AE , Including  Stroke≠B-NonOSE_AE , in Elderly Patients with  Dementia≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  related≠I-Not_AE_Candidate   Psychosis≠I-Not_AE_Candidate  [see Warnings and Precautions (5.23)]  
+ *   Neuroleptic≠B-OSE_Labeled_AE   Malignant≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.4  )]  
+ *   Tardive≠B-OSE_Labeled_AE   Dyskinesia≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.5  )]  
+ *   Metabolic≠B-OSE_Labeled_AE   Changes≠I-OSE_Labeled_AE  ( Hyperglycemia≠B-OSE_Labeled_AE  and  Diabetes≠B-Not_AE_Candidate   Mellitus≠I-Not_AE_Candidate ,  Dyslipidemia≠B-OSE_Labeled_AE , and  Weight≠B-OSE_Labeled_AE   Gain≠I-OSE_Labeled_AE ) [see Warnings and Precautions (  5.6  )]  
+ *   Hyperprolactinemia≠B-OSE_Labeled_AE  [see Warnings and Precautions (  5.7  )]  
+ *   Leukopenia≠B-OSE_Labeled_AE ,  Neutropenia≠B-OSE_Labeled_AE , and  Agranulocytosis≠B-OSE_Labeled_AE  [see Warnings and Precautions (  5.8  )]  
+ *   Orthostatic≠B-OSE_Labeled_AE   Hypotension≠I-OSE_Labeled_AE  and  Syncope≠B-OSE_Labeled_AE  [see Warnings and Precautions (  5.9  )]  
+ *   Seizures≠B-NonOSE_AE  [see Warnings and Precautions (  5.10  )]  
+ *  Potential for  Cognitive≠B-OSE_Labeled_AE  and Motor  Impairment≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.11  )]  
+ *   Body≠B-OSE_Labeled_AE   Temperature≠I-OSE_Labeled_AE   Dysregulation≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.12  )]  
+ *   Suicide≠B-NonOSE_AE  [see Warnings and Precautions (  5.13  )]  
+ *   Activation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE  Mania/ Hypomania≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.14  )]  
+ *   Dysphagia≠B-OSE_Labeled_AE  [see Warnings and Precautions (  5.15  )]  
+ *   Neurological≠B-OSE_Labeled_AE   Adverse≠I-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  in Patients with  Parkinson≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   Disease≠I-Not_AE_Candidate  or  Dementia≠B-Not_AE_Candidate   with≠I-Not_AE_Candidate   Lewy≠I-Not_AE_Candidate   Bodies≠I-Not_AE_Candidate  [see Warnings and Precautions (  5.16  )]  
+      EXCERPT:   Commonly observed adverse reactions (incidence >= 5% and at least twice the rate for placebo) were (  6.1  ):
+ 
+
+ *  Schizophrenia: somnolence, akathisia, extrapyramidal symptoms, and nausea 
+ *  Bipolar depression: akathisia, extrapyramidal symptoms, and somnolence 
+      To report SUSPECTED ADVERSE REACTIONS, contact Sunovion Pharmaceuticals Inc. at 1-877-737-7226 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  .
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ The information below is derived from an integrated clinical study database for LATUDA consisting of 3799 patients exposed to one or more doses of LATUDA for the treatment of  schizophrenia≠B-Not_AE_Candidate  and  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate  in placebo-controlled studies. This experience corresponds with a total experience of 1250.9 patient-years. A total of 1106 LATUDA-treated patients had at least 24 weeks and 371 LATUDA-treated patients had at least 52 weeks of exposure.
+
+
+
+ Adverse events during exposure to study treatment were obtained by general inquiry and voluntarily reported adverse experiences, as well as results from physical examinations, vital signs, ECGs, weights and laboratory investigations. Adverse experiences were recorded by clinical investigators using their own terminology. In order to provide a meaningful estimate of the proportion of individuals experiencing adverse events, events were grouped in standardized categories using MedDRA terminology.
+
+
+
+     Schizophrenia  
+
+
+
+ The following findings are based on the short-term, placebo-controlled premarketing studies for  schizophrenia≠B-Not_AE_Candidate  in which LATUDA was administered at daily doses ranging from 20 to 160 mg (n=1508).
+
+
+
+     Commonly Observed Adverse Reactions:  The most common adverse reactions (incidence >= 5% and at least twice the rate of placebo) in patients treated with LATUDA were  somnolence≠B-OSE_Labeled_AE ,  akathisia≠B-OSE_Labeled_AE ,  extrapyramidal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE , and  nausea≠B-OSE_Labeled_AE .
+
+
+
+     Adverse Reactions Associated with Discontinuation of Treatment:  A total of 9.5% (143/1508) LATUDA-treated patients and 9.3% (66/708) of placebo-treated patients discontinued due to adverse reactions. There were no adverse reactions associated with discontinuation in subjects treated with LATUDA that were at least 2% and at least twice the placebo rate.
+
+
+
+     Adverse Reactions Occurring at an Incidence of 2% or More in LATUDA-Treated Patients:  Adverse reactions associated with the use of LATUDA (incidence of 2% or greater, rounded to the nearest percent and LATUDA incidence greater than placebo) that occurred during acute therapy (up to 6 weeks in patients with schizophrenia) are shown in  Table 15  .
+
+
+
+ Table 15: Adverse Reactions in 2% or More of LATUDA-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in Short-term Schizophrenia Studies 
+  Note: Figures rounded to the nearest integer    
+  *  Somnolence≠B-OSE_Labeled_AE  includes adverse event terms:  hypersomnia≠B-OSE_Labeled_AE ,  hypersomnolence≠B-OSE_Labeled_AE ,  sedation≠B-OSE_Labeled_AE , and  somnolence≠B-OSE_Labeled_AE     
+  **  Extrapyramidal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  includes adverse event terms:  bradykinesia≠B-OSE_Labeled_AE ,  cogwheel≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  drooling≠B-OSE_Labeled_AE ,  dystonia≠B-OSE_Labeled_AE ,  extrapyramidal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  hypokinesia≠B-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  oculogyric≠B-OSE_Labeled_AE   crisis≠I-OSE_Labeled_AE ,  oromandibular≠B-OSE_Labeled_AE   dystonia≠I-OSE_Labeled_AE ,  parkinsonism≠B-OSE_Labeled_AE ,  psychomotor≠B-OSE_Labeled_AE   retardation≠I-OSE_Labeled_AE ,  tongue≠B-OSE_Labeled_AE   spasm≠I-OSE_Labeled_AE ,  torticollis≠B-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE , and  trismus≠B-OSE_Labeled_AE     
+  
+                            Percentage of Patients Reporting Reaction     
+                            LATUDA      
+   Body System or    Organ Class      Placebo    (N=708)    (%)      20    mg/day    (N=71)    (%)      40    mg/day    (N=487)    (%)      80    mg/day    (N=538)    (%)      120    mg/day    (N=291)    (%)      160    mg/day    (N=121)    (%)      All    LATUDA    (N=1508)    (%)     
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                             
+       Nausea≠B-OSE_Labeled_AE               5            11          10          9           13          7           10             
+       Vomiting≠B-OSE_Labeled_AE             6            7           6           9           9           7           8              
+       Dyspepsia≠B-OSE_Labeled_AE            5            11          6           5           8           6           6              
+       Salivary≠B-OSE_Labeled_AE       Hypersecretion≠I-OSE_Labeled_AE   <1           1           1           2           4           2           2              
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                             
+       Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE            2            0           4           3           4           0           3              
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                             
+       Somnolence≠B-OSE_Labeled_AE *         7            15          16          15          26          8           17             
+       Akathisia≠B-OSE_Labeled_AE            3            6           11          12          22          7           13             
+       Extrapyramidal≠B-OSE_Labeled_AE       Disorder≠I-OSE_Labeled_AE **  6            6           11          12          22          13          14             
+       Dizziness≠B-OSE_Labeled_AE            2            6           4           4           5           6           4              
+    Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                             
+       Insomnia≠B-OSE_Labeled_AE             8            8           10          11          9           7           10             
+       Agitation≠B-OSE_Labeled_AE            4            10          7           3           6           5           5              
+       Anxiety≠B-OSE_Labeled_AE              4            3           6           4           7           3           5              
+       Restlessness≠B-OSE_Labeled_AE         1            1           3           1           3           2           2              
+                  Dose-Related Adverse Reactions in the Schizophrenia Studies  
+ 
+
+  Akathisia≠B-OSE_Labeled_AE  and  extrapyramidal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  were dose-related. The frequency of  akathisia≠B-OSE_Labeled_AE  increased with dose up to 120 mg/day (5.6% for LATUDA 20 mg, 10.7% for LATUDA 40 mg, 12.3% for LATUDA 80 mg, and 22.0% for LATUDA 120 mg).  Akathisia≠B-OSE_Labeled_AE  was reported by 7.4% (9/121) of patients receiving 160 mg/day.  Akathisia≠B-NonOSE_AE  occurred in 3.0% of subjects receiving placebo. The frequency of  extrapyramidal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  increased with dose up to 120 mg/day (5.6% for LATUDA 20 mg, 11.5% for LATUDA 40 mg, 11.9% for LATUDA 80 mg, and 22.0% for LATUDA 120 mg).
+
+
+
+     Bipolar Depression (Monotherapy)  
+
+
+
+ The following findings are based on the short-term, placebo-controlled premarketing study for  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate  in which LATUDA was administered at daily doses ranging from 20 to 120 mg (n=331).
+
+
+
+     Commonly Observed Adverse Reactions:  The most common adverse reactions (incidence >= 5%, in either dose group, and at least twice the rate of placebo) in patients treated with LATUDA were  akathisia≠B-OSE_Labeled_AE ,  extrapyramidal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE , and  anxiety≠B-OSE_Labeled_AE .
+
+
+
+     Adverse Reactions Associated with Discontinuation of Treatment:  A total of 6.0% (20/331) LATUDA-treated patients and 5.4% (9/168) of placebo-treated patients discontinued due to adverse reactions. There were no adverse reactions associated with discontinuation in subjects treated with LATUDA that were at least 2% and at least twice the placebo rate.
+
+
+
+     Adverse Reactions Occurring at an Incidence of 2% or More in LATUDA-Treated Patients:  Adverse reactions associated with the use of LATUDA (incidence of 2% or greater, rounded to the nearest percent and LATUDA incidence greater than placebo) that occurred during acute therapy (up to 6 weeks in patients with  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate ) are shown in  Table 16  .
+
+
+
+ Table 16: Adverse Reactions in 2% or More of LATUDA-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in a Short-term Monotherapy  Bipolar≠B-Not_AE_Candidate   Depression≠I-Not_AE_Candidate  Study 
+  Note: Figures rounded to the nearest integer    
+  * Extrapyramidal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  includes adverse event terms:  bradykinesia≠B-OSE_Labeled_AE ,  cogwheel≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  drooling≠B-OSE_Labeled_AE ,  dystonia≠B-OSE_Labeled_AE ,  extrapyramidal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  glabellar≠B-OSE_Labeled_AE   reflex≠I-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  hypokinesia≠B-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  oculogyric≠B-OSE_Labeled_AE   crisis≠I-OSE_Labeled_AE ,  oromandibular≠B-OSE_Labeled_AE   dystonia≠I-OSE_Labeled_AE ,  parkinsonism≠B-OSE_Labeled_AE ,  psychomotor≠B-OSE_Labeled_AE   retardation≠I-OSE_Labeled_AE ,  tongue≠B-OSE_Labeled_AE   spasm≠I-OSE_Labeled_AE ,  torticollis≠B-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE , and  trismus≠B-OSE_Labeled_AE     
+  **  Somnolence≠B-OSE_Labeled_AE  includes adverse event terms:  hypersomnia≠B-OSE_Labeled_AE ,  hypersomnolence≠B-OSE_Labeled_AE ,  sedation≠B-OSE_Labeled_AE , and  somnolence≠B-OSE_Labeled_AE     
+  
+                                                 Percentage of Patients Reporting Reaction     
+   Body System or Organ Class       Dictionary-derived Term    Placebo    (N=168)    (%)      LATUDA    20-60 mg/day    (N=164)    (%)      LATUDA    80-120 mg/day    (N=167)    (%)      All LATUDA(N=331)    (%)     
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                    
+       Nausea≠B-OSE_Labeled_AE                                    8              10             17          14             
+       Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE                                 4              6              4           5              
+       Vomiting≠B-OSE_Labeled_AE                                  2              2              6           4              
+       Diarrhea≠B-OSE_Labeled_AE                                  2              5              3           4              
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE                   
+       Nasopharyngitis≠B-OSE_Labeled_AE                           1              4              4           4              
+       Influenza≠B-OSE_Labeled_AE                                 1              <1             2           2              
+       Urinary≠B-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE                   <1             2              1           2              
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE      Disorders≠I-NonOSE_AE      
+       Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                 <1             3              <1          2              
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                      
+       Extrapyramidal≠B-OSE_Labeled_AE   Symptoms≠I-OSE_Labeled_AE *                 2              5              9           7              
+       Akathisia≠B-OSE_Labeled_AE                                 2              8              11          9              
+       Somnolence≠B-OSE_Labeled_AE **                             7              7              14          11             
+    Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                         
+       Anxiety≠B-OSE_Labeled_AE                                   1              4              5           4              
+                 Dose-Related Adverse Reactions in the Monotherapy Study:  
+ 
+
+ In the short-term, placebo-controlled study (involving lower and higher LATUDA dose ranges) [see Clinical Studies (  14.2  )] the adverse reactions that occurred with a greater than 5% incidence in the patients treated with LATUDA in any dose group and greater than placebo in both groups were  nausea≠B-OSE_Labeled_AE  (10.4%, 17.4%),  somnolence≠B-OSE_Labeled_AE  (7.3%, 13.8%),  akathisia≠B-OSE_Labeled_AE  (7.9%, 10.8%), and  extrapyramidal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  (4.9%, 9.0%) for LATUDA 20 to 60 mg/day and LATUDA 80 to 120 mg/day, respectively.
+
+
+
+     Bipolar Depression  
+
+
+
+     Adjunctive Therapy with Lithium or Valproate  
+
+
+
+ The following findings are based on two short-term, placebo-controlled premarketing studies for  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate  in which LATUDA was administered at daily doses ranging from 20 to 120 mg as adjunctive therapy with lithium or valproate (n=360).
+
+
+
+     Commonly Observed Adverse Reactions:  The most common adverse reactions (incidence >= 5% and at least twice the rate of placebo) in subjects treated with LATUDA were  akathisia≠B-OSE_Labeled_AE  and  somnolence≠B-OSE_Labeled_AE .
+
+
+
+     Adverse Reactions Associated with Discontinuation of Treatment:  A total of 5.8% (21/360) LATUDA-treated patients and 4.8% (16/334) of placebo-treated patients discontinued due to adverse reactions. There were no adverse reactions associated with discontinuation in subjects treated with LATUDA that were at least 2% and at least twice the placebo rate.
+
+
+
+     Adverse Reactions Occurring at an Incidence of 2% or More in LATUDA-Treated Patients:  Adverse reactions associated with the use of LATUDA (incidence of 2% or greater, rounded to the nearest percent and LATUDA incidence greater than placebo) that occurred during acute therapy (up to 6 weeks in patients with  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate ) are shown in  Table 17  .
+
+
+
+ Table 17: Adverse Reactions in 2% or More of LATUDA-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in the Short-term Adjunctive Therapy Bipolar Depression Studies 
+  Note: Figures rounded to the nearest integer    
+  * Extrapyramidal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  includes adverse event terms:  bradykinesia≠B-OSE_Labeled_AE ,  cogwheel≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  drooling≠B-OSE_Labeled_AE ,  dystonia≠B-OSE_Labeled_AE ,  extrapyramidal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  glabellar≠B-OSE_Labeled_AE   reflex≠I-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  hypokinesia≠B-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  oculogyric≠B-OSE_Labeled_AE   crisis≠I-OSE_Labeled_AE ,  oromandibular≠B-OSE_Labeled_AE   dystonia≠I-OSE_Labeled_AE ,  parkinsonism≠B-OSE_Labeled_AE ,  psychomotor≠B-OSE_Labeled_AE   retardation≠I-OSE_Labeled_AE ,  tongue≠B-OSE_Labeled_AE   spasm≠I-OSE_Labeled_AE ,  torticollis≠B-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE , and  trismus≠B-OSE_Labeled_AE     
+  **  Somnolence≠B-OSE_Labeled_AE  includes adverse event terms:  hypersomnia≠B-OSE_Labeled_AE ,  hypersomnolence≠B-OSE_Labeled_AE ,  sedation≠B-OSE_Labeled_AE , and  somnolence≠B-OSE_Labeled_AE     
+  
+                                              Percentage of Patients Reporting Reaction     
+   Body System or Organ Class       Dictionary-derived Term    Placebo    (N=334)    (%)      LATUDA        20 to 120 mg/day    (N=360)    (%)     
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                 
+       Nausea≠B-OSE_Labeled_AE                                 10          14                             
+       Vomiting≠B-OSE_Labeled_AE                               1           4                              
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                          
+       Fatigue≠B-OSE_Labeled_AE                                1           3                              
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE                
+       Nasopharyngitis≠B-OSE_Labeled_AE                        2           4                              
+    Investigations≠B-NonOSE_AE                             
+       Weight≠B-OSE_Labeled_AE   Increased≠I-OSE_Labeled_AE                       <1          3                              
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE         
+       Increased≠B-OSE_Labeled_AE   Appetite≠I-OSE_Labeled_AE                     1           3                              
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                   
+       Extrapyramidal≠B-OSE_Labeled_AE   Symptoms≠I-OSE_Labeled_AE *              9           14                             
+       Somnolence≠B-OSE_Labeled_AE **                          5           11                             
+       Akathisia≠B-OSE_Labeled_AE                              5           11                             
+    Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                      
+       Restlessness≠B-OSE_Labeled_AE                           <1          4                              
+               Extrapyramidal Symptoms  
+ 
+
+     Schizophrenia  
+
+
+
+ In the short-term, placebo-controlled  schizophrenia≠B-Not_AE_Candidate  studies, for LATUDA-treated patients, the incidence of reported events related to  extrapyramidal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  EPS≠I-OSE_Labeled_AE ), excluding  akathisia≠B-NonOSE_AE  and  restlessness≠B-NonOSE_AE , was 13.5% versus 5.8% for placebo-treated patients. The incidence of  akathisia≠B-OSE_Labeled_AE  for LATUDA-treated patients was 12.9% versus 3.0% for placebo-treated patients. Incidence of  EPS≠B-OSE_Labeled_AE  by dose is provided in  Table 18  .
+
+
+
+ Table 18: Incidence of EPS Compared to Placebo in Schizophrenia Studies 
+  Note: Figures rounded to the nearest integer    
+  *  Dystonia≠B-OSE_Labeled_AE  includes adverse event terms:  dystonia≠B-OSE_Labeled_AE ,  oculogyric≠B-OSE_Labeled_AE   crisis≠I-OSE_Labeled_AE ,  oromandibular≠B-OSE_Labeled_AE   dystonia≠I-OSE_Labeled_AE ,  tongue≠B-OSE_Labeled_AE   spasm≠I-OSE_Labeled_AE ,  torticollis≠B-OSE_Labeled_AE , and  trismus≠B-OSE_Labeled_AE     
+  **  Parkinsonism≠B-OSE_Labeled_AE  includes adverse event terms:  bradykinesia≠B-OSE_Labeled_AE ,  cogwheel≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  drooling≠B-OSE_Labeled_AE ,  extrapyramidal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  hypokinesia≠B-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  parkinsonism≠B-OSE_Labeled_AE ,  psychomotor≠B-OSE_Labeled_AE   retardation≠I-OSE_Labeled_AE , and  tremor≠B-OSE_Labeled_AE     
+  
+                                                         LATUDA                                   
+   Adverse Event Term        Placebo    (N=708)    (%)      20 mg/day    (N=71)    (%)      40 mg/day    (N=487)    (%)      80 mg/day    (N=538)    (%)      120 mg/day    (N=291)    (%)      160 mg/day    (N=121)    (%)     
+   All  EPS≠B-OSE_Labeled_AE  events            9             10            21            23            39            20             
+   All  EPS≠B-OSE_Labeled_AE  events, excluding  Akathisia≠B-NonOSE_AE / Restlessness≠B-NonOSE_AE       6             6             11            12            22            13             
+       Akathisia≠B-OSE_Labeled_AE             3             6             11            12            22            7                
+       Dystonia≠B-OSE_Labeled_AE *            <1            0             4             5             7             2                
+       Parkinsonism≠B-OSE_Labeled_AE **       5             6             9             8             17            11               
+       Restlessness≠B-OSE_Labeled_AE          1             1             3             1             3             2                
+                 Bipolar Depression  
+ 
+
+     Monotherapy  
+
+
+
+ In the short-term, placebo-controlled monotherapy  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate  study, for LATUDA-treated patients, the incidence of reported events related to  EPS≠B-OSE_Labeled_AE , excluding  akathisia≠B-NonOSE_AE  and  restlessness≠B-NonOSE_AE  was 6.9% versus 2.4% for placebo-treated patients. The incidence of  akathisia≠B-NonOSE_AE  for LATUDA-treated patients was 9.4% versus 2.4% for placebo-treated patients. Incidence of  EPS≠B-OSE_Labeled_AE  by dose groups is provided in  Table 19  .
+
+
+
+ Table 19: Incidence of EPS Compared to Placebo in the Monotherapy Bipolar Depression Study 
+                                                         LATUDA                    
+   Adverse Event Term        Placebo    (N=168)    (%)      20 to 60 mg/day    (N=164)    (%)      80 to 120 mg/day    (N=167)    (%)     
+   All  EPS≠B-OSE_Labeled_AE  events            5             12            20                        
+   All  EPS≠B-OSE_Labeled_AE  events, excluding  Akathisia≠B-NonOSE_AE / Restlessness≠B-NonOSE_AE       2             5             9                         
+  
+  Note: Figures rounded to the nearest integer    
+  *  Dystonia≠B-OSE_Labeled_AE  includes adverse event terms:  dystonia≠B-OSE_Labeled_AE ,  oculogyric≠B-OSE_Labeled_AE   crisis≠I-OSE_Labeled_AE ,  oromandibular≠B-OSE_Labeled_AE   dystonia≠I-OSE_Labeled_AE ,  tongue≠B-OSE_Labeled_AE   spasm≠I-OSE_Labeled_AE ,  torticollis≠B-OSE_Labeled_AE , and  trismus≠B-OSE_Labeled_AE     
+  **  Parkinsonism≠B-OSE_Labeled_AE  includes adverse event terms:  bradykinesia≠B-OSE_Labeled_AE ,  cogwheel≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  drooling≠B-OSE_Labeled_AE ,  extrapyramidal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  glabellar≠B-OSE_Labeled_AE   reflex≠I-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  hypokinesia≠B-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  parkinsonism≠B-OSE_Labeled_AE ,  psychomotor≠B-OSE_Labeled_AE   retardation≠I-OSE_Labeled_AE , and  tremor≠B-OSE_Labeled_AE     
+  
+       Akathisia≠B-OSE_Labeled_AE             2             8             11                          
+       Dystonia≠B-OSE_Labeled_AE *            0             0             2                           
+       Parkinsonism≠B-OSE_Labeled_AE **       2             5             8                           
+       Restlessness≠B-OSE_Labeled_AE          <1            0             3                           
+               Adjunctive Therapy with Lithium or Valproate  
+ 
+
+ In the short-term, placebo-controlled adjunctive therapy  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate  studies, for LATUDA-treated patients, the incidence of  EPS≠B-OSE_Labeled_AE , excluding  akathisia≠B-NonOSE_AE  and  restlessness≠B-NonOSE_AE , was 13.9% versus 8.7% for placebo. The incidence of  akathisia≠B-OSE_Labeled_AE  for LATUDA-treated patients was 10.8% versus 4.8% for placebo-treated patients. Incidence of  EPS≠B-OSE_Labeled_AE  is provided in  Table 20  .
+
+
+
+ Table 20: Incidence of EPS Compared to Placebo in the Adjunctive Therapy Bipolar Depression Studies 
+   Adverse Event Term        Placebo    (N=334)    (%)           LATUDA        20 to 120 mg/day(N=360)    (%)     
+   All  EPS≠B-OSE_Labeled_AE  events            13                                  24                                       
+   All  EPS≠B-OSE_Labeled_AE  events, excluding  Akathisia≠B-NonOSE_AE / Restlessness≠B-NonOSE_AE       9                                   14                                       
+  
+  Note: Figures rounded to the nearest integer    
+  *  Dystonia≠B-OSE_Labeled_AE  includes adverse event terms:  dystonia≠B-OSE_Labeled_AE ,  oculogyric≠B-OSE_Labeled_AE   crisis≠I-OSE_Labeled_AE ,  oromandibular≠B-OSE_Labeled_AE   dystonia≠I-OSE_Labeled_AE ,  tongue≠B-OSE_Labeled_AE   spasm≠I-OSE_Labeled_AE ,  torticollis≠B-OSE_Labeled_AE , and  trismus≠B-OSE_Labeled_AE     
+  **  Parkinsonism≠B-OSE_Labeled_AE  includes adverse event terms:  bradykinesia≠B-OSE_Labeled_AE ,  cogwheel≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  drooling≠B-OSE_Labeled_AE ,  extrapyramidal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  glabellar≠B-OSE_Labeled_AE   reflex≠I-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  hypokinesia≠B-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  parkinsonism≠B-OSE_Labeled_AE ,  psychomotor≠B-OSE_Labeled_AE   retardation≠I-OSE_Labeled_AE , and  tremor≠B-OSE_Labeled_AE     
+  
+       Akathisia≠B-OSE_Labeled_AE             5                                   11                                         
+       Dystonia≠B-OSE_Labeled_AE *            <1                                  1                                          
+       Parkinsonism≠B-OSE_Labeled_AE **       8                                   13                                         
+       Restlessness≠B-OSE_Labeled_AE          <1                                  4                                          
+         In the short-term, placebo-controlled  schizophrenia≠B-Not_AE_Candidate  and  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate  studies, data was objectively collected on the Simpson Angus Rating Scale (SAS) for  extrapyramidal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  EPS≠I-OSE_Labeled_AE ), the Barnes Akathisia Scale (BAS) for  akathisia≠B-NonOSE_AE  and the  Abnormal≠B-NonOSE_AE   Involuntary≠I-NonOSE_AE  Movement Scale (AIMS) for  dyskinesias≠B-NonOSE_AE .
+ 
+
+     Schizophrenia  
+
+
+
+ The mean change from baseline for LATUDA-treated patients for the SAS, BAS and AIMS was comparable to placebo-treated patients, with the exception of the Barnes  Akathisia≠B-NonOSE_AE  Scale global score (LATUDA, 0.1; placebo, 0.0). The percentage of patients who shifted from normal to abnormal was greater in LATUDA-treated patients versus placebo for the BAS (LATUDA, 14.4%; placebo, 7.1%), the SAS (LATUDA, 5.0%; placebo, 2.3%) and the AIMS (LATUDA, 7.4%; placebo, 5.8%).
+
+
+
+     Bipolar Depression  
+
+
+
+     Monotherapy  
+
+
+
+ The mean change from baseline for LATUDA-treated patients for the SAS, BAS and AIMS was comparable to placebo-treated patients. The percentage of patients who shifted from normal to abnormal was greater in LATUDA-treated patients versus placebo for the BAS (LATUDA, 8.4%; placebo, 5.6%), the SAS (LATUDA, 3.7%; placebo, 1.9%) and the AIMS (LATUDA, 3.4%; placebo, 1.2%).
+
+
+
+   Adjunctive Therapy with Lithium or Valproate  
+
+
+
+ The mean change from baseline for LATUDA-treated patients for the SAS, BAS and AIMS was comparable to placebo-treated patients. The percentage of patients who shifted from normal to abnormal was greater in LATUDA-treated patients versus placebo for the BAS (LATUDA, 8.7%; placebo, 2.1%), the SAS (LATUDA, 2.8%; placebo, 2.1%) and the AIMS (LATUDA, 2.8%; placebo, 0.6%).
+
+
+
+     Dystonia  
+
+
+
+     Class Effect:  Symptoms of  dystonia≠B-OSE_Labeled_AE , prolonged  abnormal≠B-OSE_Labeled_AE   contractions≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   muscle≠I-OSE_Labeled_AE   groups≠I-OSE_Labeled_AE , may occur in susceptible individuals during the first few days of treatment.  Dystonic≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  include:  spasm≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   neck≠I-NonOSE_AE   muscles≠I-NonOSE_AE , sometimes progressing to  tightness≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   throat≠I-NonOSE_AE ,  swallowing≠B-NonOSE_AE   difficulty≠I-NonOSE_AE ,  difficulty≠B-NonOSE_AE   breathing≠I-NonOSE_AE , and/or  protrusion≠B-NonOSE_AE   of≠I-NonOSE_AE  the  tongue≠I-NonOSE_AE . While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first-generation antipsychotic drugs. An elevated risk of  acute≠B-NonOSE_AE   dystonia≠I-NonOSE_AE  is observed in males and younger age groups.
+
+
+
+     Schizophrenia  
+
+
+
+ In the short-term, placebo-controlled  schizophrenia≠B-Not_AE_Candidate  clinical studies,  dystonia≠B-OSE_Labeled_AE  occurred in 4.2% of LATUDA-treated subjects (0.0% LATUDA 20 mg, 3.5% LATUDA 40 mg, 4.5% LATUDA 80 mg, 6.5% LATUDA 120 mg and 2.5% LATUDA 160 mg) compared to 0.8% of subjects receiving placebo. Seven subjects (0.5%, 7/1508) discontinued clinical trials due to dystonic events - four were receiving LATUDA 80 mg/day and three were receiving LATUDA 120 mg/day.
+
+
+
+     Bipolar Depression  
+
+
+
+     Monotherapy  
+
+
+
+ In the short-term, flexible-dose, placebo-controlled monotherapy  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate  study,  dystonia≠B-OSE_Labeled_AE  occurred in 0.9% of LATUDA-treated subjects (0.0% and 1.8% for LATUDA 20 to 60 mg/day and LATUDA 80 to 120 mg/day, respectively) compared to 0.0% of subjects receiving placebo. No subject discontinued the clinical study due to  dystonic≠B-NonOSE_AE   events≠I-NonOSE_AE .
+
+
+
+     Adjunctive Therapy with Lithium or Valproate  
+
+
+
+ In the short-term, flexible-dose, placebo-controlled adjunctive therapy  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate  studies,  dystonia≠B-OSE_Labeled_AE  occurred in 1.1% of LATUDA-treated subjects (20 to 120 mg) compared to 0.6% of subjects receiving placebo. No subject discontinued the clinical study due to  dystonic≠B-NonOSE_AE   events≠I-NonOSE_AE .
+
+
+
+     Other Adverse Reactions Observed During the Premarketing Evaluation of LATUDA  
+
+
+
+ Following is a list of adverse reactions reported by patients treated with LATUDA at multiple doses of >= 20 mg once daily within the premarketing database of 2905 patients with  schizophrenia≠B-Not_AE_Candidate . The reactions listed are those that could be of clinical importance, as well as reactions that are plausibly drug-related on pharmacologic or other grounds. Reactions listed in  Table 15  or those that appear elsewhere in the LATUDA label are not included. Although the reactions reported occurred during treatment with LATUDA, they were not necessarily caused by it.
+
+
+
+ Reactions are further categorized by organ class and listed in order of decreasing frequency according to the following definitions: those occurring in at least 1/100 patients (frequent) (only those not already listed in the tabulated results from placebo-controlled studies appear in this listing); those occurring in 1/100 to 1/1000 patients (infrequent); and those occurring in fewer than 1/1000 patients (rare).
+
+
+
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :    Infrequent:     anemia≠B-OSE_Labeled_AE   
+
+
+
+    Cardiac≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :    Frequent:     tachycardia≠B-OSE_Labeled_AE ;    Infrequent:     AV≠B-OSE_Labeled_AE   block≠I-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  st≠I-OSE_Labeled_AE   degree≠I-OSE_Labeled_AE ,  angina≠B-OSE_Labeled_AE   pectoris≠I-OSE_Labeled_AE ,  bradycardia≠B-OSE_Labeled_AE   
+
+
+
+    Ear≠B-NonOSE_AE   and≠I-NonOSE_AE   Labyrinth≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :    Infrequent:     vertigo≠B-OSE_Labeled_AE   
+
+
+
+    Eye≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :    Frequent:     blurred≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE   
+
+
+
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :    Frequent:     abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ;    Infrequent:     gastritis≠B-OSE_Labeled_AE   
+
+
+
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   Administrative≠I-NonOSE_AE   Site≠I-NonOSE_AE   Conditions≠I-NonOSE_AE :    Rare:     sudden≠B-OSE_Labeled_AE   death≠I-OSE_Labeled_AE   
+
+
+
+    Investigations≠B-NonOSE_AE :    Frequent:     CPK≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   
+
+
+
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutritional≠I-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :    Frequent:     decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE   
+
+
+
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :    Rare:     rhabdomyolysis≠B-OSE_Labeled_AE   
+
+
+
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :    Infrequent:     cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE ,  dysarthria≠B-OSE_Labeled_AE   
+
+
+
+    Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :    Infrequent:     abnormal≠B-OSE_Labeled_AE   dreams≠I-OSE_Labeled_AE ,  panic≠B-OSE_Labeled_AE   attack≠I-OSE_Labeled_AE ,  sleep≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE   
+
+
+
+    Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   Urinary≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :    Infrequent:     dysuria≠B-OSE_Labeled_AE ;    Rare:     renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE   
+
+
+
+    Reproductive≠B-NonOSE_AE   System≠I-NonOSE_AE   and≠I-NonOSE_AE   Breast≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :    Infrequent:     amenorrhea≠B-OSE_Labeled_AE ,  dysmenorrhea≠B-OSE_Labeled_AE ;    Rare:     breast≠B-OSE_Labeled_AE   enlargement≠I-OSE_Labeled_AE ,  breast≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  galactorrhea≠B-OSE_Labeled_AE ,  erectile≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE   
+
+
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :    Frequent:     rash≠B-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE ;    Rare:     angioedema≠B-OSE_Labeled_AE   
+
+
+
+    Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :    Frequent:     hypertension≠B-OSE_Labeled_AE   
+
+
+
+     Clinical Laboratory Changes  
+
+
+
+   Schizophrenia
+
+
+
+   Serum Creatinine  : In short-term, placebo-controlled trials, the  mean≠B-OSE_Labeled_AE   change≠I-OSE_Labeled_AE   from≠I-OSE_Labeled_AE   Baseline≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE  was +0.05 mg/dL for LATUDA-treated patients compared to +0.02 mg/dL for placebo-treated patients. A  creatinine≠B-OSE_Labeled_AE  shift from normal to  high≠I-OSE_Labeled_AE  occurred in 3.0% (43/1453) of LATUDA-treated patients and 1.6% (11/681) on placebo. The threshold for  high≠B-NonOSE_AE   creatinine≠I-NonOSE_AE  value varied from > 0.79 to > 1.3 mg/dL based on the centralized laboratory definition for each study (  Table 21  ).
+
+
+
+ Table 21: Serum Creatinine Shifts from Normal at Baseline to High at Study End-Point in Schizophrenia Studies 
+   Laboratory Parameter      Placebo    (N=708)      LATUDA 20mg/day    (N=71)      LATUDA 40mg/day    (N=487)      LATUDA 80mg/day    (N=538)      LATUDA 120 mg/day    (N=291)      LATUDA 160mg/day    (N=121)     
+    Serum≠B-OSE_Labeled_AE   Creatinine≠I-OSE_Labeled_AE   Elevated≠I-OSE_Labeled_AE     2%           1%             2%             2%             5%             7%              
+               Bipolar Depression
+ 
+
+     Monotherapy  
+
+
+
+     Serum Creatinine  : In the short-term, flexible-dose, placebo-controlled monotherapy  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate  study, the  mean≠B-OSE_Labeled_AE   change≠I-OSE_Labeled_AE   from≠I-OSE_Labeled_AE   Baseline≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE  was +0.01 mg/dL for LATUDA-treated patients compared to -0.02 mg/dL for placebo-treated patients. A  creatinine≠B-OSE_Labeled_AE  shift from normal to  high≠I-OSE_Labeled_AE  occurred in 2.8% (9/322) of LATUDA-treated patients and 0.6% (1/162) on placebo (  Table 22  ).
+
+
+
+ Table 22: Serum Creatinine Shifts from Normal at Baseline to High at Study End-Point in a Monotherapy Bipolar Depression Study 
+   Laboratory Parameter           Placebo    (N=168)      LATUDA20 to 60 mg/day    (N=164)      LATUDA80 to 120 mg/day    (N=167)     
+    Serum≠B-OSE_Labeled_AE   Creatinine≠I-OSE_Labeled_AE   Elevated≠I-OSE_Labeled_AE     <1%                     2%                        4%                       
+              Adjunctive Therapy with Lithium or Valproate  
+ 
+
+     Serum Creatinine  : In short-term, placebo-controlled premarketing adjunctive studies for  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate , the  mean≠B-OSE_Labeled_AE   change≠I-OSE_Labeled_AE   from≠I-OSE_Labeled_AE   Baseline≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE  was +0.04 mg/dL for LATUDA-treated patients compared to -0.01 mg/dL for placebo-treated patients. A  creatinine≠B-OSE_Labeled_AE  shift from normal to  high≠I-OSE_Labeled_AE  occurred in 4.3% (15/360) of LATUDA-treated patients and 1.6% (5/334) on placebo (  Table 23  ).
+
+
+
+ Table 23: Serum Creatinine Shifts from Normal at Baseline to High at Study End-Point in the Adjunctive Therapy  Bipolar≠B-Not_AE_Candidate   Depression≠I-Not_AE_Candidate  Studies 
+   Laboratory Parameter           Placebo    (N=334)                 LATUDA    20 to 120 mg/day(N=360)     
+    Serum≠B-OSE_Labeled_AE   Creatinine≠I-OSE_Labeled_AE   Elevated≠I-OSE_Labeled_AE     2%                                 4%                                     

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="TIGAN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  There have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parenteral administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therefore, the drug should be discontinued at the first sign of sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases.
+
+
+
+   For medical advice about adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact Par Pharmaceutical, Inc. at 1-800-828-9393 or FDA at 1-800-FDA-1088 (1-800-332-1088) or www.fda.gov/medwatch.  
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+  During the course of acute febrile illness, encephalitides, gastroenteritis, dehydration and electrolyte imbalance, especially in children and the elderly or debilitated, CNS reactions such as opisthotonos, convulsions, coma and extrapyramidal symptoms have been reported with and without use of Tigan    (r)  (trimethobenzamide hydrochloride) or other antiemetic agents. In such disorders caution should be exercised in administering Tigan    (r)  , particularly to patients who have recently received other CNS-acting agents (phenothiazines, barbiturates, belladonna derivatives). Primary emphasis should be directed toward the restoration of body fluids and electrolyte balance, the relief of fever and relief of the causative disease process. Overhydration should be avoided since it may result in cerebral edema.
+
+
+
+ The antiemetic effects of Tigan    (r)  may render diagnosis more difficult in such conditions as appendicitis and obscure signs of toxicity due to overdosage of other drugs.
+
+
+
+    General
+
+
+
+   Adjustment of Dose in Renal Failure
+
+
+
+  A substantial route of elimination of unchanged trimethobenzamide is via the kidney. Dosage adjustment should be considered in patients with reduced renal function including some elderly patients. (See   CLINICAL PHARMACOLOGY  and  DOSAGE AND ADMINISTRATION    ).
+
+
+
+    Geriatric Use
+
+
+
+  Clinical studies of trimethobenzamide hydrochloride did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients. Although there are studies reported in the literature that include elderly patients &gt; 65 years old with younger patients, it is not known if there are differences in efficacy or safety parameters for elderly and non-elderly patients treated with trimethobenzamide. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+
+
+ This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function. (See   CLINICAL PHARMACOLOGY  and  DOSAGE AND ADMINISTRATION    ).
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+   Tigan    (r)  may produce drowsiness. Patients should not operate motor vehicles or other dangerous machinery until their individual responses have been determined.
+
+
+
+    Usage in Pregnancy
+
+
+
+  Trimethobenzamide hydrochloride was studied in reproduction experiments in rats and rabbits and no teratogenicity was suggested. The only effects observed were an increased percentage of embryonic resorptions or stillborn pups in rats administered 20 mg and 100 mg/kg and increased resorptions in rabbits receiving 100 mg/kg. In each study these adverse effects were attributed to one or two dams. The relevance to humans is not known. Since there is no adequate experience in pregnant or lactating women who have received this drug, safety in pregnancy or in nursing mothers has not been established.
+
+
+
+    Usage with Alcohol
+
+
+
+  Concomitant use of alcohol with Tigan    (r)  may result in an adverse drug interaction.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="18" name="heading" section="S3" start="191" />
+    <IgnoredRegion len="18" name="heading" section="S3" start="824" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="1025" />
+    <IgnoredRegion len="35" name="heading" section="S2" start="1039" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="1351" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

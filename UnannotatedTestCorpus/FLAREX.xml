@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="FLAREX">
+  <Text>
+    <Section id="S1" name="adverse reactions">    
+
+    ADVERSE REACTIONS:  Glaucoma with optic nerve damage, visual acuity and field defects, cataract formation, secondary ocular infection following suppression of host response, and perforation of the globe may occur.
+
+
+
+   Postmarketing Experience:  The following reaction has been identified during post-marketing use of FLAREX(r) (fluorometholone acetate ophthalmic suspension) in clinical practice. Because reactions are reported voluntarily from a population of unknown size, estimates of frequency cannot be made. The reaction, which has been chosen for inclusion due to either its seriousness, frequency of reporting, possible causal connection to FLAREX, or a combination of these factors, includes: dysgeusia.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS:
+
+
+
+   
+
+
+
+   General:  Fungal infections of the cornea are particularly prone to develop coincidentally with long-term local steroid application. Fungus invasion must be considered in any persistent corneal ulceration where a steroid has been used or is in use.
+
+
+
+    
+
+
+
+   Information for Patients:  Do not touch dropper tip to any surface, as this may contaminate the suspension. The preservative in FLAREX(r) (fluorometholone acetate ophthalmic suspension), benzalkonium chloride, may be absorbed by soft contact lenses. Contact lenses should be removed during instillation of FLAREX (fluorometholone acetate ophthalmic suspension) but may be reinserted 15 minutes after instillation.
+
+
+
+ Patients should be advised that their vision may be temporarily blurred following dosing with FLAREX (fluorometholone acetate ophthalmic suspension). Care should be exercised in operating machinery or driving a motor vehicle.
+
+
+
+    
+
+
+
+   Carcinogenesis, Mutagenesis, Impairment of Fertility:  No studies have been conducted in animals or in humans to evaluate the possibility of these effects with fluorometholone.
+
+
+
+    
+
+
+
+   Pregnancy:  Fluorometholone has been shown to be embryocidal and teratogenic in rabbits when administered at low multiples of the human ocular dose. Fluorometholone was applied ocularly to rabbits daily on days 6-18 of gestation, and dose-related fetal loss and fetal abnormalities including cleft palate, deformed rib cage, anomalous limbs and neural abnormalities such as encephalocele, craniorachischisis, and spina bifida were observed. There are no adequate and well controlled studies of fluorometholone in pregnant women, and it is not known whether fluorometholone can cause fetal harm when administered to a pregnant woman. Fluorometholone should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+    
+
+
+
+   Nursing Mothers:  Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects. It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk. Because many drugs are excreted in human milk, caution should be exercised when FLAREX (fluorometholone acetate ophthalmic suspension), is administered to a nursing woman.
+
+
+
+    
+
+
+
+   Pediatric Use:  Safety and effectiveness in pediatric patients have not been established.
+
+
+
+    
+
+
+
+   Geriatric Use:  No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+</Section>
+    <Section id="S3" name="warnings">    
+
+
+
+   WARNINGS:  FOR TOPICAL OPHTHALMIC USE ONLY. NOT FOR INJECTION. Use in the treatment of herpes simplex infection requires great caution. Prolonged use may result in glaucoma, damage to the optic nerve, defect in visual acuity and visual field, cataract formation and/or may aid in the establishment of secondary ocular infections from pathogens due to suppression of host response. Acute purulent infections of the eye may be masked or exacerbated by presence of steroid medication. Topical ophthalmic corticosteroids may slow corneal wound healing. In those diseases causing thinning of the cornea or sclera, perforation has been known to occur with chronic use of topical steroids. It is advisable that the intraocular pressure be checked frequently.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="0" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="12" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="0" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="23" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="286" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="944" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="1135" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="1903" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="2444" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="2548" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

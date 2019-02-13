@@ -1,0 +1,228 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Increases in serum transaminase levels and bilirubin were observed. Severe and fatal hepatotoxicity has occurred. Measure liver chemistries before the initiation of treatment and regularly during treatment. (  5.1  ) 
+ *    Prolonged QT intervals and torsades de pointes have been observed. Use with caution in patients at higher risk of developing QT interval prolongation. Monitoring electrocardiograms and electrolytes should be considered. (  5.2  ) 
+ *    Cardiac dysfunction such as congestive heart failure and decreased left ventricular ejection fraction (LVEF) have occurred. Monitor blood pressure and manage hypertension promptly. Baseline and periodic evaluation of LVEF is recommended in patients at risk of cardiac dysfunction. (  5.3  ) 
+ *    Fatal hemorrhagic events have been reported. VOTRIENT has not been studied in patients who have a history of hemoptysis, cerebral, or clinically significant gastrointestinal hemorrhage in the past 6 months and should not be used in those patients. (  5.4  ) 
+ *    Arterial thromboembolic events have been observed and can be fatal. Use with caution in patients who are at increased risk for these events. (  5.5  ) 
+ *    Venous thromboembolic events (VTE) have been observed, including fatal pulmonary emboli (PE). Monitor for signs and symptoms of VTE and PE. (  5.6  ) 
+ *    Thrombotic microangiopathy (TMA), including thrombotic thrombocytopenic purpura (TTP) and hemolytic uremic syndrome (HUS) has been observed. Permanently discontinue VOTRIENT if TMA occurs. (  5.7  ) 
+ *    Gastrointestinal perforation or fistula has occurred. Fatal perforation events have occurred. Use with caution in patients at risk for gastrointestinal perforation or fistula. (  5.8  ) 
+ *    Interstitial lung disease (ILD)/pneumonitis have been observed and can be fatal. Discontinue VOTRIENT in patients developing ILD or pneumonitis. (  5.9  ) 
+ *    Reversible Posterior Leukoencephalopathy Syndrome (RPLS) has been observed and can be fatal. Permanently discontinue VOTRIENT in patients developing RPLS. (  5.10  ) 
+ *    Hypertension including hypertensive crisis has been observed. Blood pressure should be well controlled prior to initiating VOTRIENT. Monitor blood pressure within one week after starting VOTRIENT and frequently thereafter. (  5.11  ) 
+ *    Interruption of therapy with VOTRIENT is recommended in patients undergoing surgical procedures. (  5.12  ) 
+ *    Hypothyroidism may occur. Monitoring of thyroid function tests is recommended. (  5.13  ) 
+ *    Proteinuria: Monitor urine protein. Interrupt treatment for 24-hour urine protein >=3 grams and discontinue for repeat episodes despite dose reductions. (  5.14  ) 
+ *    Infection: Serious infections (with or without neutropenia), some with fatal outcome, have been reported. Monitor for signs and symptoms and treat active infection promptly. Interrupt or discontinue VOTRIENT. (  5.15  ) 
+ *    Animal studies have demonstrated VOTRIENT can severely affect organ growth and maturation during early post-natal development. The safety and effectiveness in pediatric patients have not been established. (  5.17  ) 
+ *    VOTRIENT can cause fetal harm when administered to a pregnant woman. Women of childbearing potential should be advised of the potential hazard to the fetus and to avoid becoming pregnant while taking VOTRIENT. (  5.18  ,  8.1  ) 
+    
+ 
+
+   5.1 Hepatic Toxicity and Hepatic Impairment
+
+
+
+  In clinical trials with VOTRIENT,  hepatotoxicity≠B-OSE_Labeled_AE , manifested as  increases≠B-OSE_Labeled_AE  in serum transaminases (ALT,  AST≠I-OSE_Labeled_AE ) and bilirubin, was observed. This  hepatotoxicity≠B-OSE_Labeled_AE  can be severe and  fatal≠B-NonOSE_AE . Patients older than 65 years are at greater risk for  hepatotoxicity≠B-NonOSE_AE  [see Use in Specific Populations (8.5)]  .   Transaminase≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  occur early in the course of treatment (92.5% of all  transaminase≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  of any grade occurred in the first 18 weeks) [see Dosage and Administration (2.2)]  .
+
+
+
+ In the randomized  RCC≠B-Not_AE_Candidate  trial,  ALT≠B-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  3≠I-OSE_Labeled_AE   X≠I-OSE_Labeled_AE   ULN≠I-OSE_Labeled_AE  was reported in 18% and 3% of the groups receiving VOTRIENT and placebo, respectively.  ALT≠B-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   X≠I-OSE_Labeled_AE   ULN≠I-OSE_Labeled_AE  was reported in 4% of patients who received VOTRIENT and in <1% of patients who received placebo. Concurrent  elevation≠B-OSE_Labeled_AE  in  ALT≠I-OSE_Labeled_AE  >3 X ULN and  bilirubin≠B-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  2≠I-OSE_Labeled_AE   X≠I-OSE_Labeled_AE   ULN≠I-OSE_Labeled_AE  in the absence of significant  alkaline≠B-NonOSE_AE   phosphatase≠I-NonOSE_AE   >≠I-NonOSE_AE  3≠I-NonOSE_AE   X≠I-NonOSE_AE   ULN≠I-NonOSE_AE  occurred in 2% (5/290) of patients on VOTRIENT and 1% (2/145) on placebo.
+
+
+
+ In the randomized  STS≠B-Not_AE_Candidate  trial,  ALT≠B-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  3≠I-OSE_Labeled_AE   X≠I-OSE_Labeled_AE   ULN≠I-OSE_Labeled_AE  was reported in 18% and 5% of the groups receiving VOTRIENT and placebo, respectively.  ALT≠B-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  8≠I-OSE_Labeled_AE   X≠I-OSE_Labeled_AE   ULN≠I-OSE_Labeled_AE  was reported in 5% and 2% of the groups receiving VOTRIENT and placebo, respectively. Concurrent  elevation≠B-OSE_Labeled_AE  in  ALT≠I-OSE_Labeled_AE  >3 X ULN and bilirubin >2 X ULN in the absence of significant  alkaline≠B-NonOSE_AE   phosphatase≠I-NonOSE_AE   >≠I-NonOSE_AE  3≠I-NonOSE_AE   X≠I-NonOSE_AE   ULN≠I-NonOSE_AE  occurred in 2% (4/240) of patients on VOTRIENT and <1% (1/123) on placebo.
+
+
+
+ Two-tenths percent of the patients (2/977) from trials that supported the  RCC≠B-Not_AE_Candidate  indication  died≠B-NonOSE_AE  with  disease≠B-NonOSE_AE   progression≠I-NonOSE_AE  and  hepatic≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  and 0.4% of patients (1/240) in the randomized STS trial  died≠B-NonOSE_AE  of  hepatic≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE .
+
+
+
+ *    Monitor serum liver tests before initiation of treatment with VOTRIENT and at Weeks 3, 5, 7, and 9. Thereafter, monitor at Month 3 and at Month 4, and as clinically indicated. Periodic monitoring should then continue after Month 4. 
+ *    Patients with isolated  ALT≠B-NonOSE_AE   elevations≠I-NonOSE_AE   between≠I-NonOSE_AE   3≠I-NonOSE_AE   X≠I-NonOSE_AE   ULN≠I-NonOSE_AE  and 8 X ULN may be continued on VOTRIENT with weekly monitoring of liver function until ALT returns to Grade 1 or baseline. 
+ *    Patients with isolated  ALT≠B-NonOSE_AE   elevations≠I-NonOSE_AE  of >8 X ULN should have VOTRIENT interrupted until they return to Grade 1 or baseline. If the potential benefit for reinitiating treatment with VOTRIENT is considered to outweigh the risk for  hepatotoxicity≠B-NonOSE_AE , then reintroduce VOTRIENT at a reduced dose of no more than 400 mg once daily and measure serum liver tests weekly for 8 weeks [see Dosage and Administration (2.2)] . Following reintroduction of VOTRIENT, if  ALT≠B-NonOSE_AE   elevations≠I-NonOSE_AE  >3 X ULN recur, then VOTRIENT should be permanently discontinued. 
+ *    If  ALT≠B-NonOSE_AE   elevations≠I-NonOSE_AE  >3 X ULN occur concurrently with  bilirubin≠B-NonOSE_AE   elevations≠I-NonOSE_AE  >2 X ULN, VOTRIENT should be permanently discontinued. Patients should be monitored until resolution. VOTRIENT is a uridine diphosphate (UDP)-glucuronosyl transferase 1A1 (UGT1A1) inhibitor. Mild, indirect ( unconjugated≠B-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   hyperbilirubinemia≠I-OSE_Labeled_AE  may occur in patients with  Gilbert≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate  [see Clinical Pharmacology (12.5)] . Patients with only a mild  indirect≠B-NonOSE_AE   hyperbilirubinemia≠I-NonOSE_AE , known  Gilbert≠B-NonOSE_AE  '≠I-NonOSE_AE  s≠I-NonOSE_AE   syndrome≠I-NonOSE_AE , and  elevation≠B-NonOSE_AE   in≠I-NonOSE_AE   ALT≠I-NonOSE_AE  >3 X ULN should be managed as per the recommendations outlined for isolated  ALT≠B-NonOSE_AE   elevations≠I-NonOSE_AE . 
+    Concomitant use of VOTRIENT and simvastatin increases the risk of  ALT≠B-NonOSE_AE   elevations≠I-NonOSE_AE  and should be undertaken with caution and close monitoring [see Drug Interactions (7.4)]  . Insufficient data are available to assess the risk of concomitant administration of alternative statins and VOTRIENT.
+ 
+
+ In patients with pre-existing moderate  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate , the starting dose of VOTRIENT should be reduced or alternatives to VOTRIENT should be considered. Treatment with VOTRIENT is not recommended in patients with pre-existing severe  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate , defined as total  bilirubin≠B-Not_AE_Candidate   >≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate   X≠I-Not_AE_Candidate   ULN≠I-Not_AE_Candidate  with any level of ALT [see Dosage and Administration (2.2), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]  .
+
+
+
+    5.2 QT Prolongation and Torsades de Pointes
+
+
+
+  In the  RCC≠B-Not_AE_Candidate  trials of VOTRIENT,  QT≠B-OSE_Labeled_AE   prolongation≠I-OSE_Labeled_AE  (>=500 msec) was identified on routine electrocardiogram monitoring in 2% (11/558) of patients.  Torsades≠B-OSE_Labeled_AE   de≠I-OSE_Labeled_AE   pointes≠I-OSE_Labeled_AE  occurred in <1% (2/977) of patients who received VOTRIENT in the monotherapy trials.
+
+
+
+ In the randomized  RCC≠B-Not_AE_Candidate  and  STS≠B-Not_AE_Candidate  trials, 1% (3/290) of patients and 0.4% (1/240) of patients, respectively, who received VOTRIENT had post-baseline values between 500 to 549 msec. Post-baseline QT data were only collected in the  STS≠B-Not_AE_Candidate  trial if  ECG≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  were reported as an adverse reaction. None of the 268 patients who received placebo on the two trials had post-baseline  QTc≠B-NonOSE_AE   values≠I-NonOSE_AE   >≠I-NonOSE_AE  =≠I-NonOSE_AE  5≠I-NonOSE_AE  0≠I-NonOSE_AE  0≠I-NonOSE_AE   msec≠I-NonOSE_AE .
+
+
+
+ VOTRIENT should be used with caution in patients with a history of  QT≠B-Not_AE_Candidate   interval≠I-Not_AE_Candidate   prolongation≠I-Not_AE_Candidate , in patients taking antiarrhythmics or other medications that may  prolong≠B-NonOSE_AE   QT≠I-NonOSE_AE   interval≠I-NonOSE_AE , and those with relevant  pre≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  existing≠I-Not_AE_Candidate  cardiac  disease≠I-Not_AE_Candidate . When using VOTRIENT, baseline and periodic monitoring of electrocardiograms and maintenance of electrolytes (e.g., calcium, magnesium, potassium) within the normal range should be performed.
+
+
+
+    5.3 Cardiac Dysfunction
+
+
+
+  In clinical trials with VOTRIENT, events of  cardiac≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE  such as  decreased≠B-OSE_Labeled_AE   left≠I-OSE_Labeled_AE   ventricular≠I-OSE_Labeled_AE   ejection≠I-OSE_Labeled_AE   fraction≠I-OSE_Labeled_AE  (LVEF) and  congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  have occurred. In the overall safety population for  RCC≠B-Not_AE_Candidate  (N = 586),  cardiac≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE  was observed in 0.6% (4/586) of patients without routine on-study LVEF monitoring. In a randomized  RCC≠B-Not_AE_Candidate  trial of VOTRIENT compared with sunitinib,  myocardial≠B-NonOSE_AE   dysfunction≠I-NonOSE_AE  was defined as symptoms of  cardiac≠B-NonOSE_AE   dysfunction≠I-NonOSE_AE  or >=15% absolute  decline≠B-NonOSE_AE   in≠I-NonOSE_AE   LVEF≠I-NonOSE_AE  compared with baseline or a  decline≠B-NonOSE_AE   in≠I-NonOSE_AE   LVEF≠I-NonOSE_AE   of≠I-NonOSE_AE   >≠I-NonOSE_AE  =≠I-NonOSE_AE  1≠I-NonOSE_AE  0≠I-NonOSE_AE  %≠I-NonOSE_AE  compared with baseline that is also below the lower limit of normal. In patients who had baseline and follow up LVEF measurements,  myocardial≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE  occurred in 13% (47/362) of patients on VOTRIENT compared with 11% (42/369) of patients on sunitinib.  Congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  occurred in 0.5% of patients on each arm.   In the randomized  STS≠B-Not_AE_Candidate  trial,  myocardial≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE  occurred in 11% (16/142) of patients on VOTRIENT compared with 5% (2/40) of patients on placebo. One percent (3/240) of patients on VOTRIENT in the  STS≠B-Not_AE_Candidate  trial had  congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  which did not resolve in one patient.
+
+
+
+ Fourteen of the 16 patients with  myocardial≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE  treated with VOTRIENT in the  STS≠B-Not_AE_Candidate  trial had concurrent  hypertension≠B-Not_AE_Candidate  which may have exacerbated  cardiac≠B-NonOSE_AE   dysfunction≠I-NonOSE_AE  in patients at risk (e.g., those with prior anthracycline therapy) possibly by  increasing≠B-NonOSE_AE   cardiac≠I-NonOSE_AE   afterload≠I-NonOSE_AE . Blood pressure should be monitored and managed promptly using a combination of  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  hypertensive≠I-NonOSE_AE   therapy≠I-NonOSE_AE  and dose modification of VOTRIENT (interruption and re-initiation at a reduced dose based on clinical judgment) [see Warnings and Precautions (5.11)]  . Patients should be carefully monitored for clinical signs or symptoms of  congestive≠B-NonOSE_AE   heart≠I-NonOSE_AE   failure≠I-NonOSE_AE . Baseline and periodic evaluation of LVEF is recommended in patients at risk of  cardiac≠B-NonOSE_AE   dysfunction≠I-NonOSE_AE  including previous anthracycline exposure.
+
+
+
+    5.4 Hemorrhagic Events
+
+
+
+  Fatal  hemorrhage≠B-OSE_Labeled_AE  occurred in 0.9% (5/586) in the  RCC≠B-Not_AE_Candidate  trials; there were no reports of  fatal≠B-NonOSE_AE   hemorrhage≠B-NonOSE_AE  in the  STS≠B-Not_AE_Candidate  trials. In the randomized  RCC≠B-Not_AE_Candidate  trial, 13% (37/290) of patients treated with VOTRIENT and 5% (7/145) of patients on placebo experienced at least 1  hemorrhagic≠B-OSE_Labeled_AE   event≠I-OSE_Labeled_AE . The most common  hemorrhagic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  in the patients treated with VOTRIENT were  hematuria≠B-OSE_Labeled_AE  (4%),  epistaxis≠B-OSE_Labeled_AE  (2%),  hemoptysis≠B-OSE_Labeled_AE  (2%), and  rectal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  (1%). Nine of 37 patients treated with VOTRIENT who had  hemorrhagic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  experienced serious events including  pulmonary≠B-OSE_Labeled_AE , gastrointestinal, and genitourinary  hemorrhage≠I-OSE_Labeled_AE . One percent (4/290) of patients treated with VOTRIENT  died≠B-NonOSE_AE  from  hemorrhage≠B-OSE_Labeled_AE  compared with no (0/145) patients on placebo. In the overall safety population in  RCC≠B-Not_AE_Candidate  (N = 586),  cerebral≠B-OSE_Labeled_AE /intracranial  hemorrhage≠I-OSE_Labeled_AE  was observed in <1% (2/586) of patients treated with VOTRIENT.
+
+
+
+ In the randomized  STS≠B-Not_AE_Candidate  trial, 22% (53/240) of patients treated with VOTRIENT compared with 8% (10/123) treated with placebo experienced at least 1  hemorrhagic≠B-OSE_Labeled_AE   event≠I-OSE_Labeled_AE . The most common  hemorrhagic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  were  epistaxis≠B-OSE_Labeled_AE  (8%),  mouth≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  (3%), and  anal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  (2%). Grade 4  hemorrhagic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  in the  STS≠B-Not_AE_Candidate  population occurred in 1% (3/240) of patients and included  intracranial≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  subarachnoid≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE , and  peritoneal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE .
+
+
+
+ VOTRIENT has not been studied in patients who have a history of  hemoptysis≠B-Not_AE_Candidate ,  cerebral≠B-Not_AE_Candidate   hemorrhage≠I-Not_AE_Candidate , or clinically significant  gastrointestinal≠B-Not_AE_Candidate   hemorrhage≠I-Not_AE_Candidate  in the past 6 months and should not be used in those patients.
+
+
+
+    5.5 Arterial Thromboembolic Events
+
+
+
+  Fatal  arterial≠B-OSE_Labeled_AE   thromboembolic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  were observed in 0.3% (2/586) of patients in the  RCC≠B-Not_AE_Candidate  trials and in no patients in the  STS≠B-Not_AE_Candidate  trials. In the randomized  RCC≠B-Not_AE_Candidate  trial, 2% (5/290) of patients receiving VOTRIENT experienced  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE  or ischemia, 0.3% (1/290) had a  cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE , and 1% (4/290) had an event of  transient≠B-OSE_Labeled_AE   ischemic≠I-OSE_Labeled_AE   attack≠I-OSE_Labeled_AE . In the randomized  STS≠B-Not_AE_Candidate  trial, 2% (4/240) of patients receiving VOTRIENT experienced a  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE  or  ischemia≠B-OSE_Labeled_AE , 0.4% (1/240) had a  cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE  and there were no incidents of  transient≠B-NonOSE_AE   ischemic≠I-NonOSE_AE   attack≠I-NonOSE_AE . No  arterial≠B-NonOSE_AE   thromboembolic≠I-NonOSE_AE   events≠I-NonOSE_AE  were reported in patients who received placebo in either trial. VOTRIENT should be used with caution in patients who are at increased risk for these events or who have had a history of these events. VOTRIENT has not been studied in patients who have had an  arterial≠B-Not_AE_Candidate   thromboembolic≠I-Not_AE_Candidate   event≠I-Not_AE_Candidate  within the previous 6 months and should not be used in those patients.
+
+
+
+    5.6 Venous Thromboembolic Events
+
+
+
+  In  RCC≠B-Not_AE_Candidate  and  STS≠B-Not_AE_Candidate  trials of VOTRIENT,  venous≠B-OSE_Labeled_AE   thromboembolic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  (VTE) including  venous≠B-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE  and fatal  pulmonary≠B-OSE_Labeled_AE   embolus≠I-OSE_Labeled_AE  (PE) have occurred. In the randomized  STS≠B-Not_AE_Candidate  trial,  venous≠B-OSE_Labeled_AE   thromboembolic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  were reported in 5% of patients treated with VOTRIENT compared with 2% with placebo. In the randomized  RCC≠B-Not_AE_Candidate  trial, the rate was 1% in both arms.  Fatal≠B-NonOSE_AE   pulmonary≠B-OSE_Labeled_AE   embolus≠I-OSE_Labeled_AE  occurred in 1% (2/240) of  STS≠B-Not_AE_Candidate  patients receiving VOTRIENT and in no patients receiving placebo. There were no fatal  pulmonary≠B-NonOSE_AE   emboli≠I-NonOSE_AE  in the  RCC≠B-Not_AE_Candidate  trial. Monitor for signs and symptoms of  VTE≠B-NonOSE_AE  and  PE≠B-NonOSE_AE .
+
+
+
+    5.7 Thrombotic Microangiopathy
+
+
+
+   Thrombotic≠B-OSE_Labeled_AE   microangiopathy≠I-OSE_Labeled_AE  (TMA), including  thrombotic≠B-OSE_Labeled_AE   thrombocytopenic≠I-OSE_Labeled_AE   purpura≠I-OSE_Labeled_AE  (TTP) and  hemolytic≠B-OSE_Labeled_AE   uremic≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  (HUS), has been reported in clinical trials of VOTRIENT as monotherapy, in combination with bevacizumab, and in combination with topotecan. VOTRIENT is not indicated for use in combination with other agents. Six of the 7  TMA≠B-OSE_Labeled_AE  cases occurred within 90 days of the initiation of VOTRIENT. Improvement of  TMA≠B-NonOSE_AE  was observed after treatment was discontinued. Monitor for signs and symptoms of  TMA≠B-NonOSE_AE . Permanently discontinue VOTRIENT in patients developing  TMA≠B-NonOSE_AE . Manage as clinically indicated.
+
+
+
+    5.8 Gastrointestinal Perforation and Fistula
+
+
+
+  In the  RCC≠B-Not_AE_Candidate  and  STS≠B-Not_AE_Candidate  trials,  gastrointestinal≠B-NonOSE_AE  perforation or fistula occurred in 0.9% (5/586) of patients and 1% (4/382) of patients receiving VOTRIENT, respectively. Fatal  perfora tions≠B-NonOSE_AE ≠I-NonOSE_AE  occurred in 0.3% (2/586) of these patients in the  RCC≠B-Not_AE_Candidate  trials and in 0.3% (1/382) of these patients in the  STS≠B-Not_AE_Candidate  trials. Monitor for signs and symptoms of  gastrointestinal≠B-NonOSE_AE   perforation≠I-NonOSE_AE  or fistula.
+
+
+
+    5.9  Interstitial≠B-OSE_Labeled_AE   Lung≠I-OSE_Labeled_AE   Disease≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  ILD≠I-OSE_Labeled_AE )/Pneumonitis
+
+
+
+    ILD≠B-OSE_Labeled_AE / pneumonitis≠B-OSE_Labeled_AE , which can be  fatal≠B-NonOSE_AE , has been reported in association with VOTRIENT. In clinical trials,  ILD≠B-OSE_Labeled_AE / pneumonitis≠B-OSE_Labeled_AE  occurred in 0.1% of patients treated with VOTRIENT.  
+
+
+
+  Monitor patients for pulmonary symptoms indicative of  ILD≠B-NonOSE_AE / pneumonitis≠B-NonOSE_AE  and discontinue VOTRIENT in patients developing  ILD≠B-NonOSE_AE  or  pneumonitis≠B-NonOSE_AE .  
+
+
+
+    5.10 Reversible Posterior Leukoencephalopathy Syndrome
+
+
+
+   Reversible≠B-OSE_Labeled_AE   Posterior≠I-OSE_Labeled_AE   Leukoencephalopathy≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  (RPLS) has been reported in patients receiving VOTRIENT and may be  fatal≠B-NonOSE_AE .
+
+
+
+  RPLS≠B-NonOSE_AE  is a  neurological≠B-NonOSE_AE   disorder≠I-NonOSE_AE  which can present with  headache≠B-NonOSE_AE ,  seizure≠B-NonOSE_AE ,  lethargy≠B-NonOSE_AE ,  confusion≠B-NonOSE_AE ,  blindness≠B-NonOSE_AE , and other  visual≠B-NonOSE_AE  and neurologic  disturbances≠I-NonOSE_AE . Mild to severe  hypertension≠B-NonOSE_AE  may be present. The diagnosis of  RPLS≠B-NonOSE_AE  is optimally confirmed by magnetic resonance imaging. Permanently discontinue VOTRIENT in patients developing  RPLS≠B-NonOSE_AE .
+
+
+
+    5.11 Hypertension
+
+
+
+  In clinical trials,  hypertension≠B-OSE_Labeled_AE  ( systolic≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  =≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  5≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  or  diastolic≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  =≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   mm≠I-OSE_Labeled_AE   Hg≠I-OSE_Labeled_AE ) and  hypertensive≠B-OSE_Labeled_AE   crisis≠I-OSE_Labeled_AE  were observed in patients treated with VOTRIENT. Blood pressure should be well controlled prior to initiating VOTRIENT.  Hypertension≠B-OSE_Labeled_AE  occurs early in the course of treatment (40% of cases occurred by Day 9 and 90% of cases occurred in the first 18 weeks). Blood pressure should be monitored early after starting treatment (no longer than one week) and frequently thereafter to ensure blood pressure control. Approximately 40% of patients who received VOTRIENT experienced  hypertension≠B-OSE_Labeled_AE . Grade 3  hypertension≠B-OSE_Labeled_AE  was reported in 4% to 7% of patients receiving VOTRIENT [see Adverse Reactions (6.1)]  .
+
+
+
+  Increased≠B-NonOSE_AE   blood≠I-NonOSE_AE   pressure≠I-NonOSE_AE  should be treated promptly with standard  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  hypertensive≠I-NonOSE_AE   therapy≠I-NonOSE_AE  and dose reduction or interruption of VOTRIENT as clinically warranted. VOTRIENT should be discontinued if there is evidence of  hypertensive≠B-NonOSE_AE   crisis≠I-NonOSE_AE  or if  hypertension≠B-NonOSE_AE  is severe and persistent despite  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  hypertensive≠I-NonOSE_AE   therapy≠I-NonOSE_AE  and dose reduction. Approximately 1% of patients required permanent discontinuation of VOTRIENT because of  hypertension≠B-OSE_Labeled_AE  [see Dosage and Administration (2.2)]  .
+
+
+
+    5.12 Wound Healing
+
+
+
+  No formal trials on the effect of VOTRIENT on  wound≠B-NonOSE_AE   healing≠I-NonOSE_AE  have been conducted. Since vascular endothelial growth factor receptor (VEGFR) inhibitors such as pazopanib may  impair≠B-OSE_Labeled_AE   wound≠I-OSE_Labeled_AE   healing≠I-OSE_Labeled_AE , treatment with VOTRIENT should be stopped at least 7 days prior to scheduled surgery. The decision to resume VOTRIENT after surgery should be based on clinical judgment of adequate wound healing. VOTRIENT should be discontinued in patients with  wound≠B-NonOSE_AE   dehiscence≠I-NonOSE_AE .
+
+
+
+    5.13 Hypothyroidism
+
+
+
+   Hypothyroidism≠B-OSE_Labeled_AE , confirmed based on a simultaneous  rise≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   TSH≠I-OSE_Labeled_AE  and  decline≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   T≠I-OSE_Labeled_AE  4≠I-OSE_Labeled_AE , was reported in 7% (19/290) of patients treated with VOTRIENT in the randomized  RCC≠B-Not_AE_Candidate  trial and in 5% (11/240) of patients treated with VOTRIENT in the randomized  STS≠B-Not_AE_Candidate  trial. No patients on the placebo arm of either trial had  hypothyroidism≠B-NonOSE_AE . In  RCC≠B-Not_AE_Candidate  and  STS≠B-Not_AE_Candidate  trials of VOTRIENT,  hypothyroidism≠B-OSE_Labeled_AE  was reported as an adverse reaction in 4% (26/586) and 5% (20/382) of patients, respectively. Proactive monitoring of thyroid function tests is recommended.
+
+
+
+    5.14 Proteinuria
+
+
+
+  In the randomized  RCC≠B-Not_AE_Candidate  trial,  proteinuria≠B-OSE_Labeled_AE  was reported as an adverse reaction in 9% (27/290) of patients receiving VOTRIENT and in no patients receiving placebo. In 2 patients,  proteinuria≠B-OSE_Labeled_AE  led to discontinuation of treatment with VOTRIENT. In the randomized  STS≠B-Not_AE_Candidate  trial,  proteinuria≠B-OSE_Labeled_AE  was reported as an adverse reaction in 1% (2/240) of patients, and  nephrotic≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  was reported in 1 patient treated with VOTRIENT compared with none in patients receiving placebo. Treatment was withdrawn in the patient with  nephrotic≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE .
+
+
+
+ Baseline and periodic urinalysis during treatment is recommended with follow up measurement of 24-hour urine protein as clinically indicated. Interrupt VOTRIENT and dose reduce for 24-hour urine protein >=3 grams; discontinue VOTRIENT for repeat episodes despite dose reductions [see Dosage and Administration (2.2)]  .
+
+
+
+    5.15 Infection
+
+
+
+  Serious  infections≠B-OSE_Labeled_AE  (with or without neutropenia), including some with fatal outcome, have been reported. Monitor patients for signs and symptoms of  infection≠B-NonOSE_AE . Institute appropriate anti-infective therapy promptly and consider interruption or discontinuation of VOTRIENT for serious  infections≠B-NonOSE_AE .
+
+
+
+    5.16 Increased Toxicity with Other Cancer Therapy
+
+
+
+  VOTRIENT is not indicated for use in combination with other agents. Clinical trials of VOTRIENT in combination with pemetrexed and lapatinib were terminated early due to concerns over increased toxicity and  mortality≠B-NonOSE_AE . The  fatal≠B-NonOSE_AE  toxicities observed included  pulmonary≠B-NonOSE_AE   hemorrhage≠I-NonOSE_AE ,  gastrointestinal≠B-NonOSE_AE   hemorrhage≠I-NonOSE_AE , and  sudden≠B-NonOSE_AE   death≠I-NonOSE_AE . A safe and effective combination dose has not been established with these regimens.
+
+
+
+    5.17 Increased Toxicity in Developing Organs
+
+
+
+  The safety and effectiveness of VOTRIENT in pediatric patients have not been established. VOTRIENT is not indicated for use in pediatric patients. Based on its mechanism of action, pazopanib may have severe  effects≠B-OSE_Labeled_AE   on≠I-OSE_Labeled_AE   organ≠I-OSE_Labeled_AE   growth≠I-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   maturation≠I-OSE_Labeled_AE  during early post-natal development. Administration of pazopanib to juvenile rats less than 21 days old resulted in  toxicity≠B-NonOSE_AE   to≠I-NonOSE_AE   the≠I-NonOSE_AE   lungs≠I-NonOSE_AE , liver, heart, and kidney and in  death≠B-NonOSE_AE  at doses significantly lower than the clinically recommended dose or doses tolerated in older animals. VOTRIENT may potentially cause serious  adverse≠B-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE   on≠I-OSE_Labeled_AE   organ≠I-OSE_Labeled_AE   development≠I-OSE_Labeled_AE  in pediatric patients, particularly in patients younger than 2 years of age [see Use in Specific Populations (8.4)]  .
+
+
+
+    5.18 Pregnancy
+
+
+
+  VOTRIENT can cause  fetal≠B-OSE_Labeled_AE   harm≠I-OSE_Labeled_AE  when administered to a  pregnant≠B-Not_AE_Candidate  woman. Based on its mechanism of action, VOTRIENT is expected to result in  adverse≠B-OSE_Labeled_AE   reproductive≠I-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE . In pre-clinical studies in rats and rabbits, pazopanib was  teratogenic≠B-NonOSE_AE ,  embryotoxic≠B-NonOSE_AE ,  fetotoxic≠B-NonOSE_AE , and  abortifacient≠B-NonOSE_AE .
+
+
+
+ There are no adequate and well-controlled studies of VOTRIENT in  pregnant≠B-Not_AE_Candidate  women. If this drug is used during  pregnancy≠B-Not_AE_Candidate , or if the patient becomes  pregnant≠B-NonOSE_AE  while taking this drug, the patient should be apprised of the potential  hazard≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   fetus≠I-OSE_Labeled_AE . Women of childbearing potential should be advised to avoid becoming  pregnant≠B-NonOSE_AE  while taking VOTRIENT [see Use in Specific Populations (8.1)]  .

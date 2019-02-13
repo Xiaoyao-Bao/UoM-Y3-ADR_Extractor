@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PARAFON_FORTE_DSC">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or overstimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+  PARAFON FORTE DSC chlorzoxazone should be used with caution in patients with known allergies or with a history of allergic reactions to drugs. If a sensitivity reaction occurs such as urticaria, redness, or itching of the skin, the drug should be stopped.
+
+
+
+ If any symptoms suggestive of liver dysfunction are observed, the drug should be discontinued.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Serious (including fatal) hepatocellular toxicity has been reported rarely in patients receiving chlorzoxazone. The mechanism is unknown but appears to be idiosyncratic and unpredictable. Factors predisposing patients to this rare event are not known. Patients should be instructed to report early signs and/or symptoms of hepatotoxicity such as fever, rash, anorexia, nausea, vomiting, fatigue, right upper quadrant pain, dark urine, or jaundice. Chlorzoxazone should be discontinued immediately and a physician consulted if any of these signs or symptoms develop. Chlorzoxazone use should also be discontinued if a patient develops abnormal liver enzymes (e.g. AST, ALT, alkaline phosphatase and bilirubin).
+
+
+
+ The concomitant use of alcohol or other central nervous system depressants may have an additive effect.
+
+
+
+    Usage in Pregnancy
+
+
+
+  The safe use of PARAFON FORTE DSC chlorzoxazone has not been established with respect to the possible adverse effects upon fetal development. Therefore, it should be used in women of childbearing potential only when, in the judgment of the physician, the potential benefits outweigh the possible risks.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="18" name="heading" section="S3" start="843" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

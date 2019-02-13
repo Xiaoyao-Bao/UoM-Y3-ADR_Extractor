@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="IBUPROFEN_AND_DIPHENHYDRAMINE_CITRATE">
+  <Text>
+    <Section id="S1" name="warnings">    WARNINGS
+
+
+
+   Allergy alert:
+
+
+
+  Ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin. Symptoms may include:
+
+
+
+ *  hives 
+ *  facial swelling 
+ *  asthma (wheezing) 
+ *  shock 
+ *  skin reddening 
+ *  rash 
+ *  blisters 
+    If an allergic reaction occurs, stop use and seek medical help right away.
+ 
+
+    Stomach bleeding warning:
+
+
+
+  This product contains a nonsteroidal anti-inflammatory drug (NSAID), which may cause stomach bleeding. The chance is higher if you:
+
+
+
+ *  are age 60 or older 
+ *  have had stomach ulcers or bleeding problems 
+ *  take a blood thinning (anticoagulant) or steroid drug 
+ *  take other drugs containing an NSAID [aspirin, ibuprofen, naproxen, or others] 
+ *  have 3 or more alcoholic drinks every day while using this product 
+ *  take more or for a longer time than directed 
+       Do not use
+ 
+
+    *  if you have ever had an allergic reaction to any other pain reliever/fever reducer 
+ *  unless you have time for a full night's sleep 
+ *  in children under 12 years of age 
+ *  right before or after heart surgery 
+ *  with any other product containing diphenhydramine, even one used on skin 
+ *  if you have sleeplessness without pain. 
+       Ask a doctor before use if you have
+ 
+
+    *  a breathing problem such as emphysema or chronic bronchitis 
+ *  problems or serious side effects from taking pain relievers or fever reducers 
+ *  stomach problems that last or come back, such as heartburn, upset stomach, or stomach pain 
+ *  ulcers 
+ *  bleeding problems 
+ *  high blood pressure 
+ *  heart or kidney disease 
+ *  asthma 
+ *  taken a diuretic 
+ *  reached age 60 or older 
+ *  glaucoma 
+ *  trouble urinating due to an enlarged prostate gland 
+       Ask a doctor or pharmacist before use if you are
+ 
+
+    *  taking sedatives or tranquilizers, or any other sleep-aid 
+ *  taking any other drug containing an NSAID (prescription or nonprescription) 
+ *  under a doctor's care for any continuing medical illness 
+ *  taking any other antihistamines 
+ *  taking a blood thinning (anticoagulant) or steroid drug 
+ *  taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit of aspirin 
+ *  taking any other drug 
+       When using this product
+ 
+
+    *  drowsiness will occur 
+ *  avoid alcoholic drinks 
+ *  do not drive a motor vehicle or operate machinery 
+ *  take with food or milk if stomach upset occurs 
+ *  the risk of heart attack or stroke may increase if you use more than directed or for longer than directed 
+       Stop use and ask a doctor if
+ 
+
+    *  you feel faint, vomit blood, or have bloody or black stools. These are signs of stomach bleeding 
+ *  pain gets worse or lasts more than 10 days 
+ *  sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of a serious underlying medical illness. 
+ *  stomach pain or upset gets worse or lasts 
+ *  redness or swelling is present in the painful area 
+ *  any new symptoms appear 
+       If pregnant or breast-feeding,
+ 
+
+  ask a health professional before use. It is especially important not to use ibuprofen during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+
+
+
+    Keep out of the reach of children.
+
+
+
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="8" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="14" name="heading" section="S1" start="19" />
+    <IgnoredRegion len="25" name="heading" section="S1" start="350" />
+    <IgnoredRegion len="10" name="heading" section="S1" start="863" />
+    <IgnoredRegion len="35" name="heading" section="S1" start="1229" />
+    <IgnoredRegion len="48" name="heading" section="S1" start="1745" />
+    <IgnoredRegion len="23" name="heading" section="S1" start="2241" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="2551" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="3006" />
+    <IgnoredRegion len="34" name="heading" section="S1" start="3305" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,71 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Thrombocytopenia, neutropenia, and anemia: Monitor blood counts and omit and/or reduce dose for hematologic toxicities. (  2.2  ,  5.1  ) 
+ *  Mucositis: Monitor at least weekly. If >= Grade 2 mucositis is observed, omit and/or reduce dose. (  2.2  ,  5.2  ) 
+ *  Dermatologic reactions: Reactions, including fatal reactions, have occurred and may be progressive and increase in severity with further treatment. Monitor closely, and omit and/or reduce dose or discontinue FOLOTYN. (  2.2  ,  5.3  ) 
+ *  Tumor lysis syndrome: Anticipate, monitor, and treat promptly. (  5.4  ) 
+ *  Hepatic toxicity: Monitor for toxicity. For liver function test abnormalities Grade 3 or greater, omit until recovery then reduce dose or discontinue therapy as required. (  2.2  ,  5.5  ) 
+ *  Risk of increased toxicity with renal impairment: Patients with moderate to severe renal function impairment may be at greater risk for increased exposure and toxicity. Monitor patients for renal function and systemic toxicity and adjust dosing accordingly. Avoid FOLOTYN use in patients with end stage renal disease including those undergoing dialysis unless the potential benefit justifies the potential risk. (  2.2  ,  5.6  ,  6.2  ) 
+ *  Embryo-Fetal toxicity: Women should avoid becoming pregnant while being treated with FOLOTYN. Inform pregnant women of the potential harm to the fetus. (  5.7  ,  8.1  ) 
+    
+ 
+
+   5.1 Bone Marrow Suppression
+
+
+
+  FOLOTYN can cause  bone≠B-OSE_Labeled_AE   marrow≠I-OSE_Labeled_AE   suppression≠I-OSE_Labeled_AE , manifested by  thrombocytopenia≠B-NonOSE_AE ,  neutropenia≠B-NonOSE_AE , and/or  anemia≠B-NonOSE_AE . Monitor complete blood counts and omit and/or reduce the dose based on ANC and platelet count prior to each dose as outlined in Section  2.2     Table 2  . Administer vitamin B12and instruct patients to take folic acid to reduce the risk of treatment-related  hematological≠B-NonOSE_AE   toxicity≠I-NonOSE_AE  [ see Dosage and Administration (  2.1  )(  2.2  ) and Adverse Reactions (  6.1  )  ].
+
+
+
+    5.2 Mucositis
+
+
+
+  FOLOTYN can cause  mucositis≠B-OSE_Labeled_AE . Monitor for  mucositis≠B-NonOSE_AE  weekly and if >= Grade 2  mucositis≠B-NonOSE_AE  is observed, omit and/or reduce the dose as outlined in Section  2.2     Table 1  . Administer vitamin B12and instruct patients to take folic acid to reduce the risk of  mucositis≠B-NonOSE_AE  [ see Dosage and Administration (  2.1  )(2.2  ) and Adverse Reactions (  6.1  )  ].
+
+
+
+    5.3 Dermatologic Reactions
+
+
+
+  FOLOTYN can cause severe  dermatologic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE , which may result in  death≠B-NonOSE_AE . These  dermatologic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  have been reported in clinical studies (14/663 patients [2.1%]) and post marketing experience, and have included  skin≠B-OSE_Labeled_AE   exfoliation≠I-OSE_Labeled_AE , ulceration, and  toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE  (TEN).  They may be progressive and increase in severity with further treatment, and may involve skin and subcutaneous sites of known  lymphoma≠B-Not_AE_Candidate .  Monitor patients with  dermatologic≠B-NonOSE_AE   reactions≠I-NonOSE_AE  closely, and if severe, withhold or discontinue FOLOTYN [ see Adverse Reactions (  6.2  ) and Use in Specific Populations (  8.7  )  ].
+
+
+
+    5.4 Tumor Lysis Syndrome
+
+
+
+  FOLOTYN can cause  tumor≠B-OSE_Labeled_AE   lysis≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  (TLS). Monitor patients who are at increased risk of  TLS≠B-NonOSE_AE  and treat promptly.
+
+
+
+    5.5 Hepatic Toxicity
+
+
+
+  FOLOTYN can cause  hepatic≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  and  liver≠B-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   test≠I-OSE_Labeled_AE   abnormalities≠I-OSE_Labeled_AE . Persistent  liver≠B-NonOSE_AE   function≠I-NonOSE_AE   test≠I-NonOSE_AE   abnormalities≠I-NonOSE_AE  may be indicators of  hepatic≠B-NonOSE_AE   toxicity≠I-NonOSE_AE  and require dose modification or discontinuation. Monitor liver function tests. Omit dose until recovery, adjust or discontinue therapy based on the severity of the  hepatic≠B-NonOSE_AE   toxicity≠I-NonOSE_AE  [ see Dosage and Administration (  2.2  ) and Use in Specific Populations (  8.6  )  ].
+
+
+
+       5.6 Risk of Increased Toxicity in the Presence of Impaired Renal Function
+
+
+
+     Patients with moderate to severe  renal≠B-Not_AE_Candidate   function≠I-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  may be at greater risk for increased exposure and toxicity. Monitor patients for renal function and systemic toxicity and adjust dosing accordingly.
+
+
+
+    Serious adverse drug reactions including  toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE  and  mucositis≠B-OSE_Labeled_AE  were reported in patients with  end≠B-Not_AE_Candidate   stage≠I-Not_AE_Candidate   renal≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  (ESRD) undergoing dialysis who were administered FOLOTYN therapy. Avoid FOLOTYN use in patients with  end≠B-Not_AE_Candidate   stage≠I-Not_AE_Candidate   renal≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  including those undergoing dialysis unless the potential benefit justifies the potential risk [ see Dosage and Administration (  2.2  ), Adverse Reactions (  6.2  ), Use in Specific Populations (  8.7  ), and Clinical Pharmacology (  12.3  )  ].
+
+
+
+    5.7  Embryo≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Fetal≠I-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE 
+
+
+
+  FOLOTYN can cause  fetal≠B-OSE_Labeled_AE   harm≠I-OSE_Labeled_AE  when administered to a  pregnant≠B-Not_AE_Candidate  woman. FOLOTYN was  embryotoxic≠B-NonOSE_AE  and  fetotoxic≠B-NonOSE_AE  in rats and rabbits. If this drug is used during  pregnancy≠B-Not_AE_Candidate , or if the patient becomes  pregnant≠B-NonOSE_AE  while taking this drug, the patient should be apprised of the potential  hazard≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   fetus≠I-OSE_Labeled_AE  [ see Use in Specific Populations (  8.1  )  ].

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="BESIVANCE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ The data described below reflect exposure to BESIVANCE in approximately 1,000 patients between 1 and 98 years old with clinical signs and symptoms of bacterial conjunctivitis.
+
+
+
+ The most frequently reported ocular adverse reaction was conjunctival redness, reported in approximately 2% of patients.
+
+
+
+ Other adverse reactions reported in patients receiving BESIVANCE occurring in approximately 1-2% of patients included: blurred vision, eye pain, eye irritation, eye pruritus and headache.
+
+
+
+   EXCERPT:   The most common adverse reaction reported in 2% of patients treated with BESIVANCE was conjunctival redness. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, at 1-800-321-4576 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Not for Injection into the Eye (  5.1  ) 
+ *    Growth of Resistant Organisms with Prolonged Use (  5.2  ) 
+ *    Avoidance of Contact Lenses: Patients should not wear contact lenses if they have signs or symptoms of bacterial conjunctivitis or during the course of therapy with BESIVANCE. (  5.3  ) 
+    
+ 
+
+   5.1 Not for Injection into the Eye
+
+
+
+  
+
+
+
+    5.2 Growth of Resistant Organisms with Prolonged Use
+
+
+
+  As with other anti-infectives, prolonged use of BESIVANCE (besifloxacin ophthalmic suspension) 0.6% may result in overgrowth of non-susceptible organisms, including fungi. If super-infection occurs, discontinue use and institute alternative therapy. Whenever clinical judgment dictates, the patient should be examined with the aid of magnification, such as slit-lamp biomicroscopy, and, where appropriate, fluorescein staining.
+
+
+
+    5.3 Avoidance of Contact Lenses
+
+
+
+  Patients should not wear contact lenses if they have signs or symptoms of bacterial conjunctivitis or during the course of therapy with BESIVANCE.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="323" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="34" name="heading" section="S2" start="366" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="414" />
+    <IgnoredRegion len="331" name="excerpt" section="S1" start="802" />
+    <IgnoredRegion len="31" name="heading" section="S2" start="907" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

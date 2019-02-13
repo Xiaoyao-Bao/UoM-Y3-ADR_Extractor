@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="LYSODREN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the label:
+
+
+
+   Adrenal Crisis in the Setting of Shock or Severe Trauma  [see  Warnings and Precautions (5.1)  ]  
+
+
+
+    CNS Toxicity  [    see      Warnings and Precautions (5.2)  ]  
+
+
+
+    Adrenal Insufficiency [  see    Warnings and Precautions      (5.3)  ]       Ovarian macrocysts [see    Warnings and Precautions      (5.5)    ]
+
+
+
+ The following adverse reactions associated with the use of LYSODREN were identified in clinical trials or postmarketing reports. Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
+
+
+
+ Common adverse reactions occurring with LYSODREN treatment include:
+
+
+
+ Anorexia, nausea, vomiting, and diarrhea (80%)
+
+
+
+ Depression, dizziness, or vertigo (15%-40%)
+
+
+
+ Rash (15%)NeutropeniaGrowth retardation, hypothyroidism
+
+
+
+ Confusion, headache, ataxia, mental impairment, weakness, dysarthria
+
+
+
+ MaculopathyHepatitis, elevation of liver enzymesGynecomastia
+
+
+
+    Hypercholesterolemia, hypertriglyceridemia
+
+
+
+  Decreased blood androstenedione and decreased blood testosterone in females, increased sex hormone binding globulin in females      and males, decreased blood free testosterone in males.
+
+
+
+ 
+
+
+
+ Less common adverse reactions include: visual blurring, diplopia, lens opacity, retinopathy, prolonged bleeding time, hematuria, hemorrhagic cystitis, albuminuria, hypertension, orthostatic hypotension, flushing, generalized aching, and fever.
+
+
+
+   EXCERPT:   Common adverse reactions (&gt;=15%) include: anorexia, nausea, vomiting and diarrhea; depression, dizziness or vertigo; and rash.  (6)  
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    Bristol-Myers Squibb    or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+</Section>
+    <Section id="S2" name="boxed warnings">
+
+    BOXED WARNING: WARNING: ADRENAL CRISIS IN THE SETTING OF SHOCK OR SEVERE TRAUMA
+
+  WARNING: ADRENAL CRISIS IN THE SETTING OF SHOCK OR SEVERE TRAUMA
+
+    In patients taking LYSODREN, adrenal crisis occurs in the setting of shock or severe trauma and response to shock is impaired. Administer hydrocortisone, monitor for escalating signs of shock and discontinue LYSODREN until recovery   [see   Dosage and Administration (2.2)   and   Warnings and Precautions (5.1)  ]  .  
+
+
+
+   EXCERPT:   WARNING: ADRENAL CRISIS IN THE SETTING OF SHOCK OR SEVERE TRAUMA
+
+
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+   In patients taking LYSODREN, adrenal crisis occurs in the setting of shock or severe trauma and response to shock is impaired. Administer hydrocortisone, monitor for escalating signs of shock and discontinue LYSODREN until recovery.       (2.2      ,   5.1)    
+
+
+
+ 
+</Section>
+    <Section id="S3" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Central Nervous System (CNS) Toxicity: Plasma concentrations exceeding 20 mcg/mL are associated with a greater incidence of toxicity.  (5.2)  
+
+
+
+ Adrenal Insufficiency: Institute steroid replacement as clinically indicated. Measure free cortisol and corticotropin (ACTH) levels to achieve optimal steroid replacement.  (5.3)  
+
+
+
+ Embryo-Fetal Toxicity: Can cause fetal harm. Advise women of reproductive potential of the potential risk to a fetus and use of effective contraception. (  5.4  ,  8.1  ,  8.3  )
+
+
+
+ Ovarian Macrocysts in Premenopausal Women: Advise women to seek medical advice if they experience gynecological symptoms such as vaginal bleeding and/or pelvic pain. (  5.5  )
+
+
+
+ 
+
+
+
+   5.1 Adrenal Crisis in the Setting of Shock or Severe Trauma
+
+
+
+  In patients taking LYSODREN, adrenal crisis occurs in the setting of shock or severe trauma and response to shock is impaired. Administer hydrocortisone, monitor for escalating signs of shock, and discontinue LYSODREN until recovery [see  Dosage and Administration (2.2)  ].  
+
+
+
+    5.2 CNS Toxicity
+
+
+
+  CNS toxicity, including sedation, lethargy, and vertigo, occurs with LYSODREN treatment. Mitotane plasma concentrations exceeding 20 mcg/mL are associated with a greater incidence of toxicity.
+
+
+
+    5.3 Adrenal Insufficiency
+
+
+
+  Treatment with LYSODREN can cause adrenal insufficiency. Institute steroid replacement as clinically indicated. Measure free cortisol and corticotropin (ACTH) levels to achieve optimal steroid replacement.
+
+
+
+    5.4 Embryo-Fetal Toxicity
+
+
+
+  LYSODREN can cause fetal harm when administered to a pregnant woman. Abnormal pregnancy outcomes, such as preterm births and early pregnancy loss, can occur in patients exposed to mitotane during pregnancy. Advise pregnant women of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with LYSODREN and after discontinuation of treatment for as long as mitotane plasma levels are detectable [see  Use in Specific Populations (8.1  ,   8.3)  ].  
+
+
+
+   
+
+
+
+    5.5 Ovarian Macrocysts in Premenopausal Women
+
+
+
+  Ovarian macrocysts, often bilateral and multiple, have been reported in premenopausal patients receiving LYSODREN. Complications from these cysts, including adnexal torsion and hemorrhagic cyst rupture, have been reported. In some cases, improvement after mitotane discontinuation has been described. Advise female patients to seek medical care if they experience gynecological symptoms such as vaginal bleeding and/or pelvic pain [seeAdverse Reactions (6)].
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="707" name="excerpt" section="S3" start="35" />
+    <IgnoredRegion len="64" name="heading" section="S2" start="89" />
+    <IgnoredRegion len="418" name="excerpt" section="S2" start="484" />
+    <IgnoredRegion len="59" name="heading" section="S3" start="749" />
+    <IgnoredRegion len="16" name="heading" section="S3" start="1098" />
+    <IgnoredRegion len="25" name="heading" section="S3" start="1320" />
+    <IgnoredRegion len="25" name="heading" section="S3" start="1564" />
+    <IgnoredRegion len="285" name="excerpt" section="S1" start="1659" />
+    <IgnoredRegion len="45" name="heading" section="S3" start="2122" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,8 @@
+
+
+    BOXED WARNING: 
+
+   Abrupt≠B-OSE_Labeled_AE   discontinuation≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   intrathecal≠I-OSE_Labeled_AE   baclofen≠I-OSE_Labeled_AE , regardless of the cause, has resulted in sequelae that include  high≠B-NonOSE_AE   fever≠I-NonOSE_AE ,  altered≠B-NonOSE_AE   mental≠I-NonOSE_AE   status≠I-NonOSE_AE ,  exaggerated≠B-NonOSE_AE   rebound≠I-NonOSE_AE   spasticity≠I-NonOSE_AE , and  muscle≠B-NonOSE_AE   rigidity≠I-NonOSE_AE , that in rare cases has advanced to  rhabdomyolysis≠B-NonOSE_AE ,  multiple≠B-NonOSE_AE   organ≠I-NonOSE_AE  -≠I-NonOSE_AE  system≠I-NonOSE_AE   failure≠I-NonOSE_AE  and  death≠B-NonOSE_AE . 
+
+ Prevention of abrupt discontinuation of intrathecal baclofen requires careful attention to programming and monitoring of the infusion system, refill scheduling and procedures, and pump alarms. Patients and caregivers should be advised of the importance of keeping scheduled refill visits and should be educated on the early symptoms of  baclofen≠B-NonOSE_AE   withdrawal≠I-NonOSE_AE . Special attention should be given to patients at apparent risk (e.g.  spinal≠B-Not_AE_Candidate   cord≠I-Not_AE_Candidate   injuries≠I-Not_AE_Candidate   at≠I-Not_AE_Candidate   T≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  6≠I-Not_AE_Candidate   or≠I-Not_AE_Candidate   above≠I-Not_AE_Candidate ,  communication≠B-Not_AE_Candidate   difficulties≠I-Not_AE_Candidate , history of  withdrawal≠B-Not_AE_Candidate   symptoms≠I-Not_AE_Candidate   from≠I-Not_AE_Candidate   oral≠I-Not_AE_Candidate   or≠I-Not_AE_Candidate   intrathecal≠I-Not_AE_Candidate   baclofen≠I-Not_AE_Candidate ). Consult the technical manual of the implantable infusion system for additional postimplant clinician and patient information (see   WARNINGS  ).
+

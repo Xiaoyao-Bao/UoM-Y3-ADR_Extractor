@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="SUCRAID">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+    Adverse experiences with Sucraid in clinical trials were generally minor and were frequently associated with the underlying disease.  
+
+
+
+ In clinical studies of up to 54 months duration, physicians treated a total of 52 patients with Sucraid. The adverse experiences and respective number of patients reporting each event (in parenthesis) were as follows: abdominal pain (4), vomiting (3), nausea (2), diarrhea (2), constipation (2), insomnia (1), headache (1), nervousness (1), and dehydration (1).
+
+
+
+ Note: diarrhea and abdominal pain can be a part of the clinical presentation of the genetically determined sucrase deficiency, which is part of congenital sucrase-isomaltase deficiency (CSID).
+
+
+
+ One asthmatic child experienced a serious hypersensitivity reaction (wheezing) probably related to sacrosidase (see      Warnings    ). The event resulted in withdrawal of the patient from the trial but resolved with no sequelae.  
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+  Care should be taken to administer initial doses of Sucraid near (within a few minutes of travel) a facility where acute hypersensitivity reactions can be adequately treated. Alternatively, the patient may be tested for hypersensitivity to Sucraid through skin abrasion testing. Should symptoms of hypersensitivity appear, discontinue medication and initiate symptomatic and supportive therapy.
+
+
+
+ Skin testing as a rechallenge has been used to verify hypersensitivity in one asthmatic child who displayed wheezing after oral sacrosidase.
+
+
+
+    GENERAL
+
+
+
+  Although Sucraid provides replacement therapy for the deficient sucrase, it does not provide specific replacement therapy for the deficient isomaltase. Therefore, restricting starch in the diet may still be necessary to reduce symptoms as much as possible. The need for dietary starch restriction for patients using Sucraid should be evaluated in each patient.
+
+
+
+ It may sometimes be clinically inappropriate, difficult, or inconvenient to perform a small bowel biopsy or breath hydrogen test to make a definitive diagnosis of CSID. If the diagnosis is in doubt, it may be warranted to conduct a short therapeutic trial (e.g., one week) with Sucraid to assess response in a patient suspected of sucrase deficiency.
+
+
+
+ The effects of Sucraid have not been evaluated in patients with secondary (acquired) disaccharidase deficiencies.
+
+
+
+    INFORMATION FOR PATIENTS
+
+
+
+  See  Patient Package Insert  .  Patients should be instructed to discard bottles of Sucraid 4 weeks after opening due to the potential for bacterial growth. For the same reason, patients should be advised to rinse the measuring scoop with water after each use.
+
+
+
+ Sucraid is fully soluble with water, milk, and infant formula, but it is important to note that this product is sensitive to heat. Sucraid should not be reconstituted or consumed with fruit juice, since its acidity may reduce the enzyme activity.
+
+
+
+    USE IN DIABETICS
+
+
+
+  The use of Sucraid will enable the products of sucrose hydrolysis, glucose and fructose, to be absorbed. This fact must be carefully considered in planning the diet of diabetic CSID patients using Sucraid.
+
+
+
+    LABORATORY TESTS
+
+
+
+  The definitive test for diagnosis of CSID is the measurement of intestinal disaccharidases following small bowel biopsy.
+
+
+
+ Other tests used alone may be inaccurate: for example, the breath hydrogen test (high incidence of false negatives) or oral sucrose tolerance test (high incidence of false positives). Differential urinary disaccharide testing has been reported to show good agreement with small intestinal biopsy for diagnosis of CSID.
+
+
+
+    DRUG INTERACTIONS
+
+
+
+  Neither drug-drug nor drug-food interactions are expected or have been reported with the use of Sucraid. However, Sucraid should not be reconstituted or consumed with fruit juice, since its acidity may reduce the enzyme activity.
+
+
+
+    CARCINOGENESIS, MUTAGENESIS, IMPAIRMENT OF FERTILITY
+
+
+
+  Long-term studies in animals with Sucraid have not been performed to evaluate the carcinogenic potential. Studies to evaluate the effect of Sucraid on fertility or its mutagenic potential have not been performed.
+
+
+
+    PREGNANCY
+
+
+
+  Teratogenic effects. Pregnancy Category C. Animal reproduction studies have not been conducted with Sucraid. Sucraid is not expected to cause fetal harm when administered to a pregnant woman or to affect reproductive capacity. Sucraid should be given to a pregnant woman only if clearly needed.
+
+
+
+    NURSING MOTHERS
+
+
+
+  The Sucraid enzyme is broken down in the stomach and intestines, and the component amino acids and peptides are then absorbed as nutrients.
+
+
+
+    PEDIATRIC USE
+
+
+
+  Sucraid has been used in patients as young as 5 months of age. Evidence in one controlled trial in primarily pediatric patients shows that Sucraid is safe and effective for the treatment of the genetically acquired sucrase deficiency, which is part of CSID.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Severe wheezing, 90 minutes after a second dose of sacrosidase, necessitated admission into the ICU for a 4-year-old boy. The wheezing was probably caused by sacrosidase. He had asthma and was being treated with steroids. A skin test for sacrosidase was positive.
+
+
+
+ Other serious events have not been linked to Sucraid.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="568" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="1422" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="1971" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="2206" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="2679" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="2939" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="3217" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="3534" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="3702" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

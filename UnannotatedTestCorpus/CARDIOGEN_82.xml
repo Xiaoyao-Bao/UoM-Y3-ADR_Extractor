@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CARDIOGEN_82">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:     To report SUSPECTED ADVERSE REACTIONS,contact Bracco Diagnostics Inc at 1-800-257-5181or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 Postmarketing Experience
+
+  The following serious adverse reactions have been identified during postapproval use of CardioGen-82. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ Unintended radiation exposure has occurred in some patients who received rubidium Rb 82 chloride injections at clinical sites where generator eluate testing appeared insufficient  [see Boxed Warning, Warnings and Precautions  (5.1)  , and Dosage and Administration  (2.5)  ]  .
+</Section>
+    <Section id="S2" name="boxed warnings">
+
+    BOXED WARNING: WARNING:
+
+UNINTENDED STRONTIUM-82 (Sr-82) AND STRONTIUM-85 (Sr-85) RADIATION
+
+EXPOSURE
+
+  WARNING:
+
+UNINTENDED STRONTIUM-82 (Sr-82) AND STRONTIUM-85 (Sr-85) RADIATION
+
+EXPOSURE
+
+    Unintended
+
+radiation exposure occurs when the levels of Sr-82 or Sr-85 in the
+
+rubidium Rb 82 chloride injection exceed specified limits   [see Warnings and Precautions   (5.1)  ]      Perform generator eluate tests:  
+
+
+
+ *  Record each generator eluate volume, including waste and test volumes, and keep a record of the cumulative eluate volume [see Dosage and Administration (2.4)]. 
+ *  Determine Rb-82, Sr-82, Sr-85 in the generator eluate: ●Once a day, prior to any drug administrations, and●At additional daily tests after detection of an Alert Limit. Alert Limits are: ○14 L for the generator's cumulative eluate volume, or ○An eluate Sr-82 level of 0.002 muCi/ mCi Rb-82, or ○An eluate Sr-85 level of 0.02 Sr-85 muCi/ mCi Rb-82. ○Perform the additional daily tests at time points determined by the day's elution volume; tests are performed every 750 mL [see Dosage and Administration (2.5)]. 
+ *  Stop use of a generator at an Expiration Limit of: ○17 L for the generator's cumulative eluate volume, or ○42 days post generator calibration date, or ○An eluate Sr-82 level of 0.01 muCi /mCi Rb-82, or ○An eluate Sr-85 level of 0.1 muCi /mCi Rb-82 [see Dosage and Administration (2.6)]. 
+      EXCERPT:       WARNING: UNINTENDED STRONTIUM-82 (Sr-82)
+ AND STRONTIUM-85 (Sr-85) RADIATION EXPOSURE    Please see full prescribing information for complete boxed warning    
+
+
+
+ *  Unintended radiation exposure occurs when the levels of Sr-82 or Sr-85 in the rubidium Rb 82 chloride injection exceed limits. (5.1) 
+ *  Perform generator eluate tests: 
+   *  Record each eluate volume, including waste and test volumes. (2.4) 
+ *  Determine Rb-82, Sr-82, Sr-85 levels in the eluate:● Once daily, prior to any drug administrations, and● With additional daily tests after detection of an Alert Limit. (2.5) 
+ *  Stop use of the generator at its Expiration Limit. (2.6) 
+    
+</Section>
+    <Section id="S3" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Unintended radiation exposure occurs when Sr-82 and Sr-85 levels in rubidium Rb 82 chloride injection exceed specified generator eluate limits  (5.1)   
+ *  Pharmacologic induction of cardiovascular stress: May cause serious adverse reactions such as myocardial infarction, arrhythmia, hypotension, broncho-constriction, and cerebrovascular events. Perform testing only in setting where cardiac resuscitation equipment and trained staff are readily available.  (5.2)   
+ *  Volume overload: Observe patients with congestive heart failure during infusion and for several hours following injection.  (5.3)   
+    
+ 
+
+   5.1 Unintended Sr-82 and Sr-85 Exposure
+
+
+
+  Unintended radiation exposure occurs when the Sr-82 and Sr-85 levels in rubidium Rb 82 chloride injections exceed the specified generator eluate limits. Unintended exposure to strontium radiation has occurred in some patients who received rubidium Rb 82 injections at clinical sites where generator eluate testing appeared insufficient. The physical half lives of Sr-82 and Sr-85 are 25 days and 65 days, respectively, in contrast to Rb-82 which has a physical half-life of 75 seconds. Unintended exposure to strontium radiation contributes to a patient's overall cumulative radiation dose [see Warnings and Precautions  (5.4)  ].  
+
+
+
+ To minimize the risk of unintended radiation exposure, strict adherence to a daily eluate testing protocol is required. Stop using the rubidium generator when the expiration limits are reached [see Dosage and Administration  (2.5)  and  (2.6)  ]  .
+
+
+
+    5.2 Risks Associated with Pharmacologic Stress
+
+
+
+  Pharmacologic induction of cardiovascular stress may be associated with serious adverse reactions such as myocardial infarction, arrhythmia, hypotension, bronchoconstriction, and cerebrovascular events. Perform pharmacologic stress testing in accordance with the pharmacologic stress agent's prescribing information and only in the setting where cardiac resuscitation equipment and trained staff are readily available.
+
+
+
+    5.3 Volume Overload
+
+
+
+  Patients with congestive heart failure or the elderly may experience a transitory increase in circulatory volume load. Observe these patients during infusion and for several hours following rubidium chloride injection administration to detect delayed hemodynamic disturbances.
+
+
+
+    5.4 Cumulative Radiation Exposure: Long-Term Risk of Cancer
+
+
+
+  Rubidium Rb 82 chloride injection, similar to other radiopharmaceuticals, contributes to a patient's overall long-term cumulative radiation exposure. Long-term cumulative radiation exposure is associated with an increased risk of cancer. Use the lowest dose of rubidium Rb 82 chloride injection necessary for imaging and ensure safe handling to protect the patient and health care worker [see Dosage and Administration  (2.2)  and  (2.3)  ]  . Encourage patients to void as soon as a study is completed and as often as possible thereafter for at least one hour.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="158" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="627" name="excerpt" section="S3" start="36" />
+    <IgnoredRegion len="86" name="heading" section="S2" start="111" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="188" />
+    <IgnoredRegion len="39" name="heading" section="S3" start="670" />
+    <IgnoredRegion len="673" name="excerpt" section="S2" start="1403" />
+    <IgnoredRegion len="46" name="heading" section="S3" start="1608" />
+    <IgnoredRegion len="19" name="heading" section="S3" start="2086" />
+    <IgnoredRegion len="59" name="heading" section="S3" start="2395" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

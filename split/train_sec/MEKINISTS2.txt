@@ -1,0 +1,256 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   Review the Full Prescribing Information for dabrafenib prior to initiation of MEKINIST in combination with dabrafenib. The following serious adverse reactions of dabrafenib as a single agent, which may occur when MEKINIST is used in combination with dabrafenib, are not described in the Full Prescribing Information for MEKINIST:  
+
+
+
+ *      Tumor≠B-NonOSE_AE   promotion≠I-NonOSE_AE  in patients with  BRAF≠B-Not_AE_Candidate   wild≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  type≠I-Not_AE_Candidate   melanoma≠I-Not_AE_Candidate   
+ *      Hemolytic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   patients≠I-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   glucose≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  6≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  phosphate≠I-OSE_Labeled_AE   dehydrogenase≠I-OSE_Labeled_AE   deficiency≠I-OSE_Labeled_AE   
+   *    New primary malignancies, cutaneous and non-cutaneous, can occur when MEKINIST is used in combination with dabrafenib. Monitor patients for new malignancies prior to initiation of therapy while on therapy, and following discontinuation of the combination treatment. (  5.1  ,  2.3  ) 
+ *    Hemorrhage: Major hemorrhagic events can occur in patients receiving MEKINIST in combination with dabrafenib. Monitor for signs and symptoms of bleeding (  5.2  ,  2.3  ) 
+ *    Venous Thromboembolism: Deep vein thrombosis and pulmonary embolism can occur in patients receiving MEKINIST in combination with dabrafenib. (  5.3  ,  2.3  ). 
+ *    Cardiomyopathy: Assess LVEF before treatment, after one month of treatment, then every 2 to 3 months thereafter. (  5.4  ,  2.3  ) 
+ *    Ocular Toxicities: Perform ophthalmologic evaluation for any visual disturbances. For Retinal Vein Occlusion (RVO), permanently discontinue MEKINIST. (  5.5  ,  2.3  ) 
+ *    Interstitial Lung Disease (ILD): Withhold MEKINIST for new or progressive unexplained pulmonary symptoms. Permanently discontinue MEKINIST for treatment-related ILD or pneumonitis. (  5.6  ,  2.3  ) 
+ *    Serious Febrile Reactions can occur when MEKINIST is used in combination with dabrafenib. (  5.7  ,  2.3  ) 
+ *    Serious Skin Toxicity: Monitor for skin toxicities and for secondary infections. Discontinue for intolerable Grade 2, or Grade 3 or 4 rash not improving within 3 weeks despite interruption of MEKINIST. (  5.8  ,  2.3  ) 
+ *    Hyperglycemia: Monitor serum glucose levels in patients with pre-existing diabetes or hyperglycemia. (  5.9  ,  2.3  ) 
+ *    Embryofetal Toxicity: Can cause fetal harm. Advise females of reproductive potential of potential risk to the fetus. (  5.10  ,  8.1  ,  8.6  ) 
+      EXCERPT:   
+ 
+
+    5.1 New Primary Malignancies  
+
+
+
+   New primary  malignancies≠B-OSE_Labeled_AE  ,≠I-OSE_Labeled_AE   cutaneous≠I-OSE_Labeled_AE  and non-cutaneous, can occur when MEKINIST is used in combination with dabrafenib and with dabrafenib as a single agent [refer to Full Prescribing Information for dabrafenib]  .  
+
+
+
+   Cutaneous Malignancies:    
+
+
+
+  In Trial 2, the incidence of  basal≠B-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   carcinoma≠I-OSE_Labeled_AE  was increased in patients receiving MEKINIST in combination with dabrafenib, with an incidence of 9% (5/55) in patients receiving MEKINIST in combination with dabrafenib compared with 2% (1/53) in patients receiving dabrafenib as a single agent. The range of time to diagnosis of  basal≠B-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   carcinoma≠I-OSE_Labeled_AE  was 28 to 249 days in patients receiving MEKINIST in combination with dabrafenib and was 197 days for the patient receiving dabrafenib as a single agent.  
+
+
+
+   Cutaneous≠B-OSE_Labeled_AE   squamous≠I-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   carcinomas≠I-OSE_Labeled_AE  (SCC), including  keratoacanthoma≠B-OSE_Labeled_AE , occurred in 7% of patients receiving MEKINIST in combination with dabrafenib and 19% of patients receiving dabrafenib as a single agent. The range of time to diagnosis of  cuSCC≠B-OSE_Labeled_AE  was 136 to 197 days in the combination arm and was 9 to 197 days in the arm receiving dabrafenib as a single agent.  
+
+
+
+   New≠B-NonOSE_AE   primary≠I-NonOSE_AE   melanoma≠I-NonOSE_AE  occurred in 2% (1/53) of patients receiving dabrafenib and in none of the 55 patients receiving MEKINIST in combination with dabrafenib.  
+
+
+
+  Perform dermatologic evaluations prior to initiation of MEKINIST in combination with dabrafenib, every 2 months while on therapy, and for up to 6 months following discontinuation of the combination. No dose modifications of MEKINIST or dabrafenib are recommended in patients who develop new primary  cutaneous≠B-NonOSE_AE   malignancies≠I-NonOSE_AE .  
+
+
+
+   Non-Cutaneous Malignancies:    
+
+
+
+  Based on its mechanism of action, dabrafenib may promote growth and development of  malignancies≠B-NonOSE_AE  with activation of RAS through mutation or other mechanisms [refer to the Full Prescribing Information for dabrafenib]  . In patients receiving MEKINIST in combination with dabrafenib, four cases of  non≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  cutaneous≠I-OSE_Labeled_AE   malignancies≠I-OSE_Labeled_AE  were identified:  KRAS≠B-OSE_Labeled_AE   mutation≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  positive≠I-OSE_Labeled_AE   pancreatic≠I-OSE_Labeled_AE   adenocarcinoma≠I-OSE_Labeled_AE  (n = 1),  recurrent≠B-OSE_Labeled_AE   NRAS≠I-OSE_Labeled_AE   mutation≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  positive≠I-OSE_Labeled_AE   colorectal≠I-OSE_Labeled_AE   carcinoma≠I-OSE_Labeled_AE  (n = 1),  head≠B-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   neck≠I-OSE_Labeled_AE   carcinoma≠I-OSE_Labeled_AE  (n = 1), and  glioblastoma≠B-OSE_Labeled_AE  (n = 1). Monitor patients receiving the combination closely for signs or symptoms of  non≠B-NonOSE_AE  -≠I-NonOSE_AE  cutaneous≠I-NonOSE_AE   malignancies≠I-NonOSE_AE . If used in combination with dabrafenib, no dose modification is required for MEKINIST in patients who develop  non≠B-NonOSE_AE  -≠I-NonOSE_AE  cutaneous≠I-NonOSE_AE   malignancies≠I-NonOSE_AE . Permanently discontinue dabrafenib in patients who develop  RAS≠B-NonOSE_AE   mutation≠I-NonOSE_AE  -≠I-NonOSE_AE  positive≠I-NonOSE_AE   non≠I-NonOSE_AE  -≠I-NonOSE_AE  cutaneous≠I-NonOSE_AE   malignancies≠I-NonOSE_AE .  
+
+
+
+     5.2 Hemorrhage  
+
+
+
+    Hemorrhages≠B-OSE_Labeled_AE , including  major≠B-OSE_Labeled_AE   hemorrhages≠I-OSE_Labeled_AE  defined as symptomatic  bleeding≠B-OSE_Labeled_AE  in a critical area or organ, can occur when MEKINIST is used in combination with dabrafenib.  
+
+
+
+  In Trial 2, treatment with MEKINIST in combination with dabrafenib resulted in an increased incidence and severity of any  hemorrhagic≠B-OSE_Labeled_AE   event≠I-OSE_Labeled_AE : 16% (9/55) of patients treated with MEKINIST in combination with dabrafenib compared with 2% (1/53) of patients treated with dabrafenib as a single agent. The major  hemorrhagic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  of  intracranial≠B-OSE_Labeled_AE  or gastric  hemorrhage≠I-OSE_Labeled_AE  occurred in 5% (3/55) of patients treated with MEKINIST in combination with dabrafenib compared with none of the 53 patients treated with dabrafenib as a single agent.  Intracranial≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  was fatal in two (4%) patients receiving the combination of MEKINIST and dabrafenib.  
+
+
+
+  Permanently discontinue MEKINIST, and also permanently discontinue dabrafenib if administered in combination, for all Grade 4  hemorrhagic≠B-NonOSE_AE   events≠I-NonOSE_AE  and for any Grade 3 hemorrhagic events that do not improve. Withhold MEKINIST for up to 3 weeks for Grade 3  hemorrhagic≠B-NonOSE_AE   events≠I-NonOSE_AE ; if improved resume at a lower dose level. Withhold dabrafenib for Grade 3  hemorrhagic≠B-NonOSE_AE   events≠I-NonOSE_AE ; if improved resume at a lower dose level.  
+
+
+
+     5.3 Venous Thromboembolism  
+
+
+
+    Venous≠B-OSE_Labeled_AE   thromboembolism≠I-OSE_Labeled_AE  can occur when MEKINIST is used in combination with dabrafenib.  
+
+
+
+  In Trial 2, treatment with MEKINIST in combination with dabrafenib resulted in an increased incidence of  deep≠B-OSE_Labeled_AE   venous≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  DVT≠I-OSE_Labeled_AE ) and  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PE≠I-OSE_Labeled_AE ): 7% (4/55) of patients treated with MEKINIST in combination with dabrafenib compared with none of the 53 patients treated with dabrafenib as a single agent.  Pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE  was  fatal≠B-NonOSE_AE  in one (2%) patient receiving the combination of MEKINIST and dabrafenib.  
+
+
+
+  Advise patients to immediately seek medical care if they develop symptoms of  DVT≠B-NonOSE_AE  or  PE≠B-NonOSE_AE , such as  shortness≠B-NonOSE_AE   of≠I-NonOSE_AE   breath≠I-NonOSE_AE ,  chest≠B-NonOSE_AE   pain≠I-NonOSE_AE , or  arm≠B-NonOSE_AE  or leg  swelling≠I-NonOSE_AE . Permanently discontinue MEKINIST and dabrafenib for life threatening  PE≠B-NonOSE_AE . Withhold MEKINIST for uncomplicated  DVT≠B-NonOSE_AE  and  PE≠B-NonOSE_AE  for up to 3 weeks; if improved, MEKINIST may be resumed at a lower dose level. Do not modify the dose of dabrafenib [see Dosage and Administration (2.3)]  .  
+
+
+
+     5.4 Cardiomyopathy  
+
+
+
+    Cardiomyopathy≠B-OSE_Labeled_AE  can occur when MEKINIST is administered as a single agent or when used in combination with dabrafenib.  
+
+
+
+  In Trial 1,  cardiomyopathy≠B-OSE_Labeled_AE  (defined as  cardiac≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  left≠B-OSE_Labeled_AE   ventricular≠I-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE , or  decreased≠B-OSE_Labeled_AE   left≠I-OSE_Labeled_AE   ventricular≠I-OSE_Labeled_AE   ejection≠I-OSE_Labeled_AE   fraction≠I-OSE_Labeled_AE  [LVEF]) occurred in 7% (14/211) of patients treated with MEKINIST; no chemotherapy-treated patients in Trial 1 developed  cardiomyopathy≠B-NonOSE_AE . In Trial 2,  cardiomyopathy≠B-OSE_Labeled_AE  occurred in 9% (5/55) of patients treated with MEKINIST in combination with dabrafenib and in none of patients treated with dabrafenib as a single agent. The median time to onset of  cardiomyopathy≠B-OSE_Labeled_AE  in patients treated with MEKINIST was 63 days (range: 16 to 156 days) for Trial 1 and 86 days (range: 27 to 253 days) for Trial 2.  
+
+
+
+   Cardiomyopathy≠B-OSE_Labeled_AE  was identified within the first month of treatment with MEKINIST in 5 of 14 patients in Trial 1 and in 2 of 5 patients in Trial 2. Development of  cardiomyopathy≠B-NonOSE_AE  resulted in dose reduction (7/211) and/or discontinuation (4/211) of study drug in Trial 1, and resulted in dose reduction (4/55) and/or dose interruption (1/55) in Trial 2.  Cardiomyopathy≠B-NonOSE_AE  resolved in 10 of 14 (71%) patients in Trial 1 and in all 5 patients in Trial 2.  
+
+
+
+  Across clinical trials of MEKINIST administered either as a single agent (N = 329), or in combination with dabrafenib (N = 202), 11% and 8% of patients, respectively, developed evidence of  cardiomyopathy≠B-OSE_Labeled_AE  ( decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   LVEF≠I-OSE_Labeled_AE  below institutional lower limits of normal with an absolute  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   LVEF≠I-OSE_Labeled_AE  >=10% below baseline). Five percent and 2% in single-agent and in combination trials, respectively, demonstrated a  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   LVEF≠I-OSE_Labeled_AE  below institutional lower limits of normal with an absolute  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   LVEF≠I-OSE_Labeled_AE  of >=20% below baseline.  
+
+
+
+  Assess LVEF by echocardiogram or multigated acquisition (MUGA) scan before initiation of MEKINIST as a single agent and in combination with dabrafenib, one month after initiation, and then at 2- to 3-month intervals while on treatment. Withhold treatment with MEKINIST for up to 4 weeks if absolute  LVEF≠B-NonOSE_AE   value≠I-NonOSE_AE   decreases≠I-NonOSE_AE  by 10% from pretreatment values and is less than the lower limit of normal. For symptomatic  cardiomyopathy≠B-NonOSE_AE  or persistent, asymptomatic  LV≠B-NonOSE_AE   dysfunction≠I-NonOSE_AE  that does not resolve within 4 weeks, permanently discontinue MEKINIST and withhold dabrafenib. Resume dabrafenib at the same dose upon recovery of cardiac function [see Dosage and Administration (2.3)]  .  
+
+
+
+     5.5 Ocular Toxicities  
+
+
+
+     Retinal≠B-OSE_Labeled_AE   Vein≠I-OSE_Labeled_AE   Occlusion≠I-OSE_Labeled_AE  (RVO):    
+
+
+
+  Across all clinical trials of MEKINIST, the incidence of  RVO≠B-OSE_Labeled_AE  was 0.2% (4/1,749).  RVO≠B-NonOSE_AE  may lead to  macular≠B-NonOSE_AE   edema≠I-NonOSE_AE ,  decreased≠B-NonOSE_AE   visual≠I-NonOSE_AE   function≠I-NonOSE_AE ,  neovascularization≠B-NonOSE_AE , and  glaucoma≠B-NonOSE_AE .  
+
+
+
+  Urgently (within 24 hours) perform ophthalmological evaluation for patient-reported  loss≠B-NonOSE_AE   of≠I-NonOSE_AE   vision≠I-NonOSE_AE  or other  visual≠B-NonOSE_AE   disturbances≠I-NonOSE_AE . Permanently discontinue MEKINIST in patients with documented  RVO≠B-NonOSE_AE . If MEKINIST is used in combination with dabrafenib, do not modify dabrafenib dose [see Dosage and Administration (2.3)]  .  
+
+
+
+   Retinal Pigment Epithelial Detachment (RPED):    
+
+
+
+   Retinal≠B-OSE_Labeled_AE   pigment≠I-OSE_Labeled_AE   epithelial≠I-OSE_Labeled_AE   detachment≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  RPED≠I-OSE_Labeled_AE ) can occur when MEKINIST is administered as a single agent or when used in combination with dabrafenib  .
+
+
+
+  In Trial 1 and Trial 2, ophthalmologic examinations including retinal evaluation were performed pretreatment and at regular intervals during treatment.  
+
+
+
+  In Trial 1, one patient (0.5%) receiving MEKINIST developed  RPED≠B-OSE_Labeled_AE  and no cases of RPED were identified in chemotherapy-treated patients. Across all clinical trials of MEKINIST, the incidence of  RPED≠B-OSE_Labeled_AE  was 0.8% (14/1,749).  Retinal≠B-OSE_Labeled_AE   detachments≠I-OSE_Labeled_AE  were often bilateral and multifocal, occurring in the macular region of the retina.  RPED≠B-OSE_Labeled_AE  led to  reduction≠B-NonOSE_AE   in≠I-NonOSE_AE   visual≠I-NonOSE_AE   acuity≠I-NonOSE_AE  that resolved after a median of 11.5 days (range: 3 to 71 days) following the interruption of dosing with MEKINIST, although  Ocular≠B-NonOSE_AE   Coherence≠I-NonOSE_AE   Tomography≠I-NonOSE_AE   (≠I-NonOSE_AE  OCT≠I-NonOSE_AE  )≠I-NonOSE_AE   abnormalities≠I-NonOSE_AE  persisted beyond a month in at least several cases.  
+
+
+
+  In Trial 2, one patient (2%) receiving MEKINIST in combination with dabrafenib developed  RPED≠B-OSE_Labeled_AE .  
+
+
+
+  Perform ophthalmological evaluation at any time a patient reports  visual≠B-NonOSE_AE   disturbances≠I-NonOSE_AE  and compare with baseline, if available. Withhold MEKINIST if RPED is diagnosed. If resolution of the  RPED≠B-NonOSE_AE  is documented on repeat ophthalmological evaluation within 3 weeks, resume MEKINIST at a lower dose level. Discontinue MEKINIST if no improvement after 3 weeks. If MEKINIST is used in combination with dabrafenib, do not modify the dose of dabrafenib [see Dosage and Administration (2.3)]  .  
+
+
+
+   Uveitis and Iritis:    
+
+
+
+   Uveitis≠B-OSE_Labeled_AE  and  iritis≠B-OSE_Labeled_AE  can occur when MEKINIST is used in combination with dabrafenib and with dabrafenib as a single agent [refer to Full Prescribing Information for dabrafenib]  .  
+
+
+
+   Uveitis≠B-OSE_Labeled_AE  occurred in 1% (2/202) of patients treated with MEKINIST in combination with dabrafenib.  
+
+
+
+  Symptomatic treatment employed in clinical trials included steroid and mydriatic ophthalmic drops. Monitor patients for visual signs and symptoms of  uveitis≠B-NonOSE_AE  (e.g.,  change≠B-NonOSE_AE   in≠I-NonOSE_AE   vision≠I-NonOSE_AE ,  photophobia≠B-NonOSE_AE ,  eye≠B-NonOSE_AE   pain≠I-NonOSE_AE ). If diagnosed, withhold dabrafenib for up to 6 weeks until  uveitis≠B-NonOSE_AE / iritis≠B-NonOSE_AE  resolves to Grade 0-1. If not improved, permanently discontinue dabrafenib. If MEKINIST is used in combination with dabrafenib, do not modify the dose of MEKINIST [see Dosage and Administration (2.3)]  .  
+
+
+
+    5.6 Interstitial Lung Disease
+
+
+
+  In clinical trials of MEKINIST (N = 329) as a single agent,  ILD≠B-OSE_Labeled_AE  or  pneumonitis≠B-OSE_Labeled_AE  occurred in 2% of patients. In Trial 1, 2% (5/211) of patients treated with MEKINIST developed  ILD≠B-OSE_Labeled_AE  or  pneumonitis≠B-OSE_Labeled_AE ; all five patients required hospitalization. The median time to first presentation of  ILD≠B-OSE_Labeled_AE  or  pneumonitis≠B-OSE_Labeled_AE  was 160 days (range: 60 to 172 days).
+
+
+
+ Withhold MEKINIST in patients presenting with new or progressive pulmonary symptoms and findings including  cough≠B-NonOSE_AE ,  dyspnea≠B-NonOSE_AE ,  hypoxia≠B-NonOSE_AE ,  pleural≠B-NonOSE_AE   effusion≠I-NonOSE_AE , or  infiltrates≠B-NonOSE_AE , pending clinical investigations. Permanently discontinue MEKINIST for patients diagnosed with treatment-related  ILD≠B-NonOSE_AE  or  pneumonitis≠B-NonOSE_AE . If MEKINIST is used in combination with dabrafenib, do not modify the dose of dabrafenib [see Dosage and Administration (2.3)].    
+
+
+
+     5.7 Serious Febrile Reactions  
+
+
+
+   Serious  febrile≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  and  fever≠B-OSE_Labeled_AE  of any severity accompanied by  hypotension≠B-OSE_Labeled_AE ,  rigors≠B-OSE_Labeled_AE  or  chills≠B-OSE_Labeled_AE ,  dehydration≠B-OSE_Labeled_AE , or  renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE , can occur when MEKINIST is used in combination with dabrafenib and with dabrafenib as a single agent [refer to Full Prescribing Information for dabrafenib]  .  
+
+
+
+  The incidence and severity of  pyrexia≠B-OSE_Labeled_AE  are increased when MEKINIST is used in combination with dabrafenib compared with dabrafenib as a single agent [see Adverse Reactions (6.1)]  .  
+
+
+
+  In Trial 2, the incidence of  fever≠B-OSE_Labeled_AE  (serious and non-serious) was 71% (39/55) in patients treated with MEKINIST in combination with dabrafenib and 26% (14/53) in patients treated with dabrafenib as a single agent. Serious  febrile≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  and  fever≠B-OSE_Labeled_AE  of any severity accompanied by  hypotension≠B-OSE_Labeled_AE ,  rigors≠B-OSE_Labeled_AE , or  chills≠B-OSE_Labeled_AE  occurred in 25% (14/55) of patients treated with MEKINIST in combination with dabrafenib compared with 2% (1/53) of patients treated with dabrafenib as a single agent.  Fever≠B-OSE_Labeled_AE  was complicated with  chills≠B-OSE_Labeled_AE / rigors≠B-OSE_Labeled_AE  in 51% (28/55),  dehydration≠B-OSE_Labeled_AE  in 9% (5/55),  renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  in 4% (2/55), and  syncope≠B-OSE_Labeled_AE  in 4% (2/55) of patients in Trial 2. In patients treated with MEKINIST in combination with dabrafenib, the median time to initial onset of  fever≠B-OSE_Labeled_AE  was 30 days compared with 19 days in patients treated with dabrafenib as a single agent; the median duration of  fever≠B-OSE_Labeled_AE  was 6 days with the combination compared with 4 days with dabrafenib as a single agent.  
+
+
+
+  Across clinical trials of MEKINIST administered in combination with dabrafenib (N = 202), the incidence of  pyrexia≠B-OSE_Labeled_AE  was 57% (116/202).  
+
+
+
+  Withhold dabrafenib for  fever≠B-NonOSE_AE  of 101.3oF or higher. Withhold MEKINIST for  fever≠B-NonOSE_AE  higher than 104oF. Withhold dabrafenib and MEKINIST for any serious  febrile≠B-NonOSE_AE   reaction≠I-NonOSE_AE  or  fever≠B-NonOSE_AE  accompanied by  hypotension≠B-NonOSE_AE ,  rigors≠B-NonOSE_AE  or  chills≠B-NonOSE_AE ,  dehydration≠B-NonOSE_AE , or  renal≠B-NonOSE_AE   failure≠I-NonOSE_AE , and evaluate for signs and symptoms of  infection≠B-NonOSE_AE . Refer to Table 2 for recommended dose modifications for adverse reactions [see Dosage and Administration (2.3)]  . Prophylaxis with antipyretics may be required when resuming MEKINIST or dabrafenib.  
+
+
+
+    5.8 Serious Skin Toxicity
+
+
+
+   Serious  skin≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  can occur when MEKINIST is administered as a single agent or when used in combination with dabrafenib. Serious  skin≠B-NonOSE_AE   toxicity≠I-NonOSE_AE  can also occur with dabrafenib as a single agent [refer to Full Prescribing Information for dabrafenib]  .  
+
+
+
+ In Trial 1, the overall incidence of any  skin≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE , the most common of which were  rash≠B-OSE_Labeled_AE ,  dermatitis≠B-OSE_Labeled_AE   acneiform≠I-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE ,  palmar≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  plantar≠I-OSE_Labeled_AE   erythrodysesthesia≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE , and  erythema≠B-OSE_Labeled_AE , was 87% in patients treated with MEKINIST and 13% in chemotherapy-treated patients. Severe  skin≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  occurred in 12% of patients treated with MEKINIST.  Skin≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  requiring hospitalization occurred in 6% of patients treated with MEKINIST, most commonly for secondary  infections≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   skin≠I-NonOSE_AE  requiring intravenous antibiotics or severe  skin≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  without  secondary≠B-NonOSE_AE   infection≠I-NonOSE_AE . In comparison, no patients treated with chemotherapy required hospitalization for severe  skin≠B-NonOSE_AE   toxicity≠I-NonOSE_AE  or  infections≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   skin≠I-NonOSE_AE . The median time to onset of  skin≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  in patients treated with MEKINIST was 15 days (range: 1 to 221 days) and median time to resolution of  skin≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  was 48 days (range: 1 to 282 days). Reductions in the dose of MEKINIST were required in 12% and permanent discontinuation of MEKINIST was required in 1% of patients with  skin≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE .
+
+
+
+  In Trial 2, the incidence of any  skin≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  was similar for patients receiving MEKINIST in combination with dabrafenib (65% [36/55]) compared with patients receiving dabrafenib as a single agent (68% [36/53]). The median time to onset of  skin≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  in patients treated with MEKINIST in combination with dabrafenib was 37 days (range: 1 to 225 days) and median time to resolution of  skin≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  was 33 days (range: 3 to 421 days). No patient required dose reduction or permanent discontinuation of MEKINIST or dabrafenib for  skin≠B-NonOSE_AE   toxicity≠I-NonOSE_AE .  
+
+
+
+  Across clinical trials of MEKINIST administered in combination with dabrafenib (n = 202), severe  skin≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  and secondary  infection≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   skin≠I-NonOSE_AE  requiring hospitalization occurred in 2.5% (5/202) of patients treated with MEKINIST in combination with dabrafenib.  
+
+
+
+  Withhold MEKINIST, and dabrafenib if used in combination, for intolerable or severe  skin≠B-NonOSE_AE   toxicity≠I-NonOSE_AE . MEKINIST and dabrafenib may be resumed at lower dose levels in patients with improvement or recovery from  skin≠B-NonOSE_AE   toxicity≠I-NonOSE_AE  within 3 weeks [see Dosage and Administration (2.3)]  .  
+
+
+
+     5.9 Hyperglycemia  
+
+
+
+    Hyperglycemia≠B-OSE_Labeled_AE  can occur when MEKINIST is used in combination with dabrafenib and with dabrafenib as a single agent.  Hyperglycemia≠B-NonOSE_AE  requiring an increase in the dose of, or initiation of insulin or oral hypoglycemic agent therapy occurred with dabrafenib as a single agent [refer to Full Prescribing Information for dabrafenib]  .  
+
+
+
+  In Trial 2, the incidence of Grade 3  hyperglycemia≠B-OSE_Labeled_AE  based on laboratory values was 5% (3/55) in patients treated with MEKINIST in combination with dabrafenib compared with 2% (1/53) in patients treated with dabrafenib as a single agent.  
+
+
+
+  Monitor serum glucose levels as clinically appropriate during treatment with MEKINIST in combination with dabrafenib in patients with pre-existing  diabetes≠B-Not_AE_Candidate  or  hyperglycemia≠B-Not_AE_Candidate . Advise patients to report symptoms of severe  hyperglycemia≠B-NonOSE_AE .  
+
+
+
+    5.10  Embryofetal≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE 
+
+
+
+  Based on its mechanism of action, MEKINIST can cause  fetal≠B-OSE_Labeled_AE   harm≠I-OSE_Labeled_AE  when administered to a  pregnant≠B-Not_AE_Candidate  woman. MEKINIST was  embryotoxic≠B-NonOSE_AE  and  abortifacient≠B-NonOSE_AE  in rabbits at doses greater than or equal to those resulting in exposures approximately 0.3 times the human exposure at the recommended clinical dose. If this drug is used during  pregnancy≠B-Not_AE_Candidate , or if the patient becomes  pregnant≠B-NonOSE_AE  while taking this drug, the patient should be apprised of the potential  hazard≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   a≠I-OSE_Labeled_AE   fetus≠I-OSE_Labeled_AE  [see Use in Specific Populations (8.1)].  
+
+
+
+ Advise female patients of reproductive potential to use highly effective contraception during treatment with MEKINIST and for 4 months after treatment. Advise patients to use a highly effective non-hormonal method of contraception when MEKINIST is administered in combination with dabrafenib, since dabrafenib can render hormonal contraceptives ineffective.  Advise patients to contact their healthcare provider if they become  pregnant≠B-NonOSE_AE , or if  pregnancy≠B-Not_AE_Candidate  is suspected, while taking MEKINIST [see Use in Specific Populations (8.1, 8.6)].  

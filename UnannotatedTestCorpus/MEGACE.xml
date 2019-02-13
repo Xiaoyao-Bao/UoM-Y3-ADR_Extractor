@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="MEGACE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Weight Gain
+
+  Weight gain is a frequent side effect of MEGACE. This gain has been associated with increased appetite and is not necessarily associated with fluid retention.
+
+
+
+   Thromboembolic Phenomena
+
+  Thromboembolic phenomena including thrombophlebitis and pulmonary embolism (in some cases fatal) have been reported.
+
+
+
+   Glucocorticoid Effects
+
+  (See    WARNINGS    section.)
+
+
+
+   Other Adverse Reactions
+
+  Heart failure, nausea and vomiting, edema, breakthrough menstrual bleeding, dyspnea, tumor flare (with or without hypercalcemia), hyperglycemia, glucose intolerance, alopecia, hypertension, carpal tunnel syndrome, mood changes, hot flashes, malaise, asthenia, lethargy, sweating and rash.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  Close surveillance is indicated for any patient treated for recurrent or metastatic cancer. Use with caution in patients with a history of thromboembolic disease.
+
+
+
+    Use in Diabetics
+
+
+
+  Exacerbation of preexisting diabetes with increased insulin requirements has been reported in association with the use of MEGACE.
+
+
+
+    Information for the Patients
+
+
+
+  Patients using megestrol acetate should receive the following instructions:
+
+
+
+ *  This medication is to be used as directed by the physician. 
+ *  Report any adverse reaction experiences while taking this medication. 
+       Laboratory Tests
+ 
+
+  Breast malignancies in which estrogen and/or progesterone receptors are positive are more likely to respond to MEGACE.
+
+
+
+    Carcinogenesis, Mutagenesis, and Impairment of Fertility
+
+
+
+  Administration of megestrol acetate to female dogs for up to 7 years is associated with an increased incidence of both benign and malignant tumors of the breast. Comparable studies in rats and studies in monkeys are not associated with an increased incidence of tumors. The relationship of the dog tumors to humans is unknown but should be considered in assessing the benefit-to-risk ratio when prescribing MEGACE and in surveillance of patients on therapy. (See   WARNINGS    section.)
+
+
+
+    Pregnancy
+
+
+
+  Pregnancy Category D. (See   WARNINGS    section.)
+
+
+
+    Nursing Mothers
+
+
+
+  Because of the potential for adverse effects on the newborn, nursing should be discontinued if MEGACE is required for treatment of cancer.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+
+
+
+    Geriatric Use
+
+
+
+  Insufficient data from clinical studies of MEGACE tablets are available for patients 65 years of age and older to determine whether they respond differently than younger patients. Other reported clinical experience has not identified differences in responses between elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+
+
+ Megestrol acetate is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+   
+
+
+
+   Megestrol acetate may cause fetal harm when administered to a pregnant woman. Fertility and reproduction studies with high doses of megestrol acetate have shown a reversible feminizing effect on some male rat fetuses. There are no adequate and well-controlled studies in pregnant women. If this drug is used during pregnancy, or if the patient becomes pregnant while taking (receiving) this drug, the patient should be apprised of the potential hazard to the fetus. Women of childbearing potential should be advised to avoid becoming pregnant.  
+
+
+
+    
+
+
+
+  The use of MEGACE in other types of neoplastic disease is not recommended.
+
+
+
+    
+
+
+
+  (See also   PRECAUTIONS: Carcinogenesis, Mutagenesis, and Impairment of Fertility    section.)
+
+
+
+    
+
+
+
+  The glucocorticoid activity of MEGACE Tablets has not been fully evaluated. Clinical cases of new onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, and overt Cushing's syndrome have been reported in association with the chronic use of MEGACE. In addition, clinical cases of adrenal insufficiency have been observed in patients receiving or being withdrawn from chronic MEGACE therapy in the stressed and non-stressed state. Furthermore, adrenocorticotropin (ACTH) stimulation testing has revealed the frequent occurrence of asymptomatic pituitary-adrenal suppression in patients treated with chronic MEGACE therapy. Therefore, the possibility of adrenal insufficiency should be considered in any patient receiving or being withdrawn from chronic MEGACE therapy who presents with symptoms and/or signs suggestive of hypoadrenalism (e.g., hypotension, nausea, vomiting, dizziness, or weakness) in either the stressed or non-stressed state. Laboratory evaluation for adrenal insufficiency and consideration of replacement or stress doses of a rapidly acting glucocorticoid are strongly recommended in such patients. Failure to recognize inhibition of the hypothalamic-pituitary-adrenal axis may result in death. Finally, in patients who are receiving or being withdrawn from chronic MEGACE therapy, consideration should be given to the use of empiric therapy with stress doses of a rapidly acting glucocorticoid in conditions of stress or serious intercurrent illness (e.g., surgery, infection).
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="0" name="heading" section="S3" start="19" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="11" name="heading" section="S1" start="25" />
+    <IgnoredRegion len="24" name="heading" section="S1" start="205" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="205" />
+    <IgnoredRegion len="22" name="heading" section="S1" start="356" />
+    <IgnoredRegion len="28" name="heading" section="S2" start="364" />
+    <IgnoredRegion len="23" name="heading" section="S1" start="418" />
+    <IgnoredRegion len="0" name="heading" section="S3" start="579" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="624" />
+    <IgnoredRegion len="0" name="heading" section="S3" start="667" />
+    <IgnoredRegion len="56" name="heading" section="S2" start="772" />
+    <IgnoredRegion len="0" name="heading" section="S3" start="775" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="1328" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1401" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="1568" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="1668" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

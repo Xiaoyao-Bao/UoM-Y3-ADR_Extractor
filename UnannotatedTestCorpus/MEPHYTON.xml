@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="MEPHYTON">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration. The majority of these reported events occurred following intravenous administration.
+
+
+
+ Transient "flushing sensations" and "peculiar" sensations of taste have been observed with parenteral phytonadione, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis.
+
+
+
+ Hyperbilirubinemia has been observed in the newborn following administration of parenteral phytonadione. This has occurred rarely and primarily with doses above those recommended.
+</Section>
+    <Section id="S2" name="precautions">     PRECAUTIONS  
+
+
+
+    General  
+
+
+
+  Vitamin K1is fairly rapidly degraded by light; therefore, always protect MEPHYTON from light. Store MEPHYTON in closed original carton until contents have been used. (See also  HOW SUPPLIED, Storage  .)
+
+
+
+     Drug Interactions  
+
+
+
+  Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used. If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium.
+
+
+
+     Laboratory Tests  
+
+
+
+  Prothrombin time should be checked regularly as clinical conditions indicate.
+
+
+
+     Carcinogenesis, Mutagenesis, Impairment of Fertility  
+
+
+
+  Studies of carcinogenicity or impairment of fertility have not been performed with MEPHYTON. MEPHYTON at concentrations up to 2000 mcg/plate with or without metabolic activation, was negative in the Ames microbial mutagen test.
+
+
+
+     Pregnancy  
+
+
+
+   Pregnancy Category C:  Animal reproduction studies have not been conducted with MEPHYTON. It is also not known whether MEPHYTON can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. MEPHYTON should be given to a pregnant woman only if clearly needed.
+
+
+
+     Pediatric Use  
+
+
+
+  Safety and effectiveness in pediatric patients have not been established with MEPHYTON. Hemolysis, jaundice, and hyperbilirubinemia in newborns, particularly in premature infants, have been reported with vitamin K.
+
+
+
+     Nursing Mothers  
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when MEPHYTON is administered to a nursing woman.
+
+
+
+     Geriatric Use  
+
+
+
+  Clinical studies of MEPHYTON did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+</Section>
+    <Section id="S3" name="warnings">     WARNINGS  
+
+
+
+  An immediate coagulant effect should not be expected after administration of phytonadione.
+
+
+
+ Phytonadione will not counteract the anticoagulant action of heparin.
+
+
+
+ When vitamin K1is used to correct excessive anticoagulant-induced hypoprothrombinemia, anticoagulant therapy still being indicated, the patient is again faced with the clotting hazards existing prior to starting the anticoagulant therapy. Phytonadione is not a clotting agent, but overzealous therapy with vitamin K1may restore conditions which originally permitted thromboembolic phenomena. Dosage should be kept as low as possible, and prothrombin time should be checked regularly as clinical conditions indicate.
+
+
+
+ Repeated large doses of vitamin K are not warranted in liver disease if the response to initial use of the vitamin is unsatisfactory. Failure to respond to vitamin K may indicate a congenital coagulation defect or that the condition being treated is unresponsive to vitamin K.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="10" name="heading" section="S2" start="25" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="251" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="669" />
+    <IgnoredRegion len="55" name="heading" section="S2" start="779" />
+    <IgnoredRegion len="12" name="heading" section="S2" start="1075" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="1394" />
+    <IgnoredRegion len="18" name="heading" section="S2" start="1638" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="1855" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

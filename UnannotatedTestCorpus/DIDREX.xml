@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="DIDREX">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  The following have been associated with the use of benzphetamine hydrochloride:
+
+
+
+   Cardiovascular  
+
+
+
+ Palpitation, tachycardia, elevation of blood pressure.
+
+
+
+ There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use.
+
+
+
+ Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when DIDREX Tablets have been used alone.
+
+
+
+   CNS  
+
+
+
+ Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug.
+
+
+
+   Gastrointestinal  
+
+
+
+ Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances.
+
+
+
+   Allergic  
+
+
+
+ Urticaria and other allergic reactions involving the skin.
+
+
+
+   Endocrine  
+
+
+
+ Changes in libido.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  Insulin requirements in diabetes mellitus may be altered in association with use of anorexigenic drugs and the concomitant dietary restrictions.
+
+
+
+ Psychological disturbances have been reported in patients who receive an anorectic agent together with a restrictive dietary regime.
+
+
+
+ Caution is to be exercised in prescribing amphetamines for patients with even mild hypertension. The least amount feasible should be prescribed or dispensed at one time in order to minimize the possibility of overdosage.
+
+
+
+    Information for Patients
+
+
+
+  Amphetamines may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or driving a motor vehicle; the patient should therefore be cautioned accordingly.
+
+
+
+    Drug Interactions
+
+
+
+  Efficacy of DIDREX Tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems.
+
+
+
+ Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. DIDREX should not be used concomitantly with other CNS stimulants.
+
+
+
+ Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants.
+
+
+
+ Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Animal studies to evaluate the potential for carcinogenesis, mutagenesis or impairment of fertility have not been performed by Pharmacia &amp; Upjohn Company.
+
+
+
+    Pregnancy
+
+
+
+  See  CONTRAINDICATIONS  section.
+
+
+
+    Nursing Mothers
+
+
+
+  Amphetamines are excreted in human milk. Mothers taking amphetamines should be advised to refrain from nursing.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in pediatric patients have not been established. Use of benzphetamine hydrochloride is not recommended in individuals under 12 years of age.
+
+
+
+    Geriatric Use
+
+
+
+  Clinical studies of DIDREX Tablets did not include sufficient numbers of subjects aged 65 and over to establish safety and efficacy in this population. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+   DIDREX Tablets should not be used in combination with other anorectic agents, including prescribed drugs, over-the-counter preparations and herbal products.  
+
+
+
+ In a case-control epidemiological study, the use of anorectic agents was associated with an increased risk of developing pulmonary hypertension, a rare, but often fatal disorder. The use of anorectic agents for longer than three months was associated with a 23-fold increase in the risk of developing pulmonary hypertension. Increased risk of pulmonary hypertension with repeated courses of therapy cannot be excluded. It should be noted that benzphetamine was not specifically studied in this case-control study.
+
+
+
+ The onset or aggravation of exertional dyspnea, or unexplained symptoms of angina pectoris, syncope, or lower extremity edema suggest the possibility of occurrence of pulmonary hypertension. Under these circumstances, DIDREX Tablets should be immediately discontinued, and the patient should be evaluated for the possible presence of pulmonary hypertension.
+
+
+
+  Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine has been reported. Possible contributing factors include use for extended periods of time, higher than recommended dose, and/or use in combination with other anorectic drugs. However, no cases of this valvulopathy have been reported when benzphetamine has been used alone.  
+
+
+
+ The potential risk of possible serious adverse effects such as valvular heart disease and pulmonary hypertension should be assessed carefully against the potential benefit of weight loss. Baseline cardiac evaluation should be considered to detect pre-existing valvular heart diseases or pulmonary hypertension prior to initiation of benzphetamine treatment. DIDREX Tablets are not recommended in patients with known heart murmur or valvular heart disease. Echocardiogram during and after treatment could be useful for detecting any valvular disorders which may occur. To limit unwarranted exposure and risks, treatment with DIDREX Tablets should be continued only if the patient has satisfactory weight loss within the first 4 weeks of treatment (i.e., weight loss of at least 4 pounds, or as determined by the physician and patient).
+
+
+
+ When tolerance to the anorectic effect develops, the recommended dose should not be exceeded in an attempt to increase the effect; rather, the drug should be discontinued.
+
+
+
+ DIDREX Tablets are not recommended for severely hypertensive patients or for patients with symptomatic cardiovascular disease including arrhythmias.
+
+
+
+ DIDREX Tablets are not recommended for patients who used any anorectic agents within the prior year.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="549" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="794" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="1540" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="1760" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1815" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="1955" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2147" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

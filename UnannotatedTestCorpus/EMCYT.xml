@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="EMCYT">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  In a randomized, double-blind trial comparing therapy with EMCYT Capsules in 93 patients (11.5 to 15.9 mg/kg/day) or diethylstilbestrol (DES) in 93 patients (3.0 mg/day), the following adverse effects were reported:
+
+
+
+
+                                                             EMCYTn=93                   DESn=93            
+  
+ CARDIOVASCULAR-RESPIRATORY                                                                                 
+   Cardiac Arrest                                                0                          2               
+   Cerebrovascular Accident                                      2                          0               
+   Myocardial Infarction                                         3                          1               
+   Thrombophlebitis                                              3                          7               
+   Pulmonary Emboli                                              2                          5               
+   Congestive Heart Failure                                      3                          2               
+   Edema                                                        19                         17               
+   Dyspnea                                                      11                          3               
+   Leg Cramps                                                    8                         11               
+   Upper Respiratory Discharge                                   1                          1               
+   Hoarseness                                                    1                          0               
+ GASTROINTESTINAL                                                                                           
+   Nausea                                                       15                          8               
+   Diarrhea                                                     12                         11               
+   Minor Gastrointestinal Upset                                 11                          6               
+   Anorexia                                                      4                          3               
+   Flatulence                                                    2                          0               
+   Vomiting                                                      1                          1               
+   Gastrointestinal Bleeding                                     1                          0               
+   Burning Throat                                                1                          0               
+   Thirst                                                        1                          0               
+ INTEGUMENTARY                                                                                              
+   Rash                                                          1                          4               
+   Pruritus                                                      2                          2               
+   Dry Skin                                                      2                          0               
+   Pigment Changes                                               0                          3               
+   Easy Bruising                                                 3                          0               
+   Flushing                                                      1                          0               
+   Night Sweats                                                  0                          1               
+   Fingertip-Peeling Skin                                        1                          0               
+   Thinning Hair                                                 1                          1               
+ BREAST CHANGES                                                                                             
+   Tenderness                                                   66                         64               
+   Enlargement                                                                                              
+     Mild                                                       60                         54               
+     Moderate                                                   10                         16               
+     Marked                                                      0                          5               
+ MISCELLANEOUS                                                                                              
+   Lethargy Alone                                                4                          3               
+   Depression                                                    0                          2               
+   Emotional Lability                                            2                          0               
+   Insomnia                                                      3                          0               
+   Headache                                                      1                          1               
+   Anxiety                                                       1                          0               
+   Chest Pain                                                    1                          1               
+   Hot Flashes                                                   0                          1               
+   Pain in Eyes                                                  0                          1               
+   Tearing of Eyes                                               1                          1               
+   Tinnitus                                                      0                          1               
+ LABORATORY ABNORMALITIES                                                                                   
+   Hematologic                                                                                              
+     Leukopenia                                                  4                          2               
+     Thrombopenia                                                1                          2               
+   Hepatic                                                                                                  
+     Bilirubin Alone                                             1                          5               
+     Bilirubin and LDH                                           0                          1               
+     Bilirubin and SGOT                                          2                          1               
+     Bilirubin, LDH and SGOT                                     2                          0               
+     LDH and/or SGOT                                            31                         28               
+   Miscellaneous                                                                                            
+     Hypercalcemia-Transient                                     0                          1               
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  Fluid Retention. Exacerbation of preexisting or incipient peripheral edema or congestive heart disease has been seen in some patients receiving therapy with EMCYT Capsules. Other conditions which might be influenced by fluid retention, such as epilepsy, migraine, or renal dysfunction, require careful observation.
+
+
+
+ EMCYT may be poorly metabolized in patients with impaired liver function and should be administered with caution in such patients.
+
+
+
+ Because EMCYT may influence the metabolism of calcium and phosphorus, it should be used with caution in patients with metabolic bone diseases that are associated with hypercalcemia or in patients with renal insufficiency. Patients with prostate cancer and osteoblastic metastases are at risk for hypocalcemia and should have calcium levels closely monitored.
+
+
+
+ Gynecomastia and impotence are known estrogenic effects.
+
+
+
+ Allergic reactions and angioedema at times involving the airway have been reported.
+
+
+
+    Information for the Patient
+
+
+
+  Because of the possibility of mutagenic effects, patients should be advised to use contraceptive measures.
+
+
+
+    Laboratory Tests
+
+
+
+  Certain endocrine and liver function tests may be affected by estrogen-containing drugs. EMCYT may depress testosterone levels. Abnormalities of hepatic enzymes and of bilirubin have occurred in patients receiving EMCYT. Such tests should be done at appropriate intervals during therapy and repeated after the drug has been withdrawn for two months.
+
+
+
+    Food/Drug Interaction
+
+
+
+  Milk, milk products, and calcium-rich foods or drugs may impair the absorption of EMCYT.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Long-term continuous administration of estrogens in certain animal species increases the frequency of carcinomas of the breast and liver. Compounds structurally similar to EMCYT are carcinogenic in mice. Carcinogenic studies of EMCYT have not been conducted in man. Although testing by the Ames method failed to demonstrate mutagenicity for estramustine phosphate sodium, it is known that both estradiol and nitrogen mustard are mutagenic. For this reason and because some patients who had been impotent while on estrogen therapy have regained potency while taking EMCYT, the patient should be advised to use contraceptive measures.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  It has been shown that there is an increased risk of thrombosis, including fatal and nonfatal myocardial infarction, in men receiving estrogens for prostatic cancer. EMCYT Capsules should be used with caution in patients with a history of thrombophlebitis, thrombosis, or thromboembolic disorders, especially if they were associated with estrogen therapy. Caution should also be used in patients with cerebral vascular or coronary artery disease.
+
+
+
+ Glucose Tolerance-Because glucose tolerance may be decreased, diabetic patients should be carefully observed while receiving EMCYT.
+
+
+
+ Elevated Blood Pressure-Because hypertension may occur, blood pressure should be monitored periodically.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="27" name="heading" section="S2" start="1004" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="1151" />
+    <IgnoredRegion len="21" name="heading" section="S2" start="1530" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="1653" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

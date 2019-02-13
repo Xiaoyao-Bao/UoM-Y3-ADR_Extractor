@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="SOOLANTRA">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+    EXCERPT:   In controlled clinical trials with SOOLANTRA the most common adverse reactions (incidence &lt;= 1 %) included skin burning sensation and skin irritation. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Galderma Laboratories, L.P. at 1-866-735-4137 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .      
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.During clinical trials, 2047 subjects with inflammatory lesions of rosacea received SOOLANTRA cream once daily. A total of 1555 subjects were treated once daily for more than 12 weeks, and 519 for approximately one year.Adverse reactions, reported in &lt;= 1% of subjects treated with SOOLANTRA cream for at least 3 months in vehicle-controlled clinical trials, included skin burning sensation and skin irritation.
+
+
+
+   6.2 Postmarketing Experience
+
+  Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.Local adverse reactions: contact dermatitis and allergic dermatitis.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="333" name="excerpt" section="S1" start="28" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="365" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="1080" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

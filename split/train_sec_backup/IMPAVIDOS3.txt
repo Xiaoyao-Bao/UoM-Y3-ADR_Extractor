@@ -1,0 +1,96 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Embryo-Fetal Toxicity. Do not use in pregnant women. Obtain a urine or serum pregnancy test prior to initiation of therapy. Advise use of effective contraception in females of reproductive potential (  Boxed Warning  ,  5.1  ,  8.1  ,  8.8  ,  13.1  ). 
+ *    Reproductive effects. Miltefosine caused testicular atrophy and impaired fertility in male rats and impaired fertility in female rats. Advise patients of reproductive toxicities in animal studies and that the potential effects on human fertility have not been adequately evaluated (  13.1  ). 
+ *    Renal Effects. Monitor serum creatinine during therapy and for 4 weeks after end of therapy (  5.3  ,  6.1  ). 
+ *    Hepatic Effects. Monitor transaminases and bilirubin during therapy (  5.4  ,  6.1  ). 
+ *    Gastrointestinal Effects. Encourage fluid intake (  5.5  ). 
+ *    Thrombocytopenia. Monitor platelet count during therapy for visceral leishmaniasis (  5.6  ,  6.1  ). 
+ *    Absorption of Oral Contraceptives. Advise use of alternative method of contraception if vomiting and/or diarrhea occur (  5.7  ). 
+ *    Stevens-Johnson syndrome. Discontinue IMPAVIDO (  5.8  ). 
+    
+ 
+
+   5.1 Embryo-Fetal Toxicity
+
+
+
+  Miltefosine may cause fetal harm. Embryo-fetal toxicity, including death and teratogenicity, was observed in animals administered miltefosine prior to mating, during early pregnancy, and during organogenesis at doses lower than the maximum recommended human dose (MRHD). Do not use IMPAVIDO in pregnant women. Obtain a urine or serum pregnancy test prior to prescribing IMPAVIDO to females of reproductive potential. Advise females of reproductive potential to use effective contraception during IMPAVIDO therapy and for 5 months after completion of therapy [see  Boxed Warning  , Contraindications (  4.1  ) and Use in Specific Populations (  8.1  ,  8.8  )]  .
+
+
+
+    5.2 Reproductive Effects
+
+
+
+   Females  
+
+
+
+ Miltefosine caused impaired fertility in rats and reversible follicular atresia and diestrus in dogs at doses approximately 1.0 and 0.2 times respectively the MRHD based on body surface area comparisons [see Nonclinical Toxicology (  13.1  )]  . Effects on human female fertility have not been formally studied.
+
+
+
+  Males  
+
+
+
+ Miltefosine caused reduced viable sperm counts and impaired fertility in rats at doses approximately 0.4 times the MRHD [see Nonclinical Toxicology (  13.1    ) ]  . A higher dose in rats, approximately 1.0 times the MRHD, caused testicular atrophy and impaired fertility that did not fully reverse 10 weeks after drug administration ended.
+
+
+
+ Scrotal pain and decreased or absent ejaculation during therapy have been reported during IMPAVIDO therapy [see Adverse Reactions (  6.2    ) ]  . The effects of IMPAVIDO on human male fertility have not been adequately studied.
+
+
+
+ Advise women and men of the animal fertility findings, and that the potential for impaired fertility with IMPAVIDO therapy in humans has not been adequately evaluated.
+
+
+
+    5.3 Renal Effects
+
+
+
+  Elevations of serum creatinine (Cr) were noted in clinical trials evaluating IMPAVIDO in the treatment of cutaneous, mucosal and visceral leishmaniasis. Monitor renal function weekly in patients receiving IMPAVIDO during therapy and for 4 weeks after end of therapy [see Adverse Reactions (  6.1  )]  .
+
+
+
+    5.4 Hepatic Effects
+
+
+
+  Elevations in liver transaminases (ALT, AST) and bilirubin were noted in clinical trials evaluating IMPAVIDO in the treatment of visceral leishmaniasis. Monitor liver transaminases (ALT, AST) and bilirubin during therapy in patients receiving IMPAVIDO [see Adverse Reactions (  6.1  )]  .
+
+
+
+    5.5 Gastrointestinal Effects
+
+
+
+  Vomiting and/or diarrhea commonly occur during IMPAVIDO administration and may result in volume depletion. Encourage fluid intake to avoid volume depletion [see Adverse Reactions (  6.1  )]  .
+
+
+
+    5.6 Thrombocytopenia
+
+
+
+  Thrombocytopenia during therapy has been reported in patients treated for visceral leishmaniasis. Monitor platelet count during therapy for visceral leishmaniasis [see Adverse Reactions (  6.1  ,  6.2  )]  .
+
+
+
+    5.7 Absorption of Oral Contraceptives
+
+
+
+  Vomiting and/or diarrhea occurring during IMPAVIDO therapy may affect the absorption of oral contraceptives, and therefore compromise their efficacy. If vomiting and/or diarrhea occur during IMPAVIDO therapy, advise females to use additional non-hormonal or alternative method(s) of effective contraception.
+
+
+
+    5.8 Stevens-Johnson Syndrome
+
+
+
+  Stevens-Johnson syndrome has been reported during IMPAVIDO therapy. Discontinue IMPAVIDO if an exfoliative or bullous rash is noted during therapy [see Adverse Reactions (  6.1  )]  .

@@ -1,0 +1,37 @@
+
+
+    BOXED WARNING: WARNING:  (A) BLEEDING RISK, (B) ASPIRIN DOSE AND BRILINTA EFFECTIVENESS
+
+  WARNING:  (A) BLEEDING RISK, (B) ASPIRIN DOSE AND BRILINTA EFFECTIVENESS
+
+    A.  BLEEDING RISK  
+
+
+
+ *  BRILINTA, like other antiplatelet agents, can cause significant, sometimes  fatal≠B-NonOSE_AE   bleeding≠B-OSE_Labeled_AE  (5.1, 6.1). 
+ *  Do not use BRILINTA in patients with active pathological  bleeding≠B-Not_AE_Candidate  or a history of  intracranial≠B-Not_AE_Candidate   hemorrhage≠I-Not_AE_Candidate  (4.1, 4.2). 
+ *  Do not start BRILINTA in patients undergoing urgent coronary artery bypass graft surgery (CABG) (5.1, 6.1). 
+ *  If possible, manage  bleeding≠B-NonOSE_AE  without discontinuing BRILINTA. Stopping BRILINTA increases the risk of subsequent  cardiovascular≠B-NonOSE_AE   events≠I-NonOSE_AE  (5.4). 
+      B.  ASPIRIN DOSE AND BRILINTA EFFECTIVENESS  
+ 
+
+ *  Maintenance doses of aspirin above 100 mg reduce the effectiveness of BRILINTA and should be avoided (2.1, 5.2, 14.1). 
+      EXCERPT:   WARNING:  (A) BLEEDING RISK, and (B) ASPIRIN DOSE AND BRILINTA EFFECTIVENESS
+ 
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+   BLEEDING RISK  
+
+
+
+ *  BRILINTA, like other antiplatelet agents, can cause significant, sometimes fatal bleeding (5.1, 6.1). 
+ *  Do not use BRILINTA in patients with active pathological bleeding or a history of intracranial hemorrhage (4.1, 4.2). 
+ *  Do not start BRILINTA in patients undergoing urgent coronary artery bypass graft surgery (CABG) (5.1, 6.1). 
+ *  If possible, manage bleeding without discontinuing BRILINTA. Stopping BRILINTA increases the risk of subsequent cardiovascular events (5.4). 
+      ASPIRIN DOSE AND BRILINTA EFFECTIVENESS  
+ 
+
+ *  Maintenance doses of aspirin above 100 mg reduce the effectiveness of BRILINTA and should be avoided. (2.1, 5.2, 14.1). 

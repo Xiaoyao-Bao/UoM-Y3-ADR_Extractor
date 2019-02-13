@@ -1,0 +1,58 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Dyspnea was reported more frequently with BRILINTA than with control agents in clinical trials. Dyspnea resulting from BRILINTA is self-limiting.  (5.3)   
+ *    Severe Hepatic Impairment: Likely increase in exposure to ticagrelor.  (5.5)   
+    
+ 
+
+    5.1 General Risk of Bleeding  
+
+
+
+   Drugs that inhibit platelet function including BRILINTA increase the risk of  bleeding≠B-OSE_Labeled_AE  [see   Adverse Reactions (6.1)    ].  
+
+
+
+  If possible, manage  bleeding≠B-NonOSE_AE  without discontinuing BRILINTA. Stopping BRILINTA increases the risk of subsequent  cardiovascular≠B-NonOSE_AE   events≠I-NonOSE_AE  [ see        Warnings and Precautions (5.4)        and  Adverse Reactions (6.1)    ].  
+
+
+
+    5.2 Concomitant Aspirin Maintenance Dose
+
+
+
+  In PLATO the use of BRILINTA with maintenance doses of aspirin above 100 mg decreased the effectiveness of BRILINTA. Therefore, after the initial loading dose of aspirin, use BRILINTA with a maintenance dose of aspirin of 75-100 mg [ see     Dosage and Administration (2.1)     and     Clinical Studies (14.1)    ] .  
+
+
+
+     5.3 Dyspnea  
+
+
+
+   In clinical trials, about 14% of patients treated with BRILINTA developed  dyspnea≠B-OSE_Labeled_AE .  Dyspnea≠B-OSE_Labeled_AE  was usually mild to moderate in intensity and often resolved during continued treatment, but led to study drug discontinuation in 0.9% of BRILINTA and 0.1% of clopidogrel patients in PLATO and 4.3% of BRILINTA 60 mg and 0.7% on aspirin alone patients in PEGASUS.  
+
+
+
+  In a substudy of PLATO, 199 subjects underwent pulmonary function testing irrespective of whether they reported  dyspnea≠B-NonOSE_AE . There was no indication of an  adverse≠B-NonOSE_AE   effect≠I-NonOSE_AE   on≠I-NonOSE_AE   pulmonary≠I-NonOSE_AE  function assessed after one month or after at least 6 months of chronic treatment.  
+
+
+
+  If a patient develops new, prolonged, or worsened  dyspnea≠B-NonOSE_AE  that is determined to be related to BRILINTA, no specific treatment is required; continue BRILINTA without interruption if possible. In the case of intolerable  dyspnea≠B-NonOSE_AE  requiring discontinuation of BRILINTA, consider prescribing another antiplatelet agent.  
+
+
+
+     5.4 Discontinuation of BRILINTA  
+
+
+
+   Discontinuation of BRILINTA will increase the risk of  myocardial≠B-NonOSE_AE   infarction≠I-NonOSE_AE ,  stroke≠B-NonOSE_AE , and  death≠B-NonOSE_AE . If BRILINTA must be temporarily discontinued (e.g., to treat  bleeding≠B-NonOSE_AE  or for significant surgery), restart it as soon as possible. When possible, interrupt therapy with BRILINTA for five days prior to surgery that has a major risk of  bleeding≠B-NonOSE_AE . Resume BRILINTA as soon as hemostasis is achieved.  
+
+
+
+     5.5 Severe Hepatic Impairment  
+
+
+
+   Avoid use of BRILINTA in patients with severe  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate . Severe  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  is likely to increase serum concentration of ticagrelor. There are no studies of BRILINTA patients with severe  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  [see   Clinical Pharmacology (12.3)    ].  

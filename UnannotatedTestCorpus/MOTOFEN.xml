@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="MOTOFEN">
+  <Text>
+    <Section id="S1" name="adverse reactions">      ADVERSE REACTIONS  
+
+  In view of the small amount of atropine present (0.025 mg/tablet), such effects such as dryness of the skin and mucous membranes, flushing, hyperthermia, tachycardia and urinary retention are very unlikely to occur, except perhaps in children. Many of the adverse effects reported during clinical investigation of MOTOFEN(r) are difficult to distinguish from symptoms associated with the diarrheal syndrome. However, the following events were reported at the stated frequencies:
+
+
+
+   Gastrointestinal:  Nausea, 1 in 15 patients; vomiting, 1 in 30 patients; dry mouth, 1 in 30 patients; epigastric distress, 1 in 100 patients; and constipation, 1 in 300 patients.
+
+
+
+   Central Nervous System:  Dizziness and light-headedness, 1 in 20 patients; drowsiness, 1 in 25 patients; and headache, 1 in 40 patients; tiredness, nervousness, insomnia and confusion ranged from 1 in 200 to 1 in 600 patients.
+
+
+
+   Other less frequent reactions:  Burning eyes and blurred vision occurred in a few cases.
+
+
+
+ The following adverse reactions have been reported in patients receiving chemically-related drugs: numbness of extremities, euphoria, depression, sedation, anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus, toxic megacolon, paralytic ileus, pancreatitis, and anorexia.
+
+
+
+ 
+
+
+
+ THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH.
+</Section>
+    <Section id="S2" name="warnings">     WARNINGS  
+
+
+
+  MOTOFEN(r) IS NOT AN INNOCUOUS DRUG AND DOSAGE RECOMMENDATIONS SHOULD BE STRICTLY ADHERED TO. MOTOFEN(r) IS NOT RECOMMENDED FOR CHILDREN UNDER 2 YEARS OF AGE. OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH (SEE OVERDOSAGE  ). THEREFORE, KEEP THIS MEDICATION OUT OF THE REACH OF CHILDREN.
+
+
+
+ 
+
+
+
+  FLUID AND ELECTROLYTE BALANCE  - THE USE OF MOTOFEN(r) DOES NOT PRECLUDE THE ADMINISTRATION OF APPROPRIATE FLUID AND ELECTROLYTE THERAPY. DEHYDRATION, PARTICULARLY IN CHILDREN, MAY FURTHER INFLUENCE THE VARIABILITY OF RESPONSE TO MOTOFEN(r) AND MAY PREDISPOSE TO DELAYED DIFENOXIN INTOXICATION. DRUG-INDUCED INHIBITION OF PERISTALSIS MAY RESULT IN FLUID RETENTION IN THE COLON, AND THIS MAY FURTHER AGGRAVATE DEHYDRATION AND ELECTROLYTE IMBALANCE.
+
+
+
+ 
+
+
+
+ IF SEVERE DEHYDRATION OR ELECTROLYTE IMBALANCE IS MANIFESTED, MOTOFEN(r) SHOULD BE WITHHELD UNTIL APPROPRIATE CORRECTIVE THERAPY HAS BEEN INITIATED.
+
+
+
+ 
+
+
+
+  Ulcerative Colitis  - In some patients with acute ulcerative colitis, agents which inhibit intestinal motility or delay intestinal transit time have been reported to induce toxic megacolon. Consequently, patients with acute ulcerative colitis should be carefully observed and MOTOFEN(r) therapy should be discontinued promptly if abdominal distention occurs or if other untoward symptoms develop.
+
+
+
+     Liver and Kidney Disease  - MOTOFEN(r) should be used with extreme caution in patients with advanced hepatorenal disease and in all patients with abnormal liver function tests since hepatic coma may be precipitated.
+ 
+
+     Atropine  - A subtherapeutic dose of atropine has been added to difenoxin hydrochloride to discourage deliberate overdosage. Usage of MOTOFEN(r) in recommended doses is not likely to cause prominent anticholinergic side effects, but MOTOFEN(r) should be avoided in patients in whom anticholinergic drugs are contraindicated. The warnings and precautions for use of anticholinergic agents should be observed. In children, signs of atropinism may occur even with recommended doses of MOTOFEN(r), particularly in patients with Down's Syndrome.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="21" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

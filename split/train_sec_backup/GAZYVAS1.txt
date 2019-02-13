@@ -1,0 +1,152 @@
+    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the label:
+
+
+
+ *  Hepatitis B reactivation [see  Warnings and Precautions (5.1)  ]  
+ *  Progressive multifocal leukoencephalopathy [see  Warnings and Precautions (5.2)  ]  
+ *  Infusion reactions [see  Warnings and Precautions (5.3)  ]  
+ *  Tumor lysis syndrome [see  Warnings and Precautions (5.4)  ]  
+ *  Infections [see  Warnings and Precautions (5.5)  ]  
+ *  Neutropenia [see  Warnings and Precautions (5.6)  ]  
+ *  Thrombocytopenia [see  Warnings and Precautions (5.7)  ]  
+    The most common adverse reactions (incidence >= 10%) were infusion reactions, neutropenia, thrombocytopenia, anemia, pyrexia, cough, nausea, and diarrhea.
+ 
+
+   EXCERPT:   The most common adverse reactions (incidence >= 10%) were infusion reactions, neutropenia, thrombocytopenia, anemia, pyrexia, cough, nausea, and diarrhea. (  6  )  To report SUSPECTED ADVERSE REACTIONS, contact Genentech at 1-888-835-2555 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The data described in Tables 3-6 below are based on a safety population of 773 previously untreated patients with CLL. Patients were treated with chlorambucil alone, GAZYVA in combination with chlorambucil, or rituximab in combination with chlorambucil. The Stage 1 analysis compared GAZYVA in combination with chlorambucil vs. chlorambucil alone, and Stage 2 compared GAZYVA in combination with chlorambucil vs. rituximab in combination with chlorambucil. Patients received three 1000 mg doses of GAZYVA on the first cycle and a single dose of 1000 mg once every 28 days for 5 additional cycles in combination with chlorambucil (6 cycles of 28 days each in total). In the last 140 patients enrolled, the first dose of GAZYVA was split between day 1 (100 mg) and day 2 (900 mg)  [see  Dosage and Administration (2.1)  ]  . In total, 81% of patients received all 6 cycles (of 28 days each) of GAZYVA-based therapy.
+
+
+
+ Table 3 Summary of Adverse Reactions Reported in >= 5% of Patients and at Least 2% Greater in the GAZYVA Treated Arm (Stage 1) 
+ Adverse Reactions(MedDRA)System Organ Class  GAZYVA + Chlorambuciln = 241  Chlorambuciln = 116   
+                                         All Grades %      Grades 3-4 %      All Grades %      Grades 3-4 %     
+  
+   Injury, poisoning, and procedural complications     
+ Infusion reactions                           69                21                0                 0           
+   Blood and lymphatic system disorders     
+ Neutropenia                                  41                35                18                16          
+ Thrombocytopenia                             15                11                8                 4           
+ Anemia                                       12                5                 10                4           
+ Leukopenia                                   7                 5                 0                 0           
+   General disorders and administration site conditions     
+ Pyrexia                                      10               < 1                7                 0           
+   Respiratory, thoracic, and mediastinal disorders     
+ Cough                                        10                0                 7                < 1          
+   Infections and infestations          
+ Urinary tract infection                      6                 2                 3                < 1          
+   Musculoskeletal and connective tissue disorder     
+ Back pain                                    5                < 1                2                 0           
+          Table 4 Summary of Adverse Reactions Reported in >= 5% of Patients and at Least 2% Greater in the GAZYVA Treated Arm (Stage 2) 
+ Adverse Reactions(MedDRA)System Organ Class  GAZYVA + Chlorambuciln = 336  Rituximab + Chlorambuciln = 321   
+                                         All Grades %      Grades 3-4 %      All Grades %      Grades 3-4 %     
+  
+   Injury, poisoning and procedural complications     
+ Infusion reactions                           66                20                38                4           
+   Blood and lymphatic system disorders     
+ Neutropenia                                  38                33                32                28          
+ Thrombocytopenia                             14                10                7                 3           
+ Leukopenia                                   6                 4                 2                < 1          
+   General disorders and administration site conditions     
+ Pyrexia                                      9                < 1                7                < 1          
+   Gastrointestinal disorders           
+ Diarrhea                                     10                2                 8                < 1          
+ Constipation                                 8                 0                 5                 0           
+   Infections and infestations          
+ Nasopharyngitis                              6                < 1                3                 0           
+ Urinary tract infection                      5                 1                 2                < 1          
+          Table 5 Post-Baseline Laboratory Abnormalities by CTCAE Grade in >= 5% of Patients and at Least 2% Greater in the GAZYVA Treated Arm (Stage 1) 
+ Investigations                        GAZYVA + Chlorambuciln = 241  Chlorambuciln = 116   
+                                         All Grades %      Grades 3-4 %      All Grades %      Grades 3-4 %     
+  
+   Hematology                           
+   Neutropenia                                78                48                53                27          
+   Lymphopenia                                80                40                9                 3           
+   Leukopenia                                 84                37                12               < 1          
+   Chemistry                            
+   Hypocalcemia                               38                3                 33                2           
+   Hyperkalemia                               33                5                 18                3           
+   Hyponatremia                               30                8                 12                3           
+   AST (SGOT increased)                       29                1                 16                0           
+   Creatinine increased                       30                <1                20                2           
+   ALT (SGPT increased)                       27                2                 16                0           
+   Hypoalbuminemia                            23                <1                15                <1          
+   Alkaline phosphatase increased             18                0                 11                0           
+   Hypokalemia                                15                1                 5                 <1          
+          Table 6 Post-Baseline Laboratory Abnormalities by CTCAE Grade in >= 5% of Patients and at Least 2% Greater in the GAZYVA Treated Arm (Stage 2) 
+ Investigations                        GAZYVA + Chlorambuciln = 336  Rituximab + Chlorambuciln = 321   
+                                         All Grades %      Grades 3-4 %      All Grades %      Grades 3-4 %     
+  
+   Hematology                           
+   Neutropenia                                76                46                69                41          
+   Lymphopenia                                80                39                50                16          
+   Leukopenia                                 84                35                62                16          
+   Thrombocytopenia                           48                13                40                8           
+   Anemia                                     39                10                37                10          
+   Chemistry                            
+   Hypocalcemia                               37                3                 32                <1          
+   Hyperkalemia                               14                1                 10                <1          
+   Hyponatremia                               26                7                 18                2           
+   AST (SGOT increased)                       27                2                 21                <1          
+   ALT (SGPT increased)                       28                2                 21                1           
+   Hypoalbuminemia                            23                <1                16                <1          
+               Infusion Reactions:  The incidence of infusion reactions was 65% with the first infusion of GAZYVA. The incidence of Grade 3 or 4 infusion reactions was 20% with 7% of patients discontinuing therapy. The incidence of reactions with subsequent infusions was 3% with the second 1000 mg and < 1% thereafter. No Grade 3 or 4 infusion reactions were reported beyond the first 1000 mg infused.
+ 
+
+ Of the first 53 patients receiving GAZYVA on the trial, 47 (89%) experienced an infusion reaction. After this experience, study protocol modifications were made to require pre-medication with a corticosteroid, antihistamine, and acetaminophen. The first dose was also divided into two infusions (100 mg on day 1 and 900 mg on day 2). For the 140 patients for whom these mitigation measures were implemented, 74 patients (53%) experienced a reaction with the first 1000 mg (64 patients on day 1, 3 patients on day 2, and 7 patients on both days) and < 3% thereafter  [see  Dosage and Administration (2)  ]  .
+
+
+
+     Neutropenia  : The incidence of neutropenia reported as an adverse reaction was 38% in the GAZYVA treated arm and 32% in the rituximab treated arm, with the incidence of serious adverse events being 1% and < 1%, respectively (  Table 4  ). Cases of late-onset neutropenia (occurring 28 days after completion of treatment or later) were 16% in the GAZYVA treated arm and 12% in the rituximab treated arm.
+
+
+
+     Infection:  The incidence of infections was similar between GAZYVA and rituximab treated arms. Thirty-eight percent of patients in the GAZYVA treated arm and 37% in the rituximab treated arm experienced an infection, with Grade 3-4 rates being 11% and 13%, respectively. Fatal events were reported in 1% of patients in both arms.
+
+
+
+     Thrombocytopenia  : The overall incidence of thrombocytopenia reported as an adverse reaction was higher in the GAZYVA treated arm (14%) compared to the rituximab treated arm (7%), with the incidence of Grade 3-4 events being 10% and 3%, respectively (  Table 4  ). The difference in incidences between the treatment arms is driven by events occurring during the first cycle. The incidence of thrombocytopenia (all grades) in the first cycle were 11% in the GAZYVA and 3% in the rituximab treated arms, with Grade 3-4 rates being 8% and 2%, respectively. Four percent of patients in the GAZYVA treated arm experienced acute thrombocytopenia (occurring within 24 hours after the GAZYVA infusion).
+
+
+
+ The overall incidence of hemorrhagic events and the number of fatal hemorrhagic events were similar between the treatment arms, with 3 in the rituximab and 4 in the GAZYVA treated arms. However, all fatal hemorrhagic events in patients treated with GAZYVA occurred in Cycle 1.
+
+
+
+     Tumor Lysis Syndrome:  The incidence of Grade 3 or 4 tumor lysis syndrome was 2% in the GAZYVA treated arm versus 0% in the rituximab treated arm.
+
+
+
+     Musculoskeletal Disorders:  Adverse events related to musculoskeletal disorders (all events from the System Organ Class), including pain, have been reported in the GAZYVA treated arm with higher incidence than in the rituximab treated arm (18% vs. 15%).
+
+
+
+     Liver Enzyme Elevations  : Hepatic enzyme elevations have occurred in patients who received GAZYVA in clinical trials and had normal baseline hepatic enzyme levels (AST, ALT, and ALP). The events occurred most frequently within 24-48 hours of the first infusion. In some patients, elevations in liver enzymes were observed concurrently with infusion reactions or tumor lysis syndrome. In the pivotal study, there was no clinically meaningful difference in overall hepatotoxicity adverse events between all arms (4% of patients in the GAZYVA treated arm). Medications commonly used to prevent infusion reactions (e.g., acetaminophen) may also be implicated in these events. Monitor liver function tests during treatment, especially during the first cycle. Consider treatment interruption or discontinuation for hepatotoxicity.
+
+
+
+   6.2 Immunogenicity
+
+  Serum samples from patients with previously untreated CLL were tested during and after treatment for antibodies to GAZYVA. Of the GAZYVA treated patients, 7% (18/271) tested positive for anti-GAZYVA antibodies at one or more time points. Neutralizing activity of anti-GAZYVA antibodies has not been assessed.
+
+
+
+ Immunogenicity data are highly dependent on the sensitivity and specificity of the test methods used. Additionally, the observed incidence of a positive result in a test method may be influenced by several factors, including sample handling, timing of sample collection, drug interference, concomitant medication, and the underlying disease. Therefore, comparison of the incidence of antibodies to GAZYVA with the incidence of antibodies to other products may be misleading. Clinical significance of anti-GAZYVA antibodies is not known.
+
+
+
+   6.3 Additional Clinical Trial Experience
+
+    Worsening of Pre-existing Cardiac Conditions  : Fatal cardiac events have been reported in patients treated with GAZYVA.

@@ -1,0 +1,67 @@
+    6  ADVERSE REACTIONS
+
+    Long-acting beta2-adrenergic agonists, such as STRIVERDI RESPIMAT, increase the risk of asthma-related death. STRIVERDI RESPIMAT is not indicated for the treatment of asthma [  see Boxed Warning and Warning and Precautions (  5.1  )  ].  
+
+
+
+   EXCERPT:   Most common adverse reactions (incidence >=2% and more than placebo) are nasopharyngitis, upper respiratory tract infection, bronchitis, urinary tract infection, cough, dizziness, rash, diarrhea, back pain and arthralgia (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Boehringer Ingelheim Pharmaceuticals, Inc. at (800) 542-6257 or (800) 459-9906 TTY, or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience in Chronic Obstructive Pulmonary Disease
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The STRIVERDI RESPIMAT clinical development program included seven dose-ranging trials and eight confirmatory trials. Four of the confirmatory trials were 6-week cross-over trials and four were 48-week parallel group trials. Adverse reactions observed in the dose-ranging trials and four 6-week cross-over trials were consistent with those observed in the 48-week parallel group trials, which formed the primary safety database.
+
+
+
+ The primary safety database consisted of pooled data from the four 48-week double-blind, active and placebo-controlled, parallel group confirmatory clinical trials. These trials included 3104 adult COPD patients (77% males and 23% females) 40 years of age and older. Of these patients, 876 and 883 patients were treated with STRIVERDI RESPIMAT 5 mcg and 10 mcg once-daily, respectively. The STRIVERDI RESPIMAT groups were composed of mostly Caucasians (66%) with a mean age of 64 years and a mean percent predicted FEV1at baseline of 44% for both the 5 mcg and 10 mcg treatment groups. Control arms for comparison included placebo in all four trials plus formoterol 12 mcg in two trials.
+
+
+
+ In these four clinical trials, seventy-two percent (72%) of patients exposed to any dose of STRIVERDI RESPIMAT reported an adverse reaction compared to 71% in the placebo group. The proportion of patients who discontinued due to an adverse reaction was 7.2% for STRIVERDI RESPIMAT treated patients compared to 8.8% for placebo treated patients. The adverse reaction most commonly leading to discontinuation was worsening COPD. The most common serious adverse reactions were COPD exacerbation, pneumonia, and atrial fibrillation.
+
+
+
+ Table 1 shows all adverse drug reactions reported by at least 2% of patients (and higher than placebo) who received STRIVERDI RESPIMAT 5 mcg during the 48-week trials.
+
+
+
+   Table 1: Number and frequency of adverse drug reactions greater than 2% (and higher than placebo) in COPD patients exposed to STRIVERDI RESPIMAT 5 mcg: Pooled data from the four 48-week, double-blind, active- and placebo-controlled clinical trials in COPD patients 40 years of age and older  
+
+
+
+
+ * Rash includes a grouping of similar terms.                        
+  
+   Treatment                                                          STRIVERDI5 mcg once-daily        Placebo       
+   Body system (adverse drug reaction)                                   n=876n (%)         n=885n (%)      
+  Infections and infestations                                                                               
+      Nasopharyngitis                                                    99 (11.3)           68 (7.7)       
+      Upper Respiratory Tract Infection                                   72 (8.2)           66 (7.5)       
+      Bronchitis                                                          41 (4.7)           32 (3.6)       
+      Urinary Tract Infection                                             22 (2.5)            9 (1.0)       
+  Respiratory, thoracic, and mediastinal disorders                                                          
+      Cough                                                               37 (4.2)           35 (4.0)       
+  Nervous system disorders                                                                                  
+      Dizziness                                                           20 (2.3)           19 (2.1)       
+  Skin and subcutaneous tissue disorders                                                                    
+      Rash*                                                               19 (2.2)           10 (1.1)       
+  Gastrointestinal disorders                                                                                
+      Diarrhea                                                            25 (2.9)           22 (2.5)       
+  Musculoskeletal and connective tissue disorders                                                           
+      Back Pain                                                           31 (3.5)           24 (2.7)       
+      Arthralgia                                                          18 (2.1)            7 (0.8)       
+      Additional adverse reactions that occurred in greater than 2% (and higher than placebo) of patients exposed to STRIVERDI RESPIMAT 10 mcg were pneumonia, constipation, and pyrexia.
+ 
+
+ Lung cancers were reported in 6 (0.7%), 3 (0.3%), and 2 (0.2%) patients who received STRIVERDI RESPIMAT 10 mcg, 5 mcg, and placebo, respectively.

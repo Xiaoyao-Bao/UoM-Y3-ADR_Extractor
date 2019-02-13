@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="OXYTROL_FOR_WOMEN">
+  <Text>
+    <Section id="S1" name="warnings">     Warnings  
+
+
+
+   For external use only  
+
+
+
+  Frequent urination can also be caused by:  
+
+
+
+ *   urinary tract infections (UTI)     
+ *   diabetes     
+ *   early pregnancy     
+ *   other more serious conditions  
+     If you think you might have one of these conditions, it is important to see your doctor before use.  
+ 
+
+  Sleepiness, dizziness, confusion, and blurry vision may occur. Do not drive or operate machinery until you know how the patch affects you.  
+
+
+
+     Do not use       if you  
+
+
+
+    *   have  any  of these symptoms, which could be the sign of a UTI or other serious condition.  
+          See your doctor as soon as possible if you have:  
+ 
+
+ *  pain or burning when urinating. These symptoms may also be accompanied by a fever or chills. 
+ *  blood in your urine 
+ *  unexplained lower back or side pain 
+ *  urine that is cloudy, or foul-smelling 
+ *  are male. Your symptoms may be due to a more serious condition. 
+ *  are under the age of 18. It is not known if it works or is safe in children. 
+ *  only experience accidental urine loss when you cough, sneeze or laugh, you may have stress incontinence. This product will not work for that condition. 
+ *  have been told by a doctor you have urinary retention (are not able to empty your bladder) 
+ *  have been told by a doctor you have gastric retention (your stomach empties slowly after a meal) 
+ *  have glaucoma 
+ *  are allergic to oxybutynin 
+        Ask a doctor before use if you have  
+ 
+
+    *  symptoms of diabetes, such as:○ excessive thirst○ extreme hunger 
+ *  unexplained weight loss 
+ *  liver or kidney disease 
+        Ask a doctor or pharmacist before use if you are  
+ 
+
+    *  taking a prescription medication for overactive bladder 
+ *  taking any drugs that may cause sleepiness, dizziness, dry mouth, constipation or blurred vision 
+ *  taking certain antibiotics (for example, erythromycin, clarithromycin) or prescription antifungals (for example, ketoconazole, itraconazole) 
+        When using this product  
+ 
+
+    *  you may have itching, rash or redness where the patch was placed 
+ *  drinking alcohol may increase sleepiness 
+        Stop use and ask a doctor if  
+ 
+
+    *  you are not able to empty your bladder (urinary retention) 
+ *  condition worsens, or if new symptoms appear 
+ *  condition does not improve after 2 weeks of use 
+ *  you have an allergic reaction to this product 
+ *  you have severe redness, itchiness or blistering at the site of application 
+     If pregnant or breastfeeding, ask a health professional before use.  
+ 
+
+     Keep out of reach of children.  
+
+
+
+  If swallowed, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="11" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S1" start="481" />
+    <IgnoredRegion len="38" name="heading" section="S1" start="1448" />
+    <IgnoredRegion len="51" name="heading" section="S1" start="1628" />
+    <IgnoredRegion len="26" name="heading" section="S1" start="2002" />
+    <IgnoredRegion len="31" name="heading" section="S1" start="2158" />
+    <IgnoredRegion len="33" name="heading" section="S1" start="2577" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

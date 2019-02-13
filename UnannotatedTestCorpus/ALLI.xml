@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ALLI">
+  <Text>
+    <Section id="S1" name="warnings">     Warnings  
+
+
+
+   Organ transplant alert:
+
+
+
+    *    do not use if you have had an organ transplant. Orlistat interferes with the medicines used to prevent transplant rejection. 
+       Allergy alert:
+ 
+
+    *    do not use if you are allergic to any of the ingredients in orlistat capsules 
+       Do not use
+ 
+
+    *     if you are taking cyclosporine  
+ *    if you have been diagnosed with problems absorbing food 
+ *    if you are not overweight 
+       Ask a doctor before use if you have
+ 
+
+    *     ever had 
+   *    gallbladder problems 
+ *    kidney stones 
+ *    pancreatitis 
+       Ask a doctor or pharmacist before use if you are
+ 
+
+    *    taking any of the following prescription medications. Some prescription doses may need to be adjusted, or some medications may not work as well when used with orlistat. 
+ *    anticoagulants (blood thinning medicine) 
+ *    amiodarone (heart medicine) 
+ *    diabetes medicine 
+ *    thyroid disease medicine 
+ *    seizure medicine 
+ *    antiretrovirals (HIV medicine) 
+ *    taking any other weight loss products 
+       When using this product
+ 
+
+    *     take a multivitamin once a day, at bedtime . Orlistat can reduce the absorption of some vitamins. 
+ *    follow a well-balanced, reduced-calorie, low-fat diet. Try starting this diet before taking orlistat. 
+ *    *    gas with oily spotting 
+ *    loose stools 
+ *    more frequent stools that may be hard to control 
+   orlistat works by preventing the absorption of some of the fat you eat. The fat passes out of your body, so you may have bowel changes. You may get: 
+ *    eating a low-fat diet lowers the chance of having these bowel changes 
+ *    for every 5 pounds you lose from diet alone, orlistat can help you lose 2-3 pounds more. In studies, most people lost 5-10 pounds over 6 months. 
+       Stop use and ask a doctor if
+ 
+
+    *    you develop itching, yellow eyes or skin, dark urine or loss of appetite. There have been rare reports of liver injury in people taking orlistat. 
+ *    severe or continuous abdominal pain occurs. This may be a sign of a serious medical condition. 
+ *    you are taking medicine for seizures and your seizures happen more often or get worse 
+       If pregnant or breast-feeding, do not use.
+ 
+
+   Keep out of reach of children.
+
+
+
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="11" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="23" name="heading" section="S1" start="22" />
+    <IgnoredRegion len="14" name="heading" section="S1" start="191" />
+    <IgnoredRegion len="10" name="heading" section="S1" start="304" />
+    <IgnoredRegion len="35" name="heading" section="S1" start="464" />
+    <IgnoredRegion len="48" name="heading" section="S1" start="601" />
+    <IgnoredRegion len="23" name="heading" section="S1" start="1086" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="1831" />
+    <IgnoredRegion len="42" name="heading" section="S1" start="2221" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="2270" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

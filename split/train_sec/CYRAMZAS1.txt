@@ -1,0 +1,247 @@
+    6 ADVERSE REACTIONS
+
+  The following adverse drug reactions are discussed in greater detail in other sections of the label:
+
+
+
+ *   Hemorrhage≠B-OSE_Labeled_AE  [see Dosage and Administration (  2.3  ) and Warnings and Precautions (  5.1  )] . 
+ *   Arterial≠B-OSE_Labeled_AE   Thromboembolic≠I-OSE_Labeled_AE   Events≠I-OSE_Labeled_AE  [see Dosage and Administration (  2.3  ) and Warnings and Precautions (  5.2  )] . 
+ *   Hypertension≠B-OSE_Labeled_AE  [see Dosage and Administration (  2.3  ) and Warnings and Precautions (  5.3  )] . 
+ *   Infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Related≠I-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [see Dosage and Administration (  2.3  ) and Warnings and Precautions (  5.4  )] . 
+ *   Gastrointestinal≠B-OSE_Labeled_AE   Perforation≠I-OSE_Labeled_AE  [see Dosage and Administration (  2.3  ) and Warnings and Precautions (  5.5  )] . 
+ *   Impaired≠B-OSE_Labeled_AE   Wound≠I-OSE_Labeled_AE   Healing≠I-OSE_Labeled_AE  [see Dosage and Administration (  2.3  ) and Warnings and Precautions (  5.6  )] . 
+ *  Patients with  Child≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  Pugh≠I-Not_AE_Candidate   B≠I-Not_AE_Candidate  or C  Cirrhosis≠I-Not_AE_Candidate  [see Warnings and Precautions (  5.7  )] . 
+ *   Reversible≠B-OSE_Labeled_AE   Posterior≠I-OSE_Labeled_AE   Leukoencephalopathy≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.8  )] . 
+ *   Proteinuria≠B-OSE_Labeled_AE  Including  Nephrotic≠B-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.9  )] . 
+ *   Thyroid≠B-OSE_Labeled_AE   Dysfunction≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.10  )].  
+   *  The most common adverse reactions observed in single-agent CYRAMZA-treated patients at a rate of >=10% and >=2% higher than placebo were  hypertension≠B-OSE_Labeled_AE  and  diarrhea≠B-OSE_Labeled_AE . (  6.1  ) 
+ *  The most common adverse reactions observed in patients treated with CYRAMZA plus paclitaxel at a rate of >=30% and >=2% higher than placebo plus paclitaxel were  fatigue≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE , and  epistaxis≠B-OSE_Labeled_AE . (  6.1  ) 
+ *  The most common adverse reactions observed in patients treated with CYRAMZA plus docetaxel at a rate of >=30% and >=2% higher than placebo plus docetaxel were  neutropenia≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE / asthenia≠B-OSE_Labeled_AE , and  stomatitis≠B-OSE_Labeled_AE / mucosal≠B-OSE_Labeled_AE   inflammation≠I-OSE_Labeled_AE . (  6.1  ) 
+ *  The most common adverse reactions observed in patients treated with CYRAMZA plus FOLFIRI at a rate of >=30% and >=2% higher than placebo plus FOLFIRI were  diarrhea≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  epistaxis≠B-OSE_Labeled_AE , and  stomatitis≠B-OSE_Labeled_AE . (  6.1  ) 
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact Eli Lilly and Company at 1-800-LillyRx (1-800-545-5979) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+   Gastric Cancer  
+
+
+
+ Safety data are presented from two randomized, placebo controlled clinical trials in which patients received CYRAMZA: Study 1, a randomized (2:1), double-blind, clinical trial in which 351 patients received either CYRAMZA 8 mg/kg intravenously every two weeks or placebo every two weeks and Study 2, a double-blind, randomized (1:1) clinical trial in which 656 patients received paclitaxel 80 mg/m  2  on days 1, 8, and 15 of each 28-day cycle plus either CYRAMZA 8 mg/kg intravenously every two weeks or placebo every two weeks. Both trials excluded patients with Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 2 or greater, uncontrolled  hypertension≠B-Not_AE_Candidate , major surgery within 28 days, or patients receiving chronic anti-platelet therapy other than once daily aspirin. Study 1 excluded patients with bilirubin >=1.5 mg/dL and Study 2 excluded patients with bilirubin >1.5 times the upper limit of normal.
+
+
+
+     CYRAMZA Administered as a Single Agent  
+
+
+
+ Among 236 patients who received CYRAMZA (safety population) in Study 1, median age was 60 years, 28% were women, 76% were White, and 16% were Asian. Patients in Study 1 received a median of 4 doses of CYRAMZA; the median duration of exposure was 8 weeks, and 32 (14% of 236) patients received CYRAMZA for at least six months.
+
+
+
+ In Study 1, the most common adverse reactions (all grades) observed in CYRAMZA-treated patients at a rate of >=10% and >=2% higher than placebo were  hypertension≠B-OSE_Labeled_AE  and  diarrhea≠B-OSE_Labeled_AE . The most common serious adverse events with CYRAMZA were  anemia≠B-OSE_Labeled_AE  (3.8%) and  intestinal≠B-OSE_Labeled_AE   obstruction≠I-OSE_Labeled_AE  (2.1%). Red blood cell transfusions were given to 11% of CYRAMZA-treated patients versus 8.7% of patients who received placebo.
+
+
+
+   Table 2  provides the frequency and severity of adverse reactions in Study 1.
+
+
+
+ Table 2: Adverse Reactions Occurring at Incidence Rate >=5% and a >=2% Difference Between Arms in Patients Receiving CYRAMZA in Study 1 
+                                       
+  
+   Adverse Reactions (MedDRA)    System Organ Class      CYRAMZA (8 mg/kg)    N=236      Placebo    N=115     
+   All Grades    (Frequency %)          Grade 3-4    (Frequency %)      All Grades    (Frequency %)      Grade 3-4    (Frequency %)     
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE           
+       Diarrhea≠B-OSE_Labeled_AE                         14               1                9                 2                   
+    Metabolism≠B-NonOSE_AE  and Nutrition  Disorders≠I-NonOSE_AE      
+       Hyponatremia≠B-OSE_Labeled_AE                     6                3                2                 1                   
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE             
+       Headache≠B-OSE_Labeled_AE                         9                0                3                 0                   
+    Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                   
+       Hypertension≠B-OSE_Labeled_AE                     16               8                8                 3                   
+           Clinically relevant adverse reactions reported in >=1% and <5% of CYRAMZA-treated patients in Study 1 were:  neutropenia≠B-OSE_Labeled_AE  (4.7% CYRAMZA versus 0.9% placebo),  epistaxis≠B-OSE_Labeled_AE  (4.7% CYRAMZA versus 0.9% placebo),  rash≠B-OSE_Labeled_AE  (4.2% CYRAMZA versus 1.7% placebo),  intestinal≠B-OSE_Labeled_AE   obstruction≠I-OSE_Labeled_AE  (2.1% CYRAMZA versus 0% placebo), and  arterial≠B-OSE_Labeled_AE   thromboembolic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  (1.7% CYRAMZA versus 0% placebo)  [see Dosage and Administration (  2.3  ) and Warnings and Precautions (  5.1  ,  5.2  )]  .
+ 
+
+ Across clinical trials of CYRAMZA administered as a single agent, clinically relevant adverse reactions (including Grade >=3) reported in CYRAMZA-treated patients included  proteinuria≠B-OSE_Labeled_AE ,  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE , and  infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE .
+
+
+
+ In Study 1, according to laboratory assessment, 8% of CYRAMZA-treated patients developed  proteinuria≠B-OSE_Labeled_AE  versus 3% of placebo-treated patients. Two patients discontinued CYRAMZA due to  proteinuria≠B-OSE_Labeled_AE . The rate of  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  in Study 1 was 0.8% and the rate of  infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  was 0.4%  [see Dosage and Administration (  2.2  ,  2.3  ) and Warnings and Precautions (  5.4  ,  5.5  )]  .
+
+
+
+     CYRAMZA Administered in Combination with Paclitaxel  
+
+
+
+ Among 327 patients who received CYRAMZA (safety population) in Study 2, median age was 61 years, 31% were women, 63% were White, and 33% were Asian. Patients in Study 2 received a median of 9 doses of CYRAMZA; the median duration of exposure was 18 weeks, and 93 (28% of 327) patients received CYRAMZA for at least six months.
+
+
+
+ In Study 2, the most common adverse reactions (all grades) observed in patients treated with CYRAMZA plus paclitaxel at a rate of >=30% and >=2% higher than placebo plus paclitaxel were  fatigue≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE , and  epistaxis≠B-OSE_Labeled_AE . The most common serious adverse events with CYRAMZA plus paclitaxel were  neutropenia≠B-OSE_Labeled_AE  (3.7%) and  febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE  (2.4%); 19% of patients treated with CYRAMZA plus paclitaxel received granulocyte colony-stimulating factors. Adverse reactions resulting in discontinuation of any component of the CYRAMZA plus paclitaxel combination in 2% or more patients in Study 2 were  neutropenia≠B-OSE_Labeled_AE  (4%) and  thrombocytopenia≠B-OSE_Labeled_AE  (3%).
+
+
+
+   Table 3  provides the frequency and severity of adverse reactions in Study 2.
+
+
+
+ Table 3: Adverse Reactions Occurring at Incidence Rate >=5% and a >=2% Difference Between Arms in Patients Receiving CYRAMZA plus Paclitaxel in Study 2 
+   Adverse Reactions (MedDRA) System Organ Class      CYRAMZA plus Paclitaxel    (N=327)      Placebo plus Paclitaxel    (N=329)     
+   All Grades    (Frequency %)           Grade >=3 (Frequency %)      All Grades    (Frequency %)      Grade >=3 (Frequency %)     
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+       Neutropenia≠B-OSE_Labeled_AE                       54               41               31               19                 
+       Thrombocytopenia≠B-OSE_Labeled_AE                  13               2                6                2                  
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE            
+       Diarrhea≠B-OSE_Labeled_AE                          32               4                23               2                  
+       Gastrointestinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  events  10               4                6                2                  
+       Stomatitis≠B-OSE_Labeled_AE                        20               1                7                1                  
+   General Disorders and  Administration≠B-NonOSE_AE   Site≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+       Fatigue≠B-OSE_Labeled_AE / Asthenia≠B-OSE_Labeled_AE                  57               12               44               6                  
+       Peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE                  25               2                14               1                  
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+       Hypoalbuminemia≠B-OSE_Labeled_AE                   11               1                5                1                  
+    Renal≠B-NonOSE_AE  and Urinary  Disorders≠I-NonOSE_AE           
+       Proteinuria≠B-OSE_Labeled_AE                       17               1                6                0                  
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE  ,≠I-NonOSE_AE   and≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+       Epistaxis≠B-OSE_Labeled_AE                         31               0                7                0                  
+    Vascular≠B-NonOSE_AE   Disorder≠I-NonOSE_AE                     
+       Hypertension≠B-OSE_Labeled_AE                      25               15               6                3                  
+           Clinically relevant adverse reactions reported in >=1% and <5% of the CYRAMZA plus paclitaxel treated patients in Study 2 were  sepsis≠B-OSE_Labeled_AE  (3.1% CYRAMZA plus paclitaxel versus 1.8% placebo plus paclitaxel) and  gastrointestinal≠B-OSE_Labeled_AE   perforations≠I-OSE_Labeled_AE  (1.2% CYRAMZA plus paclitaxel versus 0.3% for placebo plus paclitaxel).
+ 
+
+     Non-Small Cell Lung Cancer  
+
+
+
+     CYRAMZA Administered in Combination with Docetaxel  
+
+
+
+ Study 3 was a multinational, randomized, double-blind study conducted in patients with  NSCLC≠B-Not_AE_Candidate  with disease progression on or after one platinum-based therapy for locally advanced or  metastatic≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate . Patients received either CYRAMZA 10 mg/kg intravenously plus docetaxel 75 mg/m  2  intravenously every 3 weeks or placebo plus docetaxel 75 mg/m  2  intravenously every 3 weeks. Due to an increased incidence of  neutropenia≠B-OSE_Labeled_AE  and  febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE  in patients enrolled in East Asian sites, Study 3 was amended and 24 patients (11 CYRAMZA plus docetaxel, 13 placebo plus docetaxel) at East Asian sites received a starting dose of docetaxel at 60 mg/m  2  every 3 weeks.
+
+
+
+ Study 3 excluded patients with an ECOG PS of 2 or greater, bilirubin greater than the upper limit of normal (ULN), uncontrolled  hypertension≠B-Not_AE_Candidate , major surgery within 28 days, radiographic evidence of major  airway≠B-Not_AE_Candidate  or blood vessel  invasion≠I-Not_AE_Candidate  by cancer, radiographic evidence of  intra≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  tumor≠I-Not_AE_Candidate   cavitation≠I-Not_AE_Candidate , or gross  hemoptysis≠B-Not_AE_Candidate  within the preceding 2 months, and patients receiving therapeutic anticoagulation or chronic anti-platelet therapy other than once daily aspirin. The study also excluded patients whose only prior treatment for advanced  NSCLC≠B-Not_AE_Candidate  was a tyrosine kinase (epidermal growth factor receptor [EGFR] or anaplastic lymphoma kinase [ALK]) inhibitor.
+
+
+
+ The data described below reflect exposure to CYRAMZA plus docetaxel in 627 patients in Study 3. Demographics and baseline characteristics were similar between treatment arms. Median age was 62 years; 67% of patients were men; 84% were White and 12% were Asian; 33% had ECOG PS 0; 74% had non-squamous histology and 25% had squamous histology. Patients received a median of 4.5 doses of CYRAMZA; the median duration of exposure was 3.5 months, and 195 (31% of 627) patients received CYRAMZA for at least six months.
+
+
+
+ In Study 3, the most common adverse reactions (all grades) observed in CYRAMZA plus docetaxel-treated patients at a rate of >=30% and >=2% higher than placebo plus docetaxel were  neutropenia≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE / asthenia≠B-OSE_Labeled_AE , and  stomatitis≠B-OSE_Labeled_AE / mucosal≠B-OSE_Labeled_AE   inflammation≠I-OSE_Labeled_AE . Treatment discontinuation due to adverse reactions occurred more frequently in CYRAMZA plus docetaxel-treated patients (9%) than in placebo plus docetaxel-treated patients (5%). The most common adverse events leading to treatment discontinuation of CYRAMZA were  infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE  (0.5%) and  epistaxis≠B-OSE_Labeled_AE  (0.3%). For patients with non-squamous histology, the overall incidence of  pulmonary≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  was 7% and the incidence of >=Grade 3  pulmonary≠B-NonOSE_AE   hemorrhage≠I-NonOSE_AE  was 1% for CYRAMZA plus docetaxel compared to 6% overall incidence and 1% for >=Grade 3  pulmonary≠B-NonOSE_AE   hemorrhage≠I-NonOSE_AE  for placebo plus docetaxel. For patients with squamous histology, the overall incidence of  pulmonary≠B-NonOSE_AE   hemorrhage≠I-NonOSE_AE  was 10% and the incidence of >=Grade 3  pulmonary≠B-NonOSE_AE   hemorrhage≠I-NonOSE_AE  was 2% for CYRAMZA plus docetaxel compared to 12% overall incidence and 2% for >=Grade 3  pulmonary≠B-NonOSE_AE   hemorrhage≠I-NonOSE_AE  for placebo plus docetaxel.
+
+
+
+ The most common serious adverse events with CYRAMZA plus docetaxel were  febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE  (14%),  pneumonia≠B-OSE_Labeled_AE  (6%), and  neutropenia≠B-OSE_Labeled_AE  (5%). The use of granulocyte colony-stimulating factors was 42% in CYRAMZA plus docetaxel-treated patients versus 37% in patients who received placebo plus docetaxel. In patients >=65 years, there were 18 (8%)  deaths≠B-NonOSE_AE  on treatment or within 30 days of discontinuation for CYRAMZA plus docetaxel and 9 (4%)  deaths≠B-NonOSE_AE  for placebo plus docetaxel. In patients <65 years, there were 13 (3%)  deaths≠B-NonOSE_AE  on treatment or within 30 days of discontinuation for CYRAMZA plus docetaxel and 26 (6%)  deaths≠B-NonOSE_AE  for placebo plus docetaxel.
+
+
+
+   Table 4  provides the frequency and severity of adverse reactions in Study 3.
+
+
+
+ Table 4: Adverse Reactions Occurring at Incidence Rate >=5% and a >=2% Difference Between Arms in Patients Receiving CYRAMZA in Study 3 
+   Adverse Reactions (MedDRA)    System Organ Class      CYRAMZA plus docetaxel    (N=627)      Placebo plus docetaxel    (N=618)     
+   All Grades    (Frequency %)            Grade 3-4    (Frequency %)      All Grades    (Frequency %)      Grade 3-4    (Frequency %)     
+    Blood≠B-NonOSE_AE  and Lymphatic System  Disorders≠I-NonOSE_AE      
+         Febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE              16               16                10                10                
+         Neutropenia≠B-OSE_Labeled_AE                      55               49                46                40                
+         Thrombocytopenia≠B-OSE_Labeled_AE                 13               3                 5                 <1                
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE             
+         Stomatitis≠B-OSE_Labeled_AE / Mucosal≠B-OSE_Labeled_AE   inflammation≠I-OSE_Labeled_AE   37               7                 19                2                 
+    Eye≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                          
+         Lacrimation≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE            13               <1                5                 0                 
+   General Disorders and  Administration≠B-NonOSE_AE   Site≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+         Fatigue≠B-OSE_Labeled_AE / Asthenia≠B-OSE_Labeled_AE                 55               14                50                11                
+         Peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE                 16               0                 9                 <1                
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE  ,≠I-NonOSE_AE   and≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+         Epistaxis≠B-OSE_Labeled_AE                        19               <1                7                 <1                
+    Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                     
+         Hypertension≠B-OSE_Labeled_AE                     11               6                 5                 2                 
+           Clinically relevant adverse drug reactions reported in >=1% and <5% of the CYRAMZA plus docetaxel-treated patients in Study 3 were  hyponatremia≠B-OSE_Labeled_AE  (4.8% CYRAMZA plus docetaxel versus 2.4% for placebo plus docetaxel) and  proteinuria≠B-OSE_Labeled_AE  (3.3% CYRAMZA plus docetaxel versus 0.8% placebo plus docetaxel).
+ 
+
+     Colorectal Cancer  
+
+
+
+     CYRAMZA Administered in Combination with FOLFIRI  
+
+
+
+ Study 4 was a multinational, randomized, double-blind study conducted in patients with  metastatic≠B-Not_AE_Candidate   colorectal≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  with disease progression on or after therapy with bevacizumab, oxaliplatin, and a fluoropyrimidine. Patients received either CYRAMZA 8 mg/kg intravenously plus FOLFIRI intravenously every 2 weeks or placebo plus FOLFIRI intravenously every 2 weeks.
+
+
+
+ Study 4 excluded patients with an ECOG PS of 2 or greater, uncontrolled  hypertension≠B-Not_AE_Candidate , major surgery within 28 days, and those who experienced any of the following during first-line therapy with a bevacizumab-containing regimen: an  arterial≠B-Not_AE_Candidate   thrombotic≠I-Not_AE_Candidate /thromboembolic  event≠I-Not_AE_Candidate ; Grade 4  hypertension≠B-Not_AE_Candidate ; Grade 3  proteinuria≠B-Not_AE_Candidate ; a Grade 3-4  bleeding≠B-Not_AE_Candidate  event; or  bowel≠B-Not_AE_Candidate   perforation≠I-Not_AE_Candidate .
+
+
+
+ Demographics and baseline characteristics for the treated population were similar between treatment arms (n=1057). Median age was 62 years; 57% of patients were men; 76% were White and 20% were Asian; 48% had ECOG PS 0.
+
+
+
+ The data described in this section reflect exposure to CYRAMZA plus FOLFIRI in 529 patients in Study 4. Patients received a median of 8 doses (range 1-68) of CYRAMZA; the median duration of exposure was 4.4 months, and 169 (32% of 529) patients received CYRAMZA for at least six months. The most common adverse reactions (all grades) observed in CYRAMZA plus FOLFIRI-treated patients at a rate of >=30% and >=2% higher than placebo plus FOLFIRI were  diarrhea≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  epistaxis≠B-OSE_Labeled_AE , and  stomatitis≠B-OSE_Labeled_AE . Twenty percent of patients treated with CYRAMZA plus FOLFIRI received granulocyte colony-stimulating factors. Treatment discontinuation of any study drug due to adverse reactions occurred more frequently in CYRAMZA plus FOLFIRI-treated patients (29%) than in placebo plus FOLFIRI-treated patients (13%).
+
+
+
+ The most common adverse reactions leading to discontinuation of any component of CYRAMZA plus FOLFIRI as compared to placebo plus FOLFIRI, were  neutropenia≠B-OSE_Labeled_AE  (12.5% versus 5.3%) and  thrombocytopenia≠B-OSE_Labeled_AE  (4.2% versus 0.8%). The most common adverse reactions leading to treatment discontinuation of CYRAMZA were  proteinuria≠B-OSE_Labeled_AE  (1.5%) and  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  (1.7%).
+
+
+
+ The most common serious adverse events with CYRAMZA plus FOLFIRI were  diarrhea≠B-OSE_Labeled_AE  (3.6%),  intestinal≠B-OSE_Labeled_AE   obstruction≠I-OSE_Labeled_AE  (3.0%), and  febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE  (2.8%).
+
+
+
+   Table 5  provides the frequency and severity of adverse reactions in Study 4.
+
+
+
+ Table 5: Adverse Reactions Occurring at Incidence Rate >=5% and a >=2% Difference Between Arms in Patients Receiving CYRAMZA in Study 4 
+  a Includes 3 patients with  nephrotic≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  in the CYRAMZA plus FOLFIRI treatment group.    
+  
+   Adverse Reactions (MedDRA)    System Organ Class      CYRAMZA plus FOLFIRI    N=529      Placebo plus FOLFIRI    N=528     
+   All Grades    (Frequency %)          Grade >=3    (Frequency %)      All Grades    (Frequency %)      Grade >=3    (Frequency %)     
+    Blood≠B-NonOSE_AE  and Lymphatic System  Disorders≠I-NonOSE_AE      
+       Neutropenia≠B-OSE_Labeled_AE                      59               38               46                23                  
+       Thrombocytopenia≠B-OSE_Labeled_AE                 28               3                14                <1                  
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE           
+       Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE               37               2                27                2                   
+       Diarrhea≠B-OSE_Labeled_AE                         60               11               51                10                  
+       Gastrointestinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  events  12               2                7                 1                   
+       Stomatitis≠B-OSE_Labeled_AE                       31               4                21                2                   
+   General Disorders and  Administration≠B-NonOSE_AE   Site≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+       Peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE                 20               <1               9                 0                   
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+       Hypoalbuminemia≠B-OSE_Labeled_AE                  6                1                2                 0                   
+    Renal≠B-NonOSE_AE  and Urinary  Disorders≠I-NonOSE_AE          
+       Proteinuria≠B-OSE_Labeled_AE   a                  17               3                5                 <1                  
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE  ,≠I-NonOSE_AE   and≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+       Epistaxis≠B-OSE_Labeled_AE                        33               0                15                0                   
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+       Palmar≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  plantar≠I-OSE_Labeled_AE   erythrodysesthesia≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE   13               1                5                 <1                  
+    Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                   
+       Hypertension≠B-OSE_Labeled_AE                     26               11               9                 3                   
+           Clinically relevant adverse reactions reported in >=1% and <5% of CYRAMZA plus FOLFIRI-treated patients in Study 4 consisted of  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  (1.7% CYRAMZA plus FOLFIRI versus 0.6% for placebo plus FOLFIRI).
+ 
+
+ Thyroid stimulating hormone (TSH) levels were evaluated in 224 patients (115 CYRAMZA plus FOLFIRI-treated patients and 109 placebo plus FOLFIRI-treated patients) with normal baseline TSH levels. Patients underwent periodic TSH laboratory assessments until 30 days after the last dose of study treatment.  Increased≠B-OSE_Labeled_AE   TSH≠I-OSE_Labeled_AE  levels were observed in 53 (46%) patients treated with CYRAMZA plus FOLFIRI compared with 4 (4%) patients treated with placebo plus FOLFIRI.
+
+
+
+   6.2 Immunogenicity
+
+  As with all therapeutic proteins, there is the potential for  immunogenicity≠B-OSE_Labeled_AE . In 23 clinical trials, 86/2890 (3.0%) of CYRAMZA-treated patients tested  positive≠B-OSE_Labeled_AE  for treatment-emergent  anti≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  ramucirumab≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE  by an enzyme-linked immunosorbent assay (ELISA).  Neutralizing≠B-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE  were  detected≠I-OSE_Labeled_AE  in 14 of the 86 patients who tested positive for treatment-emergent  anti≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  ramucirumab≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE .
+
+
+
+ The detection of  antibody≠B-NonOSE_AE   formation≠I-NonOSE_AE  is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of  antibody≠B-NonOSE_AE  (including neutralizing antibody)  positivity≠I-NonOSE_AE  in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of incidence of  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   CYRAMZA≠I-NonOSE_AE  with the incidences of  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   other≠I-NonOSE_AE   products≠I-NonOSE_AE  may be misleading.

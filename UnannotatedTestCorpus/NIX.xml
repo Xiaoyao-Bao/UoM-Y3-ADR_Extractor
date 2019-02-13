@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="NIX">
+  <Text>
+    <Section id="S1" name="warnings">     Warnings  
+
+
+
+   For external use only  
+
+
+
+     Do not use  
+
+
+
+    *  on children under 2 months of age 
+ *  near the eyes 
+ *  inside the nose, ear, mouth, or vagina 
+ *  on lice in eyebrows or eyelashes. See your doctor. 
+        Ask a doctor before use if you are     
+ 
+
+  allergic to ragweed. May cause breathing difficulty or an asthmatic episode.
+
+
+
+     When using this product  
+
+
+
+    *  keep eyes tightly closed and protect eyes with a washcloth or towel 
+ *  if product gets into the eyes, immediately flush with large amounts of water 
+ *  scalp itching or redness may occur 
+        Stop use and see a doctor if  
+ 
+
+    *  breathing difficulty occurs 
+ *  eye irritation occurs 
+ *  skin or scalp irritation continues or infection occurs 
+        If pregnant or bre   ast-feeding,  
+ 
+
+  ask a health professional before use.
+
+
+
+     Keep out of reach of children.  
+
+
+
+  If swallowed, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="11" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="13" name="heading" section="S1" start="53" />
+    <IgnoredRegion len="40" name="heading" section="S1" start="238" />
+    <IgnoredRegion len="26" name="heading" section="S1" start="368" />
+    <IgnoredRegion len="31" name="heading" section="S1" start="603" />
+    <IgnoredRegion len="36" name="heading" section="S1" start="768" />
+    <IgnoredRegion len="33" name="heading" section="S1" start="855" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,162 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Elimination of AUBAGIO can be accelerated by administration of cholestyramine or activated charcoal for 11 days (  5.3  ) 
+ *  AUBAGIO may decrease WBC. A recent CBC should be available before starting AUBAGIO. Monitor for signs and symptoms of infection. Consider suspending treatment with AUBAGIO in case of serious infection. Do not start AUBAGIO in patients with active infections (  5.4  ) 
+ *  If patient develops symptoms consistent with peripheral neuropathy, evaluate patient and consider discontinuing AUBAGIO (  5.5  ) 
+ *  Stop AUBAGIO if patient develops Stevens-Johnson syndrome or toxic epidermal necrolysis (  5.6  ) 
+ *  AUBAGIO may increase blood pressure. Measure blood pressure at treatment initiation and monitor blood pressure during treatment (  5.7  ) 
+    
+ 
+
+   5.1 Hepatotoxicity
+
+
+
+  Severe  liver≠B-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE  including fatal  liver≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  and dysfunction has been reported in some patients treated with leflunomide, which is indicated for  rheumatoid≠B-Not_AE_Candidate   arthritis≠I-Not_AE_Candidate . A similar risk would be expected for teriflunomide because recommended doses of teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide. Patients with pre-existing  liver≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  may be at increased risk of developing  elevated≠B-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   transaminases≠I-OSE_Labeled_AE  when taking AUBAGIO. Patients with pre-existing  acute≠B-Not_AE_Candidate   or≠I-Not_AE_Candidate   chronic≠I-Not_AE_Candidate   liver≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate , or those with  serum≠B-Not_AE_Candidate   alanine≠I-Not_AE_Candidate   aminotransferase≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  ALT≠I-Not_AE_Candidate  )≠I-Not_AE_Candidate   greater≠I-Not_AE_Candidate   than≠I-Not_AE_Candidate   two≠I-Not_AE_Candidate   times≠I-Not_AE_Candidate   the≠I-Not_AE_Candidate   upper≠I-Not_AE_Candidate   limit≠I-Not_AE_Candidate   of≠I-Not_AE_Candidate   normal≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  ULN≠I-Not_AE_Candidate ) before initiating treatment, should not normally be treated with AUBAGIO. AUBAGIO is contraindicated in patients with severe  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  [see  Contraindications (4.1)  ]  .
+
+
+
+  In placebo-controlled trials,  ALT≠B-OSE_Labeled_AE   greater≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   three≠I-OSE_Labeled_AE   times≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   ULN≠I-OSE_Labeled_AE  occurred in 61/1045 (5.8%) and 62/1002 (6.2%) of patients receiving AUBAGIO 7 mg and 14 mg, respectively, and 38/997 (3.8%) of patients receiving placebo, during the treatment period. These elevations occurred mostly within the first year of treatment. Half of the cases returned to normal without drug discontinuation. In clinical trials, if  ALT≠B-NonOSE_AE   elevation≠I-NonOSE_AE  was greater than three times the ULN on two consecutive tests, AUBAGIO was discontinued and patients underwent an accelerated elimination procedure [see  Warnings and Precautions (5.3)  ]  . Of the patients who underwent discontinuation and accelerated elimination in controlled trials, half returned to normal or near normal values within 2 months.  
+
+
+
+ One patient in the controlled trials developed  ALT≠B-OSE_Labeled_AE   3≠I-OSE_Labeled_AE  2≠I-OSE_Labeled_AE   times≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   ULN≠I-OSE_Labeled_AE  and  jaundice≠B-OSE_Labeled_AE  5 months after initiation of AUBAGIO 14 mg treatment. The patient was hospitalized for 5 weeks and recovered after plasmapheresis and cholestyramine accelerated elimination procedure.  AUBAGIO≠B-NonOSE_AE  -≠I-NonOSE_AE  induced≠I-NonOSE_AE   liver≠I-NonOSE_AE   injury≠I-NonOSE_AE  in this patient could not be ruled out.
+
+
+
+ Obtain serum transaminase and bilirubin levels within 6 months before initiation of AUBAGIO therapy. Monitor ALT levels at least monthly for six months after starting AUBAGIO. Consider additional monitoring when AUBAGIO is given with other potentially  hepatotoxic≠B-NonOSE_AE   drugs≠I-NonOSE_AE . Consider discontinuing AUBAGIO if serum  transaminase≠B-NonOSE_AE   increase≠I-NonOSE_AE  (greater than three times the ULN) is confirmed. Monitor serum transaminase and bilirubin on AUBAGIO therapy, particularly in patients who develop symptoms suggestive of  hepatic≠B-NonOSE_AE   dysfunction≠I-NonOSE_AE , such as unexplained  nausea≠B-NonOSE_AE ,  vomiting≠B-NonOSE_AE ,  abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  fatigue≠B-NonOSE_AE ,  anorexia≠B-NonOSE_AE , or  jaundice≠B-NonOSE_AE  and/or  dark≠B-NonOSE_AE   urine≠I-NonOSE_AE . If  liver≠B-NonOSE_AE   injury≠I-NonOSE_AE  is suspected to be AUBAGIO-induced, discontinue AUBAGIO and start an accelerated elimination procedure [see  Warnings and Precautions (5.3)  ]  and monitor liver tests weekly until normalized. If  AUBAGIO≠B-NonOSE_AE  -≠I-NonOSE_AE  induced≠I-NonOSE_AE   liver≠I-NonOSE_AE   injury≠I-NonOSE_AE  is unlikely because some other probable cause has been found, resumption of AUBAGIO therapy may be considered.
+
+
+
+    5.2 Use in Women of Childbearing Potential
+
+
+
+  There are no adequate and well-controlled studies evaluating AUBAGIO in  pregnant≠B-Not_AE_Candidate  women. However, based on animal studies, teriflunomide may  increase≠B-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   risk≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   teratogenic≠I-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE  or  fetal≠B-NonOSE_AE   death≠I-NonOSE_AE  when administered to a  pregnant≠B-Not_AE_Candidate  woman [see  Contraindications (4.2)  ]  .
+
+
+
+ Women of childbearing potential must not be started on AUBAGIO until  pregnancy≠B-Not_AE_Candidate  is excluded and it has been confirmed that they are using reliable contraception. Before starting treatment with AUBAGIO, patients must be fully counseled on the potential for serious risk to the fetus. The patient must be advised that if there is any delay in onset of menses or any other reason to suspect  pregnancy≠B-NonOSE_AE , they must notify the physician immediately for pregnancy testing and, if positive, the physician and patient must discuss the risk to the fetus. It is possible that rapidly lowering the plasma concentration of teriflunomide by instituting an accelerated elimination procedure may decrease the risk to the fetus from AUBAGIO [see  Warnings and Precautions (5.3)  ]  .
+
+
+
+ Upon discontinuing AUBAGIO, it is recommended that all women of childbearing potential undergo an accelerated elimination procedure. Women receiving AUBAGIO treatment who wish to become  pregnant≠B-NonOSE_AE  must discontinue AUBAGIO and undergo an accelerated elimination procedure, which includes verification of teriflunomide plasma concentrations less than 0.02 mg/L (0.02 mcg/mL). Human plasma concentrations of teriflunomide less than 0.02 mg/L (0.02 mcg/mL) are expected to have minimal risk [see  Contraindications (4.2)  ,  Warnings and Precautions (5.3)  and  Use in Specific Populations (8.1)  ]  .
+
+
+
+    5.3 Procedure for Accelerated Elimination of Teriflunomide
+
+
+
+  Teriflunomide is eliminated slowly from the plasma. Without an accelerated elimination procedure, it takes on average 8 months to reach plasma concentrations less than 0.02 mg/L, although because of individual variations in drug clearance it may take as long as 2 years. An accelerated elimination procedure could be used at any time after discontinuation of AUBAGIO. Elimination can be accelerated by either of the following procedures:
+
+
+
+ *  Administration of cholestyramine 8 g every 8 hours for 11 days. If cholestyramine 8 g three times a day is not well tolerated, cholestyramine 4 g three times a day can be used. 
+ *  Administration of 50 g oral activated charcoal powder every 12 hours for 11 days. 
+    If either elimination procedure is poorly tolerated, treatment days do not need to be consecutive unless there is a need to lower teriflunomide plasma concentration rapidly.
+ 
+
+ At the end of 11 days, both regimens successfully accelerated teriflunomide elimination, leading to more than 98% decrease in teriflunomide plasma concentrations.
+
+
+
+ Use of the accelerated elimination procedure may potentially result in return of disease activity if the patient had been responding to AUBAGIO treatment.
+
+
+
+    5.4 Bone Marrow Effects/Immunosuppression Potential/Infections
+
+
+
+   White Blood Cell (WBC) count decrease  
+
+
+
+  A mean  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   white≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  WBC≠I-OSE_Labeled_AE ) count of approximately 15% (mainly neutrophils and lymphocytes) and in platelet count of approximately 10% was observed in placebo-controlled trials with 7 mg and 14 mg of AUBAGIO compared to baseline. The  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   mean≠I-OSE_Labeled_AE   WBC≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE  occurred during the first 6 weeks and WBC count remained low during treatment. In placebo-controlled studies,  neutrophil≠B-OSE_Labeled_AE   count≠I-OSE_Labeled_AE   <≠I-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  5≠I-OSE_Labeled_AE  *≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE    9≠I-OSE_Labeled_AE    /≠I-OSE_Labeled_AE  L≠I-OSE_Labeled_AE  was observed in 12% and 16% of patients receiving AUBAGIO 7 mg and 14 mg, respectively, compared with 7% of patients receiving placebo;  lymphocyte≠B-OSE_Labeled_AE   count≠I-OSE_Labeled_AE   <≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  8≠I-OSE_Labeled_AE  *≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE    9≠I-OSE_Labeled_AE    /≠I-OSE_Labeled_AE  L≠I-OSE_Labeled_AE  was observed in 10% and 12% of patients receiving AUBAGIO 7 mg and 14 mg, respectively, compared with 6% of patients receiving placebo. No cases of serious  pancytopenia≠B-NonOSE_AE  were reported in premarketing clinical trials of AUBAGIO but rare cases of  pancytopenia≠B-OSE_Labeled_AE ,  agranulocytosis≠B-OSE_Labeled_AE , and  thrombocytopenia≠B-OSE_Labeled_AE  have been reported in the postmarketing setting with leflunomide. A similar risk would be expected for AUBAGIO [see  Clinical Pharmacology (12.3)  ]  . Obtain a complete blood cell count (CBC) within 6 months before the initiation of treatment with AUBAGIO. Further monitoring should be based on signs and symptoms suggestive of  bone≠B-NonOSE_AE   marrow≠I-NonOSE_AE   suppression≠I-NonOSE_AE .  
+
+
+
+    Risk of Infection / Tuberculosis Screening  
+
+
+
+ Patients with active  acute≠B-Not_AE_Candidate  or chronic  infections≠I-Not_AE_Candidate  should not start treatment until the infection(s) is resolved. If a patient develops a serious  infection≠B-NonOSE_AE  consider suspending treatment with AUBAGIO and using an accelerated elimination procedure. Reassess the benefits and risks prior to resumption of therapy. Instruct patients receiving AUBAGIO to report symptoms of  infections≠B-NonOSE_AE  to a physician.
+
+
+
+ AUBAGIO is not recommended for patients with severe  immunodeficiency≠B-Not_AE_Candidate ,  bone≠B-Not_AE_Candidate   marrow≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate , or severe, uncontrolled  infections≠B-Not_AE_Candidate . Medications like AUBAGIO that have  immunosuppression≠B-OSE_Labeled_AE  potential may cause patients to be  more≠B-NonOSE_AE   susceptible≠I-NonOSE_AE   to≠I-NonOSE_AE   infections≠I-NonOSE_AE , including  opportunistic≠B-NonOSE_AE   infections≠I-NonOSE_AE .
+
+
+
+  In placebo-controlled studies of AUBAGIO, no overall increase in the risk of serious  infections≠B-NonOSE_AE  was observed with AUBAGIO 7 mg (2.2%) or 14 mg (2.7%) compared to placebo (2.2%). However, one fatal case of  klebsiella≠B-OSE_Labeled_AE   pneumonia≠I-OSE_Labeled_AE   sepsis≠I-OSE_Labeled_AE  occurred in a patient taking AUBAGIO 14 mg for 1.7 years. Fatal  infections≠B-OSE_Labeled_AE  have been reported in the post-marketing setting in patients receiving leflunomide, especially  Pneumocystis≠B-OSE_Labeled_AE   jiroveci≠I-OSE_Labeled_AE    pneumonia≠I-OSE_Labeled_AE  and  aspergillosis≠B-OSE_Labeled_AE . Most of the reports were confounded by concomitant immunosuppressant therapy and/or comorbid illness which, in addition to  rheumatoid≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate , may predispose patients to  infection≠B-NonOSE_AE . In clinical studies with AUBAGIO,  cytomegalovirus≠B-OSE_Labeled_AE   hepatitis≠I-OSE_Labeled_AE   reactivation≠I-OSE_Labeled_AE  has been observed.  
+
+
+
+  In clinical studies with AUBAGIO, cases of  tuberculosis≠B-OSE_Labeled_AE  have been observed. Prior to initiating AUBAGIO, screen patients for  latent≠B-Not_AE_Candidate   tuberculosis≠I-Not_AE_Candidate   infection≠I-Not_AE_Candidate  with a tuberculin skin test or with a blood test for  mycobacterium≠B-Not_AE_Candidate   tuberculosis≠I-Not_AE_Candidate   infection≠I-Not_AE_Candidate . AUBAGIO has not been studied in patients with a  positive≠B-Not_AE_Candidate   tuberculosis≠I-Not_AE_Candidate   screen≠I-Not_AE_Candidate , and the safety of AUBAGIO in individuals with  latent≠B-Not_AE_Candidate   tuberculosis≠I-Not_AE_Candidate   infection≠I-Not_AE_Candidate  is unknown. For patients  testing≠B-Not_AE_Candidate   positive≠I-Not_AE_Candidate   in≠I-Not_AE_Candidate   tuberculosis≠I-Not_AE_Candidate   screening≠I-Not_AE_Candidate , treat by standard medical practice prior to therapy with AUBAGIO.  
+
+
+
+    Vaccination  
+
+
+
+ No clinical data are available on the efficacy and safety of live vaccinations in patients taking AUBAGIO. Vaccination with live vaccines is not recommended. The long half-life of AUBAGIO should be considered when contemplating administration of a live vaccine after stopping AUBAGIO.
+
+
+
+    Malignancy  
+
+
+
+ The risk of  malignancy≠B-OSE_Labeled_AE , particularly  lymphoproliferative≠B-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE , is increased with the use of some  immunosuppressive≠B-NonOSE_AE  medications. There is a potential for  immunosuppression≠B-OSE_Labeled_AE  with AUBAGIO. No apparent increase in the incidence of  malignancies≠B-NonOSE_AE  and  lymphoproliferative≠B-NonOSE_AE   disorders≠I-NonOSE_AE  was reported in the AUBAGIO clinical trials, but larger and longer-term studies would be needed to determine whether there is an increased risk of  malignancy≠B-NonOSE_AE  or  lymphoproliferative≠B-NonOSE_AE   disorders≠I-NonOSE_AE  with AUBAGIO.
+
+
+
+    5.5 Peripheral Neuropathy
+
+
+
+   In placebo-controlled studies,  peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE , including both  polyneuropathy≠B-OSE_Labeled_AE  and  mononeuropathy≠B-OSE_Labeled_AE  (e.g.,  carpal≠B-OSE_Labeled_AE   tunnel≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ), occurred more frequently in patients taking AUBAGIO than in patients taking placebo. The incidence of  peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  confirmed by nerve conduction studies was 1.4% (13 patients) and 1.9% (17 patients) of patients receiving 7 mg and 14 mg of AUBAGIO, respectively, compared with 0.4% receiving placebo (4 patients). Treatment was discontinued in 0.7% (8 patients) with confirmed  peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  (3 patients receiving AUBAGIO 7 mg and 5 patients receiving AUBAGIO 14 mg). Five of them recovered following treatment discontinuation. Not all cases of  peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  resolved with continued treatment.  Peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  also occurred in patients receiving leflunomide.  
+
+
+
+ Age older than 60 years, concomitant  neurotoxic≠B-NonOSE_AE   medications≠I-NonOSE_AE , and  diabetes≠B-Not_AE_Candidate  may increase the risk for  peripheral≠B-NonOSE_AE   neuropathy≠I-NonOSE_AE  .  If a patient taking AUBAGIO develops symptoms consistent with  peripheral≠B-NonOSE_AE   neuropathy≠I-NonOSE_AE , such as  bilateral≠B-NonOSE_AE   numbness≠I-NonOSE_AE  or tingling  of≠I-NonOSE_AE   hands≠I-NonOSE_AE  or feet, consider discontinuing AUBAGIO therapy and performing an accelerated elimination procedure [see  Warnings and Precautions (5.3)  ]  .
+
+
+
+    5.6 Skin Reactions
+
+
+
+  Rare cases of  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  and  toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE  have been reported in patients with  rheumatoid≠B-Not_AE_Candidate   arthritis≠I-Not_AE_Candidate  receiving leflunomide. A similar risk would be expected for AUBAGIO [see  Clinical Pharmacology (12.3)  ]  . If a patient taking AUBAGIO develops any of these conditions, stop AUBAGIO therapy and perform an accelerated elimination procedure [see  Warnings and Precautions (5.3)  ]  .
+
+
+
+    5.7 Increased Blood Pressure
+
+
+
+   In placebo-controlled studies, the  mean≠B-OSE_Labeled_AE   change≠I-OSE_Labeled_AE  from basel in≠I-OSE_Labeled_AE e to the end of study in  systolic≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE  was +2.3 mmHg and +2.7 mmHg for AUBAGIO 7 mg and 14 mg, respectively, and -0.6 mmHg for placebo. The  change≠B-OSE_Labeled_AE  from basel in≠I-OSE_Labeled_AE e in  diastolic≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE  was +1.4 mmHg and +1.9 mmHg for AUBAGIO 7 mg and 14 mg, respectively, and -0.3 mmHg for placebo.  Hypertension≠B-OSE_Labeled_AE  was an adverse reaction in 3.1% and 4.3% of patients treated with 7 mg or 14 mg of AUBAGIO compared with 1.8% for placebo. Check blood pressure before start of AUBAGIO treatment and periodically thereafter.  Elevated≠B-NonOSE_AE   blood≠I-NonOSE_AE   pressure≠I-NonOSE_AE  should be appropriately managed during treatment with AUBAGIO.  
+
+
+
+    5.8  Respiratory≠B-OSE_Labeled_AE   Effects≠I-OSE_Labeled_AE 
+
+
+
+   Interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE  and  worsening≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   pre≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  existing≠I-OSE_Labeled_AE   interstitial≠I-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE  have been reported during treatment with leflunomide. A similar risk would be expected for AUBAGIO [see  Clinical Pharmacology (12.3)  ]  .  Interstitial≠B-NonOSE_AE   lung≠I-NonOSE_AE   disease≠I-NonOSE_AE  may be fatal.  Interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE  may occur acutely at any time during therapy and has a variable clinical presentation. New onset or  worsening≠B-NonOSE_AE   pulmonary≠I-NonOSE_AE   symptoms≠I-NonOSE_AE , such as  cough≠B-NonOSE_AE  and  dyspnea≠B-NonOSE_AE , with or without associated  fever≠B-NonOSE_AE , may be a reason for discontinuation of the therapy and for further investigation as appropriate. If discontinuation of the drug is necessary, consider initiation of an accelerated elimination procedure [see  Warnings and Precautions (5.3)  ]  .
+
+
+
+    5.9 Concomitant Use with Immunosuppressive or Immunomodulating Therapies
+
+
+
+  Co-administration with antineoplastic, or immunosuppressive therapies used for treatment of  multiple≠B-Not_AE_Candidate   sclerosis≠I-Not_AE_Candidate  has not been evaluated. Safety studies in which AUBAGIO was concomitantly administered with other immune modulating therapies for up to one year (interferon beta, glatiramer acetate) did not reveal any specific safety concerns. The long term safety of these combinations in the treatment of  multiple≠B-Not_AE_Candidate   sclerosis≠I-Not_AE_Candidate  has not been established.
+
+
+
+ In any situation in which the decision is made to switch from AUBAGIO to another agent with a known potential for  hematologic≠B-NonOSE_AE   suppression≠I-NonOSE_AE , it would be prudent to monitor for  hematologic≠B-NonOSE_AE   toxicity≠I-NonOSE_AE , because there will be overlap of systemic exposure to both compounds. Use of an accelerated elimination procedure may decrease this risk, but may also potentially result in return of disease activity if the patient had been responding to AUBAGIO treatment [see  Warnings and Precautions (5.3)  ]  .

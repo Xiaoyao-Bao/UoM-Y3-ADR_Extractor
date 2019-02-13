@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="SOLOSEC">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions observed in clinical trials (incidence &gt;= 2%) were vulvo-vaginal candidiasis, headache, nausea, dysgeusia, vomiting, diarrhea, abdominal pain, and vulvovaginal pruritus. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Lupin Pharmaceuticals, Inc. at 1-844-SOLOSEC (1-844-765-6732) or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety data described below reflect exposure to 589 patients, of whom 518 received a 2 g dose of SOLOSEC. SOLOSEC was evaluated in three clinical trials of patients diagnosed with bacterial vaginosis: two placebo-controlled trials (Trial 1 n=215, Trial 2 n=189) and one uncontrolled safety trial (Trial 3 n=321).
+
+
+
+ All patients received a single oral dose of study medication or placebo. Trial 1 evaluated a 1 g (this dose is not approved) dose (n=71) and a 2 g dose (n=72) of SOLOSEC. Trial 2 evaluated a 2 g dose (n=125). The population was female, aged 15 to 54 years. Patients in the placebo- controlled trials were primarily Black or African American (54%) or Caucasian (41%).
+
+
+
+ There were no deaths in the trials. Two patients in Trial 3 discontinued due to vulvovaginal candidiasis in the SOLOSEC-treated arm.
+
+
+
+   Most Common Adverse Reactions  
+
+
+
+ Among 197 patients treated with a single 2 g dose of SOLOSEC in the two placebo-controlled trials, Trial 1 and 2, adverse reactions were reported by approximately 29% of patients. Table 1 displays the most common adverse reactions (&gt;= 2 % in SOLOSEC-treated patients) in these two trials.
+
+
+
+ Table 1: Adverse Reactions Occurring (&gt;= 2 % SOLOSEC-Treated Patients) in the Pooled Placebo-Controlled Trials 1 and 2 in Adult Women with Bacterial Vaginosis 
+ Adverse Reaction                            SOLOSECN=197n (%)                  PlaceboN=136n (%)           
+  
+     Vulvo-vaginal candidiasis                   19 (9.6)                            4 (2.9)                
+     Headache                                     7 (3.6)                            2 (1.5)                
+     Nausea                                       7 (3.6)                            1 (0.7)                
+     Diarrhea                                     5 (2.5)                            1 (0.7)                
+     Abdominal pain                               4 (2.0)                            2 (1.5)                
+     Vulvovaginal pruritus                        4 (2.0)                            2 (1.5)                
+         Among the 321 patients in an uncontrolled trial, Trial 3, adverse reactions were reported in 30% of patients. Vulvovaginal candidiasis (8.4%), nausea (5.3%), vomiting (2.5%) and dysgeusia (3.4%) were the most common adverse reactions reported in this trial.
+ 
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been reported during use of other formulations of secnidazole 2 g outside of the United States. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ Reported adverse reactions were nausea, dysgeusia, abdominal pain, headache, and vomiting.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Vulvo-vaginal candidiasis may develop with SOLOSEC and require treatment with an antifungal agent (  5.1  ) 
+ *  Potential Risk for Carcinogenicity: Carcinogenicity has been seen in mice and rats treated chronically with nitroimidazole derivatives, which are structurally related to secnidazole. It is unclear if the positive tumor findings in lifetime rodent studies indicate a risk to patients taking a single dose of SOLOSEC to treat bacterial vaginosis. Avoid chronic use (  5.2  ) 
+    
+ 
+
+   5.1 Vulvo-Vaginal Candidiasis
+
+
+
+  The use of SOLOSEC may result in vulvo-vaginal candidiasis. In controlled clinical trials of non-pregnant women with bacterial vaginosis, vulvo-vaginal candidiasis developed in 19/197 (9.6%) of subjects who received 2 g SOLOSEC and 4/136 (2.9%) subjects who received placebo [see Adverse Reactions (  6.1  )].  Symptomatic vulvo-vaginal candidiasis may require treatment with an antifungal agent.
+
+
+
+    5.2 Potential Risk for Carcinogenicity
+
+
+
+  Carcinogenicity has been seen in mice and rats treated chronically with nitroimidazole derivatives which are structurally related to secnidazole. It is unclear if the positive tumor findings in lifetime rodent studies of these nitroimidazoles indicate a risk to patients taking a single dose of SOLOSEC to treat bacterial vaginosis. Avoid chronic use of SOLOSEC [see Nonclinical Toxicology (  13.1  )]  
+
+
+
+    5.3 Drug Resistance
+
+
+
+  Prescribing SOLOSEC in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="395" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="507" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="425" />
+    <IgnoredRegion len="29" name="heading" section="S2" start="550" />
+    <IgnoredRegion len="38" name="heading" section="S2" start="989" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="1444" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="3086" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

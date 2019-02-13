@@ -1,0 +1,214 @@
+   PRECAUTIONS
+
+   General
+
+   Discontinuation Symptoms
+
+  There have been reports of  adverse≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE   upon≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   discontinuation≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   REMERON≠I-OSE_Labeled_AE  (mirtazapine) Tablets (particularly when abrupt), including but not limited to the following:  dizziness≠B-NonOSE_AE ,  abnormal≠B-NonOSE_AE   dreams≠I-NonOSE_AE ,  sensory≠B-NonOSE_AE   disturbances≠I-NonOSE_AE  (including  paresthesia≠B-NonOSE_AE  and  electric≠B-NonOSE_AE   shock≠I-NonOSE_AE   sensations≠I-NonOSE_AE ),  agitation≠B-NonOSE_AE ,  anxiety≠B-NonOSE_AE ,  fatigue≠B-NonOSE_AE ,  confusion≠B-NonOSE_AE ,  headache≠B-NonOSE_AE ,  tremor≠B-NonOSE_AE ,  nausea≠B-NonOSE_AE ,  vomiting≠B-NonOSE_AE , and  sweating≠B-NonOSE_AE , or other symptoms which may be of clinical significance. The majority of the reported cases are mild and self-limiting. Even though these have been reported as adverse reactions, it should be realized that these symptoms may be related to underlying disease.
+
+ Patients currently taking REMERON should NOT discontinue treatment abruptly, due to risk of  discontinuation≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE . At the time that a medical decision is made to discontinue treatment with REMERON, a gradual reduction in the dose, rather than an abrupt cessation, is recommended.
+
+    Akathisia/Psychomotor Restlessness
+
+  The use of antidepressants has been associated with the development of  akathisia≠B-OSE_Labeled_AE , characterized by a  subjectively≠B-OSE_Labeled_AE   unpleasant≠I-OSE_Labeled_AE   or≠I-OSE_Labeled_AE   distressing≠I-OSE_Labeled_AE   restlessness≠I-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   need≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   move≠I-OSE_Labeled_AE , often accompanied by an  inability≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   sit≠I-OSE_Labeled_AE   or≠I-OSE_Labeled_AE   stand≠I-OSE_Labeled_AE   still≠I-OSE_Labeled_AE . This is most likely to occur within the first few weeks of treatment. In patients who develop these symptoms, increasing the dose may be detrimental.
+
+    Hyponatremia
+
+   Hyponatremia≠B-OSE_Labeled_AE  has been reported very rarely with the use of mirtazapine. Caution should be exercised in patients at risk, such as elderly patients or patients concomitantly treated with medications known to cause  hyponatremia≠B-NonOSE_AE .
+
+    Somnolence
+
+  In US controlled studies,  somnolence≠B-OSE_Labeled_AE  was reported in 54% of patients treated with REMERON (mirtazapine) Tablets, compared to 18% for placebo and 60% for amitriptyline. In these studies,  somnolence≠B-OSE_Labeled_AE  resulted in discontinuation for 10.4% of REMERON-treated patients, compared to 2.2% for placebo. It is unclear whether or not tolerance develops to the somnolent effects of REMERON. Because of the potentially significant effects of REMERON on  impairment≠B-NonOSE_AE   of≠I-NonOSE_AE   performance≠I-NonOSE_AE , patients should be cautioned about engaging in activities requiring alertness until they have been able to assess the drug's effect on their own psychomotor performance (see  PRECAUTIONS: Information for Patients  ).
+
+    Dizziness
+
+  In US controlled studies,  dizziness≠B-OSE_Labeled_AE  was reported in 7% of patients treated with REMERON, compared to 3% for placebo and 14% for amitriptyline. It is unclear whether or not tolerance develops to the  dizziness≠B-NonOSE_AE  observed in association with the use of REMERON.
+
+    Increased Appetite/Weight Gain
+
+  In US controlled studies,  appetite≠B-OSE_Labeled_AE   increase≠I-OSE_Labeled_AE  was reported in 17% of patients treated with REMERON, compared to 2% for placebo and 6% for amitriptyline. In these same trials,  weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  =≠I-OSE_Labeled_AE  7≠I-OSE_Labeled_AE  %≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   body≠I-OSE_Labeled_AE   weight≠I-OSE_Labeled_AE  was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo and 5.9% for amitriptyline. In a pool of premarketing US studies, including many patients for long-term, open-label treatment, 8% of patients receiving REMERON discontinued for  weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE . In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of REMERON-treated patients had a  weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE  of at least 7%, compared to 5.7% of placebo-treated patients (see  PRECAUTIONS: Pediatric Use  ).
+
+    Cholesterol/Triglycerides
+
+  In US controlled studies, nonfasting  cholesterol≠B-OSE_Labeled_AE   increases≠I-OSE_Labeled_AE  to >=20% above the upper limits of normal were observed in 15% of patients treated with REMERON, compared to 7% for placebo and 8% for amitriptyline. In these same studies, nonfasting  triglyceride≠B-OSE_Labeled_AE   increases≠I-OSE_Labeled_AE  to >=500 mg/dL were observed in 6% of patients treated with mirtazapine, compared to 3% for placebo and 3% for amitriptyline.
+
+     Transaminase≠B-OSE_Labeled_AE   Elevations≠I-OSE_Labeled_AE 
+
+  Clinically significant  ALT≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  SGPT≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  (>=3 times the upper limit of the normal range) were observed in 2.0% (8/424) of patients exposed to REMERON in a pool of short-term US controlled trials, compared to 0.3% (1/328) of placebo patients and 2.0% (3/181) of amitriptyline patients. Most of these patients with  ALT≠B-NonOSE_AE   increases≠I-NonOSE_AE  did not develop signs or symptoms associated with  compromised≠B-NonOSE_AE   liver≠I-NonOSE_AE   function≠I-NonOSE_AE . While some patients were discontinued for the  ALT≠B-OSE_Labeled_AE   increases≠I-OSE_Labeled_AE , in other cases, the enzyme levels returned to normal despite continued REMERON treatment. REMERON should be used with caution in patients with  impaired≠B-Not_AE_Candidate   hepatic≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate  (see  CLINICAL PHARMACOLOGY  and  DOSAGE AND ADMINISTRATION  ).
+
+    Activation of Mania/Hypomania
+
+   Mania≠B-OSE_Labeled_AE / hypomania≠B-OSE_Labeled_AE  occurred in approximately 0.2% (3/1299 patients) of REMERON-treated patients in US studies. Although the incidence of  mania≠B-OSE_Labeled_AE / hypomania≠B-OSE_Labeled_AE  was very low during treatment with mirtazapine, it should be used carefully in patients with a history of  mania≠B-Not_AE_Candidate / hypomania≠B-Not_AE_Candidate .
+
+    Seizure
+
+  In premarketing clinical trials, only 1  seizure≠B-OSE_Labeled_AE  was reported among the 2796 US and non-US patients treated with REMERON. However, no controlled studies have been carried out in patients with a history of  seizures≠B-Not_AE_Candidate . Therefore, care should be exercised when mirtazapine is used in these patients.
+
+    Use in Patients with Concomitant Illness
+
+  Clinical experience with REMERON in patients with concomitant systemic illness is limited. Accordingly, care is advisable in prescribing mirtazapine for patients with diseases or conditions that affect metabolism or hemodynamic responses.
+
+ REMERON has not been systematically evaluated or used to any appreciable extent in patients with a recent history of  myocardial≠B-Not_AE_Candidate   infarction≠I-Not_AE_Candidate  or other significant  heart≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate . REMERON was associated with significant  orthostatic≠B-OSE_Labeled_AE   hypotension≠I-OSE_Labeled_AE  in early clinical pharmacology trials with normal volunteers.  Orthostatic≠B-OSE_Labeled_AE   hypotension≠I-OSE_Labeled_AE  was infrequently observed in clinical trials with  depressed≠B-Not_AE_Candidate  patients. REMERON should be used with caution in patients with known  cardiovascular≠B-Not_AE_Candidate  or cerebrovascular  disease≠I-Not_AE_Candidate  that could be exacerbated by  hypotension≠B-NonOSE_AE  (history of  myocardial≠B-Not_AE_Candidate   infarction≠I-Not_AE_Candidate ,  angina≠B-Not_AE_Candidate , or  ischemic≠B-Not_AE_Candidate   stroke≠I-Not_AE_Candidate ) and conditions that would predispose patients to  hypotension≠B-NonOSE_AE  ( dehydration≠B-Not_AE_Candidate ,  hypovolemia≠B-Not_AE_Candidate , and treatment with antihypertensive medication).
+
+ Mirtazapine clearance is decreased in patients with moderate [ glomerular≠B-Not_AE_Candidate   filtration≠I-Not_AE_Candidate   rate≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  GFR≠I-Not_AE_Candidate  )≠I-Not_AE_Candidate  =≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate  9≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  .≠I-Not_AE_Candidate  7≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate   m≠I-Not_AE_Candidate    2≠I-Not_AE_Candidate   ] and severe [ GFR≠B-Not_AE_Candidate   <≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  .≠I-Not_AE_Candidate  7≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate   m≠I-Not_AE_Candidate    2≠I-Not_AE_Candidate   ]  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate , and also in patients with  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate . Caution is indicated in administering REMERON to such patients (see  CLINICAL PHARMACOLOGY  and  DOSAGE AND ADMINISTRATION  ).
+
+    Information for Patients
+
+  Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with REMERON (mirtazapine) Tablets and should counsel them in its appropriate use. A patient Medication Guide about "Antidepressant Medicines,  Depression≠B-NonOSE_AE  and other Serious  Mental≠B-NonOSE_AE   Illnesses≠I-NonOSE_AE , and  Suicidal≠B-NonOSE_AE  Thoughts or  Actions≠I-NonOSE_AE " is available for REMERON. The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents. Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have. The complete text of the Medication Guide is reprinted at the end of this document.
+
+ Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking REMERON.
+
+    Clinical Worsening and Suicide Risk
+
+  Patients, their families, and their caregivers should be encouraged to be alert to the emergence of  anxiety≠B-NonOSE_AE ,  agitation≠B-NonOSE_AE ,  panic≠B-NonOSE_AE   attacks≠I-NonOSE_AE ,  insomnia≠B-NonOSE_AE ,  irritability≠B-NonOSE_AE ,  hostility≠B-NonOSE_AE ,  aggressiveness≠B-NonOSE_AE ,  impulsivity≠B-NonOSE_AE ,  akathisia≠B-NonOSE_AE  ( psychomotor≠B-NonOSE_AE   restlessness≠I-NonOSE_AE ),  hypomania≠B-NonOSE_AE ,  mania≠B-NonOSE_AE , other  unusual≠B-NonOSE_AE   changes≠I-NonOSE_AE   in≠I-NonOSE_AE   behavior≠I-NonOSE_AE ,  worsening≠B-NonOSE_AE   of≠I-NonOSE_AE   depression≠I-NonOSE_AE , and  suicidal≠B-NonOSE_AE   ideation≠I-NonOSE_AE , especially early during antidepressant treatment and when the dose is adjusted up or down. Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt. Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms. Symptoms such as these may be associated with an increased risk for  suicidal≠B-NonOSE_AE  thinking and  behavior≠I-NonOSE_AE  and indicate a need for very close monitoring and possibly changes in the medication.
+
+    Agranulocytosis
+
+  Patients who are to receive REMERON should be warned about the risk of developing  agranulocytosis≠B-NonOSE_AE . Patients should be advised to contact their physician if they experience any indication of  infection≠B-NonOSE_AE  such as  fever≠B-NonOSE_AE ,  chills≠B-NonOSE_AE ,  sore≠B-NonOSE_AE   throat≠I-NonOSE_AE ,  mucous≠B-NonOSE_AE   membrane≠I-NonOSE_AE   ulceration≠I-NonOSE_AE , or other possible signs of  infection≠B-NonOSE_AE . Particular attention should be paid to any flu-like complaints or other symptoms that might suggest  infection≠B-NonOSE_AE .
+
+    Interference with Cognitive and Motor Performance
+
+  REMERON may  impair≠B-NonOSE_AE   judgment≠I-NonOSE_AE , thinking, and particularly, motor skills, because of its prominent  sedative≠B-NonOSE_AE   effect≠I-NonOSE_AE . The  drowsiness≠B-NonOSE_AE  associated with mirtazapine use may  impair≠B-NonOSE_AE   a≠I-NonOSE_AE   patient≠I-NonOSE_AE  '≠I-NonOSE_AE  s≠I-NonOSE_AE   ability≠I-NonOSE_AE   to≠I-NonOSE_AE   drive≠I-NonOSE_AE , use machines, or perform tasks that require alertness. Thus, patients should be cautioned about engaging in hazardous activities until they are reasonably certain that REMERON therapy does not  adversely≠B-NonOSE_AE   affect≠I-NonOSE_AE   their≠I-NonOSE_AE   ability≠I-NonOSE_AE   to≠I-NonOSE_AE   engage≠I-NonOSE_AE   in≠I-NonOSE_AE   such≠I-NonOSE_AE   activities≠I-NonOSE_AE .
+
+    Completing Course of Therapy
+
+  While patients may notice improvement with REMERON therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
+
+    Concomitant Medication
+
+  Patients should be advised to inform their physician if they are taking, or intend to take, any prescription or over-the-counter drugs, since there is a potential for REMERON to interact with other drugs.
+
+ Patients should be made aware of a potential increased risk for  serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE  if concomitant use of REMERON with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's wort, is clinically warranted, particularly during treatment initiation and dose increases.
+
+    Alcohol
+
+  The  impairment≠B-NonOSE_AE   of≠I-NonOSE_AE  cognitive and  motor≠I-NonOSE_AE   skills≠I-NonOSE_AE  produced by REMERON has been shown to be additive with those produced by alcohol. Accordingly, patients should be advised to avoid alcohol while taking mirtazapine.
+
+    Pregnancy
+
+  Patients should be advised to notify their physician if they become  pregnant≠B-NonOSE_AE  or intend to become  pregnant≠B-NonOSE_AE  during REMERON therapy.
+
+    Nursing
+
+  Patients should be advised to notify their physician if they are breastfeeding an infant.
+
+    Laboratory Tests
+
+  There are no routine laboratory tests recommended.
+
+    Drug Interactions
+
+  As with other drugs, the potential for interaction by a variety of mechanisms (e.g., pharmacodynamic, pharmacokinetic inhibition or enhancement, etc.) is a possibility (see  CLINICAL PHARMACOLOGY  ).
+
+    Monoamine Oxidase Inhibitors
+
+  (See  CONTRAINDICATIONS  ,  WARNINGS  , and  DOSAGE AND ADMINISTRATION  .)
+
+    Serotonergic Drugs
+
+  (See  CONTRAINDICATIONS  and  WARNINGS  .)
+
+    Drugs Affecting Hepatic Metabolism
+
+  The metabolism and pharmacokinetics of REMERON (mirtazapine) Tablets may be affected by the induction or inhibition of drug-metabolizing enzymes.
+
+    Drugs that are Metabolized by and/or Inhibit Cytochrome P450 Enzymes
+
+   CYP Enzyme Inducers
+
+  (these studies used both drugs at steady state)
+
+    Phenytoin
+
+  In healthy male patients (n=18), phenytoin (200 mg daily) increased mirtazapine (30 mg daily) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 45%. Mirtazapine did not significantly affect the pharmacokinetics of phenytoin.
+
+    Carbamazepine
+
+  In healthy male patients (n=24), carbamazepine (400 mg b.i.d.) increased mirtazapine (15 mg b.i.d.) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 60%.
+
+ When phenytoin, carbamazepine, or another inducer of hepatic metabolism (such as rifampicin) is added to mirtazapine therapy, the mirtazapine dose may have to be increased. If treatment with such a medicinal product is discontinued, it may be necessary to reduce the mirtazapine dose.
+
+    CYP Enzyme Inhibitors
+
+   Cimetidine
+
+  In healthy male patients (n=12), when cimetidine, a weak inhibitor of CYP1A2, CYP2D6, and CYP3A4, given at 800 mg b.i.d. at steady state was coadministered with mirtazapine (30 mg daily) at steady state, the Area Under the Curve (AUC) of mirtazapine increased more than 50%. Mirtazapine did not cause relevant changes in the pharmacokinetics of cimetidine. The mirtazapine dose may have to be decreased when concomitant treatment with cimetidine is started, or increased when cimetidine treatment is discontinued.
+
+    Ketoconazole
+
+  In healthy, male, Caucasian patients (n=24), coadministration of the potent CYP3A4 inhibitor ketoconazole (200 mg b.i.d. for 6.5 days) increased the peak plasma levels and the AUC of a single 30-mg dose of mirtazapine by approximately 40% and 50%, respectively.
+
+ Caution should be exercised when coadministering mirtazapine with potent CYP3A4 inhibitors, HIV protease inhibitors, azole antifungals, erythromycin, or nefazodone.
+
+    Paroxetine
+
+  In an in vivo  interaction study in healthy, CYP2D6 extensive metabolizer patients (n=24), mirtazapine (30 mg/day), at steady state, did not cause relevant changes in the pharmacokinetics of steady state paroxetine (40 mg/day), a CYP2D6 inhibitor.
+
+    Other Drug-Drug Interactions
+
+   Amitriptyline
+
+  In healthy, CYP2D6 extensive metabolizer patients (n=32), amitriptyline (75 mg daily), at steady state, did not cause relevant changes in the pharmacokinetics of steady state mirtazapine (30 mg daily); mirtazapine also did not cause relevant changes to the pharmacokinetics of amitriptyline.
+
+    Warfarin
+
+  In healthy male subjects (n=16), mirtazapine (30 mg daily), at steady state, caused a small (0.2) but statistically significant  increase≠B-NonOSE_AE   in≠I-NonOSE_AE   the≠I-NonOSE_AE   International≠I-NonOSE_AE   Normalized≠I-NonOSE_AE   Ratio≠I-NonOSE_AE   (≠I-NonOSE_AE  INR≠I-NonOSE_AE ) in subjects treated with warfarin. As at a higher dose of mirtazapine, a more pronounced effect can not be excluded, it is advisable to monitor the INR in case of concomitant treatment of warfarin with mirtazapine.
+
+    Lithium
+
+  No relevant clinical effects or significant changes in pharmacokinetics have been observed in healthy male subjects on concurrent treatment with subtherapeutic levels of lithium (600 mg/day for 10 days) at steady state and a single 30-mg dose of mirtazapine. The effects of higher doses of lithium on the pharmacokinetics of mirtazapine are unknown.
+
+    Risperidone
+
+  In an in vivo  , nonrandomized, interaction study, subjects (n=6) in need of treatment with an antipsychotic and antidepressant drug, showed that mirtazapine (30 mg daily) at steady state did not influence the pharmacokinetics of risperidone (up to 3 mg b.i.d.).
+
+    Alcohol
+
+  Concomitant administration of alcohol (equivalent to 60 g) had a minimal effect on plasma levels of mirtazapine (15 mg) in 6 healthy male subjects. However, the  impairment≠B-NonOSE_AE   of≠I-NonOSE_AE   cognitive≠I-NonOSE_AE  and motor  skills≠I-NonOSE_AE  produced by REMERON were shown to be additive with those produced by alcohol. Accordingly, patients should be advised to avoid alcohol while taking REMERON.
+
+    Diazepam
+
+  Concomitant administration of diazepam (15 mg) had a minimal effect on plasma levels of mirtazapine (15 mg) in 12 healthy subjects. However, the  impairment≠B-NonOSE_AE   of≠I-NonOSE_AE   motor≠I-NonOSE_AE   skills≠I-NonOSE_AE  produced by REMERON has been shown to be additive with those caused by diazepam. Accordingly, patients should be advised to avoid diazepam and other similar drugs while taking REMERON.
+
+    QTc-Prolonging Drugs
+
+  The risk of  QT≠B-NonOSE_AE   prolongation≠I-NonOSE_AE  and/or  ventricular≠B-NonOSE_AE   arrhythmias≠I-NonOSE_AE  (e.g.,  Torsades≠B-NonOSE_AE   de≠I-NonOSE_AE   Pointes≠I-NonOSE_AE ) may be increased with concomitant use of medicines which  prolong≠B-NonOSE_AE   the≠I-NonOSE_AE   QTc≠I-NonOSE_AE   interval≠I-NonOSE_AE  (e.g., some antipsychotics and antibiotics) and in case of mirtazapine overdose (see  ADVERSE REACTIONS  and  OVERDOSE  sections).
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+   Carcinogenesis
+
+   Carcinogenicity≠B-NonOSE_AE  studies were conducted with mirtazapine given in the diet at doses of 2, 20, and 200 mg/kg/day to mice and 2, 20, and 60 mg/kg/day to rats. The highest doses used are approximately 20 and 12 times the maximum recommended human dose (MRHD) of 45 mg/day on an mg/m  2  basis in mice and rats, respectively. There was an increased incidence of  hepatocellular≠B-NonOSE_AE  adenoma and  carcinoma≠I-NonOSE_AE  in male mice at the high dose. In rats, there was an increase in  hepatocellular≠B-NonOSE_AE   adenoma≠I-NonOSE_AE  in females at the mid and high doses and in  hepatocellular≠B-NonOSE_AE   tumors≠I-NonOSE_AE  and  thyroid≠B-NonOSE_AE   follicular≠I-NonOSE_AE  adenoma/cystadenoma and  carcinoma≠I-NonOSE_AE  in males at the high dose. The data suggest that the above effects could possibly be mediated by non-genotoxic mechanisms, the relevance of which to humans is not known.
+
+ The doses used in the mouse study may not have been high enough to fully characterize the  carcinogenic≠B-NonOSE_AE  potential of REMERON (mirtazapine) Tablets.
+
+    Mutagenesis
+
+  Mirtazapine was not  mutagenic≠B-NonOSE_AE  or  clastogenic≠B-NonOSE_AE  and did not induce general DNA damage as determined in several  genotoxicity≠B-NonOSE_AE  tests: Ames test, in vitro  gene mutation assay in Chinese hamster V 79 cells, in vitro  sister chromatid exchange assay in cultured rabbit lymphocytes, in vivo  bone marrow micronucleus test in rats, and unscheduled DNA synthesis assay in HeLa cells.
+
+     Impairment≠B-NonOSE_AE   of≠I-NonOSE_AE   Fertility≠I-NonOSE_AE 
+
+  In a fertility study in rats, mirtazapine was given at doses up to 100 mg/kg [20 times the maximum recommended human dose (MRHD) on an mg/m  2  basis]. Mating and conception were not affected by the drug, but estrous cycling was disrupted at doses that were 3 or more times the MRHD, and  pre≠B-NonOSE_AE  -≠I-NonOSE_AE  implantation≠I-NonOSE_AE   losses≠I-NonOSE_AE  occurred at 20 times the MRHD.
+
+    Pregnancy
+
+   Teratogenic Effects
+
+   Pregnancy Category C
+
+  Reproduction studies in  pregnant≠B-NonOSE_AE  rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively [20 and 17 times the maximum recommended human dose (MRHD) on an mg/m  2  basis, respectively], have revealed no evidence of  teratogenic≠B-NonOSE_AE   effects≠I-NonOSE_AE . However, in rats, there was an increase in  postimplantation≠B-NonOSE_AE   losses≠I-NonOSE_AE  in dams treated with mirtazapine. There was an increase in  pup≠B-NonOSE_AE   deaths≠I-NonOSE_AE  during the first 3 days of lactation and a  decrease≠B-NonOSE_AE   in≠I-NonOSE_AE   pup≠I-NonOSE_AE   birth≠I-NonOSE_AE   weights≠I-NonOSE_AE . The cause of these  deaths≠B-NonOSE_AE  is not known. The effects occurred at doses that were 20 times the MRHD, but not at 3 times the MRHD, on an mg/m  2  basis. There are no adequate and well-controlled studies in  pregnant≠B-Not_AE_Candidate  women. Because animal reproduction studies are not always predictive of human response, this drug should be used during  pregnancy≠B-Not_AE_Candidate  only if clearly needed.
+
+    Nursing Mothers
+
+  Because some REMERON may be excreted into breast milk, caution should be exercised when REMERON (mirtazapine) Tablets are administered to nursing women.
+
+    Pediatric Use
+
+  Safety and effectiveness in the pediatric population have not been established (see  BOXED WARNING  and  WARNINGS: Clinical Worsening and Suicide Risk  ). Two placebo-controlled trials in 258 pediatric patients with  MDD≠B-Not_AE_Candidate  have been conducted with REMERON (mirtazapine) Tablets, and the data were not sufficient to support a claim for use in pediatric patients. Anyone considering the use of REMERON in a child or adolescent must balance the potential risks with the clinical need.
+
+ In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of REMERON-treated patients had a  weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE  of at least 7%, compared to 5.7% of placebo-treated patients. The mean  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   weight≠I-OSE_Labeled_AE  was 4 kg (2 kg SD) for REMERON-treated patients versus 1 kg (2 kg SD) for placebo-treated patients (see  PRECAUTIONS:  Increased≠B-NonOSE_AE   Appetite≠I-NonOSE_AE / Weight≠B-NonOSE_AE   Gain≠I-NonOSE_AE   ).
+
+    Geriatric Use
+
+  Approximately 190 elderly individuals (>=65 years of age) participated in clinical studies with REMERON (mirtazapine) Tablets. This drug is known to be substantially excreted by the kidney (75%), and the risk of decreased clearance of this drug is greater in patients with  impaired≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate . Because elderly patients are more likely to have  decreased≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate , care should be taken in dose selection. Sedating drugs may cause  confusion≠B-NonOSE_AE  and  over≠B-NonOSE_AE  -≠I-NonOSE_AE  sedation≠I-NonOSE_AE  in the elderly. No unusual adverse age-related phenomena were identified in this group. Pharmacokinetic studies revealed a decreased clearance in the elderly. Caution is indicated in administering REMERON to elderly patients (see  CLINICAL PHARMACOLOGY  and  DOSAGE AND ADMINISTRATION  ).
+

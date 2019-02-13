@@ -1,0 +1,37 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  Hand-Foot Syndrome may occur. Dose modification or discontinuation may be required (  5.3  ) 
+ *  Embryofetal Toxicity: Can cause fetal harm. Advise of potential risk to a fetus. Use effective contraception (  5.5  ,  8.1  ,  8.3  ) 
+    
+ 
+
+   5.1 Cardiomyopathy
+
+  Doxorubicin HCl can result in  myocardial≠B-OSE_Labeled_AE   damage≠I-OSE_Labeled_AE , including  acute≠B-OSE_Labeled_AE   left≠I-OSE_Labeled_AE   ventricular≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE . The risk of  cardiomyopathy≠B-OSE_Labeled_AE  with doxorubicin HCl is generally proportional to the cumulative exposure. The relationship between cumulative DOXIL dose and the risk of  cardiac≠B-NonOSE_AE   toxicity≠I-NonOSE_AE  has not been determined.
+
+ In a clinical study in 250 patients with advanced  cancer≠B-Not_AE_Candidate  who were treated with DOXIL, the risk of  cardiotoxicity≠B-OSE_Labeled_AE  was 11% when the cumulative anthracycline dose was between 450-550 mg/m  2  .  Cardiotoxicity≠B-NonOSE_AE  was defined as  >≠B-NonOSE_AE  2≠I-NonOSE_AE  0≠I-NonOSE_AE  %≠I-NonOSE_AE   decrease≠I-NonOSE_AE   in≠I-NonOSE_AE   resting≠I-NonOSE_AE   left≠I-NonOSE_AE   ventricular≠I-NonOSE_AE   ejection≠I-NonOSE_AE   fraction≠I-NonOSE_AE   (≠I-NonOSE_AE  LVEF≠I-NonOSE_AE ) from baseline where LVEF remained in the normal range or a >10%  decrease≠B-NonOSE_AE   in≠I-NonOSE_AE   LVEF≠I-NonOSE_AE  from baseline where LVEF was less than the institutional lower limit of normal. Two percent of patients developed signs and symptoms of  congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  without documented evidence of  cardiotoxicity≠B-NonOSE_AE .
+
+ Assess left ventricular cardiac function (e.g. MUGA or echocardiogram) prior to initiation of DOXIL, during treatment to detect acute changes, and after treatment to detect delayed  cardiotoxicity≠B-NonOSE_AE . Administer DOXIL to patients with a history of  cardiovascular≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  only when the potential benefit of treatment outweighs the risk.
+
+    5.2 Infusion-Related Reactions
+
+  Serious and sometimes life-threatening  infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  characterized by one or more of the following symptoms can occur with DOXIL:  flushing≠B-NonOSE_AE ,  shortness≠B-NonOSE_AE   of≠I-NonOSE_AE   breath≠I-NonOSE_AE ,  facial≠B-NonOSE_AE   swelling≠I-NonOSE_AE ,  headache≠B-NonOSE_AE ,  chills≠B-NonOSE_AE ,  chest≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  back≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  tightness≠B-NonOSE_AE   in≠I-NonOSE_AE   the≠I-NonOSE_AE  chest and  throat≠I-NonOSE_AE ,  fever≠B-NonOSE_AE ,  tachycardia≠B-NonOSE_AE ,  pruritus≠B-NonOSE_AE ,  rash≠B-NonOSE_AE ,  cyanosis≠B-NonOSE_AE ,  syncope≠B-NonOSE_AE ,  bronchospasm≠B-NonOSE_AE ,  asthma≠B-NonOSE_AE ,  apnea≠B-NonOSE_AE , and  hypotension≠B-NonOSE_AE . The majority of  infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  occurred during the first infusion. Of 239 patients with  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  treated with DOXIL in Trial 4, 7% of patients experienced acute  infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  resulting in dose interruption. All occurred during cycle 1 and none during subsequent cycles. Across multiple studies of DOXIL monotherapy including this and other studies enrolling 760 patients with various  solid≠B-Not_AE_Candidate   tumors≠I-Not_AE_Candidate , 11% of patients had  infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE .
+
+ Ensure that medications to treat  infusion≠B-NonOSE_AE  -≠I-NonOSE_AE  related≠I-NonOSE_AE   reactions≠I-NonOSE_AE  and cardiopulmonary resuscitative equipment are available for immediate use prior to initiation of DOXIL. Initiate DOXIL infusions at a rate of 1 mg/min and increase rate as tolerated [see  Dosage and Administration (2.6)  ]  . In the event of an  infusion≠B-NonOSE_AE  -≠I-NonOSE_AE  related≠I-NonOSE_AE   reaction≠I-NonOSE_AE , temporarily stop the drug until resolution then resume at a reduced infusion rate. Discontinue DOXIL infusion for serious or life-threatening  infusion≠B-NonOSE_AE  -≠I-NonOSE_AE  related≠I-NonOSE_AE   reactions≠I-NonOSE_AE .
+
+    5.3  Hand≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Foot≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  HFS≠I-OSE_Labeled_AE )
+
+  In Trial 4, the incidence of  HFS≠B-OSE_Labeled_AE  was 51% of patients in the DOXIL arm and 0.9% of patients in the topotecan arm, including 24% Grade 3 or 4 cases of  HFS≠B-OSE_Labeled_AE  in DOXIL-treated patients and no Grade 3 or 4 cases in topotecan-treated patients.  HFS≠B-OSE_Labeled_AE  or other  skin≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  required discontinuation of DOXIL in 4.2% of patients.
+
+  HFS≠B-OSE_Labeled_AE  was generally observed after 2 or 3 cycles of treatment but may occur earlier. Delay DOXIL for the first episode of Grade 2 or greater  HFS≠B-NonOSE_AE  [see  Dosage and Administration (2.5)  ]  . Discontinue DOXIL if  HFS≠B-NonOSE_AE  is severe and debilitating.
+
+    5.4 Secondary Oral Neoplasms
+
+   Secondary≠B-OSE_Labeled_AE   oral≠I-OSE_Labeled_AE   cancers≠I-OSE_Labeled_AE , primarily  squamous≠B-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   carcinoma≠I-OSE_Labeled_AE , have been reported from post-marketing experience in patients with long-term (more than one year) exposure to DOXIL. These  malignancies≠B-OSE_Labeled_AE  were diagnosed both during treatment with DOXIL and up to 6 years after the last dose. Examine patients at regular intervals for the presence of  oral≠B-NonOSE_AE   ulceration≠I-NonOSE_AE  or with any  oral≠B-NonOSE_AE   discomfort≠I-NonOSE_AE  that may be indicative of secondary  oral≠B-NonOSE_AE   cancer≠I-NonOSE_AE .
+
+ The altered pharmacokinetics and preferential tissue distribution of liposomal doxorubicin that contributes to enhanced  skin≠B-NonOSE_AE   toxicity≠I-NonOSE_AE  and  mucositis≠B-NonOSE_AE  compared to free doxorubicin may play a role in the development of  oral≠B-NonOSE_AE   secondary≠I-NonOSE_AE   malignancies≠I-NonOSE_AE  with long-term use.
+
+    5.5  Embryofetal≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE 
+
+  Based on animal data, DOXIL can cause  fetal≠B-OSE_Labeled_AE   harm≠I-OSE_Labeled_AE  when administered to a  pregnant≠B-Not_AE_Candidate  woman. At doses approximately 0.12 times the recommended clinical dose, DOXIL was  embryotoxic≠B-NonOSE_AE  and  abortifacient≠B-NonOSE_AE  in rabbits. Advise  pregnant≠B-Not_AE_Candidate  women of the potential  risk≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   a≠I-OSE_Labeled_AE   fetus≠I-OSE_Labeled_AE . Advise females and males of reproductive potential to use effective contraception during and for 6 months after treatment with DOXIL [see  Use in Specific Populations (8.1)  and  (8.3)  ]  .
+

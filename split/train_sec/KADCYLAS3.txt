@@ -1,0 +1,142 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Pulmonary Toxicity: Permanently discontinue KADCYLA in patients diagnosed with interstitial lung disease or pneumonitis. (  2.2  ,  5.4  ) 
+ *  Infusion-Related Reactions, Hypersensitivity Reactions: Monitor for signs and symptoms during and after infusion. If significant infusion-related reactions or hypersensitivity reactions occur, slow or interrupt the infusion and administer appropriate medical therapies. Permanently discontinue KADCYLA for life threatening infusion-related reaction. (  2.1  ,  2.2  ,  5.5  ) 
+ *  Hemorrhage: Fatal cases of hemorrhage occurred in clinical trials among patients with no known identified risk factors, as well as among patients with thrombocytopenia and those receiving anti-coagulation and antiplatelet therapy. Use caution with these agents and consider additional monitoring when concomitant use is medically necessary . (  5.6  ) 
+ *  Thrombocytopenia: Monitor platelet counts prior to each KADCYLA dose. Institute dose modifications as appropriate. (  2.2  ,  5.7  ) 
+ *  Neurotoxicity: Monitor for signs or symptoms. Withhold dosing temporarily for patients experiencing Grade 3 or 4 peripheral neuropathy. (  2.2  ,  5.8  ,  13.2  ) 
+ *  HER2 Testing: Perform using FDA-approved tests by laboratories with demonstrated proficiency. (  5.9  ) 
+    
+ 
+
+   5.1 Hepatotoxicity
+
+
+
+   Hepatotoxicity≠B-OSE_Labeled_AE , predominantly in the form of asymptomatic, transient  increases≠B-OSE_Labeled_AE  in the concentrations of serum  transaminases≠I-OSE_Labeled_AE , has been observed in clinical trials with KADCYLA [see  Adverse Reactions (6.1)  ]  . Serious  hepatobiliary≠B-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE , including at least two  fatal≠B-NonOSE_AE  cases of severe  drug≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  induced≠I-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE  and associated  hepatic≠B-OSE_Labeled_AE   encephalopathy≠I-OSE_Labeled_AE , have been reported in clinical trials with KADCYLA. Some of the observed cases may have been confounded by comorbidities and/or concomitant medications with known  hepatotoxic≠B-NonOSE_AE  potential.
+
+
+
+ Monitor serum transaminases and bilirubin prior to initiation of KADCYLA treatment and prior to each KADCYLA dose. Patients with known active  hepatitis≠B-Not_AE_Candidate   B≠I-Not_AE_Candidate   virus≠I-Not_AE_Candidate  or  hepatitis≠B-Not_AE_Candidate   C≠I-Not_AE_Candidate   virus≠I-Not_AE_Candidate  were excluded from Study 1 [see  Clinical Studies (14.1)  ]  . Reduce the dose or discontinue KADCYLA as appropriate in cases of  increased≠B-NonOSE_AE   serum≠I-NonOSE_AE   transaminases≠I-NonOSE_AE  and/or total bilirubin [see  Dosage and Administration (2.2)  ]  . Permanently discontinue KADCYLA treatment in patients with  serum≠B-NonOSE_AE   transaminases≠I-NonOSE_AE   >≠I-NonOSE_AE   3≠I-NonOSE_AE   *≠I-NonOSE_AE   ULN≠I-NonOSE_AE  and concomitant  total≠B-NonOSE_AE   bilirubin≠I-NonOSE_AE   >≠I-NonOSE_AE   2≠I-NonOSE_AE   *≠I-NonOSE_AE   ULN≠I-NonOSE_AE . KADCYLA has not been studied in patients with serum  transaminases≠B-NonOSE_AE   >≠I-NonOSE_AE   2≠I-NonOSE_AE  .≠I-NonOSE_AE  5≠I-NonOSE_AE   *≠I-NonOSE_AE   ULN≠I-NonOSE_AE  or  bilirubin≠B-NonOSE_AE   >≠I-NonOSE_AE   1≠I-NonOSE_AE  .≠I-NonOSE_AE  5≠I-NonOSE_AE   *≠I-NonOSE_AE   ULN≠I-NonOSE_AE  prior to the initiation of treatment.
+
+
+
+  In clinical trials of KADCYLA, cases of  nodular≠B-OSE_Labeled_AE   regenerative≠I-OSE_Labeled_AE   hyperplasia≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  NRH≠I-OSE_Labeled_AE ) of the liver have been identified from liver biopsies (3 cases out of 884 treated patients, one of which was  fatal≠B-NonOSE_AE ). Two of these three cases of  NRH≠B-OSE_Labeled_AE  were observed in the randomized trial (Study 1) [see  Adverse Reactions (6.1)  ]  .  NRH≠B-NonOSE_AE  is a rare  liver≠B-NonOSE_AE   condition≠I-NonOSE_AE   characterized≠I-NonOSE_AE   by≠I-NonOSE_AE   widespread≠I-NonOSE_AE   benign≠I-NonOSE_AE   transformation≠I-NonOSE_AE   of≠I-NonOSE_AE   hepatic≠I-NonOSE_AE   parenchyma≠I-NonOSE_AE   into≠I-NonOSE_AE   small≠I-NonOSE_AE   regenerative≠I-NonOSE_AE   nodules≠I-NonOSE_AE ;  NRH≠B-NonOSE_AE  may lead to  non≠B-NonOSE_AE  -≠I-NonOSE_AE  cirrhotic≠I-NonOSE_AE   portal≠I-NonOSE_AE   hypertension≠I-NonOSE_AE . The diagnosis of  NRH≠B-NonOSE_AE  can be confirmed only by histopathology.  NRH≠B-NonOSE_AE  should be considered in all patients with clinical symptoms of  portal≠B-NonOSE_AE   hypertension≠I-NonOSE_AE  and/or  cirrhosis≠B-NonOSE_AE  -≠I-NonOSE_AE  like≠I-NonOSE_AE   pattern≠I-NonOSE_AE  seen on the computed tomography (CT) scan of the liver but with normal transaminases and no other manifestations of  cirrhosis≠B-NonOSE_AE . Upon diagnosis of  NRH≠B-NonOSE_AE , KADCYLA treatment must be permanently discontinued.  
+
+
+
+    5.2 Left Ventricular Dysfunction
+
+
+
+  Patients treated with KADCYLA are at increased risk of developing  left≠B-OSE_Labeled_AE   ventricular≠I-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE . A  decrease≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   LVEF≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   <≠I-OSE_Labeled_AE   4≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  %≠I-OSE_Labeled_AE  has been observed in patients treated with KADCYLA. In the randomized trial (Study 1),  left≠B-OSE_Labeled_AE   ventricular≠I-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE  occurred in 1.8% of patients in the KADCYLA-treated group and 3.3% of patients in the lapatinib plus capecitabine-treated group [see  Adverse Reactions (6.1)  ]  .
+
+
+
+ Assess LVEF prior to initiation of KADCYLA and at regular intervals (e.g. every three months) during treatment to ensure the LVEF is within the institution's normal limits. Treatment with KADCYLA has not been studied in patients with  LVEF≠B-Not_AE_Candidate   <≠I-Not_AE_Candidate   5≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate  %≠I-Not_AE_Candidate  prior to initiation of treatment. If, at routine monitoring,  LVEF≠B-NonOSE_AE  is < 40%, or is 40% to 45% with a 10% or greater absolute  decrease≠I-NonOSE_AE  below the pretreatment value, withhold KADCYLA and repeat LVEF assessment within approximately 3 weeks. Permanently discontinue KADCYLA if the LVEF has not improved or has declined further [see  Dosage and Administration (2.2)  ]  . Patients with a history of  symptomatic≠B-Not_AE_Candidate   congestive≠I-Not_AE_Candidate   heart≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  CHF≠I-Not_AE_Candidate ), serious  cardiac≠B-Not_AE_Candidate   arrhythmia≠I-Not_AE_Candidate , or  history≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   myocardial≠I-Not_AE_Candidate   infarction≠I-Not_AE_Candidate  or  unstable≠B-Not_AE_Candidate   angina≠I-Not_AE_Candidate  within 6 months were excluded from Study 1 [see  Clinical Studies (14.1)  ]  .
+
+
+
+    5.3 Embryo-Fetal Toxicity
+
+
+
+  KADCYLA can cause  fetal≠B-OSE_Labeled_AE   harm≠I-OSE_Labeled_AE  when administered to a  pregnant≠B-Not_AE_Candidate  woman. There are no adequate and well-controlled studies of KADCYLA in  pregnant≠B-Not_AE_Candidate  women and no reproductive and developmental toxicology studies have been conducted with ado-trastuzumab emtansine. Nevertheless, treatment with trastuzumab, the antibody component of KADCYLA, during  pregnancy≠B-Not_AE_Candidate  in the postmarketing setting has resulted in  oligohydramnios≠B-OSE_Labeled_AE , some associated with  fatal≠B-NonOSE_AE   pulmonary≠B-OSE_Labeled_AE   hypoplasia≠I-OSE_Labeled_AE ,  skeletal≠B-OSE_Labeled_AE   abnormalities≠I-OSE_Labeled_AE  and  neonatal≠B-OSE_Labeled_AE   death≠I-OSE_Labeled_AE . DM1, the  cytotoxic≠B-NonOSE_AE  component of KADCYLA, can be expected to cause  embryo≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  fetal≠I-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  based on its mechanism of action.
+
+
+
+  If KADCYLA is used during  pregnancy≠B-Not_AE_Candidate , or if the patient becomes  pregnant≠B-NonOSE_AE  while receiving KADCYLA or within 7 months following the last dose of KADCYLA, apprise the patient of the potential  hazard≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   fetus≠I-OSE_Labeled_AE  [see  Use in Specific Populations (8.1)  ]  .  
+
+
+
+  Verify  pregnancy≠B-NonOSE_AE  status prior to the initiation of KADCYLA. Advise patients of the risks of  embryo≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  fetal≠I-OSE_Labeled_AE   death≠I-OSE_Labeled_AE  and  birth≠B-OSE_Labeled_AE   defects≠I-OSE_Labeled_AE  and the need for contraception during and after treatment. Advise patients to contact their healthcare provider immediately if they suspect they may be  pregnant≠B-NonOSE_AE . If KADCYLA is administered during  pregnancy≠B-Not_AE_Candidate  or if a patient becomes  pregnant≠B-NonOSE_AE  while receiving KADCYLA or within 7 months following the last dose of KADCYLA, immediately report exposure to the Genentech Adverse Event Line at 1-888-835-2555. Encourage women who may be exposed during  pregnancy≠B-NonOSE_AE  or within 7 months prior to conception, to enroll in the MotHER  Pregnancy≠B-NonOSE_AE  Registry by contacting 1-800-690-6720 [see  Patient Counseling Information (17)  ]  .  
+
+
+
+    5.4  Pulmonary≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE 
+
+
+
+  Cases of  interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  ILD≠I-OSE_Labeled_AE ), including  pneumonitis≠B-OSE_Labeled_AE , some leading to  acute≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   distress≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  or  fatal≠B-NonOSE_AE  outcome have been reported in clinical trials with KADCYLA.  Pneumonitis≠B-OSE_Labeled_AE  at an incidence of 0.8% (7 out of 884 treated patients) has been reported, with one case of grade 3  pneumonitis≠B-OSE_Labeled_AE . Signs and symptoms include  dyspnea≠B-NonOSE_AE ,  cough≠B-NonOSE_AE ,  fatigue≠B-NonOSE_AE , and  pulmonary≠B-NonOSE_AE   infiltrates≠I-NonOSE_AE . These events may or may not occur as sequelae of  infusion≠B-NonOSE_AE   reactions≠I-NonOSE_AE . In the randomized trial (Study 1), the overall frequency of  pneumonitis≠B-OSE_Labeled_AE  was 1.2% [see  Adverse Reactions (6.1)  ]  .
+
+
+
+ Permanently discontinue treatment with KADCYLA in patients diagnosed with  ILD≠B-NonOSE_AE  or  pneumonitis≠B-NonOSE_AE .
+
+
+
+ Patients with  dyspnea≠B-Not_AE_Candidate   at≠I-Not_AE_Candidate   rest≠I-Not_AE_Candidate  due to complications of  advanced≠B-Not_AE_Candidate   malignancy≠I-Not_AE_Candidate  and co-morbidities may be at increased risk of  pulmonary≠B-NonOSE_AE   toxicity≠I-NonOSE_AE .
+
+
+
+    5.5 Infusion-Related Reactions, Hypersensitivity Reactions
+
+
+
+  Treatment with KADCYLA has not been studied in patients who had trastuzumab permanently discontinued due to  infusion≠B-NonOSE_AE  -≠I-NonOSE_AE  related≠I-NonOSE_AE   reactions≠I-NonOSE_AE   (≠I-NonOSE_AE  IRR≠I-NonOSE_AE ) and/or  hypersensitivity≠B-NonOSE_AE ; treatment with KADCYLA is not recommended for these patients.
+
+
+
+  Infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE , characterized by one or more of the following symptoms -  flushing≠B-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE ,  pyrexia≠B-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE ,  hypotension≠B-OSE_Labeled_AE ,  wheezing≠B-OSE_Labeled_AE ,  bronchospasm≠B-OSE_Labeled_AE , and  tachycardia≠B-OSE_Labeled_AE  have been reported in clinical trials of KADCYLA. In the randomized trial (Study 1), the overall frequency of  IRRs≠B-OSE_Labeled_AE  in patients treated with KADCYLA was 1.4% [see  Adverse Reactions (6.1)  ]  . In most patients, these reactions resolved over the course of several hours to a day after the infusion was terminated. KADCYLA treatment should be interrupted in patients with severe  IRR≠B-NonOSE_AE . KADCYLA treatment should be permanently discontinued in the event of a life-threatening  IRR≠B-NonOSE_AE  [see  Dosage and Administration (2.2)  ]  . Patients should be observed closely for  IRR≠B-NonOSE_AE  reactions, especially during the first infusion.
+
+
+
+ One case of a serious,  allergic≠B-OSE_Labeled_AE /anaphylactic-like  reaction≠I-OSE_Labeled_AE  has been observed in clinical trials of single-agent KADCYLA. Medications to treat such reactions, as well as emergency equipment, should be available for immediate use.
+
+
+
+    5.6 Hemorrhage
+
+
+
+   Cases of  hemorrhagic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE , including  central≠B-OSE_Labeled_AE   nervous≠I-OSE_Labeled_AE   system≠I-OSE_Labeled_AE , respiratory, and gastrointestinal  hemorrhage≠I-OSE_Labeled_AE , have been reported in clinical trials with Kadcyla. Some of these  bleeding≠B-OSE_Labeled_AE  events resulted in  fatal≠B-NonOSE_AE  outcomes. In the randomized trial (Study 1), the overall frequency of  hemorrhage≠B-OSE_Labeled_AE  was 32.2% in the KADCYLA-treated group and 16.4% in the lapatinib plus capecitabine-treated group. The incidence of >= Grade 3  hemorrhage≠B-OSE_Labeled_AE  was 1.8% in the KADCYLA-treated group and 0.8% in the lapatinib plus capecitabine-treated group [see  Adverse Reactions (6.1)  ]  . Although, in some of the observed cases the patients were also receiving anti-coagulation therapy, antiplatelet therapy, or had  thrombocytopenia≠B-Not_AE_Candidate , in others there were no known additional risk factors. Use caution with these agents and consider additional monitoring when concomitant use is medically necessary.  
+
+
+
+    5.7 Thrombocytopenia
+
+
+
+   Thrombocytopenia≠B-OSE_Labeled_AE , or  decreased≠B-OSE_Labeled_AE   platelet≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE , was reported in clinical trials of KADCYLA (103 of 884 treated patients with >= Grade 3; 283 of 884 treated patients with any Grade). The majority of these patients had Grade 1 or 2 events (< LLN to >= 50,000/mm  3  ) with the nadir occurring by day 8 and generally improving to Grade 0 or 1 (>= 75,000 /mm  3  ) by the next scheduled dose. In clinical trials of KADCYLA, the incidence and severity of  thrombocytopenia≠B-NonOSE_AE  were higher in Asian patients.
+
+
+
+ In the randomized trial (Study 1), the overall frequency of  thrombocytopenia≠B-OSE_Labeled_AE  was 31.2% in the KADCYLA-treated group and 3.3% in the lapatinib plus capecitabine-treated group [see  Adverse Reactions (6.1)  ]  . The incidence of >= Grade 3  thrombocytopenia≠B-OSE_Labeled_AE  was 14.5% in the KADCYLA-treated group and 0.4% in the lapatinib plus capecitabine-treated group. In Asian patients, the incidence of >= Grade 3  thrombocytopenia≠B-OSE_Labeled_AE  was 45.1% in the KADCYLA-treated group and 1.3% in the lapatinib plus capecitabine-treated group.
+
+
+
+ Monitor platelet counts prior to initiation of KADCYLA and prior to each KADCYLA dose [see  Dosage and Administration (2.2)  ]  . KADCYLA has not been studied in patients with  platelet≠B-Not_AE_Candidate   counts≠I-Not_AE_Candidate   <≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate  ,≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate /mm  3  prior to initiation of treatment. In the event of  decreased≠B-NonOSE_AE   platelet≠I-NonOSE_AE   count≠I-NonOSE_AE  to Grade 3 or greater (< 50,000/mm  3  ) do not administer KADCYLA until platelet counts recover to Grade 1 (>= 75,000/mm  3  ) [see  Dosage and Administration (2.2)  ]  . Patients with  thrombocytopenia≠B-Not_AE_Candidate  (< 100,000/mm  3  ) and patients on anti-coagulant treatment should be closely monitored during treatment with KADCYLA.
+
+
+
+    5.8  Neurotoxicity≠B-OSE_Labeled_AE 
+
+
+
+   Peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE , mainly as Grade 1 and predominantly sensory, was reported in clinical trials of KADCYLA (14 of 884 treated patients with >= Grade 3; 196 of 884 treated patients with any Grade). In the randomized trial (Study 1), the overall frequency of  peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  was 21.2% in the KADCYLA-treated group and 13.5% in the lapatinib plus capecitabine-treated group [see  Adverse Reactions (6.1)  ]  . The incidence of >= Grade 3  peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  was 2.2% in the KADCYLA-treated group and 0.2% in the lapatinib plus capecitabine-treated group.
+
+
+
+ KADCYLA should be temporarily discontinued in patients experiencing Grade 3 or 4  peripheral≠B-NonOSE_AE   neuropathy≠I-NonOSE_AE  until resolution to <= Grade 2. Patients should be clinically monitored on an ongoing basis for signs or symptoms of  neurotoxicity≠B-NonOSE_AE  [see  Nonclinical Toxicology (13.2)  ]  .
+
+
+
+    5.9 HER2 Testing
+
+
+
+  Detection of  HER≠B-Not_AE_Candidate  2≠I-Not_AE_Candidate   protein≠I-Not_AE_Candidate   overexpression≠I-Not_AE_Candidate   or≠I-Not_AE_Candidate   gene≠I-Not_AE_Candidate   amplification≠I-Not_AE_Candidate  is necessary for selection of patients appropriate for KADCYLA therapy because these are the only patients studied for whom benefit has been shown [see  Indications and Usage (1)  ,  Clinical Studies (14.1)  ]  . In the randomized study (Study 1), patients with  breast≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  were required to have evidence of  HER≠B-Not_AE_Candidate  2≠I-Not_AE_Candidate   overexpression≠I-Not_AE_Candidate  defined as 3+ IHC by Dako HerceptestTM or evidence of overexpression defined as FISH amplification ratio >= 2.0 by Dako HER2  FISH PharmDxTM test kit. Only limited data were available for patients whose  breast≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  was positive by FISH and 0 or 1+ by IHC.
+
+
+
+ Assessment of HER2 status should be performed by laboratories with demonstrated proficiency in the specific technology being utilized. Improper assay performance, including use of sub- optimally fixed tissue, failure to utilize specified reagents, deviation from specific assay instructions, and failure to include appropriate controls for assay validation, can lead to unreliable results.
+
+
+
+    5.10 Extravasation
+
+
+
+  In KADCYLA clinical studies, reactions secondary to  extravasation≠B-OSE_Labeled_AE  have been observed. These reactions, observed more frequently within 24 hours of infusion, were usually mild and comprised  erythema≠B-OSE_Labeled_AE , tenderness, skin irrit at≠I-OSE_Labeled_AE ion, pain, or swelling at  the≠I-OSE_Labeled_AE   infusion≠I-OSE_Labeled_AE   site≠I-OSE_Labeled_AE . Specific treatment for KADCYLA  extravasation≠B-NonOSE_AE  is unknown. The  infusion≠B-NonOSE_AE   site≠I-NonOSE_AE   should≠I-NonOSE_AE   be≠I-NonOSE_AE   closely≠I-NonOSE_AE   monitored≠I-NonOSE_AE   for≠I-NonOSE_AE   possible≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   infiltration≠I-NonOSE_AE   during≠I-NonOSE_AE   drug≠I-NonOSE_AE   administration≠I-NonOSE_AE .

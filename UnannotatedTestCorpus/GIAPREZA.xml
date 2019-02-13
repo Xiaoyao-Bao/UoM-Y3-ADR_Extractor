@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="GIAPREZA">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6. ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions reported in greater than 10% in GIAPREZA treated patients were thromboembolic events. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact La Jolla Pharmaceutical Company at 1-800-651-3861 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1. Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+     ATHOS-3  
+
+
+
+ The safety of GIAPREZA was evaluated in ATHOS-3  [see  Warnings and Precautions(5.1)  ]  . Patients in ATHOS-3 were receiving other vasopressors in addition to GIAPREZA or placebo, which were titrated to effect on mean arterial pressure (MAP).
+
+
+
+ Table 2 summarizes adverse reactions with an incidence of at least 4% among patients treated with GIAPREZA and with a rate of at least 1.5% higher with GIAPREZA than with placebo.
+
+
+
+ Table 2: Adverse Reactions Occurring in &gt;= 4% of Patients Treated with GIAPREZA and &gt;= 1.5% More Often than in Placebo-treated Patients in ATHOS-3 
+ Adverse Event                                 GIAPREZAN=163                      PlaceboN=158              
+  
+ Thromboembolic events                          21 (12.9%)                          8 (5.1%)                
+   Deep vein thrombosis                          7 (4.3%)                           0 (0.0%)                
+ Thrombocytopenia                                16 (9.8%)                          11 (7.0%)               
+ Tachycardia                                     14 (8.6%)                          9 (5.7%)                
+ Fungal infection                                10 (6.1%)                          2 (1.3%)                
+ Delirium                                        9 (5.5%)                           1 (0.6%)                
+ Acidosis                                        9 (5.5%)                           1 (0.6%)                
+ Hyperglycemia                                   7 (4.3%)                           4 (2.5%)                
+ Peripheral ischemia                             7 (4.3%)                           4 (2.5%)                
+</Section>
+    <Section id="S2" name="warnings and precautions">    5. WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  There is a potential for venous and arterial thrombotic and thromboembolic events in patients who receive GIAPREZA. Use concurrent venous thromboembolism (VTE) prophylaxis. (  5.1  ,  6.1  ) 
+    
+ 
+
+   5.1 Risk for Thrombosis
+
+
+
+  The safety of GIAPREZA was evaluated in 321 adults with septic or other distributive shock in a randomized, double-blind, placebo-controlled study, ATHOS-3. There was a higher incidence of arterial and venous thrombotic and thromboembolic events in patients who received GIAPREZA compared to placebo-treated patients in the ATHOS-3 study (13% vs. 5%). The major imbalance was in deep venous thromboses. Use concurrent venous thromboembolism (VTE) prophylaxis.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="20" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="27" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="304" name="excerpt" section="S1" start="27" />
+    <IgnoredRegion len="212" name="excerpt" section="S2" start="37" />
+    <IgnoredRegion len="23" name="heading" section="S2" start="256" />
+    <IgnoredRegion len="31" name="heading" section="S1" start="335" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

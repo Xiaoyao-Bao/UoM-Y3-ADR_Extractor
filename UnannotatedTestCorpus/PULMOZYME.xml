@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PULMOZYME">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions (occurring in &gt;=3% of patients treated with PULMOZYME over placebo) seen in clinical trials in CF patients were: voice alteration, pharyngitis, rash, laryngitis, chest pain, conjunctivitis, rhinitis, decrease in FVC of &gt;=10%, fever, and dyspnea. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Genentech at 1-888-835-2555 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The data described below reflect exposure to PULMOZYME in 902 patients, with exposures ranging from 2 weeks of daily administration up to once or twice daily administration for six months. PULMOZYME was studied in both placebo-controlled and uncontrolled trials (n=804 and n=98). The population of patients in placebo-controlled trials was with FVC &gt;= 40% of predicted (n=643) or with more advanced pulmonary disease, FVC &lt; 40% of predicted (n=161). The population in the uncontrolled trial included 98 pediatric patients with CF ranging from 3 months to 10 years of age. More than half of the patients received PULMOZYME 2.5 mg by inhalation once a day (n=581), while the rest of patients (n=321) received PULMOZYME 2.5 mg by inhalation twice a day.
+
+
+
+     Placebo-Controlled Trials  
+
+
+
+     Trial 1  : Trial 1 was a randomized, placebo-controlled clinical trial in patients with FVC &gt;= 40% of predicted. In this trial, over 600 patients received PULMOZYME once or twice daily for six months. The most common adverse reaction (risk difference &gt;=5%) was voice alteration. The proportion of most adverse events was similar for patients on PULMOZYME and on placebo, probably reflecting the sequelae of the underlying lung disease. In most cases reactions that were increased were mild, transient in nature, and did not require alterations in dosing. Few patients experienced adverse reactions resulting in permanent discontinuation from PULMOZYME, and the proportion of discontinuations were similar for placebo (2%) and PULMOZYME (3%). Adverse reactions occurring in a higher proportion (greater than 3%) of PULMOZYME treated patients than in placebo-treated patients are listed in  Table 2  .
+
+
+
+     Trial 2  : Trial 2 was a randomized, placebo-controlled trial in patients with more advanced pulmonary disease (FVC &lt; 40% of predicted) who were treated for 12 weeks. In this trial, the safety profile of PULMOZYME was similar to that reported in patients with less advanced pulmonary disease (FVC &gt;= 40% of predicted). Adverse reactions that were reported in this trial with a higher proportion (greater than 3%) in the PULMOZYME treated patients are listed in  Table 2  .
+
+
+
+ Table 2. Adverse Reactions Increased 3% or More in PULMOZYME Treated Patients Over Placebo in CF Clinical Trials 
+ Adverse Reactions(of any severity or seriousness)  Trial 1CF Patients with FVC &gt;= 40% of predicted treated for 24 weeks  Trial 2CF Patients with FVC &lt;40% of predicted treated for 12 weeks   
+ Placebon=325               Pulmozyme QDn=322  Pulmozyme BIDn=321   Placebon=159    Pulmozyme QDn=161   
+  
+ Voice alteration                 7%               12%              16%              6%               18%         
+ Pharyngitis                      33%              36%              40%              28%              32%         
+ Rash                             7%               10%              12%              1%               3%          
+ Laryngitis                       1%               3%               4%               1%               3%          
+ Chest Pain                       16%              18%              21%              23%              25%         
+ Conjunctivitis                   2%               4%               5%               0%               1%          
+ Rhinitis                   Differences were less than 3%        24%              30%         
+ FVC decrease of &gt;= 10% of predicted        17%              22%         
+ Fever                            28%              32%         
+ Dyspepsia                        0%               3%          
+ Dyspnea (when reported as serious)  Differences were less than 3%        12%              17%         
+            Mortality rates observed in controlled trials were similar for the placebo and PULMOZYME treated patients. Causes of death were consistent with progression of cystic fibrosis and included apnea, cardiac arrest, cardiopulmonary arrest, cor pulmonale, heart failure, massive hemoptysis, pneumonia, pneumothorax, and respiratory failure.
+ 
+
+     Uncontrolled Trial  
+
+
+
+     Trial 3:  The safety of PULMOZYME, 2.5 mg by inhalation, was studied with 2 weeks of daily administration in 98 pediatric patients with cystic fibrosis 3 months to 10 years of age (65 aged 3 months to &lt; 5 years, 33 aged 5 to &lt;= 10 years). The PARI BABYTM reusable nebulizer (which uses a facemask instead of a mouthpiece) was utilized in patients unable to demonstrate the ability to inhale or exhale orally throughout the entire treatment period (54/65, 83% of the younger and 2/33, 6% of the older patients). Overall, the nature of adverse reactions was similar to that seen in the placebo-controlled trials. The number of patients reporting cough was higher in the younger age group as compared to the older age group (29/65, 45% compared to 10/33, 30%) as was the number reporting moderate to severe cough (24/65, 37% as compared to 6/33, 18%). The number of patients reporting rhinitis was higher in the younger age group as compared to the older age group (23/65, 35% compared to 9/33, 27%) as was the number reporting rash (4/65, 6% as compared to 0/33).
+
+
+
+     Allergic Reactions  
+
+
+
+ There have been no reports of anaphylaxis attributed to the administration of PULMOZYME. Urticaria, mild to moderate, and mild skin rash have been observed and have been transient. Within all of the studies, a small percentage (average of 2-4%) of patients treated with PULMOZYME developed serum antibodies to PULMOZYME. None of these patients developed anaphylaxis, and the clinical significance of serum antibodies to PULMOZYME is unknown.
+
+
+
+   6.2 Postmarketing Experience
+
+  Postmarketing spontaneous reports and prospectively collected safety data from observational studies confirm the safety profile to be as described in clinical trials [  see  Adverse Reactions (6.1)    ].
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  None.
+
+
+
+   EXCERPT:   None.
+
+
+
+ 
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="439" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="22" name="excerpt" section="S2" start="47" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="469" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="6383" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

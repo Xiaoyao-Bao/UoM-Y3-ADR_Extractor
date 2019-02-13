@@ -1,0 +1,97 @@
+    5        WARNINGS AND PRECAUTIONS  
+
+   EXCERPT:    *  Cardiac Toxicities:  Monitor for signs and symptoms of cardiac failure or ischemia. Withhold Kyprolis and evaluate promptly. (  5.1  ) 
+ *  Acute Renal Failure: Monitor serum creatinine regularly. (  5.2  ) 
+ *  Tumor Lysis Syndrome (TLS): Administer pre-treatment hydration. (  2.1  ) Monitor for TLS, including uric acid levels and treat promptly. (  5.3  ) 
+ *  Pulmonary Toxicity, including Acute Respiratory Distress Syndrome, Acute Respiratory Failure, and Acute Diffuse Infiltrative Pulmonary Disease:  Withhold Kyprolis and evaluate promptly. (  5.4  ) 
+ *  Pulmonary Hypertension: Withhold Kyprolis and evaluate. (  5.5  ) 
+ *  Dyspnea: For severe or life threatening dyspnea, withhold Kyprolis and evaluate. (  5.6  ) 
+ *  Hypertension Including Hypertensive Crisis:  Monitor blood pressure regularly.  If hypertension cannot be controlled, interrupt treatment with Kyprolis. (  5.7  ) 
+ *  Venous Thrombosis:  Thromboprophylaxis is recommended. (  5.8  ) 
+ *  Infusion Reactions: Premedicate with dexamethasone. (  2.1  ,  5.9  ) 
+ *  Hemorrhage: Fatal or serious cases of hemorrhage may occur, including gastrointestinal, pulmonary, and intracranial hemorrhage. Promptly evaluate signs and symptoms of blood loss. (  5.10  ) 
+ *  Thrombocytopenia: Monitor platelet counts; interrupt or reduce Kyprolis dosing as clinically indicated. (  2.3  ,   5.11  ) 
+ *  Hepatic Toxicity and Hepatic Failure: Monitor liver enzymes regularly.  Withhold Kyprolis if suspected. (  5.12  ) 
+ *  Thrombotic Microangiopathy: Monitor for signs and symptoms. Discontinue Kyprolis if suspected. (  5.13  ) 
+ *  Posterior Reversible Encephalopathy Syndrome (PRES): Consider neuro-radiological imaging (MRI) for onset of visual or neurological symptoms; discontinue Kyprolis if suspected. (  5.14  ) 
+ *  Increased Fatal and Serious Toxicites in Combination with Melphalan and Prednisone in Newly Diagnosed Transplant-Ineligible Patients (  5.15  ) 
+ *  Embryo-Fetal Toxicity: Kyprolis can cause fetal harm. Females of reproductive potential should avoid becoming pregnant while being treated. (  5.16  ,   8.1  ) 
+    
+ 
+
+   5.1       Cardiac Toxicities
+
+  New onset or worsening of pre-existing cardiac failure (e.g., congestive heart failure, pulmonary edema, decreased ejection fraction), restrictive cardiomyopathy, myocardial ischemia, and myocardial infarction including fatalities have occurred following administration of Kyprolis.  Some events occurred in patients with normal baseline ventricular function.  In clinical studies with Kyprolis, these events occurred throughout the course of Kyprolis therapy. Death due to cardiac arrest has occurred within one day of Kyprolis administration.  In a randomized, open-label, multicenter trial evaluating Kyprolis in combination with lenalidomide and dexamethasone (KRd) versus  lenalidomide/dexamethasone (Rd), the incidence of cardiac failure events was 6% in the KRd arm versus  4% in the Rd arm.  In a randomized, open-label, multicenter trial of Kyprolis plus dexamethasone (Kd) versus  bortezomib plus dexamethasone (Vd), the incidence of cardiac failure events was 8% in the Kd arm versus  3% in the Vd arm.
+
+ Monitor patients for clinical signs or symptoms of cardiac failure or cardiac ischemia.  Evaluate promptly if cardiac toxicity is suspected.  Withhold Kyprolis for Grade 3 or 4 cardiac adverse events until recovery, and consider whether to restart Kyprolis at 1 dose level reduction based on a benefit/risk assessment [see    Dosage and Administration    (     2.3     )   ]  .
+
+ While adequate hydration is required prior to each dose in Cycle 1, all patients should also be monitored for evidence of volume overload, especially patients at risk for cardiac failure. Adjust total fluid intake as clinically appropriate in patients with baseline cardiac failure or who are at risk for cardiac failure [see Dosage and Administration    (     2.1     )   ]  .
+
+  In patients >= 75 years of age, the risk of cardiac failure is increased compared to patients ˂ 75 years of age. Patients with New York Heart Association Class III and IV heart failure, recent myocardial infarction, conduction abnormalities, angina, or arrhythmias uncontrolled by medications were not eligible for the clinical trials. These patients may be at greater risk for cardiac complications and should have a comprehensive medical assessment (including blood pressure and fluid management) prior to starting treatment with Kyprolis and remain under close follow-up  [see Use in Specific Populations   (     8.5     )]  .  
+
+    5.2       Acute Renal Failure
+
+  Cases of acute renal failure have occurred in patients receiving Kyprolis. Renal insufficiency adverse events (including renal failure) have occurred in approximately 10% of patients treated with Kyprolis. Acute renal failure was reported more frequently in patients with advanced relapsed and refractory multiple myeloma who received Kyprolis monotherapy. This risk was greater in patients with a baseline reduced estimated creatinine clearance (calculated using Cockcroft and Gault equation). Monitor renal function with regular measurement of the serum creatinine and/or estimated creatinine clearance. Reduce or withhold dose as appropriate [see Dosage and Administration    (     2.3     )]  .
+
+    5.3       Tumor Lysis Syndrome
+
+  Cases of tumor lysis syndrome (TLS), including fatal outcomes, have been reported in patients who received Kyprolis. Patients with multiple myeloma and a high tumor burden should be considered to be at greater risk for TLS. Ensure that patients are well hydrated before administration of Kyprolis in Cycle 1, and in subsequent cycles as needed [see    Dosage and Administration   (     2.1     )]  . Consider uric acid-lowering drugs in patients at risk for TLS. Monitor for evidence of TLS during treatment and manage promptly, including interruption of Kyprolis until TLS is resolved [see Dosage and Administration   (     2.1     )]  .
+
+    5.4       Pulmonary Toxicity
+
+  Acute Respiratory Distress Syndrome (ARDS), acute respiratory failure, and acute diffuse infiltrative pulmonary disease such as pneumonitis and interstitial lung disease have occurred in less than 1% of patients receiving Kyprolis. Some events have been fatal. In the event of drug-induced pulmonary toxicity, discontinue Kyprolis [see    Dosage and Administration    (     2.3     )]  .
+
+    5.5       Pulmonary Hypertension
+
+  Pulmonary arterial hypertension was reported in approximately 1% of patients treated with Kyprolis and was Grade 3 or greater in less than 1% of patients. Evaluate with cardiac imaging and/or other tests as indicated.  Withhold Kyprolis for pulmonary hypertension until resolved or returned to baseline, and consider whether to restart Kyprolis based on a benefit/risk assessment [see   Dosage and Administration   (     2.3     )   ]  .
+
+    5.6       Dyspnea
+
+  Dyspnea was reported in 28% of patients treated with Kyprolis and was Grade 3 or greater in 4% of patients. Evaluate dyspnea to exclude cardiopulmonary conditions including cardiac failure and pulmonary syndromes.  Stop Kyprolis for Grade 3 or 4 dyspnea until resolved or returned to baseline.  Consider whether to restart Kyprolis based on a benefit/risk assessment  [see Dosage and Administration   (     2.3     )   ,       Warnings and Precautions   (     5.1      and     5.4     )   ,   and Adverse Reactions   (     6.1     )]  .
+
+    5.7       Hypertension
+
+  Hypertension, including hypertensive crisis and hypertensive emergency, has been observed with Kyprolis.  In a randomized, open-label, multicenter trial evaluating Kyprolis in combination with KRd versus  Rd, the incidence of hypertension events was 16% in the KRd arm versus  8% in the Rd arm.  In a randomized, open-label, multicenter trial of Kd versus  Vd, the incidence of hypertension events was 26% in the Kd arm versus  10% in the Vd arm. Some of these events have been fatal. Monitor blood pressure regularly in all patients. If hypertension cannot be adequately controlled, withhold Kyprolis and evaluate. Consider whether to restart Kyprolis based on a benefit/risk assessment [see Dosage and Administration   (     2     )]  .
+
+    5.8       Venous Thrombosis
+
+   Venous thromboembolic events (including deep venous thrombosis and pulmonary embolism) have been observed with Kyprolis. In a randomized, open-label, multicenter trial evaluating KRd versus  Rd (with thromboprophylaxis used in both arms), the incidence of venous thromboembolic events in the first 12 cycles was 13% in the KRd arm versus  6% in the Rd arm. In a randomized, open-label, multicenter trial of Kd versus  Vd, the incidence of venous thromboembolic events in months 1-6 was 9% in the Kd arm versus  2% in the Vd arm. With Kyprolis monotherapy, the incidence of venous thromboembolic events was 2%.  
+
+  Thromboprophylaxis is recommended for patients being treated with the combination of Kyprolis with dexamethasone or with lenalidomide plus dexamethasone.  The thromboprophylaxis regimen should be based on an assessment of the patient's underlying risks.  
+
+  Patients using oral contraceptives or a hormonal method of contraception associated with a risk of thrombosis should consider an alternative method of effective contraception during treatment with Kyprolis in combination with dexamethasone or lenalidomide plus dexamethasone  [see Use in Specific Population (     8.3     )]   .    
+
+    5.9       Infusion Reactions
+
+  Infusion reactions, including life-threatening reactions, have occurred in patients receiving Kyprolis. Symptoms include fever, chills, arthralgia, myalgia, facial flushing, facial edema, vomiting, weakness, shortness of breath, hypotension, syncope, chest tightness, or angina. These reactions can occur immediately following or up to 24 hours after administration of Kyprolis. Administer dexamethasone prior to Kyprolis to reduce the incidence and severity of infusion reactions [see Dosage and Administration   (     2     )]  . Inform patients of the risk and of symptoms and to contact a physician immediately if symptoms of an infusion reaction occur.
+
+    5.10       Hemorrhage
+
+   Fatal or serious cases of hemorrhage have been reported in patients treated with Kyprolis. Hemorrhagic events have included gastrointestinal, pulmonary, and intracranial hemorrhage and epistaxis. The bleeding can be spontaneous, and intracranial hemorrhage has occurred without trauma. Hemorrhage has been reported in patients having either low or normal platelet counts. Hemorrhage has also been reported in patients who were not on antiplatelet therapy or anticoagulation. Promptly evaluate signs and symptoms of blood loss. Reduce or withhold dose as appropriate [   see Dosage and Administration (     2.3     )   and Adverse Reactions (     6.1     )].    
+
+    5.11       Thrombocytopenia
+
+   Kyprolis causes thrombocytopenia with platelet nadirs observed between Day 8 and Day 15 of each 28-day cycle, with recovery to baseline platelet count usually by the start of the next cycle [see Adverse Reactions   (     6.1     )]  . Thrombocytopenia was reported in approximately 40% of patients in clinical trials with Kyprolis. Monitor platelet counts frequently during treatment with Kyprolis. Reduce or withhold dose as appropriate [see Dosage and Administration    (     2.3     )]  . Hemorrhage may occur [see   Adverse Reactions (     6.1     ) and Warnings and Precautions (     5.10     )   ].    
+
+    5.12       Hepatic Toxicity and Hepatic Failure
+
+  Cases of hepatic failure, including fatal cases, have been reported (< 1%) during treatment with Kyprolis. Kyprolis can cause increased serum transaminases. Monitor liver enzymes regularly, regardless of baseline values. Reduce or withhold dose as appropriate [see Dosage and Administration   (     2.3     )   and Adverse Reactions   (     6.1     )]  .
+
+    5.13       Thrombotic Microangiopathy
+
+   Cases of thrombotic microangiopathy, including thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), have been reported in patients who received Kyprolis.  Some of these events have been fatal. Monitor for signs and symptoms of TTP/HUS. If the diagnosis is suspected, stop Kyprolis and evaluate. If the diagnosis of TTP/HUS is excluded, Kyprolis may be restarted. The safety of reinitiating Kyprolis therapy in patients previously experiencing TTP/HUS is not known  [see Dosage and Administration (     2.3     )   ]  .  
+
+    5.14       Posterior Reversible Encephalopathy Syndrome
+
+  Cases of posterior reversible encephalopathy syndrome (PRES) have been reported in patients receiving Kyprolis. PRES, formerly termed Reversible Posterior Leukoencephalopathy Syndrome (RPLS), is a neurological disorder which can present with seizure, headache, lethargy, confusion, blindness, altered consciousness, and other visual and neurological disturbances, along with hypertension, and the diagnosis is confirmed by neuro-radiological imaging (MRI). Discontinue Kyprolis if PRES is suspected and evaluate. The safety of reinitiating Kyprolis therapy in patients previously experiencing PRES is not known.
+
+    5.15       Increased Fatal and Serious Toxicities in Combination with Melphalan and Prednisone in Newly Diagnosed Transplant-Ineligible Patients
+
+   In a clinical trial of 955 transplant-ineligible patients with newly diagnosed multiple myeloma randomized to Kyprolis (20/36 mg/m  2  by 30-minute infusion twice weekly for four of each six-week cycle), melphalan and prednisone (KMP) or bortezomib, melphalan and prednisone (VMP), a higher incidence of fatal adverse reactions (7% versus  4%) and serious adverse reactions (50% versus  42%) were observed in the KMP arm compared to patients in the VMP arm, respectively. Patients in the KMP arm were observed to have a higher incidence of any grade adverse reactions involving cardiac failure (11% versus  4%), hypertension (25% versus  8%), acute renal failure (14% versus  6%), and dyspnea (18% versus  9%). This study did not meet its primary outcome measure of superiority in progression-free survival for the KMP arm. Kyprolis in combination with melphalan and prednisone is not indicated for transplant-ineligible patients with newly diagnosed multiple myeloma.  
+
+    5.16       Embryo-Fetal Toxicity
+
+  Kyprolis can cause fetal harm when administered to a pregnant woman based on its mechanism of action and findings in animals. There are no adequate and well-controlled studies in pregnant women using Kyprolis.
+
+ Advise females of reproductive potential to avoid becoming pregnant while being treated with Kyprolis.  Advise males of reproductive potential to avoid fathering a child while being treated with Kyprolis.  Advise women who use Kyprolis during pregnancy or become pregnant during treatment with Kyprolis of the potential hazard to the fetus [see Use in Specific Populations   (     8.1     ,     8.3     )   ]  .
+

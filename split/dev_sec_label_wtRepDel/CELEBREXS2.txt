@@ -1,0 +1,10 @@
+32 1229 OSE_Labeled_AE
+21 1273 OSE_Labeled_AE
+6 1300 OSE_Labeled_AE
+5 1321 NonOSE_AE
+36 1725 OSE_Labeled_AE
+26 1798 OSE_Labeled_AE
+5 1853 NonOSE_AE
+20 1990 Not_AE_Candidate
+11 2018 Not_AE_Candidate
+10 2063 NonOSE_AE

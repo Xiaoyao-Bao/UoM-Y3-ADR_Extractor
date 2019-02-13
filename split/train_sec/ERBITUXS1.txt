@@ -1,0 +1,223 @@
+  6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the label:
+
+ *     Infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  [See   Boxed Warning  ,  Warnings and Precautions (5.1)   .] 
+ *     Cardiopulmonary≠B-OSE_Labeled_AE   arrest≠I-OSE_Labeled_AE  [See   Boxed Warning  ,  Warnings and Precautions (5.2)   .] 
+ *     Pulmonary≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  [See   Warnings and Precautions (5.3)   .] 
+ *     Dermatologic≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  [See   Warnings and Precautions (5.4)   .] 
+ *     Hypomagnesemia≠B-OSE_Labeled_AE  and  Electrolyte≠B-OSE_Labeled_AE   Abnormalities≠I-OSE_Labeled_AE  [See   Warnings and Precautions (5.6)   .] 
+    The most common adverse reactions in Erbitux clinical trials (incidence >=25%) include  cutaneous≠B-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (including  rash≠B-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE , and  nail≠B-OSE_Labeled_AE   changes≠I-OSE_Labeled_AE ),  headache≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE , and  infection≠B-OSE_Labeled_AE .
+ 
+
+ The most serious adverse reactions with Erbitux are  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE ,  cardiopulmonary≠B-OSE_Labeled_AE   arrest≠I-OSE_Labeled_AE ,  dermatologic≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  and  radiation≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ,  sepsis≠B-OSE_Labeled_AE ,  renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE , and  pulmonary≠B-OSE_Labeled_AE   embolus≠I-OSE_Labeled_AE .
+
+ Across Studies 1, 3, 5, and 6, Erbitux was discontinued in 3-10% of patients because of adverse reactions.
+
+   EXCERPT:   The most common adverse reactions (incidence >=25%) are: cutaneous adverse reactions (including rash, pruritus, and nail changes), headache, diarrhea, and infection.  (6)  
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Eli Lilly and Company at 1-800-LillyRx (1-800-545-5979) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+ The data below reflect exposure to Erbitux in 1373 patients with  SCCHN≠B-Not_AE_Candidate  or  colorectal≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  in randomized Phase 3 (Studies 1 and 5) or Phase 2 (Studies 3 and 6) trials treated at the recommended dose and schedule for medians of 7 to 14 weeks. [See    Clinical Studies (14)    .]
+
+    Infusion≠B-NonOSE_AE   reactions≠I-NonOSE_AE :   Infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE , which included  pyrexia≠B-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE ,  rigors≠B-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE ,  bronchospasm≠B-OSE_Labeled_AE ,  angioedema≠B-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE , and  hypotension≠B-OSE_Labeled_AE  occurred in 15-21% of patients across studies. Grades 3 and 4  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  occurred in 2-5% of patients;  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  were  fatal≠B-NonOSE_AE  in 1 patient.
+
+    Infections≠B-NonOSE_AE :  The incidence of  infection≠B-OSE_Labeled_AE  was variable across studies, ranging from 13-35%.  Sepsis≠B-OSE_Labeled_AE  occurred in 1-4% of patients.
+
+    Renal≠B-NonOSE_AE :   Renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  occurred in 1% of patients with  colorectal≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate .
+
+     Squamous Cell Carcinoma of the Head and Neck  
+
+    Erbitux in Combination with Radiation Therapy  
+
+    Table 2  contains selected adverse reactions in 420 patients receiving radiation therapy either alone or with Erbitux for locally or regionally advanced  SCCHN≠B-Not_AE_Candidate  in Study 1. Erbitux was administered at the recommended dose and schedule (400 mg/m  2  initial dose, followed by 250 mg/m  2  weekly). Patients received a median of 8 infusions (range 1-11).
+
+ Table 2: Incidence of Selected Adverse Reactions (>=10%) in Patients with Locoregionally Advanced SCCHN 
+   Body System  Preferred Term            Erbitux plus Radiation    (n=208)      Radiation Therapy Alone    (n=212)     
+   Grades    1-4                          Grades    3 and 4      Grades    1-4      Grades    3 and 4     
+   % of Patients                         
+  
+   a    Includes cases also reported as  infusion≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE .  b     Infusion≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE  is defined as any event described at any time during the clinical study as " allergic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE " or " anaphylactoid≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ", or any event occurring on the first day of dosing described as " allergic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ", " anaphylactoid≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ", " fever≠B-OSE_Labeled_AE ", " chills≠B-OSE_Labeled_AE ", " chills≠B-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   fever≠I-OSE_Labeled_AE ", or " dyspnea≠B-OSE_Labeled_AE ".  c    Based on laboratory measurements, not on reported adverse reactions, the number of subjects with tested samples varied from 205-206 for Erbitux plus Radiation arm; 209-210 for Radiation alone.  d     Acneiform≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE  is defined as any event described as " acne≠B-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE ", " maculopapular≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE ", " pustular≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE ", " dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE ", or " exfoliative≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ".   
+  
+   Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE                                                                                                 
+   Asthenia≠B-OSE_Labeled_AE                                56               4                49                 5                  
+   Fever≠B-OSE_Labeled_AE a                                 29               1                13                 1                  
+   Headache≠B-OSE_Labeled_AE                                19               <1               8                  <1                 
+   Infusion≠B-OSE_Labeled_AE   Reaction≠I-OSE_Labeled_AE b                     15               3                2                  0                  
+   Infection≠B-OSE_Labeled_AE                               13               1                9                  1                  
+   Chills≠B-OSE_Labeled_AE a                                16               0                5                  0                  
+   Digestive≠B-NonOSE_AE                                                                                                       
+   Nausea≠B-OSE_Labeled_AE                                  49               2                37                 2                  
+   Emesis≠B-OSE_Labeled_AE                                  29               2                23                 4                  
+   Diarrhea≠B-OSE_Labeled_AE                                19               2                13                 1                  
+   Dyspepsia≠B-OSE_Labeled_AE                               14               0                9                  1                  
+   Metabolic≠B-NonOSE_AE  /≠I-NonOSE_AE  Nutritional≠I-NonOSE_AE                                                                                           
+   Weight≠B-OSE_Labeled_AE   Loss≠I-OSE_Labeled_AE                             84               11               72                 7                  
+   Dehydration≠B-OSE_Labeled_AE                             25               6                19                 8                  
+   Alanine≠B-OSE_Labeled_AE   Transaminase≠I-OSE_Labeled_AE  ,≠I-OSE_Labeled_AE   high≠I-OSE_Labeled_AE c            43               2                21                 1                  
+   Aspartate≠B-OSE_Labeled_AE   Transaminase≠I-OSE_Labeled_AE  ,≠I-OSE_Labeled_AE   high≠I-OSE_Labeled_AE c          38               1                24                 1                  
+   Alkaline≠B-OSE_Labeled_AE   Phosphatase≠I-OSE_Labeled_AE  ,≠I-OSE_Labeled_AE   high≠I-OSE_Labeled_AE c            33               <1               24                 0                  
+   Respiratory≠B-NonOSE_AE                                                                                                     
+   Pharyngitis≠B-OSE_Labeled_AE                             26               3                19                 4                  
+   Skin≠B-NonOSE_AE  /≠I-NonOSE_AE  Appendages≠I-NonOSE_AE                                                                                                 
+   Acneiform≠B-OSE_Labeled_AE   Rash≠I-OSE_Labeled_AE d                        87               17               10                 1                  
+   Radiation≠B-OSE_Labeled_AE   Dermatitis≠I-OSE_Labeled_AE                    86               23               90                 18                 
+   Application≠B-OSE_Labeled_AE   Site≠I-OSE_Labeled_AE   Reaction≠I-OSE_Labeled_AE               18               0                12                 1                  
+   Pruritus≠B-OSE_Labeled_AE                                16               0                4                  0                  
+           The incidence and severity of  mucositis≠B-OSE_Labeled_AE ,  stomatitis≠B-OSE_Labeled_AE , and  xerostomia≠B-OSE_Labeled_AE  were similar in both arms of the study.
+ 
+
+     Late Radiation Toxicity  
+
+  The overall incidence of  late≠B-OSE_Labeled_AE   radiation≠I-OSE_Labeled_AE   toxicities≠I-OSE_Labeled_AE  (any grade) was higher in Erbitux in combination with radiation therapy compared with radiation therapy alone. The following sites were affected: salivary glands (65% versus 56%), larynx (52% versus 36%), subcutaneous tissue (49% versus 45%), mucous membrane (48% versus 39%), esophagus (44% versus 35%), skin (42% versus 33%). The incidence of Grade 3 or 4  late≠B-NonOSE_AE   radiation≠I-NonOSE_AE   toxicities≠I-NonOSE_AE  was similar between the radiation therapy alone and the Erbitux plus radiation treatment groups.
+
+     Study 2: EU-Approved Cetuximab in Combination with Platinum-based Therapy with 5-Fluorouracil  
+
+  Study 2 used EU-approved cetuximab. Since U.S.-licensed Erbitux provides approximately 22% higher exposure relative to the EU-approved cetuximab, the data provided below may underestimate the incidence and severity of adverse reactions anticipated with Erbitux for this indication. However, the tolerability of the recommended dose is supported by safety data from additional studies of Erbitux [see    Clinical Pharmacology (12.3)    ].
+
+   Table 3  contains selected adverse reactions in 434 patients with recurrent locoregional disease or metastatic  SCCHN≠B-Not_AE_Candidate  receiving EU-approved cetuximab in combination with platinum-based therapy with 5-FU or platinum-based therapy with 5-FU alone in Study 2. Cetuximab was administered at 400 mg/m  2  for the initial dose, followed by 250 mg/m  2  weekly. Patients received a median of 17 infusions (range 1-89).
+
+ Table 3: Incidence of Selected Adverse Reactions (>=10%) in Patients with Recurrent Locoregional Disease or Metastatic SCCHN 
+   System Organ Class  Preferred Term                 EU-Approved Cetuximab    plus Platinum-based Therapy    with 5-FU    (n=219)      Platinum-based Therapy    with 5-FU Alone(n=215)     
+   Grades    1-4                                      Grades    3 and 4      Grades    1-4      Grades    3 and 4     
+   % of Patients                                     
+  
+   a     Infusion≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE  defined as any event of " anaphylactic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ", " hypersensitivity≠B-OSE_Labeled_AE ", " fever≠B-OSE_Labeled_AE  and/or  chills≠B-OSE_Labeled_AE ", " dyspnea≠B-OSE_Labeled_AE ", or " pyrexia≠B-OSE_Labeled_AE " on the first day of dosing.  b     Infection≠B-OSE_Labeled_AE  - this term excludes  sepsis≠B-NonOSE_AE  -≠I-NonOSE_AE  related≠I-NonOSE_AE  events which are presented separately.  c     Acneiform≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE  defined as any event described as " acne≠B-OSE_Labeled_AE ", " dermatitis≠B-OSE_Labeled_AE   acneiform≠I-OSE_Labeled_AE ", " dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE ", " exfoliative≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   erythematous≠I-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   macular≠I-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   papular≠I-OSE_Labeled_AE ", or " rash≠B-OSE_Labeled_AE   pustular≠I-OSE_Labeled_AE ".Chemotherapy = cisplatin + 5-fluorouracil or carboplatin + 5-fluorouracil   
+  
+   Eye≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                                   
+   Conjunctivitis≠B-OSE_Labeled_AE                                      10              0               0             0             
+   Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                      
+   Nausea≠B-OSE_Labeled_AE                                              54              4               47            4             
+   Diarrhea≠B-OSE_Labeled_AE                                            26              5               16            1             
+   General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   Administration≠I-NonOSE_AE   Site≠I-NonOSE_AE   Conditions≠I-NonOSE_AE                                                                 
+   Pyrexia≠B-OSE_Labeled_AE                                             22              0               13            1             
+   Infusion≠B-OSE_Labeled_AE   Reactiona≠I-OSE_Labeled_AE                                  10              2               <1            0             
+   Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE                                                                                     
+   Infection≠B-OSE_Labeled_AE b                                         44              11              27            8             
+   Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                              
+   Anorexia≠B-OSE_Labeled_AE                                            25              5               14            1             
+   Hypocalcemia≠B-OSE_Labeled_AE                                        12              4               5             1             
+   Hypokalemia≠B-OSE_Labeled_AE                                         12              7               7             5             
+   Hypomagnesemia≠B-OSE_Labeled_AE                                      11              5               5             1             
+   Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                          
+   Acneiform≠B-OSE_Labeled_AE   Rash≠I-OSE_Labeled_AE c                                    70              9               2             0             
+   Rash≠B-OSE_Labeled_AE                                                28              5               2             0             
+   Acne≠B-OSE_Labeled_AE                                                22              2               0             0             
+   Dermatitis≠B-OSE_Labeled_AE   Acneiform≠I-OSE_Labeled_AE                                15              2               0             0             
+   Dry≠B-OSE_Labeled_AE   Skin≠I-OSE_Labeled_AE                                            14              0               <1            0             
+   Alopecia≠B-OSE_Labeled_AE                                            12              0               7             0             
+           For  cardiac≠B-NonOSE_AE   disorders≠I-NonOSE_AE , approximately 9% of subjects in both the EU-approved cetuximab plus chemotherapy and chemotherapy-only treatment arms in Study 2 experienced a  cardiac≠B-OSE_Labeled_AE   event≠I-OSE_Labeled_AE . The majority of these events occurred in patients who received cisplatin/5-FU, with or without cetuximab as follows: 11% and 12% in patients who received cisplatin/5-FU with or without cetuximab, respectively, and 6% or 4% in patients who received carboplatin/5-FU with or without cetuximab, respectively. In both arms, the incidence of  cardiovascular≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  was higher in the cisplatin with 5-FU containing subgroup.  Death≠B-NonOSE_AE  attributed to  cardiovascular≠B-NonOSE_AE   event≠I-NonOSE_AE  or  sudden≠B-NonOSE_AE   death≠I-NonOSE_AE  was reported in 3% of the patients in the cetuximab plus platinum-based therapy with 5-FU arm and 2% in the platinum-based chemotherapy with 5-FU alone arm.
+ 
+
+     Colorectal Cancer  
+
+    Study 4: EU-Approved Cetuximab in Combination with FOLFIRI  
+
+  Study 4 used EU-approved cetuximab. U.S.-licensed Erbitux provides approximately 22% higher exposure to cetuximab relative to the EU-approved cetuximab. The data provided below for Study 4 is consistent in incidence and severity of adverse reactions with those seen for Erbitux in this indication. The tolerability of the recommended dose is supported by safety data from additional studies of Erbitux [see    Clinical Pharmacology (12.3)    ].
+
+   Table 4  contains selected adverse reactions in 667 patients with  K-Ras  wild-type, EGFR-expressing,  metastatic≠B-Not_AE_Candidate   colorectal≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  receiving EU-approved cetuximab plus FOLFIRI or FOLFIRI alone in Study 4 [see    Warnings and Precautions (5.8)    ]. Cetuximab was administered at the recommended dose and schedule (400 mg/m  2  initial dose, followed by 250 mg/m  2  weekly). Patients received a median of 26 infusions (range 1-224).
+
+ Table 4: Incidence of Selected Adverse Reactions Occurring in >=10% of Patients with K-Ras Wild-type and EGFR-expressing, Metastatic Colorectal Cancera 
+   Body System  Preferred Term                         EU-Approved Cetuximab    plus FOLFIRI    (n=317)      FOLFIRI Alone(n=350)     
+   Grades    1-4  b                                    Grades    3 and 4      Grades    1-4      Grades    3 and 4     
+   % of Patients                                      
+  
+   a    Adverse reactions occurring in at least 10% of Erbitux combination arm with a frequency at least 5% greater than that seen in the FOLFIRI arm.  b    Adverse reactions were graded using the NCI CTC, V 2.0.  c     Infusion≠B-OSE_Labeled_AE   related≠I-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE  is defined as any event meeting the medical concepts of  allergy≠B-OSE_Labeled_AE / anaphylaxis≠B-OSE_Labeled_AE  at any time during the clinical study or any event occurring on the first day of dosing and meeting the medical concepts of  dyspnea≠B-OSE_Labeled_AE  and  fever≠B-OSE_Labeled_AE  or by the following events using MedDRA preferred terms: " acute≠B-OSE_Labeled_AE   myocardial≠I-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE ", " angina≠B-OSE_Labeled_AE   pectoris≠I-OSE_Labeled_AE ", " angioedema≠B-OSE_Labeled_AE ", " autonomic≠B-OSE_Labeled_AE   seizure≠I-OSE_Labeled_AE ", " blood≠B-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ", " blood≠B-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ", " blood≠B-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ", " cardiac≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ", " cardiopulmonary≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ", " cardiovascular≠B-OSE_Labeled_AE   insufficiency≠I-OSE_Labeled_AE ", " clonus≠B-OSE_Labeled_AE ", " convulsion≠B-OSE_Labeled_AE ", " coronary≠B-OSE_Labeled_AE   no≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  reflow≠I-OSE_Labeled_AE   phenomenon≠I-OSE_Labeled_AE ", "epilepsy", " hypertension≠B-OSE_Labeled_AE ", " hypertensive≠B-OSE_Labeled_AE   crisis≠I-OSE_Labeled_AE ", " hypertensive≠B-OSE_Labeled_AE   emergency≠I-OSE_Labeled_AE ", " hypotension≠B-OSE_Labeled_AE ", " infusion≠B-OSE_Labeled_AE   related≠I-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ", " loss≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   consciousness≠I-OSE_Labeled_AE ", " myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE ", " myocardial≠B-OSE_Labeled_AE   ischaemia≠I-OSE_Labeled_AE ",  "≠B-OSE_Labeled_AE  prinzmetal≠I-OSE_Labeled_AE   angina≠I-OSE_Labeled_AE  "≠I-OSE_Labeled_AE , " shock≠B-OSE_Labeled_AE ", " sudden≠B-OSE_Labeled_AE   death≠I-OSE_Labeled_AE ", " syncope≠B-OSE_Labeled_AE ", or " systolic≠B-OSE_Labeled_AE   hypertension≠I-OSE_Labeled_AE ".  d     Acne≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  like≠I-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE  is defined by the events using MedDRA preferred terms and included " acne≠B-OSE_Labeled_AE ", " acne≠B-OSE_Labeled_AE   pustular≠I-OSE_Labeled_AE ", " butterfly≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE ", " dermatitis≠B-OSE_Labeled_AE   acneiform≠I-OSE_Labeled_AE ", " drug≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   eosinophilia≠I-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   systemic≠I-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE ", " dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE ", " erythema≠B-OSE_Labeled_AE ", " exfoliative≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE ", " folliculitis≠B-OSE_Labeled_AE ", " genital≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE ", " mucocutaneous≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE ", " pruritus≠B-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   erythematous≠I-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   follicular≠I-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   generalized≠I-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   macular≠I-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   maculopapular≠I-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   maculovesicular≠I-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   morbilliform≠I-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   papular≠I-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   papulosquamous≠I-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   pruritic≠I-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   pustular≠I-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   rubelliform≠I-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   scarlatiniform≠I-OSE_Labeled_AE ", " rash≠B-OSE_Labeled_AE   vesicular≠I-OSE_Labeled_AE ", " skin≠B-OSE_Labeled_AE   exfoliation≠I-OSE_Labeled_AE ", " skin≠B-OSE_Labeled_AE   hyperpigmentation≠I-OSE_Labeled_AE ", " skin≠B-OSE_Labeled_AE   plaque≠I-OSE_Labeled_AE ", " telangiectasia≠B-OSE_Labeled_AE ", or " xerosis≠B-OSE_Labeled_AE ".   
+  
+   Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                             
+   Neutropenia≠B-OSE_Labeled_AE                                          49             31             42             24             
+   Eye≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                                    
+   Conjunctivitis≠B-OSE_Labeled_AE                                       18             <1             3              0              
+   Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                       
+   Diarrhea≠B-OSE_Labeled_AE                                             66             16             60             10             
+   Stomatitis≠B-OSE_Labeled_AE                                           31             3              19             1              
+   Dyspepsia≠B-OSE_Labeled_AE                                            16             0              9              0              
+   General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   Administration≠I-NonOSE_AE   Site≠I-NonOSE_AE   Conditions≠I-NonOSE_AE                                                                 
+   Infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   Reaction≠I-OSE_Labeled_AE c                          14             2              <1             0              
+   Pyrexia≠B-OSE_Labeled_AE                                              26             1              14             1              
+   Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE                                                                                      
+   Paronychia≠B-OSE_Labeled_AE                                           20             4              <1             0              
+   Investigations≠B-NonOSE_AE                                                                                                   
+   Weight≠B-OSE_Labeled_AE   Decreased≠I-OSE_Labeled_AE                                     15             1              9              1              
+   Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                               
+   Anorexia≠B-OSE_Labeled_AE                                             30             3              23             2              
+   Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                           
+   Acne≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  like≠I-OSE_Labeled_AE   Rash≠I-OSE_Labeled_AE d                                     86             18             13             <1             
+      Rash≠B-OSE_Labeled_AE                                              44             9              4              0              
+      Dermatitis≠B-OSE_Labeled_AE   Acneiform≠I-OSE_Labeled_AE                              26             5              <1             0              
+      Dry≠B-OSE_Labeled_AE   Skin≠I-OSE_Labeled_AE                                          22             0              4              0              
+      Acne≠B-OSE_Labeled_AE                                              14             2              0              0              
+      Pruritus≠B-OSE_Labeled_AE                                          14             0              3              0              
+   Palmar≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  plantar≠I-OSE_Labeled_AE   Erythrodysesthesia≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE           19             4              4              <1             
+   Skin≠B-OSE_Labeled_AE   Fissures≠I-OSE_Labeled_AE                                        19             2              1              0              
+               Erbitux Monotherapy  
+     Table 5  contains selected adverse reactions in 242 patients with  K-Ras  wild-type, EGFR-expressing,  metastatic≠B-Not_AE_Candidate   colorectal≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  who received best supportive care (BSC) alone or with Erbitux in Study 5 [see    Warnings and Precautions (5.8)    ]. Erbitux was administered at the recommended dose and schedule (400 mg/m  2  initial dose, followed by 250 mg/m  2  weekly). Patients received a median of 17 infusions (range 1-51).
+
+ Table 5: Incidence of Selected Adverse Reactions Occurring in >=10% of Patients with K-Ras Wild-type, EGFR-expressing, Metastatic Colorectal Cancer Treated with Erbitux Monotherapya 
+   Body System    Preferred Term                Erbitux plus BSC    (n=118)      BSC alone    (n=124)     
+   Grades    1-4  b                             Grades    3 and 4      Grades    1-4      Grades    3 and 4     
+   % of Patients                               
+  
+   a    Adverse reactions occurring in at least 10% of Erbitux plus BSC arm with a frequency at least 5% greater than that seen in the BSC alone arm.  b    Adverse reactions were graded using the NCI CTC, V 2.0.  c     Infusion≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE  is defined as any event ( chills≠B-OSE_Labeled_AE ,  rigors≠B-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE ,  tachycardia≠B-OSE_Labeled_AE ,  bronchospasm≠B-OSE_Labeled_AE ,  chest≠B-OSE_Labeled_AE   tightness≠I-OSE_Labeled_AE ,  swelling≠B-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE ,  hypotension≠B-OSE_Labeled_AE ,  flushing≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  angioedema≠B-OSE_Labeled_AE ,  pain≠B-OSE_Labeled_AE ,  sweating≠B-OSE_Labeled_AE ,  tremors≠B-OSE_Labeled_AE ,  shaking≠B-OSE_Labeled_AE ,  drug≠B-OSE_Labeled_AE   fever≠I-OSE_Labeled_AE , or other  hypersensitivity≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ) recorded by the investigator as infusion-related.   
+  
+   Dermatology≠B-NonOSE_AE  /≠I-NonOSE_AE  Skin≠I-NonOSE_AE                                                                                              
+   Rash≠B-OSE_Labeled_AE / Desquamation≠B-OSE_Labeled_AE                             95              16              21              1               
+   Dry≠B-OSE_Labeled_AE   Skin≠I-OSE_Labeled_AE                                      57              0               15              0               
+   Pruritus≠B-OSE_Labeled_AE                                      47              2               11              0               
+   Other≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Dermatology≠I-OSE_Labeled_AE                             35              0               7               2               
+   Nail≠B-OSE_Labeled_AE   Changes≠I-OSE_Labeled_AE                                  31              0               4               0               
+   Constitutional≠B-NonOSE_AE   Symptoms≠I-NonOSE_AE                                                                                       
+   Fatigue≠B-OSE_Labeled_AE                                       91              31              79              29              
+   Fever≠B-OSE_Labeled_AE                                         25              3               16              0               
+   Infusion≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE c                          18              3               0               0               
+   Rigors≠B-OSE_Labeled_AE ,  Chills≠B-OSE_Labeled_AE                                16              1               3               0               
+   Pain≠B-OSE_Labeled_AE                                                                                                          
+   Pain≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Other≠I-OSE_Labeled_AE                                    59              18              37              10              
+   Headache≠B-OSE_Labeled_AE                                      38              2               11              0               
+   Bone≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                     15              4               8               2               
+   Pulmonary≠B-NonOSE_AE                                                                                                     
+   Dyspnea≠B-OSE_Labeled_AE                                       49              16              44              13              
+   Cough≠B-OSE_Labeled_AE                                         30              2               19              2               
+   Gastrointestinal≠B-NonOSE_AE                                                                                              
+   Nausea≠B-OSE_Labeled_AE                                        64              6               50              6               
+   Constipation≠B-OSE_Labeled_AE                                  53              3               38              3               
+   Diarrhea≠B-OSE_Labeled_AE                                      42              2               23              2               
+   Vomiting≠B-OSE_Labeled_AE                                      40              5               26              5               
+   Stomatitis≠B-OSE_Labeled_AE                                    32              1               10              0               
+   Other≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Gastrointestinal≠I-OSE_Labeled_AE                        22              12              16              5               
+   Dehydration≠B-OSE_Labeled_AE                                   13              5               3               0               
+   Mouth≠B-OSE_Labeled_AE   Dryness≠I-OSE_Labeled_AE                                 12              0               6               0               
+   Taste≠B-OSE_Labeled_AE   Disturbance≠I-OSE_Labeled_AE                             10              0               5               0               
+   Infection≠B-NonOSE_AE                                                                                                     
+   Infection≠B-OSE_Labeled_AE   without≠I-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE                 38              11              19              5               
+   Musculoskeletal≠B-NonOSE_AE                                                                                               
+   Arthralgia≠B-OSE_Labeled_AE                                    14              3               6               0               
+   Neurology≠B-NonOSE_AE                                                                                                     
+   Neuropathy≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  sensory≠I-OSE_Labeled_AE                            45              1               38              2               
+   Insomnia≠B-OSE_Labeled_AE                                      27              0               13              0               
+   Confusion≠B-OSE_Labeled_AE                                     18              6               10              2               
+   Anxiety≠B-OSE_Labeled_AE                                       14              1               5               1               
+   Depression≠B-OSE_Labeled_AE                                    14              0               5               0               
+               Erbitux in Combination with Irinotecan  
+   The most frequently reported adverse reactions in 354 patients treated with Erbitux plus irinotecan in clinical trials were  acneiform≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE  (88%),  asthenia≠B-OSE_Labeled_AE / malaise≠B-OSE_Labeled_AE  (73%),  diarrhea≠B-OSE_Labeled_AE  (72%), and  nausea≠B-OSE_Labeled_AE  (55%). The most common Grades 3-4 adverse reactions included  diarrhea≠B-OSE_Labeled_AE  (22%),  leukopenia≠B-OSE_Labeled_AE  (17%),  asthenia≠B-OSE_Labeled_AE / malaise≠B-OSE_Labeled_AE  (16%), and  acneiform≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE  (14%).
+
+   6.2 Immunogenicity
+
+  As with all therapeutic proteins, there is potential for  immunogenicity≠B-OSE_Labeled_AE . An ELISA methodology was used to characterize the incidence of  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  cetuximab≠I-NonOSE_AE   antibodies≠I-NonOSE_AE . In total, 105 Erbitux-treated patients with at least one post-baseline blood sample (>=4 weeks post first administration) were assessed for the development of  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  cetuximab≠I-NonOSE_AE   binding≠I-NonOSE_AE   antibodies≠I-NonOSE_AE  and the incidence of treatment-emergent  anti≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  cetuximab≠I-OSE_Labeled_AE   binding≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE  was <5%.
+
+ The incidence of  antibody≠B-NonOSE_AE   formation≠I-NonOSE_AE  is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of  antibody≠B-NonOSE_AE  (including neutralizing a ntibody≠B-NonOSE_AE  )≠I-NonOSE_AE    positivity≠I-NonOSE_AE  ≠≠I-NonOSE_AE I-NonOSE_AE  in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   Erbitux≠I-NonOSE_AE  with the  incidence≠B-NonOSE_AE   of≠I-NonOSE_AE   antibodies≠I-NonOSE_AE   to≠I-NonOSE_AE   other≠I-NonOSE_AE   products≠I-NonOSE_AE  may be misleading.
+
+   6.3 Postmarketing Experience
+
+  The following adverse reactions have been identified during post-approval use of Erbitux. Because these reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+ *     Aseptic≠B-OSE_Labeled_AE   meningitis≠I-OSE_Labeled_AE  
+ *     Mucosal≠B-OSE_Labeled_AE   inflammation≠I-OSE_Labeled_AE  
+ *     Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE , life-threatening and  fatal≠B-NonOSE_AE   bullous≠B-OSE_Labeled_AE   mucocutaneous≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE  
+

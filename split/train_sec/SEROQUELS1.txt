@@ -1,0 +1,396 @@
+  6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in more detail in other sections of the labeling:
+
+ *    Increased  mortality≠B-NonOSE_AE  in elderly patients with  dementia≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  related≠I-Not_AE_Candidate   psychosis≠I-Not_AE_Candidate  [see  Warnings and Precautions (5.1)  ]  
+ *     Suicidal≠B-OSE_Labeled_AE  thoughts and  behaviors≠I-OSE_Labeled_AE  in adolescents and young adults [see  Warnings and Precautions (5.2)  ]  
+ *     Cerebrovascular≠B-NonOSE_AE   adverse≠I-NonOSE_AE   reactions≠I-NonOSE_AE , including  stroke≠B-NonOSE_AE  in elderly patients with  dementia≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  related≠I-Not_AE_Candidate   psychosis≠I-Not_AE_Candidate  [see  Warnings and Precautions 5.3  ]  
+ *     Neuroleptic≠B-OSE_Labeled_AE   Malignant≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  NMS≠I-OSE_Labeled_AE ) [see  Warnings and Precautions 5.4  ]  
+ *     Metabolic≠B-OSE_Labeled_AE   changes≠I-OSE_Labeled_AE  ( hyperglycemia≠B-OSE_Labeled_AE ,  dyslipidemia≠B-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE ) [see  Warnings and Precautions 5.  5]  
+ *     Tardive≠B-OSE_Labeled_AE   dyskinesia≠I-OSE_Labeled_AE  [see  Warnings and Precautions 5.6  ]  
+ *     Hypotension≠B-OSE_Labeled_AE  [see  Warnings and Precautions 5.7  ]  
+ *     Falls≠B-NonOSE_AE  [see  Warnings and Precautions 5.8  ]  
+ *     Increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE  (children and adolescents) [see  Warnings and Precautions 5.9  ]  
+ *     Leukopenia≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE  and  agranulocytosis≠B-OSE_Labeled_AE  [see    Warnings and Precautions 5.10    ]  
+ *     Cataracts≠B-NonOSE_AE  [see  Warnings and Precautions 5.11  ]  
+ *     QT≠B-NonOSE_AE   Prolongation≠I-NonOSE_AE  [see  Warnings and Precautions 5.12  ]  
+ *     Seizures≠B-OSE_Labeled_AE  [see  Warnings and Precautions 5.13  ]  
+ *     Hypothyroidism≠B-OSE_Labeled_AE  [see  Warnings and Precautions 5.14  ]  
+ *     Hyperprolactinemia≠B-OSE_Labeled_AE  [see  Warnings and Precautions 5.15  ]  
+ *    Potential for  cognitive≠B-OSE_Labeled_AE  and motor  impairment≠I-OSE_Labeled_AE  [see  Warnings and Precautions 5.16  ]  
+ *     Body≠B-NonOSE_AE   temperature≠I-NonOSE_AE   regulation≠I-NonOSE_AE  [see  Warnings and Precautions 5.17  ]  
+ *     Dysphagia≠B-OSE_Labeled_AE  [see  Warnings and Precautions 5.18  ]  
+ *     Discontinuation≠B-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  [see  Warnings and Precautions 5.19  ]  
+      EXCERPT:   Most common adverse reactions (incidence >=5% and twice placebo):
+ 
+
+ Adults: somnolence, dry mouth, dizziness, constipation, asthenia, abdominal pain, postural hypotension, pharyngitis, weight gain, lethargy, ALT increased, dyspepsia (  6.1  )
+
+ Children and Adolescents: somnolence, dizziness, fatigue, increased appetite, nausea, vomiting, dry mouth, tachycardia, weight increased (  6.1  )
+
+   To report SUSPECTED ADVERSE REACTIONS, contact AstraZeneca at 1-800-236-9933 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+
+ 
+
+  6.1 Clinical Study Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+   Adults:  
+
+ The information below is derived from a clinical trial database for SEROQUEL consisting of over 4300 patients. This database includes 698 patients exposed to SEROQUEL for the treatment of  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate , 405 patients exposed to SEROQUEL for the treatment of acute  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  (monotherapy and adjunct therapy), 646 patients exposed to SEROQUEL for the maintenance treatment of  bipolar≠B-Not_AE_Candidate   I≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate  as adjunct therapy, and approximately 2600 patients and/or normal subjects exposed to 1 or more doses of SEROQUEL for the treatment of  schizophrenia≠B-Not_AE_Candidate .
+
+ Of these approximately 4300 subjects, approximately 4000 (2300 in  schizophrenia≠B-Not_AE_Candidate , 405 in acute  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate , 698 in  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate , and 646 for the maintenance treatment of  bipolar≠B-Not_AE_Candidate   I≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate ) were patients who participated in multiple dose effectiveness trials, and their experience corresponded to approximately 2400 patient-years. The conditions and duration of treatment with SEROQUEL varied greatly and included (in overlapping categories) open-label and double-blind phases of studies, inpatients and outpatients, fixed-dose and dose-titration studies, and short-term or longer-term exposure. Adverse reactions were assessed by collecting adverse events, results of physical examinations, vital signs, weights, laboratory analyses, ECGs, and results of ophthalmologic examinations.
+
+ The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
+
+ Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials
+
+    Schizophrenia≠B-Not_AE_Candidate :  Overall, there was little difference in the incidence of discontinuation due to adverse reactions (4% for SEROQUEL vs. 3% for placebo) in a pool of controlled trials. However, discontinuations due to  somnolence≠B-OSE_Labeled_AE  (0.8% SEROQUEL vs. 0% placebo) and  hypotension≠B-OSE_Labeled_AE  (0.4% SEROQUEL vs. 0% placebo) were considered to be drug related  [see Warnings and Precautions (  5.7  and  5.19  )].  
+
+    Bipolar≠B-Not_AE_Candidate   Disorder≠I-Not_AE_Candidate :  
+
+    Mania≠B-Not_AE_Candidate :  Overall, discontinuations due to adverse reactions were 5.7% for SEROQUEL vs. 5.1% for placebo in monotherapy and 3.6% for SEROQUEL vs. 5.9% for placebo in adjunct therapy.
+
+    Depression≠B-Not_AE_Candidate :  Overall, discontinuations due to adverse reactions were 12.3% for SEROQUEL 300 mg vs. 19.0% for SEROQUEL 600 mg and 5.2% for placebo.
+
+   Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials:  
+
+ In the acute therapy of  schizophrenia≠B-Not_AE_Candidate  (up to 6 weeks) and bipolar mania (up to 12 weeks) trials, the most commonly observed adverse reactions associated with the use of SEROQUEL monotherapy (incidence of 5% or greater) and observed at a rate on SEROQUEL at least twice that of placebo were  somnolence≠B-OSE_Labeled_AE  (18%),  dizziness≠B-OSE_Labeled_AE  (11%),  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE  (9%),  constipation≠B-OSE_Labeled_AE  (8%),  ALT≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  (5%),  weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE  (5%), and  dyspepsia≠B-OSE_Labeled_AE  (5%).
+
+   Adverse Reactions Occurring at an Incidence of 2% or More Among SEROQUEL Treated Patients in Short-Term, Placebo-Controlled Trials:  
+
+ The prescriber should be aware that the figures in the tables and tabulations cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials. Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators. The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence in the population studied.
+
+ Table 9 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy of  schizophrenia≠B-Not_AE_Candidate  (up to 6 weeks) and  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  (up to 12 weeks) in 2% or more of patients treated with SEROQUEL (doses ranging from 75 to 800 mg/day) where the incidence in patients treated with SEROQUEL was greater than the incidence in placebo-treated patients.
+
+ Table 9: Adverse Reaction Incidence in 3- to 12-Week Placebo-Controlled Clinical Trials for the Treatment of Schizophrenia and Bipolar Mania (Monotherapy) 
+  Preferred Term          SEROQUEL (n=719)         PLACEBO (n=404)         
+   Headache≠B-OSE_Labeled_AE                 21%                      14%                     
+   Agitation≠B-OSE_Labeled_AE                20%                      17%                     
+   Somnolence≠B-OSE_Labeled_AE               18%                      8%                      
+   Dizziness≠B-OSE_Labeled_AE                11%                      5%                      
+   Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE                9%                       3%                      
+   Constipation≠B-OSE_Labeled_AE             8%                       3%                      
+   Pain≠B-OSE_Labeled_AE                     7%                       5%                      
+   Tachycardia≠B-OSE_Labeled_AE              6%                       4%                      
+   Vomiting≠B-OSE_Labeled_AE                 6%                       5%                      
+   Asthenia≠B-OSE_Labeled_AE                 5%                       3%                      
+   Dyspepsia≠B-OSE_Labeled_AE                5%                       1%                      
+   Weight≠B-OSE_Labeled_AE   Gain≠I-OSE_Labeled_AE              5%                       1%                      
+   ALT≠B-OSE_Labeled_AE   Increased≠I-OSE_Labeled_AE            5%                       1%                      
+   Anxiety≠B-OSE_Labeled_AE                  4%                       3%                      
+   Pharyngitis≠B-OSE_Labeled_AE              4%                       3%                      
+   Rash≠B-OSE_Labeled_AE                     4%                       2%                      
+   Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE           4%                       1%                      
+   Postural≠B-OSE_Labeled_AE   Hypotension≠I-OSE_Labeled_AE     4%                       1%                      
+   Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                3%                       1%                      
+   AST≠B-OSE_Labeled_AE   Increased≠I-OSE_Labeled_AE            3%                       1%                      
+   Rhinitis≠B-OSE_Labeled_AE                 3%                       1%                      
+   Fever≠B-OSE_Labeled_AE                    2%                       1%                      
+   Gastroenteritis≠B-OSE_Labeled_AE          2%                       0%                      
+   Amblyopia≠B-OSE_Labeled_AE                2%                       1%                      
+         In the acute adjunct therapy of  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  (up to 3 weeks) studies, the most commonly observed adverse reactions associated with the use of SEROQUEL (incidence of 5% or greater) and observed at a rate on SEROQUEL at least twice that of placebo were  somnolence≠B-OSE_Labeled_AE  (34%),  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE  (19%),  asthenia≠B-OSE_Labeled_AE  (10%),  constipation≠B-OSE_Labeled_AE  (10%),  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (7%),  postural≠B-OSE_Labeled_AE   hypotension≠I-OSE_Labeled_AE  (7%),  pharyngitis≠B-OSE_Labeled_AE  (6%), and  weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE  (6%).
+ 
+
+ Table 10 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during therapy (up to 3 weeks) of  acute≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  in 2% or more of patients treated with SEROQUEL (doses ranging from 100 to 800 mg/day) used as adjunct therapy to lithium and divalproex where the incidence in patients treated with SEROQUEL was greater than the incidence in placebo-treated patients.
+
+ Table 10: Adverse Reaction Incidence in 3-Week Placebo-Controlled Clinical Trials for the Treatment of Bipolar Mania (Adjunct Therapy) 
+  Preferred Term            SEROQUEL  (n=196)    PLACEBO  (n=203)    
+   Somnolence≠B-OSE_Labeled_AE                 34%              9%             
+   Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE                  19%              3%             
+   Headache≠B-OSE_Labeled_AE                   17%              13%            
+   Asthenia≠B-OSE_Labeled_AE                   10%              4%             
+   Constipation≠B-OSE_Labeled_AE               10%              5%             
+   Dizziness≠B-OSE_Labeled_AE                  9%               6%             
+   Tremor≠B-OSE_Labeled_AE                     8%               7%             
+   Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE             7%               3%             
+   Postural≠B-OSE_Labeled_AE   Hypotension≠I-OSE_Labeled_AE       7%               2%             
+   Agitation≠B-OSE_Labeled_AE                  6%               4%             
+   Weight≠B-OSE_Labeled_AE   Gain≠I-OSE_Labeled_AE                6%               3%             
+   Pharyngitis≠B-OSE_Labeled_AE                6%               3%             
+   Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                  5%               3%             
+   Hypertonia≠B-OSE_Labeled_AE                 4%               3%             
+   Rhinitis≠B-OSE_Labeled_AE                   4%               2%             
+   Peripheral≠B-OSE_Labeled_AE   Edema≠I-OSE_Labeled_AE           4%               2%             
+   Twitching≠B-OSE_Labeled_AE                  4%               1%             
+   Dyspepsia≠B-OSE_Labeled_AE                  4%               3%             
+   Depression≠B-OSE_Labeled_AE                 3%               2%             
+   Amblyopia≠B-OSE_Labeled_AE                  3%               2%             
+   Speech≠B-OSE_Labeled_AE   Disorder≠I-OSE_Labeled_AE            3%               1%             
+   Hypotension≠B-OSE_Labeled_AE                3%               1%             
+   Hormone≠B-OSE_Labeled_AE   Level≠I-OSE_Labeled_AE   Altered≠I-OSE_Labeled_AE      3%               0%             
+   Heaviness≠B-OSE_Labeled_AE                  2%               1%             
+   Infection≠B-OSE_Labeled_AE                  2%               1%             
+   Fever≠B-OSE_Labeled_AE                      2%               1%             
+   Hypertension≠B-OSE_Labeled_AE               2%               1%             
+   Tachycardia≠B-OSE_Labeled_AE                2%               1%             
+   Increased≠B-OSE_Labeled_AE   Appetite≠I-OSE_Labeled_AE         2%               1%             
+   Hypothyroidism≠B-OSE_Labeled_AE             2%               1%             
+   Incoordination≠B-OSE_Labeled_AE             2%               1%             
+   Thinking≠B-OSE_Labeled_AE   Abnormal≠I-OSE_Labeled_AE          2%               0%             
+   Anxiety≠B-OSE_Labeled_AE                    2%               0%             
+   Ataxia≠B-OSE_Labeled_AE                     2%               0%             
+   Sinusitis≠B-OSE_Labeled_AE                  2%               1%             
+   Sweating≠B-OSE_Labeled_AE                   2%               1%             
+   Urinary≠B-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE     2%               1%             
+         In  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate  studies (up to 8 weeks), the most commonly observed treatment emergent adverse reactions associated with the use of SEROQUEL (incidence of 5% or greater) and observed at a rate on SEROQUEL at least twice that of placebo were  somnolence≠B-OSE_Labeled_AE  (57%),  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE  (44%),  dizziness≠B-OSE_Labeled_AE  (18%),  constipation≠B-OSE_Labeled_AE  (10%), and  lethargy≠B-OSE_Labeled_AE  (5%).
+ 
+
+ Table 11 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during therapy (up to 8 weeks) of  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate  in 2% or more of patients treated with SEROQUEL (doses of 300 and 600 mg/day) where the incidence in patients treated with SEROQUEL was greater than the incidence in placebo-treated patients.
+
+ Table 11: Adverse Reaction Incidence in 8-Week Placebo-Controlled Clinical Trials for the Treatment of Bipolar Depression 
+                                     Preferred Term                   
+                                                                        SEROQUEL  (n=698)    PLACEBO  (n=347)    
+   Somnolence≠B-OSE_Labeled_AE Somnolence combines adverse reaction terms  somnolence≠B-OSE_Labeled_AE  and  sedation≠B-OSE_Labeled_AE     57%              15%            
+   Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE                           44%              13%            
+   Dizziness≠B-OSE_Labeled_AE                           18%              7%             
+   Constipation≠B-OSE_Labeled_AE                        10%              4%             
+   Fatigue≠B-OSE_Labeled_AE                             10%              8%             
+   Dyspepsia≠B-OSE_Labeled_AE                           7%               4%             
+   Vomiting≠B-OSE_Labeled_AE                            5%               4%             
+   Increased≠B-OSE_Labeled_AE   Appetite≠I-OSE_Labeled_AE                  5%               3%             
+   Lethargy≠B-OSE_Labeled_AE                            5%               2%             
+   Nasal≠B-OSE_Labeled_AE   Congestion≠I-OSE_Labeled_AE                    5%               3%             
+   Orthostatic≠B-OSE_Labeled_AE   Hypotension≠I-OSE_Labeled_AE             4%               3%             
+   Akathisia≠B-OSE_Labeled_AE                           4%               1%             
+   Palpitations≠B-OSE_Labeled_AE                        4%               1%             
+   Vision≠B-OSE_Labeled_AE   Blurred≠I-OSE_Labeled_AE                      4%               2%             
+   Weight≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE                    4%               1%             
+   Arthralgia≠B-OSE_Labeled_AE                          3%               2%             
+   Paraesthesia≠B-OSE_Labeled_AE                        3%               2%             
+   Cough≠B-OSE_Labeled_AE                               3%               1%             
+   Extrapyramidal≠B-OSE_Labeled_AE   Disorder≠I-OSE_Labeled_AE             3%               1%             
+   Irritability≠B-OSE_Labeled_AE                        3%               1%             
+   Dysarthria≠B-OSE_Labeled_AE                          3%               0%             
+   Hypersomnia≠B-OSE_Labeled_AE                         3%               0%             
+   Sinus≠B-OSE_Labeled_AE   Congestion≠I-OSE_Labeled_AE                    2%               1%             
+   Abnormal≠B-OSE_Labeled_AE   Dreams≠I-OSE_Labeled_AE                     2%               1%             
+   Tremor≠B-OSE_Labeled_AE                              2%               1%             
+   Gastroesophageal≠B-OSE_Labeled_AE   Reflux≠I-OSE_Labeled_AE   Disease≠I-OSE_Labeled_AE     2%               1%             
+   Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Extremity≠I-OSE_Labeled_AE                   2%               1%             
+   Asthenia≠B-OSE_Labeled_AE                            2%               1%             
+   Balance≠B-OSE_Labeled_AE   Disorder≠I-OSE_Labeled_AE                    2%               1%             
+   Hypoesthesia≠B-OSE_Labeled_AE                        2%               1%             
+   Dysphagia≠B-OSE_Labeled_AE                           2%               0%             
+   Restless≠B-OSE_Labeled_AE   Legs≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE              2%               0%             
+         Explorations for interactions on the basis of gender, age, and race did not reveal any clinically meaningful differences in the adverse reaction occurrence on the basis of these demographic factors.
+ 
+
+ Dose Dependency of Adverse Reactions in Short-Term, Placebo-Controlled Trials
+
+   Dose-related Adverse Reactions:  Spontaneously elicited adverse reaction data from a study of  schizophrenia≠B-Not_AE_Candidate  comparing five fixed doses of SEROQUEL (75 mg, 150 mg, 300 mg, 600 mg, and 750 mg/day) to placebo were explored for dose-relatedness of adverse reactions. Logistic regression analyses revealed a positive dose response (p<0.05) for the following adverse reactions:  dyspepsia≠B-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE , and  weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE .
+
+ Adverse Reactions in clinical trials with quetiapine and not listed elsewhere in the label:
+
+ The following adverse reactions have also been reported with quetiapine:  nightmares≠B-OSE_Labeled_AE ,  hypersensitivity≠B-OSE_Labeled_AE  and  elevations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   creatine≠I-OSE_Labeled_AE   phosphokinase≠I-OSE_Labeled_AE  (not associated with  NMS≠B-NonOSE_AE ),  galactorrhea≠B-OSE_Labeled_AE ,  bradycardia≠B-OSE_Labeled_AE  (which may occur at or near initiation of treatment and be associated with  hypotension≠B-OSE_Labeled_AE  and/ or  syncope≠B-OSE_Labeled_AE ),  decreased≠B-OSE_Labeled_AE   platelets≠I-OSE_Labeled_AE ,  somnambulism≠B-OSE_Labeled_AE  (and other related events),  elevations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   gamma≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  GT≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE ,  hypothermia≠B-OSE_Labeled_AE , and  priapism≠B-OSE_Labeled_AE .
+
+  Extrapyramidal≠B-OSE_Labeled_AE   Symptoms≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  EPS≠I-OSE_Labeled_AE ):
+
+   Dystonia  
+
+   Class Effect:  Symptoms of  dystonia≠B-OSE_Labeled_AE ,  prolonged≠B-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE   contractions≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   muscle≠I-OSE_Labeled_AE   groups≠I-OSE_Labeled_AE , may occur in susceptible individuals during the first few days of treatment.  Dystonic≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  include:  spasm≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   neck≠I-NonOSE_AE   muscles≠I-NonOSE_AE , sometimes progressing to  tightness≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   throat≠I-NonOSE_AE ,  swallowing≠B-NonOSE_AE   difficulty≠I-NonOSE_AE ,  difficulty≠B-NonOSE_AE   breathing≠I-NonOSE_AE , and/or  protrusion≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   tongue≠I-NonOSE_AE . While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs. An elevated risk of  acute≠B-NonOSE_AE   dystonia≠I-NonOSE_AE  is observed in males and younger age groups.
+
+ Four methods were used to measure  EPS≠B-NonOSE_AE : (1) Simpson-Angus total score (mean change from baseline) which evaluates  Parkinsonism≠B-NonOSE_AE  and  akathisia≠B-NonOSE_AE , (2) Barnes  Akathisia≠B-NonOSE_AE  Rating Scale (BARS) Global Assessment Score, (3) incidence of spontaneous complaints of  EPS≠B-NonOSE_AE  ( akathisia≠B-NonOSE_AE ,  akinesia≠B-NonOSE_AE ,  cogwheel≠B-NonOSE_AE   rigidity≠I-NonOSE_AE ,  extrapyramidal≠B-NonOSE_AE   syndrome≠I-NonOSE_AE ,  hypertonia≠B-NonOSE_AE ,  hypokinesia≠B-NonOSE_AE ,  neck≠B-NonOSE_AE   rigidity≠I-NonOSE_AE , and  tremor≠B-NonOSE_AE ), and (4) use of anticholinergic medications to treat emergent  EPS≠B-NonOSE_AE .
+
+   Adults:  Data from one 6-week clinical trial of  schizophrenia≠B-Not_AE_Candidate  comparing five fixed doses of SEROQUEL (75, 150, 300, 600, 750 mg/day) provided evidence for the lack of treatment-emergent  extrapyramidal≠B-NonOSE_AE   symptoms≠I-NonOSE_AE   (≠I-NonOSE_AE  EPS≠I-NonOSE_AE ) and dose-relatedness for  EPS≠B-NonOSE_AE  associated with SEROQUEL treatment. Three methods were used to measure  EPS≠B-NonOSE_AE : (1) Simpson-Angus total score (mean change from baseline) which evaluates  Parkinsonism≠B-NonOSE_AE  and  akathisia≠B-NonOSE_AE , (2) incidence of spontaneous complaints of  EPS≠B-NonOSE_AE  ( akathisia≠B-NonOSE_AE ,  akinesia≠B-NonOSE_AE ,  cogwheel≠B-NonOSE_AE   rigidity≠I-NonOSE_AE ,  extrapyramidal≠B-NonOSE_AE   syndrome≠I-NonOSE_AE ,  hypertonia≠B-NonOSE_AE ,  hypokinesia≠B-NonOSE_AE ,  neck≠B-NonOSE_AE   rigidity≠I-NonOSE_AE , and  tremor≠B-NonOSE_AE ), and (3) use of anticholinergic medications to treat emergent  EPS≠B-NonOSE_AE .
+
+ In Table 12,  dystonic≠B-NonOSE_AE   event≠I-NonOSE_AE  included  nuchal≠B-NonOSE_AE   rigidity≠I-NonOSE_AE ,  hypertonia≠B-NonOSE_AE ,  dystonia≠B-NonOSE_AE ,  muscle≠B-NonOSE_AE   rigidity≠I-NonOSE_AE ,  oculogyration≠B-NonOSE_AE ;  parkinsonism≠B-NonOSE_AE  included  cogwheel≠B-NonOSE_AE   rigidity≠I-NonOSE_AE ,  tremor≠B-NonOSE_AE ,  drooling≠B-NonOSE_AE ,  hypokinesia≠B-NonOSE_AE ;  akathisia≠B-NonOSE_AE  included  akathisia≠B-NonOSE_AE ,  psychomotor≠B-NonOSE_AE   agitation≠I-NonOSE_AE ;  dyskinetic≠B-NonOSE_AE   event≠I-NonOSE_AE  included  tardive≠B-NonOSE_AE   dyskinesia≠I-NonOSE_AE ,  dyskinesia≠B-NonOSE_AE ,  choreoathetosis≠B-NonOSE_AE ; and other  extrapyramidal≠B-NonOSE_AE   event≠I-NonOSE_AE  included  restlessness≠B-NonOSE_AE ,  extrapyramidal≠B-NonOSE_AE   disorder≠I-NonOSE_AE ,  movement≠B-NonOSE_AE   disorder≠I-NonOSE_AE .
+
+ Table 12: Adverse Reactions Associated with EPS in a Short-Term, Placebo-Controlled Multiple Fixed-Dose Phase III Schizophrenia Trial (6 weeks duration) 
+  Preferred Term            SEROQUEL  75 mg/day  (N=53)    SEROQUEL  150 mg/day  (N=48)    SEROQUEL  300 mg/day  (N=52)    SEROQUEL  600 mg/day  (N=51)    SEROQUEL  750 mg/day  (N=54)    Placebo  (N=51)    
+                            n      %         n      %         n      %         n      %         n      %         n     %      
+   Dystonic≠B-NonOSE_AE   event≠I-NonOSE_AE             2      3.8       2      4.2       0      0.0       2      3.9       3      5.6       4     7.8    
+   Parkinsonism≠B-NonOSE_AE               2      3.8       0      0.0       1      1.9       1      2.0       1      1.9       4     7.8    
+   Akathisia≠B-NonOSE_AE                  1      1.9       1      2.1       0      0.0       0      0.0       1      1.9       4     7.8    
+   Dyskinetic≠B-NonOSE_AE   event≠I-NonOSE_AE           2      3.8       0      0.0       0      0.0       1      2.0       0      0.0       0     0.0    
+  Other  extrapyramidal≠B-NonOSE_AE   event≠I-NonOSE_AE     2      3.8       0      0.0       3      5.8       3      5.9       1      1.9       4     7.8    
+                    Parkinsonism≠B-NonOSE_AE  incidence rates as measured by the Simpson-Angus total score for placebo and the five fixed doses (75, 150, 300, 600, 750 mg/day) were: -0.6; -1.0, -1.2; -1.6; -1.8 and -1.8. The rate of anticholinergic medication use to treat emergent  EPS≠B-NonOSE_AE  for placebo and the five fixed doses was: 14%; 11%; 10%; 8%; 12% and 11%.
+ 
+
+ In six additional placebo-controlled clinical trials (3 in acute  mania≠B-Not_AE_Candidate  and 3 in  schizophrenia≠B-Not_AE_Candidate ) using variable doses of SEROQUEL, there were no differences between the SEROQUEL and placebo treatment groups in the incidence of  EPS≠B-NonOSE_AE , as assessed by Simpson-Angus total scores, spontaneous complaints of  EPS≠B-NonOSE_AE  and the use of concomitant anticholinergic medications to treat  EPS≠B-NonOSE_AE .
+
+ In two placebo-controlled clinical trials for the treatment of  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate  using 300 mg and 600 mg of SEROQUEL, the incidence of adverse reactions potentially related to  EPS≠B-OSE_Labeled_AE  was 12% in both dose groups and 6% in the placebo group. In these studies, the incidence of the individual adverse reactions ( akathisia≠B-OSE_Labeled_AE ,  extrapyramidal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  dyskinesia≠B-OSE_Labeled_AE ,  dystonia≠B-OSE_Labeled_AE ,  restlessness≠B-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   contractions≠I-OSE_Labeled_AE   involuntary≠I-OSE_Labeled_AE ,  psychomotor≠B-OSE_Labeled_AE   hyperactivity≠I-OSE_Labeled_AE  and  muscle≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ) were generally low and did not exceed 4% in any treatment group.
+
+ The 3 treatment groups were similar in mean change in SAS total score and BARS Global Assessment score at the end of treatment. The use of concomitant anticholinergic medications was infrequent and similar across the three treatment groups.
+
+   Children and Adolescents  
+
+ The information below is derived from a clinical trial database for SEROQUEL consisting of over 1000 pediatric patients. This database includes 677 patients exposed to SEROQUEL for the treatment of  schizophrenia≠B-Not_AE_Candidate  and 393 children and adolescents (10-17 years old) exposed to SEROQUEL for the treatment of acute  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate .
+
+ Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials
+
+  Schizophrenia≠B-Not_AE_Candidate : The incidence of discontinuation due to adverse reactions for quetiapine-treated and placebo-treated patients was 8.2% and 2.7%, respectively. The adverse event leading to discontinuation in 1% or more of patients on SEROQUEL and at a greater incidence than placebo was  somnolence≠B-OSE_Labeled_AE  (2.7% and 0% for placebo).
+
+  Bipolar≠B-Not_AE_Candidate   I≠I-Not_AE_Candidate   Mania≠I-Not_AE_Candidate : The incidence of discontinuation due to adverse reactions for quetiapine-treated and placebo-treated patients was 11.4% and 4.4%, respectively. The adverse reactions leading to discontinuation in 2% or more of patients on SEROQUEL and at a greater incidence than placebo were  somnolence≠B-OSE_Labeled_AE  (4.1% vs. 1.1%) and  fatigue≠B-OSE_Labeled_AE  (2.1% vs. 0).
+
+ Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials
+
+ In therapy for  schizophrenia≠B-Not_AE_Candidate  (up to 6 weeks), the most commonly observed adverse reactions associated with the use of quetiapine in adolescents (incidence of 5% or greater and quetiapine incidence at least twice that for placebo) were  somnolence≠B-OSE_Labeled_AE  (34%),  dizziness≠B-OSE_Labeled_AE  (12%),  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE  (7%),  tachycardia≠B-OSE_Labeled_AE  (7%).
+
+ In  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  therapy (up to 3 weeks) the most commonly observed adverse reactions associated with the use of quetiapine in children and adolescents (incidence of 5% or greater and quetiapine incidence at least twice that for placebo) were  somnolence≠B-OSE_Labeled_AE  (53%),  dizziness≠B-OSE_Labeled_AE  (18%),  fatigue≠B-OSE_Labeled_AE  (11%),  increased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE  (9%),  nausea≠B-OSE_Labeled_AE  (8%),  vomiting≠B-OSE_Labeled_AE  (8%),  tachycardia≠B-OSE_Labeled_AE  (7%),  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE  (7%), and  weight≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  (6%).
+
+ In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate , in which efficacy was not established, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater and at least twice that for placebo) were  dizziness≠B-OSE_Labeled_AE  (7%),  diarrhea≠B-OSE_Labeled_AE  (5%),  fatigue≠B-OSE_Labeled_AE  (5%) and  nausea≠B-OSE_Labeled_AE  (5%).
+
+   Adverse Reactions Occurring at an Incidence of >= 2% among SEROQUEL Treated Patients in Short-Term, Placebo-Controlled Trials  
+
+    Schizophrenia≠B-Not_AE_Candidate  (Adolescents, 13- 17 years old)  
+
+ The following findings were based on a 6-week placebo-controlled trial in which quetiapine was administered in either doses of 400 or 800 mg/day.
+
+ Table 13 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during therapy (up to 6 weeks) of  schizophrenia≠B-Not_AE_Candidate  in 2% or more of patients treated with SEROQUEL (doses of 400 or 800 mg/day) where the incidence in patients treated with SEROQUEL was at least twice the incidence in placebo-treated patients.
+
+ Adverse events that were potentially dose-related with higher frequency in the 800 mg group compared to the 400 mg group included  dizziness≠B-OSE_Labeled_AE  (8% vs. 15%),  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE  (4% vs. 10%), and  tachycardia≠B-OSE_Labeled_AE  (6% vs. 11%).
+
+ Table 13: Adverse Reaction Incidence in a 6-Week Placebo-Controlled Clinical Trial for the Treatment of Schizophrenia in Adolescent Patients 
+  Preferred Term      SEROQUEL 400 mg  (n=73)    SEROQUEL800 mg  (n=74)    Placebo  (n=75)    
+   Somnolence≠B-OSE_Labeled_AE Somnolence combines adverse reaction terms  somnolence≠B-OSE_Labeled_AE  and  sedation≠B-OSE_Labeled_AE .    33%                      35%              11%         
+   Dizziness≠B-OSE_Labeled_AE            8%                       15%              5%          
+   Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE            4%                       10%              1%          
+   Tachycardia≠B-OSE_Labeled_AE Tachycardia combines adverse reaction terms  tachycardia≠B-OSE_Labeled_AE  and  sinus≠B-OSE_Labeled_AE   tachycardia≠I-OSE_Labeled_AE .    6%                       11%              0%          
+   Irritability≠B-OSE_Labeled_AE         3%                       5%               0%          
+   Arthralgia≠B-OSE_Labeled_AE           1%                       3%               0%          
+   Asthenia≠B-OSE_Labeled_AE             1%                       3%               1%          
+   Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE            1%                       3%               0%          
+   Dyspnea≠B-OSE_Labeled_AE              0%                       3%               0%          
+   Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE       3%                       1%               0%          
+   Anorexia≠B-OSE_Labeled_AE             3%                       1%               0%          
+   Tooth≠B-OSE_Labeled_AE   Abscess≠I-OSE_Labeled_AE        3%                       1%               0%          
+   Dyskinesia≠B-OSE_Labeled_AE           3%                       0%               0%          
+   Epistaxis≠B-OSE_Labeled_AE            3%                       0%               1%          
+   Muscle≠B-OSE_Labeled_AE   Rigidity≠I-OSE_Labeled_AE      3%                       0%               0%          
+            Bipolar I Mania (Children and Adolescents 10 to 17 years old)  
+ 
+
+ The following findings were based on a 3-week placebo-controlled trial in which quetiapine was administered in either doses of 400 or 600 mg/day.
+
+ Commonly Observed Adverse Reactions
+
+ In  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  therapy (up to 3 weeks) the most commonly observed adverse reactions associated with the use of quetiapine in children and adolescents (incidence of 5% or greater and quetiapine incidence at least twice that for placebo) were  somnolence≠B-OSE_Labeled_AE  (53%),  dizziness≠B-OSE_Labeled_AE  (18%),  fatigue≠B-OSE_Labeled_AE  (11%),  increased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE  (9%),  nausea≠B-OSE_Labeled_AE  (8%),  vomiting≠B-OSE_Labeled_AE  (8%),  tachycardia≠B-OSE_Labeled_AE  (7%),  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE  (7%), and  weight≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  (6%).
+
+ Table 14 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during therapy (up to 3 weeks) of  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  in 2% or more of patients treated with SEROQUEL (doses of 400 or 600 mg/day) where the incidence in patients treated with SEROQUEL was greater than the incidence in placebo-treated patients.
+
+ Adverse events that were potentially dose-related with higher frequency in the 600 mg group compared to the 400 mg group included  somnolence≠B-OSE_Labeled_AE  (50% vs. 57%),  nausea≠B-OSE_Labeled_AE  (6% vs. 10%) and  tachycardia≠B-OSE_Labeled_AE  (6% vs. 9%).
+
+ Table 14: Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for the Treatment of Bipolar Mania in Children and Adolescent Patients 
+  Preferred Term              SEROQUEL  400 mg  (n=95)    SEROQUEL  600 mg  (n=98)    Placebo  (n=90)    
+   Somnolence≠B-OSE_Labeled_AE Somnolence combines adverse reactions terms  somnolence≠B-OSE_Labeled_AE  and  sedation≠B-OSE_Labeled_AE .    50%              57%              14%         
+   Dizziness≠B-OSE_Labeled_AE                    19%              17%              2%          
+   Nausea≠B-OSE_Labeled_AE                       6%               10%              4%          
+   Fatigue≠B-OSE_Labeled_AE                      14%              9%               4%          
+   Increased≠B-OSE_Labeled_AE   Appetite≠I-OSE_Labeled_AE           10%              9%               1%          
+   Tachycardia≠B-OSE_Labeled_AE Tachycardia combines adverse reaction terms  tachycardia≠B-OSE_Labeled_AE  and  sinus≠B-OSE_Labeled_AE   tachycardia≠I-OSE_Labeled_AE .    6%               9%               1%          
+   Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE                    7%               7%               0%          
+   Vomiting≠B-OSE_Labeled_AE                     8%               7%               3%          
+   Nasal≠B-OSE_Labeled_AE   Congestion≠I-OSE_Labeled_AE             3%               6%               2%          
+   Weight≠B-OSE_Labeled_AE   Increased≠I-OSE_Labeled_AE             6%               6%               0%          
+   Irritability≠B-OSE_Labeled_AE                 3%               5%               1%          
+   Pyrexia≠B-OSE_Labeled_AE                      1%               4%               1%          
+   Aggression≠B-OSE_Labeled_AE                   1%               3%               0%          
+   Musculoskeletal≠B-OSE_Labeled_AE   Stiffness≠I-OSE_Labeled_AE     1%               3%               1%          
+   Accidental≠B-OSE_Labeled_AE   Overdose≠I-OSE_Labeled_AE          0%               2%               0%          
+   Acne≠B-OSE_Labeled_AE                         3%               2%               0%          
+   Arthralgia≠B-OSE_Labeled_AE                   4%               2%               1%          
+   Lethargy≠B-OSE_Labeled_AE                     2%               2%               0%          
+   Pallor≠B-OSE_Labeled_AE                       1%               2%               0%          
+   Stomach≠B-OSE_Labeled_AE   Discomfort≠I-OSE_Labeled_AE           4%               2%               1%          
+   Syncope≠B-OSE_Labeled_AE                      2%               2%               0%          
+   Vision≠B-OSE_Labeled_AE   Blurred≠I-OSE_Labeled_AE               3%               2%               0%          
+   Constipation≠B-OSE_Labeled_AE                 4%               2%               0%          
+   Ear≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                     2%               0%               0%          
+   Paresthesia≠B-OSE_Labeled_AE                  2%               0%               0%          
+   Sinus≠B-OSE_Labeled_AE   Congestion≠I-OSE_Labeled_AE             3%               0%               0%          
+   Thirst≠B-OSE_Labeled_AE                       2%               0%               0%          
+            Extrapyramidal Symptoms:  
+ 
+
+ In a short-term placebo-controlled monotherapy trial in adolescent patients with  schizophrenia≠B-Not_AE_Candidate  (6-week duration), the aggregated incidence of  extrapyramidal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  was 12.9% (19/147) for SEROQUEL and 5.3% (4/75) for placebo, though the incidence of the individual adverse events ( akathisia≠B-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  extrapyramidal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  hypokinesia≠B-OSE_Labeled_AE ,  restlessness≠B-OSE_Labeled_AE ,  psychomotor≠B-OSE_Labeled_AE   hyperactivity≠I-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  dyskinesia≠B-OSE_Labeled_AE ) did not exceed 4.1% in any treatment group. In a short-term placebo-controlled monotherapy trial in children and adolescent patients with  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  (3-week duration), the aggregated incidence of  extrapyramidal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  was 3.6% (7/193) or SEROQUEL and 1.1% (1/90) for placebo.
+
+ Table 15 presents a listing of patients with adverse reactions potentially associated with  extrapyramidal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  in the short-term placebo-controlled monotherapy trial in adolescent patients with  schizophrenia≠B-Not_AE_Candidate  (6-week duration).
+
+ In Tables 15 - 16  dystonic≠B-OSE_Labeled_AE   event≠I-OSE_Labeled_AE  included  nuchal≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  hypertonia≠B-OSE_Labeled_AE , and  muscle≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ;  parkinsonism≠B-OSE_Labeled_AE  included  cogwheel≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE  and  tremor≠B-OSE_Labeled_AE ;  akathisia≠B-OSE_Labeled_AE  included  akathisia≠B-OSE_Labeled_AE  only  dyskinetic≠B-OSE_Labeled_AE   event≠I-OSE_Labeled_AE  included  tardive≠B-OSE_Labeled_AE   dyskinesia≠I-OSE_Labeled_AE ,  dyskinesia≠B-OSE_Labeled_AE ; and  choreoathetosis≠B-OSE_Labeled_AE ; and other  extrapyramidal≠B-OSE_Labeled_AE   event≠I-OSE_Labeled_AE  included  restlessness≠B-OSE_Labeled_AE  and  extrapyramidal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE .
+
+ Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-Controlled Trial in Adolescent Patients with Schizophrenia (6-week duration) 
+  Preferred Term                SEROQUEL  400 mg/day  (N=73)    SEROQUEL  800 mg/day  (N=74)    All  SEROQUEL  (N=147)    Placebo  (N=75)    
+                                n       %          n       %          n       %          n     %       
+   Dystonic≠B-OSE_Labeled_AE   event≠I-OSE_Labeled_AE                 2       2.7        0       0.0        2       1.4        0     0.0     
+   Parkinsonism≠B-OSE_Labeled_AE                   4       5.5        4       5.4        8       5.4        2     2.7     
+   Akathisia≠B-OSE_Labeled_AE                      3       4.1        4       5.4        7       4.8        3     4.0     
+   Dyskinetic≠B-OSE_Labeled_AE   event≠I-OSE_Labeled_AE               2       2.7        0       0.0        2       1.4        0     0.0     
+  Other  Extrapyramidal≠B-OSE_Labeled_AE   Event≠I-OSE_Labeled_AE     2       2.7        2       2.7        4       2.7        0     0.0     
+               Table 16 presents a listing of patients with adverse reactions associated with  extrapyramidal≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  in a short-term placebo-controlled monotherapy trial in children and adolescent patients with  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  (3-week duration).
+ 
+
+ Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-Controlled Trial in Children and Adolescent Patients with Bipolar I Mania (3-week duration) 
+  Preferred TermThere were no adverse experiences with the preferred term of  dystonic≠B-NonOSE_AE  or  dyskinetic≠B-NonOSE_AE   events≠I-NonOSE_AE .    SEROQUEL  400 mg/day  (N=95)    SEROQUEL  600 mg/day  (N=98)    All SEROQUEL  (N=193)    Placebo  (N=90)    
+                       n       %          n       %          n         %            n     %       
+   Parkinsonism≠B-OSE_Labeled_AE          2       2.1        1       1.0        3         1.6          1     1.1     
+   Akathisia≠B-OSE_Labeled_AE             1       1.0        1       1.0        2         1.0          0     0.0     
+  Other   Extrapyramidal≠B-OSE_Labeled_AE    Event≠I-OSE_Labeled_AE     1       1.1        1       1.0        2         1.0          0     0.0     
+                 Other Adverse Reactions Observed During the Pre-Marketing Evaluation of SEROQUEL  
+ 
+
+ Following is a list of COSTART terms that reflect treatment-emergent adverse reactions as defined in the introduction to the ADVERSE REACTIONS section reported by patients treated with SEROQUEL at multiple doses  >  75 mg/day during any phase of a trial within the premarketing database of approximately 2200 patients treated for  schizophrenia≠B-Not_AE_Candidate . All reported reactions are included except those already listed in the tables or elsewhere in labeling, those reactions for which a drug cause was remote, and those reaction terms which were so general as to be uninformative. It is important to emphasize that, although the reactions reported occurred during treatment with SEROQUEL, they were not necessarily caused by it.
+
+ Reactions are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing); infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
+
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE :  Infrequent:     abnormal≠B-OSE_Labeled_AE   dreams≠I-OSE_Labeled_AE ,  dyskinesia≠B-OSE_Labeled_AE ,  thinking≠B-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  tardive≠B-OSE_Labeled_AE   dyskinesia≠I-OSE_Labeled_AE ,  vertigo≠B-OSE_Labeled_AE ,  involuntary≠B-OSE_Labeled_AE   movements≠I-OSE_Labeled_AE ,  confusion≠B-OSE_Labeled_AE ,  amnesia≠B-OSE_Labeled_AE ,  psychosis≠B-OSE_Labeled_AE ,  hallucinations≠B-OSE_Labeled_AE ,  hyperkinesia≠B-OSE_Labeled_AE ,  libido≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE ,  incoordination≠B-OSE_Labeled_AE ,  paranoid≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  abnormal≠B-OSE_Labeled_AE   gait≠I-OSE_Labeled_AE ,  myoclonus≠B-OSE_Labeled_AE ,  delusions≠B-OSE_Labeled_AE ,  manic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  apathy≠B-OSE_Labeled_AE ,  ataxia≠B-OSE_Labeled_AE ,  depersonalization≠B-OSE_Labeled_AE ,  stupor≠B-OSE_Labeled_AE ,  bruxism≠B-OSE_Labeled_AE ,  catatonic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  hemiplegia≠B-OSE_Labeled_AE ;  aphasia≠B-OSE_Labeled_AE ,  buccoglossal≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  choreoathetosis≠B-OSE_Labeled_AE ,  delirium≠B-OSE_Labeled_AE ,  emotional≠B-OSE_Labeled_AE   lability≠I-OSE_Labeled_AE ,  euphoria≠B-OSE_Labeled_AE ,  libido≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  neuralgia≠B-OSE_Labeled_AE ,  stuttering≠B-OSE_Labeled_AE ,  subdural≠B-OSE_Labeled_AE   hematoma≠I-OSE_Labeled_AE .
+
+    Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE :  Frequent:     flu≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ;    Infrequent:     neck≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  pelvic≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE suicide attempt,  malaise≠B-OSE_Labeled_AE ,  photosensitivity≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE ,  face≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  moniliasis≠B-OSE_Labeled_AE ;    Rare:     abdomen≠B-OSE_Labeled_AE   enlarged≠I-OSE_Labeled_AE .
+
+    Digestive≠B-NonOSE_AE   System≠I-NonOSE_AE :  Frequent:     anorexia≠B-OSE_Labeled_AE ;    Infrequent:     increased≠B-OSE_Labeled_AE   salivation≠I-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  gamma≠B-OSE_Labeled_AE   glutamyl≠I-OSE_Labeled_AE   transpeptidase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  gingivitis≠B-OSE_Labeled_AE ,  dysphagia≠B-OSE_Labeled_AE ,  flatulence≠B-OSE_Labeled_AE ,  gastroenteritis≠B-OSE_Labeled_AE ,  gastritis≠B-OSE_Labeled_AE ,  hemorrhoids≠B-OSE_Labeled_AE ,  stomatitis≠B-OSE_Labeled_AE ,  thirst≠B-OSE_Labeled_AE ,  tooth≠B-OSE_Labeled_AE   caries≠I-OSE_Labeled_AE ,  fecal≠B-OSE_Labeled_AE   incontinence≠I-OSE_Labeled_AE ,  gastroesophageal≠B-OSE_Labeled_AE   reflux≠I-OSE_Labeled_AE ,  gum≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  mouth≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE ,  rectal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  tongue≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ;    Rare:     glossitis≠B-OSE_Labeled_AE ,  hematemesis≠B-OSE_Labeled_AE ,  intestinal≠B-OSE_Labeled_AE   obstruction≠I-OSE_Labeled_AE ,  melena≠B-OSE_Labeled_AE ,  pancreatitis≠B-OSE_Labeled_AE .
+
+    Cardiovascular≠B-NonOSE_AE   System≠I-NonOSE_AE :  Infrequent:     vasodilatation≠B-OSE_Labeled_AE ,  QT≠B-OSE_Labeled_AE   interval≠I-OSE_Labeled_AE   prolonged≠I-OSE_Labeled_AE ,  migraine≠B-OSE_Labeled_AE ,  bradycardia≠B-OSE_Labeled_AE ,  cerebral≠B-OSE_Labeled_AE   ischemia≠I-OSE_Labeled_AE ,  irregular≠B-OSE_Labeled_AE   pulse≠I-OSE_Labeled_AE ,  T≠B-OSE_Labeled_AE   wave≠I-OSE_Labeled_AE   abnormality≠I-OSE_Labeled_AE ,  bundle≠B-OSE_Labeled_AE   branch≠I-OSE_Labeled_AE   block≠I-OSE_Labeled_AE ,  cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE ,  deep≠B-OSE_Labeled_AE   thrombophlebitis≠I-OSE_Labeled_AE ,  T≠B-OSE_Labeled_AE   wave≠I-OSE_Labeled_AE   inversion≠I-OSE_Labeled_AE ;    Rare:     angina≠B-OSE_Labeled_AE   pectoris≠I-OSE_Labeled_AE ,  atrial≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE ,  AV≠B-OSE_Labeled_AE   block≠I-OSE_Labeled_AE   first≠I-OSE_Labeled_AE   degree≠I-OSE_Labeled_AE ,  congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  ST≠B-OSE_Labeled_AE   elevated≠I-OSE_Labeled_AE ,  thrombophlebitis≠B-OSE_Labeled_AE ,  T≠B-OSE_Labeled_AE   wave≠I-OSE_Labeled_AE   flattening≠I-OSE_Labeled_AE ,  ST≠B-OSE_Labeled_AE   abnormality≠I-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   QRS≠I-OSE_Labeled_AE   duration≠I-OSE_Labeled_AE .
+
+    Respiratory≠B-NonOSE_AE   System≠I-NonOSE_AE :  Frequent:     cough≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE ;    Infrequent:     pneumonia≠B-OSE_Labeled_AE ,  epistaxis≠B-OSE_Labeled_AE ,  asthma≠B-OSE_Labeled_AE ;    Rare:     hiccup≠B-OSE_Labeled_AE ,  hyperventilation≠B-OSE_Labeled_AE .
+
+    Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutritional≠I-NonOSE_AE   System≠I-NonOSE_AE :  Infrequent:     weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE ,  alkaline≠B-OSE_Labeled_AE   phosphatase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  hyperlipidemia≠B-OSE_Labeled_AE ,  alcohol≠B-OSE_Labeled_AE   intolerance≠I-OSE_Labeled_AE ,  dehydration≠B-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  creatinine≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  hypoglycemia≠B-OSE_Labeled_AE ;    Rare:     glycosuria≠B-OSE_Labeled_AE ,  gout≠B-OSE_Labeled_AE ,  hand≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  hypokalemia≠B-OSE_Labeled_AE ,  water≠B-OSE_Labeled_AE   intoxication≠I-OSE_Labeled_AE .
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Appendages≠I-NonOSE_AE   System≠I-NonOSE_AE :  Infrequent:     pruritus≠B-OSE_Labeled_AE ,  acne≠B-OSE_Labeled_AE ,  eczema≠B-OSE_Labeled_AE ,  contact≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ,  maculopapular≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE ,  seborrhea≠B-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   ulcer≠I-OSE_Labeled_AE ;    Rare:     exfoliative≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ,  psoriasis≠B-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   discoloration≠I-OSE_Labeled_AE .
+
+    Urogenital≠B-NonOSE_AE   System≠I-NonOSE_AE :  Infrequent:     dysmenorrheal≠B-OSE_Labeled_AE  [note: Adjusted for gender.] ,  vaginitis≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   incontinence≠I-OSE_Labeled_AE ,  metrorrhagia≠B-OSE_Labeled_AE ,  impotence≠B-OSE_Labeled_AE ,  dysuria≠B-OSE_Labeled_AE ,  vaginal≠B-OSE_Labeled_AE   moniliasis≠I-OSE_Labeled_AE ,  abnormal≠B-OSE_Labeled_AE   ejaculation≠I-OSE_Labeled_AE ,  cystitis≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   frequency≠I-OSE_Labeled_AE ,  amenorrhea≠B-OSE_Labeled_AE ,  female≠B-OSE_Labeled_AE   lactation≠I-OSE_Labeled_AE ,  leukorrhea≠B-OSE_Labeled_AE ,  vaginal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  vulvovaginitis≠B-OSE_Labeled_AE ,  orchitis≠B-OSE_Labeled_AE ;  gynecomastia≠B-OSE_Labeled_AE ,  nocturia≠B-OSE_Labeled_AE ,  polyuria≠B-OSE_Labeled_AE ,  acute≠B-OSE_Labeled_AE   kidney≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE .
+
+    Special≠B-NonOSE_AE   Senses≠I-NonOSE_AE :  Infrequent:     conjunctivitis≠B-OSE_Labeled_AE ,  abnormal≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   eyes≠I-OSE_Labeled_AE ,  tinnitus≠B-OSE_Labeled_AE ,  taste≠B-OSE_Labeled_AE   perversion≠I-OSE_Labeled_AE ,  blepharitis≠B-OSE_Labeled_AE ,  eye≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ;    Rare:     abnormality≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   accommodation≠I-OSE_Labeled_AE ,  deafness≠B-OSE_Labeled_AE ,  glaucoma≠B-OSE_Labeled_AE .
+
+    Musculoskeletal≠B-NonOSE_AE   System≠I-NonOSE_AE :  Infrequent:     pathological≠B-OSE_Labeled_AE   fracture≠I-OSE_Labeled_AE ,  myasthenia≠B-OSE_Labeled_AE ,  twitching≠B-OSE_Labeled_AE ,  arthralgia≠B-OSE_Labeled_AE ,  arthritis≠B-OSE_Labeled_AE ,  leg≠B-OSE_Labeled_AE   cramps≠I-OSE_Labeled_AE ,  bone≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE .
+
+    Hemic≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   System≠I-NonOSE_AE :  Infrequent:     leukocytosis≠B-OSE_Labeled_AE ,  anemia≠B-OSE_Labeled_AE ,  ecchymosis≠B-OSE_Labeled_AE ,  eosinophilia≠B-OSE_Labeled_AE ,  hypochromic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE ;  lymphadenopathy≠B-OSE_Labeled_AE ,  cyanosis≠B-OSE_Labeled_AE ;    Rare:     hemolysis≠B-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE .
+
+    Endocrine≠B-NonOSE_AE   System≠I-NonOSE_AE :  Infrequent:     hypothyroidism≠B-OSE_Labeled_AE ,  diabetes≠B-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE ;    Rare:     hyperthyroidism≠B-OSE_Labeled_AE .
+
+   Laboratory, ECG and vital sign changes observed in clinical studies  
+
+ Laboratory Changes:
+
+ Neutrophil Counts
+
+   Adults  : In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of  neutrophil≠B-OSE_Labeled_AE   count≠I-OSE_Labeled_AE   <≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   x≠I-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE    9≠I-OSE_Labeled_AE    /≠I-OSE_Labeled_AE  L≠I-OSE_Labeled_AE  among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo  [see      Warnings and Precautions (5.10)      ].  
+
+ Transaminase Elevations
+
+   Adults  : Asymptomatic, transient and reversible  elevations≠B-OSE_Labeled_AE  in serum transaminases (primarily  ALT≠I-OSE_Labeled_AE ) have been reported. In  schizophrenia≠B-Not_AE_Candidate  trials in adults, the proportions of patients with  transaminase≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  of > 3 times the upper limits of the normal reference range in a pool of 3- to 6-week placebo-controlled trials were approximately 6% (29/483) for SEROQUEL compared to 1% (3/194) for placebo. In acute  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  trials in adults, the proportions of patients with  transaminase≠B-NonOSE_AE   elevations≠I-NonOSE_AE  of > 3 times the upper limits of the normal reference range in a pool of 3- to 12-week placebo-controlled trials were approximately 1% for both SEROQUEL (3/560) and placebo (3/294). These  hepatic≠B-OSE_Labeled_AE   enzyme≠I-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  usually occurred within the first 3 weeks of drug treatment and promptly returned to pre-study levels with ongoing treatment with SEROQUEL. In  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate  trials, the proportions of patients with  transaminase≠B-NonOSE_AE   elevations≠I-NonOSE_AE  of > 3 times the upper limits of the normal reference range in two 8-week placebo-controlled trials was 1% (5/698) for SEROQUEL and 2% (6/347) for placebo.
+
+ Decreased Hemoglobin
+
+   Adults  : In short-term placebo-controlled trials,  decreases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE  to <= 13 g/dL males, <= 12 g/dL females on at least one occasion occurred in 8.3% (594/7155) of quetiapine-treated patients compared to 6.2% (219/3536) of patients treated with placebo. In a database of controlled and uncontrolled clinical trials,  decreases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE  to <= 13 g/dL males, <= 12 g/dL females on at least one occasion occurred in 11% (2277/20729) of quetiapine-treated patients.
+
+ Interference with Urine Drug Screens
+
+ There have been literature reports suggesting  false≠B-OSE_Labeled_AE   positive≠I-OSE_Labeled_AE   results≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   urine≠I-OSE_Labeled_AE   enzyme≠I-OSE_Labeled_AE   immunoassays≠I-OSE_Labeled_AE  for methadone and tricyclic antidepressants in patients who have taken quetiapine. Caution should be exercised in the interpretation of  positive≠B-OSE_Labeled_AE   urine≠I-OSE_Labeled_AE   drug≠I-OSE_Labeled_AE   screen≠I-OSE_Labeled_AE   results≠I-OSE_Labeled_AE  for these drugs, and confirmation by alternative analytical technique (e.g., chromatographic methods) should be considered.
+
+ ECG Changes
+
+   Adults:  Between-group comparisons for pooled placebo-controlled trials revealed no statistically significant SEROQUEL/placebo differences in the proportions of patients experiencing potentially important  changes≠B-NonOSE_AE   in≠I-NonOSE_AE   ECG≠I-NonOSE_AE   parameters≠I-NonOSE_AE , including QT, QTc, and PR intervals. However, the proportions of patients meeting the criteria for  tachycardia≠B-OSE_Labeled_AE  were compared in four 3- to 6-week placebo-controlled clinical trials for the treatment of  schizophrenia≠B-Not_AE_Candidate  revealing a 1% (4/399) incidence for SEROQUEL compared to 0.6% (1/156) incidence for placebo. In acute (monotherapy)  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  trials the proportions of patients meeting the criteria for  tachycardia≠B-OSE_Labeled_AE  was 0.5% (1/192) for SEROQUEL compared to 0% (0/178) incidence for placebo. In acute  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  (adjunct) trials the proportions of patients meeting the same criteria was 0.6% (1/166) for SEROQUEL compared to 0% (0/171) incidence for placebo. In  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate  trials, no patients had  heart≠B-NonOSE_AE   rate≠I-NonOSE_AE   increases≠I-NonOSE_AE  to > 120 beats per minute. SEROQUEL use was associated with a mean  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE , assessed by ECG, of 7 beats per minute compared to a mean increase of 1 beat per minute among placebo patients. This slight tendency to  tachycardia≠B-NonOSE_AE  in adults may be related to SEROQUEL's potential for inducing  orthostatic≠B-OSE_Labeled_AE   changes≠I-OSE_Labeled_AE   [see      Warnings and Precautions (5.7)      ].  
+
+   Children and Adolescents:  In the acute (6 week)  schizophrenia≠B-Not_AE_Candidate  trial in adolescents,  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  (> 110 bpm) occurred in 5.2% (3/73) of patients receiving SEROQUEL 400 mg and 8.5% (5/74) of patients receiving SEROQUEL 800 mg compared to 0% (0/75) of patients receiving placebo. Mean  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  were 3.8 bpm and 11.2 bpm for SEROQUEL 400 mg and 800 mg groups, respectively, compared to a decrease of 3.3 bpm in the placebo group  [see      Warnings and Precautions (5.7)      ].  
+
+ In the acute (3 week)  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  trial in children and adolescents,  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  (> 110 bpm) occurred in 1.1% (1/89) of patients receiving SEROQUEL 400 mg and 4.7% (4/85) of patients receiving SEROQUEL 600 mg compared to 0% (0/98) of patients receiving placebo. Mean  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  were 12.8 bpm and 13.4 bpm for SEROQUEL 400 mg and 600 mg groups, respectively, compared to a decrease of 1.7 bpm in the placebo group  [see      Warnings and Precautions (5.7)      ].  
+
+ In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with  bipolar≠B-Not_AE_Candidate   depression≠I-Not_AE_Candidate , in which efficacy was not established,  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  (> 110 bpm 10-12 years and 13-17 years) occurred in 0% of patients receiving SEROQUEL XR and 1.2% of patients receiving placebo. Mean  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  were 3.4 bpm for SEROQUEL XR, compared to 0.3 bpm in the placebo group  [see      Warnings and Precautions (5.7)      ].  
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions were identified during post approval of SEROQUEL. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+ Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include  anaphylactic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  cardiomyopathy≠B-OSE_Labeled_AE ,  drug≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   eosinophilia≠I-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   systemic≠I-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  DRESS≠I-OSE_Labeled_AE ),  hyponatremia≠B-OSE_Labeled_AE ,  myocarditis≠B-OSE_Labeled_AE ,  nocturnal≠B-OSE_Labeled_AE   enuresis≠I-OSE_Labeled_AE ,  pancreatitis≠B-OSE_Labeled_AE ,  retrograde≠B-OSE_Labeled_AE   amnesia≠I-OSE_Labeled_AE ,  rhabdomyolysis≠B-OSE_Labeled_AE ,  syndrome≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   inappropriate≠I-OSE_Labeled_AE   antidiuretic≠I-OSE_Labeled_AE   hormone≠I-OSE_Labeled_AE   secretion≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  SIADH≠I-OSE_Labeled_AE ),  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  SJS≠I-OSE_Labeled_AE ), and  toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  TEN≠I-OSE_Labeled_AE ).
+

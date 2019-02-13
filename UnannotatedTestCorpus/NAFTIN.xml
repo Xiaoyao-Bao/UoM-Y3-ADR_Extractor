@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="NAFTIN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  During clinical trials with Naftin  (r)  Gel, 1%. the incidence of adverse reactions was as follows: burning/stinging (5.0%), itching (1.0%), erythema (0.5%), rash (0.5%), skin tenderness (0.5%).
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  Naftin  (r)  Gel, 1%, is for external use only. If irritation or sensitivity develops with the use of Naftin  (r)  Gel, 1%, treatment should be discontinued and appropriate therapy instituted. Diagnosis of the disease should be confirmed either by direct microscopic examination of a mounting of infected tissue in a solution of potassium hydroxide or by culture on an appropriate medium.
+
+
+
+    Information for patients
+
+
+
+  The patient should be told to:
+
+
+
+ *  Avoid the use of occlusive dressings or wrappings unless otherwise directed by the physician. 
+ *  Keep Naftin  (r)  Gel, 1% away from the eyes, nose, mouth and other mucous membranes. 
+       Carcinogenesis, mutagenesis, impairment of fertility
+ 
+
+  In a 2-year dermal carcinogenicity study, naftifine hydrochloride cream was administered to Sprague-Dawley rats at topical doses of 1%, 2% and 3% (10, 20, and 30 mg/kg/day naftifine hydrochloride). No drug-related tumors were noted in this study up to the highest dose evaluated in this study of 30 mg/kg/day [3.6 times the maximum recommended human dose (MRHD) based on mg/m2 comparison].
+
+
+
+ 
+
+
+
+ Naftifine hydrochloride revealed no evidence of mutagenic or clastogenic potential based on the results of two in vitro genotoxicity tests (Ames assay and Chinese hamster ovary cell chromosome aberration assay) and one in vivo genotoxicity test (mouse bone marrow micronucleus assay).
+
+
+
+ 
+
+
+
+ Oral administration of naftifine hydrochloride to rats, throughout mating, gestation, parturition and lactation, demonstrated no effects on growth, fertility or reproduction, at doses up to 100 mg/kg/day (12 times MRHD based on mg/m  2  comparison).
+
+
+
+    Pregnancy
+
+
+
+   Teratogenic Effects
+
+
+
+  Reproduction studies have been performed in rats and rabbits (via oral administration) at doses 150 times or more than the topical human dose and have revealed no evidence of impaired fertility or harm to the fetus due to naftifine. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+
+
+    Nursing mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Naftin  (r)  Gel,1 % is administered to a nursing woman.
+
+
+
+    Pediatric use
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Naftin  (r)  Gel, 1% is for topical use only and not for ophthalmic use.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="431" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="692" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="1700" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="1716" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="2207" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2433" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

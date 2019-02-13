@@ -1,0 +1,37 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  Hand-Foot Syndrome may occur. Dose modification or discontinuation may be required (  5.3  ) 
+ *  Embryofetal Toxicity: Can cause fetal harm. Advise of potential risk to a fetus. Use effective contraception (  5.5  ,  8.1  ,  8.3  ) 
+    
+ 
+
+   5.1 Cardiomyopathy
+
+  Doxorubicin HCl can result in myocardial damage, including acute left ventricular failure. The risk of cardiomyopathy with doxorubicin HCl is generally proportional to the cumulative exposure. The relationship between cumulative DOXIL dose and the risk of cardiac toxicity has not been determined.
+
+ In a clinical study in 250 patients with advanced cancer who were treated with DOXIL, the risk of cardiotoxicity was 11% when the cumulative anthracycline dose was between 450-550 mg/m  2  . Cardiotoxicity was defined as >20% decrease in resting left ventricular ejection fraction (LVEF) from baseline where LVEF remained in the normal range or a >10% decrease in LVEF from baseline where LVEF was less than the institutional lower limit of normal. Two percent of patients developed signs and symptoms of congestive heart failure without documented evidence of cardiotoxicity.
+
+ Assess left ventricular cardiac function (e.g. MUGA or echocardiogram) prior to initiation of DOXIL, during treatment to detect acute changes, and after treatment to detect delayed cardiotoxicity. Administer DOXIL to patients with a history of cardiovascular disease only when the potential benefit of treatment outweighs the risk.
+
+    5.2 Infusion-Related Reactions
+
+  Serious and sometimes life-threatening infusion-related reactions characterized by one or more of the following symptoms can occur with DOXIL: flushing, shortness of breath, facial swelling, headache, chills, chest pain, back pain, tightness in the chest and throat, fever, tachycardia, pruritus, rash, cyanosis, syncope, bronchospasm, asthma, apnea, and hypotension. The majority of infusion-related events occurred during the first infusion. Of 239 patients with ovarian cancer treated with DOXIL in Trial 4, 7% of patients experienced acute infusion-related reactions resulting in dose interruption. All occurred during cycle 1 and none during subsequent cycles. Across multiple studies of DOXIL monotherapy including this and other studies enrolling 760 patients with various solid tumors, 11% of patients had infusion-related reactions.
+
+ Ensure that medications to treat infusion-related reactions and cardiopulmonary resuscitative equipment are available for immediate use prior to initiation of DOXIL. Initiate DOXIL infusions at a rate of 1 mg/min and increase rate as tolerated [see  Dosage and Administration (2.6)  ]  . In the event of an infusion-related reaction, temporarily stop the drug until resolution then resume at a reduced infusion rate. Discontinue DOXIL infusion for serious or life-threatening infusion-related reactions.
+
+    5.3 Hand-Foot Syndrome (HFS)
+
+  In Trial 4, the incidence of HFS was 51% of patients in the DOXIL arm and 0.9% of patients in the topotecan arm, including 24% Grade 3 or 4 cases of HFS in DOXIL-treated patients and no Grade 3 or 4 cases in topotecan-treated patients. HFS or other skin toxicity required discontinuation of DOXIL in 4.2% of patients.
+
+ HFS was generally observed after 2 or 3 cycles of treatment but may occur earlier. Delay DOXIL for the first episode of Grade 2 or greater HFS [see  Dosage and Administration (2.5)  ]  . Discontinue DOXIL if HFS is severe and debilitating.
+
+    5.4 Secondary Oral Neoplasms
+
+  Secondary oral cancers, primarily squamous cell carcinoma, have been reported from post-marketing experience in patients with long-term (more than one year) exposure to DOXIL. These malignancies were diagnosed both during treatment with DOXIL and up to 6 years after the last dose. Examine patients at regular intervals for the presence of oral ulceration or with any oral discomfort that may be indicative of secondary oral cancer.
+
+ The altered pharmacokinetics and preferential tissue distribution of liposomal doxorubicin that contributes to enhanced skin toxicity and mucositis compared to free doxorubicin may play a role in the development of oral secondary malignancies with long-term use.
+
+    5.5 Embryofetal Toxicity
+
+  Based on animal data, DOXIL can cause fetal harm when administered to a pregnant woman. At doses approximately 0.12 times the recommended clinical dose, DOXIL was embryotoxic and abortifacient in rabbits. Advise pregnant women of the potential risk to a fetus. Advise females and males of reproductive potential to use effective contraception during and for 6 months after treatment with DOXIL [see  Use in Specific Populations (8.1)  and  (8.3)  ]  .
+

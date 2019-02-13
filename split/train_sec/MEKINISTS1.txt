@@ -1,0 +1,255 @@
+    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in another section of the label:
+
+
+
+ *     New≠B-OSE_Labeled_AE   Primary≠I-OSE_Labeled_AE   Malignancies≠I-OSE_Labeled_AE  [see Warnings and Precautions (5.1)]  
+ *     Hemorrhage≠B-OSE_Labeled_AE  [see Warnings and Precautions (5.2)]  
+ *     Venous≠B-OSE_Labeled_AE   Thromboembolism≠I-OSE_Labeled_AE  [see Warnings and Precautions (5.3)]  
+ *     Cardiomyopathy≠B-OSE_Labeled_AE  [see Warnings and Precautions (5.4)]  
+ *     Ocular≠B-OSE_Labeled_AE   Toxicities≠I-OSE_Labeled_AE  [see Warnings and Precautions (5.5)]  
+ *     Interstitial≠B-OSE_Labeled_AE   Lung≠I-OSE_Labeled_AE   Disease≠I-OSE_Labeled_AE  [see Warnings and Precautions (5.6)]  
+ *    Serious  Febrile≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [see Warnings and Precautions (5.7)]  
+ *    Serious  Skin≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE  [see Warnings and Precautions (5.8)]  
+ *     Hyperglycemia≠B-OSE_Labeled_AE  [see Warnings and Precautions (5.9)]  
+   *    Most common adverse reactions (>=20%) for MEKINIST as a single agent include rash, diarrhea, and lymphedema. (  6.1  ) 
+ *    Most common adverse reactions (>=20%) for MEKINIST in combination with dabrafenib include pyrexia, chills, fatigue, rash, nausea, vomiting, diarrhea, abdominal pain, peripheral edema, cough, headache, arthralgia, night sweats, decreased appetite, constipation, and myalgia. (  6.1   )  
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact GlaxoSmithKline at 1-888-825-5249 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The data described in the Warnings and Precautions section and below reflect exposure to MEKINIST as a single agent and in combination with dabrafenib. MEKINIST as a single agent was evaluated in 329 patients including 107 (33%) exposed for greater than or equal to 6 months and 30 (9%) exposed for greater than or equal to one year. MEKINIST as a single agent was studied in open-label, single-arm trials (N = 118) or in an open-label, randomized, active-controlled trial (N = 211). The median age was 54 years, 60% were male, >99% were white, and all patients had  metastatic≠B-Not_AE_Candidate   melanoma≠I-Not_AE_Candidate . All patients received 2 mg once-daily doses of MEKINIST. The incidence of RPED and RVO are obtained from the 1,749 patients from all clinical trials with MEKINIST.
+
+
+
+ The safety of MEKINIST in combination with dabrafenib was evaluated in Trial 2 and other trials consisting of 202 patients with BRAF V600 mutation-positive unresectable or  metastatic≠B-Not_AE_Candidate   melanoma≠I-Not_AE_Candidate  who received MEKINIST 2 mg orally once daily in combination with dabrafenib 150 mg orally twice daily until disease progression or unacceptable toxicity. Among these 202 patients, 68 (34%) were exposed to MEKINIST and 66 (33%) were exposed to dabrafenib for greater than 6 to 12 months while 36 (18%) were exposed to MEKINIST and 40 (20%) were exposed to dabrafenib for greater than one year. The median age was 54 years, 57% were male and >99% were white.
+
+
+
+ Table 3 presents adverse reactions identified from analyses of Trial 1, a randomized, open-label trial of patients with BRAF V600E or V600K mutation-positive  melanoma≠B-Not_AE_Candidate  receiving MEKINIST (N = 211) 2 mg orally once daily or chemotherapy (N = 99) (either dacarbazine 1,000 mg/m  2  every 3 weeks or paclitaxel 175 mg/m  2  every 3 weeks)  [see Clinical Studies (14.1)]  . Patients with  abnormal≠B-Not_AE_Candidate   LVEF≠I-Not_AE_Candidate , history of  acute≠B-Not_AE_Candidate   coronary≠I-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate  within 6 months, or current evidence of Class II or greater  congestive≠B-Not_AE_Candidate   heart≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate  (New York Heart Association) were excluded from Trial 1. The median duration of treatment with MEKINIST was 4.3 months. In Trial 1, 9% of patients receiving MEKINIST experienced adverse reactions resulting in permanent discontinuation of trial medication. The most common adverse reactions resulting in permanent discontinuation of MEKINIST were  decreased≠B-OSE_Labeled_AE   left≠I-OSE_Labeled_AE   ventricular≠I-OSE_Labeled_AE   ejection≠I-OSE_Labeled_AE   fraction≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  LVEF≠I-OSE_Labeled_AE ),  pneumonitis≠B-OSE_Labeled_AE ,  renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE , and  rash≠B-OSE_Labeled_AE . Adverse reactions led to dose reductions in 27% of patients treated with MEKINIST.  Rash≠B-OSE_Labeled_AE  and  decreased≠B-OSE_Labeled_AE   LVEF≠I-OSE_Labeled_AE  were the most common reasons cited for dose reductions of MEKINIST.
+
+
+
+   Table 3. Selected Adverse Reactions Occurring in >=10% of Patients Receiving MEKINIST and at a Higher Incidence (>=5%) Than in the Chemotherapy Arm or >=2% (Grades 3 or 4) Adverse Reactions  
+
+
+
+
+  Adverse Reactions                          MEKINIST         Chemotherapy     
+  N = 211                                    N = 99           
+  All  Gradesa                               Grades  3 and 4b    All  Gradesa     Grades  3 and 4b    
+   Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                          
+      Rash≠B-OSE_Labeled_AE                                     57               8                10               0                
+      Dermatitis≠B-OSE_Labeled_AE   acneiform≠I-OSE_Labeled_AE                     19               <1               1                0                
+      Dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE                                 11               0                0                0                
+      Pruritus≠B-OSE_Labeled_AE                                 10               2                1                0                
+      Paronychia≠B-OSE_Labeled_AE                               10               0                1                0                
+   Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                      
+      Diarrhea≠B-OSE_Labeled_AE                                 43               0                16               2                
+      Stomatitis≠B-OSE_Labeled_AE c                             15               2                2                0                
+      Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE d                         13               1                5                1                
+   Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                              
+      Lymphedema≠B-OSE_Labeled_AE e                             32               1                4                0                
+      Hypertension≠B-OSE_Labeled_AE                             15               12               7                3                
+      Hemorrhage≠B-OSE_Labeled_AE f                             13               <1               0                0                
+             a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0.
+ 
+
+   b  Grade 4 adverse reactions limited to  rash≠B-OSE_Labeled_AE  (n = 1) in trametinib arm and  diarrhea≠B-NonOSE_AE  (n = 1) in chemotherapy arm.
+
+
+
+   c  Includes the following terms:  stomatitis≠B-OSE_Labeled_AE ,  aphthous≠B-OSE_Labeled_AE   stomatitis≠I-OSE_Labeled_AE ,  mouth≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE , and  mucosal≠B-OSE_Labeled_AE   inflammation≠I-OSE_Labeled_AE .
+
+
+
+   d  Includes the following terms:  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   lower≠I-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE , and  abdominal≠B-OSE_Labeled_AE   tenderness≠I-OSE_Labeled_AE .
+
+
+
+   e  Includes the following terms:  lymphedema≠B-OSE_Labeled_AE ,  edema≠B-OSE_Labeled_AE , and  peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE .
+
+
+
+   f  Includes the following terms:  epistaxis≠B-OSE_Labeled_AE ,  gingival≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE ,  hematochezia≠B-OSE_Labeled_AE ,  rectal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  melena≠B-OSE_Labeled_AE ,  vaginal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  hemorrhoidal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  hematuria≠B-OSE_Labeled_AE , and  conjunctival≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE .
+
+
+
+ Other clinically important adverse reactions observed in <=10% of patients (N = 329) treated with MEKINIST were:
+
+
+
+    Cardiac≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :   Bradycardia≠B-OSE_Labeled_AE .
+
+
+
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :   Xerostomia≠B-OSE_Labeled_AE .
+
+
+
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE :   Folliculitis≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   pustular≠I-OSE_Labeled_AE ,  cellulitis≠B-OSE_Labeled_AE .
+
+
+
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :   Rhabdomyolysis≠B-OSE_Labeled_AE .
+
+
+
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :   Dizziness≠B-OSE_Labeled_AE ,  dysgeusia≠B-OSE_Labeled_AE .
+
+
+
+    Ocular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :   Vision≠B-OSE_Labeled_AE   blurred≠I-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   eye≠I-OSE_Labeled_AE .
+
+
+
+   Table 4. Percent-Patient Incidence of Laboratory Abnormalities Occurring at a Higher Incidence in Patients Treated With MEKINIST in Trial 1 (Between-Arm Difference of >=5% [All Grades] or >=2% [Grades 3 or 4]  a  )  
+
+
+
+
+  Test                                         MEKINIST    Chemotherapy    
+  N = 211                                      N = 99     
+  All  Grades                                  Grades  3 and 4    All  Grades    Grades  3 and 4    
+   Increased≠B-OSE_Labeled_AE  aspartate  aminotransferase≠I-OSE_Labeled_AE  (AST)    60         2          16         1          
+   Increased≠B-OSE_Labeled_AE   alanine≠I-OSE_Labeled_AE   aminotransferase≠I-OSE_Labeled_AE  (ALT)     39         3          20         3          
+   Hypoalbuminemia≠B-OSE_Labeled_AE                               42         2          23         1          
+   Anemia≠B-OSE_Labeled_AE                                        38         2          26         3          
+   Increased≠B-OSE_Labeled_AE   alkaline≠I-OSE_Labeled_AE   phosphatase≠I-OSE_Labeled_AE                24         2          18         3          
+          *       a  No Grade 4 events were reported in either treatment arm. 
+    Table 5 presents adverse reactions from Trial 2, a multicenter, open-label, randomized trial of 162 patients with BRAF V600E or V600K mutation-positive  melanoma≠B-Not_AE_Candidate  receiving MEKINIST 2 mg once daily in combination with dabrafenib 150 mg twice daily (N = 55), MEKINIST 1 mg once daily in combination with dabrafenib 150 mg twice daily (N = 54), and dabrafenib as a single agent 150 mg twice daily (N = 53)  [see Clinical Studies (14.1)]  . Patients with  abnormal≠B-Not_AE_Candidate   LVEF≠I-Not_AE_Candidate , history of  acute≠B-Not_AE_Candidate   coronary≠I-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate  within 6 months, current evidence of Class II or greater  congestive≠B-Not_AE_Candidate   heart≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate  (New York Heart Association), history of  RVO≠B-Not_AE_Candidate , or  RPED≠B-Not_AE_Candidate ,  QTc≠B-Not_AE_Candidate   interval≠I-Not_AE_Candidate   >≠I-Not_AE_Candidate  =≠I-Not_AE_Candidate  4≠I-Not_AE_Candidate  8≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   msec≠I-Not_AE_Candidate , treatment  refractory≠B-Not_AE_Candidate   hypertension≠I-Not_AE_Candidate , uncontrolled  arrhythmias≠B-Not_AE_Candidate , history of  pneumonitis≠B-Not_AE_Candidate  or  interstitial≠B-Not_AE_Candidate   lung≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate , or a known history of  G≠B-Not_AE_Candidate  6≠I-Not_AE_Candidate  PD≠I-Not_AE_Candidate   deficiency≠I-Not_AE_Candidate  were excluded. The median duration of treatment was 10.9 months for both MEKINIST (2-mg once-daily treatment group) and dabrafenib when used in combination, 10.6 months for both MEKINIST (1-mg once-daily treatment group) and dabrafenib when used in combination, and 6.1 months for dabrafenib as a single agent.
+ 
+
+ In Trial 2, 13% of patients receiving MEKINIST in combination with dabrafenib at the recommended dose experienced adverse reactions resulting in permanent discontinuation of trial medication(s). The most common adverse reaction resulting in permanent discontinuation was  pyrexia≠B-OSE_Labeled_AE  (4%). Adverse reactions led to dose reductions in 49% and dose interruptions in 67% of patients treated with MEKINIST in combination with dabrafenib.  Pyrexia≠B-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE , and  nausea≠B-OSE_Labeled_AE  were the most common reasons cited for dose reductions, and  pyrexia≠B-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE , and  decreased≠B-OSE_Labeled_AE   ejection≠I-OSE_Labeled_AE   fraction≠I-OSE_Labeled_AE  were the most common reasons cited for dose interruptions of MEKINIST and dabrafenib when used in combination.
+
+
+
+   Table 5. Common Adverse Drug Reactions Occurring in >10% (All Grades) or >=5% (Grades 3 or 4) of Patients Treated With MEKINIST in Combination With Dabrafenib in Trial 2  
+
+
+
+
+   Adverse Reactions              MEKINIST 2 mg plus Dabrafenib    N = 55      MEKINIST 1 mg plus Dabrafenib    N = 54      Dabrafenib    N = 53     
+   All    Grades  a               Grades    3 and 4      All    Grades  a        Grades    3 and 4      All    Grades  a        Grades    3 and 4     
+  
+  General disorders and administrative site conditions    
+      Pyrexia≠B-OSE_Labeled_AE                      71            5              69            9             26           0             
+      Chills≠B-OSE_Labeled_AE                       58            2              50            2             17           0             
+      Fatigue≠B-OSE_Labeled_AE                      53            4              57            2             40           6             
+      Edema≠B-OSE_Labeled_AE   peripheral≠I-OSE_Labeled_AE b           31            0              28            0             17           0             
+   Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE     
+      Rash≠B-OSE_Labeled_AE c                       45            0              43            2             53           0             
+      Night≠B-OSE_Labeled_AE   sweats≠I-OSE_Labeled_AE                 24            0              15            0             6            0             
+      Dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE                     18            0              9             0             6            0             
+      Dermatitis≠B-OSE_Labeled_AE   acneiform≠I-OSE_Labeled_AE         16            0              11            0             4            0             
+      Actinic≠B-OSE_Labeled_AE   keratosis≠I-OSE_Labeled_AE            15            0              7             0             9            0             
+      Erythema≠B-OSE_Labeled_AE                     15            0              6             0             2            0             
+      Pruritus≠B-OSE_Labeled_AE                     11            0              11            0             13           0             
+   Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE      
+      Nausea≠B-OSE_Labeled_AE                       44            2              46            6             21           0             
+      Vomiting≠B-OSE_Labeled_AE                     40            2              43            4             15           0             
+      Diarrhea≠B-OSE_Labeled_AE                     36            2              26            0             28           0             
+      Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE d             33            2              24            2             21           2             
+      Constipation≠B-OSE_Labeled_AE                 22            0              17            2             11           0             
+      Dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE                    11            0              11            0             6            0             
+   Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE        
+      Headache≠B-OSE_Labeled_AE                     29            0              37            2             28           0             
+      Dizziness≠B-OSE_Labeled_AE                    16            0              13            0             9            0             
+   Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE  ,≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE     
+      Cough≠B-OSE_Labeled_AE                        29            0              11            0             21           0             
+      Oropharyngeal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE           13            0              7             0             0            0             
+   Musculoskeletal≠B-NonOSE_AE  ,≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE  ,≠I-NonOSE_AE   and≠I-NonOSE_AE   bone≠I-NonOSE_AE   disorders≠I-NonOSE_AE     
+      Arthralgia≠B-OSE_Labeled_AE                   27            0              44            0             34           0             
+      Myalgia≠B-OSE_Labeled_AE                      22            2              24            0             23           2             
+      Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                    18            5              11            0             11           2             
+      Muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE                16            0              2             0             4            0             
+      Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE            16            0              11            2             19           0             
+   Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   nutritional≠I-NonOSE_AE   disorders≠I-NonOSE_AE     
+      Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE           22            0              30            0             19           0             
+      Dehydration≠B-OSE_Labeled_AE                  11            0              6             2             2            0             
+   Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE           
+      Insomnia≠B-OSE_Labeled_AE                     18            0              11            0             8            2             
+   Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE              
+      Hemorrhage≠B-OSE_Labeled_AE e                 16            5              11            0             2            0             
+   Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE     
+      Urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE      13            2              6             0             9            2             
+   Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   urinary≠I-NonOSE_AE   disorders≠I-NonOSE_AE     
+      Renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE f              7             7              2             0             0            0             
+            *       a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 4. 
+ *       b  Includes the following terms:  peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  edema≠B-OSE_Labeled_AE , and  lymphedema≠B-OSE_Labeled_AE . 
+ *       c  Includes the following terms:  rash≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   generalized≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   pruritic≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   erythematous≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   papular≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   vesicular≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   macular≠I-OSE_Labeled_AE , and  rash≠B-OSE_Labeled_AE   maculo≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  papular≠I-OSE_Labeled_AE . 
+ *       d  Includes the following terms:  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   lower≠I-OSE_Labeled_AE , and  abdominal≠B-OSE_Labeled_AE   discomfort≠I-OSE_Labeled_AE . 
+ *       e  Includes the following terms:  brain≠B-OSE_Labeled_AE   stem≠I-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  cerebral≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  gastric≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  epistaxis≠B-OSE_Labeled_AE ,  gingival≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  hematuria≠B-OSE_Labeled_AE ,  vaginal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  hemorrhage≠B-OSE_Labeled_AE   intracranial≠I-OSE_Labeled_AE ,  eye≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE , and  vitreous≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE . 
+ *       f  Includes the following terms:  renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  and  renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE   acute≠I-OSE_Labeled_AE . 
+    Other clinically important adverse reactions (N = 202) observed in <10% of patients treated with MEKINIST in combination with dabrafenib were:
+ 
+
+    Eye≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :   Vision≠B-OSE_Labeled_AE   blurred≠I-OSE_Labeled_AE ,  transient≠B-OSE_Labeled_AE   blindness≠I-OSE_Labeled_AE .
+
+
+
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :   Stomatitis≠B-OSE_Labeled_AE ,  pancreatitis≠B-OSE_Labeled_AE .
+
+
+
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   Administration≠I-NonOSE_AE   Site≠I-NonOSE_AE   Conditions≠I-NonOSE_AE :   Asthenia≠B-OSE_Labeled_AE .
+
+
+
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE :   Cellulitis≠B-OSE_Labeled_AE ,  folliculitis≠B-OSE_Labeled_AE ,  paronychia≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   pustular≠I-OSE_Labeled_AE .
+
+
+
+    Neoplasms≠B-NonOSE_AE  Benign,  Malignant≠I-NonOSE_AE , and Unspecified (including cysts and polyps):   Skin≠B-OSE_Labeled_AE   papilloma≠I-OSE_Labeled_AE .
+
+
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :   Palmar≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  plantar≠I-OSE_Labeled_AE   erythrodysesthesia≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  hyperkeratosis≠B-OSE_Labeled_AE ,  hyperhidrosis≠B-OSE_Labeled_AE .
+
+
+
+    Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :   Hypertension≠B-OSE_Labeled_AE .
+
+
+
+   Table 6. Treatment-Emergent Laboratory Abnormalities Occurring at >=10% (All Grades) or >=2% (Grades 3 or 4) of Patients Treated With MEKINIST in Combination With Dabrafenib in Trial 2  
+
+
+
+
+  Test                                MEKINIST 2 mg plus Dabrafenib  N = 55    MEKINIST 1 mg plus Dabrafenib  N = 54    Dabrafenib  N = 53    
+  All  Grades                         Grades  3 and 4    All  Grades    Grades  3 and 4    All  Grades    Grades  3 and 4a    
+   Hematology≠B-NonOSE_AE                           
+      Leukopenia≠B-OSE_Labeled_AE                        62           5            46            4            21          0             
+      Lymphopenia≠B-OSE_Labeled_AE                       55           22           59            19           40          6             
+      Neutropenia≠B-OSE_Labeled_AE                       55           13           37            2            9           2             
+      Anemia≠B-OSE_Labeled_AE                            55           4            46            7            28          0             
+      Thrombocytopenia≠B-OSE_Labeled_AE                  31           4            31            2            8           0             
+   Liver≠B-NonOSE_AE   Function≠I-NonOSE_AE   Tests≠I-NonOSE_AE                 
+      Increased≠B-OSE_Labeled_AE   AST≠I-OSE_Labeled_AE                     60           5            54            0            15          0             
+      Increased≠B-OSE_Labeled_AE   alkaline≠I-OSE_Labeled_AE   phosphatase≠I-OSE_Labeled_AE     60           2            67            6            26          2             
+      Increased≠B-OSE_Labeled_AE   ALT≠I-OSE_Labeled_AE                     42           4            35            4            11          0             
+      Hyperbilirubinemia≠B-OSE_Labeled_AE                15           0            7             4            0           0             
+   Chemistry≠B-NonOSE_AE                            
+      Hyperglycemia≠B-OSE_Labeled_AE                     58           5            67            6            49          2             
+      Increased≠B-OSE_Labeled_AE   GGT≠I-OSE_Labeled_AE                     56           11           54            17           38          2             
+      Hyponatremia≠B-OSE_Labeled_AE                      55           11           48            15           36          2             
+      Hypoalbuminemia≠B-OSE_Labeled_AE                   53           0            43            2            23          0             
+      Hypophosphatemia≠B-OSE_Labeled_AE                  47           5            41            11           40          0             
+      Hypokalemia≠B-OSE_Labeled_AE                       29           2            15            2            23          6             
+      Increased≠B-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE              24           5            20            2            9           0             
+      Hypomagnesemia≠B-OSE_Labeled_AE                    18           2            2             0            6           0             
+      Hyperkalemia≠B-OSE_Labeled_AE                      18           0            22            0            15          4             
+      Hypercalcemia≠B-OSE_Labeled_AE                     15           0            19            2            4           0             
+      Hypocalcemia≠B-OSE_Labeled_AE                      13           0            20            0            9           0             
+            *       a  No Grade 4 events were reported in dabrafenib arm. 
+ *     ALT = Alanine aminotransferase; AST = Aspartate aminotransferase; GGT = Gamma glutamyltransferase. 
+       QT≠B-OSE_Labeled_AE   Prolongation≠I-OSE_Labeled_AE :  In Trial 2,  QTcF≠B-OSE_Labeled_AE   prolongation≠I-OSE_Labeled_AE  to >500 msec occurred in 4% (2/55) of patients treated with MEKINIST in combination with dabrafenib and in 2% (1/53) of patients treated with dabrafenib as a single agent. The  QTcF≠B-OSE_Labeled_AE  was  increased≠I-OSE_Labeled_AE  more than 60 msec from baseline in 13% (7/55) of patients treated with MEKINIST in combination with dabrafenib and 2% (1/53) of patients treated with dabrafenib as a single agent.

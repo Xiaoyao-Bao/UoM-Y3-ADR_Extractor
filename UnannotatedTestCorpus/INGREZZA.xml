@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="INGREZZA">
+  <Text>
+    <Section id="S1" name="adverse reactions">      6    ADVERSE REACTIONS  
+
+  The following adverse reactions are discussed in more detail in other sections of the labeling:
+
+
+
+ *  Hypersensitivity [see Contraindications (    4    )]  
+ *  Somnolence [see Warnings and Precautions (    5.1    )]  
+ *  QT Prolongation [see Warnings and Precautions (    5.2    )]  
+      EXCERPT:   Most common adverse reaction (&gt;=5% and twice the rate of placebo): somnolence. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Neurocrine Biosciences, Inc. at 877-641-3461 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+    6.1    Clinical Trials Experience  
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+   Variable    and Fixed Dose         Placebo-Controlled Trial Experience  
+
+
+
+ The safety of INGREZZA was evaluated in 3 placebo-controlled studies, each 6 weeks in duration (fixed dose, dose escalation, dose reduction), including 445 patients. Patients were 26 to 84 years of age with moderate to severe tardive dyskinesia and had concurrent diagnoses of mood disorder (27%) or schizophrenia/ schizoaffective disorder (72%). The mean age was 56 years. Patients were 57% Caucasian, 39% African-American, and 4% other. With respect to ethnicity, 28% were Hispanic or Latino. All subjects continued previous stable regimens of antipsychotics; 85% and 27% of subjects, respectively, were taking atypical and typical antipsychotic medications at study entry.  
+
+
+
+   Adverse Reactions Leading to Discontinuation of Treatment    
+
+
+
+ A total of 3% of INGREZZA treated patients and 2% of placebo-treated patients discontinued because of adverse reactions.
+
+
+
+   Common Adverse Reactions  
+
+
+
+ Adverse reactions that occurred in the 3 placebo-controlled studies at an incidence of &gt;=2% and greater than placebo are presented in Table 1.
+
+
+
+ Table 1:       Adverse Reactions in 3 Placebo-Controlled Studies of 6-week Treatment Duration Reported at &gt;=2% and &gt;Placebo 
+   Adverse Reaction      1        INGREZZA    (n=262) (%)      Placebo    (n=183) (%)     
+   General Disorders     
+ Somnolence          (somnolence, fatigue, sedation)  10.9%            4.2%              
+   Nervous System Disorders     
+ Anticholinergic effects  5.4%             4.9%              
+           (dry mouth, constipation, disturbance in attention, vision                                     
+           blurred, urinary retention)                                     
+ Balance disorders/fall          (fall, gait disturbance, dizziness, balance disorder)  4.1%             2.2%              
+ Headache         3.4%             2.7%              
+ Akathisia          (akathisia, restlessness)  2.7%             0.5%              
+   Gastrointestinal Disorders     
+ Vomiting         2.6%             0.6%              
+ Nausea           2.3%             2.1%              
+   Musculoskeletal Disorders     
+ Arthralgia       2.3%             0.5%              
+           1   Within each adverse reaction category, the observed adverse reactions are listed in order of decreasing frequency.
+ 
+
+   Other Adverse Reactions Observed    During the Premarketing Evaluation of INGREZZA  
+
+
+
+ Other adverse reactions of &gt;=1% incidence and greater than placebo are shown below. The following list does not include adverse reactions: 1) already listed in previous tables or elsewhere in the labeling, 2) for which a drug cause was remote, 3) which were so general as to be uninformative, 4) which were not considered to have clinically significant implications, or 5) which occurred at a rate equal to or less than placebo.
+
+
+
+   Endocrine Disorders:  blood glucose increased
+
+
+
+   General Disorders:   weight increased
+
+
+
+   Infectious Disorders:  respiratory infections
+
+
+
+   Neurologic Disorders:  drooling, dyskinesia, extrapyramidal symptoms (non-akathisia)
+
+
+
+   Psychiatric Disorders:   anxiety, insomnia
+
+
+
+ During controlled trials, there was a dose-related increase in prolactin. Additionally, there was a dose-related increase in alkaline phosphatase and bilirubin, suggesting a potential risk for cholestasis.
+
+
+
+     6.2    Postmarketing Experience  
+
+  The following adverse reactions have been identified during post-approval use of INGREZZA that are not included in other sections of labeling. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   Immune System Disorders:  hypersensitivity reactions (including allergic dermatitis, angioedema, pruritis, and urticaria)
+
+
+
+   Skin and Subcutaneous Tissue Disorders  : rash
+</Section>
+    <Section id="S2" name="warnings and precautions">     5   WARNINGS AND PRECAUTIONS  
+
+
+
+   EXCERPT:    *  Somnolence: May impair patient's ability to drive or operate hazardous machinery. (  5.1  ) 
+ *  QT Prolongation: May cause an increase in QT interval. Avoid use in patients with congenital long QT syndrome or with arrhythmias associated with a prolonged QT interval. (  5.2  ) 
+    
+ 
+
+    5.1   Somnolence  
+
+
+
+  INGREZZA can cause somnolence. Patients should not perform activities requiring mental alertness such as operating a motor vehicle or operating hazardous machinery until they know how they will be affected by INGREZZA [see Adverse Reactions (     6.1     )].  
+
+
+
+     5.2   QT Prolongation  
+
+
+
+  INGREZZA may prolong the QT interval, although the degree of QT prolongation is not clinically significant at concentrations expected with recommended dosing. In patients taking a strong CYP2D6 or CYP3A4 inhibitor, or who are CYP2D6 poor metabolizers, INGREZZA concentrations may be higher and QT prolongation clinically significant  [see Clinical Pharmacology (     12.2     )]  . For patients who are CYP2D6 poor metabolizers or are taking a strong CYP2D6 inhibitor, dose reduction may be necessary. For patients taking a strong CYP3A4 inhibitor, reduce the dose of INGREZZA to 40 mg once daily [see Dosage and Administration (     2.3     ,     2.4     )].   INGREZZA should be avoided in patients with congenital long QT syndrome or with arrhythmias associated with a prolonged QT interval.  For patients at increased risk of a prolonged QT interval, assess the QT interval before increasing the dosage.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="26" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="31" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="299" name="excerpt" section="S2" start="41" />
+    <IgnoredRegion len="255" name="excerpt" section="S1" start="326" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="347" />
+    <IgnoredRegion len="37" name="heading" section="S1" start="585" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="640" />
+    <IgnoredRegion len="35" name="heading" section="S1" start="4288" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

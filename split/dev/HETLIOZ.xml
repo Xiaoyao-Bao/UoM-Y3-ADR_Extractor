@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoldLabel drug="HETLIOZ">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6. ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions (incidence &gt;5% and at least twice as high on HETLIOZ than on placebo) were headache, increased alanine aminotransferase, nightmares or unusual dreams, and upper respiratory or urinary tract infection (  6.1  )
+
+
+
+ To report SUSPECTED ADVERSE REACTIONS, contact Vanda Pharmaceuticals Inc. at 1-844-438-5469 or  www.hetlioz.com  or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ A total of 1346 subjects were treated with at least one dose of HETLIOZ, of which 139 were treated for &gt; 26 weeks and 93 were treated for &gt; 1 year.
+
+
+
+ A 26-week, parallel-arm placebo-controlled study (Study 1) evaluated HETLIOZ (n=42) compared to placebo (n=42) in patients with Non-24. A randomized-withdrawal, placebo- controlled study of 8 weeks duration (Study 2) also evaluated HETLIOZ (n=10), compared to placebo (n=10), in patients with Non-24.
+
+
+
+ In placebo-controlled studies, 6% of patients exposed to HETLIOZ discontinued treatment due to an adverse event, compared with 4% of patients who received placebo.
+
+
+
+   Table 1  shows the incidence of adverse reactions from Study 1.
+
+
+
+
+  *Adverse reactions with an incidence &gt; 5% and at least twice as high on HETLIOZ than on placebo are displayed.    
+  
+   Table 1: Adverse Reactions in Study 1            
+                                                          HETLIOZN=42                 PlaceboN=42           
+ Headache                                                     17 %                        7 %               
+ Alanine aminotransferase increased                           10 %                        5 %               
+ Nightmare/abnormal dreams                                    10 %                        0 %               
+ Upper respiratory tract infection                            7 %                         0 %               
+ Urinary tract infection                                      7 %                         2 %               
+</Section>
+    <Section id="S2" name="warnings and precautions">    5. WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   May cause somnolence: After taking HETLIOZ, patients should limit their activity to preparing for going to bed, because HETLIOZ can impair the performance of activities requiring complete mental alertness (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 Somnolence
+
+
+
+  After taking HETLIOZ, patients should limit their activity to preparing for going to bed. HETLIOZ can potentially impair the performance of activities requiring complete mental alertness.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="20" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="27" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="430" name="excerpt" section="S1" start="27" />
+    <IgnoredRegion len="233" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="274" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="461" />
+  </IgnoredRegions>
+  <Mentions>
+    <Mention id="M1" len="8" reason="from_drug_use" section="S1" start="1750" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Headache" meddra_llt_id="10019211" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Mention>
+    <Mention id="M5" len="34" reason="from_drug_use" section="S1" start="1859" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Alanine aminotransferase increased" meddra_llt_id="10001551" meddra_pt="Alanine aminotransferase increased" meddra_pt_id="10001551" />
+    </Mention>
+    <Mention id="M2" len="9" reason="from_drug_use" section="S1" start="1968" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Nightmare" meddra_llt_id="10029412" meddra_pt="Nightmare" meddra_pt_id="10029412" />
+    </Mention>
+    <Mention id="M6" len="15" reason="from_drug_use" section="S1" start="1978" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Dreams abnormal" meddra_llt_id="10013632" meddra_pt="Abnormal dreams" meddra_pt_id="10000125" />
+    </Mention>
+    <Mention id="M3" len="33" reason="from_drug_use" section="S1" start="2077" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Upper respiratory tract infection" meddra_llt_id="10046306" meddra_pt="Upper respiratory tract infection" meddra_pt_id="10046306" />
+    </Mention>
+    <Mention id="M4" len="23" reason="from_drug_use" section="S1" start="2186" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Infection urinary tract" meddra_llt_id="10021872" meddra_pt="Urinary tract infection" meddra_pt_id="10046571" />
+    </Mention>
+    <Mention id="M7" len="10" reason="from_drug_use" section="S2" start="278" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Somnolence" meddra_llt_id="10041349" meddra_pt="Somnolence" meddra_pt_id="10041349" />
+    </Mention>
+    <Mention id="M8" len="72" reason="from_drug_use" section="S2" start="408" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Performance status decreased" meddra_llt_id="10048919" meddra_pt="Performance status decreased" meddra_pt_id="10048919" />
+    </Mention>
+  </Mentions>
+</GoldLabel>

@@ -1,0 +1,142 @@
+    6          ADVERSE REACTIONS  
+
+  The following adverse reactions are discussed in greater detail in other sections of labeling:
+
+ *   Hypocalcemia≠B-OSE_Labeled_AE  [see Warnings and Precautions (    5.1    )]  
+ *   Upper≠B-OSE_Labeled_AE   Gastrointestinal≠I-OSE_Labeled_AE   Bleeding≠I-OSE_Labeled_AE  [see Warnings and Precautions (    5.2    )]  
+ *   Hypotension≠B-OSE_Labeled_AE ,  Worsening≠B-OSE_Labeled_AE   Heart≠I-OSE_Labeled_AE   Failure≠I-OSE_Labeled_AE  and/or  Arrhythmias≠B-OSE_Labeled_AE  [ see Warnings and  Precautions  (    5.3    )]  
+ *   Adynamic≠B-OSE_Labeled_AE   Bone≠I-OSE_Labeled_AE   Disease≠I-OSE_Labeled_AE  [see Warnings and Precautions (    5.4    )]  
+      EXCERPT:   The most common adverse reactions (i.e., >= 25%) associated with Sensipar were nausea and vomiting. (  6  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Amgen Medical Information at 1-800-77-AMGEN (1-800-772-6436) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+ 
+
+  6.1       Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+   Secondary Hyperparathyroidism in Patients with         Chronic Kidney Disease on Dialysis  
+
+ In three double-blind, placebo-controlled clinical trials, 1126 patients with  CKD≠B-Not_AE_Candidate  on dialysis received study drug (656 Sensipar, 470 placebo) for up to 6 months. The most frequently reported adverse reactions are listed in Table 1. 
+
+  Seizures≠B-OSE_Labeled_AE  were observed in 1.4% (13/910) of Sensipar-treated patients and 0.7% (5/641) of placebo-treated patients across all completed placebo controlled trials.
+
+ Table 1. Adverse Reactions with Frequency >= 5% in Patients on Dialysis in Short-Term Studies for up to 6 Months 
+                                   Placebo          Sensipar          
+                                   (n = 470)        (n = 656)         
+                                                                      
+ Event*:          (%)              (%)               
+                                                                      
+  Nausea≠B-OSE_Labeled_AE            19               31                
+  Vomiting≠B-OSE_Labeled_AE          15               27                
+  Diarrhea≠B-OSE_Labeled_AE          20               21                
+  Myalgia≠B-OSE_Labeled_AE           14               15                
+  Dizziness≠B-OSE_Labeled_AE         8                10                
+  Hypertension≠B-OSE_Labeled_AE      5                7                 
+  Asthenia≠B-OSE_Labeled_AE          4                7                 
+  Anorexia≠B-OSE_Labeled_AE          4                6                 
+  Pain≠B-OSE_Labeled_AE   Chest≠I-OSE_Labeled_AE  ,≠I-OSE_Labeled_AE   Non≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Cardiac≠I-OSE_Labeled_AE   4                6                 
+  Dialysis≠B-OSE_Labeled_AE   Access≠I-OSE_Labeled_AE   Site≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE   4                5                 
+           *Included are events that were reported at a greater incidence in the Sensipar group than in the placebo group.
+ 
+
+ In a randomized, double-blind placebo controlled study of 3883 patients with  secondary≠B-Not_AE_Candidate   HPT≠I-Not_AE_Candidate  and  CKD≠B-Not_AE_Candidate  receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the Sensipar group), the most frequently reported adverse reactions (incidence of  >=   5% in the Sensipar group and a difference >= 1% compared to placebo) are listed in Table 2.
+
+ Table 2. Frequency of Adverse Reactions in Dialysis Patients Treated for up to 64 Months in a Long-Term Study1 
+                  Placebo (n = 1923)  Sensipar (n = 1938)   
+                  3699 subject-years  4044 subject-years   
+ Percent of subjects reporting Adverse Reactions (%)  90.9             93.2              
+  Nausea≠B-OSE_Labeled_AE            15.5             29.1              
+  Vomiting≠B-OSE_Labeled_AE          13.7             25.6              
+  Diarrhea≠B-OSE_Labeled_AE          18.7             20.5              
+  Dyspnea≠B-OSE_Labeled_AE           11.5             13.4              
+  Cough≠B-OSE_Labeled_AE             9.8              11.7              
+  Hypotension≠B-OSE_Labeled_AE       10.5             11.6              
+  Headache≠B-OSE_Labeled_AE          9.6              11.5              
+  Hypocalcemia≠B-OSE_Labeled_AE      1.4              11.2              
+  Muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE     9.2              11.1              
+  Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE    9.6              10.9              
+  Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE   6.3              8.2               
+  Hyperkalemia≠B-OSE_Labeled_AE      6.1              8.1               
+  Upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE   6.3              7.6               
+  Dyspepsia≠B-OSE_Labeled_AE         4.6              7.4               
+  Dizziness≠B-OSE_Labeled_AE         4.7              7.3               
+  Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE   3.5              5.9               
+  Asthenia≠B-OSE_Labeled_AE          3.8              5.4               
+  Constipation≠B-OSE_Labeled_AE      3.8              5.0               
+           1  Adverse reactions that occurred in >= 5% frequency in the Sensipar group and a difference >= 1% compared to the placebo group (Safety Analysis Set)
+ 
+
+ Crude incidence rate = 100 * Total number of subjects with event/ n
+
+ n = Number of subjects receiving at least one dose of study drug
+
+ Additional adverse reaction rates from the long-term, randomized, double-blind placebo controlled study for Sensipar versus placebo are as follows:  seizure≠B-OSE_Labeled_AE  (2.5%, 1.6%),  rash≠B-OSE_Labeled_AE  (2.2%, 1.9%),  hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (9.4%, 8.3%).
+
+   Patients with    Parathyroid Carcinoma and Primary Hyperparathyroidism  
+
+ The safety profile of Sensipar in these patient populations is generally consistent with that seen in patients with  CKD≠B-Not_AE_Candidate  on dialysis. Forty six patients were treated with Sensipar in a single arm study, 29 with  Parathyroid≠B-Not_AE_Candidate   Carcinoma≠I-Not_AE_Candidate  and 17 with intractable  pHPT≠B-Not_AE_Candidate . Nine (20%) of the patients withdrew from the study due to adverse events. The most frequent adverse reactions and the most frequent cause of withdrawal in these patient populations were  nausea≠B-OSE_Labeled_AE  and  vomiting≠B-OSE_Labeled_AE . Severe or prolonged cases of  nausea≠B-OSE_Labeled_AE  and  vomiting≠B-OSE_Labeled_AE  can lead to  dehydration≠B-NonOSE_AE  and worsening  hypercalcemia≠B-NonOSE_AE  so careful monitoring of electrolytes is recommended in patients with these symptoms.
+
+ Eight patients died during treatment with Sensipar in this study, 7 with  Parathyroid≠B-Not_AE_Candidate   Carcinoma≠I-Not_AE_Candidate  (24%) and 1 (6%) with intractable  pHPT≠B-Not_AE_Candidate . Causes of  death≠B-NonOSE_AE  were  cardiovascular≠B-NonOSE_AE  (5 patients),  multi≠B-NonOSE_AE  -≠I-NonOSE_AE  organ≠I-NonOSE_AE   failure≠I-NonOSE_AE  (1 patient),  gastrointestinal≠B-NonOSE_AE   hemorrhage≠I-NonOSE_AE  (1 patient) and  metastatic≠B-NonOSE_AE   carcinoma≠I-NonOSE_AE  (1 patient). Adverse events of  hypocalcemia≠B-OSE_Labeled_AE  were reported in three patients (7%).
+
+  Seizures≠B-OSE_Labeled_AE  were observed in 0.7% (1/140) of cinacalcet-treated patients and 0.0% (0/46) of placebo-treated patients in all clinical studies.
+
+ Table 3. Adverse Reactions with Frequency >= 10% in a Single Arm, Open-Label Study in Patients with Primary Hyperparathyroidism or Parathyroid Carcinoma  
+                  Sensipar          
+                                    
+                  ParathyroidCarcinoma(n = 29)  IntractablepHPT(n = 17)  Total(n = 46)     
+                                    
+                  n (%)            n (%)            n (%)             
+ Number of Subjects Reporting Adverse Reactions  28 (97)          17 (100)         45 (98)           
+                                                                      
+  Nausea≠B-OSE_Labeled_AE            19 (66)          10 (59)          29 (63)           
+  Vomiting≠B-OSE_Labeled_AE          15 (52)          6 (35)           21 (46)           
+  Paresthesia≠B-OSE_Labeled_AE       4 (14)           5 (29)           9 (20)            
+  Fatigue≠B-OSE_Labeled_AE           6 (21)           2 (12)           8 (17)            
+  Fracture≠B-OSE_Labeled_AE          6 (21)           2 (12)           8 (17)            
+  Hypercalcemia≠B-OSE_Labeled_AE     6 (21)           2 (12)           8 (17)            
+  Anorexia≠B-OSE_Labeled_AE          6 (21)           1 (6)            7 (15)            
+  Asthenia≠B-OSE_Labeled_AE          5 (17)           2 (12)           7 (15)            
+  Dehydration≠B-OSE_Labeled_AE       7 (24)           0 (0)            7 (15)            
+  Anemia≠B-OSE_Labeled_AE            5 (17)           1 (6)            6 (13)            
+  Arthralgia≠B-OSE_Labeled_AE        5 (17)           1 (6)            6 (13)            
+  Constipation≠B-OSE_Labeled_AE      3 (10)           3 (18)           6 (13)            
+  Depression≠B-OSE_Labeled_AE        3 (10)           3 (18)           6 (13)            
+  Headache≠B-OSE_Labeled_AE          6 (21)           0 (0)            6 (13)            
+  Infection≠B-OSE_Labeled_AE   Upper≠I-OSE_Labeled_AE   Respiratory≠I-OSE_Labeled_AE   3 (10)           2 (12)           5 (11)            
+  Pain≠B-OSE_Labeled_AE   Limb≠I-OSE_Labeled_AE         3 (10)           2 (12)           5 (11)            
+            n = Number of subjects receiving at least one dose of study drug.
+ 
+
+  pHPT≠B-Not_AE_Candidate   =≠I-Not_AE_Candidate   primary≠I-Not_AE_Candidate   hyperparathyroidism≠I-Not_AE_Candidate 
+
+ In a randomized double-blind, placebo-controlled study of 67 patients with  primary≠B-Not_AE_Candidate   hyperparathyroidism≠I-Not_AE_Candidate  for whom parathyroidectomy would be indicated on the basis of serum calcium levels, but who are unable to undergo surgery, the most common adverse reactions are listed in Table 4.
+
+ Table 4. Adverse Reactions Occurring in >= 10% of Subjects in a Double-Blind, Placebo-Controlled Study in Patients with Primary Hyperparathyroidism 
+ Adverse Reaction  Placebo(n = 34)n (%)  Cinacalcet(n = 33)n (%)   
+  Nausea≠B-OSE_Labeled_AE            6 (18)           10 (30)           
+  Muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE     0 (0)            6 (18)            
+  Headache≠B-OSE_Labeled_AE          2 (6)            4 (12)            
+  Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE         2 (6)            4 (12)            
+         n = Number of subjects receiving at least one dose of study drug Coded using MedDRA version 16.0
+ 
+
+   Hypocalcemia  
+
+ In 26-week studies of patients with  secondary≠B-Not_AE_Candidate   HPT≠I-Not_AE_Candidate  and  CKD≠B-Not_AE_Candidate  on dialysis 66% of patients receiving Sensipar compared with 25% of patients receiving placebo developed at least one serum calcium value less than 8.4 mg/dL, whereas, 29% of patients receiving Sensipar compared with 11% of patients receiving placebo developed at least one serum calcium value less than 7.5 mg/dL. Less than 1% of patients in each group permanently discontinued study drug due to  hypocalcemia≠B-OSE_Labeled_AE .
+
+ In a randomized, double-blind, placebo-controlled study in patients with  secondary≠B-Not_AE_Candidate   HPT≠I-Not_AE_Candidate  and  CKD≠B-Not_AE_Candidate  receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the cinacalcet group), 75% of patients receiving Sensipar compared with 29% of patients receiving placebo developed at least one  serum≠B-OSE_Labeled_AE   calcium≠I-OSE_Labeled_AE   value≠I-OSE_Labeled_AE   less≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   8≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  4≠I-OSE_Labeled_AE   mg≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  dL≠I-OSE_Labeled_AE  and 33% of cinacalcet patients compared with 12% of patients receiving placebo had at least one  serum≠B-OSE_Labeled_AE   calcium≠I-OSE_Labeled_AE   value≠I-OSE_Labeled_AE   less≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   7≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  5≠I-OSE_Labeled_AE   mg≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  dL≠I-OSE_Labeled_AE .  Most of the cases of severe  hypocalcemia≠B-OSE_Labeled_AE  less than 7.5 mg/dL (21/33=64%) occurred during the first 6 months. In this trial, 1.1% of patients receiving Sensipar and 0.1% of patients receiving placebo permanently discontinued study drug due to  hypocalcemia≠B-OSE_Labeled_AE .
+
+ During a placebo-controlled part of a 52-week study in patients with  primary≠B-Not_AE_Candidate   HPT≠I-Not_AE_Candidate  who met criteria for parathyroidectomy on the basis of corrected total serum calcium (> 11.3 mg/dL [2.82 mmol/L] and <= 12.5 mg/dL [3.12 mmol/L]),  serum≠B-OSE_Labeled_AE   calcium≠I-OSE_Labeled_AE   less≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   8≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  4≠I-OSE_Labeled_AE   mg≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  dL≠I-OSE_Labeled_AE  was observed in 6.1% (2/33) of Sensipar treated patients and 0% (0/34) of placebo treated patients.
+
+   6.2       Postmarketing Experience
+
+  The following adverse reactions have been identified during post approval use of Sensipar. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+ *   Rash≠B-OSE_Labeled_AE  and  hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (including  angioedema≠B-OSE_Labeled_AE  and  urticaria≠B-OSE_Labeled_AE ), and  myalgia≠B-OSE_Labeled_AE  
+ *  Isolated, idiosyncratic cases of  hypotension≠B-OSE_Labeled_AE ,  worsening≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE , and/or  arrhythmia≠B-OSE_Labeled_AE  have been 
+ *  reported in patients with  impaired≠B-Not_AE_Candidate   cardiac≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate  
+ *   Gastrointestinal≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE   
+

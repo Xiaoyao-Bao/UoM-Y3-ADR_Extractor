@@ -1,0 +1,97 @@
+    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed in greater detail in another section of the label:
+
+
+
+ *    Bone Marrow Suppression [see Warnings and Precautions (  5.1  )]  
+      EXCERPT:   The most common adverse drug reactions (>= 10%) in patients receiving Xofigo were nausea, diarrhea, vomiting, and peripheral edema.
+ 
+
+ The most common hematologic laboratory abnormalities (>= 10%) were anemia, lymphocytopenia, leukopenia, thrombocytopenia, and neutropenia (  6.1  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    Bayer HealthCare Pharmaceuticals Inc. at 1-888-842-2937    or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In the randomized clinical trial in patients with metastatic castration-resistant prostate cancer with bone metastases, 600 patients received intravenous injections of 50 kBq/kg (1.35 microcurie/kg) of Xofigo and best standard of care and 301 patients received placebo and best standard of care once every 4 weeks for up to 6 injections. Prior to randomization, 58% and 57% of patients had received docetaxel in the Xofigo and placebo arms, respectively. The median duration of treatment was 20 weeks (6 cycles) for Xofigo and 18 weeks (5 cycles) for placebo.
+
+
+
+ The most common adverse reactions (>= 10%) in patients receiving Xofigo were nausea, diarrhea, vomiting, and peripheral edema (Table 3). Grade 3 and 4 adverse events were reported among 57% of Xofigo-treated patients and 63% of placebo-treated patients. The most common hematologic laboratory abnormalities in Xofigo-treated patients (>= 10%) were anemia, lymphocytopenia, leukopenia, thrombocytopenia, and neutropenia (Table 4).
+
+
+
+ Treatment discontinuations due to adverse events occurred in 17% of patients who received Xofigo and 21% of patients who received placebo. The most common hematologic laboratory abnormalities leading to discontinuation for Xofigo were anemia (2%) and thrombocytopenia (2%).
+
+
+
+ Table 3 shows adverse reactions occurring in >= 2% of patients and for which the incidence for Xofigo exceeds the incidence for placebo.
+
+
+
+ Table 3: Adverse Reactions in the Randomized Trial 
+  System/Organ ClassPreferred Term    Xofigo (n=600)           Placebo (n=301)          
+  Grades 1-4%              Grades 3-4%              Grades 1-4%              Grades 3-4%              
+  Blood and lymphatic system disorders    
+  Pancytopenia             2                        1                        0                        0                        
+  Gastrointestinal disorders    
+  Nausea                   36                       2                        35                       2                        
+  Diarrhea                 25                       2                        15                       2                        
+  Vomiting                 19                       2                        14                       2                        
+  General disorders and administration site conditions    
+  Peripheral edema         13                       2                        10                       1                        
+  Renal and urinary disorders    
+  Renal failure and impairment    3                        1                        1                        1                        
+             Laboratory Abnormalities
+   Table 4 shows hematologic laboratory abnormalities occurring in  >  10% of patients and for which the incidence for Xofigo exceeds the incidence for placebo.
+
+
+
+   Table 4: Hematologic Laboratory Abnormalities  
+
+
+
+
+  Hematologic Laboratory Abnormalities    Xofigo (n=600)           Placebo (n=301)          
+  Grades 1-4%              Grades 3-4%              Grades 1-4%              Grades 3-4%              
+  Anemia                   93                       6                        88                       6                        
+  Lymphocytopenia          72                       20                       53                       7                        
+  Leukopenia               35                       3                        10                       <1                       
+  Thrombocytopenia         31                       3                        22                       <1                       
+  Neutropenia              18                       2                        5                        <1                       
+  Laboratory values were obtained at baseline and prior to each 4-week cycle.    
+           As an adverse reaction, grade 3-4 thrombocytopenia was reported in 6% of patients on Xofigo and in 2% of patients on placebo. Among patients who received Xofigo, the laboratory abnormality grade 3-4 thrombocytopenia occurred in 1% of docetaxel naive patients and in 4% of patients who had received prior docetaxel. Grade 3-4 neutropenia occurred in 1% of docetaxel naive patients and in 3% of patients who have received prior docetaxel.
+ 
+
+   Fluid Status
+
+  Dehydration occurred in 3% of patients on Xofigo and 1% of patients on placebo. Xofigo increases adverse reactions such as diarrhea, nausea, and vomiting which may result in dehydration. Monitor patients' oral intake and fluid status carefully and promptly treat patients who display signs or symptoms of dehydration or hypovolemia.
+
+
+
+   Injection Site Reactions
+
+  Erythema, pain, and edema at the injection site were reported in 1% of patients on Xofigo.
+
+
+
+   Secondary Malignant Neoplasms
+
+  Xofigo contributes to a patient's overall long-term cumulative radiation exposure. Long-term cumulative radiation exposure may be associated with an increased risk of cancer and hereditary defects. Due to its mechanism of action and neoplastic changes, including osteosarcomas, in rats following administration of radium-223 dichloride, Xofigo may increase the risk of osteosarcoma or other secondary malignant neoplasms  [see Nonclinical Toxicology (  13.1  )]  . However, the overall incidence of new malignancies in the randomized trial was lower on the Xofigo arm compared to placebo (<1% vs. 2%; respectively), but the expected latency period for the development of secondary malignancies exceeds the duration of follow up for patients on the trial.
+
+
+
+   Subsequent Treatment with Cytotoxic Chemotherapy
+
+  In the randomized clinical trial, 16% patients in the Xofigo group and 18% patients in the placebo group received cytotoxic chemotherapy after completion of study treatments. Adequate safety monitoring and laboratory testing was not performed to assess how patients treated with Xofigo will tolerate subsequent cytotoxic chemotherapy.

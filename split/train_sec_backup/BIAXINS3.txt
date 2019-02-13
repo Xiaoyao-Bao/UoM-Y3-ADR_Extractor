@@ -1,0 +1,44 @@
+   WARNINGS
+
+   Use In Pregnancy
+
+   CLARITHROMYCIN SHOULD NOT BE USED IN PREGNANT WOMEN EXCEPT IN CLINICAL CIRCUMSTANCES WHERE NO ALTERNATIVE THERAPY IS APPROPRIATE. IF PREGNANCY OCCURS WHILE TAKING THIS DRUG, THE PATIENT SHOULD BE APPRISED OF THE POTENTIAL HAZARD TO THE FETUS. CLARITHROMYCIN HAS DEMONSTRATED ADVERSE EFFECTS OF PREGNANCY OUTCOME AND/OR EMBRYO-FETAL DEVELOPMENT IN MONKEYS, RATS, MICE, AND RABBITS AT DOSES THAT PRODUCED PLASMA LEVELS 2 TO 17 TIMES THE SERUM LEVELS ACHIEVED IN HUMANS TREATED AT THE MAXIMUM RECOMMENDED HUMAN DOSES. (See PRECAUTIONS -    Pregnancy     .)  
+
+    Hepatotoxicity
+
+  Hepatic dysfunction, including increased liver enzymes, and hepatocellular and/or cholestatic hepatitis, with or without jaundice, has been reported with clarithromycin. This hepatic dysfunction may be severe and is usually reversible. In some instances, hepatic failure with fatal outcome has been reported and generally has been associated with serious underlying diseases and/or concomitant medications. Discontinue clarithromycin immediately if signs and symptoms of hepatitis occur.
+
+    Drug Interactions
+
+  Serious adverse reactions have been reported in patients taking clarithromycin concomitantly with CYP3A4 substrates. These include colchicine toxicity with colchicine; rhabdomyolysis with simvastatin, lovastatin, and atorvastatin; and hypotension with calcium channel blockers metabolized by CYP3A4 (e.g., verapamil, amlodipine, diltiazem) (see CONTRAINDICATIONS  and PRECAUTIONS   -   Drug Interactions  ).
+
+ Life-threatening and fatal drug interactions have been reported in patients treated with clarithromycin and colchicine. Clarithromycin is a strong CYP3A4 inhibitor and this interaction may occur while using both drugs at their recommended doses. If co-administration of clarithromycin and colchicine is necessary in patients with normal renal and hepatic function, the dose of colchicine should be reduced. Patients should be monitored for clinical symptoms of colchicine toxicity. Concomitant administration of clarithromycin and colchicine is contraindicated in patients with renal or hepatic impairment (see CONTRAINDICATIONS  and PRECAUTIONS - Drug Interactions  ).
+
+     Clostridium difficile  Associated Diarrhea
+
+   Clostridium difficile  associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including BIAXIN, and may range in severity from mild diarrhea to fatal colitis. Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile  .
+
+  C. difficile  produces toxins A and B which contribute to the development of CDAD. Hypertoxin producing strains of C. difficile  cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy. CDAD must be considered in all patients who present with diarrhea following antibiotic use. Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
+ If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile  may need to be discontinued. Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile  , and surgical evaluation should be instituted as clinically indicated.
+
+ For information about warnings of other drugs indicated in combination with BIAXIN, refer to the WARNINGS  section of their package inserts.
+
+ Due to the risk for QT prolongation clarithromycin should be used with caution in patients with a medical condition associated with an increased tendency toward QT prolongation and torsades de pointes  .
+
+ In the event of severe acute hypersensitivity reactions, such as anaphylaxis, Stevens-Johnson Syndrome, toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms (DRESS), and Henoch-Schonlein purpura clarithromycin therapy should be discontinued immediately and appropriate treatment should be urgently initiated.
+
+    Oral Hypoglycemic Agents/Insulin
+
+  The concomitant use of clarithromycin and oral hypoglycemic agents and/or insulin can result in significant hypoglycemia. With certain hypoglycemic drugs such as nateglinide, pioglitazone, repaglinide and rosiglitazone, inhibition of CYP3A enzyme by clarithromycin may be involved and could cause hypolgycemia when used concomitantly. Careful monitoring of glucose is recommended.
+
+    Oral Anticoagulants
+
+  There is a risk of serious hemorrhage and significant elevations in INR and prothrombin time when clarithromycin is co-administered with warfarin. INR and prothrombin times should be frequently monitored while patients are receiving clarithromycin and oral anticoagulants concurrently.
+
+    HMG-CoA Reductase Inhibitors
+
+  Concomitant use of clarithromycin with lovastatin or simvastatin is contraindicated (see CONTRAINDICATIONS  ). As with other macrolides, clarithromycin has been reported to increase concentrations of HMG-CoA reductase inhibitors. Rare reports of rhabdomyolysis have been reported in patients taking these drugs concomitantly. Patients should be monitored for signs and symptoms of myopathy.
+
+ Rare reports of rhabdomyolysis have also been reported in patients taking atorvastatin or rosuvastatin concomitantly with clarithromycin. When used with clarithromycin, atorvastatin or rosuvastatin should be administered in the lowest possible doses. Adjustment of the statin dose or use of a statin that is not dependent on CYP3A metabolism (e.g.fluvastatin or pravastatin) should be considered.
+

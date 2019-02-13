@@ -1,0 +1,39 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Myelodysplastic syndrome/Acute Myeloid Leukemia: (MDS/AML) occurred in patients exposed to Lynparza, and some cases were fatal. Monitor patients for hematological toxicity at baseline and monthly thereafter. Discontinue if MDS/AML is confirmed. (  5.1  ) 
+ *    Pneumonitis: occurred in patients exposed to Lynparza, and some cases were fatal. Interrupt treatment if pneumonitis is suspected. Discontinue if pneumonitis is confirmed. (  5.2  ) 
+ *    Embryo-Fetal toxicity: Lynparza can cause fetal harm. Advise females of reproductive potential of the potential risk to a fetus and to avoid pregnancy. (  5.3  ,  8.1  ) 
+    
+ 
+
+   5.1 Myelodysplastic syndrome/Acute Myeloid Leukemia
+
+
+
+   Myelodysplastic≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE / Acute≠B-OSE_Labeled_AE   Myeloid≠I-OSE_Labeled_AE   Leukemia≠I-OSE_Labeled_AE  (MDS/AML) have been confirmed in 6 out of 298 (2%) patients enrolled in a single arm trial of Lynparza monotherapy, in patients with deleterious or suspected deleterious germline  BRCA≠B-Not_AE_Candidate    -≠I-Not_AE_Candidate  mutated≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate   gBRCA≠I-Not_AE_Candidate    m≠I-Not_AE_Candidate  )≠I-Not_AE_Candidate   advanced≠I-Not_AE_Candidate   cancers≠I-Not_AE_Candidate . In a randomized placebo controlled trial,  MDS≠B-OSE_Labeled_AE / AML≠B-OSE_Labeled_AE  occurred in 3 out of 136 (2%) patients with advanced  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  treated with Lynparza. Overall,  MDS≠B-OSE_Labeled_AE / AML≠B-OSE_Labeled_AE  were reported in 22 of 2,618 (<1%) patients treated with Lynparza. The majority of  MDS≠B-OSE_Labeled_AE / AML≠B-OSE_Labeled_AE  cases (17 of 22 cases) were  fatal≠B-NonOSE_AE , and the duration of therapy with Lynparza in patients who developed secondary  MDS≠B-OSE_Labeled_AE /cancer-therapy related  AML≠B-OSE_Labeled_AE  varied from <6 months to >2 years. All patients had previous chemotherapy with platinum agents and/or other DNA damaging agents.
+
+
+
+ Monitor complete blood count testing at baseline and monthly thereafter. Do not start Lynparza until patients have recovered from  hematological≠B-NonOSE_AE   toxicity≠I-NonOSE_AE  caused by previous chemotherapy (<=CTCAE Grade 1). For prolonged  hematological≠B-NonOSE_AE   toxicities≠I-NonOSE_AE , interrupt Lynparza and monitor blood counts weekly until recovery. If the levels have not recovered to CTCAE Grade 1 or less after 4 weeks, refer the patient to a hematologist for further investigations, including bone marrow analysis and blood sample for cytogenetics. If  MDS≠B-NonOSE_AE / AML≠B-NonOSE_AE  is confirmed, discontinue Lynparza.
+
+
+
+    5.2 Pneumonitis
+
+
+
+   Pneumonitis≠B-OSE_Labeled_AE , including  fatal≠B-NonOSE_AE  cases, occurred in <1% of patients treated with Lynparza. If patients present with new or  worsening≠B-NonOSE_AE   respiratory≠I-NonOSE_AE   symptoms≠I-NonOSE_AE  such as  dyspnea≠B-NonOSE_AE ,  fever≠B-NonOSE_AE ,  cough≠B-NonOSE_AE ,  wheezing≠B-NonOSE_AE , or a radiological abnormality occurs, interrupt treatment with Lynparza and initiate prompt investigation. If  pneumonitis≠B-NonOSE_AE  is confirmed, discontinue Lynparza.
+
+
+
+    5.3  Embryo≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Fetal≠I-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE 
+
+
+
+  Lynparza can cause  fetal≠B-OSE_Labeled_AE   harm≠I-OSE_Labeled_AE  when administered to a  pregnant≠B-Not_AE_Candidate  woman based on its mechanism of action and findings in animals. Olaparib was  teratogenic≠B-NonOSE_AE  and caused  embryo≠B-NonOSE_AE  -≠I-NonOSE_AE  fetal≠I-NonOSE_AE   toxicity≠I-NonOSE_AE  in rats at exposures below those in patients receiving the recommended human dose of 400 mg twice daily. If the patient becomes  pregnant≠B-NonOSE_AE  while taking this drug, apprise the patient of the potential  hazard≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   a≠I-OSE_Labeled_AE   fetus≠I-OSE_Labeled_AE  [see     Use in Specific Populations (8.1)     ]  .
+
+
+
+ Advise females of reproductive potential to avoid becoming  pregnant≠B-NonOSE_AE  while taking Lynparza. If contraceptive methods are being considered, use effective contraception during treatment and for at least one month after receiving the last dose of Lynparza [see     Use in Specific Populations (8.6)     ]  .

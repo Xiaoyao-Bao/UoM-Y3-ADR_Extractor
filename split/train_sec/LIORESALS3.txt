@@ -1,0 +1,82 @@
+   PRECAUTIONS
+
+  Children should be of sufficient body mass to accommodate the implantable pump for chronic infusion. Please consult pump manufacturer's manual for specific recommendations.
+
+ Safety and effectiveness in pediatric patients below the age of 4 have not been established.
+
+    Screening
+
+  Patients should be  infection≠B-Not_AE_Candidate -free prior to the screening trial with LIORESAL INTRATHECAL (baclofen injection) because the presence of a systemic  infection≠B-NonOSE_AE  may interfere with an assessment of the patient's response to bolus LIORESAL INTRATHECAL.
+
+    Pump Implantation
+
+  Patients should be  infection≠B-Not_AE_Candidate -free prior to pump implantation because the presence of  infection≠B-NonOSE_AE  may increase the risk of surgical complications. Moreover, a systemic  infection≠B-NonOSE_AE  may complicate dosing.
+
+    Pump Dose Adjustment and Titration
+
+  In most patients, it will be necessary to increase the dose gradually over time to maintain effectiveness; a sudden requirement for substantial dose escalation typically indicates a catheter complication (i. e., catheter kink or dislodgement).
+
+ Reservoir refilling must be performed by fully trained and qualified personnel following the directions provided by the pump manufacturer.  Inadvertent≠B-OSE_Labeled_AE   injection≠I-OSE_Labeled_AE   into≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   subcutaneous≠I-OSE_Labeled_AE   tissue≠I-OSE_Labeled_AE  can occur if the reservoir refill septum is not properly accessed. Subcutaneous injection may result in symptoms of a systemic  overdose≠B-NonOSE_AE  or early depletion of the reservoir. Refill intervals should be carefully calculated to prevent depletion of the reservoir, as this would result in the return of severe  spasticity≠B-NonOSE_AE  and possibly symptoms of  withdrawal≠B-NonOSE_AE .
+
+ Strict aseptic technique in filling is required to avoid bacterial contamination and serious  infection≠B-NonOSE_AE . A period of observation appropriate to the clinical situation should follow each refill or manipulation of the drug reservoir.
+
+  Extreme caution must be used when filling an FDA approved implantable pump equipped with an injection port that allows direct access to the intrathecal catheter.  Direct≠B-OSE_Labeled_AE   injection≠I-OSE_Labeled_AE   into≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   catheter≠I-OSE_Labeled_AE  through the catheter access port may cause a life-threatening  overdose≠B-NonOSE_AE .  
+
+    Additional considerations pertaining to dosage adjustment
+
+  It may be important to titrate the dose to maintain some degree of muscle tone and allow occasional  spasms≠B-NonOSE_AE  to: 1) help support circulatory function, 2) possibly prevent the formation of  deep≠B-NonOSE_AE   vein≠I-NonOSE_AE   thrombosis≠I-NonOSE_AE , 3) optimize activities of daily living and ease of care.
+
+ Except in  overdose≠B-NonOSE_AE  related emergencies, the dose of LIORESAL INTRATHECAL should ordinarily be reduced slowly if the drug is discontinued for any reason.
+
+ An attempt should be made to discontinue concomitant oral antispasticity medication to avoid possible  overdose≠B-NonOSE_AE  or adverse drug interactions, either prior to screening or following implant and initiation of chronic LIORESAL INTRATHECAL infusion. Reduction and discontinuation of oral anti-spasmotics should be done slowly and with careful monitoring by the physician. Abrupt reduction or discontinuation of concomitant antispastics should be avoided.
+
+    Drowsiness
+
+   Drowsiness≠B-OSE_Labeled_AE  has been reported in patients on LIORESAL INTRATHECAL. Patients should be  cautioned≠B-NonOSE_AE   regarding≠I-NonOSE_AE   the≠I-NonOSE_AE   operation≠I-NonOSE_AE   of≠I-NonOSE_AE   automobiles≠I-NonOSE_AE  or other dangerous machinery, and activities made hazardous by  decreased≠B-NonOSE_AE   alertness≠I-NonOSE_AE . Patients should also be cautioned that the  central≠B-NonOSE_AE   nervous≠I-NonOSE_AE   system≠I-NonOSE_AE   depressant≠I-NonOSE_AE   effects≠I-NonOSE_AE  of LIORESAL INTRATHECAL (baclofen injection) may be additive to those of alcohol and other CNS depressants.
+
+    Intrathecal mass
+
+  Cases of  intrathecal≠B-OSE_Labeled_AE   mass≠I-OSE_Labeled_AE   at≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   tip≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   implanted≠I-OSE_Labeled_AE   catheter≠I-OSE_Labeled_AE  have been reported, most of them involving pharmacy compounded analgesic admixtures. The most frequent symptoms associated with  intrathecal≠B-NonOSE_AE   mass≠I-NonOSE_AE  are: 1)  decreased≠B-NonOSE_AE   therapeutic≠I-NonOSE_AE   response≠I-NonOSE_AE  ( worsening≠B-NonOSE_AE   spasticity≠I-NonOSE_AE ,  return≠B-NonOSE_AE   of≠I-NonOSE_AE   spasticity≠I-NonOSE_AE  when previously well controlled,  withdrawal≠B-NonOSE_AE   symptoms≠I-NonOSE_AE , poor response to escalating doses, or frequent or large dosage increases), 2)  pain≠B-NonOSE_AE , 3)  neurological≠B-NonOSE_AE  deficit/ dysfunction≠I-NonOSE_AE . Clinicians should monitor patients on intraspinal therapy carefully for any new  neurological≠B-NonOSE_AE   signs≠I-NonOSE_AE   or≠I-NonOSE_AE   symptoms≠I-NonOSE_AE . In patients with new neurological signs or symptoms suggestive of an  intrathecal≠B-NonOSE_AE   mass≠I-NonOSE_AE , consider a neurosurgical consultation, since many of the symptoms of  inflammatory≠B-NonOSE_AE   mass≠I-NonOSE_AE  are not unlike the symptoms experienced by patients with severe  spasticity≠B-Not_AE_Candidate  from their disease. In some cases, performance of an imaging procedure may be appropriate to confirm or rule-out the diagnosis of an  intrathecal≠B-NonOSE_AE   mass≠I-NonOSE_AE .
+
+    Precautions in special patient populations
+
+  Careful dose titration of LIORESAL INTRATHECAL is needed when  spasticity≠B-NonOSE_AE  is necessary to sustain upright posture and balance in locomotion or whenever  spasticity≠B-NonOSE_AE  is used to obtain optimal function and care.
+
+ Patients suffering from  psychotic≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate ,  schizophrenia≠B-Not_AE_Candidate , or  confusional≠B-Not_AE_Candidate   states≠I-Not_AE_Candidate  should be treated cautiously with LIORESAL INTRATHECAL and kept under careful surveillance, because exacerbations of these conditions have been observed with oral administration.
+
+ LIORESAL INTRATHECAL should be used with caution in patients with a history of  autonomic≠B-Not_AE_Candidate   dysreflexia≠I-Not_AE_Candidate . The presence of nociceptive stimuli or abrupt  withdrawal≠B-NonOSE_AE  of LIORESAL INTRATHECAL (baclofen injection) may cause an  autonomic≠B-NonOSE_AE   dysreflexic≠I-NonOSE_AE   episode≠I-NonOSE_AE .
+
+ Because LIORESAL is primarily excreted unchanged by the kidneys, it should be given with caution in patients with  impaired≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate  and it may be necessary to reduce the dosage.
+
+    LABORATORY TESTS
+
+  No specific laboratory tests are deemed essential for the management of patients on LIORESAL INTRATHECAL.
+
+    DRUG INTERACTIONS
+
+  There is inadequate systematic experience with the use of LIORESAL INTRATHECAL in combination with other medications to predict specific drug-drug interactions. Interactions attributed to the combined use of LIORESAL INTRATHECAL and epidural morphine include  hypotension≠B-NonOSE_AE  and  dyspnea≠B-NonOSE_AE .
+
+    CARCINOGENESIS, MUTAGENESIS, AND IMPAIRMENT OF FERTILITY
+
+  No increase in  tumors≠B-NonOSE_AE  was seen in rats receiving baclofen orally for two years. Adequate  genotoxicity≠B-NonOSE_AE  assays of baclofen have not been performed.
+
+    PREGNANCY
+
+  There are no adequate and well-controlled studies in  pregnant≠B-Not_AE_Candidate  women. In animal studies, baclofen had adverse effects on  embryofetal≠B-NonOSE_AE   development≠I-NonOSE_AE  when administered orally to  pregnant≠B-NonOSE_AE  rats. LIORESAL INTRATHECAL should be used during  pregnancy≠B-Not_AE_Candidate  only if the potential benefit justifies the potential  risk≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   fetus≠I-OSE_Labeled_AE .
+
+ Baclofen given orally increased the incidence of  fetal≠B-NonOSE_AE   structural≠I-NonOSE_AE   abnormalities≠I-NonOSE_AE  ( omphaloceles≠B-NonOSE_AE ) in rats.  Reductions≠B-NonOSE_AE   in≠I-NonOSE_AE   food≠I-NonOSE_AE   intake≠I-NonOSE_AE  and  body≠B-NonOSE_AE   weight≠I-NonOSE_AE   gain≠I-NonOSE_AE  were observed in the dams.  Fetal≠B-NonOSE_AE   structural≠I-NonOSE_AE   abnormalities≠I-NonOSE_AE  were not observed in mice or rabbits
+
+    NURSING MOTHERS
+
+  In mothers treated with oral LIORESAL (baclofen USP) in therapeutic doses, the active substance passes into the milk. It is not known whether detectable levels of drug are present in milk of nursing mothers receiving LIORESAL INTRATHECAL. As a general rule, nursing should be undertaken while a patient is receiving LIORESAL INTRATHECAL only if the potential benefit justifies the potential risks to the infant.
+
+    PEDIATRIC USE
+
+  Children should be of sufficient body mass to accommodate the implantable pump for chronic infusion. Please consult pump manufacturer's manual for specific recommendations.
+
+ Safety and effectiveness in pediatric patients below the age of 4 have not been established.
+
+    Considerations based on experience with oral LIORESAL (baclofen USP)
+
+  A dose-related increase in incidence of  ovarian≠B-NonOSE_AE   cysts≠I-NonOSE_AE  was observed in female rats treated chronically with oral LIORESAL.  Ovarian≠B-OSE_Labeled_AE   cysts≠I-OSE_Labeled_AE  have been found by palpation in about 4% of the  multiple≠B-Not_AE_Candidate   sclerosis≠I-Not_AE_Candidate  patients who were treated with oral LIORESAL for up to one year. In most cases these cysts disappeared spontaneously while patients continued to receive the drug.  Ovarian≠B-NonOSE_AE   cysts≠I-NonOSE_AE  are estimated to occur spontaneously in approximately 1% to 5% of the normal female population.
+

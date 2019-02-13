@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="EURAX">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Primary irritation reactions, such as dermatitis, pruritus, and rash, and allergic sensitivity reactions have been reported in a few patients.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  Eurax should not be applied in the eyes or mouth because it may cause irritation. It should not be applied to acutely inflamed skin or raw or weeping surfaces until the acute inflammation has subsided.
+
+
+
+    Information for Patients
+
+
+
+  See   DIRECTIONS FOR PATIENTS WITH SCABIES    .
+
+
+
+    Drug Interactions
+
+
+
+  None known.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Long-term carcinogenicity studies in animals have not been conducted.
+
+
+
+    Pregnancy (Category C)
+
+
+
+  Animal reproduction studies have not been conducted with Eurax. It is also not known whether Eurax can cause fetal harm when applied topically to a pregnant woman or can affect reproduction capacity. Eurax should be given to a pregnant woman only if clearly needed.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+
+
+
+    Geriatric Use
+
+
+
+  Clinical studies with Eurax (crotamiton USP) Lotion/Cream did not include sufficient numbers of subjects aged 65 years and older to determine whether they respond differently than younger subjects. Other reported clinical experience has not identified differences in responses between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  If severe irritation or sensitization develops, treatment with this product should be discontinued and appropriate therapy instituted.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="244" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="329" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="371" />
+    <IgnoredRegion len="22" name="heading" section="S2" start="506" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="807" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="907" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

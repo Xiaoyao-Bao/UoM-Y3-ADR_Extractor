@@ -1,0 +1,63 @@
+    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described elsewhere in the prescribing information:
+
+
+
+ *   Hepatotoxicity≠B-OSE_Labeled_AE  [see  Contraindications (4.1)  and  Warnings and Precautions (5.1)  ]  
+ *   Bone≠B-OSE_Labeled_AE   Marrow≠I-OSE_Labeled_AE   Effects≠I-OSE_Labeled_AE / Immunosuppression≠B-OSE_Labeled_AE  Potential/ Infections≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.4)  ]  
+ *   Peripheral≠B-OSE_Labeled_AE   Neuropathy≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.5)  ]  
+ *   Skin≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.6)  ]  
+ *   Increased≠B-OSE_Labeled_AE   Blood≠I-OSE_Labeled_AE   Pressure≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.7)  ]  
+ *   Respiratory≠B-OSE_Labeled_AE   Effects≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.8)  ]  
+      EXCERPT:   Most common adverse reactions (>=10% and >=2% greater than placebo): headache, diarrhea, nausea, alopecia, increase in ALT (  6  )  To report SUSPECTED ADVERSE REACTIONS, contact Genzyme Corporation at 1-800-745-4447 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ A total of 2047 patients receiving AUBAGIO (7 mg or 14 mg once daily) constituted the safety population in the pooled analysis of placebo controlled studies in patients with  relapsing≠B-Not_AE_Candidate  forms of  multiple≠I-Not_AE_Candidate   sclerosis≠I-Not_AE_Candidate ; of these, 71% were female. The average age was 37 years.
+
+
+
+ Table 1 lists adverse reactions in placebo-controlled trials with rates that were at least 2% for AUBAGIO patients and also at least 2% above the rate in placebo patients. The most common were  headache≠B-OSE_Labeled_AE , an  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   ALT≠I-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  alopecia≠B-OSE_Labeled_AE , and  nausea≠B-OSE_Labeled_AE . The adverse reaction most commonly associated with discontinuation was an  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   ALT≠I-OSE_Labeled_AE  (3.3%, 2.6%, and 2.3% of all patients in the AUBAGIO 7 mg, AUBAGIO 14 mg, and placebo treatment arms, respectively).
+
+
+
+ Table 1. Adverse Reactions in Pooled Placebo-Controlled Studies in Patients with Relapsing Forms of Multiple Sclerosis 
+   Adverse Reaction                        AUBAGIO 7 mg(N=1045)  AUBAGIO 14 mg(N=1002)     Placebo(N=997)      
+  
+  Headache≠B-OSE_Labeled_AE                                           18%                   16%                   15%            
+  Increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Alanine≠I-OSE_Labeled_AE   aminotransferase≠I-OSE_Labeled_AE               13%                   15%                    9%            
+  Diarrhea≠B-OSE_Labeled_AE                                           13%                   14%                    8%            
+  Alopecia≠B-OSE_Labeled_AE                                           10%                   13%                    5%            
+  Nausea≠B-OSE_Labeled_AE                                              8%                   11%                    7%            
+  Paresthesia≠B-OSE_Labeled_AE                                         8%                    9%                    7%            
+  Arthralgia≠B-OSE_Labeled_AE                                          8%                    6%                    5%            
+  Neutropenia≠B-OSE_Labeled_AE                                         4%                    6%                    2%            
+  Hypertension≠B-OSE_Labeled_AE                                        3%                    4%                    2%            
+              Cardiovascular deaths  
+ 
+
+ Four  cardiovascular≠B-NonOSE_AE   deaths≠B-NonOSE_AE , including three  sudden≠B-NonOSE_AE   deaths≠I-NonOSE_AE , and one  myocardial≠B-NonOSE_AE   infarction≠I-NonOSE_AE  in a patient with a history of  hyperlipidemia≠B-Not_AE_Candidate  and  hypertension≠B-Not_AE_Candidate  were reported among approximately 2600 patients exposed to AUBAGIO in the premarketing database. These  cardiovascular≠B-NonOSE_AE   deaths≠B-NonOSE_AE  occurred during uncontrolled extension studies, one to nine years after initiation of treatment. A relationship between AUBAGIO and  cardiovascular≠B-NonOSE_AE   death≠B-NonOSE_AE  has not been established.
+
+
+
+     Acute Renal Failure  
+
+
+
+ In placebo-controlled studies,  creatinine≠B-OSE_Labeled_AE   values≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  more than 100% over baseline in 8/1045 (0.8%) patients in the 7 mg AUBAGIO group and 6/1002 (0.6%) patients in the 14 mg AUBAGIO group versus 4/997 (0.4%) patients in the placebo group. These elevations were transient. Some elevations were accompanied by  hyperkalemia≠B-OSE_Labeled_AE . AUBAGIO may cause  acute≠B-OSE_Labeled_AE   uric≠I-OSE_Labeled_AE   acid≠I-OSE_Labeled_AE   nephropathy≠I-OSE_Labeled_AE  with transient  acute≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  because AUBAGIO  increases≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   uric≠I-OSE_Labeled_AE   acid≠I-OSE_Labeled_AE   clearance≠I-OSE_Labeled_AE .
+
+
+
+     Hypophosphatemia  
+
+
+
+ In clinical trials, 18% of AUBAGIO-treated patients had  hypophosphatemia≠B-OSE_Labeled_AE  with  serum≠B-OSE_Labeled_AE   phosphorus≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   at≠I-OSE_Labeled_AE   least≠I-OSE_Labeled_AE   0≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  6≠I-OSE_Labeled_AE   mmol≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  L≠I-OSE_Labeled_AE , compared to 7% of placebo-treated patients; 4% of AUBAGIO-treated patients had  hypophosphatemia≠B-OSE_Labeled_AE  with  serum≠B-OSE_Labeled_AE   phosphorus≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE   at≠I-OSE_Labeled_AE   least≠I-OSE_Labeled_AE   0≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  3≠I-OSE_Labeled_AE   mmol≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  L≠I-OSE_Labeled_AE   but≠I-OSE_Labeled_AE   less≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   0≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  6≠I-OSE_Labeled_AE   mmol≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  L≠I-OSE_Labeled_AE , compared to 0.8% of placebo-treated patients. No patient in any treatment group had a  serum≠B-NonOSE_AE   phosphorus≠I-NonOSE_AE   below≠I-NonOSE_AE   0≠I-NonOSE_AE  .≠I-NonOSE_AE  3≠I-NonOSE_AE   mmol≠I-NonOSE_AE  /≠I-NonOSE_AE  L≠I-NonOSE_AE .

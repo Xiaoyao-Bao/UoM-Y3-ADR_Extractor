@@ -1,0 +1,102 @@
+  6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common reactions (>=3%) were nausea, headache, diarrhea, insomnia, constipation and dizziness (  6.2  ).
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Janssen Pharmaceuticals, Inc. at 1-800-526-7736 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  .
+
+ 
+
+  6.1 Serious and Otherwise Important Adverse Reactions
+
+  The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
+
+ *   Disabling≠B-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   Potentially≠I-OSE_Labeled_AE   Irreversible≠I-OSE_Labeled_AE   Serious≠I-OSE_Labeled_AE   Adverse≠I-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.1)  ]  
+ *   Tendinitis≠B-OSE_Labeled_AE  and  Tendon≠B-OSE_Labeled_AE   Rupture≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.2)  ]  
+ *   Peripheral≠B-OSE_Labeled_AE   Neuropathy≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.3)  ]  
+ *   Central≠B-OSE_Labeled_AE   Nervous≠I-OSE_Labeled_AE   System≠I-OSE_Labeled_AE   Effects≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.4)  ]  
+ *   Exacerbation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   Myasthenia≠I-OSE_Labeled_AE   Gravis≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.5)  ]  
+ *  Other Serious and Sometimes  Fatal≠B-NonOSE_AE  Reactions [see  Warnings and Precautions (5.6)  ]  
+ *   Hypersensitivity≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.7)  ]  
+ *   Hepatotoxicity≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.8)  ]  
+ *    Clostridium≠B-OSE_Labeled_AE   difficile≠I-OSE_Labeled_AE   -≠I-OSE_Labeled_AE  Associated≠I-OSE_Labeled_AE   Diarrhea≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.9)  ]  
+ *   Prolongation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   QT≠I-OSE_Labeled_AE   Interval≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.10)  ]  
+ *   Musculoskeletal≠B-OSE_Labeled_AE   Disorders≠I-OSE_Labeled_AE  in Pediatric Patients [see  Warnings and Precautions (5.11)  ]  
+ *   Blood≠B-OSE_Labeled_AE   Glucose≠I-OSE_Labeled_AE   Disturbances≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.12)  ]  
+ *   Photosensitivity≠B-OSE_Labeled_AE / Phototoxicity≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.13)  ]  
+ *   Development≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   Drug≠I-OSE_Labeled_AE   Resistant≠I-OSE_Labeled_AE   Bacteria≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.14)  ]  
+    Hypotension has been associated with rapid or bolus intravenous infusion of LEVAQUIN  (r)  . LEVAQUIN  (r)  should be infused slowly over 60 to 90 minutes, depending on dosage  [see  Dosage and Administration (2.5)  ]  .
+ 
+
+  Crystalluria≠B-OSE_Labeled_AE  and  cylindruria≠B-OSE_Labeled_AE  have been reported with quinolones, including LEVAQUIN  (r)  . Therefore, adequate hydration of patients receiving LEVAQUIN  (r)  should be maintained to prevent the  formation≠B-NonOSE_AE   of≠I-NonOSE_AE   a≠I-NonOSE_AE   highly≠I-NonOSE_AE   concentrated≠I-NonOSE_AE   urine≠I-NonOSE_AE   [see  Dosage and Administration (2.5)  ]  .
+
+   6.2 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+ The data described below reflect exposure to LEVAQUIN  (r)  in 7537 patients in 29 pooled Phase 3 clinical trials. The population studied had a mean age of 50 years (approximately 74% of the population was < 65 years of age), 50% were male, 71% were Caucasian, 19% were Black. Patients were treated with LEVAQUIN  (r)  for a wide variety of infectious diseases  [see  Indications and Usage (1)  ]  . Patients received LEVAQUIN  (r)  doses of 750 mg once daily, 250 mg once daily, or 500 mg once or twice daily. Treatment duration was usually 3-14 days, and the mean number of days on therapy was 10 days.
+
+ The overall incidence, type and distribution of adverse reactions was similar in patients receiving LEVAQUIN  (r)  doses of 750 mg once daily, 250 mg once daily, and 500 mg once or twice daily. Discontinuation of LEVAQUIN  (r)  due to adverse drug reactions occurred in 4.3% of patients overall, 3.8% of patients treated with the 250 mg and 500 mg doses and 5.4% of patients treated with the 750 mg dose. The most common adverse drug reactions leading to discontinuation with the 250 and 500 mg doses were gastrointestinal (1.4%), primarily  nausea≠B-OSE_Labeled_AE  (0.6%);  vomiting≠B-OSE_Labeled_AE  (0.4%);  dizziness≠B-OSE_Labeled_AE  (0.3%); and  headache≠B-OSE_Labeled_AE  (0.2%). The most common adverse drug reactions leading to discontinuation with the 750 mg dose were gastrointestinal (1.2%), primarily  nausea≠B-OSE_Labeled_AE  (0.6%),  vomiting≠B-OSE_Labeled_AE  (0.5%);  dizziness≠B-OSE_Labeled_AE  (0.3%); and  headache≠B-OSE_Labeled_AE  (0.3%).
+
+ Adverse reactions occurring in >=1% of LEVAQUIN  (r)  -treated patients and less common adverse reactions, occurring in 0.1 to <1% of LEVAQUIN  (r)  -treated patients, are shown in Table 4 and Table 5, respectively. The most common adverse drug reactions (>=3%) are  nausea≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE , and  dizziness≠B-OSE_Labeled_AE .
+
+ Table 4: Common (>=1%) Adverse Reactions Reported in Clinical Trials with LEVAQUIN(r) 
+ System/Organ Class                   Adverse Reaction                                      %(N = 7537)     
+  
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE          moniliasis≠B-OSE_Labeled_AE                                                  1          
+    Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                insomnia≠B-OSE_Labeled_AE  [note: N = 7274]   [see  Warnings and Precautions (5.4)  ]           4          
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE             headache≠B-OSE_Labeled_AE dizziness  [see  Warnings and Precautions (5.4)  ]          63          
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      dyspnea≠B-OSE_Labeled_AE   [see  Warnings and Precautions (5.7)  ]           1          
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE           nausea≠B-OSE_Labeled_AE                                                      7          
+  diarrhea≠B-OSE_Labeled_AE                              5                                                    
+  constipation≠B-OSE_Labeled_AE                          3                                                    
+  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                        2                                                    
+  vomiting≠B-OSE_Labeled_AE                              2                                                    
+  dyspepsia≠B-OSE_Labeled_AE                             2                                                    
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      rash≠B-OSE_Labeled_AE   [see  Warnings and Precautions (5.7)  ]   pruritus≠B-OSE_Labeled_AE         21          
+    Reproductive≠B-NonOSE_AE   System≠I-NonOSE_AE   and≠I-NonOSE_AE   Breast≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      vaginitis≠B-OSE_Labeled_AE                                            1 [note: N = 3758 (women)]    
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   Administration≠I-NonOSE_AE   Site≠I-NonOSE_AE   Conditions≠I-NonOSE_AE      edema≠B-OSE_Labeled_AE                                                       1          
+  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE               1                                                    
+  chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                            1                                                    
+        Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials with LEVAQUIN(r) (N = 7537) 
+ System/Organ Class                        Adverse Reaction                                               
+  
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE               genital≠B-OSE_Labeled_AE   moniliasis≠I-OSE_Labeled_AE                                              
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      anemia≠B-OSE_Labeled_AE thrombocytopeniagranulocytopenia  [see  Warnings and Precautions (5.6)  ]     
+    Immune≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                   allergic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE   [see  Warnings and Precautions (5.6,    5.7)  ]     
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE        hyperglycemia≠B-OSE_Labeled_AE hypoglycemia  [see  Warnings and Precautions (5.12)  ]   hyperkalemia≠B-OSE_Labeled_AE    
+    Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                     anxiety≠B-OSE_Labeled_AE agitationconfusiondepressionhallucinationnightmare [note: N = 7274]   [see  Warnings and Precautions (5.4)  ]   sleep≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE anorexiaabnormal dreaming   
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                  tremor≠B-OSE_Labeled_AE convulsions  [see  Warnings and Precautions (5.4)  ]   paresthesia≠B-OSE_Labeled_AE   [see  Warnings and Precautions (5.3)  ]   vertigo≠B-OSE_Labeled_AE hypertoniahyperkinesiasabnormal gaitsomnolencesyncope   
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      epistaxis≠B-OSE_Labeled_AE                                                       
+    Cardiac≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                         cardiac≠B-OSE_Labeled_AE   arrest≠I-OSE_Labeled_AE palpitationventricular tachycardiaventricular arrhythmia   
+    Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                        phlebitis≠B-OSE_Labeled_AE                                                       
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                gastritis≠B-OSE_Labeled_AE stomatitispancreatitisesophagitisgastroenteritisglossitispseudomembranous/   C≠B-OSE_Labeled_AE  .≠I-OSE_Labeled_AE   difficile≠I-OSE_Labeled_AE    colitis≠I-OSE_Labeled_AE   [see  Warnings and Precautions (5.9)  ]     
+    Hepatobiliary≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                   abnormal≠B-OSE_Labeled_AE   hepatic≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE increased hepatic enzymesincreased alkaline phosphatase   
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      urticaria≠B-OSE_Labeled_AE   [see  Warnings and Precautions (5.7)  ]             
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      arthralgia≠B-OSE_Labeled_AE tendinitis  [see  Warnings and Precautions (5.2)  ]   myalgia≠B-OSE_Labeled_AE skeletal pain   
+    Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   Urinary≠I-NonOSE_AE   Disorders≠I-NonOSE_AE               abnormal≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE acute renal failure  [see  Warnings and Precautions (5.6)  ]     
+        In clinical trials using multiple-dose therapy,  ophthalmologic≠B-OSE_Labeled_AE   abnormalities≠I-OSE_Labeled_AE , including  cataracts≠B-OSE_Labeled_AE  and  multiple≠B-OSE_Labeled_AE   punctate≠I-OSE_Labeled_AE   lenticular≠I-OSE_Labeled_AE   opacities≠I-OSE_Labeled_AE , have been noted in patients undergoing treatment with quinolones, including LEVAQUIN  (r)  . The relationship of the drugs to these events is not presently established.
+ 
+
+   6.3 Postmarketing Experience
+
+  Table 6 lists adverse reactions that have been identified during post-approval use of LEVAQUIN  (r)  . Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+ Table 6: Postmarketing Reports Of Adverse Drug Reactions 
+ System/Organ Class                        Adverse Reaction                                               
+  
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      pancytopenia≠B-OSE_Labeled_AE aplastic anemialeukopeniahemolytic anemia  [see  Warnings and Precautions (5.6)  ]   eosinophilia≠B-OSE_Labeled_AE    
+    Immune≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                   hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE , sometimes  fatal≠B-NonOSE_AE  including:   anaphylactic≠B-OSE_Labeled_AE /anaphylactoid  reactions≠I-OSE_Labeled_AE    anaphylactic≠B-OSE_Labeled_AE   shock≠I-OSE_Labeled_AE    angioneurotic≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE    serum≠B-OSE_Labeled_AE   sickness≠I-OSE_Labeled_AE   [see  Warnings and Precautions (5.6  ,  5.7)  ]     
+    Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                     psychosis≠B-OSE_Labeled_AE paranoiaisolated reports of  suicidal≠B-OSE_Labeled_AE   ideation≠I-OSE_Labeled_AE ,  suicide≠B-OSE_Labeled_AE   attempt≠I-OSE_Labeled_AE  and  completed≠B-OSE_Labeled_AE   suicide≠I-OSE_Labeled_AE   [see  Warnings and Precautions (5.4)  ]     
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                  exacerbation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   myasthenia≠I-OSE_Labeled_AE   gravis≠I-OSE_Labeled_AE   [see  Warnings and Precautions (5.5)  ]   anosmia≠B-OSE_Labeled_AE ageusiaparosmiadysgeusiaperipheral neuropathy (may be irreversible)  [see  Warnings and Precautions (5.3)  ]  isolated reports of  encephalopathy≠B-OSE_Labeled_AE abnormal electroencephalogram (EEG) dysphonia≠B-OSE_Labeled_AE pseudotumor cerebri  [see  Warnings and Precautions (5.4)  ]     
+    Eye≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                             uveitis≠B-OSE_Labeled_AE vision disturbance, including  diplopia≠B-OSE_Labeled_AE visual  acuity≠B-OSE_Labeled_AE   reduced≠I-OSE_Labeled_AE vision blurredscotoma   
+    Ear≠B-NonOSE_AE   and≠I-NonOSE_AE   Labyrinth≠I-NonOSE_AE   Disorders≠I-NonOSE_AE               hypoacusis≠B-OSE_Labeled_AE tinnitus                                             
+    Cardiac≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                        isolated reports of  torsade≠B-OSE_Labeled_AE   de≠I-OSE_Labeled_AE   pointes≠I-OSE_Labeled_AE electrocardiogram QT prolonged  [see  Warnings and Precautions (5.10)  ]   tachycardia≠B-OSE_Labeled_AE    
+    Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                        vasodilatation≠B-OSE_Labeled_AE                                                  
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE     isolated reports of  allergic≠B-OSE_Labeled_AE   pneumonitis≠I-OSE_Labeled_AE   [see  Warnings and Precautions (5.6)  ]     
+    Hepatobiliary≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                   hepatic≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  (including  fatal≠B-NonOSE_AE  cases) hepatitis≠B-OSE_Labeled_AE jaundice  [see  Warnings and Precautions (5.6  ),  (5.8)  ]     
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      bullous≠B-OSE_Labeled_AE   eruptions≠I-OSE_Labeled_AE  to include:   Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE    toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE Acute Generalized Exanthematous Pustulosis (AGEP) fixed≠B-OSE_Labeled_AE   drug≠I-OSE_Labeled_AE   eruptions≠I-OSE_Labeled_AE    erythema≠B-OSE_Labeled_AE   multiforme≠I-OSE_Labeled_AE   [see  Warnings and Precautions (5.6)  ]   photosensitivity≠B-OSE_Labeled_AE / phototoxicity≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE   [see  Warnings and Precautions (5.13)  ]   leukocytoclastic≠B-OSE_Labeled_AE   vasculitis≠I-OSE_Labeled_AE    
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      tendon≠B-OSE_Labeled_AE   rupture≠I-OSE_Labeled_AE   [see  Warnings and Precautions (5.2)  ]   muscle≠B-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE , including rupture rhabdomyolysis≠B-OSE_Labeled_AE    
+    Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   Urinary≠I-NonOSE_AE   Disorders≠I-NonOSE_AE               interstitial≠B-OSE_Labeled_AE   nephritis≠I-OSE_Labeled_AE   [see  Warnings and Precautions (5.6)  ]     
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   Administration≠I-NonOSE_AE   Site≠I-NonOSE_AE   Conditions≠I-NonOSE_AE      multi≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  organ≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE pyrexia                                     
+    Investigations≠B-NonOSE_AE                            prothrombin≠B-OSE_Labeled_AE   time≠I-OSE_Labeled_AE   prolonged≠I-OSE_Labeled_AE international normalized ratio prolongedmuscle enzymes increased   
+

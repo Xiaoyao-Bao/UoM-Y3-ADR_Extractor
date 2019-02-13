@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="NEOSPORIN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Adverse reactions have occurred with the anti-infective components of NEOSPORIN Ophthalmic Solution. The exact incidence is not known. Reactions occurring most often are allergic sensitization reactions including itching, swelling, and conjunctival erythema (see    WARNINGS    ). More serious hypersensitivity reactions, including anaphylaxis, have been reported rarely.
+
+
+
+ Local irritation on instillation has also been reported.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  As with other antibiotic preparations, prolonged use of NEOSPORIN Ophthalmic Solution may result in overgrowth of nonsusceptible organisms including fungi. If superinfection occurs, appropriate measures should be initiated.
+
+
+
+ Bacterial resistance to NEOSPORIN Ophthalmic Solution may also develop. If purulent discharge, inflammation, or pain becomes aggravated, the patient should discontinue use of the medication and consult a physician.
+
+
+
+ There have been reports of bacterial keratitis associated with the use of topical ophthalmic products in multiple-dose containers which have been inadvertently contaminated by patients, most of whom had a concurrent corneal disease or a disruption of the ocular epithelial surface (see   PRECAUTIONS:Information for Patients    ).
+
+
+
+ Allergic cross-reactions may occur which could prevent the use of any or all of the following antibiotics for the treatment of future infections: kanamycin, paromomycin, streptomycin, and possibly gentamicin.
+
+
+
+    Information for Patients
+
+
+
+  Patients should be instructed to avoid allowing the tip of the dispensing container to contact the eye, eyelid, fingers, or any other surface. The use of this product by more than one person may spread infection.
+
+
+
+ Patients should also be instructed that ocular products, if handled improperly, can become contaminated by common bacteria known to cause ocular infections. Serious damage to the eye and subsequent loss of vision may result from using contaminated products (see   PRECAUTIONS:General    ).
+
+
+
+ If the condition persists or gets worse, or if a rash or other allergic reaction develops, the patient should be advised to stop use and consult a physician. Do not use this product if you are allergic to any of the listed ingredients.
+
+
+
+ Keep tightly closed when not in use. Keep out of reach of children.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Long-term studies in animals to evaluate carcinogenic or mutagenic potential have not been conducted with polymyxin B sulfate or gramicidin. Treatment of cultured human lymphocytes in vitro with neomycin increased the frequency of chromosome aberrations at the highest concentration (80 ug/mL) tested. However, the effects of neomycin on carcinogenesis and mutagenesis in humans are unknown.
+
+
+
+ Polymyxin B has been reported to impair the motility of equine sperm, but its effects on male or female fertility are unknown.
+
+
+
+    Pregnancy
+
+
+
+     Teratogenic Effects    
+
+
+
+  Animal reproduction studies have not been conducted with neomycin sulfate, polymyxin B sulfate, or gramicidin. It is also not known whether NEOSPORIN Ophthalmic Solution can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. NEOSPORIN Ophthalmic Solution should be given to a pregnant woman only if clearly needed.
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when NEOSPORIN Ophthalmic Solution is administered to a nursing woman.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+
+
+
+    Geriatric Use
+
+
+
+  Clinical studies of NEOSPORIN  (r)  Ophthalmic Solution did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  NOT FOR INJECTION INTO THE EYE. NEOSPORIN Ophthalmic Solution should never be directly introduced into the anterior chamber of the eye or injected subconjunctivally.
+
+
+
+ Topical antibiotics, particularly neomycin sulfate, may cause cutaneous sensitization. A precise incidence of hypersensitivity reactions (primarily skin rash) due to topical antibiotics is not known. The manifestations of sensitization to topical antibiotics are usually itching, reddening, and edema of the conjunctiva and eyelid. A sensitization reaction may manifest simply as a failure to heal. During long-term use of topical antibiotic products, periodic examination for such signs is advisable, and the patient should be told to discontinue the product if they are observed. Symptoms usually subside quickly on withdrawing the medication. Application of products containing these ingredients should be avoided for the patient thereafter (see   PRECAUTIONS:General    ).
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="1033" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="1889" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="2477" />
+    <IgnoredRegion len="25" name="heading" section="S2" start="2493" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="2887" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="3122" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="3222" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

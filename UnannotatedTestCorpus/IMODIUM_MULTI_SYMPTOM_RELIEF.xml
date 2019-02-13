@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="IMODIUM_MULTI_SYMPTOM_RELIEF">
+  <Text>
+    <Section id="S1" name="warnings">    Warnings
+
+
+
+   Allergy alert
+
+
+
+  Do not use if you have ever had a rash or other allergic reaction to loperamide HCl
+
+
+
+    Heart alert
+
+
+
+  Taking more than directed can cause serious heart problems or death
+
+
+
+    Do not use
+
+
+
+    *  if you have bloody or black stool 
+ *  if you have difficulty swallowing 
+       Ask a doctor before use if you have
+ 
+
+    *  fever 
+ *  mucus in the stool 
+ *  a history of liver disease 
+       Ask a doctor or pharmacist before use if you are  taking antibiotics
+ 
+
+    When using this product  tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery.
+
+
+
+    Stop use and ask a doctor if
+
+
+
+    *  symptoms get worse 
+ *  diarrhea lasts for more than 2 days 
+ *  you get abdominal swelling or bulging. These may be signs of a serious condition. 
+ *  you have difficulty swallowing the caplet 
+       If pregnant or breast-feeding,  ask a health professional before use.
+ 
+
+    Keep out of reach of children.  In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="8" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="13" name="heading" section="S1" start="19" />
+    <IgnoredRegion len="11" name="heading" section="S1" start="129" />
+    <IgnoredRegion len="10" name="heading" section="S1" start="221" />
+    <IgnoredRegion len="35" name="heading" section="S1" start="323" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="641" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

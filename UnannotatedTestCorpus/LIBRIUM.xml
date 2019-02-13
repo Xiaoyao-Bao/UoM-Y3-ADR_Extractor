@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="LIBRIUM">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  The necessity of discontinuing therapy because of undesirable effects has been rare.  Drowsiness, ataxia and confusion have been reported in some patients - particularly the elderly and debilitated.  While these effects can be avoided in almost all instances by proper dosage adjustment, they have occasionally been observed at the lower dosage ranges.  In a few instances syncope has been reported.
+
+
+
+ Other adverse reactions reported during therapy include isolated instances of skin eruptions, edema, minor menstrual irregularities, nausea and constipation, extrapyramidal symptoms, as well as increased and decreased libido.  Such side effects have been infrequent, and are generally controlled with reduction of dosage.  Changes in EEG patterns (low-voltage fast activity) have been observed in patients during and after Librium treatment.
+
+
+
+ Blood dyscrasias (including agranulocytosis), jaundice and hepatic dysfunction have occasionally been reported during therapy.  When Librium treatment is protracted, periodic blood counts and liver function tests are advisable.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+  In elderly and debilitated patients, it is recommended that the dosage be limited to the smallest effective amount to preclude the development of ataxia or oversedation (10 mg or less per day initially, to be increased gradually as needed and tolerated).  In general, the concomitant administration of Librium and other psychotropic agents is not recommended.  If such combination therapy seems indicated, careful consideration should be given to the pharmacology of the agents to be employed - particularly when the known potentiating compounds such as MAO inhibitors and phenothiazines are to be used.  The usual precautions in treating patients with impaired renal or hepatic function should be observed.
+
+
+
+ Paradoxical reactions, eg, excitement, stimulation and acute rage, have been reported in psychiatric patients and in hyperactive aggressive pediatric patients, and should be watched for during Librium therapy.  The usual precautions are indicated when Librium is used in the treatment of anxiety states where there is any evidence of impending depression; it should be borne in mind that suicidal tendencies may be present and protective measures may be necessary.  Although clinical studies have not established a cause and effect relationship, physicians should be aware that variable effects on blood coagulation have been reported very rarely in patients receiving oral anticoagulants and Librium.  In view of isolated reports associating chlordiazepoxide with exacerbation of porphyria, caution should be exercised in prescribing chlordiazepoxide to patients suffering from this disease.
+
+
+
+    Pediatric Use
+
+
+
+  Because of the varied response of pediatric patients to CNS-acting drugs, therapy should be initiated with the lowest dose and increased as required (see  DOSAGE AND ADMINISTRATION  ).  Since clinical experience with Librium in pediatric patients under 6 years of age is limited, use in this age group is not recommended.  Hyperactive aggressive pediatric patients should be monitored for paradoxical reactions to Librium (see  PRECAUTIONS  ).
+
+
+
+    Information for Patients
+
+
+
+  To assure the safe and effective use of benzodiazepines, patients should be informed that, since benzodiazepines may produce psychological and physical dependence, it is advisable that they consult with their physician before either increasing the dose or abruptly discontinuing this drug.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Chlordiazepoxide HCl may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a vehicle or operating machinery.  Similarly, it may impair mental alertness in children.  The concomitant use of alcohol or other central nervous system depressants may have an additive effect.  PATIENTS SHOULD BE WARNED ACCORDINGLY.
+
+
+
+  Usage in Pregnancy:  An increased risk of congenital malformations associated with the use of minor tranquilizers (chlordiazepoxide, diazepam and meprobamate) during the first trimester of pregnancy has been suggested in several studies.  Because use of these drugs is rarely a matter of urgency, their use during this period should almost always be avoided.  The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.  Patients should be advised that if they become pregnant during therapy or intend to become pregnant they should communicate with their physicians about the desirability of discontinuing the drug.  
+
+
+
+ Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines.  (See  DRUG ABUSE AND DEPENDENCE  section.)
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="1633" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="2103" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

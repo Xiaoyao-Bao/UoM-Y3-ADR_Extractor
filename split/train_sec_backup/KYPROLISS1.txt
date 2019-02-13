@@ -1,0 +1,276 @@
+    6         ADVERSE REACTIONS  
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+ *  Cardiac Toxicities [see   Warnings and Precautions  (    5.1    )]  
+ *  Acute Renal Failure  [see   Warnings and Precautions  (    5.2    )]  
+ *  Tumor Lysis Syndrome [see   Warnings and Precautions  (    5.3    )]  
+ *  Pulmonary Toxicity [see   Warnings and Precautions  (    5.4    )]  
+ *  Pulmonary Hypertension  [see   Warnings and Precautions  (    5.5    )]  
+ *  Dyspnea [see   Warnings and Precautions  (    5.6    )]  
+ *  Hypertension [see   Warnings and Precautions  (    5.7    )]  
+ *  Venous Thrombosis [see   Warnings and Precautions  (    5.8    )]  
+ *  Infusion Reactions [see   Warnings and Precautions  (    5.9    )]  
+ *  Hemorrhage [see   Warnings and Precautions (    5.10    )]  
+ *  Thrombocytopenia [see Warnings and Precautions  (    5.11    )]  
+ *  Hepatic Toxicity and Hepatic Failure [see   Warnings and Precautions  (    5.12    )]  
+ *  Thrombotic Microangiopathy  [see   Warnings and Precautions  (    5.13    )]  
+ *  Posterior Reversible Encephalopathy Syndrome [see   Warnings and Precautions   (    5.14    )]  
+ *  Increased Fatal and Serious Toxicities in Combintaion with Melphalan and Prednisone in Newly Diagnosed Transplant-Ineligible Patients [see   Warnings and Precautions (    5.15    )]  
+      EXCERPT:   The most common adverse reactions occurring in at least 20% of patients treated with Kyprolis in monotherapy trials:  anemia, fatigue, thrombocytopenia, nausea, pyrexia, dyspnea, diarrhea, headache, cough, edema peripheral. (  6  )
+ 
+
+    
+
+ The most common adverse reactions occurring in at least 20% of patients treated with Kyprolis in the combination therapy trials: anemia, neutropenia, diarrhea, dyspnea, fatigue, thrombocytopenia, pyrexia, insomnia, muscle spasm, cough, upper respiratory tract infection, hypokalemia. (  6  )
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Amgen Medical Information at 1-800-77-AMGEN (1-800-772-6436) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+ 
+
+  6.1       Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug, and may not reflect the rates observed in medical practice.
+
+   Safety Experience with Kyprolis in Combination with Lenalidomide and Dexamethasone in Patients with Multiple Myeloma  
+
+ The safety of Kyprolis in combination with lenalidomide and dexamethasone (KRd) was evaluated in an open-label randomized study in patients with relapsed multiple myeloma. Details of the study treatment are described in Section 14.1.  The median number of cycles initiated was 22 cycles for the KRd arm and 14 cycles for the Rd arm.
+
+ Deaths due to adverse reactions within 30 days of the last dose of any therapy in the KRd arm occurred in 27/392 (7%) patients compared with 27/389 (7%) patients who died due to adverse events within 30 days of the last dose of any Rd therapy. The most common cause of deaths occurring in patients (%) in the two arms (KRd  versus  Rd) included cardiac 10 (3%)  versus  7 (2%), infection 9 (2%)  versu    s  10 (3%), renal 0 (0%)  versus  1 (< 1%), and other adverse reactions 9 (2%)  versus  10 (3%). Serious adverse reactions were reported in 60% of the patients in the KRd arm and 54% of the patients in the Rd arm. The most common serious adverse reactions reported in the KRd arm as compared with the Rd arm were pneumonia (14%  versus  11%), respiratory tract infection (4%  versus  1.5%), pyrexia (4%  versus  2%), and pulmonary embolism (3%  versus  2%). Discontinuation due to any adverse reaction occurred in 26% in the KRd arm  versus  25% in the Rd arm. Adverse reactions leading to discontinuation of Kyprolis occurred in 12% of patients and the most common reactions included pneumonia (1%), myocardial infarction (0.8%), and upper respiratory tract infection (0.8%).
+
+   Common Adverse    Reactions    (    >=         10%)  
+
+ The adverse reactions in the first 12 cycles of therapy that occurred at a rate of 10% or greater in the KRd arm are presented in Table 8.
+
+ Table 8:  Most Common Adverse Reactions (>= 10% in the KRd Arm)  Occurring in Cycles 1-12  (20/27 mg/m2 Regimen In Combination with Lenalidomide and Dexamethasone) 
+                    KRd Arm    (N         =         392)    n (%)      Rd Arm    (N         =         389)    n (%)     
+               Adverse Reactions by Body System      Any Grade        >=         Grade         3      Any Grade        >=         Grade         3     
+   Blood and Lymphatic System Disorders     
+       Anemia     138 (35)         53 (14)          127 (33)         47 (12)           
+       Neutropenia  124 (32)         104 (27)         115 (30)         89 (23)           
+       Thrombocytopenia  100 (26)         58 (15)          75 (19)          39 (10)           
+   Gastrointestinal Disorders     
+       Diarrhea   115 (29)         7 (2)            105 (27)         12 (3)            
+       Constipation  68 (17)          0                53 (14)          1 (0)             
+       Nausea     60 (15)          1 (0)            39 (10)          3 (1)             
+   General Disorders and Administration Site Conditions     
+       Fatigue    109 (28)         21 (5)           104 (27)         20 (5)            
+       Pyrexia    93 (24)          5 (1)            64 (17)          1 (0)             
+       Edema peripheral  63 (16)          2 (1)            57 (15)          2 (1)             
+       Asthenia   53 (14)          11 (3)           46 (12)          7 (2)             
+   Infections and Infestations     
+       Upper respiratory tract infection  85 (22)          7 (2)            52 (13)          3 (1)             
+       Nasopharyngitis  63 (16)          0                43 (11)          0                 
+       Bronchitis  54 (14)          5 (1)            39 (10)          2 (1)             
+       Pneumonia  a    54 (14)          35 (9)           43 (11)          27 (7)            
+   Metabolism and Nutrition Disorders     
+       Hypokalemia  78 (20)          22 (6)           35 (9)           12 (3)            
+       Hypocalcemia  55 (14)          10 (3)           39 (10)          5 (1)             
+       Hyperglycemia  43 (11)          18 (5)           33 (9)           15 (4)            
+   Musculoskeletal and Connective Tissue Disorders     
+       Muscle spasms  88 (22)          3 (1)            73 (19)          3 (1)             
+   Nervous System Disorders     
+       Peripheral neuropathies  b    43 (11)          7 (2)            37 (10)          4 (1)             
+   Psychiatric Disorders                                                                         
+       Insomnia   63 (16)          6 (2)            50 (13)          8 (2)             
+   Respiratory, Thoracic, and Mediastinal Disorders     
+       Cough  c    91 (23)          2 (1)            52 (13)          0                 
+       Dyspnea  d    70 (18)          9 (2)            58 (15)          6 (2)             
+   Skin and Subcutaneous Tissue Disorders     
+       Rash       45 (12)          5 (1)            53 (14)          5 (1)             
+   Vascular Disorders     
+       Embolic and thrombotic events venous  e    49 (13)          16 (4)           22 (6)           9 (2)             
+       Hypertension  f    41 (11)          12 (3)           15 (4)           4 (1)             
+ KRd = Kyprolis, lenalidomide, and dexamethasone; Rd = lenalidomide and dexamethasone  a   Pneumonia includes pneumonia and bronchopneumonia.  b   Peripheral neuropathies includes peripheral neuropathy, peripheral sensory neuropathy, and peripheral motor neuropathy.  c  Cough includes cough and productive cough.  d   Dyspnea includes dyspnea and dyspnea exertional.  e   Embolic and thrombotic     events, venous include deep vein thrombosis, pulmonary embolism, thrombophlebitis superficial, thrombophlebitis, venous thrombosis limb, post thrombotic syndrome, venous thrombosis.  f   Hypertension includes hypertension, hypertensive crisis.   
+           There were 274 (70%) patients in the KRd arm who received treatment beyond Cycle 12. There were no new clinically relevant adverse reactions that emerged in the later treatment cycles.
+ 
+
+   Adverse Reactions Occurring at a Frequency of <         10%  
+
+ *   Blood and lymphatic system disorders: febrile neutropenia, lymphopenia 
+ *   Cardiac disorders:   cardiac arrest, cardiac failure, cardiac failure congestive, myocardial infarction, myocardial ischemia, pericardial effusion 
+ *   Eye disorders: cataract, vision blurred 
+ *   Gastrointestinal disorders: abdominal pain, abdominal pain upper, dyspepsia, gastrointestinal hemorrhage, toothache 
+ *   General disorders and administration site conditions: chills, infusion site reaction, multi-organ failure, pain 
+ *   Infections and infestations: influenza, lung infection, rhinitis, sepsis, urinary tract infection, viral infection 
+ *   Metabolism and nutrition disorders: dehydration, hyperkalemia, hyperuricemia, hypoalbuminemia, hyponatremia, tumor lysis syndrome 
+ *   Musculoskeletal and connective tissue disorders: muscular weakness, myalgia 
+ *   Nervous system disorders: hypoesthesia, intracranial hemorrhage, paresthesia, deafness 
+ *   Psychiatric disorders: anxiety, delirium 
+ *   Renal and urinary disorders: renal failure, renal failure acute, renal impairment 
+ *   Respiratory, thoracic and mediastinal disorders: dysphonia, epistaxis, oropharyngeal pain, pulmonary embolism, pulmonary edema, pulmonary hemorrhage  
+ *   Skin and subcutaneous tissue disorders: erythema, hyperhidrosis, pruritus 
+ *   Vascular disorders: deep vein thrombosis, hemorrhage, hypotension 
+    Grade 3 and higher adverse reactions that occurred during Cycles 1-12 with a substantial difference (>= 2%) between the two arms were neutropenia, thrombocytopenia, hypokalemia, and hypophosphatemia.
+ 
+
+   Laboratory Abnormalities  
+
+ Table 9 describes Grade 3-4 laboratory abnormalities reported at a rate of >= 10% in the KRd arm for patients who received combination therapy.
+
+ Table 9: Grade 3-4 Laboratory Abnormalities (>= 10% in the KRd Arm) in Cycles 1-12 (20/27 mg/m2 Regimen In Combination with Lenalidomide and Dexamethasone) 
+   Laboratory Abnormality      KRd    (N         =         392)    n (%)      Rd    (N         =         389)    n (%)     
+ Decreased lymphocytes  182 (46)         119 (31)          
+ Decreased absolute neutrophil count  152 (39)         140 (36)          
+ Decreased phosphorus  122 (31)         106 (27)          
+ Decreased platelets  101 (26)         59 (15)           
+ Decreased total white blood cell count  97 (25)          71 (18)           
+ Decreased hemoglobin  58 (15)          68 (18)           
+ Decreased potassium  41 (11)          23 (6)            
+ KRd = Kyprolis, lenalidomide, and dexamethasone; Rd = lenalidomide and dexamethasone   
+           Safety Experience with Kyprolis    in Combination with Dexamethasone    in Patients with Multiple Myeloma  
+ 
+
+ The safety of Kyprolis in combination with dexamethasone was evaluated in an open-label, randomized trial of patients with relapsed multiple myeloma. The study treatment is described in Section 14.2.  Patients received treatment for a median duration of 40 weeks in the Kyprolis/dexamethasone (Kd) arm and 27 weeks in the bortezomib/dexamethasone (Vd) arm.
+
+ Deaths due to adverse reactions within 30 days of last study treatment occurred in 22/463 (5%) patients in the Kd arm and 21/456 (5%) patients in the Vd arm. The causes of death occurring in patients (%) in the two arms (Kd  versus  Vd) included cardiac 7 (2%)  versus  5 (1%), infections 5 (1%)  versus  8 (2%), disease progression 6 (1%)  versus  4 (1%), pulmonary 3 (1%)  versus  2 (< 1%), renal 1 (< 1%)  versus  0 (0%), and other adverse events 2 (< 1%)  versus  2 (< 1%). Serious adverse reactions were reported in 48% of the patients in the Kd arm and 36% of the patients in the Vd arm. In both treatment arms, pneumonia was the most commonly reported serious adverse reaction (6%  versus  9%). Discontinuation due to any adverse reaction occurred in 20% in the Kd arm  versus  21% in the Vd arm. The most common reaction leading to discontinuation was cardiac failure in the Kd arm (n = 6, 1.3%) and peripheral neuropathy in the Vd arm (n = 19, 4.2%).
+
+   Common Adverse    Reactions         (    >=         10%)  
+
+ Adverse reactions in the first 6 months of therapy that occurred at a rate of 10% or greater in the Kd arm are presented in Table 10.
+
+ Table 10: Most Common Adverse Reactions (>= 10% in the Kd Arm) Occurring in Months 1-6 (20/56 mg/m2 Regimen In Combination with Dexamethasone) 
+                    Kd    (N         =         463)    n (%)      Vd    (N         =         456)    n (%)     
+   Adverse Reaction by Body System      Any Grade        >=         Grade         3      Any Grade        >=         Grade         3     
+   Blood and    L    ymphatic    S    ystem    D    isorders     
+      Anemia      160 (35)         57 (12)          112 (25)         43 (9)            
+      Thrombocytopenia  a    127 (27)         46 (10)          112 (25)         65 (14)           
+   Gastrointestinal    D    isorders     
+      Diarrhea    111 (24)         14 (3)           150 (33)         26 (6)            
+      Nausea      69 (15)          4 (1)            66 (15)          3 (1)             
+      Constipation  58 (13)          1 (0)            109 (24)         6 (1)             
+      Vomiting    45 (10)          5 (1)            32 (7)           3 (1)             
+   General    D    isorders and    A    dministration    S    ite    C    onditions     
+      Fatigue     112 (24)         13 (3)           124 (27)         25 (6)            
+      Pyrexia     102 (22)         9 (2)            52 (11)          3 (1)             
+      Peripheral edema  75 (16)          3 (1)            73 (16)          3 (1)             
+      Asthenia    71 (15)          9 (2)            66 (14)          13 (3)            
+   Infections and    I    nfestations     
+      Upper respiratory tract infection  66 (14)          4 (1)            54 (12)          3 (1)             
+      Bronchitis  54 (12)          5 (1)            26 (6)           2 (0)             
+      Nasopharyngitis  45 (10)          0 (0)            42 (9)           1 (0)             
+   Musculoskeletal and    C    onnective    T    issue    D    isorders     
+      Muscle spasms  66 (14)          1 (0)            22 (5)           3 (1)             
+      Back pain   58 (13)          7 (2)            60 (13)          8 (2)             
+   Nervous    S    ystem    D    isorders     
+      Headache    68 (15)          4 (1)            38 (8)           2 (0)             
+      Peripheral neuropathies  b    ,c    54 (12)          7 (2)            167 (37)         23 (5)            
+   Psychiatric    D    isorders     
+      Insomnia    103 (22)         5 (1)            113 (25)         10 (2)            
+   Respiratory,    T    horacic and    M    ediastinal    D    isorders     
+      Dyspnea  d    123 (27)         23 (5)           66 (15)          8 (2)             
+      Cough  e    91 (20)          0 (0)            61 (13)          2 (0)             
+   Vascular Disorders     
+      Hypertension  f    80 (17)          29 (6)           33 (7)           12 (3)            
+ Kd = Kyprolis and dexamethasone; Vd = bortezomib and dexamethasone  a   Thrombocytopenia includes platelet count decreased and thrombocytopenia.  b   Peripheral neuropathies include peripheral neuropathy, peripheral sensory neuropathy, and peripheral motor neuropathy.  c  See Clinical Studies (14.2).  d   Dyspnea includes dyspnea and dyspnea exertional.  e  Cough includes cough and productive cough.  f   Hypertension includes hypertension, hypertensive crisis, and hypertensive emergency.   
+            The event rate of >= Grade 2 peripheral neuropathy in the Kd arm was 6% (95% CI:  4, 8)  versus  32% (95% CI:  28, 36) in the Vd arm.
+ 
+
+   Adverse Reactions Occurring at a Frequency of <         10%  
+
+ *   Blood and lymphatic system disorders: febrile neutropenia, leukopenia, lymphopenia, neutropenia, thrombotic microangiopathy, thrombotic thrombocytopenic purpura 
+ *   Cardiac disorders:   atrial fibrillation, cardiac arrest, cardiac failure, cardiac failure congestive, myocardial infarction, myocardial ischemia, palpitations, tachycardia 
+ *   Eye disorders: cataract, vision blurred 
+ *   Gastrointestinal disorders: abdominal pain, abdominal pain upper, dyspepsia, gastrointestinal hemorrhage, toothache 
+ *   General disorders and administration site conditions: chest pain, chills, infusion site reactions (including inflammation, pain, and erythema), pain 
+ *   Hepatobiliary disorders: cholestasis, hepatic failure, hyperbilirubinemia 
+ *   Immune system disorders: drug hypersensitivity 
+ *   Infections and infestations: bronchopneumonia, influenza, lung infection, pneumonia, rhinitis, sepsis, urinary tract infection, viral infection 
+ *   Metabolism and nutrition disorders: decreased appetite, dehydration, hypercalcemia, hyperkalemia, hyperuricemia, hypoalbuminemia, hypocalcemia, hypomagnesemia, hyponatremia, hypophosphatemia, tumor lysis syndrome 
+ *   Musculoskeletal and connective tissue disorders: muscular weakness, musculoskeletal chest pain, musculoskeletal pain, myalgia 
+ *   Nervous system disorders: cerebrovascular accident, dizziness, hypoesthesia, paresthesia, posterior reversible encephalopathy syndrome 
+ *   Psychiatric disorders: anxiety 
+ *   Renal and urinary disorders: renal failure, renal failure acute, renal impairment 
+ *   Respiratory, thoracic and mediastinal disorders: acute respiratory distress syndrome, dysphonia, epistaxis, interstitial lung disease, oropharyngeal pain, pneumonitis pulmonary embolism, pulmonary edema, pulmonary hypertension, wheezing 
+ *   Skin and subcutaneous tissue disorders: erythema, hyperhidrosis, pruritus, rash 
+ *   Vascular disorders: deep vein thrombosis, flushing, hypotension 
+      Laboratory Abnormalities  
+ 
+
+ Table 11 describes Grades 3-4 laboratory abnormalities reported at a rate of >= 10% in the Kd arm.
+
+ Table 11: Grades 3-4 Laboratory Abnormalities (>= 10%) in Months 1-6 (20/56 mg/m2 Regimen In Combination with Dexamethasone) 
+   Laboratory Abnormality      Kd    (N         =         463)    n (%)      Vd    (N         =         456)    n (%)     
+ Decreased lymphocytes  248 (54)         180 (40)          
+ Increase uric acid  243 (53)         198 (43)          
+ Decreased hemoglobin  79 (17)          68 (15)           
+ Decreased platelets  85 (18)          77 (17)           
+ Decreased phosphorus  73 (16)          61 (13)           
+ Decreased creatinine clearance  a    65 (14)          49 (11)           
+ Increased potassium  55 (12)          21 (5)            
+ Kd = Kyprolis and dexamethasone; Vd = bortezomib and dexamethasone  a  Calculated using the Cockcroft-Gault formula.   
+           Safety Experience with Kyprolis in Patients with Multiple Myeloma who Received Monotherapy  
+ 
+
+ The safety of Kyprolis, dosed at 20/27 mg/m  2  by up to 10-minute infusion, was evaluated in clinical trials in which 598 patients with relapsed and/or refractory myeloma received Kyprolis monotherapy starting with the 20 mg/m  2  dose in Cycle 1, Day 1 and escalating to 27 mg/m  2  on Cycle 1, Day 8 or Cycle 2, Day 1. Premedication with dexamethasone 4 mg was required before each dose in Cycle 1 and was optional for subsequent cycles. The median age was 64 years (range 32-87), and approximately 57% were male. The patients received a median of 5 (range 1-20) prior regimens. The median number of cycles initiated was 4 (range 1-35).
+
+ Serious adverse reactions, regardless of causality, were reported in 50% of patients in the pooled Kyprolis monotherapy studies (N = 598).  The most common serious adverse reactions were: pneumonia (8%), acute renal failure (5%), disease progression (4%), pyrexia (3%), hypercalcemia (3%), congestive heart failure (3%), multiple myeloma (3%), anemia (2%), and dyspnea (2%). In patients treated with Kyprolis, the incidence of serious adverse reactions was higher in those >= 65 years old and those >= 75 years old  [see Geriatric Use         (      8.5      )]  .
+
+ Deaths due to adverse reactions within 30 days of the last dose of Kyprolis occurred in 30/598 (5%) patients receiving Kyprolis monotherapy. These adverse reactions were related to cardiac disorders in 10 (2%) patients, infections in 8 (1%) patients, renal disorders in 4 (< 1%) patients, and other adverse reactions in 8 (1%) patients.  In a randomized trial comparing Kyprolis as a single agent  versus  corticosteroids with optional oral cyclophosphamide for patients with relapsed and refractory multiple myeloma, mortality was higher in the patients treated with Kyprolis in comparison to the control arm in the subgroup of 48 patients >= 75 years of age. The most common cause of discontinuation due to an adverse reaction was acute renal failure (2%).
+
+ Safety of Kyprolis monotherapy dosed at 20/56 mg/m  2  by 30-minute infusion was evaluated in a multicenter, open-label study in patients with relapsed and/or refractory multiple myeloma.  The study treatment is described in Section 14.3. The patients received a median of 4 (range 1-10) prior regimens.
+
+ The common adverse reactions occurring at a rate of 20% or greater with Kyprolis monotherapy are presented in Table 12.
+
+ Table 12: Most Common Adverse Reactions (>= 20%) with Kyprolis Monotherapy  
+                    20/56         mg/m      2      by 30  -  minute infusion    (N         =         24)      20/27         mg/m      2      by    2  -  to 10  -  minute infusion    (N         =         598)     
+   Adverse Reaction      Any Grade    n (%)      Grades         3         -         5    n (%)      Any Grade    n (%)      Grades         3         -         5    n (%)     
+ Fatigue          14 (58)          2 (8)            238 (40)         25 (4)            
+ Dyspnea  a       14 (58)          2 (8)            202 (34)         21 (4)            
+ Pyrexia          14 (58)          0                177 (30)         11 (2)            
+ Thrombocytopenia  13 (54)          13 (54)          220 (37)         152 (25)          
+ Nausea           13 (54)          0                211 (35)         7 (1)             
+ Anemia           10 (42)          7 (29)           291 (49)         141 (24)          
+ Hypertension  b    10 (42)          3 (13)           90 (15)          22 (4)            
+ Chills           9 (38)           0                73 (12)          1 (< 1)           
+ Headache         8 (33)           0                141 (24)         7 (1)             
+ Cough  c         8 (33)           0                134 (22)         2 (< 1)           
+ Vomiting         8 (33)           0                104 (17)         4 (1)             
+ Lymphopenia      8 (33)           8 (33)           85 (14)          73 (12)           
+ Insomnia         7 (29)           0                75 (13)          0                 
+ Dizziness        7 (29)           0                64 (11)          5 (1)             
+ Diarrhea         6 (25)           1 (4)            160 (27)         8 (1)             
+ Blood creatinine increased  6 (25)           1 (4)            103 (17)         15 (3)            
+ Peripheral edema  5 (21)           0                118 (20)         1 (< 1)           
+ Back pain        5 (21)           1 (4)            115 (19)         19 (3)            
+ Upper respiratory tract infection  5 (21)           1 (4)            112 (19)         15 (3)            
+ Decreased appetite  5 (21)           0                89 (15)          2 (< 1)           
+ Muscle spasms    5 (21)           0                62 (10)          2 (< 1)           
+ Chest pain       5 (21)           0                20 (3)           1 (< 1)           
+   a  Dyspnea includes preferred terms of dyspnea and dyspnea exertional.  b  Hypertension includes hypertension, hypertensive crisis, and hypertensive emergency.  c  Cough includes cough and productive cough.   
+             Adverse Reactions Occurring at a Frequency of <     20    %  
+ 
+
+ *   Blood and lymphatic system disorders: febrile neutropenia, leukopenia, neutropenia 
+ *   Cardiac disorders:   cardiac arrest, cardiac failure, cardiac failure congestive, myocardial infarction, myocardial ischemia 
+ *   Eye disorders: cataract, blurred vision 
+ *   Gastrointestinal disorders: abdominal pain, abdominal pain upper, constipation, dyspepsia, gastrointestinal hemorrhage, toothache 
+ *   General disorders and administration site conditions:   asthenia, infusion site reaction, multi-organ failure, pain 
+ *   Hepatobiliary disorders: hepatic failure 
+ *   Infections and infestations: bronchitis, bronchopneumonia, influenza, lung infection, pneumonia, nasopharyngitis, respiratory tract infection, rhinitis, sepsis, urinary tract infection 
+ *   Metabolism and nutrition disorders:   hypercalcemia, hyperglycemia, hyperkalemia, hyperuricemia, hypoalbuminemia, hypocalcemia, hypokalemia, hypomagnesemia, hyponatremia, hypophosphatemia, tumor lysis syndrome 
+ *   Musculoskeletal and connective tissue disorders:   arthralgia, musculoskeletal pain, musculoskeletal chest pain, myalgia, pain in extremity 
+ *   Nervous system disorders: hypoesthesia, intracranial hemorrhage, paresthesia, peripheral motor neuropathy, peripheral neuropathy, peripheral sensory neuropathy 
+ *   Psychiatric disorders  : anxiety 
+ *   Renal and urinary disorders:   acute renal failure, renal failure, renal impairment 
+ *   Respiratory, thoracic and mediastinal disorders: dysphonia, epistaxis, oropharyngeal pain, pulmonary edema, pulmonary hemorrhage 
+ *   Skin and subcutaneous tissue disorders: erythema, hyperhidrosis, pruritus, rash 
+ *   Vascular disorders: embolic and thrombotic events, venous (including deep vein thrombosis and pulmonary embolism), hemorrhage, hypotension 
+    Grade 3 and higher adverse reactions occurring at an incidence of > 1% include febrile neutropenia, cardiac arrest, cardiac failure congestive, pain, sepsis, urinary tract infection, hyperglycemia, hyperkalemia, hyperuricemia, hypoalbuminemia, hypocalcemia, hyponatremia, hypophosphatemia, renal failure, renal failure acute, renal impairment, pulmonary edema, and hypotension.
+ 
+
+   Laboratory Abnormalities  
+
+ Table 13 describes Grade 3-4 laboratory abnormalities reported at a rate of > 10% for patients who received Kyprolis monotherapy.
+
+ Table 13: Grade 3-4 Laboratory Abnormalities (> 10%) with Kyprolis Monotherapy 
+   Laboratory Abnormality      Kyprolis    20/56 mg/m      2      (N = 24)      Kyprolis    20/27 mg/m      2      (N = 598)     
+ Decreased lymphocytes  15 (63)          151 (25)          
+ Decreased platelets  11 (46)          184 (31)          
+ Decreased hemoglobin  7 (29)           132 (22)          
+ Decreased total white blood cell count  3 (13)           71 (12)           
+ Decreased sodium  2 (8)            69 (12)           
+ Decreased absolute neutrophil count  2 (8)            67 (11)           
+           6.2       Postmarketing Experience
+   The following additional adverse reactions were reported in the postmarketing experience with Kyprolis. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: hemolytic uremic syndrome (HUS), gastrointestinal perforation, pericarditis.
+

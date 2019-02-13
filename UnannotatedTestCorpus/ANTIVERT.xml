@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ANTIVERT">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Anaphylactoid reaction, drowsiness, dry mouth, headache, fatigue, vomiting and, on rare occasions, blurred vision have been reported.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when meclizine is administered to a nursing woman.
+
+
+
+    Hepatic Impairment
+
+
+
+  The effect of hepatic impairment on the pharmacokinetics of meclizine has not been evaluated. As meclizine undergoes metabolism, hepatic impairment may result in increased systemic exposure of the drug. Treatment with meclizine should be administered with caution in patients with hepatic impairment.
+
+
+
+    Renal Impairment
+
+
+
+  The effect of renal impairment on the pharmacokinetics of meclizine has not been evaluated. Due to a potential for drug/metabolite accumulation, meclizine should be administered with caution in patients with renal impairment and in the elderly as renal function generally declines with age.
+
+
+
+    Drug Interactions
+
+
+
+  There may be increased CNS depression when meclizine is administered concurrently with other CNS depressants, including alcohol, tranquilizers, and sedatives. ( see    WARNINGS  )
+
+
+
+ Based on in-vitro evaluation, meclizine is metabolized by CYP2D6. Therefore there is a possibility for a drug interaction between meclizine and CYP2D6 inhibitors.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Since drowsiness may, on occasion, occur with use of this drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery.
+
+
+
+ Patients should avoid alcoholic beverages while taking this drug.
+
+
+
+ Due to its potential anticholinergic action, this drug should be used with caution in patients with asthma, glaucoma, or enlargement of the prostate gland.
+
+
+
+    Usage in Children
+
+
+
+  Clinical studies establishing safety and effectiveness in children have not been done; therefore, usage is not recommended in children under 12 years of age.
+
+
+
+    Usage in Pregnancy
+
+
+
+  Pregnancy Category B. Reproduction studies in rats have shown cleft palates at 25-50 times the human dose. Epidemiological studies in pregnant women, however, do not indicate that meclizine increases the risk of abnormalities when administered during pregnancy. Despite the animal findings, it would appear that the possibility of fetal harm is remote. Nevertheless, meclizine, or any other medication, should be used during pregnancy only if clearly necessary.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="18" name="heading" section="S2" start="237" />
+    <IgnoredRegion len="17" name="heading" section="S3" start="435" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="569" />
+    <IgnoredRegion len="18" name="heading" section="S3" start="623" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="889" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

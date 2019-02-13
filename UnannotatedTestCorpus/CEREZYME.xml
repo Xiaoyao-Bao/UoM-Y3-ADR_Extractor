@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CEREZYME">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Since the approval of    Cerezyme  (r)      (imiglucerase for injection) in May 1994, Genzyme has maintained a worldwide post-marketing database of spontaneously reported adverse events and adverse events discussed in the medical literature. The percentage of events for each reported adverse reaction term has been calculated using the number of patients from these sources as the denominator for total patient exposure to    Cerezyme    since 1994. Actual patient exposure is difficult to obtain due to the voluntary nature of the database and the continuous accrual and loss of patients over that span of time. The actual number of patients exposed to    Cerezyme    since 1994 is likely to be greater than estimated from these voluntary sources and, therefore, the percentages calculated for the frequencies of adverse reactions are most likely greater than the actual incidences.
+
+
+
+ Experience in patients treated with    Cerezyme    has revealed that approximately 13.8% of patients experienced adverse events which were judged to be related to    Cerezyme    administration and which occurred with an increase in frequency. Some of the adverse events were related to the route of administration. These include discomfort, pruritus, burning, swelling or sterile abscess at the site of venipuncture. Each of these events was found to occur in &lt;1% of the total patient population.
+
+
+
+ Symptoms suggestive of hypersensitivity have been noted in approximately 6.6% of patients. Onset of such symptoms has occurred during or shortly after infusions; these symptoms include pruritus, flushing, urticaria, angioedema, chest discomfort, dyspnea, coughing, cyanosis, and hypotension. Anaphylactoid reaction has also been reported (see      WARNINGS      ). Each of these events was found to occur in &lt;1.5% of the total patient population. Pre-treatment with antihistamines and/or corticosteroids and reduced rate of infusion have allowed continued use of    Cerezyme    in most patients.
+
+
+
+ Additional adverse reactions that have been reported in approximately 6.5% of patients treated with    Cerezyme    include: nausea, abdominal pain, vomiting, diarrhea, rash, fatigue, headache, fever, dizziness, chills, backache, and tachycardia. Each of these events was found to occur in &lt; 1.5% of the total patient population.
+
+
+
+ Incidence rates cannot be calculated from the spontaneously reported adverse events in the post-marketing database. From this database, the most commonly reported adverse events in children (defined as ages 2-12 years) included dyspnea, fever, nausea, flushing, vomiting, and coughing, whereas in adolescents (&gt;12-16 years) and in adults (&gt;16 years) the most commonly reported events included headache, pruritus, and rash.
+
+
+
+ In addition to the adverse reactions that have been observed in patients treated with    Cerezyme    , transient peripheral edema has been reported for this therapeutic class of drug.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  In less than 1% of the patient population, pulmonary hypertension and pneumonia have also been observed during treatment with  Cerezyme  (r)      (imiglucerase for injection). Pulmonary hypertension and pneumonia are known complications of Gaucher disease and have been observed both in patients receiving and not receiving  Cerezyme    . No causal relationship with  Cerezyme    has been established. Patients with respiratory symptoms in the absence of fever should be evaluated for the presence of pulmonary hypertension.
+
+
+
+ Therapy with  Cerezyme    should be directed by physicians knowledgeable in the management of patients with Gaucher disease.
+
+
+
+ Caution may be advisable in administration of  Cerezyme    to patients previously treated with Ceredase (alglucerase injection) and who have developed antibody to Ceredase or who have exhibited symptoms of hypersensitivity to Ceredase.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Studies have not been conducted in either animals or humans to assess the potential effects of  Cerezyme  (r)      (imiglucerase for injection) on carcinogenesis, mutagenesis, or impairment of fertility.
+
+
+
+    Teratogenic Effects
+
+
+
+  Animal reproduction studies have not been conducted with  Cerezyme  (r)      (imiglucerase for injection). It is also not known whether  Cerezyme    can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.  Cerezyme    should not be administered during pregnancy except when the indication and need are clear and the potential benefit is judged by the physician to substantially justify the risk.
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when  Cerezyme  (r)      (imiglucerase for injection) is administered to a nursing woman.
+
+
+
+    Pediatric Use
+
+
+
+  The safety and effectiveness of  Cerezyme  (r)      (imiglucerase for injection) have been established in patients between 2 and 16 years of age. Use of  Cerezyme    in this age group is supported by evidence from adequate and well-controlled studies of  Cerezyme    and Ceredase (alglucerase injection) in adults and pediatric patients, with additional data obtained from the medical literature and from long-term postmarketing experience.  Cerezyme    has been administered to patients younger than 2 years of age, however the safety and effectiveness in patients younger than 2 have not been established.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Approximately 15% of patients treated and tested to date have developed IgG antibody to  Cerezyme  (r)      (imiglucerase for injection) during the first year of therapy. Patients who developed IgG antibody did so largely within 6 months of treatment and rarely developed antibodies to  Cerezyme    after 12 months of therapy. Approximately 46% of patients with detectable IgG antibodies experienced symptoms of hypersensitivity.
+
+
+
+ Patients with antibody to  Cerezyme    have a higher risk of hypersensitivity reaction. Conversely, not all patients with symptoms of hypersensitivity have detectable IgG antibody. It is suggested that patients be monitored periodically for IgG antibody formation during the first year of treatment.
+
+
+
+ Treatment with  Cerezyme    should be approached with caution in patients who have exhibited symptoms of hypersensitivity to the product.
+
+
+
+ Anaphylactoid reaction has been reported in less than 1% of the patient population. Further treatment with imiglucerase should be conducted with caution. Most patients have successfully continued therapy after a reduction in rate of infusion and pretreatment with antihistamines and/or corticosteroids.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="936" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="1205" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1673" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="1927" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

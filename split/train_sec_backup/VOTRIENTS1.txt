@@ -1,0 +1,203 @@
+    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions in patients with advanced renal cell carcinoma (>=20%) are diarrhea, hypertension, hair color changes (depigmentation), nausea, anorexia, and vomiting. (  6.1  )
+
+
+
+ The most common adverse reactions in patients with advanced soft tissue sarcoma (>=20%) are fatigue, diarrhea, nausea, decreased weight, hypertension, decreased appetite, hair color changes, vomiting, tumor pain, dysgeusia, headache, musculoskeletal pain, myalgia, gastrointestinal pain, and dyspnea. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact GlaxoSmithKline at 1-888-825-5249 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Potentially serious adverse reactions with VOTRIENT included:
+
+
+
+ *    Hepatotoxicity [see Warnings and Precautions (5.1)]  
+ *    QT prolongation and torsades de pointes [see Warnings and Precautions (5.2)]  
+ *    Cardiac dysfunction [see Warnings and Precautions (5.3)]  
+ *    Hemorrhagic events [see Warnings and Precautions (5.4)]  
+ *    Arterial and venous thromboembolic events [see Warnings and Precautions (5.5 and 5.6)]  
+ *    Thrombotic microangiopathy [see Warnings and Precautions (5.7)]  
+ *    Gastrointestinal perforation and fistula [see Warnings and Precautions (5.8)]  
+ *    Interstitial Lung Disease (ILD)/Pneumonitis [see Warnings and Precautions (5.9)]  
+ *    Reversible Posterior Leukoencephalopathy Syndrome (RPLS) [see Warnings and Precautions (5.10)]  
+ *    Hypertension [see Warnings and Precautions (5.11)]  
+ *    Infection [see Warnings and Precautions (5.15)]  
+ *    Increased toxicity with other cancer therapies [see Warnings and Precautions (5.16)]  
+      Renal Cell Carcinoma:  The safety of VOTRIENT has been evaluated in 977 patients in the monotherapy trials which included 586 patients with RCC at the time of NDA submission. With a median duration of treatment of 7.4 months (range: 0.1 to 27.6), the most commonly observed adverse reactions (>=20%) in the 586 patients were diarrhea, hypertension, hair color change, nausea, fatigue, anorexia, and vomiting.
+ 
+
+ The data described below reflect the safety profile of VOTRIENT in 290 RCC patients who participated in a randomized, double-blind, placebo-controlled trial  [see Clinical Studies (14.1)]  . The median duration of treatment was 7.4 months (range: 0 to 23) for patients who received VOTRIENT and 3.8 months (range: 0 to 22) for the placebo arm. Forty-two percent of patients on VOTRIENT required a dose interruption. Thirty-six percent of patients on VOTRIENT were dose reduced. Table 1 presents the most common adverse reactions occurring in >=10% of patients who received VOTRIENT.
+
+
+
+ Table 1. Adverse Reactions Occurring in >=10% of Patients with RCC Who Received VOTRIENT 
+                           VOTRIENT         Placebo       
+                           (N = 290)        (N = 145)     
+                           All Gradesa      Grade 3       Grade 4       All Gradesa      Grade 3       Grade 4       
+  Adverse Reactions        %                %             %             %                %             %             
+  Diarrhea                 52               3             <1            9                <1            0             
+  Hypertension             40               4             0             10               <1            0             
+  Hair color changes       38               <1            0             3                0             0             
+  Nausea                   26               <1            0             9                0             0             
+  Anorexia                 22               2             0             10               <1            0             
+  Vomiting                 21               2             <1            8                2             0             
+  Fatigue                  19               2             0             8                1             1             
+  Asthenia                 14               3             0             8                0             0             
+  Abdominal pain           11               2             0             1                0             0             
+  Headache                 10               0             0             5                0             0             
+               a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 3.
+ 
+
+ Other adverse reactions observed more commonly in patients treated with VOTRIENT than placebo and that occurred in <10% (any grade) were alopecia (8% versus <1%), chest pain (5% versus 1%), dysgeusia (altered taste) (8% versus <1%), dyspepsia (5% versus <1%), dysphonia (4% versus <1%), facial edema (1% versus 0%), palmar-plantar erythrodysesthesia (hand-foot syndrome) (6% versus <1%), proteinuria (9% versus 0%), rash (8% versus 3%), skin depigmentation (3% versus 0%), and weight decreased (9% versus 3%).
+
+
+
+ Additional adverse reactions from other clinical trials in RCC patients treated with VOTRIENT are listed below:
+
+
+
+   Musculoskeletal and Connective Tissue Disorders:  Arthralgia, muscle spasms.
+
+
+
+ Table 2 presents the most common laboratory abnormalities occurring in >10% of patients who received VOTRIENT and more commonly (>=5%) in patients who received VOTRIENT versus placebo.
+
+
+
+ Table 2. Selected Laboratory Abnormalities Occurring in >10% of Patients with RCC Who Received VOTRIENT and More Commonly (>=5%) in Patients Who Received VOTRIENT versus Placebo 
+                                VOTRIENT        Placebo      
+                                (N = 290)       (N = 145)    
+                                All Gradesa     Grade 3      Grade 4      All Gradesa     Grade 3      Grade 4      
+  Parameters                    %               %            %            %               %            %            
+  Hematologic                                                                                                       
+     Leukopenia                 37              0            0            6               0            0            
+     Neutropenia                34              1            <1           6               0            0            
+     Thrombocytopenia           32              <1           <1           5               0            <1           
+     Lymphocytopenia            31              4            <1           24              1            0            
+  Chemistry                                                                                                         
+     ALT increased              53              10           2            22              1            0            
+     AST increased              53              7            <1           19              <1           0            
+     Glucose increased          41              <1           0            33              1            0            
+     Total bilirubin increased    36              3            <1           10              1            <1           
+     Phosphorus decreased       34              4            0            11              0            0            
+     Sodium decreased           31              4            1            24              4            0            
+     Magnesium decreased        26              <1           1            14              0            0            
+     Glucose decreased          17              0            <1           3               0            0            
+               a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 3.
+ 
+
+   Soft Tissue Sarcoma:  The safety of VOTRIENT has been evaluated in 382 patients with advanced soft tissue sarcoma, with a median duration of treatment of 3.6 months (range: 0 to 53). The most commonly observed adverse reactions (>=20%) in the 382 patients were fatigue, diarrhea, nausea, decreased weight, hypertension, decreased appetite, vomiting, tumor pain, hair color changes, musculoskeletal pain, headache, dysgeusia, dyspnea, and skin hypopigmentation.
+
+
+
+ The data described below reflect the safety profile of VOTRIENT in 240 patients who participated in a randomized, double-blind, placebo-controlled trial  [see Clinical Studies (14.2)]  . The median duration of treatment was 4.5 months (range: 0 to 24) for patients who received VOTRIENT and 1.9 months (range: 0 to 24) for the placebo arm. Fifty-eight percent of patients on VOTRIENT required a dose interruption. Thirty-eight percent of patients on VOTRIENT had their dose reduced. Seventeen percent of patients who received VOTRIENT discontinued therapy due to adverse reactions. Table 3 presents the most common adverse reactions occurring in >=10% of patients who received VOTRIENT.
+
+
+
+ Table 3. Adverse Reactions Occurring in >=10% of Patients with STS Who Received VOTRIENT 
+                              VOTRIENT         Placebo      
+                              (N = 240)        (N = 123)    
+                              All Gradesa      Grade 3      Grade 4      All Gradesa      Grade 3      Grade 4      
+  Adverse Reactions           %                %            %            %                %            %            
+  Fatigue                     65               13           1            48               4            1            
+  Diarrhea                    59               5            0            15               1            0            
+  Nausea                      56               3            0            22               2            0            
+  Weight decreased            48               4            0            15               0            0            
+  Hypertension                42               7            0            6                0            0            
+  Appetite decreased          40               6            0            19               0            0            
+  Hair color changes          39               0            0            2                0            0            
+  Vomiting                    33               3            0            11               1            0            
+  Tumor pain                  29               8            0            21               7            2            
+  Dysgeusia                   28               0            0            3                0            0            
+  Headache                    23               1            0            8                0            0            
+  Musculoskeletal pain        23               2            0            20               2            0            
+  Myalgia                     23               2            0            9                0            0            
+  Gastrointestinal pain       23               3            0            9                4            0            
+  Dyspnea                     20               5            <1           17               5            1            
+  Exfoliative rash            18               <1           0            9                0            0            
+  Cough                       17               <1           0            12               <1           0            
+  Peripheral edema            14               2            0            9                2            0            
+  Mucositis                   12               2            0            2                0            0            
+  Alopecia                    12               0            0            1                0            0            
+  Dizziness                   11               1            0            4                0            0            
+  Skin disorderb              11               2            0            1                0            0            
+  Skin hypopigmentation       11               0            0            0                0            0            
+  Stomatitis                  11               <1           0            3                0            0            
+  Chest pain                  10               2            0            6                0            0            
+               a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 3.
+ 
+
+   b  27 of the 28 cases of skin disorder were palmar-plantar erythrodysesthesia.
+
+
+
+ Other adverse reactions observed more commonly in patients treated with VOTRIENT that occurred in >=5% of patients and at an incidence of more than 2% difference from placebo included insomnia (9% versus 6%), hypothyroidism (8% versus 0%), dysphonia (8% versus 2%), epistaxis (8% versus 2%), left ventricular dysfunction (8% versus 4%), dyspepsia (7% versus 2%), dry skin (6% versus <1%), chills (5% versus 1%), vision blurred (5% versus 2%), and nail disorder (5% versus 0%).
+
+
+
+ Table 4 presents the most common laboratory abnormalities occurring in >10% of patients who received VOTRIENT and more commonly (>=5%) in patients who received VOTRIENT versus placebo.
+
+
+
+ Table 4. Selected Laboratory Abnormalities Occurring in >10% of Patients with STS Who Received VOTRIENT and More Commonly (>=5%) in Patients Who Received VOTRIENT versus Placebo 
+                                     VOTRIENT       Placebo     
+                                     (N = 240)      (N = 123)    
+                                     All Gradesa    Grade 3     Grade 4     All Gradesa    Grade 3     Grade 4     
+  Parameters                         %              %           %           %              %           %           
+  Hematologic                                                                                                      
+     Leukopenia                      44             1           0           15             0           0           
+     Lymphocytopenia                 43             10          0           36             9           2           
+     Thrombocytopenia                36             3           1           6              0           0           
+     Neutropenia                     33             4           0           7              0           0           
+  Chemistry                                                                                                        
+     AST increased                   51             5           3           22             2           0           
+     ALT increased                   46             8           2           18             2           1           
+     Glucose increased               45             <1          0           35             2           0           
+     Albumin decreased               34             1           0           21             0           0           
+     Alkaline phosphatase increased    32             3           0           23             1           0           
+     Sodium decreased                31             4           0           20             3           0           
+     Total bilirubin increased       29             1           0           7              2           0           
+     Potassium increased             16             1           0           11             0           0           
+               a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 3.
+ 
+
+   Diarrhea:  Diarrhea occurred frequently and was predominantly mild to moderate in severity in both the RCC and STS clinical trials. Patients should be advised how to manage mild diarrhea and to notify their healthcare provider if moderate to severe diarrhea occurs so appropriate management can be implemented to minimize its impact.
+
+
+
+   Lipase Elevations:  In a single-arm RCC trial, increases in lipase values were observed for 27% (48/181) of patients. Elevations in lipase as an adverse reaction were reported for 4% (10/225) of patients and were Grade 3 for 6 patients and Grade 4 for 1 patient. In the RCC trials of VOTRIENT, clinical pancreatitis was observed in <1% (4/586) of patients.
+
+
+
+   Pneumothorax:  Two of 290 patients treated with VOTRIENT and no patient on the placebo arm in the randomized RCC trial developed a pneumothorax. In the randomized trial of VOTRIENT for the treatment of STS, pneumothorax occurred in 3% (8/240) of patients treated with VOTRIENT and in no patients on the placebo arm.
+
+
+
+   Bradycardia:  In the randomized trial of VOTRIENT for the treatment of RCC, bradycardia based on vital signs (<60 beats per minute) was observed in 19% (52/280) of patients treated with VOTRIENT and in 11% (16/144) of patients on the placebo arm. Bradycardia was reported as an adverse reaction in 2% (7/290) of patients treated with VOTRIENT compared with <1% (1/145) of patients treated with placebo. In the randomized trial of VOTRIENT for the treatment of STS, bradycardia based on vital signs (<60 beats per minute) was observed in 19% (45/238) of patients treated with VOTRIENT and in 4% (5/121) of patients on the placebo arm. Bradycardia was reported as an adverse reaction in 2% (4/240) of patients treated with VOTRIENT compared with <1% (1/123) of patients treated with placebo.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post-approval use of VOTRIENT. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
+
+
+
+   Eye Disorders:  Retinal detachment/tear.
+
+
+
+   Gastrointestinal Disorders:  Pancreatitis.

@@ -1,0 +1,90 @@
+    6         ADVERSE REACTIONS  
+
+  The following serious adverse reactions are discussed in greater detail in other sections of the label:
+
+ *  Increased Mortality, Myocardial Infarction, Stroke, and Thromboembolism [see Warnings and Precautions (    5.1    )]  
+ *  Increased Mortality and/or Increased Risk of Tumor Progression or Recurrence in Patients with Cancer  [see Warnings and Precautions (    5.2    )]  
+ *  Hypertension  [see Warnings and Precautions (    5.3    )]  
+ *  Seizures [see Warnings and Precautions (    5.4    )]  
+ *  PRCA [see Warnings and Precautions (    5.6    )]  
+ *  Serious allergic reactions  [see Warnings and Precautions (    5.7    )]  
+ *  Severe Cutaneous Reactions [see Warnings and Precautions (    5.8    )]  
+   *  Patients with CKD: Adverse reactions in >= 10% of Aranesp-treated patients in clinical studies were hypertension, dyspnea, peripheral edema, cough, and procedural hypotension (  6.1  ). 
+ *  Patients with Cancer Receiving Chemotherapy: Adverse reactions in >= 1% of Aranesp-treated patients in clinical studies were abdominal pain, edema, and thrombovascular events (  6.1  ). 
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact Amgen Medical Information at 1-800-77-AMGEN (1-800-772-6436) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1       Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of other drugs and may not reflect the rates observed in practice.
+
+   Patients    with Chronic Kidney Disease  
+
+   Adult Patients  
+
+ Adverse reactions were determined based on pooled data from 5 randomized, active-controlled studies of Aranesp with a total of 1357 patients (Aranesp 766, epoetin alfa 591). The median duration of exposure for patients receiving Aranesp was 340 days, with 580 patients exposed for greater than 6 months and 360 patients exposed for greater than 1 year. The median (25th, 75th percentiles) weight-adjusted dose of Aranesp was 0.50 mcg/kg (0.32, 0.81). The median (range) age for patients administered Aranesp was 62 years (18 to 88). In the Aranesp group, 55% were male, 72% were white, 83% were receiving dialysis, and 17% were not receiving dialysis.
+
+ Table 5 lists adverse reactions occurring in >= 5% of patients treated with Aranesp.
+
+ Table 5. Adverse Reactions Occurring in >= 5% of Patients with CKD 
+   Adverse Reaction      Patients Treated    w    ith    Aranesp    (n = 766)     
+ Hypertension     31%               
+ Dyspnea          17%               
+ Peripheral edema  17%               
+ Cough            12%               
+ Procedural hypotension  10%               
+ Angina pectoris  8%                
+ Vascular access complications  8%                
+ Fluid overload   7%                
+ Rash/Erythema    5%                
+ Arteriovenous graft thrombosis  5%                
+        Rates of adverse reactions with Aranesp therapy were similar to those observed with other recombinant erythropoietins in these studies.
+ 
+
+   Pediatric Patients  
+
+ Adverse reactions were determined based on pooled data from 2 randomized, controlled trials   [see Clinical Studies (      14.1      )]  . In one study, Aranesp was administered to 81 pediatric patients with CKD who had stable hemoglobin concentrations while previously receiving epoetin alfa. In a second study, Aranesp was administered to 114 anemic pediatric patients with CKD receiving or not receiving dialysis for initial treatment of anemia. In these studies, the most frequently reported serious adverse reactions with Aranesp were hypertension and convulsions. The most commonly reported adverse reactions were hypertension, injection site pain, rash, and convulsions. Aranesp administration was discontinued because of injection site pain in 2 patients and hypertension in 3 patients.
+
+   Patients    with    Cancer    Receiving Chemotherapy  
+
+ Adverse reactions were based on data from a randomized, double-blind, placebo-controlled study of Aranesp in 597 patients (Aranesp 301, placebo 296) with extensive stage small cell lung cancer (SCLC) receiving platinum-based chemotherapy. All patients were white, 64% were male, and the median age was 61 years (range: 28 to 82 years); 25% of the study population were from North America, Western Europe, and Australia. Patients received Aranesp at a dose of 300 mcg or placebo weekly for 4 weeks then every 3 weeks for a total of 24 weeks, and the median duration of exposure was 19 weeks (range: 1 to 26 weeks).
+
+ Adverse reactions     were also based on     data from 7 randomized, double-blind, placebo-controlled studies, including the SCLC study described above, that enrolled 2112 patients (Aranesp 1203, placebo 909) with non-myeloid malignancies.  Most patients were white (95%), male (52%), and the median age was 63 years (range: 18 to 91 years); 73% of the study population were from North America, Western Europe, and Australia.  Dosing and schedules varied by study from once weekly to once every 4 weeks, and the median duration of exposure was 12 weeks (range: 1 to 27 weeks).
+
+ Table 6. Thrombovascular Adverse Reactions in Patients Receiving Chemotherapy 
+                    SCLC Study       All Placebo  -  controlled Studies     
+   Adverse Reaction      Aranesp    (n = 301)      Placebo    (n = 296)      Aranesp    (n = 1203)      Placebo    (n = 909)     
+ Thromboembolic Adverse Reactions, n (%)  24 (8.0%)        13 (4.4%)        73 (6.1%)        37 (4.1%)         
+     Arterial     10 (3.3%)        3 (1.0%)         15 (1.2%)        5 (0.6%)          
+        Myocardial infarction  5 (1.7%)         0                7 (0.6%)         2 (0.2%)          
+     Venous       14 (4.7%)        10 (3.4%)        60 (5.0%)        32 (3.5%)         
+        Pulmonary embolism  5 (1.7%)         3 (1.0%)         16 (1.3%)        6 (0.7%)          
+     Cerebrovascular disorders*  14 (4.7%)        9(3.0%)          20 (1.7%)        17 (1.9%)         
+           * "Cerebrovascular disorders" encompasses CNS hemorrhages and cerebrovascular accidents (ischemic and hemorrhagic). Events in this category may also be included under "thromboembolic adverse reactions."
+ 
+
+ In addition to the thrombovascular adverse reactions, abdominal pain and edema occurred at a higher incidence in patients taking Aranesp compared to patients on placebo.  Among all placebo-controlled studies, abdominal pain (13.2% vs. 9.4%) and edema (12.8% vs. 9.7%) were reported more frequently in patients receiving Aranesp compared to the placebo group.  In the SCLC study the incidence of abdominal pain (10.3% vs. 3.4%) and edema (5.6% vs. 5.1%) in the Aranesp-treated patients compared to those receiving placebo.
+
+   6.2       Postmarketing Experience
+
+  The following adverse reactions have been identified during postmarketing use of Aranesp.
+
+ Because postmarketing reporting of adverse reactions is voluntary and from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+ *  Seizures [  see Warnings and Precautions (    5.4    )  ]  
+ *  PRCA [  see Warnings and Precautions (    5.6    )  ]  
+ *  Serious allergic reactions  [  see Warnings and Precautions (    5.7    )  ]  
+ *  Severe Cutaneous Reactions [see Warnings and Precautions (    5.8    )]  
+      6.3       Immunogenicity
+   As with all therapeutic proteins, there is a potential for immunogenicity.
+
+ In clinical studies, the percentage of patients with antibodies to Aranesp was examined using the Biacore  (r)  assay. Sera from 1501 patients with CKD and 1159 patients with cancer were tested. At baseline, prior to Aranesp treatment, binding antibodies were detected in 59 patients (4%) with CKD and 36 patients with cancer (3%). During Aranesp therapy (range: 22 to 177 weeks), a follow-up sample was taken. One additional patient with CKD and 8 additional patients with cancer developed antibodies capable of binding Aranesp. In two studies of pediatric patients with CKD aged 2-16, 20 of 111 patients with CKD (18%) receiving dialysis and 6 of 69 patients (9%) not receiving dialysis had anti-ESA antibodies at baseline. During therapy, 4 additional patients receiving dialysis and 4 additional patients not receiving dialysis developed antibodies capable of binding Aranesp.
+
+ None of the patients had antibodies capable of neutralizing the activity of Aranesp or endogenous erythropoietin at baseline or at end of study. No clinical sequelae consistent with PRCA were associated with the presence of these antibodies.
+
+ The incidence of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of antibodies to Aranesp with the incidence of antibodies to other products may be misleading.
+
+ Neutralizing antibodies to darbepoetin alfa that cross-react with endogenous erythropoietin and other ESAs can result in PRCA or severe anemia (with or without other cytopenias)  [    see Warnings and Precautions (      5.6      )    ]  .
+

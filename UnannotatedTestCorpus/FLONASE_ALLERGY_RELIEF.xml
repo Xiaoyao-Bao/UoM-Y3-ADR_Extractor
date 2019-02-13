@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="FLONASE_ALLERGY_RELIEF">
+  <Text>
+    <Section id="S1" name="warnings">     Warnings  
+
+
+
+  Only for use in the nose. Do not spray into your eyes or mouth.
+
+
+
+    Do not use
+
+
+
+    *    in children under 4 years of age 
+ *    to treat asthma 
+ *    if you have an injury or surgery to your nose that is not fully healed 
+ *    if you have ever had an allergic reaction to this product or any of the ingredients 
+       Ask a doctor before use if you
+ 
+
+  have or had glaucoma or cataracts
+
+
+
+    Ask a doctor or pharmacist before use if you are taking
+
+
+
+    *    medicine for HIV infection (such as ritonavir) 
+ *    a steroid medicine for asthma, allergies or skin rash 
+ *    ketoconazole pills (medicine for fungal infection) 
+       When using this product
+ 
+
+    *    the growth rate of some children may be slower 
+ *    stinging or sneezing may occur for a few seconds right after use 
+ *    do not share this bottle with anyone else as this may spread germs 
+ *    remember to tell your doctor about all the medicines you take, including this one 
+       Stop use and ask a doctor if
+ 
+
+    *    you have, or come into contact with someone who has, chicken pox, measles or tuberculosis 
+ *    your symptoms do not get better within 7 days of starting use or you get new symptoms such as severe facial pain or thick nasal discharge. You may have something more than allergies, such as an infection. 
+ *    you get a constant whistling sound from your nose. This may be a sign of damage inside your nose. 
+ *    you get an allergic reaction to this product. Seek medical help right away. 
+ *    you get new changes to your vision that develop after starting this product 
+ *    you have severe or frequent nosebleeds 
+       If pregnant or breast -feeding,
+ 
+
+  ask a health professional before use.
+
+
+
+    Keep out of reach of children.
+
+
+
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="11" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="10" name="heading" section="S1" start="92" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="348" />
+    <IgnoredRegion len="55" name="heading" section="S1" start="425" />
+    <IgnoredRegion len="23" name="heading" section="S1" start="667" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="993" />
+    <IgnoredRegion len="31" name="heading" section="S1" start="1661" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="1743" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,178 @@
+  6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described below or elsewhere in the prescribing information:
+
+ *    Risk of  Thyroid≠B-NonOSE_AE   C≠I-NonOSE_AE  -≠I-NonOSE_AE  cell≠I-NonOSE_AE   Tumors≠I-NonOSE_AE  [see  Warnings and Precautions (5.1)  ]  
+ *     Pancreatitis≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.2)  ]  
+ *    Use with Medications Known to Cause  Hypoglycemia≠B-NonOSE_AE  [see    Warnings and Precautions (5.4)    ]  
+ *     Renal≠B-OSE_Labeled_AE   Impairment≠I-OSE_Labeled_AE  [see    Warnings and Precautions (5.5)    ]  
+ *     Hypersensitivity≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [see    Warnings and Precautions (5.6)    ]  
+   *    The most common adverse reactions, reported in >=5% of patients treated with VICTOZA are:  nausea≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE   (6.1)  . 
+ *     Immunogenicity≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE , including  urticaria≠B-OSE_Labeled_AE , were more common among VICTOZA-treated patients (0.8%) than among comparator-treated patients (0.4%) in clinical trials  (6.2)  . 
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact Novo Nordisk Inc. at 1-877-484-2869 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+   Common Adverse Reactions  
+
+ The data in Table 1 are derived from 5 glycemic control, placebo-controlled trials  [see      Clinical Studies (14.1)      ]  . These data reflect exposure of 1673 patients to VICTOZA and a mean duration of exposure to VICTOZA of 37.3 weeks. The mean age of patients was 58 years, 4% were 75 years or older and 54% were male. The population was 79% White, 6% Black or African American, 13% Asian; 4% were of Hispanic or Latino ethnicity. At baseline the population had  diabetes≠B-Not_AE_Candidate  for an average of 9.1 years and a mean HbA1cof 8.4%. Baseline estimated  renal≠B-Not_AE_Candidate   function≠I-Not_AE_Candidate  was normal or  mildly≠I-Not_AE_Candidate   impaired≠I-Not_AE_Candidate  in 88.1% and moderately impaired in 11.9% of the pooled population.
+
+ Table 1 shows common adverse reactions, excluding  hypoglycemia≠B-NonOSE_AE , associated with the use of VICTOZA. These adverse reactions occurred more commonly on VICTOZA than on placebo and occurred in at least 5% of patients treated with VICTOZA.
+
+   Table 1 Adverse reactions reported in >= 5% of VICTOZA-treated patients  
+
+
+                                    Placebo  N=661       Liraglutide 1.2 mg  N= 645    Liraglutide 1.8 mg  N= 1024    
+  Adverse Reaction                  (%)                  (%)                  (%)                  
+   Nausea≠B-OSE_Labeled_AE                             5                    18                   20                   
+   Diarrhea≠B-OSE_Labeled_AE                           4                    10                   12                   
+   Headache≠B-OSE_Labeled_AE                           7                    11                   10                   
+   Nasopharyngitis≠B-OSE_Labeled_AE                    8                    9                    10                   
+   Vomiting≠B-OSE_Labeled_AE                           2                    6                    9                    
+   Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE                 1                    10                   9                    
+   Dyspepsia≠B-OSE_Labeled_AE                          1                    4                    7                    
+   Upper≠B-OSE_Labeled_AE   Respiratory≠I-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE     6                    7                    6                    
+   Constipation≠B-OSE_Labeled_AE                       1                    5                    5                    
+   Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                          3                    4                    5                    
+          Cumulative proportions were calculated combining studies using Cochran-Mantel-Haenszel weights.
+ 
+
+ In an analysis of placebo- and active-controlled trials, the types and frequency of common adverse reactions, excluding  hypoglycemia≠B-NonOSE_AE , were similar to those listed in Table 1.
+
+   Other Adverse Reactions  
+
+   Gastrointestinal Adverse Reactions  
+
+ In the pool of 5 glycemic control, placebo-controlled clinical trials, withdrawals due to  gastrointestinal≠B-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE , occurred in 4.3% of VICTOZA-treated patients and 0.5% of placebo-treated patients. Withdrawal due to  gastrointestinal≠B-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  mainly occurred during the first 2-3 months of the trials.
+
+   Injection site reactions  
+
+  Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (e.g.,  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE , erythema) were reported in approximately 2% of VICTOZA-treated patients in the five double-blind, glycemic control trials of at least 26 weeks duration. Less than 0.2% of VICTOZA-treated patients discontinued due to  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE .
+
+   Hypoglycemia  
+
+   Hypoglycemia requiring the assistance of another person in placebo-controlled trials  
+
+ In 5 glycemic control, placebo-controlled clinical trials of at least 26 weeks duration,  hypoglycemia≠B-OSE_Labeled_AE  requiring the assistance of another person for treatment occurred in 8 VICTOZA-treated patients (7.5 events per 1000 patient-years). Of these 8 VICTOZA-treated patients, 7 patients were concomitantly using a sulfonylurea.
+
+ Table 2 Incidence (%) and Rate (episodes/patient year) of  Hypoglycemia≠B-OSE_Labeled_AE  in 26-Week Combination Therapy Placebo-controlled Trials 
+                                                                  Placebo Comparator           
+                                                                                               VICTOZA Treatment            
+                                                                
+  Add-on to Metformin              Placebo +  Metformin  (N = 121)                                  (N = 724)                     
+                                 VICTOZA +  Metformin           
+  Patient not able to self-treat                                  0                             
+                                                                                              0.1 (0.001)                   
+                                                                
+  Patient able to self-treat                                     2.5 (0.06)                    
+                                                                                              3.6 (0.05)                    
+                                                                
+  Add-on to Glimepiride                                           Placebo +                    
+                                 Glimepiride                  
+                                (N = 114)                     
+                                                                                               VICTOZA +                    
+                                 Glimepiride                  
+                                (N = 695)                     
+                                                                
+  Patient not able to self-treat                                  0                             
+                                                                                              0.1 (0.003)                   
+                                                                
+  Patient able to self-treat                                     2.6 (0.17)                    
+                                                                                              7.5 (0.38)                    
+                                                                
+  Not classified                                                 0                             
+                                                                                              0.9 (0.05)                    
+                                                                
+  Add-on to Metformin + Rosiglitazone                                   Placebo +                    
+                                 Metformin + Rosiglitazone    
+                                 (N = 175)                                                    (N = 355)                     
+                                 VICTOZA +  Metformin +  Rosiglitazone    
+  Patient not able to self-treat                                  0                             
+                                                                                              0                             
+                                                                
+  Patient able to self-treat                                     4.6 (0.15)                    
+                                                                                              7.9 (0.49)                    
+                                                                
+  Not classified                                                 1.1 (0.03)                    
+                                                                                              0.6 (0.01)                    
+                                                                
+  Add-on to Metformin + Glimepiride                                   Placebo +                    
+                                 Metformin +                  
+                                 Glimepiride                  
+                                 (N = 114)                                                    (N = 230)                     
+                                 VICTOZA +  Metformin +  Glimepiride    
+  Patient not able to self-treat                                  0                             
+                                                                                              2.2 (0.06)                    
+                                                                
+  Patient able to self-treat                                     16.7 (0.95)                   
+                                                                                              27.4 (1.16)                   
+                                                                
+  Not classified                                                 0                             
+                                                                                              0                             
+                                                                
+         "Patient not able to self-treat" is defined as an event requiring the assistance of another person for treatment.
+ 
+
+   Papillary thyroid carcinoma  
+
+ In glycemic control trials of VICTOZA, there were 7 reported cases of  papillary≠B-OSE_Labeled_AE   thyroid≠I-OSE_Labeled_AE   carcinoma≠I-OSE_Labeled_AE  in patients treated with VICTOZA and 1 case in a comparator-treated patient (1.5 vs. 0.5 cases per 1000 patient-years). Most of these  papillary≠B-NonOSE_AE   thyroid≠I-NonOSE_AE   carcinomas≠I-NonOSE_AE  were <1 cm in greatest diameter and were diagnosed in surgical pathology specimens after thyroidectomy prompted by findings on protocol-specified screening with serum calcitonin or thyroid ultrasound.
+
+   Cholelithiasis and cholecystitis  
+
+ In glycemic control trials of VICTOZA, the incidence of  cholelithiasis≠B-NonOSE_AE  was 0.3% in both VICTOZA-treated and placebo-treated patients. The incidence of  cholecystitis≠B-NonOSE_AE  was 0.2% in both VICTOZA-treated and placebo-treated patients.
+
+ In the LEADER trial  [see  Clinical Studies (14.2)  ]  , the incidence of  cholelithiasis≠B-OSE_Labeled_AE  was 1.5% (3.9 cases per 1000 patient years of observation) in VICTOZA-treated and 1.1% (2.8 cases per 1000 patient years of observation) in placebo-treated patients, both on a background of standard of care. The incidence of  acute≠B-OSE_Labeled_AE   cholecystitis≠I-OSE_Labeled_AE  was 1.1% (2.9 cases per 1000 patient years of observation) in VICTOZA-treated and 0.7% (1.9 cases per 1000 patient years of observation) in placebo-treated patients.
+
+   Laboratory Tests  
+
+   Bilirubin  
+
+ In the five glycemic control trials of at least 26 weeks duration, mildly  elevated≠B-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   bilirubin≠I-OSE_Labeled_AE  concentrations (elevations to no more than twice the upper limit of the reference range) occurred in 4.0% of VICTOZA-treated patients, 2.1% of placebo-treated patients and 3.5% of active-comparator-treated patients. This finding was not accompanied by  abnormalities≠B-NonOSE_AE   in≠I-NonOSE_AE   other≠I-NonOSE_AE   liver≠I-NonOSE_AE   tests≠I-NonOSE_AE . The significance of this isolated finding is unknown.
+
+   Calcitonin  
+
+ Calcitonin, a biological marker of  MTC≠B-NonOSE_AE , was measured throughout the clinical development program. At the end of the glycemic control trials, adjusted mean serum  calcitonin≠B-OSE_Labeled_AE   concentrations≠I-OSE_Labeled_AE   were≠I-OSE_Labeled_AE   higher≠I-OSE_Labeled_AE  in VICTOZA-treated patients compared to placebo-treated patients but not compared to patients receiving active comparator. Between group differences in adjusted mean serum calcitonin values were approximately 0.1 ng/L or less. Among patients with pretreatment calcitonin <20 ng/L,  calcitonin≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  to >20 ng/L occurred in 0.7% of VICTOZA-treated patients, 0.3% of placebo-treated patients, and 0.5% of active-comparator-treated patients. The clinical significance of these findings is unknown.
+
+   Lipase and Amylase  
+
+ In one glycemic control trial in  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  patients, a mean  increase≠B-OSE_Labeled_AE  of 33% for  lipase≠I-OSE_Labeled_AE  and 15% for amylase from baseline was observed for VICTOZA-treated patients while placebo-treated patients had a mean  decrease≠B-NonOSE_AE   in≠I-NonOSE_AE   lipase≠I-NonOSE_AE  of 3% and a mean  increase≠B-NonOSE_AE   in≠I-NonOSE_AE   amylase≠I-NonOSE_AE  of 1%.
+
+ In the LEADER trial, serum lipase and amylase were routinely measured. Among VICTOZA-treated patients, 7.9% had a  lipase≠B-OSE_Labeled_AE   value≠I-OSE_Labeled_AE  at any time during treatment of  greater≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   or≠I-OSE_Labeled_AE   equal≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   3≠I-OSE_Labeled_AE   times≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE   limit≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   normal≠I-OSE_Labeled_AE  compared with 4.5% of placebo-treated patients, and 1% of VICTOZA-treated patients had an  amylase≠B-OSE_Labeled_AE   value≠I-OSE_Labeled_AE  at any time during treatment of  greater≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   or≠I-OSE_Labeled_AE   equal≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   3≠I-OSE_Labeled_AE   times≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE   limit≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   normal≠I-OSE_Labeled_AE  versus 0.7% of placebo-treated patients.
+
+ The clinical significance of  elevations≠B-NonOSE_AE   in≠I-NonOSE_AE   lipase≠I-NonOSE_AE  or amylase with VICTOZA is unknown in the absence of other signs and symptoms of  pancreatitis≠B-NonOSE_AE   [see      Warnings and Precautions (5.2)  ].  
+
+   Vital signs  
+
+ VICTOZA did not have  adverse≠B-NonOSE_AE   effects≠I-NonOSE_AE   on≠I-NonOSE_AE   blood≠I-NonOSE_AE   pressure≠I-NonOSE_AE . Mean  increase≠B-OSE_Labeled_AE s from basel in≠I-OSE_Labeled_AE e in  heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  of 2 to 3 beats per minute have been observed with VICTOZA compared to placebo.
+
+   6.2 Immunogenicity
+
+  Consistent with the potentially  immunogenic≠B-NonOSE_AE   properties≠I-NonOSE_AE   of≠I-NonOSE_AE   protein≠I-NonOSE_AE   and≠I-NonOSE_AE   peptide≠I-NonOSE_AE   pharmaceuticals≠I-NonOSE_AE , patients treated with VICTOZA may develop  anti≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  liraglutide≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE . The detection of  antibody≠B-NonOSE_AE   formation≠I-NonOSE_AE  is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of  antibody≠B-NonOSE_AE  (including neutralizing a ntibody≠B-NonOSE_AE  )≠I-NonOSE_AE    positivity≠I-NonOSE_AE  ≠≠I-NonOSE_AE I-NonOSE_AE  in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, the incidence of  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   liraglutide≠I-NonOSE_AE  cannot be directly compared with the incidence of  antibodies≠B-NonOSE_AE   of≠I-NonOSE_AE   other≠I-NonOSE_AE   products≠I-NonOSE_AE .
+
+ Approximately 50-70% of VICTOZA-treated patients in five double-blind clinical trials of 26 weeks duration or longer were tested for the presence of  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  liraglutide≠I-NonOSE_AE   antibodies≠I-NonOSE_AE  at the end of treatment.  Low titers (concentrations not requiring dilution of serum) of  anti≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  liraglutide≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE   were≠I-OSE_Labeled_AE   detected≠I-OSE_Labeled_AE  in 8.6% of these VICTOZA-treated patients.   Cross≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  reacting≠I-OSE_Labeled_AE   anti≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  liraglutide≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   native≠I-OSE_Labeled_AE   glucagon≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  like≠I-OSE_Labeled_AE   peptide≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  GLP≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE ) occurred in 6.9% of the VICTOZA-treated patients in the double-blind 52-week monotherapy trial and in 4.8% of the VICTOZA-treated patients in the double-blind 26-week add-on combination therapy trials.  These  cross≠B-NonOSE_AE  -≠I-NonOSE_AE  reacting≠I-NonOSE_AE   antibodies≠I-NonOSE_AE  were not tested for  neutralizing≠B-NonOSE_AE   effect≠I-NonOSE_AE   against≠I-NonOSE_AE   native≠I-NonOSE_AE   GLP≠I-NonOSE_AE  -≠I-NonOSE_AE  1≠I-NonOSE_AE , and thus the potential for clinically significant  neutralization≠B-NonOSE_AE   of≠I-NonOSE_AE   native≠I-NonOSE_AE   GLP≠I-NonOSE_AE  -≠I-NonOSE_AE  1≠I-NonOSE_AE  was not assessed.   Antibodies≠B-OSE_Labeled_AE   that≠I-OSE_Labeled_AE   had≠I-OSE_Labeled_AE   a≠I-OSE_Labeled_AE   neutralizing≠I-OSE_Labeled_AE  effect on liraglutide in an  in vitro  assay occurred in 2.3% of the VICTOZA-treated patients in the double-blind 52-week monotherapy trial and in 1.0% of the VICTOZA-treated patients in the double-blind 26-week add-on combination therapy trials.
+
+  Antibody≠B-NonOSE_AE   formation≠I-NonOSE_AE  was not associated with reduced efficacy of VICTOZA when comparing mean HbA1c of all  antibody≠B-NonOSE_AE  -≠I-NonOSE_AE  positive≠I-NonOSE_AE  and all  antibody≠B-NonOSE_AE  -≠I-NonOSE_AE  negative≠I-NonOSE_AE  patients.  However, the 3 patients with the highest titers of  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  liraglutide≠I-NonOSE_AE   antibodies≠I-NonOSE_AE  had no reduction in HbA1c with VICTOZA treatment. 
+
+ In five double-blind glycemic control trials of VICTOZA, events from a composite of adverse events potentially related to  immunogenicity≠B-OSE_Labeled_AE  (e.g.  urticaria≠B-OSE_Labeled_AE ,  angioedema≠B-OSE_Labeled_AE ) occurred among 0.8% of VICTOZA-treated patients and among 0.4% of comparator-treated patients.  Urticaria≠B-OSE_Labeled_AE  accounted for approximately one-half of the events in this composite for VICTOZA-treated patients. Patients who developed  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  liraglutide≠I-NonOSE_AE   antibodies≠I-NonOSE_AE  were not more likely to develop events from the  immunogenicity≠B-NonOSE_AE   events≠I-NonOSE_AE  composite than were patients who did not develop  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  liraglutide≠I-NonOSE_AE   antibodies≠I-NonOSE_AE .
+
+ In the LEADER trial  [see  Clinical Studies (14.2)  ]  ,  anti≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  liraglutide≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE  were detected in 11 out of the 1247 (0.9%) VICTOZA-treated patients with  antibody≠B-NonOSE_AE  measurements.
+
+ Of the 11 VICTOZA-treated patients who developed  anti≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  liraglutide≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE , none were observed to develop  neutralizing≠B-NonOSE_AE   antibodies≠I-NonOSE_AE   to≠I-NonOSE_AE   liraglutide≠I-NonOSE_AE , and 5 patients (0.4%) developed  cross≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  reacting≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE   against≠I-OSE_Labeled_AE   native≠I-OSE_Labeled_AE   GLP≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE .
+
+   6.3 Post-Marketing Experience
+
+  The following additional adverse reactions have been reported during post-approval use of VICTOZA. Because these events are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+ *     Medullary≠B-OSE_Labeled_AE   thyroid≠I-OSE_Labeled_AE   carcinoma≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.1)  ]  
+ *     Dehydration≠B-OSE_Labeled_AE  resulting from  nausea≠B-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE  and  diarrhea≠B-OSE_Labeled_AE . [see  Warnings and Precautions (5.5)  and  Patient Counseling Information (17)  ]  
+ *     Increased≠B-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE ,  acute≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  or worsening of  chronic≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE , sometimes requiring hemodialysis. [see  Warnings and Precautions (5.5)  and  Patient Counseling Information (17)  ]  
+ *     Angioedema≠B-OSE_Labeled_AE  and  anaphylactic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE . [see  Contraindications (4)  ,  Warnings and Precautions (5.6)  ,    Patient Counseling Information (17)    ]  
+ *     Allergic≠B-NonOSE_AE   reactions≠I-NonOSE_AE :  rash≠B-OSE_Labeled_AE  and  pruritus≠B-OSE_Labeled_AE  
+ *     Acute≠B-OSE_Labeled_AE   pancreatitis≠I-OSE_Labeled_AE ,  hemorrhagic≠B-OSE_Labeled_AE  and necrotizing  pancreatitis≠I-OSE_Labeled_AE  sometimes resulting in death [see  Warnings and Precautions (5.2  )]  
+ *     Hepatobiliary≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  elevations≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   enzymes≠I-OSE_Labeled_AE ,  hyperbilirubinemia≠B-OSE_Labeled_AE ,  cholestasis≠B-OSE_Labeled_AE ,  hepatitis≠B-OSE_Labeled_AE  [see  Adverse Reactions (6.1  )]  
+

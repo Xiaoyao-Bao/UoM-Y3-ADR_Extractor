@@ -1,0 +1,143 @@
+    6 ADVERSE REACTIONS
+
+  If VIEKIRA PAK is administered with ribavirin (RBV), refer to the prescribing information for ribavirin for a list of ribavirin-associated adverse reactions.
+
+
+
+ The following adverse reaction is described below and elsewhere in the labeling:
+
+
+
+ *  Increased Risk of  ALT≠B-OSE_Labeled_AE   Elevations≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.1  )]  
+      EXCERPT:   In subjects receiving VIEKIRA PAK with ribavirin, the most commonly reported adverse reactions (greater than 10% of subjects) were fatigue, nausea, pruritus, other skin reactions, insomnia and asthenia. In subjects receiving VIEKIRA PAK without ribavirin, the most commonly reported adverse reactions (greater than or equal to 5% of subjects) were nausea, pruritus and insomnia. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact AbbVie Inc. at 1-800-633-9110 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of VIEKIRA PAK cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety assessment was based on data from six Phase 3 clinical trials in more than 2,000 subjects who received VIEKIRA PAK with or without ribavirin for 12 or 24 weeks.
+
+
+
+   VIEKIRA PAK with Ribavirin in Placebo-Controlled Trials  
+
+
+
+ The safety of VIEKIRA PAK in combination with ribavirin was assessed in 770 subjects with chronic  HCV≠B-Not_AE_Candidate   infection≠I-Not_AE_Candidate  in two placebo-controlled trials (SAPPHIRE-I and -II)  [see Clinical Studies (  14.1  ,  14.2  )]  . Adverse reactions that occurred more often in subjects treated with VIEKIRA PAK in combination with ribavirin compared to placebo were  fatigue≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE , other  skin≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE , and  asthenia≠B-OSE_Labeled_AE  (see  Table 3  ). The majority of the adverse reactions were mild in severity. Two percent of subjects experienced a serious adverse event (SAE). The proportion of subjects who permanently discontinued treatment due to adverse reactions was less than 1%.
+
+
+
+ Table 3. Adverse Reactions with >=5% Greater Frequency Reported in Subjects with Chronic HCV GT1 Infection Treated with VIEKIRA PAK in Combination with Ribavirin Compared to Placebo for 12 Weeks 
+                    SAPPHIRE-I and -II     
+  
+                    VIEKIRA PAK + RBV    12 Weeks    N = 770    %      Placebo    12 Weeks    N = 255    %     
+  Fatigue≠B-OSE_Labeled_AE           34               26                
+  Nausea≠B-OSE_Labeled_AE            22               15                
+  Pruritus≠B-OSE_Labeled_AE *        18               7                 
+  Skin≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE   $    16               9                 
+  Insomnia≠B-OSE_Labeled_AE          14               8                 
+  Asthenia≠B-OSE_Labeled_AE          14               7                 
+ *Grouped term ' pruritus≠B-OSE_Labeled_AE ' included the preferred terms  pruritus≠B-OSE_Labeled_AE  and  pruritus≠B-OSE_Labeled_AE   generalized≠I-OSE_Labeled_AE .  $  Grouped terms:  rash≠B-OSE_Labeled_AE ,  erythema≠B-OSE_Labeled_AE ,  eczema≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   maculo≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  papular≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   macular≠I-OSE_Labeled_AE ,  dermatitis≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   papular≠I-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   exfoliation≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   pruritic≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   erythematous≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   generalized≠I-OSE_Labeled_AE ,  dermatitis≠B-OSE_Labeled_AE   allergic≠I-OSE_Labeled_AE ,  dermatitis≠B-OSE_Labeled_AE   contact≠I-OSE_Labeled_AE ,  exfoliative≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE ,  photosensitivity≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  psoriasis≠B-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  ulcer≠B-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE .   
+        VIEKIRA PAK with and without Ribavirin in Regimen-Controlled Trials  
+ 
+
+ VIEKIRA PAK with and without ribavirin was assessed in 401 and 509 subjects with  chronic≠B-Not_AE_Candidate   HCV≠I-Not_AE_Candidate   infection≠I-Not_AE_Candidate , respectively, in three clinical trials (PEARL-II, PEARL-III and PEARL-IV)  [see Clinical Studies (  14.1  ,  14.2  )]  .  Pruritus≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE , and  asthenia≠B-OSE_Labeled_AE  were identified as adverse events occurring more often in subjects treated with VIEKIRA PAK in combination with ribavirin (see  Table 4  ). The majority of adverse events were mild to moderate in severity. The proportion of subjects who permanently discontinued treatment due to adverse events was less than 1% for both VIEKIRA PAK in combination with ribavirin and VIEKIRA PAK alone.
+
+
+
+ Table 4. Adverse Events with >=5% Greater Frequency Reported in Subjects with Chronic HCV GT1 Infection Treated with VIEKIRA PAK in Combination with Ribavirin Compared to VIEKIRA PAK for 12 Weeks 
+                    PEARL-II, -III and -IV     
+  
+                    VIEKIRA PAK + RBV    12 Weeks    N = 401    %      VIEKIRA PAK    12 Weeks    N = 509    %     
+  Nausea≠B-OSE_Labeled_AE            16               8                 
+  Pruritus≠B-OSE_Labeled_AE *        13               7                 
+  Insomnia≠B-OSE_Labeled_AE          12               5                 
+  Asthenia≠B-OSE_Labeled_AE          9                4                 
+ *Grouped term ' pruritus≠B-OSE_Labeled_AE ' included the preferred terms  pruritus≠B-OSE_Labeled_AE  and  pruritus≠B-OSE_Labeled_AE   generalized≠I-OSE_Labeled_AE .   
+        VIEKIRA PAK with Ribavirin in Subjects with Compensated Cirrhosis  
+ 
+
+ VIEKIRA PAK with ribavirin was assessed in 380 subjects with  compensated≠B-Not_AE_Candidate   cirrhosis≠I-Not_AE_Candidate  who were treated for 12 (n=208) or 24 (n=172) weeks duration (TURQUOISE-II)  [see Clinical Studies (  14.1  ,  14.3  )]  . The type and severity of adverse events in subjects with  compensated≠B-Not_AE_Candidate   cirrhosis≠I-Not_AE_Candidate  was comparable to  non≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  cirrhotic≠I-Not_AE_Candidate  subjects in other phase 3 trials.  Fatigue≠B-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  and  dyspnea≠B-OSE_Labeled_AE  occurred at least 5% more often in subjects treated for 24 weeks. The majority of adverse events occurred during the first 12 weeks of dosing in both treatment arms. Most of the adverse events were mild to moderate in severity. The proportion of subjects treated with VIEKIRA PAK for 12 and 24 weeks with SAEs was 6% and 5%, respectively and 2% of subjects permanently discontinued treatment due to adverse events in each treatment arm.
+
+
+
+   Skin Reactions  
+
+
+
+ In PEARL-II, -III and -IV, 7% of subjects receiving VIEKIRA PAK alone and 10% of subjects receiving VIEKIRA PAK with ribavirin reported  rash≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE . In SAPPHIRE-I and -II 16% of subjects receiving VIEKIRA PAK with ribavirin and 9% of subjects receiving placebo reported  skin≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE . In TURQUOISE-II, 18% and 24% of subjects receiving VIEKIRA PAK with ribavirin for 12 or 24 weeks reported  skin≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE . The majority of events were graded as mild in severity. There were no serious events or  severe≠B-NonOSE_AE   cutaneous≠I-NonOSE_AE   reactions≠I-NonOSE_AE , such as  Stevens≠B-NonOSE_AE   Johnson≠I-NonOSE_AE   Syndrome≠I-NonOSE_AE   (≠I-NonOSE_AE  SJS≠I-NonOSE_AE ),  toxic≠B-NonOSE_AE   epidermal≠I-NonOSE_AE   necrolysis≠I-NonOSE_AE   (≠I-NonOSE_AE  TEN≠I-NonOSE_AE ),  erythema≠B-NonOSE_AE   multiforme≠I-NonOSE_AE   (≠I-NonOSE_AE  EM≠I-NonOSE_AE ) or  drug≠B-NonOSE_AE   rash≠I-NonOSE_AE   with≠I-NonOSE_AE   eosinophilia≠I-NonOSE_AE   and≠I-NonOSE_AE   systemic≠I-NonOSE_AE   symptoms≠I-NonOSE_AE   (≠I-NonOSE_AE  DRESS≠I-NonOSE_AE ).
+
+
+
+   Laboratory Abnormalities  
+
+
+
+   Serum ALT Elevations  
+
+
+
+ Approximately 1% of subjects treated with VIEKIRA PAK experienced post-baseline serum  ALT≠B-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE   greater≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   5≠I-OSE_Labeled_AE   times≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE   limit≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   normal≠I-OSE_Labeled_AE  (ULN) after starting treatment. The incidence increased to 25% (4/16) among women taking a concomitant ethinyl estradiol containing medication  [see Contraindications (  4  ) and Warnings and Precautions (  5.1  )]  . The incidence of clinically relevant  ALT≠B-NonOSE_AE   elevations≠I-NonOSE_AE  among women using estrogens other than ethinyl estradiol, such as estradiol and conjugated estrogens used in hormone replacement therapy was 3% (2/59).
+
+
+
+  ALT≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  were typically asymptomatic, generally occurred during the first 4 weeks of treatment (mean time 20 days, range 8-57 days) and most resolved with ongoing therapy. The majority of these  ALT≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  were assessed as  drug≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE .  Elevations≠B-NonOSE_AE  in  ALT≠I-NonOSE_AE  were generally not associated with  bilirubin≠B-NonOSE_AE   elevations≠I-NonOSE_AE .  Cirrhosis≠B-NonOSE_AE  was not a risk factor for  elevated≠B-NonOSE_AE   ALT≠I-NonOSE_AE   [see Warnings and Precautions (  5.1  )]  .
+
+
+
+   Serum Bilirubin Elevations  
+
+
+
+ Post-baseline  elevations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   bilirubin≠I-OSE_Labeled_AE  at least 2 x ULN were observed in 15% of subjects receiving VIEKIRA PAK with ribavirin compared to 2% in those receiving VIEKIRA PAK alone. These  bilirubin≠B-OSE_Labeled_AE   increases≠I-OSE_Labeled_AE   were≠I-OSE_Labeled_AE   predominately≠I-OSE_Labeled_AE   indirect≠I-OSE_Labeled_AE  and related to the inhibition of the bilirubin transporters OATP1B1/1B3 by  paritaprevir≠B-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   ribavirin≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  induced≠I-OSE_Labeled_AE   hemolysis≠I-OSE_Labeled_AE .  Bilirubin≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  occurred after initiation of treatment, peaked by study Week 1, and generally resolved with ongoing therapy.  Bilirubin≠B-NonOSE_AE   elevations≠I-NonOSE_AE  were not associated with serum  ALT≠B-NonOSE_AE   elevations≠I-NonOSE_AE .
+
+
+
+   Anemia/Decreased Hemoglobin  
+
+
+
+ Across all Phase 3 studies, the mean change from baseline in hemoglobin levels in subjects treated with VIEKIRA PAK in combination with ribavirin was -2.4 g/dL and the mean change in subjects treated with VIEKIRA PAK alone was -0.5 g/dL.  Decreases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE  levels occurred early in treatment (Week 1-2) with further reductions through Week 3.  Hemoglobin≠B-OSE_Labeled_AE   values≠I-OSE_Labeled_AE   remained≠I-OSE_Labeled_AE   low≠I-OSE_Labeled_AE  during the remainder of treatment and returned towards baseline levels by post-treatment Week 4. Less than 1% of subjects treated with VIEKIRA PAK with ribavirin had  hemoglobin≠B-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE   decrease≠I-OSE_Labeled_AE  to less than 8.0 g/dL during treatment. Seven percent of subjects treated with VIEKIRA PAK in combination with ribavirin underwent a ribavirin dose reduction due to a  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE ; three subjects received a blood transfusion and five required erythropoietin. One patient discontinued therapy due to  anemia≠B-OSE_Labeled_AE . No subjects treated with VIEKIRA PAK alone had a  hemoglobin≠B-NonOSE_AE   level≠I-NonOSE_AE   less≠I-NonOSE_AE   than≠I-NonOSE_AE   1≠I-NonOSE_AE  0≠I-NonOSE_AE   g≠I-NonOSE_AE  /≠I-NonOSE_AE  dL≠I-NonOSE_AE .
+
+
+
+   VIEKIRA PAK in HCV/HIV-1 Co-infected Subjects  
+
+
+
+ VIEKIRA PAK with ribavirin was assessed in 63 subjects with  HCV≠B-Not_AE_Candidate  /≠I-Not_AE_Candidate  HIV≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate   co≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  infection≠I-Not_AE_Candidate  who were on stable antiretroviral therapy. The most common adverse events occurring in at least 10% of subjects were  fatigue≠B-OSE_Labeled_AE  (48%),  insomnia≠B-OSE_Labeled_AE  (19%),  nausea≠B-OSE_Labeled_AE  (17%),  headache≠B-OSE_Labeled_AE  (16%),  pruritus≠B-OSE_Labeled_AE  (13%),  cough≠B-OSE_Labeled_AE  (11%),  irritability≠B-OSE_Labeled_AE  (10%), and  ocular≠B-OSE_Labeled_AE   icterus≠I-OSE_Labeled_AE  (10%).
+
+
+
+  Elevations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   total≠I-OSE_Labeled_AE   bilirubin≠I-OSE_Labeled_AE  greater than 2 x ULN (mostly indirect) occurred in 34 (54%) subjects. Fifteen of these subjects were also receiving atazanavir at the time of  bilirubin≠B-OSE_Labeled_AE   elevation≠I-OSE_Labeled_AE  and nine also had adverse events of  ocular≠B-OSE_Labeled_AE   icterus≠I-OSE_Labeled_AE ,  jaundice≠B-OSE_Labeled_AE  or  hyperbilirubinemia≠B-OSE_Labeled_AE . None of the subjects with  hyperbilirubinemia≠B-NonOSE_AE  had concomitant  elevations≠B-NonOSE_AE   of≠I-NonOSE_AE   aminotransferases≠I-NonOSE_AE   [see Warnings and Precautions (  5.4  ), Adverse Reactions (  6.1  ) and Clinical Studies (  14.6  )]  . No subject experienced a grade 3  ALT≠B-NonOSE_AE   elevation≠I-NonOSE_AE .
+
+
+
+ Seven subjects (11%) had at least one post-baseline  hemoglobin≠B-OSE_Labeled_AE   value≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   less≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   g≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  dL≠I-OSE_Labeled_AE , and six of these subjects had a ribavirin dose modification; no subject in this small cohort required a blood transfusion or erythropoietin.
+
+
+
+ Median  declines≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   CD≠I-OSE_Labeled_AE  4≠I-OSE_Labeled_AE  +≠I-OSE_Labeled_AE   T≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  cell≠I-OSE_Labeled_AE   counts≠I-OSE_Labeled_AE  of 47 cells/mm  3  and 62 cells/mm  3  were observed at the end of 12 and 24 weeks of treatment, respectively, and most returned to baseline levels post-treatment. Two subjects had  CD≠B-OSE_Labeled_AE  4≠I-OSE_Labeled_AE  +≠I-OSE_Labeled_AE   T≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  cell≠I-OSE_Labeled_AE   counts≠I-OSE_Labeled_AE   decrease≠I-OSE_Labeled_AE  to less than 200 cells/mm  3  during treatment without a  decrease≠B-NonOSE_AE   in≠I-NonOSE_AE   CD≠I-NonOSE_AE  4≠I-NonOSE_AE  %≠I-NonOSE_AE . No subject experienced an  AIDS≠B-NonOSE_AE  -≠I-NonOSE_AE  related≠I-NonOSE_AE   opportunistic≠I-NonOSE_AE   infection≠I-NonOSE_AE .
+
+
+
+   VIEKIRA PAK in Selected Liver Transplant Recipients  
+
+
+
+ VIEKIRA PAK with ribavirin was assessed in 34  post≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  liver≠I-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  subjects with  recurrent≠B-Not_AE_Candidate  HCV  infection≠I-Not_AE_Candidate . Adverse events occurring in more than 20% of subjects included  fatigue≠B-OSE_Labeled_AE  50%,  headache≠B-OSE_Labeled_AE  44%,  cough≠B-OSE_Labeled_AE  32%,  diarrhea≠B-OSE_Labeled_AE  26%,  insomnia≠B-OSE_Labeled_AE  26%,  asthenia≠B-OSE_Labeled_AE  24%,  nausea≠B-OSE_Labeled_AE  24%,  muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE  21% and  rash≠B-OSE_Labeled_AE  21%. Ten subjects (29%) had at least one post-baseline  hemoglobin≠B-OSE_Labeled_AE   value≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   less≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   g≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  dL≠I-OSE_Labeled_AE . Ten subjects underwent a ribavirin dose modification due to decrease in hemoglobin and 3% (1/34) had an interruption of ribavirin. Five subjects received erythropoietin, all of whom initiated ribavirin at the starting dose of 1000 to 1200 mg daily. No subject received a blood transfusion  [see Clinical Studies (  14.5  )]  .
+
+
+
+   6.2 Post-Marketing Adverse Reactions
+
+   Hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (including  angioedema≠B-OSE_Labeled_AE ) have been observed.

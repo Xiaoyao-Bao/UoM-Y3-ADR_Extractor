@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="OPCON_A">
+  <Text>
+    <Section id="S1" name="warnings">    Warnings
+
+
+
+   Do not use
+
+
+
+    *    if you are sensitive to any ingredient in this product 
+ *    if solution changes color or becomes cloudy 
+       Ask a doctor before use if you have
+ 
+
+    *    heart disease 
+ *    high blood pressure 
+ *    trouble urinating due to an enlarged prostate gland 
+ *    narrow angle glaucoma 
+       When using this product
+ 
+
+    *    overuse may cause more eye redness 
+ *    pupils may become enlarged temporarily 
+ *    do not touch tip of container to any surface to avoid contamination 
+ *    you may feel a brief tingling after putting drops in eye 
+ *    replace cap after use 
+ *    remove contact lenses before using 
+       Stop use and ask a doctor if you experience
+ 
+
+    *    eye pain 
+ *    changes in vision 
+ *    redness or irritation of the eye that worsens or lasts more than 72 hours. 
+       Keep out of reach of children.
+ 
+
+  If swallowed, get medical help or contact a Poison Control Center right away. Accidental oral ingestion in infants and children may lead to coma and marked reduction in body temperature.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="8" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="10" name="heading" section="S1" start="19" />
+    <IgnoredRegion len="35" name="heading" section="S1" start="156" />
+    <IgnoredRegion len="23" name="heading" section="S1" start="341" />
+    <IgnoredRegion len="43" name="heading" section="S1" start="676" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="856" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

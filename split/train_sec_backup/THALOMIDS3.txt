@@ -1,0 +1,119 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  Ischemic heart disease (including myocardial infarction) and stroke have been observed in patients treated with THALOMID in combination with dexamethasone. (  5.3  ) 
+ *  Increased Mortality: Observed in patients with MM when pembrolizumab was added to dexamethasone and a thalidomide analogue. (  5.4  ) 
+ *  Drowsiness and Somnolence: Instruct patients to avoid situations where drowsiness may be a problem and not to take other medications that may cause drowsiness. (  5.5  ) 
+ *  Peripheral Neuropathy: Examine patients at monthly intervals for the first 3 months of thalidomide therapy and periodically thereafter for signs or symptoms of peripheral neuropathy. Consider electrophysiological testing, consisting of measurement of sensory nerve action potential (SNAP) amplitudes at baseline and thereafter every 6 months in an effort to detect asymptomatic neuropathy. (  5.6  ) 
+ *  Dizziness and Orthostatic Hypotension: Advise patients to sit upright for a few minutes prior to standing up from a recumbent position. (  5.7  ) 
+ *  Neutropenia: Patients may require dose interruption and/or dose reduction. (  5.8  ) 
+ *  Thrombocytopenia: Patients may require dose interruption and/or dose reduction. (  5.9  ) 
+ *  Increased HIV Viral Load: Measure viral load after the first and third months of treatment and every 3 months thereafter. (  5.10  ) 
+ *  Bradycardia: Monitor patients for bradycardia and possible syncope. Dose reduction or discontinuation may be required. (  5.11  ) 
+ *  Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis: Do not resume THALOMID following discontinuation for these reactions. (  5.12  ) 
+ *  Seizures: Monitor patients with a history of seizures or at risk for the development of seizures closely for clinical changes that could precipitate acute seizure activity. (  5.13  ) 
+ *  Tumor Lysis Syndrome: Monitor patients at risk (e.g., those with high tumor burden prior to treatment) and take appropriate precautions. (  5.14  ) 
+ *  Hypersensitivity: Monitor patients for potential hypersensitivity to the drug and its components. (  5.16  ) 
+    
+ 
+
+   5.1 Embryo-Fetal Toxicity
+
+  Thalidomide is a powerful human teratogen that induces a high frequency of severe and life-threatening birth defects, even after a single dose. Mortality at or shortly after birth has been reported in about 40% of infants. When there is no satisfactory alternative treatment, females of reproductive potential may be treated with thalidomide provided adequate precautions are taken to avoid pregnancy. THALOMID  (r)  (thalidomide) is only available through the THALOMID REMS program [see  Warnings and Precautions (5.2)  ]  .
+
+ Oral ingestion is the only type of maternal thalidomide exposure known to result in drug-associated birth defects. There are no specific data available regarding the reproductive risks of cutaneous absorption or inhalation of thalidomide; however, females of reproductive potential should avoid contact with THALOMID  (r)  (thalidomide) Capsules.  THALOMID Capsules should be stored in blister packs until ingestion. If there is contact with non-intact thalidomide capsules or the powder contents, the exposed area should be washed with soap and water.
+
+ If healthcare providers or other care givers are exposed to body fluids from patients receiving THALOMID (thalidomide) the exposed area should be washed with soap and water.  Appropriate precautions should be utilized, such as wearing gloves to prevent the potential cutaneous exposure to THALOMID.
+
+   Females of Reproductive Potential    Females of reproductive potential must avoid pregnancy for at least 4 weeks before beginning THALOMID therapy, during therapy, during dose interruptions and for at least 4 weeks after completing therapy.
+ 
+
+ Females must commit either to abstain continuously from heterosexual sexual intercourse or to use two methods of reliable birth control, beginning 4 weeks prior to initiating treatment with THALOMID, during therapy, during dose interruptions and continuing for 4 weeks following discontinuation of THALOMID therapy.
+
+ Two negative pregnancy tests must be obtained prior to initiating therapy. The first test should be performed within 10-14 days and the second test within 24 hours prior to prescribing THALOMID therapy and then weekly during the first month, then monthly thereafter in females with regular menstrual cycles or every 2 weeks in females with irregular menstrual cycles [see  Use in Specific Populations (8.3)  ]  .
+
+   Males    Thalidomide is present in the semen of patients receiving the drug. Therefore, males must always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking THALOMID and for up to 4 weeks after discontinuing THALOMID, even if they have undergone a successful vasectomy.   Male patients taking THALOMID must not donate sperm [see  Use in Specific Populations (8.3)  ]  .
+ 
+
+   Blood Donation    Patients must not donate blood during treatment with THALOMID and for 4 weeks following discontinuation of the drug because the blood might be given to a pregnant female patient whose fetus must not be exposed to THALOMID.
+ 
+
+    5.2 THALOMID REMS Program
+
+  Because of the embryo-fetal risk [see  Warnings and Precautions (5.1)  ]  , THALOMID is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS), the THALOMID REMS  program.
+
+ Required components of the THALOMID REMS  program include the following:
+
+ *  Prescribers must be certified with the THALOMID REMS program by enrolling and complying with the REMS requirements. 
+ *  Patients must sign a Patient-Physician Agreement Form and comply with the REMS requirements. In particular, female patients of reproductive potential who are not pregnant must comply with the pregnancy testing and contraception requirements [see  Use in Specific Populations (8.3)  ] and males must comply with contraception requirements [see  Use in Specific Populations (8.3)  ] . 
+ *  Pharmacies must be certified with the THALOMID REMS program, must only dispense to patients who are authorized to receive THALOMID and comply with REMS requirements. 
+    Further information about the THALOMID REMS  program is available at www.celgeneriskmanagement.com or by telephone at 1-888-423-5436.
+ 
+
+    5.3 Venous and Arterial Thromboembolism
+
+  The use of THALOMID in patients with MM results in an increased risk of venous thromboembolism, such as deep venous thrombosis and pulmonary embolism. This risk increases significantly when thalidomide is used in combination with standard chemotherapeutic agents including dexamethasone. In one controlled trial, the rate of venous thromboembolism was 22.5% in patients receiving thalidomide in combination with dexamethasone compared to 4.9% in patients receiving dexamethasone alone (p = 0.002).
+
+ Ischemic heart disease (11.1%), including myocardial infarction (1.3%), and stroke (cerebrovascular accident, 2.6%) have also occurred in patients with previously untreated MM treated with THALOMID and dexamethasone compared to placebo and dexamethasone (4.7%, 1.7%, and 0.9%, respectively) in one clinical trial [see  Adverse Reactions (6.1)  ]  .
+
+ Consider thromboprophylaxis based on an assessment of individual patients' underlying risk factors. Patients and physicians should be observant for the signs and symptoms of thromboembolism. Advise patients to seek immediate medical care if they develop symptoms such as shortness of breath, chest pain, or arm or leg swelling [see  Boxed Warning  ]  . Agents that also may increase the risk of thromboembolism should be used with caution in patients receiving THALOMID [see  Drug Interactions (7.7)  ]  .
+
+     5.4 Increased Mortality in Patients with MM When Pembrolizumab Is Added to a Thalidomide Analogue and Dexamethasone  
+
+   In two randomized clinical trials in patients with MM, the addition of pembrolizumab to a thalidomide analogue plus dexamethasone, a use for which no PD-1 or PD-L1 blocking antibody is indicated, resulted in increased mortality. Treatment of patients with MM with a PD-1 or PD-L1 blocking antibody in combination with a thalidomide analogue plus dexamethasone is not recommended outside of controlled clinical trials.  
+
+    5.5 Drowsiness and Somnolence
+
+  Thalidomide frequently causes drowsiness and somnolence. Patients should be instructed to avoid situations where drowsiness may be a problem and not to take other medications that may cause drowsiness without adequate medical advice [see  Drug Interactions (7.1)  ].   Advise patients as to the possible impairment of mental and/or physical abilities required for the performance of hazardous tasks, such as driving a car or operating other complex or dangerous machinery. Dose reductions may be required.
+
+    5.6 Peripheral Neuropathy
+
+  Thalidomide is known to cause nerve damage that may be permanent. Peripheral neuropathy is a common (>=10%) and potentially severe adverse reaction of treatment with thalidomide that may be irreversible. Peripheral neuropathy generally occurs following chronic use over a period of months; however, peripheral neuropathy following relatively short-term use has been reported. The correlation with cumulative dose is unclear. Symptoms may occur some time after thalidomide treatment has been stopped and may resolve slowly or not at all.
+
+ Few reports of neuropathy have arisen in the treatment of ENL despite long-term thalidomide treatment. However, the inability clinically to differentiate thalidomide neuropathy from the neuropathy often seen in Hansen's disease makes it difficult to determine accurately the incidence of thalidomide-related neuropathy in ENL patients treated with thalidomide.
+
+ Patients should be examined at monthly intervals for the first 3 months of thalidomide therapy to enable the clinician to detect early signs of neuropathy, which include numbness, tingling or pain in the hands and feet. Patients should be evaluated periodically thereafter during treatment. Patients should be regularly counseled, questioned, and evaluated for signs or symptoms of peripheral neuropathy. Consideration should be given to electrophysiological testing, consisting of measurement of sensory nerve action potential (SNAP) amplitudes at baseline and thereafter every 6 months in an effort to detect asymptomatic neuropathy. If symptoms of drug-induced neuropathy develop, thalidomide should be discontinued immediately to limit further damage, if clinically appropriate. Usually, treatment with thalidomide should only be reinitiated if the neuropathy returns to baseline status.
+
+ Medications known to be associated with neuropathy should be used with caution in patients receiving thalidomide [see  Drug Interactions (7.3)  ]  .
+
+    5.7 Dizziness and Orthostatic Hypotension
+
+  Patients should also be advised that thalidomide may cause dizziness and orthostatic hypotension and that, therefore, they should sit upright for a few minutes prior to standing up from a recumbent position.
+
+    5.8 Neutropenia
+
+  Decreased white blood cell counts, including neutropenia, have been reported in association with the clinical use of thalidomide. Treatment should not be initiated with an absolute neutrophil count (ANC) of <750/mm  3  . White blood cell count and differential should be monitored on an ongoing basis, especially in patients who may be more prone to neutropenia, such as patients who are HIV-seropositive. If ANC decreases to below 750/mm  3  while on treatment, the patient's medication regimen should be re-evaluated and, if the neutropenia persists, consideration should be given to withholding thalidomide if clinically appropriate.
+
+    5.9 Thrombocytopenia
+
+  Thrombocytopenia, including Grade 3 or 4 occurrences, has been reported in association with the clinical use of thalidomide. Monitor blood counts, including platelet counts. Dose reduction, delay, or discontinuation may be required. Monitor for signs and symptoms of bleeding including petechiae, epistaxis, and gastrointestinal bleeding, especially if concomitant medication may increase the risk of bleeding.
+
+    5.10 Increased HIV Viral Load
+
+  In a randomized, placebo-controlled trial of thalidomide in an HIV-seropositive patient population, plasma HIV RNA levels were found to increase (median change = 0.42 log10copies HIV RNA/mL, p = 0.04 compared to placebo). A similar trend was observed in a second, unpublished study conducted in patients who were HIV-seropositive. The clinical significance of this increase is unknown. Both studies were conducted prior to availability of highly active antiretroviral therapy. Until the clinical significance of this finding is further understood, in HIV-seropositive patients, viral load should be measured after the first and third months of treatment and every 3 months thereafter.
+
+    5.11 Bradycardia
+
+  Bradycardia in association with thalidomide use has been reported. Cases of bradycardia have been reported, some required medical interventions. The clinical significance and underlying etiology of the bradycardia noted in some thalidomide-treated patients are presently unknown.  Monitor patients for bradycardia and syncope. Dose reduction or discontinuation may be required.
+
+ Medications known to decrease heart rate should be used with caution in patients receiving thalidomide [see  Drug Interactions (7.2)  ]  .
+
+    5.12 Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis
+
+  Serious dermatologic reactions including Stevens-Johnson syndrome and toxic epidermal necrolysis, which may be fatal, have been reported. THALOMID should be discontinued if a skin rash occurs and only resumed following appropriate clinical evaluation. If the rash is exfoliative, purpuric, or bullous or if Stevens-Johnson syndrome or toxic epidermal necrolysis is suspected, use of THALOMID should not be resumed.
+
+    5.13 Seizures
+
+  Although not reported from pre-marketing controlled clinical trials, seizures, including grand mal convulsions, have been reported during post-approval use of THALOMID in clinical practice. Because these events are reported voluntarily from a population of unknown size, estimates of frequency cannot be made. Most patients had disorders that may have predisposed them to seizure activity, and it is not currently known whether thalidomide has any epileptogenic influence. During therapy with thalidomide, patients with a history of seizures or with other risk factors for the development of seizures should be monitored closely for clinical changes that could precipitate acute seizure activity.
+
+    5.14 Tumor Lysis Syndrome
+
+  Monitor patients at risk of tumor lysis syndrome (e.g., patients with high tumor burden prior to treatment) and take appropriate precautions.
+
+    5.15 Contraceptive Risks
+
+  Some contraceptive methods may pose a higher risk of adverse effects or may be medically contraindicated in some patients treated with THALOMID. Because some patients may develop sudden, severe neutropenia and/or thrombocytopenia, use of an intrauterine device (IUD) or implantable contraception in these patients may carry an increased risk for infection or bleeding either at insertion, removal or during use. Treatment with THALOMID, the presence of an underlying malignancy, and/or use of an estrogen-containing contraceptive can each increase the risk of thromboembolism. It is not known if these risks of thromboembolism are additive. However, they should be taken into consideration when choosing contraceptive methods.
+
+    5.16 Hypersensitivity
+
+  Hypersensitivity to THALOMID has been reported. Signs and symptoms have included the occurrence of erythematous macular rash, possibly associated with fever, tachycardia, and hypotension, and if severe, may necessitate interruption of therapy. If the reaction recurs when dosing is resumed, THALOMID should be discontinued.
+

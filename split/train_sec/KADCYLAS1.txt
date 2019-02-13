@@ -1,0 +1,134 @@
+    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the label:
+
+
+
+ *   Hepatotoxicity≠B-OSE_Labeled_AE  [See  Warnings and Precautions (5.1)  ]  
+ *   Left≠B-OSE_Labeled_AE   Ventricular≠I-OSE_Labeled_AE   Dysfunction≠I-OSE_Labeled_AE  [See  Warnings and Precautions (5.2)  ]  
+ *   Embryo≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Fetal≠I-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE  [See  Warnings and Precautions (5.3)  ]  
+ *   Pulmonary≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE  [See  Warnings and Precautions (5.4)  ]  
+ *   Infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Related≠I-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE ,  Hypersensitivity≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [See  Warnings and Precautions (5.5)  ]  
+ *   Hemorrhage≠B-OSE_Labeled_AE  [See  Warnings and Precautions (5.6)  ]  
+ *   Thrombocytopenia≠B-OSE_Labeled_AE  [See  Warnings and Precautions (5.7)  ]  
+ *   Neurotoxicity≠B-OSE_Labeled_AE  [See  Warnings and Precautions (5.8)  ]  
+      EXCERPT:   The most common adverse drug reactions (frequency > 25%) with KADCYLA (n=884 treated patients) were fatigue, nausea, musculoskeletal pain, hemorrhage, thrombocytopenia, headache, increased transaminases, constipation and epistaxis. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Genentech at 1-888-835-2555 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In clinical trials, KADCYLA has been evaluated as single-agent in 884 patients with  HER≠B-Not_AE_Candidate  2≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  positive≠I-Not_AE_Candidate  metastatic  breast≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate . The most common (frequency >= 25%) adverse drug reactions (ADRs) seen in 884 patients treated with KADCYLA were  fatigue≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  musculoskeletal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  hemorrhage≠B-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   transaminases≠I-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE  and  epistaxis≠B-OSE_Labeled_AE .
+
+
+
+ The ADRs described in  Table 6  were identified in patients with  HER≠B-Not_AE_Candidate  2≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  positive≠I-Not_AE_Candidate  metastatic  breast≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  treated in a randomized trial (Study 1)  [see  Clinical Studies (14.1)  ]  . Patients were randomized to receive KADCYLA or lapatinib plus capecitabine. The median duration of study treatment was 7.6 months for patients in the KADCYLA-treated group and 5.5 months and 5.3 months for patients treated with lapatinib and capecitabine, respectively. Two hundred and eleven (43.1%) patients experienced >= Grade 3 adverse events in the KADCYLA-treated group compared with 289 (59.2%) patients in the lapatinib plus capecitabine-treated group. Dose adjustments for KADCYLA were permitted  [see  Dosage and Administration (2.2)  ]  . Thirty-two patients (6.5%) discontinued KADCYLA due to an adverse event, compared with 41 patients (8.4%) who discontinued lapatinib, and 51 patients (10.5%) who discontinued capecitabine due to an adverse event. The most common adverse events leading to KADCYLA withdrawal were  thrombocytopenia≠B-OSE_Labeled_AE  and  increased≠B-OSE_Labeled_AE   transaminases≠I-OSE_Labeled_AE . Eighty patients (16.3%) treated with KADCYLA had adverse events leading to dose reductions. The most frequent adverse events leading to dose reduction of KADCYLA (in >= 1% of patients) included  thrombocytopenia≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   transaminases≠I-OSE_Labeled_AE , and  peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE . Adverse events that led to dose delays occurred in 116 (23.7%) of KADCYLA treated patients. The most frequent adverse events leading to a dose delay of KADCYLA (in >= 1% of patients) were  neutropenia≠B-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE ,  leukopenia≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   transaminases≠I-OSE_Labeled_AE  and  pyrexia≠B-OSE_Labeled_AE .
+
+
+
+   Table 6  reports the ADRs that occurred in patients in the KADCYLA-treated group (n=490) of the randomized trial (Study 1). Selected  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  are shown in  Table 7  . The most common ADRs seen with KADCYLA in the randomized trial (frequency > 25%) were  nausea≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE ,  musculoskeletal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  hemorrhage≠B-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   transaminases≠I-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE , and  constipation≠B-OSE_Labeled_AE . The most common NCI-CTCAE (version 3) >= Grade 3 ADRs (frequency >2%) were  thrombocytopenia≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   transaminases≠I-OSE_Labeled_AE ,  anemia≠B-OSE_Labeled_AE ,  hypokalemia≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  and  fatigue≠B-OSE_Labeled_AE .
+
+
+
+ Table 6 Summary of Adverse Drug Reactions Occurring in Patients on the KADCYLA Treatment Arm in the Randomized Trial (Study 1) 
+ Adverse Drug Reactions (MedDRA)System Organ Class  KADCYLA(3.6 mg/kg)n=490Frequency rate %  Lapatinib (1250 mg) + Capecitabine (2000 mg/m  2  )n=488Frequency rate %   
+                                           All grades (%)   Grade 3 - 4 (%)  All grades (%)   Grade 3 - 4 (%)   
+  
+ ND = Not determined                        
+  
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+  Neutropenia≠B-OSE_Labeled_AE                                      6.7              2.0              9.0              4.3         
+  Anemia≠B-OSE_Labeled_AE                                          14.3              4.1             10.5              2.5         
+  Thrombocytopenia≠B-OSE_Labeled_AE                                31.2             14.5              3.3              0.4         
+    Cardiac≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                         
+  Left≠B-OSE_Labeled_AE   ventricular≠I-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE                     1.8              0.2              3.3              0.4         
+    Eye≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                             
+  Lacrimation≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE                            3.3               0               2.5               0          
+  Dry≠B-OSE_Labeled_AE   eye≠I-OSE_Labeled_AE                                          3.9               0               3.1               0          
+  Vision≠B-OSE_Labeled_AE   blurred≠I-OSE_Labeled_AE                                   4.5               0               0.8               0          
+  Conjunctivitis≠B-OSE_Labeled_AE                                   3.9               0               2.3               0          
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                
+  Dyspepsia≠B-OSE_Labeled_AE                                        9.2               0              11.5              0.4         
+  Stomatitis≠B-OSE_Labeled_AE                                      14.1              0.2             32.6              2.5         
+  Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE                                       16.7               0               4.9              0.2         
+  Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                  18.6              0.8             17.6              1.6         
+  Vomiting≠B-OSE_Labeled_AE                                        19.2              0.8             29.9              4.5         
+  Diarrhea≠B-OSE_Labeled_AE                                        24.1              1.6             79.7             20.7         
+  Constipation≠B-OSE_Labeled_AE                                    26.5              0.4             11.1               0          
+  Nausea≠B-OSE_Labeled_AE                                          39.8              0.8             45.1              2.5         
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   Administration≠I-NonOSE_AE      
+  Peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE                                 7.1               0               8.2              0.2         
+  Chills≠B-OSE_Labeled_AE                                           7.6               0               3.1               0          
+  Pyrexia≠B-OSE_Labeled_AE                                         18.6              0.2              8.4              0.4         
+  Asthenia≠B-OSE_Labeled_AE                                        17.8              0.4             17.6              1.6         
+  Fatigue≠B-OSE_Labeled_AE                                         36.3              2.5             28.3              3.5         
+    Hepatobiliary≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                   
+  Nodular≠B-OSE_Labeled_AE   regenerative≠I-OSE_Labeled_AE   hyperplasia≠I-OSE_Labeled_AE                 0.4              ND                0                0          
+  Portal≠B-OSE_Labeled_AE   hypertension≠I-OSE_Labeled_AE                              0.4              0.2               0                0          
+    Immune≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                   
+  Drug≠B-OSE_Labeled_AE   hypersensitivity≠I-OSE_Labeled_AE                            2.2               0               0.8               0          
+    Injury≠B-NonOSE_AE  ,≠I-NonOSE_AE   Poisoning≠I-NonOSE_AE  ,≠I-NonOSE_AE   and≠I-NonOSE_AE   Procedural≠I-NonOSE_AE         
+  Infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE                        1.4               0               0.2               0          
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE               
+  Urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE                          9.4              0.6              3.9               0          
+    Investigations≠B-NonOSE_AE                            
+  Blood≠B-OSE_Labeled_AE   alkaline≠I-OSE_Labeled_AE   phosphatase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE             4.7              0.4              3.7              0.4         
+  Increased≠B-OSE_Labeled_AE   transaminases≠I-OSE_Labeled_AE                         28.8              8.0             14.3              2.5         
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE        
+  Hypokalemia≠B-OSE_Labeled_AE                                     10.2              2.7              9.4              4.7         
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+  Myalgia≠B-OSE_Labeled_AE                                         14.1              0.6              3.7               0          
+  Arthralgia≠B-OSE_Labeled_AE                                      19.2              0.6              8.4               0          
+  Musculoskeletal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                            36.1              1.8             30.5              1.4         
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                  
+  Dysgeusia≠B-OSE_Labeled_AE                                        8.0               0               4.1              0.2         
+  Dizziness≠B-OSE_Labeled_AE                                       10.2              0.4             10.7              0.2         
+  Peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE                           21.2              2.2             13.5              0.2         
+  Headache≠B-OSE_Labeled_AE                                        28.2              0.8             14.5              0.8         
+    Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                     
+  Insomnia≠B-OSE_Labeled_AE                                        12.0              0.4              8.6              0.2         
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE  ,≠I-NonOSE_AE   and≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+  Pneumonitis≠B-OSE_Labeled_AE                                      1.2               0                0                0          
+  Dyspnea≠B-OSE_Labeled_AE                                         12.0              0.8              8.0              0.4         
+  Cough≠B-OSE_Labeled_AE                                           18.2              0.2             13.1              0.2         
+  Epistaxis≠B-OSE_Labeled_AE                                       22.5              0.2              8.4               0          
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+  Pruritus≠B-OSE_Labeled_AE                                         5.5              0.2              9.2               0          
+  Rash≠B-OSE_Labeled_AE                                            11.6               0              27.5              1.8         
+    Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                        
+  Hemorrhage≠B-OSE_Labeled_AE                                      32.2              1.8             16.4              0.8         
+  Hypertension≠B-OSE_Labeled_AE                                     5.1              1.2              2.3              0.4         
+          Table 7 Selected Laboratory Abnormalities 
+ Parameter                     KADCYLA(3.6 mg/kg)  Lapatinib (1250 mg) + Capecitabine (2000 mg/m  2  )   
+ All Grade %                    Grade 3 %     Grade 4 %    All Grade %    Grade 3 %     Grade 4 %     
+  
+  Increased≠B-OSE_Labeled_AE   bilirubin≠I-OSE_Labeled_AE                 17            <1            0             57            2             0         
+  Increased≠B-OSE_Labeled_AE   AST≠I-OSE_Labeled_AE                       98            7             <1            65            3             0         
+  Increased≠B-OSE_Labeled_AE   ALT≠I-OSE_Labeled_AE                       82            5             <1            54            3             0         
+  Decreased≠B-OSE_Labeled_AE   platelet≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE            83            14            3             21            <1            <1        
+  Decreased≠B-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE                60            4             1             64            3             <1        
+  Decreased≠B-OSE_Labeled_AE   neutrophils≠I-OSE_Labeled_AE               39            3             <1            38            6             2         
+  Decreased≠B-OSE_Labeled_AE   potassium≠I-OSE_Labeled_AE                 33            3             0             31            6             <1        
+              Hepatic≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  has been observed in two patients (0.2%) with  HER≠B-Not_AE_Candidate  2≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  positive≠I-Not_AE_Candidate  metastatic  breast≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  in clinical trials (n=884) with KADCYLA as single-agent.
+ 
+
+   6.2 Immunogenicity
+
+  As with all therapeutic proteins, there is the potential for an  immune≠B-OSE_Labeled_AE   response≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   KADCYLA≠I-OSE_Labeled_AE .
+
+
+
+ A total of 836 patients from six clinical studies were tested at multiple time points for  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  therapeutic≠I-NonOSE_AE   antibody≠I-NonOSE_AE   (≠I-NonOSE_AE  ATA≠I-NonOSE_AE ) responses to KADCYLA. Following KADCYLA dosing, 5.3% (44/836) of patients tested  positive≠B-OSE_Labeled_AE   for≠I-OSE_Labeled_AE   anti≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  KADCYLA≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE  at one or more post-dose time points. The presence of KADCYLA in patient serum at the time of  ATA≠B-NonOSE_AE  sampling may interfere with the ability of this assay to detect  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  KADCYLA≠I-NonOSE_AE   antibodies≠I-NonOSE_AE . As a result, data may not accurately reflect the true incidence of  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  KADCYLA≠I-NonOSE_AE   antibody≠I-NonOSE_AE  development. In addition,  neutralizing≠B-NonOSE_AE   activity≠I-NonOSE_AE   of≠I-NonOSE_AE   anti≠I-NonOSE_AE  -≠I-NonOSE_AE  KADCYLA≠I-NonOSE_AE   antibodies≠I-NonOSE_AE  has not been assessed.
+
+
+
+  Immunogenicity≠B-NonOSE_AE  data are highly dependent on the sensitivity and specificity of the test methods used. Additionally, the observed incidence of a positive result in a test method may be influenced by several factors, including sample handling, timing of sample collection, drug interference, concomitant medication and the underlying disease. Therefore, comparison of the incidence of  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   KADCYLA≠I-NonOSE_AE  with the incidence of  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   other≠I-NonOSE_AE   products≠I-NonOSE_AE  may be misleading. Clinical significance of  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  KADCYLA≠I-NonOSE_AE   antibodies≠I-NonOSE_AE  is not yet known.

@@ -1,0 +1,267 @@
+    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most commonly reported adverse reactions during the first 3 months in controlled clinical trials (occurring in greater than or equal to 2% of patients treated with XELJANZ monotherapy or in combination with DMARDs) were upper respiratory tract infections, headache, diarrhea and nasopharyngitis. (  6.1  )  To report SUSPECTED ADVERSE REACTIONS, contact Pfizer, Inc at 1-800-438-1985 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.
+
+
+
+ Although other doses have been studied, the recommended dose of XELJANZ is 5 mg twice daily.
+
+
+
+ The following data includes two Phase 2 and five Phase 3 double-blind, controlled, multicenter trials. In these trials, patients were randomized to doses of XELJANZ 5 mg twice daily (292 patients) and 10 mg twice daily (306 patients) monotherapy, XELJANZ 5 mg twice daily (1044 patients) and 10 mg twice daily (1043 patients) in combination with DMARDs (including methotrexate) and placebo (809 patients). All seven protocols included provisions for patients taking placebo to receive treatment with XELJANZ at Month 3 or Month 6 either by patient response (based on uncontrolled disease activity) or by design, so that adverse events cannot always be unambiguously attributed to a given treatment. Therefore some analyses that follow include patients who changed treatment by design or by patient response from placebo to XELJANZ in both the placebo and XELJANZ group of a given interval. Comparisons between placebo and XELJANZ were based on the first 3 months of exposure, and comparisons between XELJANZ 5 mg twice daily and XELJANZ 10 mg twice daily were based on the first 12 months of exposure.
+
+
+
+ The long-term safety population includes all patients who participated in a double-blind, controlled trial (including earlier development phase studies) and then participated in one of two long-term safety studies. The design of the long-term safety studies allowed for modification of XELJANZ doses according to clinical judgment. This limits the interpretation of the long-term safety data with respect to dose.
+
+
+
+ The most common serious adverse reactions were serious  infections≠B-OSE_Labeled_AE   [see  Warnings and Precautions (5.1)  ]  .
+
+
+
+ The proportion of patients who discontinued treatment due to any adverse reaction during the 0 to 3 months exposure in the double-blind, placebo-controlled trials was 4% for patients taking XELJANZ and 3% for placebo-treated patients.
+
+
+
+     Overall Infections  
+
+
+
+ In the seven controlled trials, during the 0 to 3 months exposure, the overall frequency of  infections≠B-OSE_Labeled_AE  was 20% and 22% in the 5 mg twice daily and 10 mg twice daily groups, respectively, and 18% in the placebo group.
+
+
+
+ The most commonly reported  infections≠B-OSE_Labeled_AE  with XELJANZ were  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE ,  nasopharyngitis≠B-OSE_Labeled_AE , and  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  (4%, 3%, and 2% of patients, respectively).
+
+
+
+     Serious Infections  
+
+
+
+ In the seven controlled trials, during the 0 to 3 months exposure, serious  infections≠B-OSE_Labeled_AE  were reported in 1 patient (0.5 events per 100 patient-years) who received placebo and 11 patients (1.7 events per 100 patient-years) who received XELJANZ 5 mg or 10 mg twice daily. The rate difference between treatment groups (and the corresponding 95% confidence interval) was 1.1 (-0.4, 2.5) events per 100 patient-years for the combined 5 mg twice daily and 10 mg twice daily XELJANZ group minus placebo.
+
+
+
+ In the seven controlled trials, during the 0 to 12 months exposure, serious  infections≠B-OSE_Labeled_AE  were reported in 34 patients (2.7 events per 100 patient-years) who received 5 mg twice daily of XELJANZ and 33 patients (2.7 events per 100 patient-years) who received 10 mg twice daily of XELJANZ. The rate difference between XELJANZ doses (and the corresponding 95% confidence interval) was -0.1 (-1.3, 1.2) events per 100 patient-years for 10 mg twice daily XELJANZ minus 5 mg twice daily XELJANZ.
+
+
+
+ The most common serious  infections≠B-OSE_Labeled_AE  included  pneumonia≠B-OSE_Labeled_AE ,  cellulitis≠B-OSE_Labeled_AE ,  herpes≠B-OSE_Labeled_AE   zoster≠I-OSE_Labeled_AE , and  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE   [see  Warnings and Precautions (5.1)  ]  .
+
+
+
+     Tuberculosis  
+
+
+
+ In the seven controlled trials, during the 0 to 3 months exposure,  tuberculosis≠B-NonOSE_AE  was not reported in patients who received placebo, 5 mg twice daily of XELJANZ, or 10 mg twice daily of XELJANZ.
+
+
+
+ In the seven controlled trials, during the 0 to 12 months exposure,  tuberculosis≠B-OSE_Labeled_AE  was reported in 0 patients who received 5 mg twice daily of XELJANZ and 6 patients (0.5 events per 100 patient-years) who received 10 mg twice daily of XELJANZ. The rate difference between XELJANZ doses (and the corresponding 95% confidence interval) was 0.5 (0.1, 0.9) events per 100 patient-years for 10 mg twice daily XELJANZ minus 5 mg twice daily XELJANZ.
+
+
+
+ Cases of  disseminated≠B-OSE_Labeled_AE   tuberculosis≠I-OSE_Labeled_AE  were also reported. The median XELJANZ exposure prior to diagnosis of  tuberculosis≠B-OSE_Labeled_AE  was 10 months (range from 152 to 960 days) [  see  Warnings and Precautions (5.1)  ].  
+
+
+
+     Opportunistic Infections (excluding tuberculosis)  
+
+
+
+ In the seven controlled trials, during the 0 to 3 months exposure,  opportunistic≠B-NonOSE_AE   infections≠I-NonOSE_AE  were not reported in patients who received placebo, 5 mg twice daily of XELJANZ, or 10 mg twice daily of XELJANZ.
+
+
+
+ In the seven controlled trials, during the 0 to 12 months exposure,  opportunistic≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  were reported in 4 patients (0.3 events per 100 patient-years) who received 5 mg twice daily of XELJANZ and 4 patients (0.3 events per 100 patient-years) who received 10 mg twice daily of XELJANZ. The rate difference between XELJANZ doses (and the corresponding 95% confidence interval) was 0 (-0.5, 0.5) events per 100 patient-years for 10 mg twice daily XELJANZ minus 5 mg twice daily XELJANZ.
+
+
+
+ The median XELJANZ exposure prior to diagnosis of an  opportunistic≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  was 8 months (range from 41 to 698 days)  [see  Warnings and Precautions (5.1)  ].  
+
+
+
+     Malignancy  
+
+
+
+ In the seven controlled trials, during the 0 to 3 months exposure,  malignancies≠B-OSE_Labeled_AE  excluding  NMSC≠B-NonOSE_AE  were reported in 0 patients who received placebo and 2 patients (0.3 events per 100 patient-years) who received either XELJANZ 5 mg or 10 mg twice daily. The rate difference between treatment groups (and the corresponding 95% confidence interval) was 0.3 (-0.1, 0.7) events per 100 patient-years for the combined 5 mg and 10 mg twice daily XELJANZ group minus placebo.
+
+
+
+ In the seven controlled trials, during the 0 to 12 months exposure,  malignancies≠B-OSE_Labeled_AE  excluding  NMSC≠B-NonOSE_AE  were reported in 5 patients (0.4 events per 100 patient-years) who received 5 mg twice daily of XELJANZ and 7 patients (0.6 events per 100 patient-years) who received 10 mg twice daily of XELJANZ. The rate difference between XELJANZ doses (and the corresponding 95% confidence interval) was 0.2 (-0.4, 0.7) events per 100 patient-years for 10 mg twice daily XELJANZ minus 5 mg twice daily XELJANZ. One of these  malignancies≠B-OSE_Labeled_AE  was a case of  lymphoma≠B-OSE_Labeled_AE  that occurred during the 0 to 12 month period in a patient treated with XELJANZ 10 mg twice daily.
+
+
+
+ The most common types of  malignancy≠B-OSE_Labeled_AE , including  malignancies≠B-OSE_Labeled_AE  observed during the long-term extension, were  lung≠B-OSE_Labeled_AE  and breast  cancer≠I-OSE_Labeled_AE , followed by  gastric≠B-OSE_Labeled_AE , colorectal, renal cell, prostate  cancer≠I-OSE_Labeled_AE ,  lymphoma≠B-OSE_Labeled_AE , and  malignant≠B-OSE_Labeled_AE   melanoma≠I-OSE_Labeled_AE   [see  Warnings and Precautions (5.2)  ].  
+
+
+
+     Laboratory Abnormalities  
+
+
+
+      Lymphopenia≠B-OSE_Labeled_AE   
+
+
+
+ In the controlled clinical trials, confirmed  decreases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   absolute≠I-OSE_Labeled_AE   lymphocyte≠I-OSE_Labeled_AE   counts≠I-OSE_Labeled_AE  below 500 cells/mm  3  occurred in 0.04% of patients for the 5 mg twice daily and 10 mg twice daily XELJANZ groups combined during the first 3 months of exposure.
+
+
+
+ Confirmed  lymphocyte≠B-OSE_Labeled_AE   counts≠I-OSE_Labeled_AE   less≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   5≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   cells≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  mm≠I-OSE_Labeled_AE    3≠I-OSE_Labeled_AE   were associated with an increased incidence of treated and serious  infections≠B-NonOSE_AE   [see  Warnings and Precautions (5.4)  ].  
+
+
+
+      Neutropenia≠B-OSE_Labeled_AE   
+
+
+
+ In the controlled clinical trials, confirmed  decreases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   ANC≠I-OSE_Labeled_AE  below 1000 cells/mm  3  occurred in 0.07% of patients for the 5 mg twice daily and 10 mg twice daily XELJANZ groups combined during the first 3 months of exposure.
+
+
+
+ There were no confirmed  decreases≠B-NonOSE_AE   in≠I-NonOSE_AE   ANC≠I-NonOSE_AE  below 500 cells/mm  3  observed in any treatment group.
+
+
+
+ There was no clear relationship between  neutropenia≠B-NonOSE_AE  and the occurrence of serious  infections≠B-NonOSE_AE .
+
+
+
+ In the long-term safety population, the pattern and incidence of confirmed  decreases≠B-NonOSE_AE   in≠I-NonOSE_AE   ANC≠I-NonOSE_AE  remained consistent with what was seen in the controlled clinical trials  [see  Warnings and Precautions (5.4)  ].  
+
+
+
+     Liver Enzyme Elevations  
+
+
+
+ Confirmed  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   enzymes≠I-OSE_Labeled_AE  greater than 3 times the upper limit of normal (3* ULN) were observed in patients treated with XELJANZ. In patients experiencing  liver≠B-OSE_Labeled_AE   enzyme≠I-OSE_Labeled_AE   elevation≠I-OSE_Labeled_AE , modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of XELJANZ, or reduction in XELJANZ dose, resulted in  decrease≠B-NonOSE_AE  or normalization of  liver≠I-NonOSE_AE   enzymes≠I-NonOSE_AE .
+
+
+
+ In the controlled monotherapy trials (0-3 months), no differences in the incidence of  ALT≠B-NonOSE_AE  or AST  elevations≠I-NonOSE_AE  were observed between the placebo, and XELJANZ 5 mg, and 10 mg twice daily groups.
+
+
+
+ In the controlled background DMARD trials (0-3 months),  ALT≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  greater than 3* ULN were observed in 1.0%, 1.3% and 1.2% of patients receiving placebo, 5 mg, and 10 mg twice daily, respectively. In these trials,  AST≠B-NonOSE_AE   elevations≠I-NonOSE_AE  greater than 3* ULN were observed in 0.6%, 0.5% and 0.4% of patients receiving placebo, 5 mg, and 10 mg twice daily, respectively.
+
+
+
+ One case of  drug≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  induced≠I-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE  was reported in a patient treated with XELJANZ 10 mg twice daily for approximately 2.5 months. The patient developed symptomatic  elevations≠B-OSE_Labeled_AE  of  AST≠I-OSE_Labeled_AE  and ALT greater than 3* ULN and  bilirubin≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  greater than 2* ULN, which required hospitalizations and a liver biopsy.
+
+
+
+     Lipid Elevations  
+
+
+
+ In the controlled clinical trials, dose-related  elevations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   lipid≠I-OSE_Labeled_AE  parameters (total cholesterol, LDL cholesterol, HDL cholesterol, triglycerides) were observed at one month of exposure and remained stable thereafter. Changes in lipid parameters during the first 3 months of exposure in the controlled clinical trials are summarized below:
+
+
+
+ *  Mean  LDL≠B-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  by 15% in the XELJANZ 5 mg twice daily arm and 19% in the XELJANZ 10 mg twice daily arm. 
+ *  Mean  HDL≠B-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  by 10% in the XELJANZ 5 mg twice daily arm and 12% in the XELJANZ 10 mg twice daily arm. 
+ *  Mean LDL/HDL ratios were essentially unchanged in XELJANZ-treated patients. 
+    In a controlled clinical trial,  elevations≠B-NonOSE_AE   in≠I-NonOSE_AE   LDL≠I-NonOSE_AE   cholesterol≠I-NonOSE_AE  and ApoB decreased to pretreatment levels in response to statin therapy.
+ 
+
+ In the long-term safety population,  elevations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   lipid≠I-OSE_Labeled_AE  parameters remained consistent with what was seen in the controlled clinical trials.
+
+
+
+     Serum Creatinine Elevations  
+
+
+
+ In the controlled clinical trials, dose-related  elevations≠B-OSE_Labeled_AE  in  serum≠I-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE  were observed with XELJANZ treatment. The mean  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE  was <0.1 mg/dL in the 12-month pooled safety analysis; however with increasing duration of exposure in the long-term extensions, up to 2% of patients were discontinued from XELJANZ treatment due to the protocol-specified discontinuation criterion of an  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE  by more than 50% of baseline. The clinical significance of the observed  serum≠B-NonOSE_AE   creatinine≠I-NonOSE_AE   elevations≠I-NonOSE_AE  is unknown.
+
+
+
+     Other Adverse Reactions  
+
+
+
+ Adverse reactions occurring in 2% or more of patients on 5 mg twice daily or 10 mg twice daily XELJANZ and at least 1% greater than that observed in patients on placebo with or without DMARD are summarized in Table 4.
+
+
+
+ Table 4: Adverse Reactions Occurring in at Least 2% or More of Patients on 5 or 10 mg Twice Daily XELJANZ With or Without DMARD (0-3 months) and at Least 1% Greater Than That Observed in Patients on Placebo 
+                                 XELJANZ5 mg Twice Daily  XELJANZ10 mg Twice Daily             Placebo               
+ Preferred Term                      N = 1336(%)           N = 1349(%)                 N = 809(%)             
+  
+ N reflects randomized and treated patients from the seven clinical trials   
+  
+  Diarrhea≠B-OSE_Labeled_AE                                 4.0                   2.9                        2.3                 
+  Nasopharyngitis≠B-OSE_Labeled_AE                          3.8                   2.8                        2.8                 
+  Upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE           4.5                   3.8                        3.3                 
+  Headache≠B-OSE_Labeled_AE                                 4.3                   3.4                        2.1                 
+  Hypertension≠B-OSE_Labeled_AE                             1.6                   2.3                        1.1                 
+          Other adverse reactions occurring in controlled and open-label extension studies included:
+ 
+
+    Blood≠B-NonOSE_AE  and lymphatic system  disorders≠I-NonOSE_AE :   Anemia≠B-OSE_Labeled_AE 
+
+
+
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE :   Diverticulitis≠B-OSE_Labeled_AE 
+
+
+
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   nutrition≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   Dehydration≠B-OSE_Labeled_AE 
+
+
+
+    Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   Insomnia≠B-OSE_Labeled_AE 
+
+
+
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   Paresthesia≠B-OSE_Labeled_AE 
+
+
+
+    Respiratory≠B-NonOSE_AE , thoracic and mediastinal  disorders≠I-NonOSE_AE :   Dyspnea≠B-OSE_Labeled_AE ,  cough≠B-OSE_Labeled_AE ,  sinus≠B-OSE_Labeled_AE   congestion≠I-OSE_Labeled_AE 
+
+
+
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE ,  gastritis≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE 
+
+
+
+    Hepatobiliary≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   Hepatic≠B-OSE_Labeled_AE   steatosis≠I-OSE_Labeled_AE 
+
+
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   Rash≠B-OSE_Labeled_AE ,  erythema≠B-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE 
+
+
+
+    Musculoskeletal≠B-NonOSE_AE  ,≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   and≠I-NonOSE_AE   bone≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   Musculoskeletal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  arthralgia≠B-OSE_Labeled_AE ,  tendonitis≠B-OSE_Labeled_AE ,  joint≠B-OSE_Labeled_AE   swelling≠I-OSE_Labeled_AE 
+
+
+
+    Neoplasms≠B-NonOSE_AE   benign≠I-NonOSE_AE  ,≠I-NonOSE_AE   malignant≠I-NonOSE_AE   and≠I-NonOSE_AE   unspecified≠I-NonOSE_AE   (≠I-NonOSE_AE  including≠I-NonOSE_AE   cysts≠I-NonOSE_AE   and≠I-NonOSE_AE   polyps≠I-NonOSE_AE ):   Non≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  melanoma≠I-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE   cancers≠I-OSE_Labeled_AE 
+
+
+
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE :   Pyrexia≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE 
+
+
+
+     Clinical Experience in Methotrexate-Naive Patients  
+
+
+
+ Study VI was an active-controlled clinical trial in methotrexate-naive patients [see  Clinical Studies (14)  ]. The safety experience in these patients was consistent with Studies I-V.

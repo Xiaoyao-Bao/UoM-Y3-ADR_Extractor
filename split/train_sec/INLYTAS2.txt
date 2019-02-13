@@ -1,0 +1,93 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  Hypertension including hypertensive crisis has been observed. Blood pressure should be well-controlled prior to initiating INLYTA. Monitor for hypertension and treat as needed. For persistent hypertension despite use of anti-hypertensive medications, reduce the INLYTA dose. (  5.1  ) 
+ *  Arterial and venous thrombotic events have been observed and can be fatal. Use with caution in patients who are at increased risk for these events. (  5.2  ,  5.3  ) 
+ *  Hemorrhagic events, including fatal events, have been reported. INLYTA has not been studied in patients with evidence of untreated brain metastasis or recent active gastrointestinal bleeding and should not be used in those patients. (  5.4  ) 
+ *  Cardiac failure has been observed and can be fatal. Monitor for signs or symptoms of cardiac failure throughout treatment with INLYTA. (  5.5  ) 
+ *  Gastrointestinal perforation and fistula, including death, have occurred. Use with caution in patients at risk for gastrointestinal perforation or fistula. (  5.6  ) 
+ *  Hypothyroidism requiring thyroid hormone replacement has been reported. Monitor thyroid function before initiation of, and periodically throughout, treatment with INLYTA. (  5.7  ) 
+ *  Stop INLYTA at least 24 hours prior to scheduled surgery. (  5.8  ) 
+ *  Reversible Posterior Leukoencephalopathy Syndrome (RPLS) has been observed. Permanently discontinue INLYTA if signs or symptoms of RPLS occur. (  5.9  ) 
+ *  Monitor for proteinuria before initiation of, and periodically throughout, treatment with INLYTA. For moderate to severe proteinuria, reduce the dose or temporarily interrupt treatment with INLYTA. (  5.10  ) 
+ *  Liver enzyme elevation has been observed during treatment with INLYTA. Monitor ALT, AST and bilirubin before initiation of, and periodically throughout, treatment with INLYTA. (  5.11  ) 
+ *  The starting dose of INLYTA should be decreased if used in patients with moderate hepatic impairment. INLYTA has not been studied in patients with severe hepatic impairment. (  2.2  ,  5.12  ) 
+ *  INLYTA can cause fetal harm when administered to a pregnant woman based on its mechanism of action. Women of childbearing potential should be advised of the potential hazard to the fetus and to avoid becoming pregnant while receiving INLYTA. (  5.13  ,  8.1  ) 
+    
+ 
+
+   5.1 Hypertension and Hypertensive Crisis
+
+  In a controlled clinical study with INLYTA for the treatment of patients with  RCC≠B-Not_AE_Candidate ,  hypertension≠B-OSE_Labeled_AE  was reported in 145/359 patients (40%) receiving INLYTA and 103/355 patients (29%) receiving sorafenib. Grade 3/4  hypertension≠B-OSE_Labeled_AE  was observed in 56/359 patients (16%) receiving INLYTA and 39/355 patients (11%) receiving sorafenib.  Hypertensive≠B-OSE_Labeled_AE   crisis≠I-OSE_Labeled_AE  was reported in 2/359 patients (<1%) receiving INLYTA and none of the patients receiving sorafenib. The median onset time for  hypertension≠B-OSE_Labeled_AE  ( systolic≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  5≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   mmHg≠I-OSE_Labeled_AE  or  diastolic≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   mmHg≠I-OSE_Labeled_AE ) was within the first month of the start of INLYTA treatment and  blood≠B-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   increases≠I-OSE_Labeled_AE  have been observed as early as 4 days after starting INLYTA.  Hypertension≠B-NonOSE_AE  was managed with standard antihypertensive therapy. Discontinuation of INLYTA treatment due to  hypertension≠B-OSE_Labeled_AE  occurred in 1/359 patients (<1%) receiving INLYTA and none of the patients receiving sorafenib [see  Adverse Reactions (6.1)  ].  
+
+ Blood pressure should be well-controlled prior to initiating INLYTA. Patients should be monitored for  hypertension≠B-NonOSE_AE  and treated as needed with standard  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  hypertensive≠I-NonOSE_AE   therapy≠I-NonOSE_AE . In the case of persistent  hypertension≠B-NonOSE_AE  despite use of  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  hypertensive≠I-NonOSE_AE   medications≠I-NonOSE_AE , reduce the INLYTA dose. Discontinue INLYTA if  hypertension≠B-NonOSE_AE  is severe and persistent despite  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  hypertensive≠I-NonOSE_AE   therapy≠I-NonOSE_AE  and dose reduction of INLYTA, and discontinuation should be considered if there is evidence of  hypertensive≠B-NonOSE_AE   crisis≠I-NonOSE_AE . If INLYTA is interrupted, patients receiving antihypertensive medications should be monitored for  hypotension≠B-NonOSE_AE  [see  Dosage and Administration (2.2)  ].  
+
+    5.2 Arterial Thromboembolic Events
+
+  In clinical trials,  arterial≠B-OSE_Labeled_AE   thromboembolic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  have been reported, including  deaths≠B-NonOSE_AE . In a controlled clinical study with INLYTA for the treatment of patients with  RCC≠B-Not_AE_Candidate , Grade 3/4  arterial≠B-OSE_Labeled_AE   thromboembolic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  were reported in 4/359 patients (1%) receiving INLYTA and 4/355 patients (1%) receiving sorafenib.  Fatal≠B-NonOSE_AE   cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE  was reported in 1/359 patients (<1%) receiving INLYTA and none of the patients receiving sorafenib [see  Adverse Reactions (6.1)  ]  .
+
+ In clinical trials with INLYTA,  arterial≠B-OSE_Labeled_AE   thromboembolic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  (including  transient≠B-OSE_Labeled_AE   ischemic≠I-OSE_Labeled_AE   attack≠I-OSE_Labeled_AE ,  cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE ,  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE , and  retinal≠B-OSE_Labeled_AE   artery≠I-OSE_Labeled_AE   occlusion≠I-OSE_Labeled_AE ) were reported in 17/715 patients (2%), with two  deaths≠B-NonOSE_AE  secondary to  cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE .
+
+ Use INLYTA with caution in patients who are at risk for, or who have a history of, these events. INLYTA has not been studied in patients who had an  arterial≠B-Not_AE_Candidate   thromboembolic≠I-Not_AE_Candidate   event≠I-Not_AE_Candidate  within the previous 12 months.
+
+    5.3 Venous Thromboembolic Events
+
+  In clinical trials,  venous≠B-OSE_Labeled_AE   thromboembolic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  have been reported, including  deaths≠B-NonOSE_AE . In a controlled clinical study with INLYTA for the treatment of patients with  RCC≠B-Not_AE_Candidate ,  venous≠B-OSE_Labeled_AE   thromboembolic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  were reported in 11/359 patients (3%) receiving INLYTA and 2/355 patients (1%) receiving sorafenib. Grade 3/4  venous≠B-OSE_Labeled_AE   thromboembolic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  were reported in 9/359 patients (3%) receiving INLYTA (including  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE ,  deep≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE ,  retinal≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   occlusion≠I-OSE_Labeled_AE  and  retinal≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE ) and 2/355 patients (1%) receiving sorafenib.  Fatal≠B-NonOSE_AE   pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE  was reported in 1/359 patients (<1%) receiving INLYTA and none of the patients receiving sorafenib. In clinical trials with INLYTA,  venous≠B-OSE_Labeled_AE   thromboembolic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  were reported in 22/715 patients (3%), with two  deaths≠B-NonOSE_AE  secondary to  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE .
+
+ Use INLYTA with caution in patients who are at risk for, or who have a history of, these events. INLYTA has not been studied in patients who had a  venous≠B-Not_AE_Candidate   thromboembolic≠I-Not_AE_Candidate   event≠I-Not_AE_Candidate  within the previous 6 months.
+
+    5.4 Hemorrhage
+
+  In a controlled clinical study with INLYTA for the treatment of patients with  RCC≠B-Not_AE_Candidate ,  hemorrhagic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  were reported in 58/359 patients (16%) receiving INLYTA and 64/355 patients (18%) receiving sorafenib. Grade 3/4  hemorrhagic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  were reported in 5/359 (1%) patients receiving INLYTA (including  cerebral≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  hematuria≠B-OSE_Labeled_AE ,  hemoptysis≠B-OSE_Labeled_AE ,  lower≠B-OSE_Labeled_AE   gastrointestinal≠I-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE , and  melena≠B-OSE_Labeled_AE ) and 11/355 (3%) patients receiving sorafenib.  Fatal≠B-NonOSE_AE   hemorrhage≠B-OSE_Labeled_AE  was reported in 1/359 patients (<1%) receiving INLYTA ( gastric≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ) and 3/355 patients (1%) receiving sorafenib.
+
+ INLYTA has not been studied in patients who have evidence of untreated  brain≠B-Not_AE_Candidate   metastasis≠I-Not_AE_Candidate  or recent  active≠B-Not_AE_Candidate   gastrointestinal≠I-Not_AE_Candidate   bleeding≠I-Not_AE_Candidate  and should not be used in those patients. If any  bleeding≠B-NonOSE_AE  requires medical intervention, temporarily interrupt the INLYTA dose.
+
+    5.5 Cardiac Failure
+
+   In a controlled clinical study with INLYTA for the treatment of patients with  RCC≠B-Not_AE_Candidate ,  cardiac≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  was reported in 6/359 patients (2%) receiving INLYTA and 3/355 patients (1%) receiving sorafenib. Grade 3/4  cardiac≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  was observed in 2/359 patients (1%) receiving INLYTA and 1/355 patients (<1%) receiving sorafenib.  Fatal≠B-NonOSE_AE   cardiac≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  was reported in 2/359 patients (1%) receiving INLYTA and 1/355 patients (<1%) receiving sorafenib. Monitor for signs or symptoms of  cardiac≠B-NonOSE_AE   failure≠I-NonOSE_AE  throughout treatment with INLYTA. Management of  cardiac≠B-NonOSE_AE   failure≠I-NonOSE_AE  may require permanent discontinuation of INLYTA.  
+
+    5.6 Gastrointestinal Perforation and Fistula Formation
+
+  In a controlled clinical study with INLYTA for the treatment of patients with RCC,  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  was reported in 1/359 patients (<1%) receiving INLYTA and none of the patients receiving sorafenib. In clinical trials with INLYTA,  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  was reported in 5/715 patients (1%), including one  death≠B-NonOSE_AE . In addition to cases of  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE , fistulas were reported in 4/715 patients (1%).
+
+ Monitor for symptoms of  gastrointestinal≠B-NonOSE_AE   perforation≠I-NonOSE_AE  or fistula periodically throughout treatment with INLYTA.
+
+    5.7 Thyroid Dysfunction
+
+  In a controlled clinical study with INLYTA for the treatment of patients with  RCC≠B-Not_AE_Candidate ,  hypothyroidism≠B-OSE_Labeled_AE  was reported in 69/359 patients (19%) receiving INLYTA and 29/355 patients (8%) receiving sorafenib.  Hyperthyroidism≠B-OSE_Labeled_AE  was reported in 4/359 patients (1%) receiving INLYTA and 4/355 patients (1%) receiving sorafenib. In patients who had  thyroid≠B-Not_AE_Candidate   stimulating≠I-Not_AE_Candidate   hormone≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  TSH≠I-Not_AE_Candidate  )≠I-Not_AE_Candidate   <≠I-Not_AE_Candidate  5≠I-Not_AE_Candidate   muU≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  mL≠I-Not_AE_Candidate  before treatment,  elevations≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   TSH≠I-OSE_Labeled_AE  to >=10 muU/mL occurred in 79/245 patients (32%) receiving INLYTA and 25/232 patients (11%) receiving sorafenib [see  Adverse Reactions (6.1)  ].  
+
+ Monitor thyroid function before initiation of, and periodically throughout, treatment with INLYTA. Treat  hypothyroidism≠B-NonOSE_AE  and  hyperthyroidism≠B-NonOSE_AE  according to standard medical practice to maintain euthyroid state.
+
+    5.8 Wound Healing Complications
+
+  No formal studies of the effect of INLYTA on  wound≠B-Not_AE_Candidate   healing≠I-Not_AE_Candidate  have been conducted.
+
+ Stop treatment with INLYTA at least 24 hours prior to scheduled surgery. The decision to resume INLYTA therapy after surgery should be based on clinical judgment of adequate wound healing.
+
+    5.9 Reversible Posterior Leukoencephalopathy Syndrome
+
+  In a controlled clinical study with INLYTA for the treatment of patients with  RCC≠B-Not_AE_Candidate ,  reversible≠B-OSE_Labeled_AE   posterior≠I-OSE_Labeled_AE   leukoencephalopathy≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  RPLS≠I-OSE_Labeled_AE ) was reported in 1/359 patients (<1%) receiving INLYTA and none of the patients receiving sorafenib [see  Adverse Reactions (6.1)  ]  . There were two additional reports of  RPLS≠B-OSE_Labeled_AE  in other clinical trials with INLYTA.
+
+  RPLS≠B-NonOSE_AE  is a neurological disorder which can present with  headache≠B-NonOSE_AE ,  seizure≠B-NonOSE_AE ,  lethargy≠B-NonOSE_AE ,  confusion≠B-NonOSE_AE ,  blindness≠B-NonOSE_AE  and other  visual≠B-NonOSE_AE  and neurologic  disturbances≠I-NonOSE_AE . Mild to severe  hypertension≠B-NonOSE_AE  may be present. Magnetic resonance imaging is necessary to confirm the diagnosis of  RPLS≠B-NonOSE_AE . Discontinue INLYTA in patients developing  RPLS≠B-NonOSE_AE . The safety of reinitiating INLYTA therapy in patients previously experiencing  RPLS≠B-Not_AE_Candidate  is not known.
+
+    5.10 Proteinuria
+
+  In a controlled clinical study with INLYTA for the treatment of patients with  RCC≠B-Not_AE_Candidate ,  proteinuria≠B-OSE_Labeled_AE  was reported in 39/359 patients (11%) receiving INLYTA and 26/355 patients (7%) receiving sorafenib. Grade 3  proteinuria≠B-OSE_Labeled_AE  was reported in 11/359 patients (3%) receiving INLYTA and 6/355 patients (2%) receiving sorafenib [see  Adverse Reactions (6.1)  ].  
+
+ Monitoring for  proteinuria≠B-NonOSE_AE  before initiation of, and periodically throughout, treatment with INLYTA is recommended. For patients who develop moderate to severe  proteinuria≠B-NonOSE_AE , reduce the dose or temporarily interrupt INLYTA treatment.
+
+    5.11 Elevation of Liver Enzymes
+
+  In a controlled clinical study with INLYTA for the treatment of patients with  RCC≠B-Not_AE_Candidate ,  alanine≠B-OSE_Labeled_AE   aminotransferase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  ALT≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  of all grades occurred in 22% of patients on both arms, with Grade 3/4 events in <1% of patients on the INLYTA arm and 2% of patients on the sorafenib arm.
+
+ Monitor ALT, aspartate aminotransferase (AST) and bilirubin before initiation of and periodically throughout treatment with INLYTA.
+
+    5.12 Hepatic Impairment
+
+  The systemic exposure to axitinib was higher in subjects with moderate  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  ( Child≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  Pugh≠I-Not_AE_Candidate   class≠I-Not_AE_Candidate   B≠I-Not_AE_Candidate ) compared to subjects with normal hepatic function. A dose decrease is recommended when administering INLYTA to patients with moderate  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  ( Child≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  Pugh≠I-Not_AE_Candidate   class≠I-Not_AE_Candidate   B≠I-Not_AE_Candidate ). INLYTA has not been studied in patients with severe  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  ( Child≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  Pugh≠I-Not_AE_Candidate   class≠I-Not_AE_Candidate   C≠I-Not_AE_Candidate ) [see  Dosage and Administration (2.2)  ,  Use in Specific Populations (8.6)  , and  Clinical Pharmacology (12.3)  ].  
+
+    5.13 Pregnancy
+
+  INLYTA can cause  fetal≠B-OSE_Labeled_AE   harm≠I-OSE_Labeled_AE  when administered to a  pregnant≠B-Not_AE_Candidate  woman based on its mechanism of action. There are no adequate and well-controlled studies in  pregnant≠B-Not_AE_Candidate  women using INLYTA. In  developmental≠B-NonOSE_AE   toxicity≠I-NonOSE_AE  studies in mice, axitinib was  teratogenic≠B-NonOSE_AE ,  embryotoxic≠B-NonOSE_AE  and  fetotoxic≠B-NonOSE_AE  at maternal exposures that were lower than human exposures at the recommended clinical dose.
+
+ Women of childbearing potential should be advised to avoid becoming  pregnant≠B-NonOSE_AE  while receiving INLYTA. If this drug is used during  pregnancy≠B-Not_AE_Candidate , or if a patient becomes  pregnant≠B-NonOSE_AE  while receiving this drug, the patient should be apprised of the potential  hazard≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   fetus≠I-OSE_Labeled_AE  [see  Use in Specific Populations (8.1)  ].  
+

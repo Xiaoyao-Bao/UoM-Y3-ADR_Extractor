@@ -1,0 +1,85 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  Monitor patients with benign prostatic hyperplasia (BPH) for worsening of signs and symptoms of BPH. (  5.1  ) 
+ *  Avoid unintentional exposure of women or children to AndroGel 1%. Secondary exposure to testosterone can produce signs of virilization. AndroGel 1% should be discontinued until the cause of virilization is identified. (  5.2  ) 
+ *  Venous thromboembolism (VTE), including deep vein thrombosis (DVT) and pulmonary embolism (PE) have been reported in patients using testosterone products. Evaluate patients with signs or symptoms consistent with DVT or PE. (  5.4  ) 
+ *  Some postmarketing studies have shown an increased risk of myocardial infarction and stroke associated with use of testosterone replacement therapy. (  5.5  ) 
+ *  Exogenous administration of androgens may lead to azoospermia. (  5.8  ) 
+ *  Edema, with or without congestive heart failure (CHF), may be a complication in patients with preexisting cardiac, renal, or hepatic disease. (  5.10  ,  6.2  ) 
+ *  Sleep apnea may occur in those with risk factors. (  5.12  ) 
+ *  Monitor serum testosterone, prostate specific antigen (PSA), hemoglobin, hematocrit, liver function tests, and lipid concentrations periodically. (  5.1  ,  5.3  ,  5.9  ,  5.13  ) 
+ *  AndroGel 1% is flammable until dry. (  5.16  ) 
+    
+ 
+
+   5.1 Worsening of Benign Prostatic Hyperplasia (BPH) and Potential Risk of Prostate Cancer
+
+    *  Patients with  BPH≠B-Not_AE_Candidate  treated with androgens are at an increased risk for  worsening≠B-OSE_Labeled_AE  of signs and symptoms of  BPH≠I-OSE_Labeled_AE . Monitor patients with  BPH≠B-Not_AE_Candidate  for worsening signs and symptoms. 
+ *  Patients treated with androgens may be at increased risk for  prostate≠B-OSE_Labeled_AE   cancer≠I-OSE_Labeled_AE . Evaluate patients for  prostate≠B-NonOSE_AE   cancer≠I-NonOSE_AE  prior to initiating and during treatment with androgens [see Contraindications (  4  ), Adverse Reactions (  6.1  ) and Nonclinical Toxicology (  13.1  )] . 
+       5.2 Potential for Secondary Exposure to Testosterone
+ 
+
+  Cases of  secondary≠B-OSE_Labeled_AE   exposure≠I-OSE_Labeled_AE  resulting in virilization of  ch ildren≠B-OSE_Labeled_AE  ≠≠I-OSE_Labeled_AE  I≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  OSE≠I-OSE_Labeled_AE _Labeled_AE  have been reported in postmarketing surveillance. Signs and symptoms have included  enlargement≠B-NonOSE_AE   of≠I-NonOSE_AE  the penis or  clitoris≠I-NonOSE_AE ,  development≠B-NonOSE_AE   of≠I-NonOSE_AE   pubic≠I-NonOSE_AE   hair≠I-NonOSE_AE ,  increased≠B-NonOSE_AE   erections≠I-NonOSE_AE  and libido,  aggressive≠B-NonOSE_AE   behavior≠I-NonOSE_AE , and  advanced≠B-NonOSE_AE   bone≠I-NonOSE_AE   age≠I-NonOSE_AE . In most cases, these signs and symptoms regressed with removal of the exposure to testosterone gel. In a few cases, however,  enlarged≠B-NonOSE_AE   genitalia≠I-NonOSE_AE  did not fully return to age-appropriate normal size, and  bone≠B-NonOSE_AE   age≠I-NonOSE_AE   remained≠I-NonOSE_AE   modestly≠I-NonOSE_AE   greater≠I-NonOSE_AE  than chronological age. The risk of transfer was increased in some of these cases by not adhering to precautions for the appropriate use of the topical testosterone product. Children and women should avoid contact with unwashed or unclothed application sites in men using AndroGel 1% [see Dosage and Administration (  2.2  ), Use in Specific Populations (  8.1  )  and Clinical Pharmacology (  12.3  )]  .
+
+ Inappropriate  changes≠B-NonOSE_AE   in≠I-NonOSE_AE   genital≠I-NonOSE_AE   size≠I-NonOSE_AE  or development of pubic hair or libido  in≠I-NonOSE_AE   children≠I-NonOSE_AE , or  changes≠B-NonOSE_AE   in≠I-NonOSE_AE   body≠I-NonOSE_AE   hair≠I-NonOSE_AE   distribution≠I-NonOSE_AE , significant increase in  acne≠B-NonOSE_AE , or other signs of  virilization≠B-NonOSE_AE  in adult women should be brought to the attention of a physician and the possibility of  secondary≠B-NonOSE_AE   exposure≠I-NonOSE_AE   to≠I-NonOSE_AE   testosterone≠I-NonOSE_AE   gel≠I-NonOSE_AE  should also be brought to the attention of a physician. Testosterone gel should be promptly discontinued until the cause of  virilization≠B-NonOSE_AE  has been identified.
+
+    5.3  Polycythemia≠B-OSE_Labeled_AE 
+
+   Increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   hematocrit≠I-OSE_Labeled_AE , reflective of  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   red≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   mass≠I-OSE_Labeled_AE , may require lowering or discontinuation of testosterone. Check hematocrit prior to initiating treatment. It would also be appropriate to re-evaluate the hematocrit 3 to 6 months after starting treatment, and then annually. If  hematocrit≠B-NonOSE_AE   becomes≠I-NonOSE_AE   elevated≠I-NonOSE_AE , stop therapy until  hematocrit≠B-NonOSE_AE   decreases≠I-NonOSE_AE  to an acceptable concentration. An  increase≠B-NonOSE_AE   in≠I-NonOSE_AE   red≠I-NonOSE_AE   blood≠I-NonOSE_AE   cell≠I-NonOSE_AE   mass≠I-NonOSE_AE  may increase the risk of  thromboembolic≠B-NonOSE_AE   events≠I-NonOSE_AE .
+
+    5.4 Venous Thromboembolism
+
+  There have been postmarketing reports of  venous≠B-OSE_Labeled_AE   thromboembolic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE , including  deep≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  DVT≠I-OSE_Labeled_AE ) and  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PE≠I-OSE_Labeled_AE ), in patients using testosterone products such as AndroGel 1%. Evaluate patients who report symptoms of  pain≠B-NonOSE_AE , edema, warmth and erythema  in≠I-NonOSE_AE  the  lower≠I-NonOSE_AE   extremity≠I-NonOSE_AE  for  DVT≠B-NonOSE_AE  and those who present with acute  shortness≠B-NonOSE_AE   of≠I-NonOSE_AE   breath≠I-NonOSE_AE  for  PE≠B-NonOSE_AE . If a  venous≠B-NonOSE_AE   thromboembolic≠I-NonOSE_AE   event≠I-NonOSE_AE  is suspected, discontinue treatment with AndroGel 1% and initiate appropriate workup and management [see Adverse Reactions (  6.2  )]  .
+
+    5.5 Cardiovascular Risk
+
+  Long term clinical safety trials have not been conducted to assess the cardiovascular outcomes of testosterone replacement therapy in men. To date, epidemiologic studies and randomized controlled trials have been inconclusive for determining the risk of  major≠B-NonOSE_AE   adverse≠I-NonOSE_AE   cardiovascular≠I-NonOSE_AE   events≠I-NonOSE_AE   (≠I-NonOSE_AE  MACE≠I-NonOSE_AE ), such as non-fatal  myocardial≠B-NonOSE_AE   infarction≠I-NonOSE_AE , non-fatal  stroke≠B-NonOSE_AE , and  cardiovascular≠B-NonOSE_AE   death≠I-NonOSE_AE , with the use of testosterone compared to non-use. Some studies, but not all, have reported an increased risk of  MACE≠B-OSE_Labeled_AE  in association with use of testosterone replacement therapy in men.
+
+ Patients should be informed of this possible risk when deciding whether to use or to continue to use AndroGel 1%.
+
+    5.6 Abuse of Testosterone and Monitoring of Serum Testosterone Concentrations
+
+   Testosterone has been subject to  abuse≠B-OSE_Labeled_AE , typically at doses higher than recommended for the approved indication and in combination with other anabolic androgenic steroids. Anabolic androgenic steroid  abuse≠B-NonOSE_AE  can lead to serious  cardiovascular≠B-NonOSE_AE  and psychiatric  adverse≠I-NonOSE_AE   reactions≠I-NonOSE_AE  [see Drug Abuse and Dependence (  9  )]  .  
+
+  If testosterone  abuse≠B-NonOSE_AE  is suspected, check serum testosterone concentrations to ensure they are within therapeutic range. However, testosterone levels may be in the normal or subnormal range in men abusing synthetic testosterone derivatives. Counsel patients concerning the serious adverse reactions associated with  abuse≠B-NonOSE_AE  of testosterone and anabolic androgenic steroids. Conversely, consider the possibility of testosterone and anabolic androgenic steroid  abuse≠B-NonOSE_AE  in suspected patients who present with serious  cardiovascular≠B-NonOSE_AE  or psychiatric  adverse≠I-NonOSE_AE   events≠I-NonOSE_AE .  
+
+    5.7 Use in Women
+
+  Due to lack of controlled evaluations in women and potential  virilizing≠B-NonOSE_AE   effects≠I-NonOSE_AE , AndroGel 1% is not indicated for use in women [see Contraindications (  4  )  and Use in Specific Populations (  8.1  ,  8.3  )].  
+
+    5.8 Potential for Adverse Effects on Spermatogenesis
+
+  With large doses of exogenous androgens, including AndroGel 1%,  spermatogenesis≠B-OSE_Labeled_AE   may≠I-OSE_Labeled_AE   be≠I-OSE_Labeled_AE   suppressed≠I-OSE_Labeled_AE  through feedback inhibition of pituitary follicle-stimulating hormone (FSH) which could possibly lead to  adverse≠B-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE   on≠I-OSE_Labeled_AE   semen≠I-OSE_Labeled_AE   parameters≠I-OSE_Labeled_AE   including≠I-OSE_Labeled_AE   sperm≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE .
+
+    5.9 Hepatic Adverse Effects
+
+  Prolonged use of high doses of orally active 17-alpha-alkyl androgens (e.g., methyltestosterone) has been associated with serious  hepatic≠B-NonOSE_AE   adverse≠I-NonOSE_AE   effects≠I-NonOSE_AE  ( peliosis≠B-NonOSE_AE   hepatis≠I-NonOSE_AE ,  hepatic≠B-NonOSE_AE   neoplasms≠I-NonOSE_AE ,  cholestatic≠B-NonOSE_AE   hepatitis≠I-NonOSE_AE , and  jaundice≠B-NonOSE_AE ).  Peliosis≠B-NonOSE_AE   hepatis≠I-NonOSE_AE  can be a life-threatening or fatal complication. Long-term therapy with intramuscular testosterone enanthate has produced multiple  hepatic≠B-NonOSE_AE   adenomas≠I-NonOSE_AE . AndroGel 1% is not known to cause these adverse effects.
+
+    5.10 Edema
+
+  Androgens, including AndroGel 1%, may promote  retention≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE  sodium and  water≠I-OSE_Labeled_AE .  Edema≠B-OSE_Labeled_AE , with or without  congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE , may be a serious complication in patients with preexisting  cardiac≠B-Not_AE_Candidate , renal, or hepatic  disease≠I-Not_AE_Candidate  [see Adverse Reactions (  6.2  )].  
+
+    5.11 Gynecomastia
+
+   Gynecomastia≠B-OSE_Labeled_AE  may develop and persist in patients being treated with androgens, including AndroGel 1%, for  hypogonadism≠B-Not_AE_Candidate .
+
+    5.12 Sleep Apnea
+
+  The treatment of  hypogonadal≠B-Not_AE_Candidate  men with testosterone may potentiate  sleep≠B-OSE_Labeled_AE   apnea≠I-OSE_Labeled_AE  in some patients, especially those with risk factors such as  obesity≠B-Not_AE_Candidate  or  chronic≠B-Not_AE_Candidate   lung≠I-Not_AE_Candidate   diseases≠I-Not_AE_Candidate  [see Adverse Reactions (  6.2  )]  .
+
+    5.13 Lipids
+
+   Changes≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   lipid≠I-OSE_Labeled_AE   profile≠I-OSE_Labeled_AE  may require dose adjustment or discontinuation of testosterone therapy.
+
+    5.14  Hypercalcemia≠B-OSE_Labeled_AE 
+
+  Androgens, including AndroGel 1%, should be used with caution in  cancer≠B-Not_AE_Candidate   patients≠I-Not_AE_Candidate  at risk of  hypercalcemia≠B-Not_AE_Candidate  (and associated  hypercalciuria≠B-Not_AE_Candidate ). Regular monitoring of  serum≠B-NonOSE_AE   calcium≠I-NonOSE_AE  concentrations is recommended in these patients.
+
+    5.15 Decreased Thyroxine-binding Globulin
+
+  Androgens, including AndroGel 1%, may  decrease≠B-OSE_Labeled_AE   concentrations≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   thyroxin≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  binding≠I-OSE_Labeled_AE   globulins≠I-OSE_Labeled_AE , resulting in  decreased≠B-OSE_Labeled_AE   total≠I-OSE_Labeled_AE   T≠I-OSE_Labeled_AE  4≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   concentrations≠I-OSE_Labeled_AE  and  increased≠B-OSE_Labeled_AE   resin≠I-OSE_Labeled_AE   uptake≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE  T3 and  T≠I-OSE_Labeled_AE  4≠I-OSE_Labeled_AE . Free thyroid hormone concentrations remain unchanged, however, and there is no clinical evidence of  thyroid≠B-NonOSE_AE   dysfunction≠I-NonOSE_AE .
+
+    5.16 Flammability
+
+   Alcohol based products, including AndroGel 1%, are flammable; therefore, patients should be advised to avoid fire, flame or smoking until the AndroGel 1% has dried.  
+

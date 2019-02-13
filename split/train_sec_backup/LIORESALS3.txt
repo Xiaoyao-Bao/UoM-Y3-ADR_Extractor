@@ -1,0 +1,82 @@
+   PRECAUTIONS
+
+  Children should be of sufficient body mass to accommodate the implantable pump for chronic infusion. Please consult pump manufacturer's manual for specific recommendations.
+
+ Safety and effectiveness in pediatric patients below the age of 4 have not been established.
+
+    Screening
+
+  Patients should be infection-free prior to the screening trial with LIORESAL INTRATHECAL (baclofen injection) because the presence of a systemic infection may interfere with an assessment of the patient's response to bolus LIORESAL INTRATHECAL.
+
+    Pump Implantation
+
+  Patients should be infection-free prior to pump implantation because the presence of infection may increase the risk of surgical complications. Moreover, a systemic infection may complicate dosing.
+
+    Pump Dose Adjustment and Titration
+
+  In most patients, it will be necessary to increase the dose gradually over time to maintain effectiveness; a sudden requirement for substantial dose escalation typically indicates a catheter complication (i. e., catheter kink or dislodgement).
+
+ Reservoir refilling must be performed by fully trained and qualified personnel following the directions provided by the pump manufacturer. Inadvertent injection into the subcutaneous tissue can occur if the reservoir refill septum is not properly accessed. Subcutaneous injection may result in symptoms of a systemic overdose or early depletion of the reservoir. Refill intervals should be carefully calculated to prevent depletion of the reservoir, as this would result in the return of severe spasticity and possibly symptoms of withdrawal.
+
+ Strict aseptic technique in filling is required to avoid bacterial contamination and serious infection. A period of observation appropriate to the clinical situation should follow each refill or manipulation of the drug reservoir.
+
+  Extreme caution must be used when filling an FDA approved implantable pump equipped with an injection port that allows direct access to the intrathecal catheter. Direct injection into the catheter through the catheter access port may cause a life-threatening overdose.  
+
+    Additional considerations pertaining to dosage adjustment
+
+  It may be important to titrate the dose to maintain some degree of muscle tone and allow occasional spasms to: 1) help support circulatory function, 2) possibly prevent the formation of deep vein thrombosis, 3) optimize activities of daily living and ease of care.
+
+ Except in overdose related emergencies, the dose of LIORESAL INTRATHECAL should ordinarily be reduced slowly if the drug is discontinued for any reason.
+
+ An attempt should be made to discontinue concomitant oral antispasticity medication to avoid possible overdose or adverse drug interactions, either prior to screening or following implant and initiation of chronic LIORESAL INTRATHECAL infusion. Reduction and discontinuation of oral anti-spasmotics should be done slowly and with careful monitoring by the physician. Abrupt reduction or discontinuation of concomitant antispastics should be avoided.
+
+    Drowsiness
+
+  Drowsiness has been reported in patients on LIORESAL INTRATHECAL. Patients should be cautioned regarding the operation of automobiles or other dangerous machinery, and activities made hazardous by decreased alertness. Patients should also be cautioned that the central nervous system depressant effects of LIORESAL INTRATHECAL (baclofen injection) may be additive to those of alcohol and other CNS depressants.
+
+    Intrathecal mass
+
+  Cases of intrathecal mass at the tip of the implanted catheter have been reported, most of them involving pharmacy compounded analgesic admixtures. The most frequent symptoms associated with intrathecal mass are: 1) decreased therapeutic response (worsening spasticity, return of spasticity when previously well controlled, withdrawal symptoms, poor response to escalating doses, or frequent or large dosage increases), 2) pain, 3) neurological deficit/dysfunction. Clinicians should monitor patients on intraspinal therapy carefully for any new neurological signs or symptoms. In patients with new neurological signs or symptoms suggestive of an intrathecal mass, consider a neurosurgical consultation, since many of the symptoms of inflammatory mass are not unlike the symptoms experienced by patients with severe spasticity from their disease. In some cases, performance of an imaging procedure may be appropriate to confirm or rule-out the diagnosis of an intrathecal mass.
+
+    Precautions in special patient populations
+
+  Careful dose titration of LIORESAL INTRATHECAL is needed when spasticity is necessary to sustain upright posture and balance in locomotion or whenever spasticity is used to obtain optimal function and care.
+
+ Patients suffering from psychotic disorders, schizophrenia, or confusional states should be treated cautiously with LIORESAL INTRATHECAL and kept under careful surveillance, because exacerbations of these conditions have been observed with oral administration.
+
+ LIORESAL INTRATHECAL should be used with caution in patients with a history of autonomic dysreflexia. The presence of nociceptive stimuli or abrupt withdrawal of LIORESAL INTRATHECAL (baclofen injection) may cause an autonomic dysreflexic episode.
+
+ Because LIORESAL is primarily excreted unchanged by the kidneys, it should be given with caution in patients with impaired renal function and it may be necessary to reduce the dosage.
+
+    LABORATORY TESTS
+
+  No specific laboratory tests are deemed essential for the management of patients on LIORESAL INTRATHECAL.
+
+    DRUG INTERACTIONS
+
+  There is inadequate systematic experience with the use of LIORESAL INTRATHECAL in combination with other medications to predict specific drug-drug interactions. Interactions attributed to the combined use of LIORESAL INTRATHECAL and epidural morphine include hypotension and dyspnea.
+
+    CARCINOGENESIS, MUTAGENESIS, AND IMPAIRMENT OF FERTILITY
+
+  No increase in tumors was seen in rats receiving baclofen orally for two years. Adequate genotoxicity assays of baclofen have not been performed.
+
+    PREGNANCY
+
+  There are no adequate and well-controlled studies in pregnant women. In animal studies, baclofen had adverse effects on embryofetal development when administered orally to pregnant rats. LIORESAL INTRATHECAL should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+ Baclofen given orally increased the incidence of fetal structural abnormalities (omphaloceles) in rats. Reductions in food intake and body weight gain were observed in the dams. Fetal structural abnormalities were not observed in mice or rabbits
+
+    NURSING MOTHERS
+
+  In mothers treated with oral LIORESAL (baclofen USP) in therapeutic doses, the active substance passes into the milk. It is not known whether detectable levels of drug are present in milk of nursing mothers receiving LIORESAL INTRATHECAL. As a general rule, nursing should be undertaken while a patient is receiving LIORESAL INTRATHECAL only if the potential benefit justifies the potential risks to the infant.
+
+    PEDIATRIC USE
+
+  Children should be of sufficient body mass to accommodate the implantable pump for chronic infusion. Please consult pump manufacturer's manual for specific recommendations.
+
+ Safety and effectiveness in pediatric patients below the age of 4 have not been established.
+
+    Considerations based on experience with oral LIORESAL (baclofen USP)
+
+  A dose-related increase in incidence of ovarian cysts was observed in female rats treated chronically with oral LIORESAL. Ovarian cysts have been found by palpation in about 4% of the multiple sclerosis patients who were treated with oral LIORESAL for up to one year. In most cases these cysts disappeared spontaneously while patients continued to receive the drug. Ovarian cysts are estimated to occur spontaneously in approximately 1% to 5% of the normal female population.
+

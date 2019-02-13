@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="RILUTEK">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *    Hepatic Injury [see Warnings and Precautions (  5.1  )]  
+ *    Neutropenia [see Warnings and Precautions (  5.2  )]  
+ *    Interstitial lung disease [see Warnings and Precautions (  5.3  )]  
+      EXCERPT:   Most common adverse reactions (incidence greater than or equal to 5% and greater than placebo) were asthenia, nausea, dizziness, decreased lung function, and abdominal pain (  6.1  )
+ 
+
+ To report SUSPECTED ADVERSE REACTIONS, contact Covis Pharmaceuticals Inc at 1-866-488-4423 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+   Adverse Reactions in Controlled Clinical Trials  
+
+
+
+ In the placebo-controlled clinical trials in patients with ALS (Study 1 and 2), a total of 313 patients received RILUTEK 50 mg twice daily  [see Clinical Studies (  14  )]  . The most common adverse reactions in the RILUTEK group (in at least 5% of patients and more frequently than in the placebo group) were asthenia, nausea, dizziness, decreased lung function, and abdominal pain. The most common adverse reactions leading to discontinuation in the RILUTEK group were nausea, abdominal pain, constipation, and elevated ALT.
+
+
+
+ There was no difference in rates of adverse reactions leading to discontinuation in females and males. However, the incidence of dizziness was higher in females (11%) than in males (4%). The adverse reaction profile was similar in older and younger patients. There were insufficient data to determine if there were differences in the adverse reaction profile in different races.
+
+
+
+   Table 1  lists adverse reactions that occurred in at least 2% of RILUTEK-treated patients (50 mg twice daily) in pooled Study 1 and 2, and at a higher rate than placebo.
+
+
+
+ Table 1. Adverse Reactions in Pooled Placebo-Controlled Trials (Studies 1 and 2) in Patients with ALS 
+                                 RILUTEK     50 mg twice daily     (N=313)    Placebo     (N=320)         
+  Asthenia                       19%                           12%                        
+  Nausea                         16%                           11%                        
+  Decreased lung function         10%                           9%                         
+  Hypertension                   5%                            4%                         
+  Abdominal pain                 5%                            4%                         
+  Vomiting                       4%                            2%                         
+  Arthralgia                     4%                            3%                         
+  Dizziness                      4%                            3%                         
+  Dry mouth                      4%                            3%                         
+  Insomnia                       4%                            3%                         
+  Pruritus                       4%                            3%                         
+  Tachycardia                    3%                            1%                         
+  Flatulence                     3%                            2%                         
+  Increased cough                3%                            2%                         
+  Peripheral edema               3%                            2%                         
+  Urinary Tract Infection        3%                            2%                         
+  Circumoral paresthesia         2%                            0%                         
+  Somnolence                     2%                            1%                         
+  Vertigo                        2%                            1%                         
+  Eczema                         2%                            1%                         
+           6.2 Postmarketing Experience
+   The following adverse reactions have been identified during postapproval use of RILUTEK. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ *    Acute hepatitis and icteric toxic hepatitis [see Warnings and Precautions (  5.1  )]  
+ *    Renal tubular impairment 
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Hepatic injury: Use of RILUTEK is not recommended in patients with baseline elevations of serum aminotransferases greater than 5 times upper limit of normal; discontinue RILUTEK if there is evidence of liver dysfunction (  5.1  ) 
+ *    Neutropenia: Advise patients to report any febrile illness (  5.2  ) 
+ *    Interstitial lung disease: Discontinue RILUTEK if interstitial lung disease develops (  5.3  ) 
+    
+ 
+
+   5.1 Hepatic Injury
+
+
+
+  Cases of drug-induced liver injury, some of which were fatal, have been reported in patients taking RILUTEK. Asymptomatic elevations of hepatic transaminases have also been reported, and in some patients have recurred upon rechallenge with RILUTEK.
+
+
+
+ In clinical studies, the incidence of elevations in hepatic transaminases was greater in RILUTEK-treated patients than placebo-treated patients. The incidence of elevations of ALT above 5 times the upper limit of normal (ULN) was 2% in RILUTEK-treated patients. Maximum increases in ALT occurred within 3 months after starting RILUTEK. About 50% and 8% of RILUTEK-treated patients in pooled Studies 1 and 2, had at least one elevated ALT level above ULN and above 3 times ULN, respectively [see Clinical Studies (  14  )]  .
+
+
+
+ Monitor patients for signs and symptoms of hepatic injury, every month for the first 3 months of treatment, and periodically thereafter. The use of RILUTEK is not recommended if patients develop hepatic transaminases levels greater than 5 times the ULN. Discontinue RILUTEK if there is evidence of liver dysfunction (e.g., elevated bilirubin).
+
+
+
+    5.2 Neutropenia
+
+
+
+  Cases of severe neutropenia (absolute neutrophil count less than 500 per mm  3  ) within the first 2 months of RILUTEK treatment have been reported. Advise patients to report febrile illnesses.
+
+
+
+    5.3 Interstitial Lung Disease
+
+
+
+  Interstitial lung disease, including hypersensitivity pneumonitis, has occurred in patients taking RILUTEK. Discontinue RILUTEK immediately if interstitial lung disease develops.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="431" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="347" name="excerpt" section="S1" start="318" />
+    <IgnoredRegion len="18" name="heading" section="S2" start="474" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="669" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1631" />
+    <IgnoredRegion len="29" name="heading" section="S2" start="1853" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="4159" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

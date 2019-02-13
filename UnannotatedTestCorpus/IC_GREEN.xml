@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="IC_GREEN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  Anaphylactic or urticarial reactions have been reported in patients with or without history of allergy to iodides. If such reactions occur, treat with the appropriate agents, e.g., epinephrine, antihistamines, and corticosteroids.
+
+
+
+   EXCERPT:   Most common adverse reactions are anaphylactic or urticarial reactions. These have been reported in patients with and without a history of allergy to iodides. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Akorn, Inc. at 1-800-932-5676 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    .  
+
+
+
+ 
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Deaths due to anaphylaxis have been reported following IC-GREEN  (r)  administration during cardiac catheterization. (  5.1  ) 
+ *  IC-GREEN  (r)  is unstable in aqueous solution and must be used within 6 hours. (  5.2  ) 
+ *  Radioactive iodine uptake studies should not be performed for at least a week following the use of IC-GREEN  (r)  . (  5.3  ) 
+    
+ 
+
+   5.1 Anaphylaxis
+
+
+
+  Deaths from anaphylaxis have been reported following IC-GREEN  (r)  administration during cardiac catheterization.
+
+
+
+    5.2 Drug Instability
+
+
+
+  IC-GREEN  (r)  is unstable in aqueous solution and must be used within 6 hours. However, the dye is stable in plasma and whole blood so that samples obtained in discontinuous sampling techniques may be read hours later. Sterile techniques should be used in handling the dye solution as well as in the performance of the dilution curves. If a precipitate is present, discard the solution.
+
+
+
+    5.3 Drug/Laboratory Test Interactions
+
+
+
+  Radioactive iodine uptake studies should not be performed for at least a week following the use of IC-GREEN  (r)  .
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="374" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="325" name="excerpt" section="S1" start="263" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="417" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="560" />
+    <IgnoredRegion len="37" name="heading" section="S2" start="981" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

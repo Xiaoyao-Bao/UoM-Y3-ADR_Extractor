@@ -1,9 +1,9 @@
 import xml.etree.ElementTree as ET
 
 
-f = open("/Users/xyb/UoM-Y3-ADR_Extractor/split/train_file_name.txt", "r").read().split('\n')
+f = open("/Users/xyb/UoM-Y3-ADR_Extractor/split/dev_file_name.txt", "r").read().split('\n')
 for filename in f:
-    abs_filename = '/Users/xyb/UoM-Y3-ADR_Extractor/split/train/' + filename
+    abs_filename = '/Users/xyb/UoM-Y3-ADR_Extractor/split/dev/' + filename
     tree = ET.parse(abs_filename)
     root = tree.getroot()
     for child in root:
@@ -14,7 +14,7 @@ for filename in f:
         #             s.write(sec.text)
         if child.tag == 'Mentions':
             for mention in child:
-                mention_f = "/Users/xyb/UoM-Y3-ADR_Extractor/split/train_sec_label/" + filename[:-4] + mention.get('section') + ".txt"
+                mention_f = "/Users/xyb/UoM-Y3-ADR_Extractor/split/dev_sec_label/" + filename[:-4] + mention.get('section') + ".txt"
                 with open(mention_f, "a") as m:
                     m.write(mention.attrib.get('len') + ' ' + mention.attrib.get('start') + ' ' + mention.attrib.get('type') + '\n')
         # if child.tag == 'IgnoredRegions':

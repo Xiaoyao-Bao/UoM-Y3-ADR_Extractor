@@ -1,0 +1,84 @@
+The ADE Eval software package is distributed bundled with at least one
+supporting software package. The following license applies to the
+distribution bundle and all its subdirectories, with the exception of
+the open source component noted below: 
+
+At the request of the U.S. Government, The MITRE Corporation ("MITRE")
+is providing the materials on this website for certain limited
+purposes. By clicking "I AGREE" below You (the individual or legal
+entity exercising permissions granted herein) agree to the following
+terms of use. Conditioned on your following these terms, MITRE grants
+to You a limited, non-exclusive, non-transferable, royalty-free
+license to use the ADE Eval software package, the annotated training
+datasets, data annotation guidelines, and other associated
+documentation in electronic and paper form (the "Licensed Materials")
+solely for use in analysis and development of technology for detecting
+adverse events in drug labels (the "Limited Purpose") and under the
+conditions specified in this limited license (the "Agreement").  No
+other rights, title, or interest are granted to You under this
+Agreement.  
+
+If You use the Licensed Materials, MITRE may ask You to participate in
+MITRE's technology evaluation program for these Licensed
+Materials. MITRE may ask You to share results of Your analysis of the
+Licensed Materials and technical descriptions of Your analysis
+process. MITRE may also ask You to provide reasonable support to MITRE
+in answering requests for information from its U.S. Government
+sponsors. However, Your participation in the technology evaluation is
+completely voluntary. Notwithstanding this Agreement or any
+non-disclosure agreements that may exist between You and MITRE,
+nothing shall restrict or otherwise limit MITRE's ability to provide
+information or materials received from You to its U.S. Government
+sponsors. However, such sharing shall not constitute a transfer of
+ownership of the information and materials from You to the
+U.S. Government. 
+
+You agree that accessing and using this website and the Licensed
+Materials does not constitute or imply endorsement by the
+U.S. Government or MITRE of You, your work, products, research, or
+organization. You agree to comply with all applicable laws, rules and
+regulations, including but not limited to export control restrictions,
+in Your use of the Licensed Materials. 
+
+The Licensed Materials are protected as MITRE's copyrighted works.
+MITRE IS PROVIDING THE LICENSED MATERIALS "AS IS" AND MAKES NO
+WARRANTY, EXPRESS OR IMPLIED, AS TO THE ACCURACY, CAPABILITY,
+EFFICIENCY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
+FUNCTIONING OF THE LICENSED MATERIALS.  In no event and under no legal
+theory, unless required by applicable law, will MITRE be liable to You
+for damages, including any direct, indirect, special, incidental, or
+consequential damages of any character arising as a result of this
+Agreement or out of the use or inability to use the Licensed
+Materials, even if You have been advised of the possibility of such
+damages. 
+
+You agree to indemnify and hold harmless MITRE, its Board of Trustees,
+officers, agents, and employees, from any and all liability or damages
+to third parties, including attorneys' fees, court costs, and other
+related costs and expenses, arising out of Licensee's use of the
+Licensed Materials irrespective of the cause of said liability.
+
+====================================================================
+
+NOTICE
+
+This software/technical data was produced for the U. S. Government
+under Contract Number 75FCMC18D0047, and is subject to Federal
+Acquisition Regulation Clause 52.227-14, Rights in Data-General.  No
+other use other than that granted to the U. S. Government, or to those
+acting on behalf of the U. S. Government under that Clause is
+authorized without the express written permission of The MITRE
+Corporation.  For further information, please contact The MITRE
+Corporation, Contracts Management Office, 7515 Colshire Drive, McLean
+VA 22102-7539, (703) 983-6000.
+
+(c) 2018 The MITRE Corporation.
+
+====================================================================
+
+The license above does not apply to the following third-party artifacts:
+
+1. munkres
+Located in distribution:
+  lib/python/third_party/munkres-<version>
+Source: http://pypi.python.org/pypi/munkres

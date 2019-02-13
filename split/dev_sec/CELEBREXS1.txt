@@ -1,0 +1,213 @@
+  6. ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+ *   Cardiovascular≠B-OSE_Labeled_AE   Thrombotic≠I-OSE_Labeled_AE   Events≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.1)   ] 
+ *   GI≠B-OSE_Labeled_AE   Bleeding≠I-OSE_Labeled_AE , Ulceration and Perforation [ see  Warnings and Precautions (5.2)   ] 
+ *   Hepatotoxicity≠B-OSE_Labeled_AE  [ see  Warnings and Precautions (5.3)   ] 
+ *   Hypertension≠B-OSE_Labeled_AE  [ see  Warnings and Precautions (5.4)   ] 
+ *   Heart≠B-OSE_Labeled_AE   Failure≠I-OSE_Labeled_AE  and  Edema≠B-OSE_Labeled_AE  [ see  Warnings and Precautions (5.5)   ] 
+ *   Renal≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE  and  Hyperkalemia≠B-OSE_Labeled_AE  [ see  Warnings and Precautions (5.6)   ] 
+ *   Anaphylactic≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.7)   ] 
+ *   Serious≠B-OSE_Labeled_AE   Skin≠I-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.9)   ] 
+ *   Hematologic≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.11)   ] 
+      EXCERPT:   Most common adverse reactions in arthritis trials (>2% and >placebo) are: abdominal pain, diarrhea, dyspepsia, flatulence, peripheral edema, accidental injury, dizziness, pharyngitis, rhinitis, sinusitis, upper respiratory tract infection, rash (  6.1  ).
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Pfizer at 1-800-438-1985 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
+
+ Of the CELEBREX-treated patients in the pre-marketing controlled clinical trials, approximately 4,250 were patients with  OA≠B-Not_AE_Candidate , approximately 2,100 were patients with  RA≠B-Not_AE_Candidate , and approximately 1,050 were patients with  post≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  surgical≠I-Not_AE_Candidate   pain≠I-Not_AE_Candidate . More than 8,500 patients received a total daily dose of CELEBREX of 200 mg (100 mg twice daily or 200 mg once daily) or more, including more than 400 treated at 800 mg (400 mg twice daily). Approximately 3,900 patients received CELEBREX at these doses for 6 months or more; approximately 2,300 of these have received it for 1 year or more and 124 of these have received it for 2 years or more.
+
+     Pre-marketing Controlled Arthritis Trials  
+
+ Table 1 lists all adverse events, regardless of causality, occurring in >=2% of patients receiving CELEBREX from 12 controlled studies conducted in patients with  OA≠B-Not_AE_Candidate  or  RA≠B-Not_AE_Candidate  that included a placebo and/or a positive control group. Since these 12 trials were of different durations, and patients in the trials may not have been exposed for the same duration of time, these percentages do not capture cumulative rates of occurrence.
+
+ Table 1: Adverse Events Occurring in >=2% of CELEBREX Patients from Pre-marketing Controlled Arthritis Trials 
+                                   CBXN=4146     PlaceboN=1864     NAPN=1366        DCFN=387        IBUN=345      
+  
+ CBX = CELEBREX 100 - 200 mg twice daily or 200 mg once daily;   
+ NAP = Naproxen 500 mg twice daily;   
+ DCF = Diclofenac 75 mg twice daily;   
+ IBU = Ibuprofen 800 mg three times daily.   
+  
+    Gastrointestinal≠B-NonOSE_AE                                                                                                
+    Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                      4.1%            2.8%            7.7%            9.0%            9.0%        
+    Diarrhea≠B-OSE_Labeled_AE                            5.6%            3.8%            5.3%            9.3%            5.8%        
+    Dyspepsia≠B-OSE_Labeled_AE                           8.8%            6.2%           12.2%           10.9%           12.8%        
+    Flatulence≠B-OSE_Labeled_AE                          2.2%            1.0%            3.6%            4.1%            3.5%        
+    Nausea≠B-OSE_Labeled_AE                              3.5%            4.2%            6.0%            3.4%            6.7%        
+    Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   whole≠I-NonOSE_AE                                                                                                 
+    Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                           2.8%            3.6%            2.2%            2.6%            0.9%        
+    Peripheral≠B-OSE_Labeled_AE   Edema≠I-OSE_Labeled_AE                    2.1%            1.1%            2.1%            1.0%            3.5%        
+    Injury≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Accidental≠I-OSE_Labeled_AE                   2.9%            2.3%            3.0%            2.6%            3.2%        
+    Central≠B-NonOSE_AE  ,≠I-NonOSE_AE   Peripheral≠I-NonOSE_AE   Nervous≠I-NonOSE_AE   system≠I-NonOSE_AE                                                                                      
+    Dizziness≠B-OSE_Labeled_AE                           2.0%            1.7%            2.6%            1.3%            2.3%        
+    Headache≠B-OSE_Labeled_AE                           15.8%           20.2%           14.5%           15.5%           15.4%        
+    Psychiatric≠B-NonOSE_AE                                                                                                     
+    Insomnia≠B-OSE_Labeled_AE                            2.3%            2.3%            2.9%            1.3%            1.4%        
+    Respiratory≠B-NonOSE_AE                                                                                                     
+    Pharyngitis≠B-OSE_Labeled_AE                         2.3%            1.1%            1.7%            1.6%            2.6%        
+    Rhinitis≠B-OSE_Labeled_AE                            2.0%            1.3%            2.4%            2.3%            0.6%        
+    Sinusitis≠B-OSE_Labeled_AE                           5.0%            4.3%            4.0%            5.4%            5.8%        
+    Upper≠B-OSE_Labeled_AE   Respiratory≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE         8.1%            6.7%            9.9%            9.8%            9.9%        
+    Skin≠B-NonOSE_AE                                                                                                            
+    Rash≠B-OSE_Labeled_AE                                2.2%            2.1%            2.1%            1.3%            1.2%        
+            In placebo- or active-controlled clinical trials, the discontinuation rate due to adverse events was 7.1% for patients receiving CELEBREX and 6.1% for patients receiving placebo. Among the most common reasons for discontinuation due to adverse events in the CELEBREX treatment groups were  dyspepsia≠B-OSE_Labeled_AE  and  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (cited as reasons for discontinuation in 0.8% and 0.7% of CELEBREX patients, respectively). Among patients receiving placebo, 0.6% discontinued due to  dyspepsia≠B-NonOSE_AE  and 0.6% withdrew due to  abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE .
+ 
+
+     The following adverse reactions occurred in 0.1 - 1.9% of patients treated with CELEBREX (100 - 200 mg twice daily or 200 mg once daily):  
+
+    Gastrointestinal≠B-NonOSE_AE     :   Constipation≠B-OSE_Labeled_AE ,  diverticulitis≠B-OSE_Labeled_AE ,  dysphagia≠B-OSE_Labeled_AE ,  eructation≠B-OSE_Labeled_AE ,  esophagitis≠B-OSE_Labeled_AE ,  gastritis≠B-OSE_Labeled_AE ,  gastroenteritis≠B-OSE_Labeled_AE ,  gastroesophageal≠B-OSE_Labeled_AE   reflux≠I-OSE_Labeled_AE ,  hemorrhoids≠B-OSE_Labeled_AE ,  hiatal≠B-OSE_Labeled_AE   hernia≠I-OSE_Labeled_AE ,  melena≠B-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE ,  stomatitis≠B-OSE_Labeled_AE ,  tenesmus≠B-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE 
+
+    Cardiovascular≠B-NonOSE_AE :   Aggravated≠B-OSE_Labeled_AE   hypertension≠I-OSE_Labeled_AE ,  angina≠B-OSE_Labeled_AE   pectoris≠I-OSE_Labeled_AE ,  coronary≠B-OSE_Labeled_AE   artery≠I-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE 
+
+    General≠B-NonOSE_AE     :   Hypersensitivity≠B-OSE_Labeled_AE ,  allergic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  cyst≠B-OSE_Labeled_AE   NOS≠I-OSE_Labeled_AE ,  edema≠B-OSE_Labeled_AE   generalized≠I-OSE_Labeled_AE ,  face≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE ,  fever≠B-OSE_Labeled_AE ,  hot≠B-OSE_Labeled_AE   flushes≠I-OSE_Labeled_AE ,  influenza≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  like≠I-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE ,  pain≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE 
+
+    Central≠B-NonOSE_AE  ,≠I-NonOSE_AE   peripheral≠I-NonOSE_AE   nervous≠I-NonOSE_AE   system≠I-NonOSE_AE :   Leg≠B-OSE_Labeled_AE   cramps≠I-OSE_Labeled_AE ,  hypertonia≠B-OSE_Labeled_AE ,  hypoesthesia≠B-OSE_Labeled_AE ,  migraine≠B-OSE_Labeled_AE ,  paresthesia≠B-OSE_Labeled_AE ,  vertigo≠B-OSE_Labeled_AE 
+
+    Hearing≠B-NonOSE_AE   and≠I-NonOSE_AE   vestibular≠I-NonOSE_AE     :   Deafness≠B-OSE_Labeled_AE ,  tinnitus≠B-OSE_Labeled_AE 
+
+    Heart≠B-NonOSE_AE   rate≠I-NonOSE_AE   and≠I-NonOSE_AE   rhythm≠I-NonOSE_AE     :   Palpitation≠B-OSE_Labeled_AE ,  tachycardia≠B-OSE_Labeled_AE 
+
+    Liver≠B-NonOSE_AE   and≠I-NonOSE_AE   biliary≠I-NonOSE_AE     :   Hepatic≠B-OSE_Labeled_AE   enzyme≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  (including  SGOT≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  SGPT≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE )
+
+    Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   nutritional≠I-NonOSE_AE     :   BUN≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  CPK≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  hypercholesterolemia≠B-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  hypokalemia≠B-OSE_Labeled_AE ,  NPN≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  creatinine≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  alkaline≠B-OSE_Labeled_AE   phosphatase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE 
+
+    Musculoskeletal≠B-NonOSE_AE     :   Arthralgia≠B-OSE_Labeled_AE ,  arthrosis≠B-OSE_Labeled_AE ,  myalgia≠B-OSE_Labeled_AE ,  synovitis≠B-OSE_Labeled_AE ,  tendinitis≠B-OSE_Labeled_AE 
+
+    Platelets≠B-NonOSE_AE   (≠I-NonOSE_AE  bleeding≠I-NonOSE_AE   or≠I-NonOSE_AE   clotting≠I-NonOSE_AE )    :   Ecchymosis≠B-OSE_Labeled_AE ,  epistaxis≠B-OSE_Labeled_AE ,  thrombocythemia≠B-OSE_Labeled_AE ,
+
+    Psychiatric≠B-NonOSE_AE     :   Anorexia≠B-OSE_Labeled_AE ,  anxiety≠B-OSE_Labeled_AE ,  appetite≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  depression≠B-OSE_Labeled_AE ,  nervousness≠B-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE 
+
+      Hemic≠B-NonOSE_AE   :   Anemia≠B-OSE_Labeled_AE 
+
+    Respiratory≠B-NonOSE_AE     :   Bronchitis≠B-OSE_Labeled_AE ,  bronchospasm≠B-OSE_Labeled_AE ,  bronchospasm≠B-OSE_Labeled_AE   aggravated≠I-OSE_Labeled_AE ,  cough≠B-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE ,  laryngitis≠B-OSE_Labeled_AE ,  pneumonia≠B-OSE_Labeled_AE 
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   appendages≠I-NonOSE_AE     :   Alopecia≠B-OSE_Labeled_AE ,  dermatitis≠B-OSE_Labeled_AE ,  photosensitivity≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   erythematous≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   maculopapular≠I-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   dry≠I-OSE_Labeled_AE ,  sweating≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE 
+
+    Application≠B-NonOSE_AE   site≠I-NonOSE_AE      disorders≠I-NonOSE_AE     :   Cellulitis≠B-OSE_Labeled_AE ,  dermatitis≠B-OSE_Labeled_AE   contact≠I-OSE_Labeled_AE 
+
+    Urinary≠B-NonOSE_AE     :   Albuminuria≠B-OSE_Labeled_AE ,  cystitis≠B-OSE_Labeled_AE ,  dysuria≠B-OSE_Labeled_AE ,  hematuria≠B-OSE_Labeled_AE ,  micturition≠B-OSE_Labeled_AE   frequency≠I-OSE_Labeled_AE ,  renal≠B-OSE_Labeled_AE   calculus≠I-OSE_Labeled_AE 
+
+     The following serious adverse events (causality not evaluated) occurred in <0.1% of patients:  
+
+    Cardiovascular≠B-NonOSE_AE     :   Syncope≠B-OSE_Labeled_AE ,  congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  ventricular≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE ,  cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   gangrene≠I-OSE_Labeled_AE ,  thrombophlebitis≠B-OSE_Labeled_AE 
+
+    Gastrointestinal≠B-NonOSE_AE     :   Intestinal≠B-OSE_Labeled_AE   obstruction≠I-OSE_Labeled_AE ,  intestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE ,  gastrointestinal≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE ,  colitis≠B-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE ,  esophageal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE ,  pancreatitis≠B-OSE_Labeled_AE ,  ileus≠B-OSE_Labeled_AE 
+
+    General≠B-NonOSE_AE :   Sepsis≠B-OSE_Labeled_AE ,  sudden≠B-OSE_Labeled_AE   death≠I-OSE_Labeled_AE 
+
+    Liver≠B-NonOSE_AE   and≠I-NonOSE_AE   biliary≠I-NonOSE_AE     :   Cholelithiasis≠B-OSE_Labeled_AE 
+
+    Hemic≠B-NonOSE_AE   and≠I-NonOSE_AE        lymphatic≠I-NonOSE_AE   :   Thrombocytopenia≠B-OSE_Labeled_AE 
+
+    Nervous≠B-NonOSE_AE     :   Ataxia≠B-OSE_Labeled_AE ,  suicide≠B-OSE_Labeled_AE   [see Drug Interactions (7.1)]  
+
+    Renal≠B-NonOSE_AE     :   Acute≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE 
+
+     The Celecoxib Long-Term  Arthritis≠B-Not_AE_Candidate  Safety Study [see    Special Studies (14.6)    ]  
+
+      Hematological≠B-NonOSE_AE   Events≠I-NonOSE_AE     :  The incidence of clinically significant  decreases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE  (>2 g/dL) was lower in patients on CELEBREX 400 mg twice daily (0.5%) compared to patients on either diclofenac 75 mg twice daily (1.3%) or ibuprofen 800 mg three times daily 1.9%. The lower incidence of events with CELEBREX was maintained with or without aspirin use [  see  Clinical Pharmacology (12.2)    ].
+
+      Withdrawals≠B-NonOSE_AE / Serious≠B-NonOSE_AE   Adverse≠I-NonOSE_AE   Events≠I-NonOSE_AE     :  Kaplan-Meier cumulative rates at 9 months for withdrawals due to adverse events for CELEBREX, diclofenac and ibuprofen were 24%, 29%, and 26%, respectively. Rates for serious adverse events (i.e., causing hospitalization or felt to be life-threatening or otherwise medically significant), regardless of causality, were not different across treatment groups (8%, 7%, and 8%, respectively).
+
+     Juvenile Rheumatoid Arthritis Study  
+
+ In a 12-week, double-blind, active-controlled study, 242  JRA≠B-Not_AE_Candidate  patients 2 years to 17 years of age were treated with celecoxib or naproxen; 77  JRA≠B-Not_AE_Candidate  patients were treated with celecoxib 3 mg/kg twice daily, 82 patients were treated with celecoxib 6 mg/kg twice daily, and 83 patients were treated with naproxen 7.5 mg/kg twice daily. The most commonly occurring (>=5%) adverse events in celecoxib treated patients were  headache≠B-OSE_Labeled_AE ,  fever≠B-OSE_Labeled_AE  ( pyrexia≠B-OSE_Labeled_AE ),  upper≠B-OSE_Labeled_AE   abdominal≠I-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  cough≠B-OSE_Labeled_AE ,  nasopharyngitis≠B-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  arthralgia≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE  and  vomiting≠B-OSE_Labeled_AE . The most commonly occurring (>=5%) adverse experiences for naproxen-treated patients were  headache≠B-NonOSE_AE ,  nausea≠B-NonOSE_AE ,  vomiting≠B-NonOSE_AE ,  fever≠B-NonOSE_AE ,  upper≠B-NonOSE_AE   abdominal≠I-NonOSE_AE   pain≠I-NonOSE_AE ,  diarrhea≠B-NonOSE_AE ,  cough≠B-NonOSE_AE ,  abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE , and  dizziness≠B-NonOSE_AE  (Table 2). Compared with naproxen, celecoxib at doses of 3 and 6 mg/kg twice daily had no observable  deleterious≠B-NonOSE_AE   effect≠I-NonOSE_AE   on≠I-NonOSE_AE  growth and  development≠I-NonOSE_AE  during the course of the 12-week double-blind study. There was no substantial difference in the number of clinical  exacerbations≠B-NonOSE_AE   of≠I-NonOSE_AE   uveitis≠I-NonOSE_AE  or systemic features of  JRA≠B-Not_AE_Candidate  among treatment groups.
+
+ In a 12-week, open-label extension of the double-blind study described above, 202  JRA≠B-Not_AE_Candidate  patients were treated with celecoxib 6 mg/kg twice daily. The incidence of adverse events was similar to that observed during the double-blind study; no unexpected adverse events of clinical importance emerged.
+
+   Table 2: Adverse Events Occurring in >=5% of JRA Patients in Any Treatment Group, by System Organ Class (% of patients with events)  
+
+
+                                           All Doses Twice Daily   
+ System Organ Class  Preferred Term        Celecoxib3 mg/kgN=77  Celecoxib6 mg/kgN=82  Naproxen7.5 mg/kgN=83   
+  
+   Any Event                                        64                    70                    72            
+    Eye≠B-OSE_Labeled_AE   Disorders≠I-OSE_Labeled_AE                                     5                     5                     5             
+    Gastrointestinal≠B-NonOSE_AE                                  26                    24                    36            
+    Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  NOS                               4                     7                     7             
+    Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE                              8                     6                     10            
+    Vomiting≠B-OSE_Labeled_AE  NOS                                     3                     6                     11            
+    Diarrhea≠B-OSE_Labeled_AE  NOS                                     5                     4                     8             
+    Nausea≠B-OSE_Labeled_AE                                            7                     4                     11            
+    General≠B-NonOSE_AE                                           13                    11                    18            
+    Pyrexia≠B-OSE_Labeled_AE                                           8                     9                     11            
+    Infections≠B-OSE_Labeled_AE                                        25                    20                    27            
+    Nasopharyngitis≠B-OSE_Labeled_AE                                   5                     6                     5             
+    Injury≠B-NonOSE_AE   and≠I-NonOSE_AE   Poisoning≠I-NonOSE_AE                              4                     6                     5             
+    Investigations≠B-NonOSE_AE  [note:  Abnormal≠B-NonOSE_AE   laboratory≠I-NonOSE_AE   tests≠I-NonOSE_AE , which include:  Prolonged≠B-OSE_Labeled_AE   activated≠I-OSE_Labeled_AE   partial≠I-OSE_Labeled_AE   thromboplastin≠I-OSE_Labeled_AE   time≠I-OSE_Labeled_AE ,  Bacteriuria≠B-OSE_Labeled_AE  NOS present,  Blood≠B-OSE_Labeled_AE   creatine≠I-OSE_Labeled_AE   phosphokinase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  Blood≠B-OSE_Labeled_AE   culture≠I-OSE_Labeled_AE   positive≠I-OSE_Labeled_AE ,  Blood≠B-OSE_Labeled_AE   glucose≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  Blood≠B-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  Blood≠B-OSE_Labeled_AE   uric≠I-OSE_Labeled_AE   acid≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  Hematocrit≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  Hematuria≠B-OSE_Labeled_AE   present≠I-OSE_Labeled_AE ,  Hemoglobin≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  Liver≠B-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   tests≠I-OSE_Labeled_AE  NOS  abnormal≠I-OSE_Labeled_AE ,  Proteinuria≠B-OSE_Labeled_AE  present,  Transaminase≠B-OSE_Labeled_AE  NOS  increased≠I-OSE_Labeled_AE ,  Urine≠B-OSE_Labeled_AE   analysis≠I-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE  NOS]              3                     11                    7             
+    Musculoskeletal≠B-NonOSE_AE                                   8                     10                    17            
+    Arthralgia≠B-OSE_Labeled_AE                                        3                     7                     4             
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE                                    17                    11                    21            
+    Headache≠B-OSE_Labeled_AE  NOS                                     13                    10                    16            
+    Dizziness≠B-OSE_Labeled_AE  (excl  vertigo≠B-NonOSE_AE )                         1                     1                     7             
+    Respiratory≠B-NonOSE_AE                                       8                     15                    15            
+    Cough≠B-OSE_Labeled_AE                                             7                     7                     8             
+    Skin≠B-NonOSE_AE   &≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE                               10                    7                     18            
+              Other Pre-Approval Studies  
+ 
+
+     Adverse Events from  Ankylosing≠B-Not_AE_Candidate   Spondylitis≠I-Not_AE_Candidate  Studies:  A total of 378 patients were treated with CELEBREX in placebo- and active-controlled  AS≠B-Not_AE_Candidate  studies. Doses up to 400 mg once daily were studied. The types of adverse events reported in the  AS≠B-Not_AE_Candidate  studies were similar to those reported in the  OA≠B-Not_AE_Candidate / RA≠B-Not_AE_Candidate  studies.
+
+     Adverse Events from  Analgesia≠B-Not_AE_Candidate  and  Dysmenorrhea≠B-Not_AE_Candidate  Studies:  Approximately 1,700 patients were treated with CELEBREX in  analgesia≠B-Not_AE_Candidate  and  dysmenorrhea≠B-Not_AE_Candidate  studies. All patients in  post≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  oral≠I-Not_AE_Candidate   surgery≠I-Not_AE_Candidate   pain≠I-Not_AE_Candidate  studies received a single dose of study medication. Doses up to 600 mg/day of CELEBREX were studied in primary  dysmenorrhea≠B-Not_AE_Candidate  and  post≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  orthopedic≠I-Not_AE_Candidate   surgery≠I-Not_AE_Candidate   pain≠I-Not_AE_Candidate  studies. The types of adverse events in the  analgesia≠B-Not_AE_Candidate  and  dysmenorrhea≠B-Not_AE_Candidate  studies were similar to those reported in  arthritis≠B-Not_AE_Candidate  studies. The only additional adverse event reported was  post≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  dental≠I-OSE_Labeled_AE   extraction≠I-OSE_Labeled_AE   alveolar≠I-OSE_Labeled_AE   osteitis≠I-OSE_Labeled_AE  ( dry≠B-OSE_Labeled_AE   socket≠I-OSE_Labeled_AE ) in the  post≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  oral≠I-Not_AE_Candidate   surgery≠I-Not_AE_Candidate   pain≠I-Not_AE_Candidate  studies.
+
+     The APC and PreSAP Trials  
+
+     Adverse reactions from long-term, placebo-controlled  polyp≠B-Not_AE_Candidate  prevention studies  : Exposure to CELEBREX in the APC and PreSAP trials was 400 to 800 mg daily for up to 3 years [  see  Special Studies  Adenomatous≠B-Not_AE_Candidate   Polyp≠I-Not_AE_Candidate  Prevention Studies (14.6)    ].
+
+ Some adverse reactions occurred in higher percentages of patients than in the  arthritis≠B-Not_AE_Candidate  pre-marketing trials (treatment durations up to 12 weeks; see  Adverse events from  CELEBREX    pre-marketing controlled  arthritis≠B-Not_AE_Candidate  trials    , above). The adverse reactions for which these differences in patients treated with CELEBREX were greater as compared to the  arthritis≠B-Not_AE_Candidate  pre-marketing trials were as follows:
+
+ CELEBREX 
+                                                     (400 to 800 mg daily)N = 2285        PlaceboN=1303         
+  
+  Diarrhea≠B-OSE_Labeled_AE                                                       10.5%                      7.0%              
+  Gastroesophageal≠B-OSE_Labeled_AE   reflux≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE                                4.7%                       3.1%              
+  Nausea≠B-OSE_Labeled_AE                                                         6.8%                       5.3%              
+  Vomiting≠B-OSE_Labeled_AE                                                       3.2%                       2.1%              
+  Dyspnea≠B-OSE_Labeled_AE                                                        2.8%                       1.6%              
+  Hypertension≠B-OSE_Labeled_AE                                                   12.5%                      9.8%              
+  Nephrolithiasis≠B-OSE_Labeled_AE                                                2.1%                       0.8%              
+         The following additional adverse reactions occurred in >=0.1% and <1% of patients taking CELEBREX, at an incidence greater than placebo in the long-term  polyp≠B-Not_AE_Candidate  prevention studies, and were either not reported during the controlled  arthritis≠B-Not_AE_Candidate  pre-marketing trials or occurred with greater frequency in the long-term, placebo-controlled  polyp≠B-Not_AE_Candidate  prevention studies:
+ 
+
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   Cerebral≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE 
+
+    Eye≠B-NonOSE_AE   disorders≠I-NonOSE_AE     :   Vitreous≠B-OSE_Labeled_AE   floaters≠I-OSE_Labeled_AE ,  conjunctival≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE 
+
+    Ear≠B-NonOSE_AE   and≠I-NonOSE_AE   labyrinth≠I-NonOSE_AE     :   Labyrinthitis≠B-OSE_Labeled_AE 
+
+    Cardiac≠B-NonOSE_AE   disorders≠I-NonOSE_AE     :   Angina≠B-OSE_Labeled_AE   unstable≠I-OSE_Labeled_AE ,  aortic≠B-OSE_Labeled_AE   valve≠I-OSE_Labeled_AE   incompetence≠I-OSE_Labeled_AE ,  coronary≠B-OSE_Labeled_AE   artery≠I-OSE_Labeled_AE   atherosclerosis≠I-OSE_Labeled_AE ,  sinus≠B-OSE_Labeled_AE   bradycardia≠I-OSE_Labeled_AE ,  ventricular≠B-OSE_Labeled_AE   hypertrophy≠I-OSE_Labeled_AE 
+
+    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE     :   Deep≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE 
+
+    Reproductive≠B-NonOSE_AE   system≠I-NonOSE_AE   and≠I-NonOSE_AE   breast≠I-NonOSE_AE   disorders≠I-NonOSE_AE     :   Ovarian≠B-OSE_Labeled_AE   cyst≠I-OSE_Labeled_AE 
+
+    Investigations≠B-NonOSE_AE     :   Blood≠B-OSE_Labeled_AE   potassium≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  blood≠B-OSE_Labeled_AE   sodium≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  blood≠B-OSE_Labeled_AE   testosterone≠I-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE 
+
+    Injury≠B-NonOSE_AE  ,≠I-NonOSE_AE   poisoning≠I-NonOSE_AE      and≠I-NonOSE_AE   procedural≠I-NonOSE_AE   complications≠I-NonOSE_AE :   Epicondylitis≠B-OSE_Labeled_AE ,  tendon≠B-OSE_Labeled_AE   rupture≠I-OSE_Labeled_AE 
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post approval use of CELEBREX. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure
+
+    Cardiovascular≠B-NonOSE_AE     :   Vasculitis≠B-OSE_Labeled_AE ,  deep≠B-OSE_Labeled_AE   venous≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE 
+
+    General≠B-NonOSE_AE :   Anaphylactoid≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  angioedema≠B-OSE_Labeled_AE 
+
+    Liver≠B-NonOSE_AE   and≠I-NonOSE_AE   biliary≠I-NonOSE_AE     :   Liver≠B-OSE_Labeled_AE   necrosis≠I-OSE_Labeled_AE ,  hepatitis≠B-OSE_Labeled_AE ,  jaundice≠B-OSE_Labeled_AE ,  hepatic≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE 
+
+    Hemic≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE   :  Agranulocytosis≠B-OSE_Labeled_AE ,  aplastic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE ,  pancytopenia≠B-OSE_Labeled_AE ,  leucopenia≠B-OSE_Labeled_AE 
+
+    Metabolic≠B-NonOSE_AE :   Hypoglycemia≠B-OSE_Labeled_AE ,  hyponatremia≠B-OSE_Labeled_AE 
+
+    Nervous≠B-NonOSE_AE     :   Aseptic≠B-OSE_Labeled_AE   meningitis≠I-OSE_Labeled_AE ,  ageusia≠B-OSE_Labeled_AE ,  anosmia≠B-OSE_Labeled_AE ,  fatal≠B-NonOSE_AE   intracranial≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE 
+
+    Renal≠B-NonOSE_AE     :   Interstitial≠B-OSE_Labeled_AE   nephritis≠I-OSE_Labeled_AE 
+

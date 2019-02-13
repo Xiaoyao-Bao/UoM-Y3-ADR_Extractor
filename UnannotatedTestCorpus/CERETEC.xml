@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CERETEC">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Rash with generalized erythema, facial edema and fever has been reported in less than 1% of patients. A transient increase in blood pressure was seen in 8% of patients.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+  As with any injected product, acute hypersensitivity or allergic reactions are possible. Limited reports have been received of hypersensitivity reactions following administration of Tc99m labeled leukocytes prepared using Tc99m exametazime. However, the materials used in leukocyte cell separation may cause hypersensitivity reactions. It is essential that cells are washed free of sedimentation agents before they are reinjected into the patient.
+
+
+
+ In case of side effects following administration of radio-pharmaceuticals, users should ensure the availability of appropriate medical treatment at the time of administration of any radiopharmaceutical to the patient.
+
+
+
+ A thorough knowledge of the normal distribution of intravenously administered technetium Tc99m exametazime injection is essential in order to interpret pathologic studies accurately. Caution should be exercised in making the final diagnosis. Results can be affected by the presence of tumor, infarction, peritonitis, non-gastrointestinal or bony sites of inflammatory cell collections.
+
+
+
+ The contents of the Ceretec vial are not radioactive. After the sodium pertechnetate Tc99m is added, the product is radioactive and adequate shielding of the final preparation must be maintained. The contents of the Ceretec vial are intended only for use in preparation of technetium Tc99m exametazime injection and are NOT to be administered directly to the patient.
+
+
+
+    General
+
+
+
+  The contents of the Ceretec vial are sterile and pyrogen free. The vial contains no bacteriostatic preservative. It is essential that the user follow the directions carefully and adhere to strict aseptic procedures during preparation of the radiopharmaceutical.
+
+
+
+ Radiopharmaceuticals should be used only by or under the control of physicians who are qualified by training and experience in the safe use and handling of radionuclides and whose experience and training have been approved by the appropriate governmental agency authorized to license the use of radionuclides.
+
+
+
+ To minimize radiation dose to the bladder, the patient should be encouraged to void when the examination is completed and as often thereafter as possible. Adequate hydration should be encouraged to permit frequent voiding.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Long term animal studies have not been performed to evaluate carcinogenic potential or whether exametazime affects fertility in males or females. When evaluated in the Ames test, exametazime increased the apparent rate of gene mutation in the TA100 strain of S. typhimurium. Exametazime did not cause chromosomal aberrations in vitro  (Chinese Hamster Ovary cells) or in vivo  (rat bone marrow).
+
+
+
+    Pregnancy Category C
+
+
+
+  Animal reproduction studies have not been conducted with Tc99m exametazime. It is also not known whether Tc99m exametazime can cause fetal harm when administered to a pregnant woman or if it can affect reproductive capacity. Therefore, Tc99m exametazime should not be administered to a pregnant woman unless the potential benefit justifies the potential risk to the fetus.
+
+
+
+    Nursing Mothers
+
+
+
+  Technetium Tc99m is excreted in human milk during lactation. It is not known whether exametazime is excreted in human milk. Therefore, formula feedings should be substituted for breast feeding for 60 hours.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+
+
+
+    Geriatric Use
+
+
+
+  Clinical studies of CeretecTM did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+
+
+
+ This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="1460" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="2283" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="2744" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="3150" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="3385" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="3485" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,141 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Arterial Thromboembolic Events (ATEs): Serious, sometimes fatal ATEs have been reported in clinical trials. Discontinue CYRAMZA for severe ATEs. (  5.2  ) 
+ *  Hypertension: Monitor blood pressure and treat hypertension. Temporarily suspend CYRAMZA for severe hypertension. Discontinue CYRAMZA for hypertension that cannot be medically controlled. (  5.3  ) 
+ *  Infusion-Related Reactions: Monitor for signs and symptoms during infusion. (  5.4  ) 
+ *  Impaired Wound Healing: Withhold CYRAMZA prior to surgery. (  5.6  ) 
+ *  Clinical Deterioration in Patients with Cirrhosis: New onset or worsening encephalopathy, ascites, or hepatorenal syndrome can occur in patients with Child-Pugh B or C cirrhosis. (  5.7  ) 
+ *  Reversible Posterior Leukoencephalopathy Syndrome: Discontinue CYRAMZA. (  5.8  ) 
+ *  Proteinuria Including Nephrotic Syndrome: Monitor proteinuria. Interrupt CYRAMZA for urine protein levels >=2 g/24 hours. Permanently discontinue CYRAMZA for urine protein levels >3 g/24 hours or for nephrotic syndrome. (  5.9  ) 
+ *  Thyroid Dysfunction: Monitor thyroid function during treatment with CYRAMZA. (  5.10  ) 
+ *  Embryofetal Risk: Can cause fetal harm. (  5.11  ) 
+    
+ 
+
+      5.1 Hemorrhage
+
+
+
+     CYRAMZA increased the risk of  hemorrhage≠B-OSE_Labeled_AE  and  gastrointestinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE , including severe and sometimes  fatal≠B-NonOSE_AE   hemorrhagic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE . In Study 1, the incidence of severe  bleeding≠B-OSE_Labeled_AE  was 3.4% for CYRAMZA and 2.6% for placebo. In Study 2, the incidence of severe  bleeding≠B-OSE_Labeled_AE  was 4.3% for CYRAMZA plus paclitaxel and 2.4% for placebo plus paclitaxel.
+
+
+
+    Patients with  gastric≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  receiving nonsteroidal anti-inflammatory drugs (NSAIDs) were excluded from enrollment in Studies 1 and 2; therefore, the risk of  gastric≠B-NonOSE_AE   hemorrhage≠I-NonOSE_AE  in CYRAMZA-treated patients with  gastric≠B-Not_AE_Candidate   tumors≠I-Not_AE_Candidate  receiving NSAIDs is unknown.
+
+
+
+    In Study 3, the incidence of severe  bleeding≠B-OSE_Labeled_AE  was 2.4% for CYRAMZA plus docetaxel and 2.3% for placebo plus docetaxel. Patients with  NSCLC≠B-Not_AE_Candidate  receiving therapeutic anticoagulation or chronic therapy with NSAIDS or other anti-platelet therapy other than once daily aspirin or with radiographic evidence of  major≠B-Not_AE_Candidate   airway≠I-Not_AE_Candidate  or blood vessel  invasion≠I-Not_AE_Candidate  or  intratumor≠B-Not_AE_Candidate   cavitation≠I-Not_AE_Candidate  were excluded from Study 3; therefore the risk of  pulmonary≠B-NonOSE_AE   hemorrhage≠I-NonOSE_AE  in these groups of patients is unknown.
+
+
+
+    In Study 4, the incidence of severe  bleeding≠B-OSE_Labeled_AE  was 2.5% for CYRAMZA plus FOLFIRI and 1.7% for placebo plus FOLFIRI.
+
+
+
+    Permanently discontinue CYRAMZA in patients who experience severe  bleeding≠B-NonOSE_AE  [see Dosage and Administration (  2.3  )]  .
+
+
+
+    5.2 Arterial Thromboembolic Events
+
+
+
+  Serious, sometimes  fatal≠B-NonOSE_AE ,  arterial≠B-OSE_Labeled_AE   thromboembolic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  ATEs≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE  including  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   arrest≠I-OSE_Labeled_AE ,  cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE , and  cerebral≠B-OSE_Labeled_AE   ischemia≠I-OSE_Labeled_AE  occurred in clinical trials including 1.7% of 236 patients who received CYRAMZA as a single agent for  gastric≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  in Study 1. Permanently discontinue CYRAMZA in patients who experience a severe  ATE≠B-NonOSE_AE  [see Dosage and Administration (  2.3  )]  .
+
+
+
+       5.3 Hypertension
+
+
+
+     An increased incidence of severe  hypertension≠B-OSE_Labeled_AE  occurred in patients receiving CYRAMZA as a single agent (8%) as compared to placebo (3%), in patients receiving CYRAMZA plus paclitaxel (15%) as compared to placebo plus paclitaxel (3%), in patients receiving CYRAMZA plus docetaxel (6%) as compared to placebo plus docetaxel (2%), and in patients receiving CYRAMZA plus FOLFIRI (11%) as compared to placebo plus FOLFIRI (3%).
+
+
+
+ Control  hypertension≠B-Not_AE_Candidate  prior to initiating treatment with CYRAMZA. Monitor blood pressure every two weeks or more frequently as indicated during treatment.
+
+
+
+ Temporarily suspend CYRAMZA for severe  hypertension≠B-NonOSE_AE  until medically controlled. Permanently discontinue CYRAMZA if medically significant  hypertension≠B-NonOSE_AE  cannot be controlled with  antihypertensive≠B-NonOSE_AE   therapy≠I-NonOSE_AE  or in patients with  hypertensive≠B-NonOSE_AE   crisis≠I-NonOSE_AE  or  hypertensive≠B-NonOSE_AE   encephalopathy≠I-NonOSE_AE  [see Dosage and Administration (  2.3  )]  .
+
+
+
+    5.4  Infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Related≠I-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE 
+
+
+
+  Prior to the institution of premedication recommendations across clinical trials of CYRAMZA,  IRRs≠B-OSE_Labeled_AE  occurred in 6 out of 37 patients (16%), including two severe events. The majority of  IRRs≠B-OSE_Labeled_AE  across trials occurred during or following a first or second CYRAMZA infusion. Symptoms of  IRRs≠B-NonOSE_AE  included  rigors≠B-NonOSE_AE / tremors≠B-NonOSE_AE ,  back≠B-NonOSE_AE   pain≠I-NonOSE_AE /spasms,  chest≠B-NonOSE_AE   pain≠I-NonOSE_AE  and/or tightness,  chills≠B-NonOSE_AE ,  flushing≠B-NonOSE_AE ,  dyspnea≠B-NonOSE_AE ,  wheezing≠B-NonOSE_AE ,  hypoxia≠B-NonOSE_AE , and  paresthesia≠B-NonOSE_AE . In severe cases, symptoms included  bronchospasm≠B-NonOSE_AE ,  supraventricular≠B-NonOSE_AE   tachycardia≠I-NonOSE_AE , and  hypotension≠B-NonOSE_AE .
+
+
+
+ Monitor patients during the infusion for signs and symptoms of  IRRs≠B-NonOSE_AE  in a setting with available resuscitation equipment. Immediately and permanently discontinue CYRAMZA for Grade 3 or 4  IRRs≠B-NonOSE_AE  [see Dosage and Administration (  2.3  )]  .
+
+
+
+       5.5 Gastrointestinal Perforations
+
+
+
+     CYRAMZA is an antiangiogenic therapy that can increase the risk of  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE , a potentially fatal event. Four of 570 patients (0.7%) who received CYRAMZA as a single agent in clinical trials experienced  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE . In Study 2, the incidence of  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  was also increased in patients that received CYRAMZA plus paclitaxel (1.2%) as compared to patients receiving placebo plus paclitaxel (0.3%). In Study 3, the incidence of  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  was 1% for CYRAMZA plus docetaxel and 0.3% for placebo plus docetaxel. In Study 4, the incidence of  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  was 1.7% for CYRAMZA plus FOLFIRI and 0.6% for placebo plus FOLFIRI. Permanently discontinue CYRAMZA in patients who experience a  gastrointestinal≠B-NonOSE_AE   perforation≠I-NonOSE_AE  [see Dosage and Administration (  2.3  )]  .
+
+
+
+       5.6 Impaired Wound Healing
+
+
+
+      Impaired≠B-OSE_Labeled_AE   wound≠I-OSE_Labeled_AE   healing≠I-OSE_Labeled_AE  can occur with antibodies inhibiting the VEGF pathway. CYRAMZA has not been studied in patients with serious or non-healing wounds. CYRAMZA, an antiangiogenic therapy, has the potential to  adversely≠B-NonOSE_AE   affect≠I-NonOSE_AE   wound≠I-NonOSE_AE   healing≠I-NonOSE_AE . Discontinue CYRAMZA therapy in patients with  impaired≠B-NonOSE_AE   wound≠I-NonOSE_AE   healing≠I-NonOSE_AE .
+
+
+
+    Withhold CYRAMZA prior to surgery. Resume following the surgical intervention based on clinical judgment of adequate wound healing. If a patient develops  wound≠B-NonOSE_AE   healing≠I-NonOSE_AE   complications≠I-NonOSE_AE  during therapy, discontinue CYRAMZA until the wound is fully healed [see Dosage and Administration (  2.3  )]  .
+
+
+
+    5.7 Clinical Deterioration in Patients with Child-Pugh B or C Cirrhosis
+
+
+
+  Clinical  deterioration≠B-OSE_Labeled_AE , manifested by new onset or worsening encephalopathy, ascites, or hepatorenal syndrome was reported in patients with  Child≠I-OSE_Lab eled≠B-NonOSE_AE  _≠I-NonOSE_AE  AE≠I-NonOSE_AE    -≠I-NonOSE_AE  ≠≠I-NonOSE_AE  I≠I-NonOSE_AE  -≠I-NonOSE_AE  O≠I-NonOSE_AE SE _≠B-NonOSE_AE  Labele≠I-NonOSE_AE d_AE   Pug≠B-NonOSE_AE  h≠I-NonOSE_AE  ≠≠I-NonOSE_AE  I≠I-NonOSE_AE  -OS≠I-NonOSE_AE  E≠I-NonOSE_AE  _Labele≠I-NonOSE_AE  d≠I-NonOSE_AE _AE   B≠I-OSE_Labeled_AE  or C  cirrhosis≠I-OSE_Labeled_AE  who received single-agent CYRAMZA. Use CYRAMZA in patients with  Child≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  Pugh≠I-Not_AE_Candidate   B≠I-Not_AE_Candidate  or C  cirrhosis≠I-Not_AE_Candidate  only if the potential benefits of treatment are judged to outweigh the risks of clinical deterioration.
+
+
+
+    5.8 Reversible Posterior Leukoencephalopathy Syndrome
+
+
+
+   Reversible≠B-OSE_Labeled_AE   Posterior≠I-OSE_Labeled_AE   Leukoencephalopathy≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  RPLS≠I-OSE_Labeled_AE ) has been reported with a rate of <0.1% in clinical studies with CYRAMZA. Confirm the diagnosis of  RPLS≠B-NonOSE_AE  with MRI and discontinue CYRAMZA in patients who develop  RPLS≠B-NonOSE_AE . Symptoms may resolve or improve within days, although some patients with  RPLS≠B-NonOSE_AE  can experience ongoing  neurologic≠B-NonOSE_AE   sequelae≠I-NonOSE_AE  or  death≠B-NonOSE_AE .
+
+
+
+       5.9 Proteinuria Including Nephrotic Syndrome
+
+
+
+     In Study 4, severe  proteinuria≠B-OSE_Labeled_AE  occurred more frequently in patients treated with CYRAMZA plus FOLFIRI compared to patients receiving placebo plus FOLFIRI. Severe  proteinuria≠B-OSE_Labeled_AE  was reported in 3% of patients treated with CYRAMZA plus FOLFIRI (including 3 cases [0.6%] of  nephrotic≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ) compared to 0.2% of patients treated with placebo plus FOLFIRI.
+
+
+
+    Monitor  proteinuria≠B-NonOSE_AE  by urine dipstick and/or urinary protein creatinine ratio for the development of worsening of  proteinuria≠B-NonOSE_AE  during CYRAMZA therapy.
+
+
+
+    Withhold CYRAMZA for urine protein levels that are 2 or more grams over 24 hours. Reinitiate CYRAMZA at a reduced dose once the urine protein level returns to less than 2 grams over 24 hours. Permanently discontinue CYRAMZA for urine protein levels greater than 3 grams over 24 hours or in the setting of  nephrotic≠B-NonOSE_AE   syndrome≠I-NonOSE_AE  [see Dosage and Administration (  2.3  )].  
+
+
+
+       5.10 Thyroid Dysfunction
+
+
+
+     Monitor thyroid function during treatment with CYRAMZA. In Study 4, the incidence of  hypothyroidism≠B-OSE_Labeled_AE  reported as an adverse event was 2.6% in the CYRAMZA plus FOLFIRI treated patients and 0.9% in the placebo plus FOLFIRI treated patients.
+
+
+
+       5.11  Embryofetal≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE 
+
+
+
+     Based on its mechanism of action, CYRAMZA can cause  fetal≠B-OSE_Labeled_AE   harm≠I-OSE_Labeled_AE  when administered to  pregnant≠B-Not_AE_Candidate  women. Animal models link angiogenesis, VEGF and VEGF Receptor 2 (VEGFR2) to critical aspects of female reproduction, embryofetal development, and postnatal development. Advise  pregnant≠B-Not_AE_Candidate  women of the potential  risk≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   a≠I-OSE_Labeled_AE   fetus≠I-OSE_Labeled_AE . Advise females of reproductive potential to use effective contraception during treatment with CYRAMZA and for at 3 least months after the last dose of CYRAMZA [see Use in Specific Populations (  8.1  ,  8.3  )]  .

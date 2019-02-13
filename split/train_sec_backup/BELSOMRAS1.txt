@@ -1,0 +1,97 @@
+    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed in greater detail in other sections:
+
+
+
+ *  CNS depressant effects and daytime impairment [see  Warnings and Precautions (5.1)  ]  
+ *  Abnormal thinking and behavioral changes [see  Warnings and Precautions (5.3)  ]  
+ *  Worsening of Depression/Suicidal ideation [see  Warnings and Precautions (5.4)  ]  
+ *  Sleep paralysis, hypnagogic/hypnopompic hallucinations, cataplexy-like symptoms [see  Warnings and Precautions (5.6)  ]  
+      EXCERPT:   The most common adverse reaction (reported in 5% or more of patients treated with BELSOMRA and at least twice the placebo rate) with BELSOMRA was somnolence (  6.1  ).
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., at 1-877-888-4231 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In 3-month controlled efficacy trials (Study 1 and Study 2), 1263 patients were exposed to BELSOMRA including 493 patients who received BELSOMRA 15 mg or 20 mg (see  Table 1  ).
+
+
+
+ In a long-term study, additional patients (n=521) were treated with BELSOMRA at higher than recommended doses, including a total of 160 patients who received BELSOMRA for at least one year.
+
+
+
+ Table 1: Patient Exposure to BELSOMRA 15 mg or 20 mg in Study 1 and Study 2 
+ Patients Treated                              BELSOMRA15 mg                      BELSOMRA20 mg             
+  
+ For >= 1 Day (n)                                   202                                291                  
+   Men (n)                                          69                                 105                  
+   Women (n)                                        133                                186                  
+   Mean Age (years)                                 70                                 45                   
+ For >= 3 Months (n)                                118                                172                  
+         The pooled safety data described below (see  Table 2  ) reflect the adverse reaction profile during the first 3 months of treatment.
+ 
+
+     Adverse Reactions Resulting in Discontinuation of Treatment  
+
+
+
+ The incidence of discontinuation due to adverse reactions for patients treated with 15 mg or 20 mg of BELSOMRA was 3% compared to 5% for placebo. No individual adverse reaction led to discontinuation at an incidence >=1%.
+
+
+
+     Most Common Adverse Reactions  
+
+
+
+ In clinical trials of patients with insomnia treated with BELSOMRA 15 mg or 20 mg, the most common adverse reaction (reported in 5% or more of patients treated with BELSOMRA and at least twice the placebo rate) was somnolence (BELSOMRA 7%; placebo 3%).
+
+
+
+ Table 2 shows the percentage of patients with adverse reactions during the first three months of treatment, based on the pooled data from 3-month controlled efficacy trials (Study 1 and Study 2).
+
+
+
+ At doses of 15 or 20 mg, the incidence of somnolence was higher in females (8%) than in males (3%). Of the adverse reactions reported in Table 2, the following occurred in women at an incidence of at least twice that in men: headache, abnormal dreams, dry mouth, cough, and upper respiratory tract infection.
+
+
+
+ The adverse reaction profile in elderly patients was generally consistent with non-elderly patients. The adverse reactions reported during long-term treatment up to 1 year were generally consistent with those observed during the first 3 months of treatment.
+
+
+
+ Table 2: Percentage of Patients with Adverse Reactions Incidence >=2% and Greater than Placebo in 3-Month Controlled Efficacy Trials (Study 1 and Study 2) 
+                                                  Placebo               BELSOMRA(20 mg in non-elderly or 15 mg in elderly patients)   
+                                                   n=767                              n=493                 
+  
+ Gastrointestinal Disorders                                                                                 
+   Diarrhea                                          1                                  2                   
+   Dry mouth                                         1                                  2                   
+ Infections and Infestations                                                                                
+   Upper respiratory tract infection                  1                                  2                   
+ Nervous System Disorders                                                                                   
+   Headache                                          6                                  7                   
+   Somnolence                                        3                                  7                   
+   Dizziness                                         2                                  3                   
+ Psychiatric Disorders                                                                                      
+   Abnormal dreams                                   1                                  2                   
+ Respiratory, Thoracic and Mediastinal Disorders                                                                         
+   Cough                                             1                                  2                   
+             Dose Relationship for Adverse Reactions  
+ 
+
+ There is evidence of a dose relationship for many of the adverse reactions associated with BELSOMRA use, particularly for certain CNS adverse reactions.
+
+
+
+ In a placebo-controlled crossover study (Study 3), non-elderly adult patients were treated for up to one month with BELSOMRA at doses of 10 mg, 20 mg, 40 mg (2 times the maximum recommended dose) or 80 mg (4 times the maximum recommended dose). In patients treated with BELSOMRA 10 mg (n=62), although no adverse reactions were reported at an incidence of >=2%, the types of adverse reactions observed were similar to those observed in patients treated with BELSOMRA 20 mg. BELSOMRA was associated with a dose-related increase in somnolence: 2% at the 10 mg dose, 5% at the 20 mg dose, 12% at the 40 mg dose, and 11% at the 80 mg dose, compared to <1% for placebo. BELSOMRA was also associated with a dose-related increase in serum cholesterol: 1 mg/dL at the 10 mg dose, 2 mg/dL at the 20 mg dose, 3 mg/dL at the 40 mg dose, and 6 mg/dL at the 80 mg dose after 4 weeks of treatment, compared to a 4 mg/dL decrease for placebo.

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="SYNTOCINON">
+  <Text>
+    <Section id="S1" name="adverse reactions">      ADVERSE REACTIONS  
+
+  The following adverse reactions have been reported in the mother: Anaphylactic reaction, Postpartum hemorrhage, Cardiac arrhythmia, Fatal afibrinogenemia, Nausea, Vomiting, Premature ventricular contractions, and Pelvic hematoma.
+
+
+
+ Excessive dosage or hypersensitivity to the drug may result in uterine hypertonicity, spasm, tetanic contraction, or rupture of the uterus.
+
+
+
+ The possibility of increased blood loss and afibrinogenemia should be kept in mind when administering the drug.
+
+
+
+ Severe water intoxication with convulsions and coma has occurred, associated with a slow oxytocin infusion over a 24-hour period. Maternal death due to oxytocin-induced water intoxication has been reported.
+
+
+
+ The following adverse reactions have been reported in the fetus or infant:
+
+
+
+   Due to induced uterine motility:  Bradycardia, Premature ventricular contractions and other arrhythmias, Permanent CNS or brain damage, and Fetal death.
+
+
+
+   Due to use of oxytocin in the mother:  Low Apgar scores at 5 minutes. Neonatal jaundice, and Neonatal retinal hemorrhage.
+</Section>
+    <Section id="S2" name="precautions">     PRECAUTIONS  
+
+
+
+      General  
+
+
+
+   All patients receiving intravenous oxytocin must he under continuous observation by trained personnel with a thorough knowledge of the drug and qualified to identify complications. A physician qualified to manage any complications should be immediately available.  
+
+
+
+ When properly administered, oxytocin should stimulate uterine contractions similar to those seen in normal labor. Overstimulation of the uterus by improper administration can be hazardous to both mother and fetus. Even with proper administration and adequate supervision, hypertonic contractions can occur in patients whose uteri are hypersensitive to oxytocin.
+
+
+
+ Except in unusual circumstances, oxytocin should not be administered in the following conditions: prematurity, borderline cephalopelvic disproportion, previous major surgery on the cervix or uterus including cesarean section, over-distention of the uterus, grand multiparity, or invasive cervical carcinoma. Because of the variability of the combinations of factors which may be present in the conditions listed above, the definition of "unusual circumstances" must be left to the judgment of the physician. The decision can only be made by carefully weighing the potential benefits which oxytocin can provide in a given case against rare but definite potential for the drug to produce hypertonicity or tetanic spasm.
+
+
+
+ Maternal deaths due to hypertensive episodes, subarachnoid hemorrhage, rupture of the uterus, and fetal deaths due to various causes have been reported associated with the use of parenteral oxytocic drugs for induction of labor or for augmentation in the first and second stages of labor.
+
+
+
+ Oxytocin has been shown to have an intrinsic antidiuretic effect, acting to increase water reabsorption from the glomerular filtrate. Consideration should, therefore, be given to the possibility of water intoxication, particularly when oxytocin is administered continuously by infusion and the patient is receiving fluids by mouth.
+
+
+
+     Drug Interactions  
+
+
+
+  Severe hypertension has been reported when oxytocin was given 3-4 hours following prophylactic administration of a vasoconstrictor in conjunction with caudal block anesthesia. Cyclopropane anesthesia may modify oxytocin's cardiovascular effects, so as to produce unexpected results such as hypotension. Maternal sinus bradycardia with abnormal atrioventricular rhythms has also been noted when oxytocin was used concomitantly with cyclopropane anesthesia.
+
+
+
+     Carcinogenesis, Mutagenesis, Impairment of Fertility  
+
+
+
+  There are no animal or human studies on the carcinogenicity and mutagenicity of this drug, nor is there any information on its effect on fertility.
+
+
+
+     Pregnancy  
+
+
+
+      Teratogenic Effects:  
+
+
+
+  Animal reproduction studies have not been conducted with oxytocin. There are no known indications for use in the first trimester of pregnancy other than in relation to spontaneous or induced abortion. Based on the wide experience with this drug and its chemical structure and pharmacological properties, it would not be expected to present a risk of fetal abnormalities when used as indicated.
+
+
+
+     Nonteratogenic Effects:  
+
+
+
+  See ADVERSE REACTIONS in the fetus or infant.
+
+
+
+     Labor and Delivery  
+
+
+
+  See INDICATIONS AND USAGE.
+
+
+
+     Nursing Mothers  
+
+
+
+  Syntocinon  (r)  (oxytocin) may be found in small quantities in mother's milk. If a patient requires the drug postpartum to control severe bleeding, she should not commence nursing until the day after Syntocinon  (r)  (oxytocin) has been discontinued.
+
+
+
+     Pediatric Use  
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+</Section>
+    <Section id="S3" name="warnings">     WARNINGS  
+
+
+
+  Syntocinon  (r)  (oxytocin), when given for induction or stimulation of labor, must be administered only by the intravenous route and with adequate medical supervision in a hospital.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="21" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="10" name="heading" section="S2" start="27" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="2034" />
+    <IgnoredRegion len="55" name="heading" section="S2" start="2523" />
+    <IgnoredRegion len="12" name="heading" section="S2" start="2739" />
+    <IgnoredRegion len="23" name="heading" section="S2" start="2760" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="3190" />
+    <IgnoredRegion len="21" name="heading" section="S2" start="3275" />
+    <IgnoredRegion len="18" name="heading" section="S2" start="3336" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="3619" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

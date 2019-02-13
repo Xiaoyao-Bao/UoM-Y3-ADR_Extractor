@@ -1,0 +1,22 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *     Gastrointestinal perforation : Consider the overall risk benefit in patients with known or suspected lesions of the GI tract. Monitor for severe, persistent or worsening abdominal pain; discontinue if development of symptoms  (5.1)   
+ *     Opioid withdrawal : Consider the overall risk benefit in patients with disruptions to the blood-brain barrier. Monitor for symptoms of opioid withdrawal  (5.2)   
+    
+ 
+
+   5.1 Gastrointestinal Perforation
+
+
+
+  Cases of  gastrointestinal≠B-NonOSE_AE   perforation≠I-NonOSE_AE  have been reported with use of another peripherally acting opioid antagonist in patients with conditions that may be associated with localized or diffuse  reduction≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   structural≠I-Not_AE_Candidate   integrity≠I-Not_AE_Candidate   in≠I-Not_AE_Candidate   the≠I-Not_AE_Candidate   wall≠I-Not_AE_Candidate   of≠I-Not_AE_Candidate   the≠I-Not_AE_Candidate   gastrointestinal≠I-Not_AE_Candidate   tract≠I-Not_AE_Candidate  (e.g.,  peptic≠B-Not_AE_Candidate   ulcer≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate ,  Ogilvie≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate ,  diverticular≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate ,  infiltrative≠B-Not_AE_Candidate   gastrointestinal≠I-Not_AE_Candidate   tract≠I-Not_AE_Candidate   malignancies≠I-Not_AE_Candidate  or  peritoneal≠B-Not_AE_Candidate   metastases≠I-Not_AE_Candidate ). Take into account the overall risk-benefit profile when using MOVANTIK in patients with these conditions or other conditions which might result in  impaired≠B-NonOSE_AE   integrity≠I-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   gastrointestinal≠I-NonOSE_AE   tract≠I-NonOSE_AE   wall≠I-NonOSE_AE  (e.g.,  Crohn≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate ). Monitor for the development of severe, persistent or worsening  abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE ; discontinue MOVANTIK in patients who develop this symptom [ see     Contraindications (4)    ].
+
+
+
+    5.2 Opioid Withdrawal
+
+
+
+  Clusters of symptoms consistent with  opioid≠B-OSE_Labeled_AE   withdrawal≠I-OSE_Labeled_AE , including  hyperhidrosis≠B-NonOSE_AE ,  chills≠B-NonOSE_AE ,  diarrhea≠B-NonOSE_AE ,  abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  anxiety≠B-NonOSE_AE ,  irritability≠B-NonOSE_AE , and  yawning≠B-NonOSE_AE  have occurred in patients treated with MOVANTIK [ see     Adverse Reactions (6.1)    ]. In addition, patients receiving methadone as therapy for their  pain≠B-Not_AE_Candidate  condition were observed in clinical trials to have a higher frequency of  gastrointestinal≠B-NonOSE_AE   adverse≠I-NonOSE_AE   reactions≠I-NonOSE_AE  that may have been related to  opioid≠B-NonOSE_AE   withdrawal≠I-NonOSE_AE  than patients receiving other opioids [ see     Adverse Reactions (6.1)    ]. Patients having  disruptions≠B-Not_AE_Candidate   to≠I-Not_AE_Candidate   the≠I-Not_AE_Candidate   blood≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  brain≠I-Not_AE_Candidate   barrier≠I-Not_AE_Candidate  may be at increased risk for  opioid≠B-NonOSE_AE   withdrawal≠I-NonOSE_AE  or  reduced≠B-NonOSE_AE   analgesia≠I-NonOSE_AE . Take into account the overall risk-benefit profile when using MOVANTIK in such patients. Monitor for symptoms of  opioid≠B-NonOSE_AE   withdrawal≠I-NonOSE_AE  in such patients.

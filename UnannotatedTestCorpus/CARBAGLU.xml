@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CARBAGLU">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6. ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (&gt;9%) are: vomiting, abdominal pain, pyrexia, tonsillitis, anemia, diarrhea, ear infection, infections, nasopharyngitis, hemoglobin decreased, and headache (  6.1  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    Recordati Rare Diseases Inc. at 1-888-575-8344,    or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+   Table 1  summarizes adverse reactions occurring in 2 or more patients treated with CARBAGLU in the retrospective case series (&gt;= 9%).
+
+
+
+ Table 1: Adverse Reactions Reported in &gt;= 2 Patients in the Retrospective Case Series Treated with CARBAGLU 
+  Adverse Reaction                                                            Number of Patients (N) (%)    
+  Vomiting                                                                   6 (26)                       
+ Abdominal pain                                                              4 (17)                       
+  Pyrexia                                                                    4 (17)                       
+  Tonsillitis                                                                4 (17)                       
+ Anemia                                                                      3 (13)                       
+  Diarrhea                                                                    3 (13)                      
+  Ear infection                                                               3 (13)                      
+ Infections                                                                  3 (13)                       
+  Nasopharyngitis                                                            3 (13)                       
+  Hemoglobin decreased                                                        3 (13)                      
+  Headache                                                                    2 (9)                       
+  Dysguesia                                                                   2 (9)                       
+  Asthenia                                                                   2 (9)                        
+  Hyperhidrosis                                                               2 (9)                       
+  Influenza                                                                   2 (9)                       
+  Pneumonia                                                                   2 (9)                       
+  Weight decreased                                                            2 (9)                       
+  Anorexia                                                                    2 (9)                       
+  Somnolence                                                                 2 (9)                        
+  Rash                                                                        2 (9)                       
+</Section>
+    <Section id="S2" name="warnings and precautions">    5. WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:    Hyperammonemia  : Monitor plasma ammonia level during treatment. Prolonged exposure to elevated plasma ammonia level can result in brain injury or death. Prompt use of all therapies necessary to reduce plasma ammonia level is essential. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 Hyperammonemia
+
+
+
+   Any episode of acute symptomatic hyperammonemia should be treated as a life-threatening emergency. Treatment of severe hyperammonemia may require dialysis, preferably hemodialysis and/or hemofiltration, to reduce plasma ammonia concentration. Untreated hyperammonemia can result in brain damage and death, and prompt use of all therapies necessary to reduce plasma ammonia level is essential.  
+
+
+
+  Since hyperammonemia in NAGS deficiency is the result of imbalance between ammonia detoxification capacity and protein catabolism, complete protein restriction during an acute hyperammonemic episode is recommended for no longer than 12 to 36 hours while maximizing caloric supplementation to reverse catabolism. Protein should be reintroduced as early as possible, following improvement of metabolic and clinical abnormalities in this setting. During long-term management, dietary protein restriction should be instituted to maintain blood ammonia level within an acceptable range for age.  
+
+
+
+  Ongoing monitoring of plasma ammonia level, neurological status, growth parameters, protein intake/nutritional status (both during acute hyperammonemic episodes and long-term), and relevant laboratory tests in patients receiving CARBAGLU should be part of evaluating the clinical response to treatment.  
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="20" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="27" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="372" name="excerpt" section="S1" start="27" />
+    <IgnoredRegion len="264" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="18" name="heading" section="S2" start="307" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="403" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

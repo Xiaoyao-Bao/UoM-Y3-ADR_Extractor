@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ZANTAC_75">
+  <Text>
+    <Section id="S1" name="warnings">      Warnings    
+
+
+
+   Allergy alert:  Do not use if you are allergic to ranitidine or other acid reducers
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="14" name="heading" section="S1" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ZYMAXID">
+  <Text>
+    <Section id="S1" name="adverse reactions">      6          ADVERSE REACTIONS  
+
+  The following serious adverse reactions are described elsewhere in the labeling:
+
+
+
+ *  Hypersensitivity [ see  Contraindications (    4    ) and Warnings and Precautions (    5.1    ) ] 
+ *  Growth of Resistant Organisms With Prolonged Use [ see Warnings and Precautions (    5.2    ) ] 
+ *  Corneal Endothelial Cell Injury [ see Warnings and Precautions (    5.3    ) ] 
+      EXCERPT:   Most common adverse reactions occurring in &gt;= 1 % of patients included worsening of conjunctivitis, eye irritation, dysgeusia, and eye pain. (  6  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Allergan at 1-800-433-8871 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+    6.    1    Clinical    Studies         Experience  
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+
+
+ In clinical studies of patients with bacterial conjunctivitis treated with ZYMAXID    (r)    (N=717), the most frequently reported adverse reactions occurring in &gt;= 1 % of patients were: worsening of the conjunctivitis, eye irritation, dysgeusia, and eye pain.
+
+
+
+ Additional adverse reactions reported with other formulations of gatifloxacin ophthalmic solution in other clinical studies included chemosis, conjunctival hemorrhage, dry eye, eye discharge, eyelid edema, headache, increased lacrimation, keratitis, red eye, papillary conjunctivitis, and reduced visual acuity.
+
+
+
+     6.2           Postmarketing Experience  
+
+  The following adverse reactions have been identified during post-approval use of ZYMAXID    (r)    or with other formulations of gatifloxacin ophthalmic solution. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. These reactions included anaphylactic reactions and angioedema (including pharyngeal, oral or facial edema), blepharitis, dyspnea, eye pruritus, eye swelling (including corneal and conjunctival edema), hypersensitivity, including signs and symptoms of eye allergy and allergic dermatitis, nausea, pruritus (including pruritus generalized, rash, urticaria), and vision blurred.
+</Section>
+    <Section id="S2" name="warnings and precautions">     5         WARNINGS AND PRECAUTIONS  
+
+
+
+   EXCERPT:    *  Hypersensitivity (  5.1  ) 
+ *  Growth of Resistant Organisms with Prolonged Use (  5.2  ) 
+ *  Corneal Endothelial Cell Injury (  5.3  ) 
+    
+ 
+
+    5.1   Hypersensitivity  
+
+
+
+   Some patients receiving topical ophthalmic gatifloxacin experienced hypersensitivity reactions including anaphylactic reactions, angioedema (including pharyngeal, laryngeal, or facial edema), dyspnea, urticaria, and itching, even following a single dose. Rare cases of Stevens-Johnson Syndrome were reported in association with topical ophthalmic gatifloxacin use. If an allergic reaction to gatifloxacin occurs, discontinue the drug [see Patient Counseling Information (     17     )]  .  
+
+
+
+     5.2        Growth of Resistant Organisms with Prolonged Use  
+
+
+
+  Prolonged use of ZYMAXID   (r)        may result in overgrowth of nonsusceptible organisms, including fungi. If superinfection occurs, discontinue use and institute alternative therapy.  Whenever clinical judgment dictates, examine the patient with the aid of magnification, such as slit lamp biomicroscopy and where appropriate, fluorescein staining.    
+
+
+
+     5.   3         Corneal Endothelial Cell Injury  
+
+
+
+  ZYMAXID   (r)        is for topical ophthalmic use.  ZYMAXID   (r)        may cause corneal endothelial cell injury if introduced directly into the anterior chamber of the eye. 
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="32" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="37" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="159" name="excerpt" section="S2" start="47" />
+    <IgnoredRegion len="25" name="heading" section="S2" start="213" />
+    <IgnoredRegion len="297" name="excerpt" section="S1" start="418" />
+    <IgnoredRegion len="53" name="heading" section="S1" start="719" />
+    <IgnoredRegion len="62" name="heading" section="S2" start="743" />
+    <IgnoredRegion len="49" name="heading" section="S2" start="1174" />
+    <IgnoredRegion len="42" name="heading" section="S1" start="1630" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

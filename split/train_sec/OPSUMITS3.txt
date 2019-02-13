@@ -1,0 +1,83 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Other ERAs cause hepatotoxicity and liver failure. Obtain baseline liver enzymes and monitor as clinically indicated (  5.3  ). 
+ *  Decreases in hemoglobin (  5.4  ). 
+ *  Pulmonary edema in patients with pulmonary veno-occlusive disease. If confirmed, discontinue treatment (  5.5  ). 
+ *  Decreases in sperm count have been observed in patients taking ERAs (  5.6  ). 
+    
+ 
+
+   5.1  Embryo≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  fetal≠I-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE 
+
+
+
+  OPSUMIT may cause  fetal≠B-OSE_Labeled_AE   harm≠I-OSE_Labeled_AE  when administered during  pregnancy≠B-Not_AE_Candidate  and is contraindicated for use in females who are  pregnant≠B-Not_AE_Candidate . In females of reproductive potential, exclude  pregnancy≠B-Not_AE_Candidate  prior to initiation of therapy, ensure use of acceptable contraceptive methods and obtain monthly pregnancy tests [see  Dosage and Administration (2.2)  and  Use in Specific Populations (8.1  ,  8.6)  ]  .
+
+
+
+ OPSUMIT is available for females through the OPSUMIT REMS Program, a restricted distribution program [see  Warnings and Precautions (5.2)  ]  .
+
+
+
+    5.2 OPSUMIT REMS Program
+
+
+
+  For all females, OPSUMIT is available only through a restricted program called the OPSUMIT REMS Program, because of the risk of  embryo≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  fetal≠I-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  [see  Contraindications (4.1)  ,  Warnings and Precautions (5.1)  , and  Use in Specific Populations (8.1  ,  8.6)  ]  .
+
+
+
+ Notable requirements of the OPSUMIT REMS Program include the following:
+
+
+
+ *  Prescribers must be certified with the program by enrolling and completing training. 
+ *  All females, regardless of reproductive potential, must enroll in the OPSUMIT REMS Program prior to initiating OPSUMIT. Male patients are not enrolled in the REMS. 
+ *  Females of reproductive potential must comply with the pregnancy testing and contraception requirements [see  Use in Specific Populations (8.6)  ] . 
+ *  Pharmacies must be certified with the program and must only dispense to patients who are authorized to receive OPSUMIT. 
+    Further information is available at www.OPSUMITREMS.com or 1-866-228-3546. Information on OPSUMIT certified pharmacies or wholesale distributors is available through Actelion Pathways at 1-866-228-3546.
+ 
+
+    5.3 Hepatotoxicity
+
+
+
+  Other ERAs have caused  elevations≠B-NonOSE_AE   of≠I-NonOSE_AE   aminotransferases≠I-NonOSE_AE ,  hepatotoxicity≠B-NonOSE_AE , and  liver≠B-NonOSE_AE   failure≠I-NonOSE_AE . The incidence of  elevated≠B-NonOSE_AE   aminotransferases≠I-NonOSE_AE  in the study of OPSUMIT in  PAH≠B-Not_AE_Candidate  is shown in Table 1.
+
+
+
+ Table 1 Incidence of  Elevated≠B-OSE_Labeled_AE   Aminotransferases≠I-OSE_Labeled_AE  in the SERAPHIN Study 
+                                           OPSUMIT 10 mg(N=242)                  Placebo(N=249)             
+  
+  >≠I-OSE_Labeled_AE 3 * ULN                                          3.4%                               4.5%                  
+ > 8≠I-OSE_Labeled_AE   *≠I-OSE_Labeled_AE   ULN≠I-OSE_Labeled_AE                                           2.1%                               0.4%                  
+         In the placebo-controlled study of OPSUMIT, discontinuations for  hepatic≠B-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  were 3.3% in the OPSUMIT 10 mg group vs. 1.6% for placebo. Obtain liver enzyme tests prior to initiation of OPSUMIT and repeat during treatment as clinically indicated.
+ 
+
+ Advise patients to report symptoms suggesting  hepatic≠B-NonOSE_AE   injury≠I-NonOSE_AE  ( nausea≠B-NonOSE_AE ,  vomiting≠B-NonOSE_AE ,  right≠B-NonOSE_AE   upper≠I-NonOSE_AE   quadrant≠I-NonOSE_AE   pain≠I-NonOSE_AE ,  fatigue≠B-NonOSE_AE ,  anorexia≠B-NonOSE_AE ,  jaundice≠B-NonOSE_AE ,  dark≠B-NonOSE_AE   urine≠I-NonOSE_AE ,  fever≠B-NonOSE_AE , or  itching≠B-NonOSE_AE ). If clinically relevant  aminotransferase≠B-NonOSE_AE   elevations≠I-NonOSE_AE  occur, or if elevations are accompanied by an  increase≠B-NonOSE_AE   in≠I-NonOSE_AE   bilirubin≠I-NonOSE_AE   >≠I-NonOSE_AE  2≠I-NonOSE_AE   *≠I-NonOSE_AE   ULN≠I-NonOSE_AE , or by clinical symptoms of  hepatotoxicity≠B-NonOSE_AE , discontinue OPSUMIT. Consider re-initiation of OPSUMIT when hepatic enzyme levels normalize in patients who have not experienced clinical symptoms of  hepatotoxicity≠B-NonOSE_AE .
+
+
+
+    5.4 Hemoglobin Decrease
+
+
+
+   Decreases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE   concentration≠I-OSE_Labeled_AE  and hematocrit have occurred following administration of other ERAs and were observed in clinical studies with OPSUMIT. These decreases occurred early and stabilized thereafter. In the placebo-controlled study of OPSUMIT in  PAH≠B-Not_AE_Candidate , OPSUMIT 10 mg caused a mean  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE  from baseline to up to 18 months of about 1.0 g/dL compared to no change in the placebo group. A  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE  to below 10.0 g/dL was reported in 8.7% of the OPSUMIT 10 mg group and in 3.4% of the placebo group.  Decreases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE  seldom require transfusion. Initiation of OPSUMIT is not recommended in patients with  severe≠B-Not_AE_Candidate   anemia≠I-Not_AE_Candidate . Measure hemoglobin prior to initiation of treatment and repeat during treatment as clinically indicated [see  Adverse Reactions (6.1)  ]  .
+
+
+
+    5.5 Pulmonary Edema with Pulmonary Veno-occlusive Disease (PVOD)
+
+
+
+  Should signs of  pulmonary≠B-NonOSE_AE   edema≠I-NonOSE_AE  occur, consider the possibility of associated  PVOD≠B-OSE_Labeled_AE . If confirmed, discontinue OPSUMIT.
+
+
+
+    5.6 Decreased Sperm Counts
+
+
+
+  Other ERAs have caused  adverse≠B-NonOSE_AE   effects≠I-NonOSE_AE   on≠I-NonOSE_AE   spermatogenesis≠I-NonOSE_AE . Counsel men about potential effects on fertility [see  Use in Specific Populations (8.6)  and  Nonclinical Toxicology (13.1)  ]  .

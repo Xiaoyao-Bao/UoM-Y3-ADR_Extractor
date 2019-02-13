@@ -1,0 +1,189 @@
+    6 ADVERSE REACTIONS
+
+  The following important adverse reactions are described below and elsewhere in labeling:
+
+
+
+ *   Serotonin≠B-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  or  NMS≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  like≠I-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [ see Warnings and Precautions (  5.1  ) ] 
+ *   Valvular≠B-OSE_Labeled_AE   Heart≠I-OSE_Labeled_AE   Disease≠I-OSE_Labeled_AE  [ see Warnings and Precautions (  5.2  ) ] 
+ *   Cognitive≠B-OSE_Labeled_AE   Impairment≠I-OSE_Labeled_AE  [ see Warnings and Precautions (  5.3  ) ] 
+ *   Psychiatric≠B-OSE_Labeled_AE   Disorders≠I-OSE_Labeled_AE  [ see Warnings and Precautions (  5.4  ) ] 
+ *   Hypoglycemia≠B-OSE_Labeled_AE  [ see Warnings and Precautions (  5.5  ) ] 
+ *   Heart≠B-OSE_Labeled_AE   Rate≠I-OSE_Labeled_AE   Decreases≠I-OSE_Labeled_AE  [ see Warnings and Precautions (  5.7  ) ] 
+ *   Hematological≠B-OSE_Labeled_AE   Changes≠I-OSE_Labeled_AE  [ see Warnings and Precautions (  5.8  ) ] 
+ *   Prolactin≠B-OSE_Labeled_AE   Elevation≠I-OSE_Labeled_AE  [ see Warnings and Precautions (  5.9  ) ] 
+      EXCERPT:   Most common adverse reactions (greater than 5%) in non-diabetic patients are headache, dizziness, fatigue, nausea, dry mouth, and constipation, and in diabetic patients are hypoglycemia, headache, back pain, cough, and fatigue. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Eisai Inc. at 1-888-274-2378 or FDA at 1-800-FDA-1088 or at      www.fda.gov/medwatch    .
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  In the BELVIQ placebo-controlled clinical database of trials of at least one year in duration, of 6888 patients (3451 BELVIQ vs. 3437 placebo; age range 18-66 years, 79.3% women, 66.6% Caucasians, 19.2% Blacks, 11.8% Hispanics, 2.4% other, 7.4% type 2  diabetics≠B-Not_AE_Candidate ), a total of 1969 patients were exposed to BELVIQ 10 mg twice daily for 1 year and 426 patients were exposed for 2 years.
+
+
+
+ In clinical trials of at least one year in duration, 8.6% of patients treated with BELVIQ prematurely discontinued treatment due to adverse reactions, compared with 6.7% of placebo-treated patients. The most common adverse reactions leading to discontinuation more often among BELVIQ treated patients than placebo were  headache≠B-OSE_Labeled_AE  (1.3% vs. 0.8%),  depression≠B-OSE_Labeled_AE  (0.9% vs. 0.5%) and  dizziness≠B-OSE_Labeled_AE  (0.7% vs. 0.2%).
+
+
+
+       Most Common Adverse Reactions  
+
+
+
+ Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The most common adverse reactions for non-diabetic patients (greater than 5% and more commonly than placebo) treated with BELVIQ compared to placebo were  headache≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE , and  constipation≠B-OSE_Labeled_AE . The most common adverse reactions for diabetic patients were  hypoglycemia≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  cough≠B-OSE_Labeled_AE , and  fatigue≠B-OSE_Labeled_AE . Adverse reactions that were reported by greater than or equal to 2% of patients and were more frequently reported by patients taking BELVIQ compared to placebo are summarized in Table 2 (non-diabetic subjects) and Table 3 (subjects with type 2 diabetes mellitus).
+
+
+
+ Table 2. Adverse Reactions Reported by Greater Than or Equal to 2% of BELVIQ Patients and More Commonly than with Placebo in Patients without Diabetes Mellitus 
+    Adverse Reaction                                              Number of patients (%)     
+    BELVIQ    10 mg BID    N=3195                                 Placebo    N=3185     
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                
+        Nausea≠B-OSE_Labeled_AE                                                     264 (8.3)             170 (5.3)            
+        Diarrhea≠B-OSE_Labeled_AE                                                   207 (6.5)             179 (5.6)            
+        Constipation≠B-OSE_Labeled_AE                                               186 (5.8)             125 (3.9)            
+        Dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE                                                  169 (5.3)             74 (2.3)             
+        Vomiting≠B-OSE_Labeled_AE                                                   122 (3.8)             83 (2.6)             
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE   And≠I-NonOSE_AE   Administration≠I-NonOSE_AE   Site≠I-NonOSE_AE   Conditions≠I-NonOSE_AE                                                      
+        Fatigue≠B-OSE_Labeled_AE                                                    229 (7.2)             114 (3.6)            
+    Infections≠B-NonOSE_AE  And Infestations                                                                              
+        Upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE                          439 (13.7)            391 (12.3)           
+        Nasopharyngitis≠B-OSE_Labeled_AE                                            414 (13.0)            381 (12.0)           
+        Urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE                                    207 (6.5)             171 (5.4)            
+    Musculoskeletal≠B-NonOSE_AE  And Connective Tissue  Disorders≠I-NonOSE_AE                                                           
+        Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                                  201 (6.3)             178 (5.6)            
+        Musculoskeletal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                       65 (2.0)              43 (1.4)             
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                  
+        Headache≠B-OSE_Labeled_AE                                                   537 (16.8)            321 (10.1)           
+        Dizziness≠B-OSE_Labeled_AE                                                  270 (8.5)             122 (3.8)            
+    Respiratory≠B-NonOSE_AE , Thoracic And Mediastinal  Disorders≠I-NonOSE_AE                                                           
+        Cough≠B-OSE_Labeled_AE                                                      136 (4.3)             109 (3.4)            
+        Oropharyngeal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                         111 (3.5)             80 (2.5)             
+        Sinus≠B-OSE_Labeled_AE   congestion≠I-OSE_Labeled_AE                                           93 (2.9)              78 (2.4)             
+    Skin≠B-NonOSE_AE   And≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                    
+        Rash≠B-OSE_Labeled_AE                                                       67 (2.1)              58 (1.8)             
+        Table 3. Adverse Reactions Reported by Greater Than or Equal to 2% of BELVIQ Patients and More Commonly than with Placebo in Patients with Type 2 Diabetes Mellitus 
+                                                                  Number of patients (%)     
+    Adverse Reaction                                              BELVIQ    10 mg BID    N=256       Placebo    N=252     
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                
+        Nausea≠B-OSE_Labeled_AE                                                     24 (9.4)              20 (7.9)             
+        Toothache≠B-OSE_Labeled_AE                                                  7 (2.7)               0                    
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE   And≠I-NonOSE_AE   Administration≠I-NonOSE_AE   Site≠I-NonOSE_AE   Conditions≠I-NonOSE_AE                                                      
+        Fatigue≠B-OSE_Labeled_AE                                                    19 (7.4)              10 (4.0)             
+        Peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE                                           12 (4.7)              6 (2.4)              
+    Immune≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                   
+        Seasonal≠B-OSE_Labeled_AE   allergy≠I-OSE_Labeled_AE                                           8 (3.1)               2 (0.8)              
+    Infections≠B-NonOSE_AE  And Infestations                                                                              
+        Nasopharyngitis≠B-OSE_Labeled_AE                                            29 (11.3)             25 (9.9)             
+        Urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE                                    23 (9.0)              15 (6.0)             
+        Gastroenteritis≠B-OSE_Labeled_AE                                            8 (3.1)               5 (2.0)              
+    Metabolism≠B-NonOSE_AE   And≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                        
+        Hypoglycemia≠B-OSE_Labeled_AE                                               75 (29.3)             53 (21.0)            
+        Worsening≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   diabetes≠I-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE                             7 (2.7)               2 (0.8)              
+        Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE                                         6 (2.3)               1 (0.4)              
+    Musculoskeletal≠B-NonOSE_AE  And Connective Tissue  Disorders≠I-NonOSE_AE                                                           
+        Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                                  30 (11.7)             20 (7.9)             
+        Muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE                                              12 (4.7)              9 (3.6)              
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                  
+        Headache≠B-OSE_Labeled_AE                                                   37 (14.5)             18 (7.1)             
+        Dizziness≠B-OSE_Labeled_AE                                                  18 (7.0)              16 (6.3)             
+    Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                     
+        Anxiety≠B-OSE_Labeled_AE                                                    9 (3.5)               8 (3.2)              
+        Insomnia≠B-OSE_Labeled_AE                                                   9 (3.5)               6 (2.4)              
+        Stress≠B-OSE_Labeled_AE                                                     7 (2.7)               3 (1.2)              
+        Depression≠B-OSE_Labeled_AE                                                 6 (2.3)               5 (2.0)              
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE   And≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                           
+        Cough≠B-OSE_Labeled_AE                                                      21 (8.2)              11 (4.4)             
+    Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                        
+        Hypertension≠B-OSE_Labeled_AE                                               13 (5.1)              8 (3.2)              
+               Other Adverse Reactions  
+ 
+
+   Serotonin-associated Adverse Reactions  
+
+
+
+ SSRIs, SNRIs, bupropion, tricyclic antidepressants, and MAOIs were excluded from the BELVIQ trials. Triptans and dextromethorphan were permitted: 2% and 15%, respectively, of patients without diabetes and 1% and 12%, respectively, of patients with type 2 diabetes experienced concomitant use at some point during the trials. Two patients treated with BELVIQ in the clinical program experienced a constellation of symptoms and signs consistent with  serotonergic≠B-OSE_Labeled_AE   excess≠I-OSE_Labeled_AE , including one patient on concomitant dextromethorphan who reported an event of  serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE . Some symptoms of possible serotonergic etiology that are included in the criteria for  serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE  were reported by patients treated with BELVIQ and placebo during clinical trials of at least 1 year in duration. In both groups,  chills≠B-OSE_Labeled_AE  were the most frequent of these events (1.0% vs. 0.2%, respectively), followed by  tremor≠B-OSE_Labeled_AE  (0.3% vs. 0.2%),  confusional≠B-OSE_Labeled_AE   state≠I-OSE_Labeled_AE  (0.2% vs. less than 0.1%),  disorientation≠B-OSE_Labeled_AE  (0.1% vs. 0.1%) and  hyperhidrosis≠B-OSE_Labeled_AE  (0.1% vs. 0.2%). Because  serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE  has a very low incidence, an association between BELVIQ and  serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE  cannot be excluded on the basis of clinical trial results [  see Warnings and Precautions (  5.1  )  ].
+
+
+
+   Hypoglycemia in Patients with Type 2 Diabetes  
+
+
+
+ In a clinical trial of patients with  type≠B-Not_AE_Candidate   2≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate ,  hypoglycemia≠B-OSE_Labeled_AE  requiring the assistance of another person occurred in 4 (1.6%) of BELVIQ-treated patients and in 1 (0.4%) placebo-treated patient. Of these 4 BELVIQ-treated patients, all were concomitantly using a sulfonylurea (with or without metformin). BELVIQ has not been studied in patients taking insulin.  Hypoglycemia≠B-OSE_Labeled_AE  defined as  blood≠B-NonOSE_AE   sugar≠I-NonOSE_AE   less≠I-NonOSE_AE   than≠I-NonOSE_AE   or≠I-NonOSE_AE   equal≠I-NonOSE_AE   to≠I-NonOSE_AE   6≠I-NonOSE_AE  5≠I-NonOSE_AE   mg≠I-NonOSE_AE  /≠I-NonOSE_AE  dL≠I-NonOSE_AE   and≠I-NonOSE_AE   with≠I-NonOSE_AE   symptoms≠I-NonOSE_AE  occurred in 19 (7.4%) BELVIQ-treated patients and 16 (6.3%) placebo-treated patients.
+
+
+
+   Cognitive Impairment  
+
+
+
+ In clinical trials of at least 1-year duration, adverse reactions related to  cognitive≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE  (e.g.,  difficulty≠B-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   concentration≠I-OSE_Labeled_AE /attention,  difficulty≠B-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   memory≠I-OSE_Labeled_AE , and  confusion≠B-OSE_Labeled_AE ) occurred in 2.3% of patients taking BELVIQ and 0.7% of patients taking placebo.
+
+
+
+   Psychiatric Disorders  
+
+
+
+  Psychiatric≠B-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE  leading to hospitalization or drug withdrawal occurred more frequently in patients treated with BELVIQ (2.2%) as compared to placebo (1.1%) in non-diabetic patients.
+
+
+
+    Euphoria≠B-OSE_Labeled_AE .  In short-term studies with healthy individuals, the incidence of  euphoric≠B-NonOSE_AE   mood≠I-NonOSE_AE  following supratherapeutic doses of BELVIQ (40 and 60 mg) was increased as compared to placebo [  see Drug Abuse and Dependence (  9.2  )  ]. In clinical trials of at least 1-year duration in  obese≠B-Not_AE_Candidate  patients,  euphoria≠B-OSE_Labeled_AE  was observed in 0.17% of patients taking BELVIQ and 0.03% taking placebo.
+
+
+
+    Depression≠B-OSE_Labeled_AE  and  Suicidality≠B-OSE_Labeled_AE .  In trials of at least one year in duration, reports of  depression≠B-OSE_Labeled_AE / mood≠B-OSE_Labeled_AE   problems≠I-OSE_Labeled_AE  occurred in 2.6% BELVIQ-treated vs. 2.4% placebo-treated and  suicidal≠B-OSE_Labeled_AE   ideation≠I-OSE_Labeled_AE  occurred in 0.6% BELVIQ-treated vs. 0.4% placebo-treated patients. 1.3% of BELVIQ patients vs. 0.6% of placebo patients discontinued drug due to  depression≠B-OSE_Labeled_AE -,  mood≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE , or suicidal ideation- related≠I-OSE_Label ed≠B-OSE_Labeled_AE  _≠I-OSE_Labeled_AE  AE≠I-OSE_Labeled_AE     events≠I-OSE_Labeled_AE  ≠≠I-OSE_Labeled_AE  I≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE OSE_Labeled_AE .
+
+
+
+   Laboratory Abnormalities  
+
+
+
+   Lymphocyte and Neutrophil Counts.  In clinical trials of at least 1-year duration,  lymphocyte≠B-OSE_Labeled_AE   counts≠I-OSE_Labeled_AE  were  below≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   lower≠I-OSE_Labeled_AE   limit≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   normal≠I-OSE_Labeled_AE  in 12.2% of patients taking BELVIQ and 9.0% taking placebo, and  neutrophil≠B-OSE_Labeled_AE   counts≠I-OSE_Labeled_AE   were≠I-OSE_Labeled_AE   low≠I-OSE_Labeled_AE  in 5.6% and 4.3%, respectively.
+
+
+
+   Hemoglobin.  In clinical trials of at least 1-year duration, 10.4% of patients taking BELVIQ and 9.3% taking placebo had  hemoglobin≠B-OSE_Labeled_AE   below≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   lower≠I-OSE_Labeled_AE   limit≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   normal≠I-OSE_Labeled_AE  at some point during the trials.
+
+
+
+   Prolactin.  In clinical trials,  elevations≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   prolactin≠I-OSE_Labeled_AE  greater than the upper limit of normal, two times the upper limit of normal, and five times the upper limit of normal, occurred in 6.7%, 1.7%, and 0.1% of BELVIQ-treated patients and 4.8%, 0.8%, and 0.0% of placebo-treated patients, respectively.
+
+
+
+   Eye disorders  .
+
+
+
+ More patients on BELVIQ reported an  eye≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE  than patients on placebo in clinical trials of patients without  diabetes≠B-Not_AE_Candidate  (4.5% vs. 3.0%) and with  type≠B-Not_AE_Candidate   2≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate  (6.3% vs. 1.6%). In the population without  diabetes≠B-Not_AE_Candidate , events of  blurred≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   eye≠I-OSE_Labeled_AE , and  visual≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE  occurred in BELVIQ-treated patients at an incidence greater than that of placebo. In the population with  type≠B-Not_AE_Candidate   2≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate ,  visual≠B-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE ,  conjunctival≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE , irritations, and inflammations,  ocular≠B-OSE_Labeled_AE   sensation≠I-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE , and  cataract≠B-OSE_Labeled_AE   conditions≠I-OSE_Labeled_AE  occurred in BELVIQ-treated patients at an incidence greater than placebo.
+
+
+
+       Echocardiographic Safety Assessments  
+
+
+
+ The possible occurrence of  regurgitant≠B-NonOSE_AE   cardiac≠I-NonOSE_AE   valve≠I-NonOSE_AE   disease≠I-NonOSE_AE  was prospectively evaluated in 7794 patients in three clinical trials of at least one year in duration, 3451 of whom took BELVIQ 10 mg twice daily. The primary echocardiographic safety parameter was the proportion of patients who developed echocardiographic criteria of mild or greater  aortic≠B-NonOSE_AE   insufficiency≠I-NonOSE_AE  and/or moderate or greater  mitral≠B-NonOSE_AE   insufficiency≠I-NonOSE_AE  from baseline to 1 year. At 1 year, 2.4% of patients who received BELVIQ and 2.0% of patients who received placebo developed  valvular≠B-OSE_Labeled_AE   regurgitation≠I-OSE_Labeled_AE . The relative risk for  valvulopathy≠B-OSE_Labeled_AE  with BELVIQ is summarized in Table 4. BELVIQ was not studied in patients with  congestive≠B-Not_AE_Candidate   heart≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate  or hemodynamically-significant  valvular≠B-Not_AE_Candidate   heart≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  [  see Warnings and Precautions (  5.2  )  ].
+
+
+
+ Table 4. Incidence of FDA-Defined Valvulopathy at Week 52 by Treatment Group1 
+    1  Patients without valvulopathy at baseline who received study medication and had a post-baseline echocardiogram; ITT-intention-to-treat; LOCF-last observation carried forward   
+  
+                                  Study 1       Study 2       Study 3     
+                                  BELVIQ    N=1278       Placebo    N=1191       BELVIQ    N=1208       Placebo    N=1153       BELVIQ    N=210       Placebo    N=209     
+    FDA-defined  Valvulopathy≠B-OSE_Labeled_AE , n (%)      34 (2.7)      28 (2.4)      24 (2.0)      23 (2.0)      6 (2.9)       1 (0.5)      
+    Relative Risk (95% CI)       1.13 (0.69, 1.85)    1.00 (0.57, 1.75)    5.97 (0.73, 49.17)   
+    Pooled RR (95% CI)            1.16 (0.81, 1.67)     

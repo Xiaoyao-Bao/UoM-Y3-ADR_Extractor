@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PEPCID_COMPLETE">
+  <Text>
+    <Section id="S1" name="warnings">    Warnings
+
+
+
+   Allergy alert
+
+
+
+  Do not use if you are allergic to famotidine or other acid reducers
+
+
+
+    Do not use
+
+
+
+    *  if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. 
+ *  with other acid reducers 
+       Ask a doctor before use if you have
+ 
+
+    *  had heartburn over 3 months. This may be a sign of a more serious condition. 
+ *  heartburn with lightheadedness, sweating, or dizziness  
+ *  chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness 
+ *  frequent chest pain  
+ *  frequent wheezing, particularly with heartburn 
+ *  unexplained weight loss 
+ *  nausea or vomiting 
+ *  stomach pain 
+       Ask a doctor or pharmacist before use if you are  presently taking a prescription drug. Antacids may interact with certain prescription drugs.
+ 
+
+    Stop use and ask a doctor if
+
+
+
+    *  your heartburn continues or worsens 
+ *  you need to take this product for more than 14 days 
+       If pregnant or breast-feeding,  ask a health professional before use.
+ 
+
+    Keep out of reach of children.  In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="8" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="13" name="heading" section="S1" start="19" />
+    <IgnoredRegion len="10" name="heading" section="S1" start="113" />
+    <IgnoredRegion len="35" name="heading" section="S1" start="325" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="947" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

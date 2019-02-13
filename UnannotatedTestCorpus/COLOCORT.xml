@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="COLOCORT">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Local pain or burning, and rectal bleeding attributed to hydrocortisone rectal suspension have been reported rarely. Apparent exacerbations or sensitivity reactions also occur rarely. The following adverse reactions should be kept in mind whenever corticosteroids are given by rectal administration.
+
+
+
+   Fluid and Electrolyte Disturbances:  Sodium retention; fluid retention; congestive heart failure in susceptible patients; potassium loss; hypokalemic alkalosis; hypertension.  Musculoskeletal:  Muscle weakness; steroid myopathy; loss of muscle mass; osteoporosis; vertebral compression fractures; asceptic necrosis of femoral and humeral heads; pathologic fracture of long bones.  Gastrointestinal:  Peptic ulcer with possible perforation and hemorrhage; pancreatitis; abdominal distention; ulcerative esophagitis.  Dermatologic:  Impaired wound healing; thin fragile skin; petechiae and ecchymoses; facial erythema; increased sweating; may suppress reactions to skin tests.  Neurological:  Convulsions; increased intracranial pressure with papilledema (pseudo-tumor cerebri) usually after treatment; vertigo; headache.  Endocrine:  Menstrual irregularities; development of Cushingoid state; suppression of growth in pediatric patients; secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery or illness, decreased carbohydrate tolerance; manifestations of latent diabetes requirements for insulin or oral hypoglycemic agents in diabetics.  Ophthalmic:  Posterior subcapsular cataracts; increased intraocular pressure; glaucoma; exophthalmos.  Metabolic:  Negative nitrogen balance due to protein catabolism.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General:
+
+
+
+  Colocort(r) Hydrocortisone Rectal Suspension, USP should be used with caution where there is a probability of impending perforation, abscess or other pyogenic infection; fresh intestinal anastomoses; obstruction; or extensive fistulas and sinus tracts. Use with caution in presence of active or latent peptic ulcer; diverticulitis; renal insufficiency; hypertension; osteoporosis; and myasthenia gravis.
+
+
+
+ Steroid therapy might impair prognosis in surgery by increasing the hazard of infection. If infection is suspected, appropriate antibiotic therapy must be administered, usually in larger than ordinary doses.
+
+
+
+ Drug-induced secondary adrenocortical insufficiency may occur with prolonged Colocort(r) therapy. This is minimized by gradual reduction of dosage. This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted. Since mineralocorticoid secretion may be impaired, salt and/or a mineralocorticoid should be administered concurrently.
+
+
+
+ There is an enhanced effect of corticosteroids on patients with hypothyroidism and in those with cirrhosis.
+
+
+
+ Corticosteroid should be used cautiously in patients with ocular herpes simplex because of possible corneal perforation.
+
+
+
+ The lowest possible dose of corticosteroid should be used to control the conditions under treatment, and when reduction in dosage is possible, the reduction should be gradual.
+
+
+
+ Psychic derangement may appear when corticosteroids are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression, to frank psychotic manifestations. Also, existing emotional instability or psychotic tendencies may be aggravated by corticosteroids.
+
+
+
+ Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
+
+
+
+    Pediatric Use:
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+
+
+
+ Growth and development of pediatric patients on prolonged corticosteroid therapy should be carefully observed.
+
+
+
+    Information for Patients:
+
+
+
+  Persons who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chicken pox or measles. Patients should also be advised that if they are exposed, medical advice should be sought without delay.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  In severe ulcerative colitis, it is hazardous to delay needed surgery while awaiting response to medical treatment.
+
+
+
+ Damage to the rectal wall can result from careless or improper insertion of an enema tip.
+
+
+
+ In patients on corticosteroid therapy subjected to unusual stress, increased dosage of rapidly acting corticosteroids before, during, and after the stressful situation is indicated.
+
+
+
+ Corticosteroids may mask some signs of infection, and new infections may appear during their use. There may be decreased resistance and inability to localize infection when corticosteroids are used.
+
+
+
+ Prolonged use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to fungi or viruses.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="1937" />
+    <IgnoredRegion len="25" name="heading" section="S2" start="2153" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

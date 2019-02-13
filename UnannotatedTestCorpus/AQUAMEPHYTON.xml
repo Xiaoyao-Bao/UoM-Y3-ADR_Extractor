@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="AQUAMEPHYTON">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described elsewhere in the labeling:
+
+
+
+ *  Hypersensitivity Reactions [see   WARNINGS AND PRECAUTIONS   (5.1)]  
+ *  Cutaneous Reactions [see   WARNINGS AND PRECAUTIONS   (5.3)]  
+   *  Most common adverse reactions are cyanosis, diaphoresis, dizziness, dysgeusia, dyspnea, flushing, hypotension and tachycardia. (  6  ) 
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact Teligent Pharma, Inc. at 1-856-697-1441, or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    .  
+ 
+
+ 
+
+  6.1 Clinical Trials and Post Marketing Experience
+
+  The following adverse reactions associated with the use of AquaMEPHYTON were identified in clinical studies or postmarketing reports. Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.Cardiac Disorders: Tachycardia, hypotensionGeneral disorders and administration site conditions: Generalized flushing pain, swelling and tenderness at injection site.Hepatobiliary Disorders: HyperbilirubinemiaImmune System Disorders: Fatal hypersensitivity reactions, anaphylactic reactions.Neurologic: Dysgeusia, dizzinessPulmonary: DyspneaSkin and Subcutaneous: Tissue Disorders: Erythema, pruritic plaques, scleroderma-like-lesions, erythema perstans.Vascular: Cyanosis.
+</Section>
+    <Section id="S2" name="boxed warnings">
+
+    BOXED WARNING: WARNING - HYPERSENSITIVITY REACTIONS WITH INTRAVENOUS AND INTRAMUSCULAR USE
+
+    WARNING - HYPERSENSITIVITY REACTIONS WITH INTRAVENOUS AND INTRAMUSCULAR USE  
+
+    Fatal hypersensitivity reactions, including anaphylaxis, have occurred during and immediately after intravenous and intramuscular injection of AquaMEPHYTON. Reactions have occurred despite dilution to avoid rapid intravenous infusion and upon first dose. Avoid the intravenous and intramuscular routes of administration unless the subcutaneous route is not feasible and the serious risk is justified   [see       WARNINGS AND PRECAUTIONS       (5.1)]  .  
+
+
+
+   EXCERPT:     WARNING - HYPERSENSITIVITY REACTIONS WITH INTRAVENOUS AND INTRAMUSCULAR USE      See full prescribing information for complete boxed warning.    
+
+
+
+   Fatal hypersensitivity reactions, including anaphylaxis, have occurred during and immediately after INTRAVENOUS and INTRAMUSCULAR injection of AquaMEPHYTON. Reactions have occurred despite dilution to avoid rapid infusion and upon first and subsequent doses. Avoid the intravenous and intramuscular routes of administration unless the subcutaneous route is not feasible and the serious risk is justified. (  5.1  )   
+
+
+
+ 
+</Section>
+    <Section id="S3" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+     EXCERPT:    *  Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative: Use benzyl alcohol-free formulations in neonates and infants, if available. (  5.2  ) 
+ *  Cutaneous Reactions: May occur with parenteral use. Discontinue drug and manage medically. (  5.3  ) 
+    
+ 
+
+    5.1 Hypersensitivity Reactions  
+
+
+
+   Fatal and severe hypersensitivity reactions, including anaphylaxis, have occurred with intravenous or intramuscular administration of AquaMEPHYTON. Reactions have occurred despite dilution to avoid rapid intravenous infusion and upon first dose. These reactions have included shock, cardiorespiratory arrest, flushing, diaphoresis, chest pain, tachycardia, cyanosis, weakness, and dyspnea. Administer AquaMEPHYTON subcutaneously whenever feasible. Avoid the intravenous and intramuscular routes of administration unless the subcutaneous route is not feasible and the serious risk is justified [see    DOSAGE AND ADMINISTRATION   (2)].    
+ 
+
+     5.2 Risk of Serious Adverse Reaction in Infants due to Benzyl Alcohol Preservative  
+
+
+
+  Use benzyl alcohol-free formulations in neonates and infants, if available. Serious and fatal adverse reactions including "gasping syndrome" can occur in neonates and infants treated with benzyl alcohol-preserved drugs, including AquaMEPHYTON. The "gasping syndrome" is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
+
+
+
+ When prescribing AquaMEPHYTON in infants, consider the combined daily metabolic load of benzyl alcohol from all sources including AquaMEPHYTON (contains 9 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol.  The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see    USE IN SPECIFIC POPULATIONS   (8.1, 8.2 and 8.4)].  
+
+
+
+      5.3 Cutaneous Reactions    
+
+
+
+  Parenteral administration of vitamin K replacements (including AquaMEPHYTON) may cause cutaneous reactions. Reactions have included eczematous reactions, scleroderma-like patches, urticaria, and delayed-type hypersensitivity reactions.  Time of onset ranged from 1 day to a year after parenteral administration. Discontinue AquaMEPHYTON for skin reactions and institute medical management. 
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="294" name="excerpt" section="S3" start="38" />
+    <IgnoredRegion len="79" name="heading" section="S2" start="100" />
+    <IgnoredRegion len="33" name="heading" section="S3" start="339" />
+    <IgnoredRegion len="165" name="excerpt" section="S1" start="399" />
+    <IgnoredRegion len="49" name="heading" section="S1" start="568" />
+    <IgnoredRegion len="588" name="excerpt" section="S2" start="646" />
+    <IgnoredRegion len="85" name="heading" section="S3" start="1025" />
+    <IgnoredRegion len="29" name="heading" section="S3" start="1879" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

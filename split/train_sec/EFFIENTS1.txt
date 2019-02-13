@@ -1,0 +1,137 @@
+    6 ADVERSE REACTIONS
+
+  EXCERPT:   Bleeding, including life-threatening and fatal bleeding, is the most commonly reported adverse reaction (  6.1  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Eli Lilly and Company at 1-800-545-5979 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  The following serious adverse reactions are also discussed elsewhere in the labeling:
+
+
+
+ *     Bleeding≠B-OSE_Labeled_AE  [see  Boxed Warning  and Warnings and Precautions (  5.1  ,  5.2  )]  
+ *     Thrombotic≠B-OSE_Labeled_AE   thrombocytopenic≠I-OSE_Labeled_AE   purpura≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.4  )]  
+    Safety in patients with  ACS≠B-Not_AE_Candidate  undergoing PCI was evaluated in a clopidogrel-controlled study, TRITON-TIMI 38, in which 6741 patients were treated with Effient (60-mg loading dose and 10-mg once daily) for a median of 14.5 months (5802 patients were treated for over 6 months; 4136 patients were treated for more than 1 year). The population treated with Effient was 27 to 96 years of age, 25% female, and 92% Caucasian. All patients in the TRITON-TIMI 38 study were to receive aspirin. The dose of clopidogrel in this study was a 300-mg loading dose and 75-mg once daily.
+ 
+
+ Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials cannot be directly compared with the rates observed in other clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+     Drug Discontinuation  
+
+
+
+ The rate of study drug discontinuation because of adverse reactions was 7.2% for Effient and 6.3% for clopidogrel.  Bleeding≠B-OSE_Labeled_AE  was the most common adverse reaction leading to study drug discontinuation for both drugs (2.5% for Effient and 1.4% for clopidogrel).
+
+
+
+     Bleeding  
+
+
+
+      Bleeding≠B-NonOSE_AE  Unrelated to CABG Surgery  - In TRITON-TIMI 38, overall rates of TIMI Major or Minor  bleeding≠B-OSE_Labeled_AE  adverse reactions unrelated to coronary artery bypass graft surgery (CABG) were significantly higher on Effient than on clopidogrel, as shown in  Table 1  .
+
+
+
+ Table 1: Non-CABG-Related Bleedinga (TRITON-TIMI 38) 
+   a  Patients may be counted in more than one row.  b  See 5.1 for definition.   
+  
+                                               Effient(%)(N=6741)             Clopidogrel(%)(N=6716)       
+  TIMI Major or Minor  bleeding≠B-OSE_Labeled_AE                  4.5                            3.4                          
+  TIMI Major  bleeding≠B-OSE_Labeled_AE b                         2.2                            1.7                          
+      Life-threatening                         1.3                            0.8                          
+             Fatal≠B-NonOSE_AE                               0.3                            0.1                          
+            Symptomatic  intracranial≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  ICH≠I-OSE_Labeled_AE )    0.3                            0.3                          
+            Requiring inotropes                0.3                            0.1                          
+            Requiring surgical intervention    0.3                            0.3                          
+            Requiring transfusion (>=4 units)    0.7                            0.5                          
+  TIMI Minor  bleeding≠B-OSE_Labeled_AE b                         2.4                            1.9                          
+           Figure 1  demonstrates non-CABG related TIMI Major or Minor  bleeding≠B-NonOSE_AE . The  bleeding≠B-NonOSE_AE  rate is highest initially, as shown in  Figure 1  (inset: Days 0 to 7)  [see Warnings and Precautions (  5.1  )]  .
+ 
+
+    Bleeding≠B-NonOSE_AE  by Weight and Age  - In TRITON-TIMI 38, non-CABG-related TIMI Major or Minor  bleeding≠B-NonOSE_AE  rates in patients with the risk factors of age >=75 years and weight <60 kg are shown in  Table 2  .
+
+
+
+ Table 2:  Bleeding≠B-OSE_Labeled_AE  Rates for Non-CABG-Related Bleeding by Weight and Age (TRITON-TIMI 38) 
+   a  10-mg Effient maintenance dose   
+   b  75-mg clopidogrel maintenance dose   
+  
+                                    Major/Minor                      Fatal          
+  Effienta(%)                       Clopidogrelb(%)                  Effienta(%)    Clopidogrelb(%)    
+  Weight <60 kg (N=308 Effient, N=356 clopidogrel)    10.1                             6.5            0.0          0.3            
+  Weight >=60 kg (N=6373 Effient, N=6299 clopidogrel)    4.2                              3.3            0.3          0.1            
+  Age <75 years (N=5850 Effient, N=5822 clopidogrel)    3.8                              2.9            0.2          0.1            
+  Age >=75 years (N=891 Effient, N=894 clopidogrel)    9.0                              6.9            1.0          0.1            
+                Bleeding≠B-NonOSE_AE  Related to CABG  - In TRITON-TIMI 38, 437 patients who received a thienopyridine underwent CABG during the course of the study. The rate of CABG-related TIMI Major or Minor  bleeding≠B-OSE_Labeled_AE  was 14.1% for the Effient group and 4.5% in the clopidogrel group (  see    Table 3  ). The higher risk for  bleeding≠B-OSE_Labeled_AE  adverse reactions in patients treated with Effient persisted up to 7 days from the most recent dose of study drug.
+ 
+
+ Table 3: CABG-Related Bleedinga (TRITON-TIMI 38) 
+   a  Patients may be counted in more than one row.   
+  
+                                            Effient (%)(N=213)             Clopidogrel (%)(N=224)           
+  TIMI Major or Minor  bleeding≠B-OSE_Labeled_AE               14.1                           4.5                              
+  TIMI Major  bleeding≠B-OSE_Labeled_AE                        11.3                           3.6                              
+             Fatal≠B-NonOSE_AE                            0.9                            0                                
+            Reoperation                     3.8                            0.5                              
+            Transfusion of >=5 units        6.6                            2.2                              
+             Intracranial≠B-NonOSE_AE   hemorrhage≠I-NonOSE_AE          0                              0                                
+  TIMI Minor  bleeding≠B-OSE_Labeled_AE                        2.8                            0.9                              
+              Bleeding≠B-NonOSE_AE  Reported as Adverse Reactions  -  Hemorrhagic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  reported as adverse reactions in TRITON-TIMI 38 were, for Effient and clopidogrel, respectively:  epistaxis≠B-OSE_Labeled_AE  (6.2%, 3.3%),  gastrointestinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  (1.5%, 1.0%),  hemoptysis≠B-OSE_Labeled_AE  (0.6%, 0.5%),  subcutaneous≠B-OSE_Labeled_AE   hematoma≠I-OSE_Labeled_AE  (0.5%, 0.2%),  post≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  procedural≠I-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  (0.5%, 0.2%),  retroperitoneal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  (0.3%, 0.2%),  pericardial≠B-OSE_Labeled_AE   effusion≠I-OSE_Labeled_AE / hemorrhage≠B-OSE_Labeled_AE /tamponade (0.3%, 0.2%), and  retinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  (0.0%, 0.1%).
+ 
+
+     Malignancies  
+
+
+
+ During TRITON-TIMI 38, newly-diagnosed  malignancies≠B-OSE_Labeled_AE  were reported in 1.6% and 1.2% of patients treated with prasugrel and clopidogrel, respectively. The sites contributing to the differences were primarily  colon≠I-OSE_Labeled_AE  and lung. In another Phase 3 clinical study of  ACS≠B-Not_AE_Candidate  patients not undergoing PCI, in which data for  malignancies≠B-NonOSE_AE  were prospectively collected, newly-diagnosed  malignancies≠B-NonOSE_AE  were reported in 1.8% and 1.7% of patients treated with prasugrel and clopidogrel, respectively. The site of  malignancies≠B-NonOSE_AE  was balanced between treatment groups except for  colorectal≠B-NonOSE_AE   malignancies≠I-NonOSE_AE . The rates of  colorectal≠B-OSE_Labeled_AE   malignancies≠I-OSE_Labeled_AE  were 0.3% prasugrel, 0.1% clopidogrel and most were detected during investigation of  GI≠B-Not_AE_Candidate   bleed≠I-Not_AE_Candidate  or  anemia≠B-Not_AE_Candidate . It is unclear if these observations are causally-related, are the result of increased detection because of  bleeding≠B-NonOSE_AE , or are random occurrences.
+
+
+
+     Other Adverse Events  
+
+
+
+ In TRITON-TIMI 38, common and other important  non≠B-NonOSE_AE  -≠I-NonOSE_AE  hemorrhagic≠I-NonOSE_AE   adverse≠I-NonOSE_AE   events≠I-NonOSE_AE  were, for Effient and clopidogrel, respectively: severe  thrombocytopenia≠B-OSE_Labeled_AE  (0.06%, 0.04%),  anemia≠B-OSE_Labeled_AE  (2.2%, 2.0%),  abnormal≠B-OSE_Labeled_AE   hepatic≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE  (0.22%, 0.27%),  allergic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (0.36%, 0.36%), and  angioedema≠B-OSE_Labeled_AE  (0.06%, 0.04%).  Table 4  summarizes the adverse events reported by at least 2.5% of patients.
+
+
+
+ Table 4: Non-Hemorrhagic Treatment Emergent Adverse Events Reported by at Least 2.5% of Patients in Either Group 
+                                                   Effient (%)(N=6741)          Clopidogrel (%)(N=6716)     
+   Hypertension≠B-OSE_Labeled_AE                                      7.5                          7.1                         
+   Hypercholesterolemia≠B-OSE_Labeled_AE / Hyperlipidemia≠B-OSE_Labeled_AE               7.0                          7.4                         
+   Headache≠B-OSE_Labeled_AE                                          5.5                          5.3                         
+   Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                         5.0                          4.5                         
+   Dyspnea≠B-OSE_Labeled_AE                                           4.9                          4.5                         
+   Nausea≠B-OSE_Labeled_AE                                            4.6                          4.3                         
+   Dizziness≠B-OSE_Labeled_AE                                         4.1                          4.6                         
+   Cough≠B-OSE_Labeled_AE                                             3.9                          4.1                         
+   Hypotension≠B-OSE_Labeled_AE                                       3.9                          3.8                         
+   Fatigue≠B-OSE_Labeled_AE                                           3.7                          4.8                         
+   Non≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  cardiac≠I-OSE_Labeled_AE   chest≠I-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                            3.1                          3.5                         
+   Atrial≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE                               2.9                          3.1                         
+   Bradycardia≠B-OSE_Labeled_AE                                       2.9                          2.4                         
+   Leukopenia≠B-OSE_Labeled_AE  ( <≠B-OSE_Labeled_AE  4≠I-OSE_Labeled_AE   x≠I-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  9≠I-OSE_Labeled_AE   WBC≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  L≠I-OSE_Labeled_AE )                      2.8                          3.5                         
+   Rash≠B-OSE_Labeled_AE                                              2.8                          2.4                         
+   Pyrexia≠B-OSE_Labeled_AE                                           2.7                          2.2                         
+   Peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE                                  2.7                          3.0                         
+   Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE                                 2.6                          2.6                         
+   Diarrhea≠B-OSE_Labeled_AE                                          2.3                          2.6                         
+           6.2 Postmarketing Experience
+   The following adverse reactions have been identified during post approval use of Effient. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+      Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE  -     Thrombocytopenia≠B-OSE_Labeled_AE ,  Thrombotic≠B-OSE_Labeled_AE   thrombocytopenic≠I-OSE_Labeled_AE   purpura≠I-OSE_Labeled_AE  (TTP)  [see Warnings and Precautions (  5.4  ) and Patient Counseling Information (  17  )]  
+
+
+
+      Immune≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE  -     Hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  including  anaphylaxis≠B-OSE_Labeled_AE   [see Contraindications (  4.3  )]  

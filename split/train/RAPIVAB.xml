@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoldLabel drug="RAPIVAB">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in other sections of the labeling:
+
+
+
+ *  Serious skin and hypersensitivity reactions [see  Warnings and Precautions (5.1)  ]  
+ *  Neuropsychiatric Events [ see  Warnings and Precautions (5.2)   ] 
+      EXCERPT:   Most common adverse reaction (incidence &gt;2%) is diarrhea (  6  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact BioCryst Pharmaceuticals, Inc. at 1-844-273-2327 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In five randomized, double-blind, controlled trials, 1,399 subjects with acute uncomplicated influenza received a single dose of RAPIVAB, administered intravenously or intramuscularly, at doses up to 600 mg. Among the 664 subjects receiving RAPIVAB 600 mg (intravenous or intramuscular), the most commonly observed adverse reaction was diarrhea, occurring at a rate of 8% versus 7% in subjects receiving placebo. No subject receiving RAPIVAB 600 mg experienced a serious adverse event and less than 1% discontinued study because of an adverse reaction.
+
+
+
+ Clinically significant laboratory abnormalities (DAIDS Grade 2-4) listed in Table 2 occurred more frequently in subjects treated with RAPIVAB 600 mg (intravenous or intramuscular) than placebo. Only events occurring at &gt;=2% are included.
+
+
+
+ Table 2: Laboratory Abnormalities Occurring in &gt;=2% of Subjects Treated with RAPIVAB 600 mg 
+ Laboratory Parameter Abnormality                            RAPIVAB 600 mg                Placebo          
+  
+   Alanine Aminotransferase (&gt; 2.5 * ULN)                      (N=654)3%                  (N=430)2%         
+   Serum Glucose (&gt; 160 mg/dL)                                 (N=660)5%                  (N=433)3%         
+   Creatine Phosphokinase (&gt;= 6.0 * ULN)                       (N=654)4%                  (N=431)2%         
+   Neutrophils (&lt; 1.000 *10  9  /L)                            (N=654)8%                  (N=430)6%         
+         In a subset of subjects with serious influenza requiring hospitalization treated with RAPIVAB 600 mg as monotherapy (N=101) the following adverse reactions were also reported more frequently with RAPIVAB as compared to placebo: constipation (4% versus 2%), insomnia (3% versus 0%), AST increased (3% versus 2%), and hypertension (2% versus 0%).
+ 
+
+   6.2 Postmarketing Experience
+
+  The following additional adverse reactions have been identified during postapproval use of RAPIVAB in Japan. Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ Dermatologic: Stevens-Johnson Syndrome, exfoliative dermatitis, rash  [see  Warnings and Precautions (5.1)  ]  
+
+
+
+ Psychiatric: abnormal behavior, hallucination  [see  Warnings and Precautions (5.2)  ]  
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Serious skin/hypersensitivity reactions such as Stevens-Johnson syndrome and erythema multiforme have occurred with RAPIVAB. (  5.1  ) 
+ *  Neuropsychiatric events: Patients with influenza may be at an increased risk of hallucinations, delirium and abnormal behavior early in their illness. Monitor for signs of abnormal behavior. (  5.2  ) 
+    
+ 
+
+   5.1 Serious Skin/Hypersensitivity Reactions
+
+
+
+  Rare cases of serious skin reactions, including erythema multiforme, have been reported with RAPIVAB in clinical studies and in postmarketing experience; Stevens-Johnson syndrome has been reported with RAPIVAB in postmarketing experience. Appropriate treatment should be instituted if a serious skin reaction occurs or is suspected.
+
+
+
+    5.2 Neuropsychiatric Events
+
+
+
+  Influenza can be associated with a variety of neurologic and behavioral symptoms that can include events such as hallucinations, delirium, and abnormal behavior, in some cases resulting in fatal outcomes. These events may occur in the setting of encephalitis or encephalopathy but can occur in uncomplicated influenza as well.
+
+
+
+ There have been postmarketing reports (from Japan) of delirium and abnormal behavior leading to injury in patients with influenza who were receiving neuraminidase inhibitors, including RAPIVAB. Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made, but they appear to be uncommon. These events were reported primarily among pediatric patients and often had an abrupt onset and rapid resolution. The contribution of RAPIVAB to these events has not been established. Patients with influenza should be closely monitored for signs of abnormal behavior.
+
+
+
+    5.3 Risk of Bacterial Infections
+
+
+
+  There is no evidence for efficacy of RAPIVAB in any illness caused by agents other than influenza viruses. Serious bacterial infections may begin with influenza-like symptoms or may coexist with or occur as complications during the course of influenza. RAPIVAB has not been shown to prevent such complications.
+
+
+
+ Prescribers should be alert to the potential for secondary bacterial infections and treat with antibiotics as appropriate.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="362" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="234" name="excerpt" section="S1" start="277" />
+    <IgnoredRegion len="43" name="heading" section="S2" start="405" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="515" />
+    <IgnoredRegion len="27" name="heading" section="S2" start="794" />
+    <IgnoredRegion len="32" name="heading" section="S2" start="1771" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="2617" />
+  </IgnoredRegions>
+  <Mentions>
+    <Mention id="M21" len="4,9" reason="from_drug_use" section="S1" start="123,149" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Reaction skin" meddra_llt_id="10037971" meddra_pt="Skin reaction" meddra_pt_id="10040914" />
+      <Normalization meddra_pt="Skin toxicity" meddra_pt_id="10059516" />
+    </Mention>
+    <Mention id="M13" len="26" reason="from_drug_use" section="S1" start="132" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Drug hypersensitivity" meddra_llt_id="10013700" meddra_pt="Drug hypersensitivity" meddra_pt_id="10013700" />
+      <Normalization meddra_pt="Hypersensitivity" meddra_pt_id="10020751" />
+    </Mention>
+    <Mention id="M22" len="23" reason="from_drug_use" section="S1" start="205" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Neuropsychiatric symptoms" meddra_llt_id="10078497" meddra_pt="Neuropsychiatric symptoms" meddra_pt_id="10078497" />
+    </Mention>
+    <Mention id="M2" len="9" reason="indication" section="S1" start="910" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Influenza" meddra_llt_id="10022000" meddra_pt="Influenza" meddra_pt_id="10022000" />
+    </Mention>
+    <Mention id="M6" len="8" reason="from_drug_use" section="S1" start="1153" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Diarrhea" meddra_llt_id="10012727" meddra_pt="Diarrhoea" meddra_pt_id="10012735" />
+    </Mention>
+    <Mention id="M5" len="24" reason="general_term" section="S1" start="1397" type="NonOSE_AE">
+      <Normalization meddra_llt="Laboratory test abnormal" meddra_llt_id="10023547" meddra_pt="Laboratory test abnormal" meddra_pt_id="10023547" />
+    </Mention>
+    <Mention id="M14" len="37" reason="from_drug_use" section="S1" start="1824" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Alanine aminotransferase increase" meddra_llt_id="10001550" meddra_pt="Alanine aminotransferase increased" meddra_pt_id="10001551" />
+    </Mention>
+    <Mention id="M15" len="26" reason="from_drug_use" section="S1" start="1933" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Glucose high" meddra_llt_id="10018420" meddra_pt="Blood glucose increased" meddra_pt_id="10005557" />
+      <Normalization meddra_pt="Impaired fasting glucose" meddra_pt_id="10056997" />
+    </Mention>
+    <Mention id="M16" len="36" reason="from_drug_use" section="S1" start="2042" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Creatine phosphokinase increased" meddra_llt_id="10011349" meddra_pt="Blood creatine phosphokinase increased" meddra_pt_id="10005470" />
+    </Mention>
+    <Mention id="M17" len="31" reason="from_drug_use" section="S1" start="2151" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Neutrophils reduced" meddra_llt_id="10029382" meddra_pt="Neutrophil count decreased" meddra_pt_id="10029366" />
+    </Mention>
+    <Mention id="M1" len="9" reason="indication" section="S1" start="2303" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Influenza" meddra_llt_id="10022000" meddra_pt="Influenza" meddra_pt_id="10022000" />
+    </Mention>
+    <Mention id="M7" len="12" reason="from_drug_use" section="S1" start="2494" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Constipation" meddra_llt_id="10010774" meddra_pt="Constipation" meddra_pt_id="10010774" />
+    </Mention>
+    <Mention id="M8" len="8" reason="from_drug_use" section="S1" start="2523" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Insomnia" meddra_llt_id="10022437" meddra_pt="Insomnia" meddra_pt_id="10022437" />
+    </Mention>
+    <Mention id="M18" len="13" reason="from_drug_use" section="S1" start="2548" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="AST increased" meddra_llt_id="10003544" meddra_pt="Aspartate aminotransferase increased" meddra_pt_id="10003481" />
+    </Mention>
+    <Mention id="M9" len="12" reason="from_drug_use" section="S1" start="2582" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hypertension" meddra_llt_id="10020772" meddra_pt="Hypertension" meddra_pt_id="10020772" />
+    </Mention>
+    <Mention id="M3" len="12" reason="general_term" section="S1" start="2972" type="NonOSE_AE">
+      <Normalization meddra_llt="Skin disorder" meddra_llt_id="10040831" meddra_pt="Skin disorder" meddra_pt_id="10040831" />
+    </Mention>
+    <Mention id="M10" len="24" reason="from_drug_use" section="S1" start="2986" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Syndrome Stevens-Johnson" meddra_llt_id="10042849" meddra_pt="Stevens-Johnson syndrome" meddra_pt_id="10042033" />
+    </Mention>
+    <Mention id="M11" len="22" reason="from_drug_use" section="S1" start="3012" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Dermatitis exfoliative" meddra_llt_id="10012455" meddra_pt="Dermatitis exfoliative" meddra_pt_id="10012455" />
+    </Mention>
+    <Mention id="M12" len="4" reason="from_drug_use" section="S1" start="3036" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Rash" meddra_llt_id="10037844" meddra_pt="Rash" meddra_pt_id="10037844" />
+    </Mention>
+    <Mention id="M4" len="11" reason="general_term" section="S1" start="3088" type="NonOSE_AE">
+      <Normalization meddra_llt="Psychiatric disorder NOS" meddra_llt_id="10037174" meddra_pt="Mental disorder" meddra_pt_id="10061284" />
+      <Normalization meddra_pt="Psychiatric symptom" meddra_pt_id="10061472" />
+    </Mention>
+    <Mention id="M19" len="17" reason="from_drug_use" section="S1" start="3101" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Behavior abnormal" meddra_llt_id="10004203" meddra_pt="Abnormal behaviour" meddra_pt_id="10061422" />
+    </Mention>
+    <Mention id="M20" len="13" reason="from_drug_use" section="S1" start="3120" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hallucination" meddra_llt_id="10019063" meddra_pt="Hallucination" meddra_pt_id="10019063" />
+    </Mention>
+    <Mention id="M45" len="26" reason="from_drug_use" section="S2" start="422" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Drug hypersensitivity" meddra_llt_id="10013700" meddra_pt="Drug hypersensitivity" meddra_pt_id="10013700" />
+      <Normalization meddra_pt="Hypersensitivity" meddra_pt_id="10020751" />
+    </Mention>
+    <Mention id="M48" len="14" reason="from_drug_use" section="S2" start="476" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Reaction skin" meddra_llt_id="10037971" meddra_pt="Skin reaction" meddra_pt_id="10040914" />
+      <Normalization meddra_pt="Skin toxicity" meddra_pt_id="10059516" />
+    </Mention>
+    <Mention id="M43" len="19" reason="from_drug_use" section="S2" start="502" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Erythema multiforme" meddra_llt_id="10015218" meddra_pt="Erythema multiforme" meddra_pt_id="10015218" />
+    </Mention>
+    <Mention id="M44" len="24" reason="from_drug_use" section="S2" start="608" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Syndrome Stevens-Johnson" meddra_llt_id="10042849" meddra_pt="Stevens-Johnson syndrome" meddra_pt_id="10042033" />
+    </Mention>
+    <Mention id="M31" len="13" reason="general_term" section="S2" start="749" type="NonOSE_AE">
+      <Normalization meddra_llt="Reaction skin" meddra_llt_id="10037971" meddra_pt="Skin reaction" meddra_pt_id="10040914" />
+      <Normalization meddra_pt="Skin toxicity" meddra_pt_id="10059516" />
+    </Mention>
+    <Mention id="M49" len="23" reason="from_drug_use" section="S2" start="798" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Neuropsychiatric symptoms" meddra_llt_id="10078497" meddra_pt="Neuropsychiatric symptoms" meddra_pt_id="10078497" />
+    </Mention>
+    <Mention id="M23" len="9" reason="indication" section="S2" start="827" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Influenza" meddra_llt_id="10022000" meddra_pt="Influenza" meddra_pt_id="10022000" />
+    </Mention>
+    <Mention id="M39" len="10,8" reason="AE_only_as_instruction" section="S2" start="873,899" type="NonOSE_AE">
+      <Normalization meddra_llt="Neurologic symptoms" meddra_llt_id="10029291" meddra_pt="Neurological symptom" meddra_pt_id="10060860" />
+      <Normalization meddra_pt="Neurotoxicity" meddra_pt_id="10029350" />
+      <Normalization meddra_pt="Nervous system disorder" meddra_pt_id="10029202" />
+    </Mention>
+    <Mention id="M38" len="19" reason="AE_only_as_instruction" section="S2" start="888" type="NonOSE_AE">
+      <Normalization meddra_llt="Behavior abnormal" meddra_llt_id="10004203" meddra_pt="Abnormal behaviour" meddra_pt_id="10061422" />
+    </Mention>
+    <Mention id="M33" len="14" reason="AE_only_as_instruction" section="S2" start="940" type="NonOSE_AE">
+      <Normalization meddra_llt="Hallucinations" meddra_llt_id="10019077" meddra_pt="Hallucination" meddra_pt_id="10019063" />
+    </Mention>
+    <Mention id="M34" len="8" reason="AE_only_as_instruction" section="S2" start="956" type="NonOSE_AE">
+      <Normalization meddra_llt="Delirium" meddra_llt_id="10012218" meddra_pt="Delirium" meddra_pt_id="10012218" />
+    </Mention>
+    <Mention id="M32" len="17" reason="AE_only_as_instruction" section="S2" start="970" type="NonOSE_AE">
+      <Normalization meddra_llt="Behavior abnormal" meddra_llt_id="10004203" meddra_pt="Abnormal behaviour" meddra_pt_id="10061422" />
+    </Mention>
+    <Mention id="M35" len="5" reason="general_term" section="S2" start="1016" type="NonOSE_AE">
+      <Normalization meddra_llt="Death" meddra_llt_id="10011906" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Mention>
+    <Mention id="M24" len="12" reason="preexisting_condition_or_risk_factor" section="S2" start="1073" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Encephalitis" meddra_llt_id="10014581" meddra_pt="Encephalitis" meddra_pt_id="10014581" />
+    </Mention>
+    <Mention id="M25" len="14" reason="preexisting_condition_or_risk_factor" section="S2" start="1089" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Encephalopathy" meddra_llt_id="10014625" meddra_pt="Encephalopathy" meddra_pt_id="10014625" />
+    </Mention>
+    <Mention id="M26" len="9" reason="indication" section="S2" start="1135" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Influenza" meddra_llt_id="10022000" meddra_pt="Influenza" meddra_pt_id="10022000" />
+    </Mention>
+    <Mention id="M46" len="8" reason="from_drug_use" section="S2" start="1212" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Delirium" meddra_llt_id="10012218" meddra_pt="Delirium" meddra_pt_id="10012218" />
+    </Mention>
+    <Mention id="M47" len="17" reason="from_drug_use" section="S2" start="1225" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Behavior abnormal" meddra_llt_id="10004203" meddra_pt="Abnormal behaviour" meddra_pt_id="10061422" />
+    </Mention>
+    <Mention id="M40" len="6" reason="manifestation_or_complication" section="S2" start="1254" type="NonOSE_AE">
+      <Normalization meddra_llt="Injury" meddra_llt_id="10022116" meddra_pt="Injury" meddra_pt_id="10022116" />
+    </Mention>
+    <Mention id="M27" len="9" reason="indication" section="S2" start="1278" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Influenza" meddra_llt_id="10022000" meddra_pt="Influenza" meddra_pt_id="10022000" />
+    </Mention>
+    <Mention id="M28" len="9" reason="indication" section="S2" start="1694" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Influenza" meddra_llt_id="10022000" meddra_pt="Influenza" meddra_pt_id="10022000" />
+    </Mention>
+    <Mention id="M41" len="17" reason="AE_only_as_instruction" section="S2" start="1745" type="NonOSE_AE">
+      <Normalization meddra_llt="Behavior abnormal" meddra_llt_id="10004203" meddra_pt="Abnormal behaviour" meddra_pt_id="10061422" />
+    </Mention>
+    <Mention id="M29" len="9" reason="indication" section="S2" start="1897" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Influenza" meddra_llt_id="10022000" meddra_pt="Influenza" meddra_pt_id="10022000" />
+    </Mention>
+    <Mention id="M36" len="20" reason="AE_only_as_instruction" section="S2" start="1924" type="NonOSE_AE">
+      <Normalization meddra_llt="Bacterial infection" meddra_llt_id="10060945" meddra_pt="Bacterial infection" meddra_pt_id="10060945" />
+    </Mention>
+    <Mention id="M37" len="23" reason="AE_only_as_instruction" section="S2" start="1960" type="NonOSE_AE">
+      <Normalization meddra_llt="Influenza-like symptoms" meddra_llt_id="10022009" meddra_pt="Influenza like illness" meddra_pt_id="10022004" />
+    </Mention>
+    <Mention id="M30" len="9" reason="indication" section="S2" start="2051" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Influenza" meddra_llt_id="10022000" meddra_pt="Influenza" meddra_pt_id="10022000" />
+    </Mention>
+    <Mention id="M42" len="9,10" reason="AE_only_as_instruction" section="S2" start="2173,2193" type="NonOSE_AE">
+      <Normalization meddra_llt="Secondary infection" meddra_llt_id="10062158" meddra_pt="Infection" meddra_pt_id="10021789" />
+    </Mention>
+  </Mentions>
+</GoldLabel>

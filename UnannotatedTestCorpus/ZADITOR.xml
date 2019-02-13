@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ZADITOR">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  In controlled clinical studies, conjunctival injection, headaches, and rhinitis were reported at an incidence of 10 to 25%. The occurrence of these side effects was generally mild. Some of these events were similar to the underlying ocular disease being studied.
+
+
+
+ The following ocular and non-ocular adverse reactions were reported at an incidence of less than 5%:
+
+
+
+   Ocular:  Allergic reactions, burning or stinging, conjunctivitis, discharge, dry eyes, eye pain, eyelid disorder, itching, keratitis, lacrimation disorder, mydriasis, photophobia, and rash.
+
+
+
+   Non    -Ocular:  Flu syndrome, pharyngitis.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   Information for patients
+
+
+
+  To prevent contaminating the dropper tip and solution, care should be taken not to touch the eyelids or surrounding areas with the dropper tip of the bottle. Keep the bottle tightly closed when not in use. Patients should be advised not to wear a contact lens if their eye is red. ZADITORTM should not be used to treat contact lens related irritation. The preservative in ZADITORTM, benzalkonium chloride, may be absorbed by soft contact lenses. Patients who wear soft contact lenses and whose eyes are not red, should be instructed to wait at least ten minutes after instilling ZADITORTM before they insert their contact lenses.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Ketotifen fumarate was determined to be non-mutagenic in a battery of in vitro  and in vivo  mutagenicity assays including: Ames test, in vitro  chromosomal aberration test with V79 Chinese hamster cells, in vivo  micronucleus assay in mouse, and mouse dominant lethal test.
+
+
+
+ Treatment of male rats with oral doses of ketotifen &gt;= 10 mg/kg/day orally [6,667 times the maximum recommended human ocular dose of 0.0015 mg/kg/day on a mg/kg basis (MRHOD)] for 70 days prior to mating resulted in mortality and a decrease in fertility. Treatment with ketotifen did not impair fertility in female rats receiving up to 50 mg/kg/day of ketotifen orally (33,333 times the MRHOD) for 15 days prior to mating.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  For topical ophthalmic use only. Not for injection or oral use.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="689" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

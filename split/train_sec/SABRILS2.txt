@@ -1,0 +1,36 @@
+
+
+    BOXED WARNING:  WARNING:  VISION LOSS
+
+     WARNING:  VISION LOSS  
+
+    *  SABRIL causes  permanent≠B-OSE_Labeled_AE  bilateral concentric  visual≠I-OSE_Labeled_AE   field≠I-OSE_Labeled_AE   constriction≠I-OSE_Labeled_AE . Because assessing vision may be difficult in infants and children, the frequency and extent of  vision≠B-NonOSE_AE   loss≠I-NonOSE_AE  is poorly characterized in these patients. For this reason, the risk described below is primarily based on the adult experience. 
+ *  Based upon adult studies, 30 percent or more of patients can be affected, ranging in severity from mild to severe, including  tunnel≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE  to  within≠B-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   degrees≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   visual≠I-OSE_Labeled_AE   fixation≠I-OSE_Labeled_AE , and can result in disability. In some cases, SABRIL also can  damage≠B-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   central≠I-OSE_Labeled_AE   retina≠I-OSE_Labeled_AE  and may  decrease≠B-OSE_Labeled_AE   visual≠I-OSE_Labeled_AE   acuity≠I-OSE_Labeled_AE . 
+ *  The onset of  vision≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  from SABRIL is unpredictable, and can occur within weeks of starting treatment or sooner, or at any time after starting treatment, even after months or years. 
+ *  Symptoms of  vision≠B-NonOSE_AE   loss≠I-NonOSE_AE  from SABRIL are unlikely to be recognized by patients or caregivers before  vision≠B-NonOSE_AE   loss≠I-NonOSE_AE  is severe.  Vision≠B-NonOSE_AE   loss≠I-NonOSE_AE  of milder severity, while often unrecognized by the patient or caregiver, can still adversely affect function. 
+ *  The risk of  vision≠B-NonOSE_AE   loss≠I-NonOSE_AE  increases with increasing dose and cumulative exposure, but there is no dose or exposure known to be free of risk of  vision≠B-NonOSE_AE   loss≠I-NonOSE_AE . 
+ *  Unless a patient is formally exempted from periodic ophthalmologic assessment as documented in the SHARE program, vision should be assessed to the extent possible at baseline (no later than 4 weeks after starting SABRIL) and at least every 3 months during therapy. Vision assessment is also required about 3 to 6 months after the discontinuation of SABRIL therapy. 
+ *  Once detected,  vision≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  due to SABRIL is not reversible. It is expected that, even with frequent monitoring, some patients will develop severe  vision≠B-NonOSE_AE   loss≠I-NonOSE_AE . 
+ *  Drug discontinuation should be considered, balancing benefit and risk, if  visual≠B-NonOSE_AE   loss≠I-NonOSE_AE  is documented. 
+ *  It is possible that  vision≠B-NonOSE_AE   loss≠I-NonOSE_AE  can worsen despite discontinuation of SABRIL. 
+ *  Because of the risk of  visual≠B-NonOSE_AE   loss≠I-NonOSE_AE , SABRIL should be withdrawn from patients with refractory  complex≠B-Not_AE_Candidate   partial≠I-Not_AE_Candidate   seizures≠I-Not_AE_Candidate  who fail to show substantial clinical benefit within 3 months of initiation and within 2-4 weeks of initiation for patients with  infantile≠B-Not_AE_Candidate   spasms≠I-Not_AE_Candidate , or sooner if treatment failure becomes obvious. Patient response to and continued need for SABRIL should be periodically reassessed. 
+ *  SABRIL should not be used in patients with, or at high risk of, other types of  irreversible≠B-Not_AE_Candidate   vision≠I-Not_AE_Candidate   loss≠I-Not_AE_Candidate  unless the benefits of treatment clearly outweigh the risks. The interaction of other types of  irreversible≠B-Not_AE_Candidate   vision≠I-Not_AE_Candidate   damage≠I-Not_AE_Candidate  with  vision≠B-NonOSE_AE   damage≠I-NonOSE_AE  from SABRIL has not been well-characterized, but is likely adverse. 
+ *  SABRIL should not be used with other drugs associated with serious  adverse≠B-NonOSE_AE   ophthalmic≠I-NonOSE_AE   effects≠I-NonOSE_AE  such as  retinopathy≠B-NonOSE_AE  or  glaucoma≠B-NonOSE_AE  unless the benefits clearly outweigh the risks. 
+ *  The possibility that  vision≠B-NonOSE_AE   loss≠I-NonOSE_AE  from SABRIL may be more common, more severe or have more severe functional consequences in infants and children than in adults cannot be excluded. 
+ *  The lowest dose and shortest exposure to SABRIL consistent with clinical objectives should be used. 
+      Because of the risk of  permanent≠B-NonOSE_AE   vision≠I-NonOSE_AE   loss≠I-NonOSE_AE , SABRIL is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called the SHARE Program   [see           Warnings and Precautions (5.2)          ]  . Further information is available at [www.sabril.net or 1-888-45-SHARE].  
+ 
+
+   EXCERPT:     WARNING: VISION LOSS  
+
+
+
+     See full prescribing information for complete boxed warning.    
+
+
+
+ *  SABRIL causes progressive and permanent bilateral concentric visual field constriction in a high percentage of patients. In some cases, SABRIL may also reduce visual acuity (5.1). 
+ *  Risk increases with total dose and duration of use, but no exposure to SABRIL is known that is free of risk of vision loss (5.1). 
+ *  Risk of new and worsening vision loss continues as long as SABRIL is used, and possibly after discontinuing SABRIL (5.1). 
+ *  Unless a patient is formally exempted, periodic vision assessment is required for patients on SABRIL. However, this assessment cannot always prevent vision damage (5.1). 
+ *  SABRIL can cause permanent vision loss. SABRIL is available only through a restricted program called the SHARE Program (5.2). 

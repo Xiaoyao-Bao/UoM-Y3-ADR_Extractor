@@ -1,0 +1,82 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Risk of fluid and electrolyte abnormalities, arrhythmia, seizures, and renal impairment: Encourage adequate hydration, assess concurrent medications, and consider laboratory assessments prior to and after use (  5.1  ,  5.2  ,  5.3  ,  5.4  ) 
+ *   Risks in patients with renal insufficiency or patients taking concomitant medications that affect renal function: Use caution, ensure adequate hydration and consider testing (  5.3  ) 
+ *   Mucosal ulcerations: Consider potential for mucosal ulcerations when interpreting colonoscopy findings in patients with known or suspected inflammatory bowel disease (  5.5  ) 
+ *   Suspected GI obstruction or perforation: Rule out diagnosis before administration (  4  ,  5.6  ) 
+ *   Patients at risk for aspiration: Observe during administration (  5.7  ) 
+ *   Not for direct ingestion: Dissolve and take with additional water (  5.8  ) 
+    
+ 
+
+   5.1 Serious Fluid and Serum Chemistry Abnormalities
+
+
+
+  Advise patients to hydrate adequately before, during, and after the use of Prepopik  (r)  . Use caution in patients with  congestive≠B-Not_AE_Candidate   heart≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate  when replacing fluids. If a patient develops significant  vomiting≠B-NonOSE_AE  or signs of  dehydration≠B-NonOSE_AE  including signs of  orthostatic≠B-NonOSE_AE   hypotension≠I-NonOSE_AE  after taking Prepopik  (r)  , consider performing post-colonoscopy lab tests (electrolytes, creatinine, and BUN) and treat accordingly. Approximately 20% of patients in both arms (Prepopik  (r)  , 2L of PEG + E plus two * 5-mg bisacodyl tablets) of clinical trials of Prepopik  (r)  had  orthostatic≠B-OSE_Labeled_AE   changes≠I-OSE_Labeled_AE  (changes  in≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE  and/or heart rate) on the day of colonoscopy. In clinical trials  orthostatic≠B-NonOSE_AE   changes≠I-NonOSE_AE  were documented out to seven days post colonoscopy. [see  Adverse Reactions (6.1  ,  6.2)  ]  
+
+
+
+  Fluid≠B-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   electrolyte≠I-OSE_Labeled_AE   disturbances≠I-OSE_Labeled_AE  can lead to serious adverse events including  cardiac≠B-OSE_Labeled_AE   arrhythmias≠I-OSE_Labeled_AE  or  seizures≠B-OSE_Labeled_AE  and  renal≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE .  Fluid≠B-NonOSE_AE  and electrolyte  abnormalities≠I-NonOSE_AE  should be corrected before treatment with Prepopik  (r)  . In addition, use caution when prescribing Prepopik  (r)  for patients who have conditions or who are using medications that increase the risk for  fluid≠B-NonOSE_AE  and electrolyte  disturbances≠I-NonOSE_AE  or that may increase the risk of adverse events of  seizure≠B-NonOSE_AE ,  arrhythmia≠B-NonOSE_AE , and  renal≠B-NonOSE_AE   impairment≠I-NonOSE_AE .
+
+
+
+    5.2 Seizures
+
+
+
+  There have been reports of  generalized≠B-OSE_Labeled_AE   tonic≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  clonic≠I-OSE_Labeled_AE   seizures≠I-OSE_Labeled_AE  with the use of bowel preparation products in patients with no prior history of  seizures≠B-Not_AE_Candidate . The  seizure≠B-OSE_Labeled_AE  cases were associated with  electrolyte≠B-OSE_Labeled_AE   abnormalities≠I-OSE_Labeled_AE  (e.g.,  hyponatremia≠B-OSE_Labeled_AE ,  hypokalemia≠B-OSE_Labeled_AE ,  hypocalcemia≠B-OSE_Labeled_AE , and  hypomagnesemia≠B-OSE_Labeled_AE ) and  low≠B-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   osmolality≠I-OSE_Labeled_AE . The  neurologic≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  resolved with correction of  fluid≠B-NonOSE_AE  and electrolyte  abnormalities≠I-NonOSE_AE .
+
+
+
+ Use caution when prescribing Prepopik  (r)  for patients with a history of  seizures≠B-Not_AE_Candidate  and in patients at risk of  seizure≠B-NonOSE_AE , such as patients taking medications that  lower≠B-NonOSE_AE   the≠I-NonOSE_AE   seizure≠I-NonOSE_AE   threshold≠I-NonOSE_AE  (e.g., tricyclic antidepressants), patients withdrawing from alcohol or benzodiazepines, patients with known or suspected  hyponatremia≠B-Not_AE_Candidate . [see  Adverse Reactions (6.2)  ]  
+
+
+
+    5.3 Use in Patients with Renal Impairment
+
+
+
+  As in other magnesium containing bowel preparations, use caution when prescribing Prepopik  (r)  for patients with  impaired≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate  or patients taking concomitant medications that may affect renal function (such as diuretics, angiotensin converting enzyme inhibitors, angiotensin receptor blockers, or non-steroidal anti-inflammatory drugs). These patients may be at increased risk for  renal≠B-NonOSE_AE   injury≠I-NonOSE_AE . Advise these patients of the importance of adequate hydration before, during and after the use of Prepopik  (r)  . Consider performing baseline and post-colonoscopy laboratory tests (electrolytes, creatinine, and BUN) in these patients. In patients with severely  reduced≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  creatinine≠I-Not_AE_Candidate   clearance≠I-Not_AE_Candidate   <≠I-Not_AE_Candidate   3≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate ),  accumulation≠B-NonOSE_AE   of≠I-NonOSE_AE   magnesium≠I-NonOSE_AE   in≠I-NonOSE_AE   plasma≠I-NonOSE_AE  may occur.
+
+
+
+    5.4 Cardiac Arrhythmias
+
+
+
+  There have been rare reports of serious  arrhythmias≠B-OSE_Labeled_AE  associated with the use of ionic osmotic laxative products for bowel preparation. Use caution when prescribing Prepopik  (r)  for patients at increased risk of  arrhythmias≠B-NonOSE_AE  (e.g., patients with a history of  prolonged≠B-Not_AE_Candidate   QT≠I-Not_AE_Candidate , uncontrolled  arrhythmias≠B-Not_AE_Candidate , recent  myocardial≠B-Not_AE_Candidate   infarction≠I-Not_AE_Candidate ,  unstable≠B-Not_AE_Candidate   angina≠I-Not_AE_Candidate ,  congestive≠B-Not_AE_Candidate   heart≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate , or  cardiomyopathy≠B-Not_AE_Candidate ). Pre-dose and post-colonoscopy ECGs should be considered in patients at increased risk of serious  cardiac≠B-NonOSE_AE   arrhythmias≠I-NonOSE_AE .
+
+
+
+    5.5 Colonic Mucosal Ulceration, Ischemic Colitis and Ulcerative Colitis
+
+
+
+  Osmotic laxatives may produce  colonic≠B-OSE_Labeled_AE   mucosal≠I-OSE_Labeled_AE   aphthous≠I-OSE_Labeled_AE   ulcerations≠I-OSE_Labeled_AE  and there have been reports of more serious cases of  ischemic≠B-OSE_Labeled_AE   colitis≠I-OSE_Labeled_AE  requiring hospitalization. Concurrent use of additional stimulant laxatives with Prepopik  (r)  may increase this risk. The potential for  mucosal≠B-NonOSE_AE   ulcerations≠I-NonOSE_AE  should be considered when interpreting colonoscopy findings in patients with known or suspected  inflammatory≠B-Not_AE_Candidate   bowel≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate . [see  Adverse Reactions (6.2)  ]  
+
+
+
+    5.6 Use in Patients with Significant Gastrointestinal Disease
+
+
+
+  If  gastrointestinal≠B-Not_AE_Candidate   obstruction≠I-Not_AE_Candidate  or perforation is suspected, perform appropriate diagnostic studies to rule out these conditions before administering Prepopik  (r)  . Use with caution in patients with severe active  ulcerative≠B-Not_AE_Candidate   colitis≠I-Not_AE_Candidate .
+
+
+
+    5.7 Aspiration
+
+
+
+  Patients with  impaired≠B-Not_AE_Candidate   gag≠I-Not_AE_Candidate   reflex≠I-Not_AE_Candidate  and patients prone to  regurgitation≠B-Not_AE_Candidate  or  aspiration≠B-Not_AE_Candidate  should be observed during the administration of Prepopik  (r)  . Use with caution in these patients.
+
+
+
+    5.8 Not for Direct Ingestion
+
+
+
+  Each packet must be dissolved in 5 ounces of cold water and administered at separate times according to the dosing regimen. Ingestion of additional water is important to patient tolerance. Direct ingestion of the undissolved powder may increase the risk of  nausea≠B-NonOSE_AE ,  vomiting≠B-NonOSE_AE ,  dehydration≠B-NonOSE_AE , and  electrolyte≠B-NonOSE_AE   disturbances≠I-NonOSE_AE .

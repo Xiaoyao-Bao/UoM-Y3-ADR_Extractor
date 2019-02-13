@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="THIOLA">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Some patients may develop drug fever, usually during the first month of therapy. THIOLA  (r)  treatment should be discontinued until the fever subsides. It may be reinstated at a small dose, with a gradual increase in dosage until the desired level is achieved.
+
+
+
+ A generalized rash (erythematous, maculopapular or morbilliform) accompanied by pruritis may develop during the first few months of treatment. It may be controlled by antihistamine therapy, typically recedes when THIOLA  (r)  treatment is discontinued, and seldom recurs when THIOLA  (r)  treatment is restarted at a lower dosage. Less commonly, rash may appear late in the course of treatment (of more than 6 months). Located usually in the trunk, the late rash is associated with intense pruritis, recedes slowly after discontinuing treatment, and usually recurs upon resumption of treatment.
+
+
+
+ A drug reaction simulating lupus erythematous, manifested by fever, arthralgia and lymphadenopathy may develop. It may be associated with a positive antinuclear antibody test, but not necessarily with nephropathy. It may require discontinuance of THIOLA  (r)  treatment.
+
+
+
+ A reduction in taste perception may develop. It is believed to be the result of chelation of trace metals by THIOLA  TM  . Hypogeusia is often self-limiting.
+
+
+
+ Unlike during d-penicillamine therapy, vitamin B6 deficiency is uncommonly associated with THIOLA  (r)  treatment.
+
+
+
+ Some patients may complain of wrinkling and friability of skin. This complication usually occurs after long-term treatment, and is believed to result from the effect of THIOLA  (r)  on collagen.
+
+
+
+ A multiclinic trial involving 66 cystinuric patients in the United States indicated that THIOLA  (r)  is associated with fewer or less severe adverse reactions than d-penicillamine. Among those who had to stop taking d-penicillamine due to toxicity, 64.7% could take THIOLA  (r)  . In those without prior history of d-penicillamine treatment, only 5.9% developed reactions of sufficient severity to require THIOLA  (r)  withdrawal. A review of available literature supports the findings from this trial.
+
+
+
+ Despite this apparent reduced toxicity to THIOLA  (r)  relative to d-penicillamine, THIOLA  (r)  treatment may potentially be associated with all the adverse reactions reported with d-penicillamine. They include:           Gastrointestinal side-effects (nausea, emesis, diarrhea or softstools, anorexia, abdominal pain, bloating or flatus) in about 1 in 6 patients;           Impairment in taste and smell in about 1 in 25 patients;           Dermatologic complications (pharyngitis, oral ulcers, rash, ecchymosis, prurites, uritcaria, warts, skin wrinkling, pemphigus, elastosis perforans serpiginosa) in about 1 in 6 patients;           Hypersensitivity reactions (laryngeal edema, dyspnea, respiratory distress, fever, chills, arthralgia, weakness, fatigue, myalgia, adenopathy) in about 1 in 25 patients;           Hematologic abnormalities (increased bleeding, anemia, leukopenia, thrombocytopenia, eosinophilia) in about 1 in 25 patients;           Renal complications (proteinuria, nephrotic syndrome, hematuria) in about 1 in 20 patients;           Pulmonary manifestations (bronchiolitis, hemoptysis, pulmonary infiltrates, dyspnea) in about 1 in 50 patients;           Neurologic complications (myasthenic syndrome) in about 1 in 50 patients.
+
+
+
+ These reactions are more likely to develop during THIOLA  (r)  therapy among patients who had previously shown toxicity to d-penicillamine.
+
+
+
+ In patients who had previously manifested adverse reactions to d-penicillamine, adverse reactions to THIOLA  (r)  are more likely to occur than in patients who took THIOLA  (r)  for the first time. A close supervision with a careful monitoring of potential side effects is mandatory during THIOLA  (r)  treatment. Patients should be told to report promptly any symptoms suggesting toxicity. The treatment with THIOLA  (r)  should be stopped if severe toxicity develops.
+
+
+
+ Jaundice and abnormal liver function tests have been reported during THIOLA  (r)  therapy for non-cystinuric conditions. A direct cause and effect relationship, based upon these foreign reports, has not been established. Although such complications were not encountered in the small multi-center trials in the United States, patients should be carefully monitored and if any abnormalities are noted, the drug should be discontinued and the patient treated by appropriate measures.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+  Patients should be advised of the potential development of complications and to report promptly the occurrence of any symptom or sign of them.
+
+
+
+ To help monitor potential complications, the following tests are recommended: peripheral blood counts, direct platelet count, hemoglobin, serum albumin, liver function tests, 24-hour urinary protein and routine urinalysis at 3- 6 month intervals during treatment. In order to assess effect on stone disease, urinary cystine analysis should be monitored frequently during the first 6 months when the optimum dose schedule is being determined, and at 6-month intervals thereafter. Abdominal roentogenogram (KUB) is advised on a yearly basis to monitor the size and appearance/disappearance of stone(s).
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Despite apparent lower toxicity of THIOLA  TM  , THIOLA  (r)  may potentially cause all the serious adverse reactions reported for d-penicillamine. Thus, although no death has been reported to result directly from THIOLA  (r)  treatment, a fatal outcome from THIOLA  (r)  is possible, as has been reported with d-penicillamine therapy from such complications as aplastic anemia, agranulocytosis, thrombocytopenia, Goodpasture's syndrome or myasthenia gravis.
+
+
+
+ Leukopenia of the granulocytic series may develop without eosinophilia. Thrombocytopenia may be immunologic in origin or occur on an idiosyncratic basis. The reduction in peripheral blood white count to less than 3500/cubic mm or in platelet count to below 100,000 cubic mm mandates cessation of therapy. Patients should be instructed to report promptly the occurrence of any symptom or sign of these hematological abnormalities, such as fever, sore throat, chills, bleeding or easy bruisability.
+
+
+
+ Proteinuria, sometimes sufficiently severe to cause nephrotic syndrome, may develop from membranous glomerulopathy. A close observation of affected patients is mandatory.
+
+
+
+ The following complications, though rare, have been reported during d-penicillamine therapy and could occur during THIOLA  (r)  treatment. When there are abnormal urinary findings associated with hemoptysis and pulmonary infiltrates suggestive of Goodpasture's syndrome, THIOLA  (r)  treatment should be stopped. Appearance of myasthenic syndrome or myasthenia gravis requires cessation of treatment. When pemphigus-type reactions develop, THIOLA  (r)  therapy should be stopped. Steroid treatment may be necessary.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

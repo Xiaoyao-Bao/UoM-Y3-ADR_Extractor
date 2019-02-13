@@ -1,0 +1,14 @@
+24 723 OSE_Labeled_AE
+14 819 OSE_Labeled_AE
+3,7 819,835 OSE_Labeled_AE
+3,8 819,850 OSE_Labeled_AE
+11 878 OSE_Labeled_AE
+12 894 OSE_Labeled_AE
+15 1082 OSE_Labeled_AE
+8 1102 OSE_Labeled_AE
+13 1481 OSE_Labeled_AE
+12 1496 OSE_Labeled_AE
+18 1510 OSE_Labeled_AE
+12 1530 OSE_Labeled_AE
+16 1544 OSE_Labeled_AE
+10 1566 OSE_Labeled_AE

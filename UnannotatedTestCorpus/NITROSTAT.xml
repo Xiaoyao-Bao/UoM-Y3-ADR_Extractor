@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="NITROSTAT">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in more detail elsewhere in the label:
+
+
+
+ *  Hypotension [see  Warnings and Precautions (5.2)  ]  
+ *  Headache [see  Warnings and Precautions (5.4)  ]  
+ *  Hypersensitivity [see  Contraindications (4.4)  ]  
+    Vertigo, dizziness, weakness, palpitation, and other manifestations of postural hypotension may develop occasionally, particularly in erect, immobile patients. Marked sensitivity to the hypotensive effects of nitrates (manifested by nausea, vomiting, weakness, diaphoresis, pallor, and collapse) may occur at therapeutic doses. Syncope due to nitrate vasodilatation has been reported.
+ 
+
+ Flushing, drug rash, and exfoliative dermatitis have been reported in patients receiving nitrate therapy.
+
+
+
+   EXCERPT:   Most common adverse reactions occurring at a frequency greater than 2% are headache, dizziness and paresthesia. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Pfizer, Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Tolerance: Excessive use may lead to tolerance. (  5.1  ) 
+ *  Hypotension: Severe hypotension may occur. (  5.2  ) 
+    
+ 
+
+   5.1 Tolerance
+
+
+
+  Excessive use may lead to the development of tolerance. Only the smallest dose required for effective relief of the acute angina attack should be used. A decrease in therapeutic effect of sublingual nitroglycerin may result from use of long-acting nitrates.
+
+
+
+    5.2 Hypotension
+
+
+
+  Severe hypotension, particularly with upright posture, may occur with small doses of nitroglycerin particularly in patients with constrictive pericarditis, aortic or mitral stenosis, patients who may be volume-depleted, or are already hypotensive. Hypotension induced by nitroglycerin may be accompanied by paradoxical bradycardia and increased angina pectoris. Symptoms of severe hypotension (nausea, vomiting, weakness, pallor, perspiration and collapse/syncope) may occur even with therapeutic doses.
+
+
+
+    5.3 Hypertrophic Obstructive Cardiomyopathy
+
+
+
+  Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy.
+
+
+
+    5.4 Headache
+
+
+
+  Nitroglycerin produces dose-related headaches, especially at the start of nitroglycerin therapy, which may be severe and persist but usually subside with continued use.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="137" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="180" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="464" />
+    <IgnoredRegion len="275" name="excerpt" section="S1" start="788" />
+    <IgnoredRegion len="43" name="heading" section="S2" start="996" />
+    <IgnoredRegion len="12" name="heading" section="S2" start="1132" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

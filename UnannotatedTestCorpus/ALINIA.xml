@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ALINIA">
+  <Text>
+    <Section id="S1" name="adverse reactions">      6 ADVERSE REACTIONS  
+
+  
+
+
+
+ 
+
+
+
+   EXCERPT:   The most common adverse reactions in &gt;=2% of patients were abdominal pain, headache, chromaturia, and nausea (  6.1  ).
+
+
+
+ 
+
+
+
+ 
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Romark at 813-282-8544 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+    6.1 Clinical Trials Experience  
+
+  Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety of ALINIA was evaluated in 2177 HIV-uninfected subjects 12 months of age and older who received ALINIA Tablets or ALINIA for Oral Suspension at the recommended dose for at least three days. In pooled controlled clinical trials involving 536 HIV-uninfected subjects treated with ALINIA Tablets or ALINIA for Oral Suspension, the most common adverse reactions were abdominal pain, headache, chromaturia and nausea (&gt;=2%).
+
+
+
+ Safety data were analyzed separately for 280 HIV-uninfected subjects &gt;=12 years of age receiving ALINIA at the recommended dose for at least three days in 5 placebo-controlled clinical trials and for 256 HIV-uninfected subjects 1 through 11 years of age in 7 controlled clinical trials. There were no differences between the adverse reactions reported for ALINIA-treated subjects based upon age.
+
+
+
+     6.2 Postmarketing Experience  
+
+  The following adverse reactions have been identified during post approval use of ALINIA. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The following is a list of adverse reactions spontaneously reported with ALINIA Tablets which were not included in clinical trial listings:
+
+
+
+   Gastrointestinal disorders:  diarrhea, gastroesophageal reflux disease
+
+
+
+   Nervous System disorders:  dizziness
+
+
+
+   Respiratory, thoracic and mediastinal disorders:  dyspnea
+
+
+
+   Skin and subcutaneous tissue disorders:  rash, urticaria
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="23" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="284" name="excerpt" section="S1" start="42" />
+    <IgnoredRegion len="34" name="heading" section="S1" start="330" />
+    <IgnoredRegion len="32" name="heading" section="S1" start="1474" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="LAMISIL_AT">
+  <Text>
+    <Section id="S1" name="warnings">     Warnings  
+
+
+
+   For external use only  
+
+
+
+    Do Not Use
+
+
+
+    *    on nails or scalp 
+ *    in or near the mouth or the eyes 
+ *    for vaginal yeast infections 
+       When using this product
+ 
+
+    *    do not get into eyes. If contact occurs, rinse eyes thoroughly with water. 
+ *    do not puncture or incinerate; contents under pressure. Do not expose to heat or store at temperatures above 120oF (49oC). 
+       Stop use and ask a doctor if
+ 
+
+  too much irritation occurs or gets worse
+
+
+
+    Keep out of reach of children.
+
+
+
+  If swallowed, get medical help or contact a Poison Control Center right away.  
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="11" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="10" name="heading" section="S1" start="53" />
+    <IgnoredRegion len="23" name="heading" section="S1" start="178" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="427" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="509" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

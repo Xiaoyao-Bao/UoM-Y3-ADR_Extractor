@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="VISINE_L_R_">
+  <Text>
+    <Section id="S1" name="warnings">    Warnings
+
+
+
+   Ask a doctor before use if you have  narrow angle glaucoma.
+
+
+
+    When using this product
+
+
+
+    *  overuse may cause more eye redness 
+ *  remove contact lenses before using 
+ *  do not use if this solution changes color or becomes cloudy 
+ *  do not touch tip of container to any surface to avoid contamination 
+ *  replace cap after each use 
+       Stop use and ask a doctor if
+ 
+
+    *  you feel eye pain 
+ *  changes in vision occur 
+ *  redness or irritation of the eye lasts 
+ *  condition worsens or lasts more than 72 hours 
+       
+ 
+
+   If pregnant or breast-feeding,  ask a health professional before use.
+
+
+
+    
+
+
+
+   Keep out of reach of children.  If swallowed, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="8" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="23" name="heading" section="S1" start="86" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="373" />
+    <IgnoredRegion len="0" name="heading" section="S1" start="562" />
+    <IgnoredRegion len="0" name="heading" section="S1" start="646" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

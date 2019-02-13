@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="K_TAB">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following adverse reactions have been identified with use of oral potassium salts. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea.
+
+
+
+ There have been reports of hyperkalemia and of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, perforation  [see Warnings and Precautions (  5.1  ) and Overdosage (  10  )]  .
+
+
+
+ Skin rash has been reported rarely.
+
+
+
+   EXCERPT:   Most common adverse reactions are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea  (6)  
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact AbbVie Inc. at 1-800-633-9110 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+
+
+    7 DRUG INTERACTIONS
+
+   EXCERPT:    *  Renin-angiotensin-aldosterone system inhibitors: Monitor for hyperkalemia  (7.2)   
+ *  Nonsteroidal anti-inflammatory drugs: Monitor for hyperkalemia  (7.3)   
+    
+   7.1 Triamterene and Amiloride
+
+  Use with triamterene or amiloride can produce severe hyperkalemia. Avoid concomitant use  [see Contraindications (  4  )]  .
+
+
+
+   7.2 Renin-Angiotensin-Aldosterone System Inhibitors
+
+  Drugs that inhibit the renin-angiotensin-aldosterone system (RAAS) including angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), spironolactone, eplerenone, or aliskiren produce potassium retention by inhibiting aldosterone production. Closely monitor potassium in patients receiving concomitant RAAS therapy.
+
+
+
+   7.3 Nonsteroidal Anti-Inflammatory Drugs
+
+  Nonsteroidal anti-inflammatory drugs (NSAIDs) may produce potassium retention by reducing renal synthesis of prostaglandin E and impairing the renin-angiotensin system. Closely monitor potassium in patients receiving concomitant NSAID therapy.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Gastrointestinal Adverse Reactions: Can produce ulcerative and/or stenotic lesions of the gastrointestinal tract, particularly when in prolonged contact with the gastrointestinal mucosa. Take with meals.  (5.1)   
+    
+ 
+
+   5.1 Gastrointestinal Adverse Reactions
+
+
+
+  Solid oral dosage forms of potassium chloride can produce ulcerative and/or stenotic lesions of the gastrointestinal tract, particularly when the drug remains in contact with the gastrointestinal mucosa for a prolonged period of time. Consider the use of liquid potassium in patients with dysphagia, swallowing disorders, or severe gastrointestinal motility disorders.
+
+
+
+ If severe vomiting, abdominal pain, distention, or gastrointestinal bleeding occurs, discontinue K-TAB and consider possibility of ulceration, obstruction or perforation.
+
+
+
+ K-TAB should not be taken on an empty stomach because of its potential for gastric irritation [see Dosage and Administration (  2.1  )]  .
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="234" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="38" name="heading" section="S2" start="277" />
+    <IgnoredRegion len="262" name="excerpt" section="S1" start="719" />
+    <IgnoredRegion len="19" name="heading" section="S1" start="989" />
+    <IgnoredRegion len="181" name="excerpt" section="S1" start="1012" />
+    <IgnoredRegion len="29" name="heading" section="S1" start="1197" />
+    <IgnoredRegion len="51" name="heading" section="S1" start="1361" />
+    <IgnoredRegion len="40" name="heading" section="S1" start="1766" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

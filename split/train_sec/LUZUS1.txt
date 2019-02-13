@@ -1,0 +1,25 @@
+    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions observed in clinical trials were application site reactions, which occurred in less than 1% of subjects. (  6.1  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice.
+
+
+
+ In three Phase 3 clinical trials, 616 subjects were exposed to LUZU Cream, 1%: 305 with  interdigital≠B-Not_AE_Candidate   tinea≠I-Not_AE_Candidate   pedis≠I-Not_AE_Candidate  and 311 subjects with  tinea≠B-Not_AE_Candidate   cruris≠I-Not_AE_Candidate . Subjects with  interdigital≠B-Not_AE_Candidate   tinea≠I-Not_AE_Candidate   pedis≠I-Not_AE_Candidate  or  tinea≠B-Not_AE_Candidate   cruris≠I-Not_AE_Candidate  applied LUZU Cream, 1% or vehicle cream once daily for 14 days or 7 days, respectively, to affected and adjacent areas. During clinical trials with LUZU Cream, 1%, the most common adverse reactions were  application≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  which occurred in less than 1% of subjects in both the LUZU and vehicle arms. Most adverse reactions were mild in severity.
+
+
+
+   6.2 Post-Marketing Experience
+
+  The following adverse reactions have been identified during postmarketing use of luliconazole cream, 1%:  contact≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE  and  cellulitis≠B-OSE_Labeled_AE . Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="NAPHAZOLINE_HYDROCHLORIDE_AND_PHENIRAMINE_MALEATE">
+  <Text>
+    <Section id="S1" name="warnings">    Warnings:
+
+
+
+   For external use only  
+
+
+
+    Do not use  if you are sensitive to any ingredient in this product
+
+
+
+    Ask a doctor before use if you have
+
+
+
+    *  heart disease 
+ *  high blood pressure 
+ *  narrow angle glaucoma 
+ *  trouble urinating 
+       When using this product
+ 
+
+    *  pupils may become enlarged temporarily causing light sensitivity 
+ *  do not touch tip of container to any surface to avoid contamination 
+ *  replace cap after each use 
+ *  remove contact lenses before using 
+ *  do not use if this solution changes color or become cloudy 
+ *  overuse may cause more eye redness 
+ *  some users may experience a brief tingling sensation 
+       Stop use and ask a doctor if
+ 
+
+    *  you feel eye pain 
+ *  changes in vision occur 
+ *  redness or irritation of the eye lasts 
+ *  condition worsens or lasts more than 72 hours 
+      Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Accidental swallowing by infants and children may lead to coma and marked reduction in body temperature.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="9" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="35" name="heading" section="S1" start="125" />
+    <IgnoredRegion len="23" name="heading" section="S1" start="268" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="682" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

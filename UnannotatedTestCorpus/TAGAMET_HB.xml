@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="TAGAMET_HB">
+  <Text>
+    <Section id="S1" name="warnings">     Warnings  
+
+
+
+   Allergy alert:
+
+
+
+  Do not use if you are allergic to cimetidine or other acid reducers
+
+
+
+    Do not use
+
+
+
+    *    if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. 
+ *    with other acid reducers 
+       Ask a doctor before use if you have
+ 
+
+    *    frequent chest pain  
+ *    frequent wheezing, particularly with heartburn 
+ *    unexplained weight loss 
+ *    nausea or vomiting 
+ *    stomach pain 
+ *    had heartburn over 3 months. This may be a sign of a more serious condition. 
+ *    heartburn with lightheadedness, sweating or dizziness  
+ *    chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness 
+       Ask a doctor or pharmacist before use if you are taking
+ 
+
+    *    theophylline (oral asthma medicine) 
+ *    warfarin (blood thinning medicine) 
+ *    phenytoin (seizure medicine) 
+    If you are not sure you are taking one of these medicines, talk to your doctor or pharmacist.
+ 
+
+  Drug Interaction Warnings:  
+
+
+
+ Tagamet HB 200  (r)  may interfere with the action of drugs prescribed by your doctor. Check with your doctor before taking Tagamet HB 200  (r)  if you are taking blood thinning medication (e.g. Warfarin) or drugs prescribed for asthma (e.g. Theophylline) or epilepsy (e.g. Phenytoin).
+
+
+
+ Brand names of some medicines which contain one of these ingredients include: 
+  THEOPHYLLINE           THEO-DUR(r) Theochron(r) Slo-Bid(r) Uniphyl(r) Theo-24(r)    
+  WARFARIN               Coumadin(r)                                             
+  PHENYTOIN              Dilantin(r)                                             
+        There may be other medicines that contain one of these ingredients. If in doubt about this or about possible effects of Tagamet HB 200 on any other medicines you are taking, talk to your doctor or pharmacist.
+ 
+
+  Read the directions and warnings before taking this medication.  
+
+
+
+    Stop use and ask a doctor if
+
+
+
+    *    your heartburn continues or worsens 
+ *    stomach pain continues 
+ *    you need to take this product for more than 14 days 
+       If pregnant or breast-feeding,  
+ 
+
+  ask a health professional before use.
+
+
+
+    Keep out of reach of children.
+
+
+
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="11" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="14" name="heading" section="S1" start="22" />
+    <IgnoredRegion len="10" name="heading" section="S1" start="117" />
+    <IgnoredRegion len="35" name="heading" section="S1" start="333" />
+    <IgnoredRegion len="55" name="heading" section="S1" start="820" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="2054" />
+    <IgnoredRegion len="32" name="heading" section="S1" start="2228" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="2311" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

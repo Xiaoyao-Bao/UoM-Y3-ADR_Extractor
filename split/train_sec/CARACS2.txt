@@ -1,0 +1,49 @@
+   PRECAUTIONS
+
+   General:
+
+  There is a possibility of increased absorption through  ulcerated≠B-Not_AE_Candidate  or  inflamed≠B-Not_AE_Candidate   skin≠I-Not_AE_Candidate .
+
+    Information for the Patient:
+
+  Patients using Carac should receive the following information and instructions:
+
+ *  1.  This medication is to be used as directed. 
+ *  2.  This medication should not be used for any disorder other than that for which it was prescribed. 
+ *  3.  It is for topical use only. 
+ *  4.  Avoid contact with the eyes, eyelids, nostrils, and mouth. 
+ *  5.  Cleanse affected area and wait 10 minutes before applying Carac. 
+ *  6.  Wash hands immediately after applying Carac. 
+ *  7.  Avoid prolonged exposure to sunlight or other forms of ultraviolet irradiation during treatment, as the intensity of the reaction may be increased. 
+ *  8.  Most patients using Carac get  skin≠B-NonOSE_AE   reactions≠I-NonOSE_AE  where the medicine is used. These reactions include redness, dryness, burning, pain, erosion ( loss≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   upper≠I-NonOSE_AE   layer≠I-NonOSE_AE   of≠I-NonOSE_AE   skin≠I-NonOSE_AE ), and swelling.  Irritation≠B-NonOSE_AE   at≠I-NonOSE_AE   the≠I-NonOSE_AE   application≠I-NonOSE_AE   site≠I-NonOSE_AE  may persist for two or more weeks after therapy is discontinued. Treated areas may be unsightly during and after therapy. 
+ *  9.  If you develop  abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  bloody≠B-NonOSE_AE   diarrhea≠I-NonOSE_AE ,  vomiting≠B-NonOSE_AE ,  fever≠B-NonOSE_AE , or  chills≠B-NonOSE_AE  while on Carac therapy, stop the medication and contact your physician and/or pharmacist. 
+ *  10.  Report any side effects to the physician and/or pharmacist. 
+       Laboratory Tests:
+ 
+
+  To rule out the presence of a frank  neoplasm≠B-NonOSE_AE , a biopsy may be considered for those areas failing to respond to treatment or recurring after treatment.
+
+    Carcinogenesis, Mutagenesis, and Impairment of Fertility:
+
+  Adequate long-term studies in animals to evaluate  carcinogenic≠B-NonOSE_AE  potential have not been conducted with fluorouracil. Studies with the active ingredient of Carac, fluorouracil, have shown positive effects in in vitro  and in vivo  tests for  mutagenicity≠B-NonOSE_AE  and on  impairment≠B-NonOSE_AE   of≠I-NonOSE_AE   fertility≠I-NonOSE_AE  in in vivo  animal studies.
+
+ Fluorouracil produced morphological transformation of cells in in vitro  cell transformation assays. Morphological transformation was also produced in an in vitro  assay by a metabolite of fluorouracil, and the transformed cells produced  malignant≠B-NonOSE_AE   tumors≠I-NonOSE_AE  when injected into  immunosuppressed≠B-Not_AE_Candidate  syngeneic mice. Fluorouracil has been shown to exert  mutagenic≠B-NonOSE_AE  activity in yeast cells, Bacillus subtilis  , and Drosophila  assays. In addition, fluorouracil has produced  chromosome≠B-NonOSE_AE   damage≠I-NonOSE_AE  at concentrations of 1.0 and 2.0 mcg/mL in an in vitro  hamster fibroblast assay, was positive in a microwell mouse  lymphoma≠B-NonOSE_AE  assay, and was positive in in vivo  micronucleus assays in rats and mice following intraperitoneal administration. Some patients receiving cumulative doses of 0.24 to 1.0 g of fluorouracil parenterally have shown an increase in numerical and structural  chromosome≠B-NonOSE_AE   aberrations≠I-NonOSE_AE  in peripheral blood lymphocytes.
+
+ Fluorouracil has been shown to  impair≠B-NonOSE_AE   fertility≠I-NonOSE_AE  after parenteral administration in rats. Fluorouracil administered at intraperitoneal doses of 125 and 250 mg/kg has been shown to induce  chromosomal≠B-NonOSE_AE   aberrations≠I-NonOSE_AE  and  changes≠B-NonOSE_AE   in≠I-NonOSE_AE   chromosome≠I-NonOSE_AE   organization≠I-NonOSE_AE   of≠I-NonOSE_AE   spermatogonia≠I-NonOSE_AE  in rats. In mice, single-dose intravenous and intraperitoneal injections of fluorouracil have been reported to  kill≠B-NonOSE_AE   differentiated≠I-NonOSE_AE   spermatogonia≠I-NonOSE_AE  and spermatocytes at a dose of 500 mg/kg and produce  abnormalities≠B-NonOSE_AE   in≠I-NonOSE_AE   spermatids≠I-NonOSE_AE  at 50 mg/kg.
+
+    Pediatric Use:
+
+   Actinic≠B-Not_AE_Candidate   keratosis≠I-Not_AE_Candidate  is not a condition seen within the pediatric population, except in association with rare genetic diseases. Carac should not be used in children. The safety and effectiveness of Carac have not been established in patients less than 18 years old.
+
+    Geriatric Use:
+
+  No significant differences in safety and efficacy measures were demonstrated in patients age 65 and older compared to all other patients.
+
+    Pregnancy:
+
+  See  CONTRAINDICATIONS  .
+
+    Nursing Women:
+
+  It is not known whether fluorouracil is excreted in human milk. Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from fluorouracil, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+

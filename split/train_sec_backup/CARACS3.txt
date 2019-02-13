@@ -1,0 +1,10 @@
+   WARNINGS
+
+  The potential for a delayed hypersensitivity reaction to fluorouracil exists. Patch testing to prove hypersensitivity may be inconclusive.
+
+ Patients should discontinue therapy with Carac if symptoms of DPD enzyme deficiency develop.
+
+ Rarely, unexpected systemic toxicity (e.g., stomatitis, diarrhea, neutropenia, neurotoxicity) associated with parenteral administration of fluorouracil has been attributed to deficiency of dihydropyrimidine dehydrogenase "DPD" activity. One case of life-threatening systemic toxicity has been reported with the topical use of 5% fluorouracil in a patient with a complete absence of DPD enzyme activity. Symptoms included severe abdominal pain, bloody diarrhea, vomiting, fever, and chills. Physical examination revealed stomatitis, erythematous skin rash, neutropenia, thrombocytopenia, inflammation of the esophagus, stomach, and small bowel. Although this case was observed with 5% fluorouracil cream, it is unknown whether patients with profound DPD enzyme deficiency would develop systemic toxicity with lower concentrations of topically applied fluorouracil.
+
+ Applications to mucous membranes should be avoided due to the possibility of local inflammation and ulceration.
+

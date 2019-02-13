@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PATANOL">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Headaches have been reported at an incidence of 7%. The following adverse experiences have been reported in less than 5% of patients: asthenia, blurred vision, burning or stinging, cold syndrome, dry eye, foreign body sensation, hyperemia, hypersensitivity, keratitis, lid edema, nausea, pharyngitis, pruritus, rhinitis, sinusitis, and taste perversion. Some of these events were similar to the underlying disease being studied.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   
+
+
+
+   Information for Patients:  To prevent contaminating the dropper tip and solution, care should be taken not to touch the eyelids or surrounding areas with the dropper tip of the bottle. Keep bottle tightly closed when not in use.
+
+
+
+ Patients should be advised not to wear a contact lens if their eye is red. PATANOL(r) (olopatadine hydrochloride ophthalmic solution) 0.1% should not be used to treat contact lens related irritation. The preservative in PATANOL, benzalkonium chloride, may be absorbed by soft contact lenses. Patients who wear soft contact lenses and whose eyes are not red should be instructed to wait at least ten minutes after instilling PATANOL  (r)  (olopatadine hydrochloride ophthalmic solution) 0.1% before they insert their contact lenses.
+
+
+
+    
+
+
+
+   Carcinogenesis, Mutagenesis, Impairment of Fertility:  Olopatadine administered orally was not carcinogenic in mice and rats in doses up to 500 mg/kg/day and 200 mg/kg/day, respectively. Based on a 40 muL drop size, these doses were 78,125 and 31,250 times higher than the maximum recommended ocular human dose (MROHD). No mutagenic potential was observed when olopatadine was tested in an in vitro  bacterial reverse mutation (Ames) test, an in vitro  mammalian chromosome aberration assay or an in vivo  mouse micronucleus test. Olopatadine administered to male and female rats at oral doses of 62,500 times MROHD level resulted in a slight decrease in the fertility index and reduced implantation rate; no effects on reproductive function were observed at doses of 7,800 times the maximum recommended ocular human use level.
+
+
+
+    
+
+
+
+   Pregnancy:  Olopatadine was found not to be teratogenic in rats and rabbits. However, rats treated at 600 mg/kg/day, or 93,750 times the MROHD and rabbits treated at 400 mg/kg/day, or 62,500 times the MROHD, during organogenesis showed a decrease in live fetuses. There are, however, no adequate and well controlled studies in pregnant women. Because animal studies are not always predictive of human responses, this drug should be used in pregnant women only if the potential benefit to the mother justifies the potential risk to the embryo or fetus.
+
+
+
+    
+
+
+
+   Nursing Mothers:  Olopatadine has been identified in the milk of nursing rats following oral administration. It is not known whether topical ocular administration could result in sufficient systemic absorption to produce detectable quantities in the human breast milk. Nevertheless, caution should be exercised when PATANOL  (r)  (olopatadine hydrochloride ophthalmic solution) 0.1% is administered to a nursing mother.
+
+
+
+    
+
+
+
+   Pediatric Use:  Safety and effectiveness in pediatric patients below the age of 3 years have not been established.
+
+
+
+    
+
+
+
+   Geriatric Use:  No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="801" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="1643" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="2209" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="2643" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="2772" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

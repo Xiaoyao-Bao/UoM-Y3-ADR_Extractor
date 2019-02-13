@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CIPRODEX">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described elsewhere in the labeling:
+
+
+
+ *  Hypersensitivity Reactions [see  Warnings and Precautions (5.1)  ]  
+ *  Potential for Microbial Overgrowth with Prolonged Use [see  Warnings and Precautions (5.2)  ]  
+      EXCERPT:   Most common adverse reactions were ear discomfort (3%), ear pain (2.3%), and ear pruritus (1.5%). (  6  )  To report SUSPECTED ADVERSE REACTIONS, contact Alcon at 1-800-757-9195 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In Phases II and III clinical trials, a total of 937 patients were treated with CIPRODEX. This included 400 patients with acute otitis media with tympanostomy tubes and 537 patients with acute otitis externa. The reported adverse reactions are listed below:
+
+
+
+     Acute Otitis Media in Pediatric Patients with Tympanostomy Tubes    
+
+
+
+ The following adverse reactions occurred in 0.5% or more of the patients with non-intact tympanic membranes.
+
+
+
+
+ Adverse Reactions          Incidence (N=400)           
+  
+ Ear discomfort             3.0%                        
+ Ear pain                   2.3%                        
+ Ear precipitate (residue)  0.5%                        
+ Irritability               0.5%                        
+ Taste Perversion           0.5%                        
+      The following adverse reactions were each reported in a single patient: tympanostomy tube blockage; ear pruritus; tinnitus; oral moniliasis; crying; dizziness; and erythema.
+ 
+
+     Acute Otitis Externa        The following adverse reactions occurred in 0.4% or more of the patients with intact tympanic membranes
+
+
+
+
+ Adverse Reactions          Incidence (N=537)           
+  
+ Ear pruritus               1.5%                        
+ Ear debris                 0.6%                        
+ Superimposed ear infection  0.6%                        
+ Ear congestion             0.4%                        
+ Ear pain                   0.4%                        
+ Erythema                   0.4%                        
+      The following adverse reactions were each reported in a single patient: ear discomfort; decreased hearing; and ear disorder (tingling).
+ 
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post approval use of CIPRODEX.  Because these reactions are reported voluntarily from a population of unknown size it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.  These reactions include: auricular swelling, headache, hypersensitivity, otorrhea, skin exfoliation, rash erythematous, and vomiting.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+     EXCERPT:    *  Hypersensitivity and anaphylaxis have been reported with systemic use of quinolones. Discontinue use if this occurs with use of CIPRODEX. (  5.1  ) 
+ *  Prolonged use may result in overgrowth of non-susceptible bacteria and fungi. (  5.2  ) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  CIPRODEX should be discontinued at the first appearance of a skin rash or any other sign of hypersensitivity. Serious and occasionally fatal hypersensitivity (anaphylactic) reactions, some following the first dose, have been reported in patients receiving systemic quinolones. Some reactions were accompanied by cardiovascular collapse, loss of consciousness, angioedema (including laryngeal, pharyngeal or facial edema), airway obstruction, dyspnea, urticaria and itching.
+
+
+
+    5.2 Potential for Microbial Overgrowth with Prolonged Use
+
+
+
+  Prolonged use of CIPRODEX may result in overgrowth of non-susceptible, bacteria and fungi. If the infection is not improved after one week of treatment, cultures should be obtained to guide further treatment. If such infections occur, discontinue use and institute alternative therapy.
+
+
+
+    5.3 Continued or Recurrent Otorrhea
+
+
+
+  If otorrhea persists after a full course of therapy, or if two or more episodes of otorrhea occur within six months, further evaluation is recommended to exclude an underlying condition such as cholesteatoma, foreign body, or a tumor.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="262" name="excerpt" section="S2" start="38" />
+    <IgnoredRegion len="249" name="excerpt" section="S1" start="289" />
+    <IgnoredRegion len="30" name="heading" section="S2" start="307" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="542" />
+    <IgnoredRegion len="57" name="heading" section="S2" start="824" />
+    <IgnoredRegion len="35" name="heading" section="S2" start="1180" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="2520" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

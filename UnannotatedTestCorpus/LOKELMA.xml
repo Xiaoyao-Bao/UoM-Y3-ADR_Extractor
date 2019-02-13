@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="LOKELMA">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail elsewhere in the label:
+
+
+
+ *    Edema [see  Warnings and Precautions (5.2)  ] . 
+   *    Most common adverse reactions with LOKELMA: mild to moderate edema.  (6.1)   
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact    AstraZeneca at 1-800-236-9933    or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+ 
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+
+
+ The total exposure to LOKELMA in the safety and efficacy clinical trials of patients with hyperkalemia was 1,760 patients with 652 patients exposed to LOKELMA for at least 6 months and 507 patients exposed for at least one year.
+
+
+
+ The population (n=1,009) in the placebo-controlled trials included patients aged 22 to 96 years, females (n=454), Caucasians (n=859) and Blacks (n=130). Patients had hyperkalemia in association with comorbid diseases such as chronic kidney disease, heart failure and diabetes mellitus.
+
+
+
+ In placebo-controlled trials in which patients were treated with once daily doses of LOKELMA for up to 28 days, edema was reported in 4.4% of patients receiving 5 g, 5.9% of patients receiving 10 g and 16.1% of patients receiving 15 g LOKELMA compared to 2.4% of patients receiving placebo. In longer-term uncontrolled trials in which most patients were maintained on doses &lt;15 g once daily, adverse reactions of edema (edema, generalized edema and peripheral edema) were reported in 8% to 11% of patients.
+
+
+
+   Laboratory Abnormalities  
+
+
+
+ In clinical trials, 4.1% of LOKELMA-treated patients developed hypokalemia with a serum potassium value less than 3.5 mEq/L, which resolved with dosage reduction or discontinuation of LOKELMA.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Gastrointestinal Adverse Events in Patients with Motility Disorders.  (5.1)   
+ *    Edema.  (5.2)   
+    
+ 
+
+   5.1 Gastrointestinal Adverse Events in Patients with Motility Disorders
+
+
+
+  Avoid use of LOKELMA in patients with severe constipation, bowel obstruction or impaction, including abnormal post-operative bowel motility disorders, because LOKELMA has not been studied in patients with these conditions and may be ineffective and may worsen gastrointestinal conditions.
+
+
+
+    5.2 Edema
+
+
+
+  Each 5 g dose of LOKELMA contains approximately 400 mg of sodium. In clinical trials of LOKELMA, edema was generally mild to moderate in severity and was more commonly seen in patients treated with 15 g once daily. Monitor for signs of edema, particularly in patients who should restrict their sodium intake or are prone to fluid overload (e.g., heart failure or renal disease). Advise patients to adjust dietary sodium, if appropriate. Increase the dose of diuretics as needed [see  Adverse Reactions (6)  ]  .
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="124" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="71" name="heading" section="S2" start="167" />
+    <IgnoredRegion len="156" name="excerpt" section="S1" start="264" />
+    <IgnoredRegion len="31" name="heading" section="S1" start="424" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="540" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoldLabel drug="PLAVIX">
+  <Text>
+    <Section id="S1" name="adverse reactions">  6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed below and elsewhere in the labeling:
+
+ *  Bleeding [see  Warnings and Precautions (5.2)  ]  
+ *  Thrombotic thrombocytopenic purpura [see  Warnings and Precautions (5.4)  ]  
+      EXCERPT:   Bleeding, including life-threatening and fatal bleeding, is the most commonly reported adverse reaction. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Bristol-Myers Squibb/Sanofi Pharmaceuticals Partnership at 1-800-633-1610 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions and durations of follow-up, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+ Plavix has been evaluated for safety in more than 54,000 patients, including over 21,000 patients treated for one year or more. The clinically important adverse reactions observed in trials comparing Plavix plus aspirin to placebo plus aspirin and trials comparing Plavix alone to aspirin alone are discussed below.
+
+     Bleeding  
+
+   CURE
+
+ In CURE, Plavix use with aspirin was associated with an increase in major bleeding (primarily gastrointestinal and at puncture sites) compared to placebo with aspirin (see  Table 1  ). The incidence of intracranial hemorrhage (0.1%) and fatal bleeding (0.2%) were the same in both groups. Other bleeding events that were reported more frequently in the clopidogrel group were epistaxis, hematuria, and bruise.
+
+ The overall incidence of bleeding is described in Table 1.
+
+ Table 1: CURE Incidence of Bleeding Complications (% patients) 
+ Event                                               Plavix(+ aspirin)(n=6259)  Placebo(+ aspirin)(n=6303)   
+  
+   Major bleeding   [note: Life-threatening and other major bleeding.]              3.7                        2.7              
+   Life-threatening bleeding                                    2.2                        1.8              
+     Fatal                                                      0.2                        0.2              
+     5 g/dL hemoglobin drop                                     0.9                        0.9              
+     Requiring surgical intervention                            0.7                        0.7              
+     Hemorrhagic strokes                                        0.1                        0.1              
+     Requiring inotropes                                        0.5                        0.5              
+     Requiring transfusion (&gt;=4 units)                          1.2                        1.0              
+   Other major bleeding                                         1.6                        1.0              
+     Significantly disabling                                    0.4                        0.3              
+     Intraocular bleeding with significant loss of vision            0.05                       0.03              
+     Requiring 2-3 units of blood                               1.3                        0.9              
+   Minor bleeding   [note: Led to interruption of study medication.]              5.1                        2.4              
+           COMMIT
+ 
+
+ In COMMIT, similar rates of major bleeding were observed in the Plavix and placebo groups, both of which also received aspirin (see  Table 2  ).
+
+ Table 2: Incidence of Bleeding Events in COMMIT (% patients) 
+ Type of Bleeding                          Plavix(+ aspirin)(n=22961)  Placebo(+ aspirin)(n=22891)        p-value          
+  
+ Major [note: Major bleeds were cerebral bleeds or noncerebral bleeds thought to have caused death or that required transfusion.] noncerebral or cerebral bleeding          0.6                   0.5                   0.59           
+   Major noncerebral                               0.4                   0.3                   0.48           
+   Fatal                                           0.2                   0.2                   0.90           
+ Hemorrhagic stroke                                0.2                   0.2                   0.91           
+   Fatal                                           0.2                   0.2                   0.81           
+ Other noncerebral bleeding (nonmajor)             3.6                   3.1                  0.005           
+ Any noncerebral bleeding                          3.9                   3.4                  0.004           
+            CAPRIE (Plavix vs Aspirin)
+ 
+
+ In CAPRIE, gastrointestinal hemorrhage occurred at a rate of 2.0% in those taking Plavix versus 2.7% in those taking aspirin; bleeding requiring hospitalization occurred in 0.7% and 1.1%, respectively. The incidence of intracranial hemorrhage was 0.4% for Plavix compared to 0.5% for aspirin.
+
+ Other bleeding events that were reported more frequently in the Plavix group were epistaxis and hematoma.
+
+     Other Adverse Events  
+
+ In CURE and CHARISMA, which compared Plavix plus aspirin to aspirin alone, there was no difference in the rate of adverse events (other than bleeding) between Plavix and placebo.
+
+ In CAPRIE, which compared Plavix to aspirin, pruritus was more frequently reported in those taking Plavix. No other difference in the rate of adverse events (other than bleeding) was reported.
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during postapproval use of Plavix. Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+ Hemorrhages, including those with fatal outcome, have been reported in patients treated with Plavix.
+
+ *   Blood and lymphatic system disorders : Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP), acquired hemophilia A 
+ *   Gastrointestinal disorders: Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea 
+ *   General disorders and administration site condition : Fever 
+ *   Hepatobiliary disorders: Acute liver failure, hepatitis (noninfectious), abnormal liver function test 
+ *   Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness 
+ *   Musculoskeletal, connective tissue and bone disorders: Myalgia, arthralgia, arthritis 
+ *   Nervous system disorders : Taste disorders, headache, ageusia 
+ *   Psychiatric disorders: Confusion, hallucinations 
+ *   Respiratory, thoracic and mediastinal disorders: Bronchospasm, interstitial pneumonitis, eosinophilic pneumonia 
+ *   Renal and urinary disorders: Increased creatinine levels 
+ *   Skin and subcutaneous tissue disorders: Maculopapular, erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis (AGEP), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, lichen planus, generalized pruritus 
+ *   Vascular disorders: Vasculitis, hypotension 
+
+</Section>
+    <Section id="S2" name="boxed warnings">
+
+    BOXED WARNING: WARNING: DIMINISHED ANTIPLATELET EFFECT IN PATIENTS WITH TWO LOSS-OF-FUNCTION ALLELES OF THE CYP2C19 GENE
+
+  WARNING: DIMINISHED ANTIPLATELET EFFECT IN PATIENTS WITH TWO LOSS-OF-FUNCTION ALLELES OF THE CYP2C19 GENE
+
+  EXCERPT:   WARNING:  DIMINISHED ANTIPLATELET EFFECT IN PATIENTS WITH TWO LOSS-OF-FUNCTION ALLELES OF THE CYP2C19 GENE
+
+   See full prescribing information for complete boxed warning.  
+
+ *  Effectiveness of Plavix depends on conversion to an active metabolite by the cytochrome P450 (CYP) system, principally CYP2C19. (5.1, 12.3) 
+ *  Tests are available to identify patients who are CYP2C19 poor metabolizers. (12.5) 
+ *  Consider use of another platelet P2Y12 inhibitor in patients identified as CYP2C19 poor metabolizers. (5.1) 
+    
+ 
+
+    The effectiveness of Plavix results from its antiplatelet activity, which is dependent on its conversion to an active metabolite by the cytochrome P450 (CYP) system, principally CYP2C19   [see   Warnings and Precautions (5.1)  ,   Clinical Pharmacology (12.3)  ]  .  Plavix at recommended doses forms less of  the active metabolite and so has a reduced effect on platelet activity in patients who are homozygous for nonfunctional alleles of the CYP2C19 gene, (termed "CYP2C19 poor metabolizers").  Tests are available to identify patients who are CYP2C19 poor metabolizers   [see   Clinical Pharmacology (12.5)  ]  .  Consider use of another platelet P2Y12 inhibitor in patients identified as CYP2C19 poor metabolizers.  
+
+</Section>
+    <Section id="S3" name="warnings and precautions">   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  CYP2C19 inhibitors: Avoid concomitant use of omeprazole or esomeprazole. (  5.1  ) 
+ *  Bleeding: Plavix increases risk of bleeding. (  5.2  ) 
+ *  Discontinuation: Premature discontinuation increases risk of cardiovascular events. Discontinue 5 days prior to elective surgery that has a major risk of bleeding. (  5.3  ) 
+ *  Thrombotic thrombocytopenic purpura (TTP) has been reported. (  5.4  ) 
+ *  Cross-reactivity among thienopyridines has been reported. (  5.5  ) 
+    
+ 
+
+   5.1 Diminished Antiplatelet Activity in Patients with Impaired CYP2C19 Function
+
+  Clopidogrel is a prodrug. Inhibition of platelet aggregation by clopidogrel is achieved through an active metabolite. The metabolism of clopidogrel to its active metabolite can be impaired by genetic variations in CYP2C19 [see  Boxed Warning  ].  
+
+ The metabolism of clopidogrel can also be impaired by drugs that inhibit CYP2C19, such as omeprazole or esomeprazole. Avoid concomitant use of Plavix with omeprazole or esomeprazole because both significantly reduce the antiplatelet activity of Plavix [see  Drug Interactions (7.1)  ]  .
+
+    5.2 General Risk of Bleeding
+
+  Thienopyridines, including Plavix, increase the risk of bleeding.
+
+ Thienopyridines inhibit platelet aggregation for the lifetime of the platelet (7-10 days). Because the half-life of clopidogrel's active metabolite is short, it may be possible to restore hemostasis by administering exogenous platelets; however, platelet transfusions within 4 hours of the loading dose or 2 hours of the maintenance dose may be less effective.
+
+    5.3 Discontinuation of Plavix
+
+  Discontinuation of Plavix increases the risk of cardiovascular events. If Plavix must be temporarily discontinued (e.g., to treat bleeding or for surgery with a major risk of bleeding), restart it as soon as possible. When possible, interrupt therapy with Plavix for five days prior to such surgery. Resume Plavix as soon as hemostasis is achieved.
+
+    5.4 Thrombotic Thrombocytopenic Purpura (TTP)
+
+  TTP, sometimes fatal, has been reported following use of Plavix, sometimes after a short exposure (&lt;2 weeks). TTP is a serious condition that requires urgent treatment including plasmapheresis (plasma exchange). It is characterized by thrombocytopenia, microangiopathic hemolytic anemia (schistocytes [fragmented RBCs] seen on peripheral smear), neurological findings, renal dysfunction, and fever [see  Adverse Reactions (6.2)  ].  
+
+    5.5 Cross-Reactivity among Thienopyridines
+
+  Hypersensitivity including rash, angioedema or hematologic reaction has been reported in patients receiving Plavix, including patients with a history of hypersensitivity or hematologic reaction to other thienopyridines [see  Contraindications (4.2)  and  Adverse Reactions (6.2)  ]  .
+
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="2" />
+    <IgnoredRegion len="26" name="heading" section="S3" start="3" />
+    <IgnoredRegion len="492" name="excerpt" section="S3" start="33" />
+    <IgnoredRegion len="105" name="heading" section="S2" start="130" />
+    <IgnoredRegion len="537" name="excerpt" section="S2" start="238" />
+    <IgnoredRegion len="308" name="excerpt" section="S1" start="259" />
+    <IgnoredRegion len="79" name="heading" section="S3" start="532" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="571" />
+    <IgnoredRegion len="28" name="heading" section="S3" start="1158" />
+    <IgnoredRegion len="29" name="heading" section="S3" start="1624" />
+    <IgnoredRegion len="45" name="heading" section="S3" start="2011" />
+    <IgnoredRegion len="42" name="heading" section="S3" start="2499" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="5462" />
+  </IgnoredRegions>
+  <Mentions>
+    <Mention id="M23" len="8" reason="from_drug_use" section="S1" start="121" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M24" len="35" reason="from_drug_use" section="S1" start="176" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Thrombotic thrombocytopenic purpura" meddra_llt_id="10043648" meddra_pt="Thrombotic thrombocytopenic purpura" meddra_pt_id="10043648" />
+    </Mention>
+    <Mention id="M86" len="36" reason="from_drug_use" section="S1" start="1316" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding gastrointestinal" meddra_llt_id="10005116" meddra_pt="Gastrointestinal haemorrhage" meddra_pt_id="10017955" />
+    </Mention>
+    <Mention id="M87" len="19,17" reason="from_drug_use" section="S1" start="1316,1357" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Puncture site bleeding" meddra_llt_id="10071871" meddra_pt="Puncture site haemorrhage" meddra_pt_id="10051101" />
+    </Mention>
+    <Mention id="M88" len="8" reason="from_drug_use" section="S1" start="1316" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M89" len="23" reason="from_drug_use" section="S1" start="1444" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hemorrhage intracranial" meddra_llt_id="10019552" meddra_pt="Haemorrhage intracranial" meddra_pt_id="10018985" />
+    </Mention>
+    <Mention id="M20" len="5" reason="general_term" section="S1" start="1479" type="NonOSE_AE">
+      <Normalization meddra_llt="Death" meddra_llt_id="10011906" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Mention>
+    <Mention id="M90" len="8" reason="from_drug_use" section="S1" start="1485" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M91" len="8" reason="from_drug_use" section="S1" start="1537" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M92" len="9" reason="from_drug_use" section="S1" start="1618" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Epistaxis" meddra_llt_id="10015090" meddra_pt="Epistaxis" meddra_pt_id="10015090" />
+    </Mention>
+    <Mention id="M94" len="9" reason="from_drug_use" section="S1" start="1629" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hematuria" meddra_llt_id="10019450" meddra_pt="Haematuria" meddra_pt_id="10018867" />
+    </Mention>
+    <Mention id="M93" len="6" reason="from_drug_use" section="S1" start="1644" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bruise" meddra_llt_id="10006502" meddra_pt="Contusion" meddra_pt_id="10050584" />
+    </Mention>
+    <Mention id="M1" len="8" reason="AE_only_as_instruction" section="S1" start="1679" type="NonOSE_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M108" len="8" reason="from_drug_use" section="S1" start="1742" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M25" len="8" reason="from_drug_use" section="S1" start="1901" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M26" len="8" reason="from_drug_use" section="S1" start="1952" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M27" len="8" reason="from_drug_use" section="S1" start="2041" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M2" len="5" reason="general_term" section="S1" start="2135" type="NonOSE_AE">
+      <Normalization meddra_llt="Death" meddra_llt_id="10011906" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Mention>
+    <Mention id="M84" len="15" reason="from_drug_use" section="S1" start="2251" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hemoglobin decreased" meddra_llt_id="10019483" meddra_pt="Haemoglobin decreased" meddra_pt_id="10018884" />
+    </Mention>
+    <Mention id="M28" len="19" reason="from_drug_use" section="S1" start="2462" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hemorrhagic stroke" meddra_llt_id="10048863" meddra_pt="Haemorrhagic stroke" meddra_pt_id="10019016" />
+    </Mention>
+    <Mention id="M29" len="8" reason="from_drug_use" section="S1" start="2799" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M30" len="20" reason="from_drug_use" section="S1" start="3007" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Haemorrhage intraocular" meddra_llt_id="10055816" meddra_pt="Eye haemorrhage" meddra_pt_id="10015926" />
+    </Mention>
+    <Mention id="M3" len="14" reason="manifestation_or_complication" section="S1" start="3045" type="NonOSE_AE">
+      <Normalization meddra_llt="Loss of vision" meddra_llt_id="10024881" meddra_pt="Blindness" meddra_pt_id="10005169" />
+    </Mention>
+    <Mention id="M85" len="8" reason="from_drug_use" section="S1" start="3235" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M31" len="8" reason="from_drug_use" section="S1" start="3409" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M109" len="8,11" reason="from_drug_use" section="S1" start="3593,3762" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M95" len="15" reason="from_drug_use" section="S1" start="3743" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Intracerebral bleed" meddra_llt_id="10022751" meddra_pt="Cerebral haemorrhage" meddra_pt_id="10008111" />
+    </Mention>
+    <Mention id="M96" len="18" reason="from_drug_use" section="S1" start="3762" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Major bleed" meddra_llt_id="10070921" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M4" len="5" reason="general_term" section="S1" start="3804" type="NonOSE_AE">
+      <Normalization meddra_llt="Death" meddra_llt_id="10011906" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Mention>
+    <Mention id="M97" len="11,8" reason="from_drug_use" section="S1" start="3841,3865" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M98" len="17" reason="from_drug_use" section="S1" start="3856" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Cerebral bleeding" meddra_llt_id="10071793" meddra_pt="Cerebral haemorrhage" meddra_pt_id="10008111" />
+    </Mention>
+    <Mention id="M5" len="5" reason="general_term" section="S1" start="4057" type="NonOSE_AE">
+      <Normalization meddra_llt="Death" meddra_llt_id="10011906" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Mention>
+    <Mention id="M32" len="18" reason="from_drug_use" section="S1" start="4166" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hemorrhagic stroke" meddra_llt_id="10048863" meddra_pt="Haemorrhagic stroke" meddra_pt_id="10019016" />
+    </Mention>
+    <Mention id="M6" len="5" reason="general_term" section="S1" start="4279" type="NonOSE_AE">
+      <Normalization meddra_llt="Death" meddra_llt_id="10011906" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Mention>
+    <Mention id="M99" len="20" reason="from_drug_use" section="S1" start="4394" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M100" len="20" reason="from_drug_use" section="S1" start="4503" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M105" len="27" reason="from_drug_use" section="S1" start="4663" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hemorrhage gastrointestinal" meddra_llt_id="10019543" meddra_pt="Gastrointestinal haemorrhage" meddra_pt_id="10017955" />
+    </Mention>
+    <Mention id="M107" len="8" reason="from_drug_use" section="S1" start="4778" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M106" len="23" reason="from_drug_use" section="S1" start="4871" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hemorrhage intracranial" meddra_llt_id="10019552" meddra_pt="Haemorrhage intracranial" meddra_pt_id="10018985" />
+    </Mention>
+    <Mention id="M33" len="8" reason="from_drug_use" section="S1" start="4953" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M34" len="9" reason="from_drug_use" section="S1" start="5029" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Epistaxis" meddra_llt_id="10015090" meddra_pt="Epistaxis" meddra_pt_id="10015090" />
+    </Mention>
+    <Mention id="M35" len="8" reason="from_drug_use" section="S1" start="5043" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hematoma" meddra_llt_id="10019428" meddra_pt="Haematoma" meddra_pt_id="10018852" />
+    </Mention>
+    <Mention id="M22" len="8" reason="AE_only_as_instruction" section="S1" start="5225" type="NonOSE_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M36" len="8" reason="from_drug_use" section="S1" start="5310" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Pruritus" meddra_llt_id="10037087" meddra_pt="Pruritus" meddra_pt_id="10037087" />
+    </Mention>
+    <Mention id="M21" len="8" reason="AE_only_as_instruction" section="S1" start="5434" type="NonOSE_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M37" len="11" reason="from_drug_use" section="S1" start="5787" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hemorrhage" meddra_llt_id="10019524" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M7" len="5" reason="general_term" section="S1" start="5821" type="NonOSE_AE">
+      <Normalization meddra_llt="Death" meddra_llt_id="10011906" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Mention>
+    <Mention id="M8" len="36" reason="general_term" section="S1" start="5894" type="NonOSE_AE">
+      <Normalization meddra_llt="Blood disorder" meddra_llt_id="10061590" meddra_pt="Blood disorder" meddra_pt_id="10061590" />
+      <Normalization meddra_pt="Haematology test abnormal" meddra_pt_id="10057755" />
+    </Mention>
+    <Mention id="M38" len="15" reason="from_drug_use" section="S1" start="5933" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Agranulocytosis" meddra_llt_id="10001507" meddra_pt="Agranulocytosis" meddra_pt_id="10001507" />
+    </Mention>
+    <Mention id="M39" len="15" reason="from_drug_use" section="S1" start="5950" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Aplastic anemia" meddra_llt_id="10002969" meddra_pt="Aplastic anaemia" meddra_pt_id="10002967" />
+    </Mention>
+    <Mention id="M40" len="12" reason="from_drug_use" section="S1" start="5966" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Pancytopenia" meddra_llt_id="10033661" meddra_pt="Pancytopenia" meddra_pt_id="10033661" />
+    </Mention>
+    <Mention id="M41" len="35" reason="from_drug_use" section="S1" start="5980" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Thrombotic thrombocytopenic purpura" meddra_llt_id="10043648" meddra_pt="Thrombotic thrombocytopenic purpura" meddra_pt_id="10043648" />
+    </Mention>
+    <Mention id="M42" len="21" reason="from_drug_use" section="S1" start="6023" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Acquired hemophilia" meddra_llt_id="10053760" meddra_pt="Acquired haemophilia" meddra_pt_id="10053745" />
+    </Mention>
+    <Mention id="M9" len="26" reason="general_term" section="S1" start="6051" type="NonOSE_AE">
+      <Normalization meddra_llt="Disorder gastrointestinal" meddra_llt_id="10013225" meddra_pt="Gastrointestinal disorder" meddra_pt_id="10017944" />
+    </Mention>
+    <Mention id="M43" len="7" reason="from_drug_use" section="S1" start="6079" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Colitis" meddra_llt_id="10009887" meddra_pt="Colitis" meddra_pt_id="10009887" />
+    </Mention>
+    <Mention id="M101" len="10,7" reason="from_drug_use" section="S1" start="6098,6124" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Colitis ulcerative" meddra_llt_id="10009900" meddra_pt="Colitis ulcerative" meddra_pt_id="10009900" />
+    </Mention>
+    <Mention id="M102" len="19" reason="from_drug_use" section="S1" start="6112" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Lymphocytic colitis" meddra_llt_id="10025268" meddra_pt="Colitis microscopic" meddra_pt_id="10056979" />
+    </Mention>
+    <Mention id="M44" len="12" reason="from_drug_use" section="S1" start="6134" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Pancreatitis" meddra_llt_id="10033645" meddra_pt="Pancreatitis" meddra_pt_id="10033645" />
+    </Mention>
+    <Mention id="M45" len="10" reason="from_drug_use" section="S1" start="6148" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Stomatitis" meddra_llt_id="10042128" meddra_pt="Stomatitis" meddra_pt_id="10042128" />
+    </Mention>
+    <Mention id="M103" len="7,5" reason="from_drug_use" section="S1" start="6160,6177" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Gastric ulcer" meddra_llt_id="10017822" meddra_pt="Gastric ulcer" meddra_pt_id="10017822" />
+    </Mention>
+    <Mention id="M46" len="14" reason="from_drug_use" section="S1" start="6168" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Duodenal ulcer" meddra_llt_id="10013836" meddra_pt="Duodenal ulcer" meddra_pt_id="10013836" />
+    </Mention>
+    <Mention id="M47" len="8" reason="from_drug_use" section="S1" start="6184" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Diarrhea" meddra_llt_id="10012727" meddra_pt="Diarrhoea" meddra_pt_id="10012735" />
+    </Mention>
+    <Mention id="M10" len="51" reason="general_term" section="S1" start="6199" type="NonOSE_AE">
+      <Normalization meddra_llt="General symptom" meddra_llt_id="10060891" meddra_pt="General symptom" meddra_pt_id="10060891" />
+    </Mention>
+    <Mention id="M48" len="5" reason="from_drug_use" section="S1" start="6253" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Fever" meddra_llt_id="10016558" meddra_pt="Pyrexia" meddra_pt_id="10037660" />
+    </Mention>
+    <Mention id="M11" len="23" reason="general_term" section="S1" start="6265" type="NonOSE_AE">
+      <Normalization meddra_llt="Hepatobiliary disease" meddra_llt_id="10062000" meddra_pt="Hepatobiliary disease" meddra_pt_id="10062000" />
+    </Mention>
+    <Mention id="M49" len="19" reason="from_drug_use" section="S1" start="6290" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Acute liver failure" meddra_llt_id="10049844" meddra_pt="Acute hepatic failure" meddra_pt_id="10000804" />
+    </Mention>
+    <Mention id="M50" len="9,13" reason="from_drug_use" section="S1" start="6311,6322" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hepatitis" meddra_llt_id="10019717" meddra_pt="Hepatitis" meddra_pt_id="10019717" />
+    </Mention>
+    <Mention id="M104" len="28" reason="from_drug_use" section="S1" start="6338" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Liver function test abnormal" meddra_llt_id="10024690" meddra_pt="Liver function test abnormal" meddra_pt_id="10024690" />
+    </Mention>
+    <Mention id="M12" len="23" reason="general_term" section="S1" start="6373" type="NonOSE_AE">
+      <Normalization meddra_llt="Immune system disorder" meddra_llt_id="10021425" meddra_pt="Immune system disorder" meddra_pt_id="10021425" />
+    </Mention>
+    <Mention id="M51" len="26" reason="from_drug_use" section="S1" start="6398" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Drug hypersensitivity" meddra_llt_id="10013700" meddra_pt="Drug hypersensitivity" meddra_pt_id="10013700" />
+      <Normalization meddra_pt="Hypersensitivity" meddra_pt_id="10020751" />
+    </Mention>
+    <Mention id="M52" len="23" reason="from_drug_use" section="S1" start="6426" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Anaphylactoid reaction" meddra_llt_id="10002216" meddra_pt="Anaphylactoid reaction" meddra_pt_id="10002216" />
+    </Mention>
+    <Mention id="M53" len="14" reason="from_drug_use" section="S1" start="6451" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Serum sickness" meddra_llt_id="10040400" meddra_pt="Serum sickness" meddra_pt_id="10040400" />
+    </Mention>
+    <Mention id="M13" len="53" reason="general_term" section="S1" start="6472" type="NonOSE_AE">
+      <Normalization meddra_llt="Musculoskeletal disorder" meddra_llt_id="10048592" meddra_pt="Musculoskeletal disorder" meddra_pt_id="10048592" />
+    </Mention>
+    <Mention id="M54" len="7" reason="from_drug_use" section="S1" start="6527" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Myalgia" meddra_llt_id="10028411" meddra_pt="Myalgia" meddra_pt_id="10028411" />
+    </Mention>
+    <Mention id="M55" len="10" reason="from_drug_use" section="S1" start="6536" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Arthralgia" meddra_llt_id="10003239" meddra_pt="Arthralgia" meddra_pt_id="10003239" />
+    </Mention>
+    <Mention id="M56" len="9" reason="from_drug_use" section="S1" start="6548" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Arthritis" meddra_llt_id="10003246" meddra_pt="Arthritis" meddra_pt_id="10003246" />
+    </Mention>
+    <Mention id="M14" len="24" reason="general_term" section="S1" start="6564" type="NonOSE_AE">
+      <Normalization meddra_llt="Nervous system disorder" meddra_llt_id="10029202" meddra_pt="Nervous system disorder" meddra_pt_id="10029202" />
+      <Normalization meddra_pt="Neurotoxicity" meddra_pt_id="10029350" />
+      <Normalization meddra_pt="Neurological symptom" meddra_pt_id="10060860" />
+    </Mention>
+    <Mention id="M57" len="15" reason="from_drug_use" section="S1" start="6591" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bad taste" meddra_llt_id="10004065" meddra_pt="Dysgeusia" meddra_pt_id="10013911" />
+    </Mention>
+    <Mention id="M58" len="8" reason="from_drug_use" section="S1" start="6608" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Headache" meddra_llt_id="10019211" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Mention>
+    <Mention id="M59" len="7" reason="from_drug_use" section="S1" start="6618" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Ageusia" meddra_llt_id="10001480" meddra_pt="Ageusia" meddra_pt_id="10001480" />
+    </Mention>
+    <Mention id="M15" len="21" reason="general_term" section="S1" start="6632" type="NonOSE_AE">
+      <Normalization meddra_llt="Psychiatric disorder NOS" meddra_llt_id="10037174" meddra_pt="Mental disorder" meddra_pt_id="10061284" />
+      <Normalization meddra_pt="Psychiatric symptom" meddra_pt_id="10061472" />
+    </Mention>
+    <Mention id="M60" len="9" reason="from_drug_use" section="S1" start="6655" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Confusion" meddra_llt_id="10010300" meddra_pt="Confusional state" meddra_pt_id="10010305" />
+    </Mention>
+    <Mention id="M61" len="14" reason="from_drug_use" section="S1" start="6666" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hallucinations" meddra_llt_id="10019077" meddra_pt="Hallucination" meddra_pt_id="10019063" />
+    </Mention>
+    <Mention id="M16" len="47" reason="general_term" section="S1" start="6687" type="NonOSE_AE">
+      <Normalization meddra_llt="Respiratory disorder" meddra_llt_id="10038683" meddra_pt="Respiratory disorder" meddra_pt_id="10038683" />
+    </Mention>
+    <Mention id="M62" len="12" reason="from_drug_use" section="S1" start="6736" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bronchospasm" meddra_llt_id="10006482" meddra_pt="Bronchospasm" meddra_pt_id="10006482" />
+    </Mention>
+    <Mention id="M63" len="24" reason="from_drug_use" section="S1" start="6750" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Interstitial pneumonitis" meddra_llt_id="10022618" meddra_pt="Interstitial lung disease" meddra_pt_id="10022611" />
+    </Mention>
+    <Mention id="M64" len="22" reason="from_drug_use" section="S1" start="6776" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Eosinophilic pneumonia" meddra_llt_id="10014962" meddra_pt="Eosinophilic pneumonia" meddra_pt_id="10014962" />
+    </Mention>
+    <Mention id="M17" len="27" reason="general_term" section="S1" start="6805" type="NonOSE_AE">
+      <Normalization meddra_llt="Disorder renal" meddra_llt_id="10013263" meddra_pt="Renal disorder" meddra_pt_id="10038428" />
+    </Mention>
+    <Mention id="M65" len="27" reason="from_drug_use" section="S1" start="6834" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Creatinine increased" meddra_llt_id="10011368" meddra_pt="Blood creatinine increased" meddra_pt_id="10005483" />
+    </Mention>
+    <Mention id="M18" len="38" reason="general_term" section="S1" start="6868" type="NonOSE_AE">
+      <Normalization meddra_llt="Other disorders of skin and subcutaneous tissue" meddra_llt_id="10032001" meddra_pt="Skin disorder" meddra_pt_id="10040831" />
+    </Mention>
+    <Mention id="M66" len="13,4" reason="from_drug_use" section="S1" start="6908,6951" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Maculopapular rash" meddra_llt_id="10025424" meddra_pt="Rash maculo-papular" meddra_pt_id="10037868" />
+    </Mention>
+    <Mention id="M67" len="12,4" reason="from_drug_use" section="S1" start="6923,6951" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Erythematous rash" meddra_llt_id="10015243" meddra_pt="Rash erythematous" meddra_pt_id="10037855" />
+    </Mention>
+    <Mention id="M68" len="16" reason="from_drug_use" section="S1" start="6939" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Exfoliative rash" meddra_llt_id="10064579" meddra_pt="Exfoliative rash" meddra_pt_id="10064579" />
+    </Mention>
+    <Mention id="M69" len="9" reason="from_drug_use" section="S1" start="6957" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Urticaria" meddra_llt_id="10046735" meddra_pt="Urticaria" meddra_pt_id="10046735" />
+    </Mention>
+    <Mention id="M70" len="18" reason="from_drug_use" section="S1" start="6968" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bullous dermatitis" meddra_llt_id="10006556" meddra_pt="Dermatitis bullous" meddra_pt_id="10012441" />
+    </Mention>
+    <Mention id="M71" len="6" reason="from_drug_use" section="S1" start="6988" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Eczema" meddra_llt_id="10014184" meddra_pt="Eczema" meddra_pt_id="10014184" />
+    </Mention>
+    <Mention id="M72" len="26" reason="from_drug_use" section="S1" start="6996" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Toxic epidermal necrolysis" meddra_llt_id="10044223" meddra_pt="Toxic epidermal necrolysis" meddra_pt_id="10044223" />
+    </Mention>
+    <Mention id="M73" len="24" reason="from_drug_use" section="S1" start="7024" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Syndrome Stevens-Johnson" meddra_llt_id="10042849" meddra_pt="Stevens-Johnson syndrome" meddra_pt_id="10042033" />
+    </Mention>
+    <Mention id="M74" len="49" reason="from_drug_use" section="S1" start="7050" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Acute generalized exanthematous pustulosis" meddra_llt_id="10062372" meddra_pt="Acute generalised exanthematous pustulosis" meddra_pt_id="10048799" />
+    </Mention>
+    <Mention id="M75" len="10" reason="from_drug_use" section="S1" start="7101" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Angioedema" meddra_llt_id="10002424" meddra_pt="Angioedema" meddra_pt_id="10002424" />
+    </Mention>
+    <Mention id="M76" len="38" reason="from_drug_use" section="S1" start="7113" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Drug-induced hypersensitivity syndrome" meddra_llt_id="10059724" meddra_pt="Drug reaction with eosinophilia and systemic symptoms" meddra_pt_id="10073508" />
+    </Mention>
+    <Mention id="M77" len="49" reason="from_drug_use" section="S1" start="7153" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Drug rash with eosinophilia and systemic symptoms" meddra_llt_id="10058919" meddra_pt="Drug reaction with eosinophilia and systemic symptoms" meddra_pt_id="10073508" />
+    </Mention>
+    <Mention id="M78" len="5" reason="from_drug_use" section="S1" start="7204" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="DRESS syndrome" meddra_llt_id="10058899" meddra_pt="Drug reaction with eosinophilia and systemic symptoms" meddra_pt_id="10073508" />
+    </Mention>
+    <Mention id="M79" len="19" reason="from_drug_use" section="S1" start="7212" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Erythema multiforme" meddra_llt_id="10015218" meddra_pt="Erythema multiforme" meddra_pt_id="10015218" />
+    </Mention>
+    <Mention id="M80" len="13" reason="from_drug_use" section="S1" start="7233" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Lichen planus" meddra_llt_id="10024429" meddra_pt="Lichen planus" meddra_pt_id="10024429" />
+    </Mention>
+    <Mention id="M81" len="20" reason="from_drug_use" section="S1" start="7248" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Generalized pruritus" meddra_llt_id="10018123" meddra_pt="Pruritus generalised" meddra_pt_id="10052576" />
+    </Mention>
+    <Mention id="M19" len="18" reason="general_term" section="S1" start="7275" type="NonOSE_AE">
+      <Normalization meddra_llt="Disorder vascular" meddra_llt_id="10013282" meddra_pt="Angiopathy" meddra_pt_id="10059245" />
+    </Mention>
+    <Mention id="M82" len="10" reason="from_drug_use" section="S1" start="7295" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Vasculitis" meddra_llt_id="10047115" meddra_pt="Vasculitis" meddra_pt_id="10047115" />
+    </Mention>
+    <Mention id="M83" len="11" reason="from_drug_use" section="S1" start="7307" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hypotension" meddra_llt_id="10021097" meddra_pt="Hypotension" meddra_pt_id="10021097" />
+    </Mention>
+    <Mention id="M112" len="35" reason="AE_only_as_instruction" section="S2" start="1128" type="NonOSE_AE">
+      <Normalization meddra_llt="Drug effect decreased" meddra_llt_id="10013678" meddra_pt="Drug effect decreased" meddra_pt_id="10013678" />
+    </Mention>
+    <Mention id="M110" len="56" reason="preexisting_condition_or_risk_factor" section="S2" start="1184" type="Not_AE_Candidate">
+      <Normalization meddra_llt="CYP1A2 polymorphism" meddra_llt_id="10075651" meddra_pt="CYP1A2 polymorphism" meddra_pt_id="10075651" />
+    </Mention>
+    <Mention id="M111" len="27" reason="preexisting_condition_or_risk_factor" section="S2" start="1250" type="Not_AE_Candidate">
+      <Normalization meddra_llt="CYP2C19 poor metabolizer status" meddra_llt_id="10075670" meddra_pt="CYP2C19 polymorphism" meddra_pt_id="10071603" />
+    </Mention>
+    <Mention id="M129" len="34" reason="AE_only_as_instruction" section="S3" start="641" type="NonOSE_AE">
+      <Normalization meddra_llt="Platelet aggregation inhibition" meddra_llt_id="10050661" meddra_pt="Platelet aggregation inhibition" meddra_pt_id="10050661" />
+    </Mention>
+    <Mention id="M117" len="29" reason="preexisting_condition_or_risk_factor" section="S3" start="807" type="Not_AE_Candidate">
+      <Normalization meddra_llt="CYP2C19 polymorphism" meddra_llt_id="10071603" meddra_pt="CYP2C19 polymorphism" meddra_pt_id="10071603" />
+    </Mention>
+    <Mention id="M119" len="32" reason="AE_from_drug_interaction" section="S3" start="1074" type="NonOSE_AE">
+      <Normalization meddra_llt="Inhibitory drug interaction" meddra_llt_id="10068071" meddra_pt="Inhibitory drug interaction" meddra_pt_id="10068071" />
+    </Mention>
+    <Mention id="M130" len="8" reason="from_drug_use" section="S3" start="1246" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M128" len="28" reason="AE_only_as_instruction" section="S3" start="1274" type="NonOSE_AE">
+      <Normalization meddra_llt="Platelet aggregation inhibition" meddra_llt_id="10050661" meddra_pt="Platelet aggregation inhibition" meddra_pt_id="10050661" />
+    </Mention>
+    <Mention id="M120" len="21" reason="OD_or_withdrawal" section="S3" start="1705" type="NonOSE_AE">
+      <Normalization meddra_llt="Instability cardiovascular" meddra_llt_id="10022453" meddra_pt="Cardiovascular disorder" meddra_pt_id="10007649" />
+      <Normalization meddra_pt="Cardiovascular symptom" meddra_pt_id="10075534" />
+    </Mention>
+    <Mention id="M113" len="8" reason="preexisting_condition_or_risk_factor" section="S3" start="1787" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M114" len="8" reason="preexisting_condition_or_risk_factor" section="S3" start="1832" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Bleeding" meddra_llt_id="10005103" meddra_pt="Haemorrhage" meddra_pt_id="10055798" />
+    </Mention>
+    <Mention id="M134" len="40" reason="from_drug_use" section="S3" start="2015" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Thrombotic thrombocytopenic purpura" meddra_llt_id="10043648" meddra_pt="Thrombotic thrombocytopenic purpura" meddra_pt_id="10043648" />
+    </Mention>
+    <Mention id="M131" len="3" reason="from_drug_use" section="S3" start="2060" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="TTP" meddra_llt_id="10050427" meddra_pt="Thrombotic thrombocytopenic purpura" meddra_pt_id="10043648" />
+    </Mention>
+    <Mention id="M121" len="3" reason="AE_only_as_instruction" section="S3" start="2170" type="NonOSE_AE">
+      <Normalization meddra_llt="TTP" meddra_llt_id="10050427" meddra_pt="Thrombotic thrombocytopenic purpura" meddra_pt_id="10043648" />
+    </Mention>
+    <Mention id="M122" len="16" reason="manifestation_or_complication" section="S3" start="2295" type="NonOSE_AE">
+      <Normalization meddra_llt="Thrombocytopenia" meddra_llt_id="10043554" meddra_pt="Thrombocytopenia" meddra_pt_id="10043554" />
+    </Mention>
+    <Mention id="M123" len="33" reason="manifestation_or_complication" section="S3" start="2313" type="NonOSE_AE">
+      <Normalization meddra_llt="Microangiopathic hemolytic anemia" meddra_llt_id="10055215" meddra_pt="Microangiopathic haemolytic anaemia" meddra_pt_id="10027527" />
+    </Mention>
+    <Mention id="M124" len="12" reason="manifestation_or_complication" section="S3" start="2348" type="NonOSE_AE">
+      <Normalization meddra_llt="Red blood cell schistocytes present" meddra_llt_id="10038169" meddra_pt="Red blood cell schistocytes present" meddra_pt_id="10038169" />
+    </Mention>
+    <Mention id="M125" len="21" reason="manifestation_or_complication" section="S3" start="2406" type="NonOSE_AE">
+      <Normalization meddra_llt="Neurological findings abnormal" meddra_llt_id="10029303" meddra_pt="Neurological examination abnormal" meddra_pt_id="10056832" />
+    </Mention>
+    <Mention id="M126" len="17" reason="manifestation_or_complication" section="S3" start="2429" type="NonOSE_AE">
+      <Normalization meddra_llt="Kidney dysfunction" meddra_llt_id="10023417" meddra_pt="Renal impairment" meddra_pt_id="10062237" />
+    </Mention>
+    <Mention id="M127" len="5" reason="manifestation_or_complication" section="S3" start="2452" type="NonOSE_AE">
+      <Normalization meddra_llt="Fever" meddra_llt_id="10016558" meddra_pt="Pyrexia" meddra_pt_id="10037660" />
+    </Mention>
+    <Mention id="M135" len="16" reason="from_drug_use" section="S3" start="2545" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Drug hypersensitivity" meddra_llt_id="10013700" meddra_pt="Drug hypersensitivity" meddra_pt_id="10013700" />
+      <Normalization meddra_pt="Hypersensitivity" meddra_pt_id="10020751" />
+    </Mention>
+    <Mention id="M132" len="4" reason="from_drug_use" section="S3" start="2572" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Rash" meddra_llt_id="10037844" meddra_pt="Rash" meddra_pt_id="10037844" />
+    </Mention>
+    <Mention id="M133" len="10" reason="from_drug_use" section="S3" start="2578" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Angioedema" meddra_llt_id="10002424" meddra_pt="Angioedema" meddra_pt_id="10002424" />
+    </Mention>
+    <Mention id="M136" len="20" reason="from_drug_use" section="S3" start="2592" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Disorder hematologic" meddra_llt_id="10013227" meddra_pt="Blood disorder" meddra_pt_id="10061590" />
+      <Normalization meddra_pt="Haematology test abnormal" meddra_pt_id="10057755" />
+    </Mention>
+    <Mention id="M116" len="10,20" reason="preexisting_condition_or_risk_factor" section="S3" start="2687,2718" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Hematologic disorder" meddra_llt_id="10019426" meddra_pt="Blood disorder" meddra_pt_id="10061590" />
+      <Normalization meddra_pt="Haematology test abnormal" meddra_pt_id="10057755" />
+    </Mention>
+    <Mention id="M115" len="16" reason="preexisting_condition_or_risk_factor" section="S3" start="2698" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Hypersensitivity" meddra_llt_id="10020751" meddra_pt="Hypersensitivity" meddra_pt_id="10020751" />
+      <Normalization meddra_pt="Drug hypersensitivity" meddra_pt_id="10013700" />
+    </Mention>
+    <Mention id="M118" len="65" reason="preexisting_condition_or_risk_factor" section="S3" start="2698" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Therapeutic product cross-reactivity" meddra_llt_id="10079645" meddra_pt="Therapeutic product cross-reactivity" meddra_pt_id="10079645" />
+    </Mention>
+  </Mentions>
+</GoldLabel>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="RESTASIS">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6         A    DVERSE    R    EACTIONS  
+
+  The following serious adverse reactions are described elsewhere in the labeling:
+
+ *  Potential for Eye Injury and Contamination [ see Warnings and Precautions (    5.1    ) ] 
+      EXCERPT:   The most common adverse reaction following the use of  RESTASIS      (r)    was ocular burning (17%). (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Allergan at 1-800-433-8871 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+ 
+
+    6.1          Clinical    Trials    Experience  
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+ In clinical trials, the most common adverse reaction following the use of  RESTASIS      (r)    was ocular burning (17%).
+
+ Other reactions reported in 1% to 5% of patients included conjunctival hyperemia, discharge, epiphora, eye pain, foreign body sensation, pruritus, stinging, and visual disturbance (most often blurring).
+
+     6.2          Post-marketing Experience  
+
+  The following adverse reactions have been identified during post approval use of  RESTASIS      (r)    . Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+ Reported reactions have included: hypersensitivity (including eye swelling, urticaria, rare cases of severe angioedema, face swelling, tongue swelling, pharyngeal edema, and dyspnea); and superficial injury of the eye (from the vial tip touching the eye during administration). 
+
+</Section>
+    <Section id="S2" name="warnings and precautions">    5        W   ARNINGS       AND   P   RECAUTIONS  
+
+   EXCERPT:    *  To avoid the potential for eye injury and contamination, be careful not to touch the vial tip to your eye or other surfaces. (  5.1  ) 
+    
+ 
+
+    5.   1        Potential for Eye Injury and Contamination  
+
+   Be careful not to touch the vial tip to your eye or other surfaces to avoid potential for eye injury and contamination.
+
+     5.2 Use with Contact Lenses  
+
+   RESTASIS     (r)    should not be administered while wearing contact lenses. Patients with decreased tear production typically should not wear contact lenses. If contact lenses are worn, they should be removed prior to the administration of the emulsion. Lenses may be reinserted 15 minutes following administration of RESTASIS     (r)    ophthalmic emulsion.
+
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="42" name="heading" section="S1" start="2" />
+    <IgnoredRegion len="50" name="heading" section="S2" start="3" />
+    <IgnoredRegion len="156" name="excerpt" section="S2" start="57" />
+    <IgnoredRegion len="59" name="heading" section="S2" start="220" />
+    <IgnoredRegion len="258" name="excerpt" section="S1" start="230" />
+    <IgnoredRegion len="30" name="heading" section="S2" start="409" />
+    <IgnoredRegion len="49" name="heading" section="S1" start="492" />
+    <IgnoredRegion len="42" name="heading" section="S1" start="1142" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

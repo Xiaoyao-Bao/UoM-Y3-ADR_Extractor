@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PAROEX">
+  <Text>
+    <Section id="S1" name="adverse reactions">    Adverse Reactions:
+
+  The most common side effects associated with chlorhexidine gluconate oral rinse are: 1) an increase in staining of the teeth and other oral surfaces; 2) an increase in calculus formation; and 3) an alteration in taste perception;  see WARNINGS  and  PRECAUTIONS  .
+
+
+
+ Oral irritation and local allergy-type symptoms have been spontaneously reported as side effects associated with use of chlorhexidine gluconate rinse. The following oral mucosal side effects were reported during placebo-controlled adult clinical trails: aphthous ulcer, grossly obvious gingivitis, trauma, ulceration, erythema, desquamation, coated tongue, keratinization, geographic tongue, mucocele, and short frenum. Each occurred at a frequency of less than 1.0%. Among post marketing reports, the most frequently reported oral mucosal symptoms associated with chlorhexidine gluconate oral rinse are stomatitis, gingivits, glossitis, ulcer, dry mouth, hypesthesia, glossal edema, and paresthesia. Minor irritation and superficial desquamation of the oral mucosa have been noted in patients using chlorhexidine gluconate oral rinse. There have been cases of parotid gland swelling and inflammation of the salivary glands (sialadenitis) reported in patients using chlorhexidine gluconate oral rinse.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS: GENERAL
+
+
+
+    *  For patients having coexisiting gingivitis and periodontitis, the presence or absence of gingival inflammation following treatment with Paroex(r) should not be used as a major indicator of underlying periodontitis. 
+ *  Paroex(r) can cause staining of oral surfaces, such as tooth surfaces, restorations, and the dorsum of the tongue. Not all patients will experience a visually significant increase in toothstaining. In clinical testing, 56% of chlorhexidine gluconate oral rinse users exhibited a measurable increase in facial anterior stain, compared to 35% of control users after six months; 15% of chlorhexidine gluconate oral rinse users developed what was judged to be heavy stain, compared to 1% of the control users after six months. Stain will be more pronounced in patients who have heavier accumulations of unremoved plaque. 
+    Stain resulting from use of Paroex(r) does not adversely affect health of the gingivae or other oral tissues. Stain can be removed from most tooth surfaces by conventional professional prophylactic techniques. Additional time may be required to complete the prophylaxis. Discretion should be used when prescribing to patients with anterior facial restorations with rough surfaces or margins. If natural stain cannot be removed from these surfaces by a dental prophylaxis, patients should be excluded from Paroex(r) treatment if permanent discoloration is unacceptable. Stain in these areas may be difficult to remove by dental prophylaxis and on rare occasions may necessitate replacement of these restorations.3. Some patients may experience an alteration in taste perception while undergoing treatment with Paroex(r) (Chlorhexidine Gluconate Oral Rinse USP, 0.12%). Rare instances of permanent taste alteration following chlorhexidine gluconate oral rinse use have been reported via post-marketing product surveillance.
+</Section>
+    <Section id="S3" name="warnings">    Warnings:
+
+
+
+  The effect of Paroex(r) on peridontitis has not been determined. An increase in supragingival calculus was noted in clinical testing in chlorhexidine gluconate oral rinse users compared with control users. It is not known if chlorhexidine gluconate oral rinse use results in an increase in subgingival calculus. Calculus deposits should be removed by a dental prophylaxis at intervals not greater than six months. Anaphylaxis, as well as serious allergic reactions, have been reported during postmarketing use with dental products containing chlorhexidine.  SEE CONTRAINDICATIONS  .
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="18" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="9" name="heading" section="S3" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

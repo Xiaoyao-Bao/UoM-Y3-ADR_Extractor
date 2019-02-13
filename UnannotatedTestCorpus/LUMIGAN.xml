@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="LUMIGAN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are described elsewhere in the labeling:
+
+
+
+ *  Pigmentation including blepharal pigmentation and iris hyperpigmentation [see Warnings and Precautions (  5.1  )] 
+ *  Eyelash Changes [see Warnings and Precautions (  5.2  )] 
+ *  Intraocular Inflammation [see Warnings and Precautions (  5.3  )] 
+ *  Macular Edema [see Warnings and Precautions (  5.4  )] 
+ *  Hypersensitivity [see Contraindications (  4  )] 
+      EXCERPT:   Most common adverse reaction is conjunctival hyperemia (31%). (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Allergan at 1-800-678-1605 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In a 12-month clinical study with bimatoprost ophthalmic solutions 0.01%, the most common adverse reaction was conjunctival hyperemia (31%). Approximately 1.6% of patients discontinued therapy due to conjunctival hyperemia. Other adverse drug reactions (reported in 1 to 4% of patients) with  LUMIGAN      (r)    0.01% in this study included conjunctival edema, conjunctival hemorrhage, eye irritation, eye pain, eye pruritus, erythema of eyelid, eyelids pruritus, growth of eyelashes, hypertrichosis, instillation site irritation, punctate keratitis, skin hyperpigmentation, vision blurred, and visual acuity reduced.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during postapproval use of  LUMIGAN      (r)    0.01%. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. These reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to  LUMIGAN      (r)      ,  or a combination of these factors include: asthma-like symptoms, dry eye, dyspnea, eye discharge, eye edema, foreign body sensation, headache, hypersensitivity including signs and symptoms of eye allergy and allergic dermatitis, lacrimation increased, and periorbital and lid changes including deepening of the eyelid sulcus.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  *     Pigmentation of the iris, periorbital tissue (eyelid) and eyelashes can occur. Iris pigmentation is likely to be permanent. (  5.1  ) 
+   Pigmentation. 
+ *  *     Gradual change to eyelashes including increased length, thickness and number of lashes. Usually reversible. (  5.2  ) 
+   Eyelash Changes. 
+    
+ 
+
+   5.1 Pigmentation
+
+
+
+  Bimatoprost ophthalmic solution has been reported to cause changes to pigmented tissues. The most frequently reported changes have been increased pigmentation of the iris, periorbital tissue (eyelid) and eyelashes. Pigmentation is expected to increase as long as bimatoprost is administered. The pigmentation change is due to increased melanin content in the melanocytes rather than to an increase in the number of melanocytes. After discontinuation of bimatoprost, pigmentation of the iris is likely to be permanent, while pigmentation of the periorbital tissue and eyelash changes have been reported to be reversible in some patients. Patients who receive treatment should be informed of the possibility of increased pigmentation. The long term effects of increased pigmentation are not known.
+
+
+
+ Iris color change may not be noticeable for several months to years. Typically, the brown pigmentation around the pupil spreads concentrically towards the periphery of the iris and the entire iris or parts of the iris become more brownish. Neither nevi nor freckles of the iris appear to be affected by treatment. While treatment with LUMIGAN     (r)    (bimatoprost ophthalmic solution) 0.01% can be continued in patients who develop noticeably increased iris pigmentation, these patients should be examined regularly [see Patient Counseling Information (  17  )]  .
+
+
+
+    5.2 Eyelash Changes
+
+
+
+   LUMIGAN     (r)    0.01% may gradually change eyelashes and vellus hair in the treated eye. These changes include increased length, thickness, and number of lashes. Eyelash changes are usually reversible upon discontinuation of treatment.
+
+
+
+    5.3 Intraocular Inflammation
+
+
+
+  Prostaglandin analogs, including bimatoprost, have been reported to cause intraocular inflammation. In addition, because these products may exacerbate inflammation, caution should be used in patients with active intraocular inflammation (e.g., uveitis).
+
+
+
+    5.4 Macular Edema
+
+
+
+  Macular edema, including cystoid macular edema, has been reported during treatment with bimatoprost ophthalmic solution. LUMIGAN     (r)    0.01% should be used with caution in aphakic patients, in pseudophakic patients with a torn posterior lens capsule, or in patients with known risk factors for macular edema.
+
+
+
+    5.5 Bacterial Keratitis
+
+
+
+  There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products. These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see Patient Counseling Information (  17  )]  .
+
+
+
+    5.6 Use with Contact Lenses
+
+
+
+   LUMIGAN     (r)    0.01%contains benzalkonium chloride, which may be absorbed by and cause discoloration of soft contact lenses. Contact lenses should be removed prior to instillation of LUMIGAN     (r)    0.01% and may be reinserted 15 minutes following its administration.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="329" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="372" />
+    <IgnoredRegion len="220" name="excerpt" section="S1" start="474" />
+    <IgnoredRegion len="29" name="heading" section="S1" start="698" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="1624" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="1769" />
+    <IgnoredRegion len="28" name="heading" section="S2" start="2041" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="2336" />
+    <IgnoredRegion len="23" name="heading" section="S2" start="2680" />
+    <IgnoredRegion len="27" name="heading" section="S2" start="3063" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

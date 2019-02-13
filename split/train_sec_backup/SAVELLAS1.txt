@@ -1,0 +1,217 @@
+    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most frequently occurring adverse reactions (>= 5% and greater than placebo) were nausea, headache, constipation, dizziness, insomnia, hot flush, hyperhidrosis, vomiting, palpitations, heart rate increased, dry mouth, and hypertension (  6.1  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Forest Laboratories, LLC., at (800) 678-1605 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+     Patient Exposure  
+
+
+
+ Savella was evaluated in three double-blind placebo-controlled trials involving 2209 fibromyalgia patients (1557 patients treated with Savella and 652 patients treated with placebo) for a treatment period up to 29 weeks.
+
+
+
+ The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed. A reaction was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
+
+
+
+     Adverse Reactions Leading to Discontinuation  
+
+
+
+ In placebo-controlled trials in patients with fibromyalgia, 23% of patients treated with Savella
+
+
+
+ 100 mg/day, 26% of patients treated with Savella 200 mg/day discontinued prematurely due to adverse reactions, compared to 12% of patients treated with placebo. The adverse reactions that led to withdrawal in >= 1% of patients in the Savella treatment group and with an incidence rate greater than that in the placebo treatment group were nausea (milnacipran 6%, placebo 1%), palpitations (milnacipran 3%, placebo 1%), headache (milnacipran 2%, placebo 0%), constipation (milnacipran 1%, placebo 0%), heart rate increased (milnacipran 1%, placebo 0%), hyperhidrosis (milnacipran 1%, placebo 0%), vomiting (milnacipran 1%, placebo 0%), and dizziness (milnacipran 1% and placebo 0.5%). Discontinuation due to adverse reactions was generally more common among patients treated with Savella 200 mg/day compared to Savella 100 mg/day.
+
+
+
+     Most Common Adverse Reactions in Placebo Controlled Trials  
+
+
+
+ In the placebo-controlled fibromyalgia patient trials, the most frequently occurring adverse reaction in clinical trials was nausea. The most common adverse reactions (incidence >= 5% and twice placebo) in patients treated with Savella were constipation, hot flush, hyperhidrosis, vomiting, palpitations, heart rate increased, dry mouth, and hypertension.
+
+
+
+     Table 4    lists all adverse reactions that occurred in at least 2% of patients treated with Savella at either 100 or 200 mg/day and at an incidence greater than that of placebo.
+
+
+
+ Table 4: Treatment-Emergent Adverse Reaction Incidence in Placebo Controlled Trials in Fibromyalgia Patients (Events Occurring in at Least 2% of All Savella-Treated Patients and Occurring More Frequently in Either Savella Treatment Group Than in the Placebo Treatment Group) 
+  System Organ Class-Preferred Term    Savella100 mg/day(n = 623) %    Savella200 mg/day(n = 934) %    All Savella(n = 1557) %    Placebo(n = 652) %    
+  Cardiac Disorders                                                                                              
+    Palpitations                     8                  7                  7                  2                  
+    Tachycardia                      3                  2                  2                  1                  
+  Eye Disorders                                                                                                  
+    Vision blurred                   1                  2                  2                  1                  
+  Gastrointestinal Disorders                                                                                     
+    Nausea                           35                 39                 37                 20                 
+    Constipation                     16                 15                 16                 4                  
+    Vomiting                         6                  7                  7                  2                  
+    Dry mouth                        5                  5                  5                  2                  
+    Abdominal pain                   3                  3                  3                  2                  
+  General Disorders                                                                                              
+    Chest pain                       3                  2                  2                  2                  
+    Chills                           1                  2                  2                  0                  
+    Chest discomfort                 2                  1                  1                  1                  
+  Infections                                                                                                     
+    Upper respiratory tract infection    7                  6                  6                  6                  
+  Investigations                                                                                                 
+    Heart rate increased             5                  6                  6                  1                  
+    Blood pressure increased         3                  3                  3                  1                  
+  Metabolism and Nutrition Disorders                                                                                
+    Decreased appetite               1                  2                  2                  0                  
+  Nervous System Disorders                                                                                       
+    Headache                         19                 17                 18                 14                 
+    Dizziness                        11                 10                 10                 6                  
+    Migraine                         6                  4                  5                  3                  
+    Paresthesia                      2                  3                  2                  2                  
+    Tremor                           2                  2                  2                  1                  
+    Hypoesthesia                     1                  2                  1                  1                  
+    Tension headache                 2                  1                  1                  1                  
+  Psychiatric Disorders                                                                                          
+    Insomnia                         12                 12                 12                 10                 
+    Anxiety                          5                  3                  4                  4                  
+  Respiratory Disorders                                                                                          
+  Dyspnea                            2                  2                  2                  1                  
+  Skin Disorders                                                                                                 
+    Hyperhidrosis                    8                  9                  9                  2                  
+    Rash                             3                  4                  3                  2                  
+    Pruritus                         3                  2                  2                  2                  
+  Vascular Disorders                                                                                             
+    Hot flush                        11                 12                 12                 2                  
+    Hypertension                     7                  4                  5                  2                  
+    Flushing                         2                  3                  3                  1                  
+               Weight Changes  
+ 
+
+ In placebo-controlled fibromyalgia clinical trials, patients treated with Savella for up to 3 months experienced a mean weight loss of approximately 0.8 kg in both the Savella 100 mg/day and the Savella 200 mg/day treatment groups, compared with a mean weight loss of approximately 0.2 kg in placebo-treated patients.
+
+
+
+     Genitourinary Adverse Reactions in Males  
+
+
+
+ In the placebo-controlled fibromyalgia studies, the following treatment-emergent adverse reactions related to the genitourinary system were observed in at least 2% of male patients treated with Savella, and occurred at a rate greater than in placebo-treated male patients: dysuria, ejaculation disorder, erectile dysfunction, ejaculation failure, libido decreased, prostatitis, scrotal pain, testicular pain, testicular swelling, urinary hesitation, urinary retention, urethral pain, and urine flow decreased.
+
+
+
+     Other Adverse Reactions Observed During Clinical Trials of Savella in Fibromyalgia  
+
+
+
+ Following is a list of frequent (those occurring on one or more occasions in at least 1/100 patients) treatment-emergent adverse reactions reported from 1824 fibromyalgia patients treated with Savella for periods up to 68 weeks. The listing does not include those events already listed in    Table 4    , those events for which a drug cause was remote, those events which were so general as to be uninformative, and those events reported only once which did not have a substantial probability of being acutely life threatening.
+
+
+
+ Adverse reactions are categorized by body system and listed in order of decreasing frequency. Adverse reactions of major clinical importance are described in the  Warnings and Precautions section (  5  )  .
+
+
+
+ Gastrointestinal Disorders - diarrhea, dyspepsia, gastroesophageal reflux disease, flatulence, abdominal distension
+
+
+
+ General Disorders - fatigue, peripheral edema, irritability, pyrexia
+
+
+
+ Infections - urinary tract infection, cystitis
+
+
+
+ Injury, Poisoning, and Procedural Complications - contusion, fall
+
+
+
+ Investigations - weight decreased or increased
+
+
+
+ Metabolism and Nutrition Disorders - hypercholesterolemia
+
+
+
+ Nervous System Disorders - somnolence, dysgeusia
+
+
+
+ Psychiatric Disorders - depression, stress
+
+
+
+ Skin Disorders - night sweats
+
+
+
+   6.2 Postmarketing Experience
+
+  The following additional adverse reactions have been identified from spontaneous reports of Savella received worldwide. These adverse reactions have been chosen for inclusion because of a combination of seriousness, frequency of reporting, or potential causal connection to Savella. However, because these adverse reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. These events include:
+
+
+
+ Blood and Lymphatic System Disorders - leukopenia, neutropenia, thrombocytopenia
+
+
+
+ Cardiac Disorders - supraventricular tachycardia
+
+
+
+ Eye Disorders - accommodation disorder
+
+
+
+ Endocrine Disorders - hyperprolactinemia
+
+
+
+ Hepatobiliary Disorders - hepatitis
+
+
+
+ Metabolism and Nutrition Disorders - anorexia, hyponatremia
+
+
+
+ Musculoskeletal and Connective Tissue Disorders - rhabdomyolysis
+
+
+
+ Nervous System Disorders - convulsions (including grand mal), loss of consciousness, Parkinsonism
+
+
+
+ Psychiatric Disorders - aggression, anger, delirium, hallucination, homicidal ideation
+
+
+
+ Renal and Urinary Disorders - acute renal failure
+
+
+
+ Reproductive System and Breast Disorders - galactorrhea
+
+
+
+ Skin Disorders - erythema multiforme, Stevens Johnson syndrome
+
+
+
+ Vascular Disorders - hypertensive crisis

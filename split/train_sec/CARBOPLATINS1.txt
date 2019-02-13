@@ -1,0 +1,102 @@
+  ADVERSE REACTIONS
+
+  For a comparison of toxicities when carboplatin or cisplatin was given in combination with cyclophosphamide, see    CLINICAL STUDIES, Use with Cyclophosphamide for Initial Treatment of  Ovarian≠B-Not_AE_Candidate   Cancer≠I-Not_AE_Candidate , Comparative Toxicity  .  
+
+ ADVERSE EXPERIENCES IN PATIENTS WITH OVARIAN CANCER 
+                                                    First Line    Combination Therapy   [note: Use with Cyclophosphamide for Initial Treatment of  Ovarian≠B-Not_AE_Candidate   Cancer≠I-Not_AE_Candidate : Data are based on the experience of 393 patients with  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  (regardless of baseline status) who received initial combination therapy with carboplatin and cyclophosphamide in two randomized controlled studies conducted by SWOG and NCIC (see CLINICAL STUDIES).Combination with cyclophosphamide as well as duration of treatment may be responsible for the differences that can be noted in the adverse experience table.]   Percent      Second Line    Single Agent    Therapy   [note: Single Agent Use for the Secondary Treatment of Ovarian Cancer: Data are based on the experience of 553 patients with previously treated ovarian carcinoma (regardless of baseline status) who received single agent carboplatin.]   Percent     
+  
+   Bone≠B-NonOSE_AE   Marrow≠I-NonOSE_AE                                                                             
+   Thrombocytopenia≠B-OSE_Labeled_AE       < 100,000/mm3              66                   62               
+                        < 50,000/mm3               33                   35               
+   Neutropenia≠B-OSE_Labeled_AE            < 2,000 cells/mm3          96                   67               
+                        < 1,000 cells/mm3          82                   21               
+   Leukopenia≠B-OSE_Labeled_AE             < 4,000 cells/mm3          97                   85               
+                        < 2,000 cells/mm3          71                   26               
+   Anemia≠B-OSE_Labeled_AE                 < 11 g/dL                  90                   90               
+                        < 8g/dL                    14                   21               
+   Infections≠B-OSE_Labeled_AE                                        16                   5                
+   Bleeding≠B-OSE_Labeled_AE                                          8                    5                
+   Transfusions≠B-OSE_Labeled_AE                                      35                   44               
+   Gastrointestinal≠B-NonOSE_AE                                                       
+   Nausea≠B-OSE_Labeled_AE  and  vomiting≠B-OSE_Labeled_AE     93                         92                   
+   Vomiting≠B-OSE_Labeled_AE               83                         81                   
+  Other  GI≠B-OSE_Labeled_AE   side≠I-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE     46                         21                   
+   Neurologic≠B-NonOSE_AE                                                             
+   Peripheral≠B-OSE_Labeled_AE   neuropathies≠I-OSE_Labeled_AE     15                         6                    
+   Ototoxicity≠B-OSE_Labeled_AE            12                         1                    
+  Other  sensory≠B-OSE_Labeled_AE   side≠I-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE     5                          1                    
+   Central≠B-OSE_Labeled_AE   neurotoxicity≠I-OSE_Labeled_AE     26                         5                    
+   Renal≠B-NonOSE_AE                                                                  
+   Serum≠B-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE     6                          10                   
+   Blood≠B-OSE_Labeled_AE   urea≠I-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE     17                         22                   
+   Hepatic≠B-NonOSE_AE                                                                
+   Bilirubin≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE     5                          5                    
+   SGOT≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE        20                         19                   
+   Alkaline≠B-OSE_Labeled_AE   phosphatase≠I-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE     29                         37                   
+   Electrolytes≠B-NonOSE_AE   loss≠I-NonOSE_AE                                                      
+  Sodium                10                         47                   
+  Potassium             16                         28                   
+  Calcium               16                         31                   
+  Magnesium             61                         43                   
+   Other≠B-NonOSE_AE   side≠I-NonOSE_AE   effects≠I-NonOSE_AE                                                     
+   Pain≠B-OSE_Labeled_AE                   44                         23                   
+   Asthenia≠B-OSE_Labeled_AE               41                         11                   
+  Cardiovascular        19                         6                    
+  Respiratory           10                         6                    
+   Allergic≠B-OSE_Labeled_AE               11                         2                    
+  Genitourinary         10                         2                    
+   Alopecia≠B-OSE_Labeled_AE               49                         2                    
+   Mucositis≠B-OSE_Labeled_AE              8                          1                    
+          In the narrative section that follows, the incidences of adverse events are based on data from 1,893 patients with various types of tumors who received carboplatin as single agent therapy.
+ 
+
+    Hematologic≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE 
+
+   Bone≠B-OSE_Labeled_AE   marrow≠I-OSE_Labeled_AE   suppression≠I-OSE_Labeled_AE  is the dose-limiting toxicity of carboplatin.  Thrombocytopenia≠B-OSE_Labeled_AE  with  platelet≠B-OSE_Labeled_AE   counts≠I-OSE_Labeled_AE   below≠I-OSE_Labeled_AE   5≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  ,≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  mm≠I-OSE_Labeled_AE    3≠I-OSE_Labeled_AE   occurs in 25% of the patients (35% of pretreated  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  patients);  neutropenia≠B-OSE_Labeled_AE  with  granulocyte≠B-OSE_Labeled_AE   counts≠I-OSE_Labeled_AE   below≠I-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  ,≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  mm≠I-OSE_Labeled_AE    3≠I-OSE_Labeled_AE   occurs in 16% of the patients (21% of pretreated  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  patients);  leukopenia≠B-OSE_Labeled_AE  with  WBC≠B-OSE_Labeled_AE   counts≠I-OSE_Labeled_AE   below≠I-OSE_Labeled_AE   2≠I-OSE_Labeled_AE  ,≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  mm≠I-OSE_Labeled_AE    3≠I-OSE_Labeled_AE   occurs in 15% of the patients (26% of pretreated  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  patients). The nadir usually occurs about day 21 in patients receiving single agent therapy. By day 28, 90% of patients have  platelet≠B-NonOSE_AE   counts≠I-NonOSE_AE   above≠I-NonOSE_AE   1≠I-NonOSE_AE  0≠I-NonOSE_AE  0≠I-NonOSE_AE  ,≠I-NonOSE_AE  0≠I-NonOSE_AE  0≠I-NonOSE_AE  0≠I-NonOSE_AE  /≠I-NonOSE_AE  mm≠I-NonOSE_AE    3≠I-NonOSE_AE   ; 74% have  neutrophil≠B-NonOSE_AE   counts≠I-NonOSE_AE   above≠I-NonOSE_AE   2≠I-NonOSE_AE  ,≠I-NonOSE_AE  0≠I-NonOSE_AE  0≠I-NonOSE_AE  0≠I-NonOSE_AE  /≠I-NonOSE_AE  mm≠I-NonOSE_AE    3≠I-NonOSE_AE   ; 67% have  leukocyte≠B-NonOSE_AE   counts≠I-NonOSE_AE   above≠I-NonOSE_AE   4≠I-NonOSE_AE  ,≠I-NonOSE_AE  0≠I-NonOSE_AE  0≠I-NonOSE_AE  0≠I-NonOSE_AE  /≠I-NonOSE_AE  mm≠I-NonOSE_AE    3≠I-NonOSE_AE   .
+
+  Marrow≠B-NonOSE_AE   suppression≠I-NonOSE_AE  is usually more severe in patients with  impaired≠B-Not_AE_Candidate   kidney≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate . Patients with poor performance status have also experienced a higher incidence of severe  leukopenia≠B-NonOSE_AE  and  thrombocytopenia≠B-NonOSE_AE .
+
+ The  hematologic≠B-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE , although usually reversible, have resulted in  infectious≠B-OSE_Labeled_AE  or hemorrhagic  complications≠I-OSE_Labeled_AE  in 5% of the patients treated with carboplatin, with drug related  death≠B-NonOSE_AE  occurring in less than 1% of the patients.  Fever≠B-OSE_Labeled_AE   has≠I-OSE_Labeled_AE   also≠I-OSE_Labeled_AE   been≠I-OSE_Labeled_AE   reported≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   patients≠I-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE .
+
+  Anemia≠B-OSE_Labeled_AE  with  hemoglobin≠B-OSE_Labeled_AE   less≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE   g≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  dL≠I-OSE_Labeled_AE  has been observed in 71% of the patients who started therapy with a baseline above that value. The incidence of  anemia≠B-OSE_Labeled_AE  increases with increasing exposure to carboplatin. Transfusions have been administered to 26% of the patients treated with carboplatin (44% of previously treated  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  patients).
+
+  Bone≠B-OSE_Labeled_AE   marrow≠I-OSE_Labeled_AE   depression≠I-OSE_Labeled_AE  may be more severe when carboplatin is combined with other  bone≠B-NonOSE_AE   marrow≠I-NonOSE_AE   suppressing≠I-NonOSE_AE  drugs or with radiotherapy.
+
+    Gastrointestinal≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE 
+
+   Vomiting≠B-OSE_Labeled_AE  occurs in 65% of the patients (81% of previously treated  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  patients) and in about one-third of these patients it is severe. Carboplatin, as a single agent or in combination, is significantly less  emetogenic≠B-OSE_Labeled_AE  than cisplatin; however, patients previously treated with  emetogenic≠B-NonOSE_AE   agents≠I-NonOSE_AE , especially cisplatin, appear to be more prone to  vomiting≠B-NonOSE_AE .  Nausea≠B-OSE_Labeled_AE  alone occurs in an additional 10% to 15% of patients. Both  nausea≠B-OSE_Labeled_AE  and  vomiting≠B-OSE_Labeled_AE  usually cease within 24 hours of treatment and are often responsive to antiemetic measures. Although no conclusive efficacy data exist with the following schedules, prolonged administration of carboplatin, either by continuous 24-hour infusion or by daily pulse doses given for 5 consecutive days, was associated with less severe  vomiting≠B-OSE_Labeled_AE  than the single-dose intermittent schedule.  Emesis≠B-NonOSE_AE  was increased when carboplatin was used in combination with other emetogenic compounds. Other  gastrointestinal≠B-OSE_Labeled_AE  effects observed frequently were  pain≠I-OSE_Labeled_AE , in 17% of the patients;  diarrhea≠B-OSE_Labeled_AE , in 6%; and  constipation≠B-OSE_Labeled_AE , also in 6%.
+
+    Neurologic≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE 
+
+   Peripheral≠B-OSE_Labeled_AE   neuropathies≠I-OSE_Labeled_AE  have been observed in 4% of the patients receiving carboplatin (6% of pretreated  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  patients) with mild  paresthesias≠B-OSE_Labeled_AE  occurring most frequently. Carboplatin therapy produces significantly fewer and less severe  neurologic≠B-OSE_Labeled_AE   side≠I-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE  than does therapy with cisplatin. However, patients older than 65 years and/or previously treated with cisplatin appear to have an increased risk (10%) for  peripheral≠B-OSE_Labeled_AE   neuropathies≠I-OSE_Labeled_AE . In 70% of the patients with pre-existing cisplatin-induced  peripheral≠B-Not_AE_Candidate   neurotoxicity≠I-Not_AE_Candidate , there was no worsening of symptoms during therapy with carboplatin. Clinical  ototoxicity≠B-OSE_Labeled_AE  and other  sensory≠B-OSE_Labeled_AE   abnormalities≠I-OSE_Labeled_AE  such as  visual≠B-OSE_Labeled_AE   disturbances≠I-OSE_Labeled_AE  and  change≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   taste≠I-OSE_Labeled_AE  have been reported in only 1% of the patients.  Central≠B-OSE_Labeled_AE   nervous≠I-OSE_Labeled_AE   system≠I-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  have been reported in 5% of the patients and appear to be most often related to the use of antiemetics.
+
+ Although the overall incidence of  peripheral≠B-OSE_Labeled_AE   neurologic≠I-OSE_Labeled_AE   side≠I-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE  induced by carboplatin is low, prolonged treatment, particularly in cisplatin pretreated patients, may result in cumulative  neurotoxicity≠B-OSE_Labeled_AE .
+
+    Nephrotoxicity≠B-OSE_Labeled_AE 
+
+  Development of  abnormal≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   test≠I-OSE_Labeled_AE  results is uncommon, despite the fact that carboplatin, unlike cisplatin, has usually been administered without high-volume fluid hydration and/or forced  diuresis≠B-NonOSE_AE . The incidences of  abnormal≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   tests≠I-OSE_Labeled_AE  reported are 6% for serum creatinine and 14% for blood urea nitrogen (10% and 22%, respectively, in pretreated  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  patients). Most of these reported abnormalities have been mild and about one-half of them were reversible.
+
+ Creatinine clearance has proven to be the most sensitive measure of kidney function in patients receiving carboplatin, and it appears to be the most useful test for correlating drug clearance and  bone≠B-NonOSE_AE   marrow≠I-NonOSE_AE   suppression≠I-NonOSE_AE . Twenty-seven percent of the patients who had a baseline value of 60 mL/min or more demonstrated a reduction below this value during carboplatin therapy.
+
+    Hepatic≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE 
+
+  The incidences of  abnormal≠B-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   tests≠I-OSE_Labeled_AE  in patients with normal baseline values were reported as follows: total bilirubin, 5%; SGOT, 15%; and alkaline phosphatase, 24%; (5%, 19%, and 37%, respectively, in pretreated  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  patients). These abnormalities have generally been mild and reversible in about one-half of the cases, although the role of  metastatic≠B-Not_AE_Candidate   tumor≠I-Not_AE_Candidate   in≠I-Not_AE_Candidate   the≠I-Not_AE_Candidate   liver≠I-Not_AE_Candidate  may complicate the assessment in many patients. In a limited series of patients receiving very high dosages of carboplatin and  autologous≠B-Not_AE_Candidate   bone≠I-Not_AE_Candidate   marrow≠I-Not_AE_Candidate   transplantation≠I-Not_AE_Candidate , severe  abnormalities≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   tests≠I-OSE_Labeled_AE  were reported.
+
+    Electrolyte≠B-OSE_Labeled_AE   Changes≠I-OSE_Labeled_AE 
+
+  The incidences of abnormally  decreased≠B-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   electrolyte≠I-OSE_Labeled_AE   values≠I-OSE_Labeled_AE  reported were as follows: sodium, 29%; potassium, 20%; calcium, 22%; and magnesium, 29%; (47%, 28%, 31%, and 43%, respectively, in pretreated  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  patients). Electrolyte supplementation was not routinely administered concomitantly with carboplatin, and these  electrolyte≠B-OSE_Labeled_AE   abnormalities≠I-OSE_Labeled_AE  were rarely associated with symptoms.
+
+   Allergic Reactions
+
+   Hypersensitivity≠B-OSE_Labeled_AE  to carboplatin has been reported in 2% of the patients. These  allergic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  have been similar in nature and severity to those reported with other platinum-containing compounds, i.e.,  rash≠B-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE ,  erythema≠B-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE , and rarely  bronchospasm≠B-OSE_Labeled_AE  and  hypotension≠B-OSE_Labeled_AE .  Anaphylactic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  have been reported as part of postmarketing surveillance (see      WARNINGS      ). These reactions have been successfully managed with standard epinephrine, corticosteroid, and antihistamine therapy.
+
+   Injection Site Reactions
+
+   Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE , including redness, swelling, and pain, have been reported during postmarketing surveillance.  Necrosis≠B-OSE_Labeled_AE   associated≠I-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   extravasation≠I-OSE_Labeled_AE  has also been reported.
+
+   Other Events
+
+   Pain≠B-OSE_Labeled_AE  and  asthenia≠B-OSE_Labeled_AE  were the most frequently reported miscellaneous adverse effects; their relationship to the  tumor≠B-NonOSE_AE  and to  anemia≠B-NonOSE_AE  was likely.  Alopecia≠B-OSE_Labeled_AE  was reported (3%).  Cardiovascular≠B-OSE_Labeled_AE , respiratory, genitourinary, and mucosal  side≠I-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE  have occurred in 6% or less of the patients.  Cardiovascular≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  ( cardiac≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  embolism≠B-OSE_Labeled_AE ,  cerebrovascular≠B-OSE_Labeled_AE   accidents≠I-OSE_Labeled_AE ) were  fatal≠B-NonOSE_AE  in less than 1% of the patients and did not appear to be related to chemotherapy.  Cancer≠B-Not_AE_Candidate -associated  hemolytic≠B-Not_AE_Candidate   uremic≠I-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate  has been reported rarely.
+
+  Malaise≠B-OSE_Labeled_AE ,  anorexia≠B-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE ,  dehydration≠B-OSE_Labeled_AE , and  stomatitis≠B-OSE_Labeled_AE  have been reported as part of postmarketing surveillance.
+

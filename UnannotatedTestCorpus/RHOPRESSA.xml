@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="RHOPRESSA">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reaction is conjunctival hyperemia (53%). Other common adverse reactions, approximately 20% include: corneal verticillata, instillation site pain, and conjunctival hemorrhage. (  6.1  )  
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    Aerie Pharmaceuticals, Inc. at 1-855-740-1924,    or FDA at1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+
+
+ The most common ocular adverse reaction observed in controlled clinical studies with RHOPRESSA dosed once daily was conjunctival hyperemia which was reported in 53% of patients. Other common (approximately 20%) ocular adverse reactions reported were: corneal verticillata, instillation site pain, and conjunctival hemorrhage. Instillation site erythema, corneal staining, blurred vision, increased lacrimation, erythema of eyelid, and reduced visual acuity were reported in 5-10% of patients.
+
+
+
+   Corneal Verticillata  
+
+
+
+ Corneal verticillata occurred in approximately 20% of the patients in controlled clinical studies. The corneal verticillata seen in RHOPRESSA-treated patients were first noted at 4 weeks of daily dosing. This reaction did not result in any apparent visual functional changes in patients. Most corneal verticillata resolved upon discontinuation of treatment.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   5.1 Bacterial Keratitis
+
+
+
+  There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products. These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see Patient Counseling Information (  17  )  ].
+
+
+
+    5.2 Use with Contact Lenses
+
+
+
+  Contact lenses should be removed prior to instillation of RHOPRESSA and may be reinserted 15 minutes following its administration.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="388" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="23" name="heading" section="S2" start="37" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="418" />
+    <IgnoredRegion len="27" name="heading" section="S2" start="420" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

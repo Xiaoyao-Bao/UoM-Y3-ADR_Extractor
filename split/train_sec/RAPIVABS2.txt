@@ -1,0 +1,38 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Serious skin/hypersensitivity reactions such as Stevens-Johnson syndrome and erythema multiforme have occurred with RAPIVAB. (  5.1  ) 
+ *  Neuropsychiatric events: Patients with influenza may be at an increased risk of hallucinations, delirium and abnormal behavior early in their illness. Monitor for signs of abnormal behavior. (  5.2  ) 
+    
+ 
+
+   5.1 Serious Skin/ Hypersensitivity≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE 
+
+
+
+  Rare cases of serious  skin≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE , including  erythema≠B-OSE_Labeled_AE   multiforme≠I-OSE_Labeled_AE , have been reported with RAPIVAB in clinical studies and in postmarketing experience;  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  has been reported with RAPIVAB in postmarketing experience. Appropriate treatment should be instituted if a serious  skin≠B-NonOSE_AE   reaction≠I-NonOSE_AE  occurs or is suspected.
+
+
+
+    5.2  Neuropsychiatric≠B-OSE_Labeled_AE   Events≠I-OSE_Labeled_AE 
+
+
+
+   Influenza≠B-Not_AE_Candidate  can be associated with a variety of  neurologic≠B-NonOSE_AE  and behavioral  symptoms≠I-NonOSE_AE  that can include events such as  hallucinations≠B-NonOSE_AE ,  delirium≠B-NonOSE_AE , and  abnormal≠B-NonOSE_AE   behavior≠I-NonOSE_AE , in some cases resulting in  fatal≠B-NonOSE_AE  outcomes. These events may occur in the setting of  encephalitis≠B-Not_AE_Candidate  or  encephalopathy≠B-Not_AE_Candidate  but can occur in uncomplicated  influenza≠B-Not_AE_Candidate  as well.
+
+
+
+ There have been postmarketing reports (from Japan) of  delirium≠B-OSE_Labeled_AE  and  abnormal≠B-OSE_Labeled_AE   behavior≠I-OSE_Labeled_AE  leading to  injury≠B-NonOSE_AE  in patients with  influenza≠B-Not_AE_Candidate  who were receiving neuraminidase inhibitors, including RAPIVAB. Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made, but they appear to be uncommon. These events were reported primarily among pediatric patients and often had an abrupt onset and rapid resolution. The contribution of RAPIVAB to these events has not been established. Patients with  influenza≠B-Not_AE_Candidate  should be closely monitored for signs of  abnormal≠B-NonOSE_AE   behavior≠I-NonOSE_AE .
+
+
+
+    5.3 Risk of Bacterial Infections
+
+
+
+  There is no evidence for efficacy of RAPIVAB in any illness caused by agents other than  influenza≠B-Not_AE_Candidate  viruses. Serious  bacterial≠B-NonOSE_AE   infections≠I-NonOSE_AE  may begin with  influenza≠B-NonOSE_AE  -≠I-NonOSE_AE  like≠I-NonOSE_AE   symptoms≠I-NonOSE_AE  or may coexist with or occur as complications during the course of  influenza≠B-Not_AE_Candidate . RAPIVAB has not been shown to prevent such complications.
+
+
+
+ Prescribers should be alert to the potential for  secondary≠B-NonOSE_AE  bacterial  infections≠I-NonOSE_AE  and treat with antibiotics as appropriate.

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="MICONAZOLE_7">
+  <Text>
+    <Section id="S1" name="warnings">      Warnings    
+
+
+
+   For vaginal use only  
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="14" name="heading" section="S1" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

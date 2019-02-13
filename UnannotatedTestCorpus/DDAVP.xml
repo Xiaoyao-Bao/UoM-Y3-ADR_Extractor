@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="DDAVP">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following serious reactions are described below and elsewhere in the labeling:
+
+
+
+ *  Hyponatremia [see  Warnings and Precautions (5.1)  ].  
+ *  Altered Absorption in Patients with Changes in Nasal Mucosa [see  Warnings and Precautions (5.2)  ] . 
+    The following adverse reactions have been identified during post-approval use of desmopressin acetate. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
+ 
+
+ Increase in blood pressure, headache, nasal congestion, rhinitis, nosebleed, sore throat, cough, upper respiratory infections, nausea, flushing, and abdominal cramps.
+
+
+
+ Water intoxication with hyponatremia
+
+
+
+ Hyponatremic convulsions associated with concomitant use of the following medications: oxybutinin and imipramine  [see  Drug Interactions (7.1)  ]  .
+
+
+
+ Severe allergic reactions and anaphylaxis  [see  Contraindications (4)  ]  
+
+
+
+   EXCERPT:   Adverse reactions that have been identified in patients administered DDAVP Nasal Spray are headache, nasal congestion, rhinitis, nosebleed, sore throat, cough, upper respiratory infections, nausea, flushing, and mild abdominal cramps (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Ferring Pharmaceuticals Inc. at 1-888-FERRING (1-888-337-7464) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch    .  
+
+
+
+ 
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Hyponatremia: Instruct patients about proper fluid restriction and monitor serum sodium as needed (  2.1  ,  5.1  ) 
+ *   Altered Absorption in Patients with Nasal Mucosa Abnormalities: May occur with chronic administration, and require use of other formulations instead (  5.2  ) 
+    
+ 
+
+   5.1 Hyponatremia
+
+
+
+  Excessive fluid intake when urine output is limited by the antidiuretic effect of desmopressin may lead to water intoxication with hyponatremia. Cases of hyponatremia have been reported from postmarketing experience in patients treated with desmopressin acetate. Unless properly diagnosed and treated, hyponatremia can be fatal.
+
+
+
+ All patients receiving DDAVP Nasal Spray should be observed for the following signs or symptoms associated with hyponatremia: headache, nausea/vomiting, decreased serum sodium, weight gain, restlessness, fatigue, lethargy, disorientation, depressed reflexes, loss appetite, irritability, muscle weakness, muscle spasms or cramps and abnormal mental status such as hallucinations, decreased consciousness, and confusion. Severe symptoms due to an extreme decrease in serum sodium and plasma osmolality may include one or a combination of the following: seizure, coma, and/or respiratory arrest.
+
+
+
+ In order to decrease the risk of water intoxication with hyponatremia, fluid restriction is recommended. Careful fluid intake restriction is particularly important in pediatric and geriatric patients because these patients are at greater risk of developing hyponatremia [see  Use in Specific Populations (8.4  ,  8.5)  ].  More frequent monitoring of serum sodium levels is recommended in the following patients: those with conditions associated with fluid and electrolyte imbalance, such as cystic fibrosis, heart failure, renal disorders, habitual or psychogenic polydipsia or those taking concomitant drugs that may cause hyponatremia [see  Drug Interactions (7.1)  ].  
+
+
+
+ DDAVP Nasal Spray is not an indicated formulation for the treatment of primary nocturnal enuresis due to a higher risk of hyponatremia and hyponatremic convulsions with the use of the nasal spray formulation compared to desmopressin tablets seen in postmarketing reports [ see  Indications and Usage (1)  ].  
+
+
+
+    5.2 Altered Absorption in Patients with Nasal Mucosa Abnormalities
+
+
+
+  Chronic administration of DDAVP Nasal Spray may result in changes to nasal mucosa. Nasal mucosa abnormalities (such as scarring and edema) due to chronic administration, or due to other causes (nasal blockage, nasal mucosal atrophy, severe atrophic rhinitis, recent nasal surgery such as transsphenoidal hypophysectomy) may cause erratic, unreliable absorption. Avoid use of DDAVP Nasal Spray in such patients [see  Indications and Usage (1)  ]  and consider use of other formulations of desmopressin acetate given by other routes of administration.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="303" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="346" />
+    <IgnoredRegion len="430" name="excerpt" section="S1" start="1040" />
+    <IgnoredRegion len="66" name="heading" section="S2" start="2294" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

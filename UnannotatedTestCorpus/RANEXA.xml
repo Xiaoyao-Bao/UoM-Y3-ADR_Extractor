@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="RANEXA">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (&gt; 4% and more common than with placebo) are dizziness, headache, constipation, nausea. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Gilead Sciences, Inc., at 1-800-GILEAD-5 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ A total of 2,018 patients with chronic angina were treated with ranolazine in controlled clinical trials. Of the patients treated with Ranexa, 1,026 were enrolled in three double-blind, placebo-controlled, randomized studies (CARISA, ERICA, MARISA) of up to 12 weeks duration. In addition, upon study completion, 1,251 patients received treatment with Ranexa in open-label, long-term studies; 1,227 patients were exposed to Ranexa for more than 1 year, 613 patients for more than 2 years, 531 patients for more than 3 years, and 326 patients for more than 4 years.
+
+
+
+ At recommended doses, about 6% of patients discontinued treatment with Ranexa because of an adverse event in controlled studies in angina patients compared to about 3% on placebo. The most common adverse events that led to discontinuation more frequently on Ranexa than placebo were dizziness (1.3% versus 0.1%), nausea (1% versus 0%), asthenia, constipation, and headache (each about 0.5% versus 0%). Doses above 1000 mg twice daily are poorly tolerated.
+
+
+
+ In controlled clinical trials of angina patients, the most frequently reported treatment-emergent adverse reactions (&gt; 4% and more common on Ranexa than on placebo) were dizziness (6.2%), headache (5.5%), constipation (4.5%), and nausea (4.4%). Dizziness may be dose-related. In open-label, long-term treatment studies, a similar adverse reaction profile was observed.
+
+
+
+ The following additional adverse reactions occurred at an incidence of 0.5 to 2.0% in patients treated with Ranexa and were more frequent than the incidence observed in placebo-treated patients:
+
+
+
+   Cardiac Disorders  - bradycardia, palpitations
+
+
+
+   Ear and Labyrinth Disorders  - tinnitus, vertigo
+
+
+
+   Gastrointestinal Disorders  - abdominal pain, dry mouth, vomiting
+
+
+
+   General Disorders and Administrative Site Adverse Events  - peripheral edema
+
+
+
+   Respiratory  ,  Thoracic, and Mediastinal Disorders  - dyspnea
+
+
+
+   Vascular Disorders  - hypotension, orthostatic hypotension
+
+
+
+ Other (&lt; 0.5%) but potentially medically important adverse reactions observed more frequently with Ranexa than placebo treatment in all controlled studies included: angioedema, renal failure, eosinophilia, blurred vision, confusional state, hematuria, hypoesthesia, paresthesia, tremor, pulmonary fibrosis, thrombocytopenia, leukopenia, and pancytopenia.
+
+
+
+ A large clinical trial in acute coronary syndrome patients was unsuccessful in demonstrating a benefit for Ranexa, but there was no apparent proarrhythmic effect in these high-risk patients  [see  Clinical Trials (14.2)  ]  .
+
+
+
+     Laboratory Abnormalities  
+
+  Ranexa produces small reductions in hemoglobin A1c. Ranexa is not a treatment for diabetes.
+
+
+
+ Ranexa produces elevations of serum creatinine by 0.1 mg/dL, regardless of previous renal function. The elevation has a rapid onset, shows no signs of progression during long-term therapy, is reversible after discontinuation of Ranexa, and is not accompanied by changes in BUN. In healthy volunteers, Ranexa 1000 mg twice daily had no effect upon the glomerular filtration rate. The elevated creatinine levels are likely due to a blockage of creatinine's tubular secretion by ranolazine or one of its metabolites.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  QT interval prolongation: Can occur with ranolazine. Little data available on high doses, long exposure, use with QT interval-prolonging drugs, or potassium channel variants causing prolonged QT interval. (  5.1  ) 
+    
+ 
+
+   5.1 QT Interval Prolongation
+
+
+
+  Ranolazine blocks IKrand prolongs the QTc interval in a dose-related manner.
+
+
+
+ Clinical experience in an acute coronary syndrome population did not show an increased risk of proarrhythmia or sudden death   [see Clinical Studies (14.2)]    . However, there is little experience with high doses (&gt; 1000 mg twice daily) or exposure, other QT-prolonging drugs, or potassium channel variants resulting in a long QT interval.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="293" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="236" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="28" name="heading" section="S2" start="279" />
+    <IgnoredRegion len="29" name="heading" section="S1" start="323" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="3213" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

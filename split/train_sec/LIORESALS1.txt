@@ -1,0 +1,197 @@
+  ADVERSE REACTIONS
+
+  Spasticity of Spinal Cord Origin
+
+  Clinical Studies
+
+  Commonly Observed in Patients with Spasticity of Spinal Origin
+
+  In pre- and post- marketing clinical trials, the most commonly observed adverse events associated with use of LIORESAL INTRATHECAL (baclofen injection) which were not seen at an equivalent incidence among placebo-treated patients were:  somnolence≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  hypotension≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  convulsions≠B-OSE_Labeled_AE  and  hypotonia≠B-OSE_Labeled_AE .
+
+   Associated with Discontinuation of Treatment
+
+  8/474 patients with  spasticity≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   spinal≠I-Not_AE_Candidate   cord≠I-Not_AE_Candidate   origin≠I-Not_AE_Candidate  receiving long term infusion of LIORESAL INTRATHECAL in pre- and post- marketing clinical studies in the U. S. discontinued treatment due to adverse events. These include:  pump≠B-OSE_Labeled_AE   pocket≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  (3),  meningitis≠B-OSE_Labeled_AE  (2),  wound≠B-OSE_Labeled_AE   dehiscence≠I-OSE_Labeled_AE  (1),  gynecological≠B-OSE_Labeled_AE   fibroids≠I-OSE_Labeled_AE  (1) and  pump≠B-OSE_Labeled_AE   overpressurization≠I-OSE_Labeled_AE  (1) with unknown, if any, sequela. Eleven patients who developed  coma≠B-NonOSE_AE  secondary to  overdose≠B-NonOSE_AE  had their treatment temporarily suspended, but all were subsequently re-started and were not, therefore, considered to be true discontinuations.
+
+    Fatalities≠B-NonOSE_AE 
+
+    See  Warnings  .  
+
+   Incidence in Controlled Trials
+
+  Experience with LIORESAL INTRATHECAL (baclofen injection) obtained in parallel, placebo-controlled, randomized studies provides only a limited basis for estimating the incidence of adverse events because the studies were of very brief duration (up to three days of infusion) and involved only a total of 63 patients. The following events occurred among the 31 patients receiving LIORESAL INTRATHECAL (baclofen injection) in two randomized, placebo-controlled trials:  hypotension≠B-OSE_Labeled_AE  (2),  dizziness≠B-OSE_Labeled_AE  (2),  headache≠B-OSE_Labeled_AE  (2),  dyspnea≠B-OSE_Labeled_AE  (1). No adverse events were reported among the 32 patients receiving placebo in these studies.
+
+   Events Observed during the Pre- and Post-marketing Evaluation of LIORESAL INTRATHECAL
+
+  Adverse events associated with the use of LIORESAL INTRATHECAL reflect experience gained with 576 patients followed prospectively in the United States. They received LIORESAL INTRATHECAL for periods of one day (screening) (N = 576) to over eight years (maintenance) (N = 10). The usual screening bolus dose administered prior to pump implantation in these studies was typically 50 mcg. The maintenance dose ranged from 12 mcg to 2003 mcg per day. Because of the open, uncontrolled nature of the experience, a causal linkage between events observed and the administration of LIORESAL INTRATHECAL cannot be reliably assessed in many cases and many of the adverse events reported are known to occur in association with the underlying conditions being treated. Nonetheless, many of the more commonly reported reactions-  hypotonia≠B-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  paresthesia≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE / vomiting≠B-OSE_Labeled_AE  and  headache≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  appear clearly drug-related.
+
+ Adverse experiences reported during all U.S. studies (both controlled and uncontrolled) are shown in the following table. Eight of 474 patients who received chronic infusion via implanted pumps had adverse experiences which led to a discontinuation of long term treatment in the pre- and post-marketing studies.
+
+ INCIDENCE OF MOST FREQUENT (>=1%) ADVERSE EVENTS IN PATIENTS WITH SPASTICITY OF SPINAL ORIGIN IN PROSPECTIVELY MONITORED CLINICAL TRIALS 
+                                                             Percent of Patients Reporting Events   
+                                                             N = 576Screening [note: Following administration of test bolus] Percent  N = 474Titration [note: Two month period following implant] Percent  N = 430Maintenance [note: Beyond two months following implant] Percent   
+ Adverse Event                                                                                                
+  
+ N= total number of patients  entering  each period           
+ %=% of patients evaluated                                    
+  
+  Hypotonia≠B-OSE_Labeled_AE                                                    5.4             13.5                 25.3        
+  Somnolence≠B-OSE_Labeled_AE                                                   5.7             5.9                  20.9        
+  Dizziness≠B-OSE_Labeled_AE                                                    1.7             1.9                  7.9         
+  Paresthesia≠B-OSE_Labeled_AE                                                  2.4             2.1                  6.7         
+  Nausea≠B-OSE_Labeled_AE  and  Vomiting≠B-OSE_Labeled_AE                                          1.6             2.3                  5.6         
+  Headache≠B-OSE_Labeled_AE                                                     1.6             2.5                  5.1         
+  Constipation≠B-OSE_Labeled_AE                                                 0.2             1.5                  5.1         
+  Convulsion≠B-OSE_Labeled_AE                                                   0.5             1.3                  4.7         
+  Urinary≠B-OSE_Labeled_AE   Retention≠I-OSE_Labeled_AE                                            0.7             1.7                  1.9         
+  Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE                                                    0.2             0.4                  3.3         
+  Accidental≠B-OSE_Labeled_AE   Injury≠I-OSE_Labeled_AE                                            0.0             0.2                  3.5         
+  Asthenia≠B-OSE_Labeled_AE                                                     0.7             1.3                  1.4         
+  Confusion≠B-OSE_Labeled_AE                                                    0.5             0.6                  2.3         
+  Death≠B-NonOSE_AE                                                        0.2             0.4                  3.0         
+  Pain≠B-OSE_Labeled_AE                                                         0.0             0.6                  3.0         
+  Speech≠B-OSE_Labeled_AE   Disorder≠I-OSE_Labeled_AE                                              0.0             0.2                  3.5         
+  Hypotension≠B-OSE_Labeled_AE                                                  1.0             0.2                  1.9         
+  Ambylopia≠B-OSE_Labeled_AE                                                    0.5             0.2                  2.3         
+  Diarrhea≠B-OSE_Labeled_AE                                                     0.0             0.8                  2.3         
+  Hypoventilation≠B-OSE_Labeled_AE                                              0.2             0.8                  2.1         
+  Coma≠B-OSE_Labeled_AE                                                         0.0             1.5                  0.9         
+  Impotence≠B-OSE_Labeled_AE                                                    0.2             0.4                  1.6         
+  Peripheral≠B-OSE_Labeled_AE   Edema≠I-OSE_Labeled_AE                                             0.0             0.0                  2.3         
+  Urinary≠B-OSE_Labeled_AE   Incontinence≠I-OSE_Labeled_AE                                         0.0             0.8                  1.4         
+  Insomnia≠B-OSE_Labeled_AE                                                     0.0             0.4                  1.6         
+  Anxiety≠B-OSE_Labeled_AE                                                      0.2             0.4                  0.9         
+  Depression≠B-OSE_Labeled_AE                                                   0.0             0.0                  1.6         
+  Dyspnea≠B-OSE_Labeled_AE                                                      0.3             0.0                  1.2         
+  Fever≠B-OSE_Labeled_AE                                                        0.5             0.2                  0.7         
+  Pneumonia≠B-OSE_Labeled_AE                                                    0.2             0.2                  1.2         
+  Urinary≠B-OSE_Labeled_AE   Frequency≠I-OSE_Labeled_AE                                            0.0             0.6                  0.9         
+  Urticaria≠B-OSE_Labeled_AE                                                    0.2             0.2                  1.2         
+  Anorexia≠B-OSE_Labeled_AE                                                     0.0             0.4                  0.9         
+  Diplopia≠B-OSE_Labeled_AE                                                     0.0             0.4                  0.9         
+  Dysautonomia≠B-OSE_Labeled_AE                                                 0.2             0.2                  0.9         
+  Hallucinations≠B-OSE_Labeled_AE                                               0.3             0.4                  0.5         
+  Hypertension≠B-OSE_Labeled_AE                                                 0.2             0.6                  0.5         
+          In addition to the more common (1% or more) adverse events reported in the prospectively followed 576 domestic patients in pre- and post-marketing studies, experience from an additional 194 patients exposed to LIORESAL INTRATHECAL (baclofen injection) from foreign studies has been reported. The following adverse events, not described in the table, and arranged in decreasing order of frequency, and classified by body system, were reported:
+ 
+
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE :   Abnormal≠B-OSE_Labeled_AE   gait≠I-OSE_Labeled_AE ,  thinking≠B-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  amnesia≠B-OSE_Labeled_AE ,  twitching≠B-OSE_Labeled_AE ,  vasodilitation≠B-OSE_Labeled_AE ,  cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE ,  nystagmus≠B-OSE_Labeled_AE ,  personality≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  psychotic≠B-OSE_Labeled_AE   depression≠I-OSE_Labeled_AE ,  cerebral≠B-OSE_Labeled_AE   ischemia≠I-OSE_Labeled_AE ,  emotional≠B-OSE_Labeled_AE   lability≠I-OSE_Labeled_AE ,  euphoria≠B-OSE_Labeled_AE ,  hypertonia≠B-OSE_Labeled_AE ,  ileus≠B-OSE_Labeled_AE ,  drug≠B-OSE_Labeled_AE   dependence≠I-OSE_Labeled_AE ,  incoordination≠B-OSE_Labeled_AE ,  paranoid≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE  and  ptosis≠B-OSE_Labeled_AE .
+
+    Digestive≠B-NonOSE_AE   System≠I-NonOSE_AE :   Flatulence≠B-OSE_Labeled_AE ,  dysphagia≠B-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE  and  gastroenteritis≠B-OSE_Labeled_AE .
+
+    Cardiovascular≠B-NonOSE_AE   :  Postural≠B-OSE_Labeled_AE   hypotension≠I-OSE_Labeled_AE ,  bradycardia≠B-OSE_Labeled_AE ,  palpitations≠B-OSE_Labeled_AE ,  syncope≠B-OSE_Labeled_AE ,  arrhythmia≠B-OSE_Labeled_AE   ventricular≠I-OSE_Labeled_AE ,  deep≠B-OSE_Labeled_AE   thrombophlebitis≠I-OSE_Labeled_AE ,  pallor≠B-OSE_Labeled_AE  and  tachycardia≠B-OSE_Labeled_AE .
+
+    Respiratory≠B-NonOSE_AE   :  Respiratory≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  aspiration≠B-OSE_Labeled_AE   pneumonia≠I-OSE_Labeled_AE ,  hyperventilation≠B-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   embolus≠I-OSE_Labeled_AE  and  rhinitis≠B-OSE_Labeled_AE .
+
+    Urogenital≠B-NonOSE_AE :   Hematuria≠B-OSE_Labeled_AE  and  kidney≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE .
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Appendages≠I-NonOSE_AE :   Alopecia≠B-OSE_Labeled_AE  and  sweating≠B-OSE_Labeled_AE .
+
+    Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutritional≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :   Weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE ,  albuminuria≠B-OSE_Labeled_AE ,  dehydration≠B-OSE_Labeled_AE  and  hyperglycemia≠B-OSE_Labeled_AE .
+
+    Special≠B-NonOSE_AE   Senses≠I-NonOSE_AE :   Abnormal≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE ,  abnormality≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   accommodation≠I-OSE_Labeled_AE ,  photophobia≠B-OSE_Labeled_AE ,  taste≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  and  tinnitus≠B-OSE_Labeled_AE .
+
+    Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE :   Suicide≠B-OSE_Labeled_AE ,  lack≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   drug≠I-OSE_Labeled_AE   effect≠I-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  hypothermia≠B-OSE_Labeled_AE ,  neck≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE ,  face≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  flu≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  and  overdose≠B-OSE_Labeled_AE .
+
+    Hemic≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   System≠I-NonOSE_AE :   Anemia≠B-OSE_Labeled_AE .
+
+   Spasticity of Cerebral Origin
+
+  Clinical Studies
+
+  Commonly Observed
+
+  In pre-marketing clinical trials, the most commonly observed adverse events associated with use of LIORESAL INTRATHECAL (baclofen injection) which were not seen at an equivalent incidence among placebo-treated patients included:  agitation≠B-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE ,  leukocytosis≠B-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE  and  hypotonia≠B-OSE_Labeled_AE .
+
+   Associated with Discontinuation of Treatment
+
+  Nine of 211 patients receiving LIORESAL INTRATHECAL in pre-marketing clinical studies in the U.S. discontinued long term infusion due to adverse events associated with intrathecal therapy.
+
+ The nine adverse events leading to discontinuation were:  infection≠B-OSE_Labeled_AE  (3),  CSF≠B-OSE_Labeled_AE   leaks≠I-OSE_Labeled_AE  (2),  meningitis≠B-OSE_Labeled_AE  (2),  drainage≠B-OSE_Labeled_AE  (1), and  unmanageable≠B-OSE_Labeled_AE   trunk≠I-OSE_Labeled_AE   control≠I-OSE_Labeled_AE  (1).
+
+    Fatalities≠B-NonOSE_AE 
+
+  Three  deaths≠B-NonOSE_AE , none of which were attributed to LIORESAL INTRATHECAL, were reported in patients in clinical trials involving patients with  spasticity≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   cerebral≠I-Not_AE_Candidate   origin≠I-Not_AE_Candidate . See  Warnings on other  deaths≠B-NonOSE_AE  reported in  spinal≠B-Not_AE_Candidate   spasticity≠I-Not_AE_Candidate  patients.  
+
+   Incidence in Controlled Trials
+
+  Experience with LIORESAL INTRATHECAL (baclofen injection) obtained in parallel, placebo-controlled, randomized studies provides only a limited basis for estimating the incidence of adverse events because the studies involved a total of 62 patients exposed to a single 50 mcg intrathecal bolus. The following events occurred among the 62 patients receiving LIORESAL INTRATHECAL in two randomized, placebo-controlled trials involving  cerebral≠B-Not_AE_Candidate   palsy≠I-Not_AE_Candidate  and  head≠B-Not_AE_Candidate   injury≠I-Not_AE_Candidate  patients, respectively:  agitation≠B-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE ,  leukocytosis≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE ,  nystagmus≠B-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE , and  hypotonia≠B-OSE_Labeled_AE .
+
+   Events Observed during the Pre-marketing Evaluation of LIORESAL INTRATHECAL
+
+  Adverse events associated with the use of LIORESAL INTRATHECAL reflect experience gained with a total of 211 U. S. patients with  spasticity≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   cerebral≠I-Not_AE_Candidate   origin≠I-Not_AE_Candidate , of whom 112 were pediatric patients (under age 16 at enrollment). They received LIORESAL INTRATHECAL for periods of one day (screening) (N= 211) to 84 months (maintenance) (N= 1). The usual screening bolus dose administered prior to pump implantation in these studies was 50-75 mcg. The maintenance dose ranged from 22 mcg to 1400 mcg per day. Doses used in this patient population for long term infusion are generally lower than those required for patients with  spasticity≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   spinal≠I-Not_AE_Candidate   cord≠I-Not_AE_Candidate   origin≠I-Not_AE_Candidate .
+
+ Because of the open, uncontrolled nature of the experience, a causal linkage between events observed and the administration of LIORESAL INTRATHECAL cannot be reliably assessed in many cases. Nonetheless, many of the more commonly reported reactions-  somnolence≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  hypotension≠B-OSE_Labeled_AE ,  hypotonia≠B-OSE_Labeled_AE  and  coma≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  appear clearly drug-related.
+
+ The most frequent (>=1%) adverse events reported during all clinical trials are shown in the following table. Nine patients discontinued long term treatment due to adverse events.
+
+ INCIDENCE OF MOST FREQUENT (>= 1%) ADVERSE EVENTS IN PATIENTS WITH SPASTICITY OF CEREBRAL ORIGIN IN PROSPECTIVELY MONITORED CLINICAL TRIALS 
+                                                             Percent of Patients Reporting Events   
+                                                             N = 211Screening [note: Following administration of test bolus] Percent  N = 153Titration [note: Two month period following implant] Percent  N = 150Maintenance [note: Beyond two months following implant] Percent   
+ Adverse Event                                                                                                
+  
+ N= Total number of patients  entering  each period. 211 patients received drug; (1 of 212) received placebo only.   
+  
+  Hypotonia≠B-OSE_Labeled_AE                                                         2.4             14.4            34.7        
+  Somnolence≠B-OSE_Labeled_AE                                                        7.6             10.5            18.7        
+  Headache≠B-OSE_Labeled_AE                                                          6.6             7.8             10.7        
+  Nausea≠B-OSE_Labeled_AE  and  Vomiting≠B-OSE_Labeled_AE                                               6.6             10.5            4.0         
+  Vomiting≠B-OSE_Labeled_AE                                                          6.2             8.5             4.0         
+  Urinary≠B-OSE_Labeled_AE   Retention≠I-OSE_Labeled_AE                                                 0.9             6.5             8.0         
+  Convulsion≠B-OSE_Labeled_AE                                                        0.9             3.3             10.0        
+  Dizziness≠B-OSE_Labeled_AE                                                         2.4             2.6             8.0         
+  Nausea≠B-OSE_Labeled_AE                                                            1.4             3.3             7.3         
+  Hypoventilation≠B-OSE_Labeled_AE                                                   1.4             1.3             4.0         
+  Hypertonia≠B-OSE_Labeled_AE                                                        0.0             0.7             6.0         
+  Paresthesia≠B-OSE_Labeled_AE                                                       1.9             0.7             3.3         
+  Hypotension≠B-OSE_Labeled_AE                                                       1.9             0.7             2.0         
+  Increased≠B-OSE_Labeled_AE   Salivation≠I-OSE_Labeled_AE                                              0.0             2.6             2.7         
+  Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                                         0.9             0.7             2.0         
+  Constipation≠B-OSE_Labeled_AE                                                      0.5             1.3             2.0         
+  Pain≠B-OSE_Labeled_AE                                                              0.0             0.0             4.0         
+  Pruritus≠B-OSE_Labeled_AE                                                          0.0             0.0             4.0         
+  Diarrhea≠B-OSE_Labeled_AE                                                          0.5             0.7             2.0         
+  Peripheral≠B-OSE_Labeled_AE   Edema≠I-OSE_Labeled_AE                                                  0.0             0.0             3.3         
+  Thinking≠B-OSE_Labeled_AE   Abnormal≠I-OSE_Labeled_AE                                                 0.5             1.3             0.7         
+  Agitation≠B-OSE_Labeled_AE                                                         0.5             0.0             1.3         
+  Asthenia≠B-OSE_Labeled_AE                                                          0.0             0.0             2.0         
+  Chills≠B-OSE_Labeled_AE                                                            0.5             0.0             1.3         
+  Coma≠B-OSE_Labeled_AE                                                              0.5             0.0             1.3         
+  Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE                                                         0.5             0.0             1.3         
+  Pneumonia≠B-OSE_Labeled_AE                                                         0.0             0.0             2.0         
+  Speech≠B-OSE_Labeled_AE   Disorder≠I-OSE_Labeled_AE                                                   0.5             0.7             0.7         
+  Tremor≠B-OSE_Labeled_AE                                                            0.5             0.0             1.3         
+  Urinary≠B-OSE_Labeled_AE   Incontinence≠I-OSE_Labeled_AE                                              0.0             0.0             2.0         
+  Urination≠B-OSE_Labeled_AE   Impaired≠I-OSE_Labeled_AE                                                0.0             0.0             2.0         
+          The more common (1% or more) adverse events reported in the prospectively followed 211 patients exposed to LIORESAL INTRATHECAL (baclofen injection) have been reported. In the total cohort, the following adverse events, not described in the table, and arranged in decreasing order of frequency, and classified by body system, were reported:
+ 
+
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE :   Akathisia≠B-OSE_Labeled_AE ,  ataxia≠B-OSE_Labeled_AE ,  confusion≠B-OSE_Labeled_AE ,  depression≠B-OSE_Labeled_AE ,  opisthotonos≠B-OSE_Labeled_AE ,  amnesia≠B-OSE_Labeled_AE ,  anxiety≠B-OSE_Labeled_AE ,  hallucinations≠B-OSE_Labeled_AE ,  hysteria≠B-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  nystagmus≠B-OSE_Labeled_AE ,  personality≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  reflexes≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE , and  vasodilitation≠B-OSE_Labeled_AE .
+
+    Digestive≠B-NonOSE_AE   System≠I-NonOSE_AE :   Dysphagia≠B-OSE_Labeled_AE ,  fecal≠B-OSE_Labeled_AE   incontinence≠I-OSE_Labeled_AE ,  gastrointestinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  and  tongue≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE .
+
+    Cardiovascular≠B-NonOSE_AE :   Bradycardia≠B-OSE_Labeled_AE .
+
+    Respiratory≠B-NonOSE_AE   :  Apnea≠B-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE  and  hyperventilation≠B-OSE_Labeled_AE .
+
+    Urogenital≠B-NonOSE_AE   :  Abnormal≠B-OSE_Labeled_AE   ejaculation≠I-OSE_Labeled_AE ,  kidney≠B-OSE_Labeled_AE   calculus≠I-OSE_Labeled_AE ,  oliguria≠B-OSE_Labeled_AE  and  vaginitis≠B-OSE_Labeled_AE .
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Appendages≠I-NonOSE_AE :   Rash≠B-OSE_Labeled_AE ,  sweating≠B-OSE_Labeled_AE ,  alopecia≠B-OSE_Labeled_AE ,  contact≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE  and  skin≠B-OSE_Labeled_AE   ulcer≠I-OSE_Labeled_AE .
+
+    Special≠B-NonOSE_AE   Senses≠I-NonOSE_AE :   Abnormality≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   accommodation≠I-OSE_Labeled_AE .
+
+    Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE :   Death≠B-NonOSE_AE ,  fever≠B-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  carcinoma≠B-OSE_Labeled_AE ,  malaise≠B-OSE_Labeled_AE  and  hypothermia≠B-OSE_Labeled_AE .
+
+    Hemic≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   System≠I-NonOSE_AE :   Leukocytosis≠B-OSE_Labeled_AE  and  petechial≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE .
+
+   Postmarketing Experience
+
+  The following adverse events have been reported during post-approval use of LIORESAL INTRATHECAL. Because these events are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency.
+
+   Musculoskeletal
+
+  The onset of  scoliosis≠B-OSE_Labeled_AE  or  worsening≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   a≠I-OSE_Labeled_AE   pre≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  existing≠I-OSE_Labeled_AE   scoliosis≠I-OSE_Labeled_AE  has been reported.
+
+   Urogenital
+
+   Sexual≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE  in men and women, including  decreased≠B-OSE_Labeled_AE   libido≠I-OSE_Labeled_AE  and  orgasm≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE , have been reported.  Erectile≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE  in men has also been reported.  Priapism≠B-NonOSE_AE  has been reported following baclofen  withdrawal≠B-NonOSE_AE .
+

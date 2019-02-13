@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CETIRIZINE">
+  <Text>
+    <Section id="S1" name="warnings">     Warnings  
+
+
+
+  
+
+
+
+    
+
+
+
+   Do not use  if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine.
+
+
+
+    
+
+
+
+   Ask a doctor before use if you have  liver or kidney disease.
+
+
+
+ Your doctor should determine if you need a different dose.
+
+
+
+    
+
+
+
+   Ask a doctor or pharmacist before use if you are  taking tranquilizers or sedatives.
+
+
+
+     When using this product  
+
+
+
+  
+
+
+
+ *  drowsiness may occur 
+ *  avoid alcoholic drinks 
+ *  alcohol, sedatives, and tranquilizers may increase drowsiness 
+ *  be careful when driving a motor vehicle or operating machinery 
+       
+ 
+
+   Stop use and ask a doctor if  an allergic reaction to this product occurs. Seek medical help right away.
+
+
+
+     If pregnant or breast-feeding:  
+
+
+
+  
+
+
+
+ *  if breast-feeding: not recommended 
+ *  if pregnant: ask a health professional before use. 
+        Keep out of reach of children.  
+ 
+
+  In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="11" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="0" name="heading" section="S1" start="29" />
+    <IgnoredRegion len="0" name="heading" section="S1" start="186" />
+    <IgnoredRegion len="0" name="heading" section="S1" start="325" />
+    <IgnoredRegion len="26" name="heading" section="S1" start="424" />
+    <IgnoredRegion len="0" name="heading" section="S1" start="656" />
+    <IgnoredRegion len="33" name="heading" section="S1" start="775" />
+    <IgnoredRegion len="33" name="heading" section="S1" start="921" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

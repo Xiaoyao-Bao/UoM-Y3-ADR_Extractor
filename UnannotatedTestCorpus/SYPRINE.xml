@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="SYPRINE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Clinical experience with SYPRINE has been limited. The following adverse reactions have been reported in a clinical study in patients with Wilson's disease who were on therapy with trientine hydrochloride: iron deficiency, systemic lupus erythematosus (see  CLINICAL PHARMACOLOGY  ). In addition, the following adverse reactions have been reported in marketed use: dystonia, muscular spasm, myasthenia gravis.
+
+
+
+ SYPRINE is not indicated for treatment of biliary cirrhosis, but in one study of 4 patients treated with trientine hydrochloride for primary biliary cirrhosis, the following adverse reactions were reported: heartburn; epigastric pain and tenderness; thickening, fissuring and flaking of the skin; hypochromic microcytic anemia; acute gastritis; aphthoid ulcers; abdominal pain; melena; anorexia; malaise; cramps; muscle pain; weakness; rhabdomyolysis. A causal relationship of these reactions to drug therapy could not be rejected or established.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  There are no reports of hypersensitivity in patients who have been administered trientine hydrochloride for Wilson's disease. However, there have been reports of asthma, bronchitis and dermatitis occurring after prolonged environmental exposure in workers who use trientine hydrochloride as a hardener of epoxy resins. Patients should be observed closely for signs of possible hypersensitivity.
+
+
+
+    Information for Patients
+
+
+
+  Patients should be directed to take SYPRINE on an empty stomach, at least one hour before meals or two hours after meals and at least one hour apart from any other drug, food, or milk. The capsules should be swallowed whole with water and should not be opened or chewed. Because of the potential for contact dermatitis, any site of exposure to the capsule contents should be washed with water promptly. For the first month of treatment, the patient should have his temperature taken nightly, and he should be asked to report any symptom such as fever or skin eruption.
+
+
+
+    Laboratory Tests
+
+
+
+  The most reliable index for monitoring treatment is the determination of free copper in the serum, which equals the difference between quantitatively determined total copper and ceruloplasmin-copper. Adequately treated patients will usually have less than 10 mcg free copper/dL of serum.
+
+
+
+ Therapy may be monitored with a 24-hour urinary copper analysis periodically (i.e., every 6-12 months). Urine must be collected in copper-free glassware. Since a low copper diet should keep copper absorption down to less than one milligram a day, the patient probably will be in the desired state of negative copper balance if 0.5 to 1.0 milligram of copper is present in a 24-hour collection of urine.
+
+
+
+    Drug Interactions
+
+
+
+  In general, mineral supplements should not be given since they may block the absorption of SYPRINE. However, iron deficiency may develop, especially in children and menstruating or pregnant women, or as a result of the low copper diet recommended for Wilson's disease. If necessary, iron may be given in short courses, but since iron and SYPRINE each inhibit absorption of the other, two hours should elapse between administration of SYPRINE and iron.
+
+
+
+ It is important that SYPRINE be taken on an empty stomach, at least one hour before meals or two hours after meals and at least one hour apart from any other drug, food, or milk. This permits maximum absorption and reduces the likelihood of inactivation of the drug by metal binding in the gastrointestinal tract.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Data on carcinogenesis, mutagenesis, and impairment of fertility are not available.
+
+
+
+    Pregnancy
+
+
+
+   Pregnancy Category C.  Trientine hydrochloride was teratogenic in rats at doses similar to the human dose. The frequencies of both resorptions and fetal abnormalities, including hemorrhage and edema, increased while fetal copper levels decreased when trientine hydrochloride was given in the maternal diets of rats. There are no adequate and well-controlled studies in pregnant women. SYPRINE should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when SYPRINE is administered to a nursing mother.
+
+
+
+    Pediatric Use
+
+
+
+  Controlled studies of the safety and effectiveness of SYPRINE in pediatric patients have not been conducted. It has been used clinically in pediatric patients as young as 6 years with no reported adverse experiences.
+
+
+
+    Geriatric Use
+
+
+
+  Clinical studies of SYPRINE did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience is insufficient to determine differences in responses between the elderly and younger patients. In general, dose selection should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Patient experience with trientine hydrochloride is limited (see  CLINICAL PHARMACOLOGY  ). Patients receiving SYPRINE should remain under regular medical supervision throughout the period of drug administration. Patients (especially women) should be closely monitored for evidence of iron deficiency anemia.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="437" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="1043" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="1767" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="2567" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="2716" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="3237" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="3451" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="3694" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

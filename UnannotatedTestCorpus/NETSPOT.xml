@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="NETSPOT">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  
+
+
+
+   EXCERPT:    Nausea, vomiting, and injection site pain and burning sensation were all reported during post-approval use.
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Advanced Accelerator Applications USA, Inc. at 1-844-863-1930 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  The safety of Ga 68 dotatate was evaluated in three single center studies  [see  Clinical Studies (14)  ]  and in a survey of the scientific literature. No serious adverse reactions were identified.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post-approval use of NETSPOT. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to the drug.
+
+
+
+   Gastrointestinal Disorders:  Nausea and vomiting
+
+
+
+   General Disorders and Administration Site Conditions:  Injection site pain and burning sensation
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+     EXCERPT:    *   Radiation Risk: Ga 68 dotatate contributes to a patient's overall long-term cumulative radiation exposure. Ensure safe handling and preparation procedures to protect patients and health care workers from unintentional radiation exposure (  5.1  ) 
+ *   Risk for Image Misinterpretation: The uptake of Ga 68 dotatate can be seen in a variety of tumor types other than NETs (e.g. those derived from neural crest tissue), in other pathologic conditions, and as a normal physiologic variant (e.g. uncinate process of the pancreas). (  5.2  ) 
+    
+ 
+
+   5.1 Radiation Risk
+
+
+
+  Ga 68 dotatate contributes to a patient's overall long-term cumulative radiation exposure. Long-term cumulative radiation exposure is associated with an increased risk of cancer. Ensure safe handling and preparation reconstitution procedures to protect patients and health care workers from unintentional radiation exposure [ see  Dosage and Administration (2.1)    ].
+
+
+
+    5.2 Risk for Image Misinterpretation
+
+
+
+  The uptake of Ga 68 dotatate reflects the level of somatostatin receptor density in NETs. However, uptake can also be seen in a variety of other tumor types (e.g. those derived from neural crest tissue). Increased uptake might also be seen in other pathologic conditions (e.g. thyroid disease or subacute inflammation) or might occur as a normal physiologic variant (e.g. uncinate process of the pancreas). The uptake may need to be confirmed by histopathology or other assessments [see  Dosage and Administration (2.7)  ]  .
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="292" name="excerpt" section="S1" start="33" />
+    <IgnoredRegion len="560" name="excerpt" section="S2" start="38" />
+    <IgnoredRegion len="29" name="heading" section="S1" start="329" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="567" />
+    <IgnoredRegion len="18" name="heading" section="S2" start="605" />
+    <IgnoredRegion len="36" name="heading" section="S2" start="1005" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

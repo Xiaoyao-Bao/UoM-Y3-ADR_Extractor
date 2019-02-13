@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="TOBRAMYCIN_AND_DEXAMETHASONE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available. The most frequent adverse reactions to topical ocular tobramycin (Tobramycin Ophthalmic Solution) are hypersensitivity and localized ocular toxicity, including lid itching and swelling, and conjunctival erythema. These reactions occur in less than 4% of patients. Similar reactions may occur with the topical use of other aminoglycoside antibiotics. Other adverse reactions have not been reported; however, if topical ocular tobramycin is administered concomitantly with systemic aminoglycoside antibiotics, care should be taken to monitor the total serum concentration. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing.
+
+
+
+   Secondary Infection  : The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs.
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  The possibility of fungal infections of the cornea should be considered after long-term steroid dosing. As with other antibiotic preparations, prolonged use may result in overgrowth of nonsusceptible organisms, including fungi. If superinfection occurs, appropriate therapy should be initiated. When multiple prescriptions are required, or whenever clinical judgement dictates, the patient should be examined with the aid of magnification, such as slit lamp biomicroscopy and, where appropriate, fluorescein staining.
+
+
+
+ Cross-sensitivity to other aminoglycoside antibiotics may occur; if hypersensitivity develops with this product, discontinue use and institute appropriate therapy.
+
+
+
+    Information for Patients:
+
+
+
+   Do not touch dropper tip to any surface, as this may contaminate the contents. Contact lenses should not be worn during the use of this product.
+
+
+
+   Carcinogenesis, Mutagenesis, Impairment of Fertility:
+
+
+
+  No studies have been conducted to evaluate the carcinogenic or mutagenic potential. No impairment of fertility was noted in studies of subcutaneous tobramycin in rats at doses of 50 and 100 mg/kg/day.
+
+
+
+    Pregnancy Category C:
+
+
+
+  Corticosteroids have been found to be teratogenic in animal studies. Ocular administration of 0.1% dexamethasone resulted in 15.6% and 32.3% incidence of fetal anomalies in two groups of pregnant rabbits. Fetal growth retardation and increased mortality rates have been observed in rats with chronic dexamethasone therapy. Reproduction studies have been performed in rats and rabbits with tobramycin at doses up to 100 mg/kg/day parenterally and have revealed no evidence of impaired fertility or harm to the fetus. There are no adequate and well controlled studies in pregnant women. Tobramycin and Dexamethasone Ophthalmic Suspension should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+    Nursing Mothers:
+
+
+
+  Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects. It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk. Because many drugs are excreted in human milk, caution should be exercised when Tobramycin and Dexamethasone Ophthalmic Suspension is administered to a nursing woman.
+
+
+
+    Pediatric Use:
+
+
+
+  Safety and effectiveness in pediatric patients below the age of 2 years have not been established.
+
+
+
+    Geriatric Use:
+
+
+
+  No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  FOR TOPICAL OPHTHALMIC USE ONLY. NOT FOR INJECTION INTO THE EYE.
+
+
+
+ Sensitivity to topically applied aminoglycosides may occur in some patients. If a sensitivity reaction does occur, discontinue use.
+
+
+
+ Prolonged use of steroids may result in glaucoma, with damage to the optic nerve, defects in visual acuity and fields of vision, and posterior subcapsular cataract formation. Intraocular pressure should be routinely monitored even though it may be difficult in pediatric patients and uncooperative patients. Prolonged use may suppress the host response and thus increase the hazard of secondary ocular infections. In those diseases causing thinning of the cornea or sclera, perforations have been known to occur with the use of topical steroids. In acute purulent conditions of the eye, steroids may mask infection or enhance existing infection.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="25" name="heading" section="S2" start="728" />
+    <IgnoredRegion len="144" name="heading" section="S2" start="760" />
+    <IgnoredRegion len="53" name="heading" section="S2" start="911" />
+    <IgnoredRegion len="21" name="heading" section="S2" start="1178" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="1953" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="2486" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="2612" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

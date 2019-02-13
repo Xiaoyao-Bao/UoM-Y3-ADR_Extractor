@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="NICODERM_CQ">
+  <Text>
+    <Section id="S1" name="warnings">     Warnings  
+
+
+
+   If you are pregnant or breast-feeding, only use this medicine on the advice of your health care provider.
+
+
+
+  Smoking can seriously harm your child. Try to stop smoking without using any nicotine replacement medicine. This medicine is believed to be safer than smoking. However, the risks to your child from this medicine are not fully known.
+
+
+
+    Ask a doctor before use if you have
+
+
+
+    *    heart disease, recent heart attack, or irregular heartbeat. Nicotine can increase your heart rate. 
+ *    high blood pressure not controlled with medication. Nicotine can increase your blood pressure. 
+ *    an allergy to adhesive tape or have skin problems because you are more likely to get rashes 
+ *    stomach ulcers or diabetes 
+ *    history of seizures 
+       Ask a doctor or pharmacist before use if you are
+ 
+
+    *    using a non-nicotine stop smoking drug 
+ *    taking a prescription medicine for depression or asthma. Your prescription dose may need to be adjusted. 
+       When using this product
+ 
+
+    *    if you have vivid dreams or other sleep disturbances remove this patch at bedtime 
+       Stop use and ask a doctor if
+ 
+
+    *    skin redness caused by the patch does not go away after four days, or if your skin swells, or you get a rash 
+ *    irregular heartbeat or palpitations occur 
+ *    you get symptoms of nicotine overdose such as nausea, vomiting, dizziness, weakness and rapid heartbeat 
+ *    you have symptoms of an allergic reaction (such as difficulty breathing or rash) 
+       Keep out of reach of children and pets.
+ 
+
+  Used patches have enough nicotine to poison children and pets. If swallowed, get medical help or contact a Poison Control Center right away. Dispose of the used patches by folding sticky ends together. Replace in pouch and discard.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="11" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="105" name="heading" section="S1" start="22" />
+    <IgnoredRegion len="35" name="heading" section="S1" start="373" />
+    <IgnoredRegion len="48" name="heading" section="S1" start="790" />
+    <IgnoredRegion len="23" name="heading" section="S1" start="1010" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="1136" />
+    <IgnoredRegion len="39" name="heading" section="S1" start="1542" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

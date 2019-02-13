@@ -1,0 +1,20 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  Diarrhea: Patients may experience severe diarrhea. If severe diarrhea occurs,suspend dosing and rehydrate the patient. (  5.2  ) 
+    
+ 
+
+   5.1 Risk of Serious Dehydration in Pediatric Patients
+
+  LINZESS is contraindicated in patients less than 6 years of age. The safety and effectiveness of LINZESS in patients less than 18 years of age have not been established. In neonatal mice (human age equivalent of approximately 0 to 28 days), linaclotide increased fluid secretion as a consequence of GC-C agonism resulting in mortality within the first 24 hours due to dehydration. Due to increased intestinal expression of GC-C, patients less than 6 years of age may be more likely than patients 6 years of age and older to develop severe diarrhea and its potentially serious consequences.
+
+ Avoid use of LINZESS in pediatric patients 6 years to less than 18 years of age. Although there were no deaths in older juvenile mice, given the deaths in young juvenile mice and the lack of clinical safety and efficacy data in pediatric patients, avoid the use of LINZESS in pediatric patients 6 years to less than 18 years of age [see Contraindications (  4  ), Warnings and Precautions (  5.2  ), Use in Specific Populations (  8.4  )]  .
+
+    5.2 Diarrhea
+
+     Diarrhea was the most common adverse reaction of LINZESS-treated patients in the pooled IBS-C and CIC double-blind placebo-controlled trials. The incidence of diarrhea was similar between the IBS-C and CIC populations. Severe diarrhea was reported in 2% of 145 mcg and 290 mcg LINZESS-treated patients, and in <1% of 72 mcg LINZESS-treated CIC patients [see Adverse Reactions (  6.1  )]  .
+
+    In post-marketing experience, severe diarrhea associated with dizziness, syncope, hypotension and electrolyte abnormalities (hypokalemia and hyponatremia) requiring hospitalization or intravenous fluid administration have been reported in patients treated with LINZESS.
+
+    If severe diarrhea occurs, suspend dosing and rehydrate the patient.
+

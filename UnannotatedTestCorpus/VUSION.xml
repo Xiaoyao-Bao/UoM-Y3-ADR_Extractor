@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="VUSION">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    Mylan at 1-877-446-3679 (1-877-4-INFO-RX)    or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rate observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ A total of 835 infants and young children were evaluated in the clinical development program. Of 418 subjects in the VUSION group, 58 (14%) reported one or more adverse events. Of 417 subjects in the zinc oxide/white petrolatum control group, 85 (20%) reported one or more adverse events. Adverse events that occurred at a rate of &gt;= 1% for subjects who were treated with VUSION were approximately the same in type and frequency as for subjects who were treated with zinc oxide/white petrolatum ointment.
+
+
+
+   6.2 Post-marketing Experience
+
+  The following adverse reactions have been identified during post approval use of VUSION. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   Gastrointestinal Disorders:   vomiting
+
+
+
+   General Disorders and Administration Site Conditions:   burning sensation, condition aggravated, inflammation, pain
+
+
+
+   Injury, Poisoning and Procedural Complications:   accidental exposure
+
+
+
+   Skin and Subcutaneous Tissue Disorders:   blister, dermatitis contact, diaper dermatitis, dry skin, erythema, pruritus, rash, skin exfoliation
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    If irritation occurs or if the disease worsens, discontinue use of the medication, and contact the health care provider. (  5.1  ) 
+    
+ 
+
+   5.1 Skin Irritation
+
+
+
+  If irritation occurs or if the disease worsens, discontinue use of the medication, and contact the health care provider.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="173" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="154" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="197" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="203" />
+    <IgnoredRegion len="29" name="heading" section="S1" start="1024" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

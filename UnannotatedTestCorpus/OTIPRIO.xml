@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="OTIPRIO">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:     Otitis Media with Effusion:  The most frequently occurring adverse reactions (with an incidence rate greater than 3%) were nasopharyngitis and irritability. (  6.1  )
+
+
+
+   Acute Otitis Externa:  There were no adverse reactions that occurred in at least 3% of OTIPRIO patients and at an incidence greater than sham. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Otonomy at 1-800-826-6411 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+
+
+   Otitis Media with Effusion  
+
+
+
+ In two randomized, sham-controlled Phase 3 clinical trials, 530 pediatric patients with bilateral otitis media with effusion undergoing tympanostomy tube placement were treated with OTIPRIO or sham administered intratympanically as a single dose. The median age of the pediatric patients enrolled in the clinical trials was 1.5 years; 62% of patients were 6 months through 2 years of age and 38% of patients were greater than 2 years of age.
+
+
+
+ Adverse reactions that occurred in at least 3% of OTIPRIO patients and at an incidence greater than sham are presented in  Table 1  .
+
+
+
+ Table 1: Adverse Reactions in Phase 3 Otitis Media with Effusion Trials 
+   Adverse Reactions                               OTIPRIO(N=357)                   Sham(N=173)             
+  
+ Nasopharyngitis                                         5%                              4%                 
+ Irritability                                            5%                              3%                 
+ Rhinorrhea                                              3%                              2%                 
+           Acute Otitis Externa  
+ 
+
+ In a single randomized, sham controlled Phase 3 clinical trial, 259 pediatric and adult patients with acute otitis externa were treated with OTIPRIO or sham administered by a healthcare professional to the external ear canal as a single dose (0.2 mL to each affected ear). The median age of the patients enrolled in the clinical trial was 34 years; 26% were pediatric patients (age 3 to 17 years), 65% were adults (age 18 to 64 years), and 8% were elderly patients (age 65 years and older).
+
+
+
+ Adverse reactions that occurred in at least 2% of OTIPRIO patients and at an incidence greater than sham are presented in  Table 2  .
+
+
+
+ Table 2: Adverse Reactions in Phase 3 Acute Otitis Externa Trial 
+   Adverse Reactions                               OTIPRIO(N=127)                   Sham(N=132)             
+  
+ Ear Pruritus                                            2%                              2%                 
+ Headache                                                2%                              1%                 
+ Otitis Media                                            2%                              1%                 
+ Ear Discomfort                                          2%                              0%                 
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:    Potential for Microbial Overgrowth:  OTIPRIO may result in overgrowth of non-susceptible bacteria and fungi. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 Potential for Microbial Overgrowth
+
+
+
+  OTIPRIO may result in overgrowth of nonsusceptible bacteria and fungi. If such infections occur, institute alternative therapy.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="478" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="136" name="excerpt" section="S2" start="35" />
+    <IgnoredRegion len="38" name="heading" section="S2" start="178" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="508" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

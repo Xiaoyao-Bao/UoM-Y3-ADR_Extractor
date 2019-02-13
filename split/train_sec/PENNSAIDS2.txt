@@ -1,0 +1,25 @@
+
+
+    BOXED WARNING: WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS
+
+    WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS  
+
+  EXCERPT:     WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS  
+
+   See full prescribing information for complete boxed warning.  
+
+ *  Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction, and stroke, which can be fatal This risk may occur early in treatment and may increase with duration of use (5.1) 
+ *  PENNSAID is contraindicated in the setting of coronary artery bypass graft (CABG) surgery (4, 5.1) 
+ *  NSAIDs cause an increased risk of serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal. These events can occur at any time during use and without warning symptoms. Elderly patients and patients with a prior history of peptic ulcer disease and/or GI bleeding are at greater risk for serious GI events (5.2) 
+    
+ 
+
+    Cardiovascular Thrombotic Events  
+
+ *  Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious  cardiovascular≠B-OSE_Labeled_AE   thrombotic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE , including  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE , and  stroke≠B-OSE_Labeled_AE , which can be  fatal≠B-NonOSE_AE . This risk may occur early in treatment and may increase with duration of use. [see Warnings and Precautions (5.1)]. 
+ *  PENNSAID is contraindicated in the setting of coronary artery bypass graft (CABG) surgery [see Contraindications (4) and Warnings and Precautions (5.1)]. 
+        Gastrointestinal Bleeding, Ulceration, and Perforation  
+ 
+
+ *  NSAIDs cause an increased risk of serious  gastrointestinal≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  GI≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE  adverse events including  bleeding≠I-OSE_Labeled_AE , ulceration, and  perforation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE  stomach or  intestines≠I-OSE_Labeled_AE , which can be  fatal≠B-NonOSE_AE . These events can occur at any time during use and without warning symptoms. Elderly patients and patients with a prior history of  peptic≠B-Not_AE_Candidate   ulcer≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  and/or  GI≠B-Not_AE_Candidate   bleeding≠I-Not_AE_Candidate  are at greater risk for serious  GI≠B-NonOSE_AE   events≠I-NonOSE_AE  [see Warnings and Precautions (5.2)]. 
+

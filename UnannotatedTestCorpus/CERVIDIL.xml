@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CERVIDIL">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Cervidil is well tolerated. In placebo-controlled trials in which 658 women were entered and 320 received active therapy (218 without retrieval system, 102 with retrieval system), the following events were reported.
+
+
+
+ Table 1 Total Cervidil - Treated Drug-Related Adverse Events 
+                                          Controlled Studies             
+                                                  Active                             Placebo                
+ Uterine hyperstimulation with fetal distress                2.8%                               0.3%                  
+ Uterine hyperstimulation without fetal distress                4.7%                                0%                   
+ Fetal Distress without uterine hyperstimulation                3.8%                               1.2%                  
+ N                                                  320                                338                  
+                                               STUDY 101-801             
+                                                  Active                             Placebo                
+ Uterine hyperstimulation with fetal distress                2.9%                                0%                   
+ Uterine hyperstimulation without fetal distress                2.0%                                0%                   
+ Fetal Distress without uterine hyperstimulation                2.9%                               1.0%                  
+ N                                                  102                                104                  
+         Drug related fever, nausea, vomiting, diarrhea, and abdominal pain were noted in less than 1% of patients who received Cervidil.
+ 
+
+ In study 101-801 (with the retrieval system) cases of hyperstimulation reversed within 2 to 13 minutes of removal of the product. Tocolytics were required in one of the five cases.
+
+
+
+ In cases of fetal distress, when product removal was thought advisable there was a return to normal rhythm and no neonatal sequelae.
+
+
+
+ Five minute Apgar scores were 7 or above in 98.2% (646/658) of studied neonates whose mothers received Cervidil. In a report of a 3 year pediatric follow-up study in 121 infants, 51 of whose mothers received Cervidil, there were no deleterious effects on physical examination or psychomotor evaluation (18).
+
+
+
+   Post-marketing surveillance
+
+  Immune System Disorders: Hypersensitivity
+
+
+
+ Blood and lymphatic system disorders: Disseminated Intravascular Coagulation (See    Warnings    Section)
+
+
+
+ Reproductive system: Reports of uterine rupture have been reported in association with use of Cervidil some required a hysterectomy and some resulted in subsequent fetal or neonatal death.
+
+
+
+ Vascular Disorders: Hypotension
+
+
+
+ Pregnancy, Puerperium and Perinatal Conditions: Amniotic fluid embolism
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Ferring Pharmaceuticals Inc. at 1-888-FERRING (1-888-337-7464) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   1. General Precautions
+
+
+
+  Since prostaglandins potentiate the effect of oxytocin, Cervidil must be removed before oxytocin administration is initiated and the patient's uterine activity carefully monitored for uterine hyperstimulation. If uterine hyperstimulation is encountered or if labor commences, the vaginal insert should be removed. Cervidil should also be removed prior to amniotomy.
+
+
+
+ Cervidil is contraindicated when prolonged contraction of the uterus may be detrimental to fetal safety and uterine integrity. Therefore, Cervidil should not be administered to patients with a history of previous cesarean section or uterine surgery given the potential risk for uterine rupture and associated obstetrical complications, including the need for hysterectomy and the occurrence of fetal or neonatal death.
+
+
+
+ Caution should be exercised in the administration of Cervidil for cervical ripening in patients with ruptured membranes, in cases of non-vertex or non-singleton presentation, and in patients with a history of previous uterine hypertony, glaucoma, or a history of childhood asthma, even though there have been no asthma attacks in adulthood.
+
+
+
+ Uterine activity, fetal status and the progression of cervical dilatation and effacement should be carefully monitored whenever the dinoprostone vaginal insert is in place. With any evidence of uterine hyperstimulation, sustained uterine contractions, fetal distress, or other fetal or maternal adverse reactions, the vaginal insert should be removed.
+
+
+
+ An increased risk of post-partum disseminated intravascular coagulation has been described in patients whose labor was induced by physiologic means, either with dinoprostone or oxytocin.
+
+
+
+    2. Drug Interactions
+
+
+
+  Cervidil may augment the activity of oxytocic agents and their concomitant use is not recommended. A dosing interval of at least 30 minutes is recommended for the sequential use of oxytocin following the removal of the dinoprostone vaginal insert. No other drug interactions have been identified.
+
+
+
+    3. Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Long-term carcinogenicity and fertility studies have not been conducted with Cervidil (dinoprostone) Vaginal Insert. No evidence of mutagenicity has been observed with prostaglandin E2in the Unscheduled DNA Synthesis Assay, the Micronucleus Test, or Ames Assay.
+
+
+
+    4. Pregnancy, Teratogenic Effects
+
+
+
+  Prostaglandin E2has produced an increase in skeletal anomalies in rats and rabbits. No effect would be expected clinically, when used as indicated, since Cervidil (dinoprostone) Vaginal Insert is administered after the period of organogenesis. Prostaglandin E2has been shown to be embryotoxic in rats and rabbits, and any dose that produces sustained increased uterine tone could put the embryo or fetus at risk.
+
+
+
+    5. Pediatric Use
+
+
+
+  The safety and efficacy of Cervidil has been established in women of a reproductive age and women who are pregnant. Although safety and efficacy has not been established in pediatric patients, safety and efficacy are expected to be the same for adolescents.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+    For hospital use only    
+
+
+
+ Cervidil should be administered only by trained obstetrical personnel in a hospital setting with appropriate obstetrical care facilities.
+
+
+
+ Women aged 30 years or older, those with complications during pregnancy and those with a gestational age over 40 weeks have been shown to have an increased risk of postpartum disseminated intravascular coagulation. In addition, these factors may further increase the risk associated with labor induction (See   ADVERSE REACTIONS, Post-marketing surveillance    ). Therefore, in these women, use of dinoprostone should be undertaken with caution. Measures should be applied to detect as soon as possible an evolving fibrinolysis in the immediate post-partum period.
+
+
+
+ The Clinician should be alert that use of dinoprostone may result in inadvertent disruption and subsequent embolization of antigenic tissue causing in rare circumstances the development of Anaphylactoid Syndrome of Pregnancy (Amniotic Fluid Embolism).
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="22" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="1738" />
+    <IgnoredRegion len="55" name="heading" section="S2" start="2068" />
+    <IgnoredRegion len="27" name="heading" section="S1" start="2395" />
+    <IgnoredRegion len="33" name="heading" section="S2" start="2398" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="2857" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

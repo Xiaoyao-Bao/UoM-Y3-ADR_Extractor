@@ -1,0 +1,19 @@
+
+
+    BOXED WARNING: BOXED WARNING - MALIGNANCIES AND SERIOUS  INFECTIONS≠B-OSE_Labeled_AE 
+
+  BOXED WARNING - MALIGNANCIES AND SERIOUS INFECTIONS
+
+    *  Increased risk of development of  lymphoma≠B-OSE_Labeled_AE  and other  malignancies≠B-OSE_Labeled_AE , particularly of the  skin≠I-OSE_Labeled_AE , due to  immunosuppression≠B-NonOSE_AE  [see Warnings and Precautions (5.2)]. 
+ *   Increased≠B-OSE_Labeled_AE   susceptibility≠I-OSE_Labeled_AE  to  bacterial≠B-OSE_Labeled_AE , viral, fungal, and protozoal  infections≠I-OSE_Labeled_AE , including  opportunistic≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  [see Warnings and Precautions (5.3, 5.4, 5.5)]. 
+ *  Only physicians experienced in  immunosuppressive≠B-NonOSE_AE   therapy≠I-NonOSE_AE  and management of  organ≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients should prescribe Prograf. Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources. The physician responsible for maintenance therapy should have complete information requisite for the follow-up of the patient [see Warnings and Precautions (5.1)]. 
+      EXCERPT:   WARNING: MALIGNANCIES AND SERIOUS INFECTIONS
+ 
+
+   See full prescribing information for complete boxed warning  
+
+ *  Increased risk of development of lymphoma and other malignancies, particularly of the skin, due to immunosuppression (5.2) 
+ *  Increased susceptibility to bacterial, viral, fungal, and protozoal infections, including opportunistic infections (5.3, 5.4, 5.5) 
+ *  Only physicians experienced in immunosuppressive therapy and management of organ transplant patients should prescribe Prograf (5.1) 
+    
+

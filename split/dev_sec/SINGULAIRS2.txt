@@ -1,0 +1,38 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  Do not prescribe SINGULAIR to treat an acute asthma attack (  5.1  ). 
+ *  Advise patients to have appropriate rescue medication available (  5.1  ). 
+ *  Inhaled corticosteroid may be reduced gradually. Do not abruptly substitute SINGULAIR for inhaled or oral corticosteroids (  5.2  ). 
+ *  Patients with known aspirin sensitivity should continue to avoid aspirin or non-steroidal anti-inflammatory agents while taking SINGULAIR (  5.3  ). 
+ *  Neuropsychiatric events have been reported with SINGULAIR. Instruct patients to be alert for neuropsychiatric events. Evaluate the risks and benefits of continuing treatment with SINGULAIR if such events occur (  5.4  and  6.2  ). 
+ *  Systemic eosinophilia, sometimes presenting with clinical features of vasculitis consistent with Churg-Strauss syndrome, has been reported. These events have been sometimes associated with the reduction of oral corticosteroid therapy (  5.5  and  6.2  ). 
+ *  Inform patients with phenylketonuria that the 4-mg and 5-mg chewable tablets contain phenylalanine (  5.6  ). 
+    
+ 
+
+   5.1 Acute Asthma
+
+  SINGULAIR is not indicated for use in the reversal of  bronchospasm≠B-Not_AE_Candidate  in  acute≠B-Not_AE_Candidate   asthma≠I-Not_AE_Candidate   attacks≠I-Not_AE_Candidate , including  status≠B-Not_AE_Candidate   asthmaticus≠I-Not_AE_Candidate . Patients should be advised to have appropriate rescue medication available. Therapy with SINGULAIR can be continued during  acute≠B-Not_AE_Candidate   exacerbations≠I-Not_AE_Candidate   of≠I-Not_AE_Candidate   asthma≠I-Not_AE_Candidate . Patients who have  exacerbations≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   asthma≠I-Not_AE_Candidate   after≠I-Not_AE_Candidate   exercise≠I-Not_AE_Candidate  should have available for rescue a short-acting inhaled beta-agonist.
+
+    5.2 Concomitant Corticosteroid Use
+
+  While the dose of inhaled corticosteroid may be reduced gradually under medical supervision, SINGULAIR should not be abruptly substituted for inhaled or oral corticosteroids.
+
+    5.3 Aspirin Sensitivity
+
+  Patients with known  aspirin≠B-Not_AE_Candidate   sensitivity≠I-Not_AE_Candidate  should continue avoidance of aspirin or non-steroidal anti-inflammatory agents while taking SINGULAIR. Although SINGULAIR is effective in improving airway function in  asthmatics≠B-Not_AE_Candidate  with documented  aspirin≠B-Not_AE_Candidate   sensitivity≠I-Not_AE_Candidate , it has not been shown to truncate  bronchoconstrictor≠B-Not_AE_Candidate   response≠I-Not_AE_Candidate   to≠I-Not_AE_Candidate   aspirin≠I-Not_AE_Candidate  and other non-steroidal anti-inflammatory drugs in  aspirin≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  sensitive≠I-Not_AE_Candidate   asthmatic≠B-Not_AE_Candidate  patients [see  Clinical Studies (14.1)  ]  .
+
+    5.4 Neuropsychiatric Events
+
+    Neuropsychiatric≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  have been reported in adult, adolescent, and pediatric patients taking SINGULAIR. Post-marketing reports with SINGULAIR use include  agitation≠B-OSE_Labeled_AE ,  aggressive≠B-OSE_Labeled_AE   behavior≠I-OSE_Labeled_AE  or  hostility≠B-OSE_Labeled_AE ,  anxiousness≠B-OSE_Labeled_AE ,  depression≠B-OSE_Labeled_AE ,  disorientation≠B-OSE_Labeled_AE ,  disturbance≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   attention≠I-OSE_Labeled_AE ,  dream≠B-OSE_Labeled_AE   abnormalities≠I-OSE_Labeled_AE ,  hallucinations≠B-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  irritability≠B-OSE_Labeled_AE ,  memory≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE ,  restlessness≠B-OSE_Labeled_AE ,  somnambulism≠B-OSE_Labeled_AE ,  suicidal≠B-OSE_Labeled_AE   thinking≠I-OSE_Labeled_AE  and  behavior≠I-OSE_Labeled_AE  (including  suicide≠B-OSE_Labeled_AE ),  tic≠B-OSE_Labeled_AE , and  tremor≠B-OSE_Labeled_AE . The clinical details of some post-marketing reports involving SINGULAIR appear consistent with a drug-induced effect.  
+
+ Patients and prescribers should be alert for  neuropsychiatric≠B-NonOSE_AE   events≠I-NonOSE_AE . Patients should be instructed to notify their prescriber if these changes occur. Prescribers should carefully evaluate the risks and benefits of continuing treatment with SINGULAIR if such events occur [see  Adverse Reactions (6.2)  ].  
+
+    5.5 Eosinophilic Conditions
+
+  Patients with  asthma≠B-Not_AE_Candidate  on therapy with SINGULAIR may present with  systemic≠B-OSE_Labeled_AE   eosinophilia≠I-OSE_Labeled_AE , sometimes presenting with clinical features of  vasculitis≠B-OSE_Labeled_AE  consistent with  Churg≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Strauss≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE , a condition which is often treated with systemic corticosteroid therapy. These events have been sometimes associated with the reduction of oral corticosteroid therapy. Physicians should be alert to  eosinophilia≠B-NonOSE_AE ,  vasculitic≠B-NonOSE_AE   rash≠I-NonOSE_AE ,  worsening≠B-NonOSE_AE   pulmonary≠I-NonOSE_AE   symptoms≠I-NonOSE_AE ,  cardiac≠B-NonOSE_AE   complications≠I-NonOSE_AE , and/or  neuropathy≠B-NonOSE_AE  presenting in their patients. A causal association between SINGULAIR and these underlying conditions has not been established [see  Adverse Reactions (6.2)  ].  
+
+    5.6 Phenylketonuria
+
+   Phenylketonuric≠B-Not_AE_Candidate  patients should be informed that the 4-mg and 5-mg chewable tablets contain phenylalanine (a component of aspartame), 0.674 and 0.842 mg per 4-mg and 5-mg chewable tablet, respectively.
+

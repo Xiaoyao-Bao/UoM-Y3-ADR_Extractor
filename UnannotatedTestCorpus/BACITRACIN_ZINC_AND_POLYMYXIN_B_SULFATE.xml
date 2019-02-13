@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="BACITRACIN_ZINC_AND_POLYMYXIN_B_SULFATE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+    To report SUSPECTED ADVERSE REACTIONS, contact Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+</Section>
+    <Section id="S2" name="warnings">    WARNINGS
+
+
+
+  Ophthalmic ointments may retard corneal healing.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S2" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

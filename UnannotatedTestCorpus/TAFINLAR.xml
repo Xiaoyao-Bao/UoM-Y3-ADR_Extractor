@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="TAFINLAR">
+  <Text>
+    <Section id="S1" name="adverse reactions">      6          ADVERSE REACTIONS  
+
+  The following adverse reactions are described elsewhere in the labeling:
+
+
+
+ *  New Primary Malignancies [see Warnings and Precautions (5.  1  )]  
+ *  Tumor Promotion in BRAF Wild-Type Melanoma [see Warnings and Precautions (5.2)]  
+ *  Hemorrhage [see Warnings and Precautions (5.3)]  
+ *  Cardiomyopathy  [see Warnings and Precautions (5.  4  )]   
+ *  Uveitis  [see Warnings and Precautions (5.  5  )]  
+ *  Serious Febrile Reactions [see Warnings and Precautions (5.  6  )]  
+ *  Serious Skin Toxicity [see Warnings and Precautions (5.  7  )]  
+ *  Hyperglycemia [see Warnings and Precautions (5.  8  )]  
+ *  Glucose-6-Phosphate Dehydrogenase Deficiency [see Warnings and Precautions (5.  9  )]  
+    There are additional adverse reactions associated with trametinib. Refer to the trametinib prescribing information for additional information.
+ 
+
+   EXCERPT:   Most common adverse reactions (&gt;= 20%) for TAFINLAR as a single agent are hyperkeratosis, headache, pyrexia, arthralgia, papilloma, alopecia, and palmar-plantar erythrodysesthesia syndrome. (  6.1  )
+
+
+
+ Most common adverse reactions (&gt;= 20%) for TAFINLAR, in combination with trametinib, include:
+
+
+
+ *  Unresectable or metastatic melanoma: pyrexia, rash, chills, headache, arthralgia, and cough. (  6.1  ) 
+ *  Adjuvant treatment of melanoma: pyrexia, fatigue, nausea, headache, rash, chills, diarrhea, vomiting, arthralgia, and myalgia. (  6.1  ) 
+ *  NSCLC: pyrexia, fatigue, nausea, vomiting, diarrhea, dry skin, decreased appetite, edema, rash, chills, hemorrhage, cough, and dyspnea. (  6.1  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Novartis Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1       Clinical Trials Experience 
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The data described in the Warnings and Precautions section reflect exposure to TAFINLAR administered as a single agent in 586 patients with various solid tumors and exposure to TAFINLAR administered with trametinib in 559 patients with unresectable or metastatic melanoma and 93 patients with NSCLC. The safety of TAFINLAR as a single agent was evaluated in 586 patients with BRAF V600 mutation-positive unresectable or metastatic melanoma, previously treated or untreated, who received TAFINLAR 150 mg orally twice daily until disease progression or unacceptable toxicity, including 181 patients treated for at least 6 months and 86 additional patients treated for more than 12 months. TAFINLAR was studied in open-label, single-arm trials and in an open-label, randomized, active-controlled trial. The median daily dose of TAFINLAR was 300 mg (range: 118 to 300 mg).
+
+
+
+   Metastatic or Unresectable BRAF V600E or V600K Mutation-Positive Melanoma  
+
+
+
+   TAFINLAR as a Single Agent  
+
+
+
+ Table 3 and Table 4 present adverse drug reactions identified from analyses of the BREAK-3 study   [see Clinical Studies (14    .1    )].  This study, a multicenter, international, open-label, randomized (3:1), controlled trial allocated 250 patients with unresectable or metastatic BRAF V600E mutation-positive melanoma to receive TAFINLAR 150 mg orally twice daily (n = 187) or dacarbazine 1,000 mg/m  2  intravenously every 3 weeks (n = 63). The trial excluded patients with abnormal left ventricular ejection fraction or cardiac valve morphology (&gt;= Grade 2), corrected QT interval greater than or equal to 480 milliseconds on electrocardiogram, or a known history of glucose-6-phosphate dehydrogenase deficiency. The median duration on treatment was 4.9 months for patients treated with TAFINLAR and 2.8 months for dacarbazine-treated patients. The population exposed to TAFINLAR was 60% male, 99% White, and had a median age of 53 years.
+
+
+
+ The most commonly occurring adverse reactions (&gt;= 20%) in patients treated with TAFINLAR were, in order of decreasing frequency: hyperkeratosis, headache, pyrexia, arthralgia, papilloma, alopecia, and palmar-plantar erythrodysesthesia syndrome (PPES).
+
+
+
+ The incidence of adverse events resulting in permanent discontinuation of study medication in the BREAK-3 study was 3% for patients treated with TAFINLAR and 3% for patients treated with dacarbazine. The most frequent (&gt;= 2%) adverse reactions leading to dose reduction of TAFINLAR were pyrexia (9%), PPES (3%), chills (3%), fatigue (2%), and headache (2%).
+
+
+
+ Table 3. Select Common Adverse Reactions Occurring in &gt;= 10% (All Grades) or &gt;= 2% (Grades 3 or 4) of Patients Treated with TAFINLAR in the BREAK-3 Studya  
+                    TAFINLAR    N         =         187      Dacarbazine    N     =         59     
+   Adverse Reactions      All    Grades    (%)      Grades    3 and 4      b      (%)      All    Grades    (%)      Grades    3 and 4    (%)     
+   Skin and subcutaneous tissue                                                                         
+    Hyperkeratosis  37               1                0                0                 
+    Alopecia      22               NA  f            2                NA  f             
+    Palmar-plantar erythrodysesthesia syndrome  20               2                2                0                 
+    Rash          17               0                0                0                 
+   Nervous system                                                                         
+    Headache      32               0                8                0                 
+   General disorders                                                                         
+    Pyrexia       28               3                10               0                 
+   Musculoskeletal                                                                         
+    Arthralgia    27               1                2                0                 
+    Back pain     12               3                7                0                 
+    Myalgia       11               0                0                0                 
+   Neoplasms                                                                           
+    Papilloma  c    27               0                2                0                 
+    cuSCC  d, e    7                4                0                0                 
+   Respiratory                                                                         
+    Cough         12               0                5                0                 
+   Gastrointestinal                                                                         
+    Constipation  11               2                14               0                 
+   Infections                                                                          
+    Nasopharyngitis  10               0                3                0                 
+             a        Adverse drug reactions, reported using MedDRA and graded using NCI CTCAE version 4.0 for assessment of toxicity.
+ 
+
+   b        Grade 4 adverse reactions limited to hyperkeratosis (n = 1) and constipation (n = 1).
+
+
+
+   c        Includes skin papilloma and papilloma.
+
+
+
+   d        cuSCC = cutaneous squamous cell carcinoma, includes squamous cell carcinoma of the skin and keratoacanthoma.
+
+
+
+   e        Cases of cuSCC were required to be reported as Grade 3 per protocol.
+
+
+
+   f        NA = not applicable.
+
+
+
+ Table 4. Incidence of Laboratory Abnormalities Increased from Baseline Occurring at a Higher Incidence in Patients Treated with TAFINLAR in the BREAK-3 Study [Between-Arm Difference of &gt;= 5% (All Grades) or &gt;= 2% (Grades 3 or 4)]a 
+                    TAFINLAR    N     =         187      DTIC    N     =         59     
+   Test             All    Grades    (%)      Grades    3 and 4    (%)      All    Grades    (%)      Grades    3 and 4    (%)     
+ Hyperglycemia    50               6                43               0                 
+ Hypophosphatemia  37               6  b             14               2                 
+ Increased alkaline phosphatase  19               0                14               2                 
+ Hyponatremia     8                2                3                0                 
+             a        Adverse drug reactions, reported using MedDRA and graded using NCI CTCAE version 4.0 for assessment of toxicity.
+ 
+
+   b        Grade 4 laboratory abnormality limited to hypophosphatemia (n = 1).
+
+
+
+ Other clinically important adverse reactions observed in less than 10% of patients (N = 586) treated with TAFINLAR were:
+
+
+
+   Gastrointestinal Disorders:       Pancreatitis
+
+
+
+   Immune System Disorders:       Hypersensitivity manifesting as bullous rash
+
+
+
+   Renal and Urinary Disorders:  Interstitial nephritis
+
+
+
+   TAFINLAR Administered with Trametinib  
+
+
+
+ The safety of TAFINLAR when administered with trametinib was evaluated in 559 patients with previously untreated, unresectable or metastatic, BRAF V600E or V600K mutation-positive melanoma who received TAFINLAR in two trials, the COMBI-d study (n = 209) a multicenter, double-blind, randomized (1:1), active controlled trial and the COMBI-v study (n = 350) a multicenter, open-label, randomized (1:1), active controlled trial. In the COMBI-d and COMBI-v studies, patients received TAFINLAR 150 mg orally twice daily and trametinib 2 mg orally once daily until disease progression or unacceptable toxicity. Both trials excluded patients with abnormal left ventricular ejection fraction, history of acute coronary syndrome within 6 months, history of Class II or greater congestive heart failure (New York Heart Association), history of RVO or RPED, QTcB interval &gt;= 480 msec, treatment refractory hypertension, uncontrolled arrhythmias, active brain metastases, or a known history of G6PD deficiency  [see Clinical Studies (14.2)].  
+
+
+
+ Among these 559 patients, 199 (36%) were exposed to TAFINLAR for &gt; 6 months to 12 months while 185 (33%) were exposed to TAFINLAR for &gt;= 1 year. The median age was 55 years (range: 18 to 91), 57% were male, 98% were White, 72% had baseline ECOG performance status 0 and 28% had ECOG performance status 1, 64% had M1c stage disease, 35% had elevated LDH at baseline and 0.5% had a history of brain metastases.
+
+
+
+ The most commonly occurring adverse reactions (&gt;= 20%) for TAFINLAR in patients receiving TAFINLAR plus trametinib in the COMBI-d and COMBI-v studies were: pyrexia, rash, chills, headache, arthralgia, and cough.
+
+
+
+ Table 5 and Table 6 present adverse drug reactions and laboratory abnormalities, respectively, observed in the COMBI-d study.
+
+
+
+ The demographics and baseline tumor characteristics of patients enrolled in the COMBI-d study are summarized in Clinical Studies  [see Clinical Studies (14.2)]  . Patients receiving TAFINLAR plus trametinib had a median duration of exposure of 11 months (range: 3 days to 30 months) to TAFINLAR. Among the 209 patients receiving TAFINLAR plus trametinib, 26% were exposed to TAFINLAR for &gt; 6 months to 12 months while 46% were exposed to TAFINLAR for &gt; 1 year.
+
+
+
+ In the COMBI-d study, adverse reactions resulting in discontinuation of TAFINLAR occurred in 11% of patients receiving TAFINLAR plus trametinib; the most common was pyrexia (1.9%). Adverse reactions leading to dose reductions of TAFINLAR occurred in 26% of patients receiving TAFINLAR plus trametinib; the most common were pyrexia (14%), neutropenia (1.9%), rash (1.9%), and chills (1.9%). Adverse reactions leading to dose interruptions of TAFINLAR occurred in 56% of patients receiving TAFINLAR plus trametinib; the most common were pyrexia (35%), chills (11%), vomiting (7%), nausea (5%), and decreased ejection fraction (5%). 
+
+
+
+ Table 5. Select Adverse Reactions Occurring in &gt;= 10% (All Grades) of Patients Treated with TAFINLAR in Combination with Trametinib in the COMBI-d Studya  
+                    Pooled TAFINLAR plus    Trametinib    N = 559      COMBI-d Study     
+                                     TAFINLAR plus Trametinib         N =         209      TAFINLAR    N = 211     
+   Adverse Reactions      All    Grades    (%)      Grades    3 and 4      b      (%)      All    Grades    (%)      Grades    3 and 4    (%)      All    Grades    (%)      Grades    3 and 4    (%)     
+   General         
+       Pyrexia    54               5                57               7                33               1.9               
+       Chills     31               0.5              31               0                17               0.5               
+   Gastrointestinal     
+       Constipation  13               0.2              13               0.5              10               0                 
+   Nervous system     
+       Headache   30               0.9              33               0.5              30               1.4               
+       Dizziness  11               0.2              14               0                7                0                 
+   Musculoskeletal     
+       Arthralgia  25               0.9              26               0.9              31               0                 
+       Myalgia    15               0.2              13               0.5              13               0                 
+   Skin            
+       Rash  c    32               1.1              42               0                27               1.4               
+       Dry skin   10               0                12               0                16               0                 
+   Respiratory     
+       Cough      20               0                21               0                21               0                 
+   Infections      
+       Nasopharyngitis  12               0                12               0                10               0                 
+               a        NCI CTCAE version 4.0.
+ 
+
+   b        Grade 4 adverse reactions limited to headache (n = 1).
+
+
+
+   c        Includes rash generalized, rash pruritic, rash erythematous, rash papular, rash vesicular, rash macular, rash maculo-papular, and rash folliculitis.
+
+
+
+ Other clinically important adverse reactions for TAFINLAR across the COMBI-d and COMBI-v studies (N = 559) observed in less than 10% of patients receiving TAFINLAR in combination with trametinib were:
+
+
+
+   Gastrointestinal Disorders:  Pancreatitis
+
+
+
+   Subcutaneous Tissue Disorders:  Panniculitis
+
+
+
+ Table 6. Select Laboratory Abnormalities Worsening from Baseline Occurring at &gt;= 10% (All Grades) of Patients Receiving TAFINLAR with Trametinib in the COMBI-d Study 
+   Test             Pooled TAFINLARplus T    rametinib    N = 559      a         COMBI-d Study     
+                                     TAFINLAR plus Trametinib    N         =         209      b        TAFINLAR    N = 211      b       
+                    All    Grades    (%)      Grades    3 and    4      c      (%)      All    Grades    (%)      Grades    3 and    4      c      (%)      All    Grades    (%)      Grades    3 and    4      c      (%)     
+   Liver Function Tests     
+    Increased blood alkaline   phosphatase  49               2.7              50               1.0              25               0.5               
+   Chemistry       
+       Hyperglycemia  60               4.7              65               6                57               4.3               
+       Hypophosphatemia  38               6                38               3.8              35               7                 
+       Hyponatremia  25               8                24               6                14               2.9               
+               a        For these laboratory tests the denominator is 556.
+ 
+
+   b        For these laboratory tests the denominator is 208 for the combination arm, 208-209 for the TAFINLAR arm.
+
+
+
+   c        Grade 4 adverse reactions limited to hyperglycemia (n = 4), hyponatremia and hypophosphatemia (each n = 1), in the pooled combination arm; hyperglycemia (n = 1) in the COMBI-d study combination arm; hypophosphatemia (n = 1) in the TAFINLAR arm.
+
+
+
+   Adjuvant Treatment of BRAF V600E or V600K Mutation-Positive Melanoma  
+
+
+
+ The safety of TAFINLAR when administered with trametinib was evaluated in 435 patients with Stage III melanoma with BRAF V600E or V600K mutations following complete resection who received at least one dose of study therapy in the COMBI-AD study [  see Clinical Studies (14.3)  ]. Patients received TAFINLAR 150 mg orally twice daily and trametinib 2 mg orally once daily for 12 months. The trial excluded patients with abnormal left ventricular ejection fraction; history of acute coronary syndromes, coronary angioplasty, or stenting within 6 months; Class II or greater congestive heart failure (New York Heart Association); QTc interval &gt;= 480 msec; treatment-refractory hypertension; uncontrolled arrhythmias; or history of retinal vein occlusion. The median age of patients who received TAFINLAR in combination with trametinib was 50 years (range: 18 to 89), 56% were male, 99% were White, 92% had baseline ECOG performance status 0, and 8% had baseline ECOG performance status of 1. Patients receiving TAFINLAR in combination with trametinib had a median duration of exposure of 11 months (range: 0 to 12) to TAFINLAR. Among the 435 patients receiving TAFINLAR in combination with trametinib, 71% were exposed to TAFINLAR for &gt; 6 months.
+
+
+
+ The most commonly occurring adverse reactions (&gt;= 20%) in patients receiving TAFINLAR in combination with trametinib were: pyrexia, fatigue, nausea, headache, rash, chills, diarrhea, vomiting, arthralgia, and myalgia.
+
+
+
+ Adverse reactions resulting in discontinuation, dose reduction, or dose interruption of TAFINLAR occurred in 25%, 35%, and 66% of patients, respectively; the most common for each were pyrexia and chills.
+
+
+
+ Table 7 summarizes adverse reactions that occurred in at least 20% of patients receiving TAFINLAR in combination with trametinib.
+
+
+
+ Table 7. Adverse Reactions Occurring in &gt;= 20% of Patients in the COMBI-AD Studya 
+   a  NCI CTCAE version 4.0  b  Includes pyrexia and hyperpyrexia  c  Includes fatigue, asthenia, and malaise  d  Includes headache and tension headache  e  Includes rash, rash maculo-papular, rash macular, rash generalized, rash erythematous, rash papular, rash pruritic, nodular rash, rash vesicular, and rash pustular  f  Includes myalgia, musculoskeletal pain, and musculoskeletal chest pain   
+  
+   Adverse Reactions      TAFINLAR plus Trametinib    N = 435       Placebo    N = 432     
+                    All    Grades    (%)      Grades    3 and    4    (%)      All    Grades    (%)      Grades    3 and    4    (%)     
+   General         
+    Pyrexia  b    63               5                11               &lt;1                
+    Fatigue  c    59               5                37               &lt;1                
+    Chills        37               1                4                0                 
+   Gastrointestinal     
+    Nausea        40               &lt;1               20               0                 
+    Diarrhea      33               &lt;1               15               &lt;1                
+    Vomiting      28               &lt;1               10               0                 
+   Nervous system     
+    Headache  d    39               1                24               0                 
+   Skin            
+    Rash  e       37               &lt;1               16               &lt;1                
+   Musculoskeletal     
+    Arthralgia    28               &lt;1               14               0                 
+    Myalgia  f    20               &lt;1               14               0                 
+           Other clinically important adverse reactions observed in less than 20% of patients in the COMBI-AD study receiving TAFINLAR in combination with trametinib were blurred vision (6%), ejection fraction decreased (5%), and rhabdomyolysis (&lt; 1%).
+ 
+
+ The most common laboratory abnormalities are summarized in Table 8.
+
+
+
+ Table 8. Laboratory Abnormalities Worsening from Baseline Occurring in &gt;= 20% of Patients in the COMBI-AD study 
+   a  The incidence is based on the number of patients who had both a baseline and at least one on-study laboratory measurement:TAFINLAR plus Trametinib (range 429 to 431) and placebo arm (range 426 to 428)   
+  
+   Test             TAFINLAR plus Trametinib  a      N = 435       Placebo  a      N = 432     
+                    All    Grades    (%)      Grades    3 and    4    (%)      All    Grades    (%)      Grades    3 and    4    (%)     
+   Hematology      
+    Neutropenia   47               6                12               &lt;1                
+    Lymphopenia   26               5                6                &lt;1                
+    Anemia        25               &lt;1               6                &lt;1                
+   Liver Function Tests     
+    Increased AST  57               6                11               &lt;1                
+    Increased ALT  48               5                18               &lt;1                
+    Increased blood alkaline phosphatase  38               1                6                &lt;1                
+   Chemistry       
+    Hyperglycemia  63               3                47               2                 
+    Hypophosphatemia  42               7                10               &lt;1                
+    Hypoalbuminemia  25               &lt;1               &lt;1               0                 
+             Metastatic, BRAF V600E-Mutation Positive, Non-Small Cell Lung Cancer (NSCLC)  
+ 
+
+ The safety of TAFINLAR when administered with trametinib was evaluated in 93 patients with previously untreated (n = 36) and previously treated (n = 57) metastatic BRAF V600E mutation-positive NSCLC in a multicenter, multi-cohort, non-randomized, open-label trial (Study BRF113928). Patients received TAFINLAR 150 mg orally twice daily and trametinib 2 mg orally once daily until disease progression or unacceptable toxicity. The trial excluded patients with abnormal left ventricular ejection fraction, history of acute coronary syndrome within 6 months, history of Class II or greater congestive heart failure (New York Heart Association), QTc interval &gt;= 480 msec, treatment refractory hypertension, uncontrolled arrhythmias, active brain metastases, history of interstitial lung disease or pneumonitis, or history or current retinal vein occlusion   [see Clinical Studies (14.4)].  
+
+
+
+ Among these 93 patients, 53 (57%) were exposed to TAFINLAR and trametinib for &gt; 6 months and 27 (29%) were exposed to TAFINLAR and trametinib for &gt;= 1 year. The median age was 65 years (range: 41 to 91); 46% were male; 85% were White; 32% had baseline ECOG performance status 0 and 61% had ECOG performance status 1; 98% had non-squamous histology; and 12% were current smokers, 60% were former smokers, and 28% had never smoked.
+
+
+
+ The most commonly occurring adverse reactions (&gt;= 20%) in these 93 patients were: pyrexia, fatigue, nausea, vomiting, diarrhea, dry skin, decreased appetite, edema, rash, chills, hemorrhage, cough, and dyspnea.
+
+
+
+ Adverse reactions resulting in discontinuation of TAFINLAR occurred in 18% of patients; the most common were pyrexia (2.2%), ejection fraction decreased (2.2%), and respiratory distress (2.2%). Adverse reactions leading to dose reductions of TAFINLAR occurred in 35% of patients; the most common were pyrexia (10%), diarrhea (4.3%), nausea (4.3%), vomiting (4.3%), and neutropenia (3.2%). Adverse reactions leading to dose interruptions of TAFINLAR occurred in 62% of patients; the most common were pyrexia (27%), vomiting (11%), neutropenia (8%), and chills (6%).
+
+
+
+ Table 9 and Table 10 present adverse drug reactions and laboratory abnormalities, respectively, of TAFINLAR in combination with trametinib in Study BRF113928.
+
+
+
+ Table 9. Adverse Reactions Occurring in &gt;= 20% (All Grades) of Patients Treated with TAFINLAR in Combination with Trametinib in Study BRF113928a  
+   Adverse Reactions      TAFINLAR plus T    rametinib    N =     93     
+                                    
+                    All    Grades    (%)      Grades    3 and 4      b      (%)     
+   General         
+    Pyrexia       55               5                 
+    Fatigue  b    51               5                 
+    Edema  c      28               0                 
+    Chills        23               1.1               
+   Gastrointestinal     
+    Nausea        45               0                 
+    Vomiting      33               3.2               
+    Diarrhea      32               2.2               
+    Decreased appetite  29               0                 
+   Respiratory         system     
+    Cough         22               0                 
+    Dyspnea       20               5                 
+   Skin            
+    Dry skin      31               1.1               
+    Rash  d       28               3.2               
+   Vascular        
+    Hemorrhage  e    23               3.2               
+           a        NCI CTCAE version 4.0.
+ 
+
+   b          Includes fatigue, malaise, and asthenia
+
+
+
+   c        Includes peripheral edema, edema, and generalized edema.
+
+
+
+   d        Includes rash, rash generalized, rash papular, rash macular, rash maculo-papular, and rash pustular.
+
+
+
+   e        Includes hemoptysis, hematoma, epistaxis, purpura, hematuria, subarachnoid hemorrhage, gastric hemorrhage, urinary bladder hemorrhage, contusion, hematochezia, injection site hemorrhage, pulmonary hemorrhage, and retroperitoneal hemorrhage.
+
+
+
+ Other clinically important adverse reactions for TAFINLAR observed in less than 10% of patients with NSCLC receiving TAFINLAR in combination with trametinib were:
+
+
+
+   Gastrointestinal Disorders:  Pancreatitis
+
+
+
+   Renal and Urinary Disorders:  Tubulointerstitial nephritis
+
+
+
+ Table 10. Treatment-Emergent Laboratory Abnormalities Occurring in &gt;= 20% (All Grades) of Patients Receiving TAFINLAR with Trametinib in Study BRF113928 
+   Test             TAFINLAR plus Trametinib    N =     93     
+                    All    Grades    (%)      Grades    3 and    4    (%)     
+   Hematology      a       
+    Leukopenia    48               8                 
+    Anemia        46               10                
+    Neutropenia   44               8                 
+    Lymphopenia   42               14                
+   Liver Function Tests      b            
+    Increased blood alkaline phosphatase  64               0                 
+    Increased AST  61               4.4               
+    Increased ALT  32               6                 
+   Chemistry      b       
+    Hyperglycemia  71               9                 
+    Hyponatremia  57               17                
+    Hypophosphatemia  36               7                 
+    Increased creatinine  21               1.1               
+           a        For these laboratory tests the denominator is 91.
+ 
+
+   b        For these laboratory tests the denominator is 90.
+
+
+
+   Locally Advanced or Metastatic, BRAF V600E-Mutation Positive, Anaplastic Thyroid Cancer (ATC)  
+
+
+
+ The safety of TAFINLAR when administered with trametinib was evaluated in a nine-cohort, multicenter, non-randomized, open-label study in patients with rare cancers with the BRAF V600E mutation, including locally advanced or metastatic ATC (Study BRF117019). At the time of the safety analysis, a total of 100 patients were enrolled in the trial, 16 of whom were enrolled in the ATC cohort. The primary safety population included all patients who received at least one dose of TAFINLAR or trametinib. Patients received TAFINLAR 150 mg orally twice daily and trametinib 2 mg orally once daily until disease progression or unacceptable toxicity.
+
+
+
+ Among these 100 patients, 46 (46%) were exposed to TAFINLAR and trametinib for &gt; 6 months and 23 (23%) were exposed to TAFINLAR and trametinib for &gt;= 1 year. The median age was 59.5 years (range: 18 to 85); 62% were male; 85% were White; and 31% had baseline ECOG performance status 0 and 59% had ECOG performance status 1.
+
+
+
+ The adverse reaction profile among all patients and among patients in the ATC cohort was similar to that observed in other approved indications.
+</Section>
+    <Section id="S2" name="warnings and precautions">     5         WARNINGS AND PRECAUTIONS  
+
+
+
+     EXCERPT:    *   New primary malignancies,     cutaneous and non-cutaneous : Can occur when TAFINLAR is administered as a single agent or with trametinib. Monitor patients for new malignancies prior to, or while on therapy, and following discontinuation of treatment. (  5.1  ,  2.7  ) 
+ *   Tumor  promotion  in BRAF  wild-type  tumors : Increased cell proliferation can occur with BRAF inhibitors. (  5.2  ,  2.1  ) 
+ *   Hemorrhage : Major hemorrhagic events can occur in patients receiving TAFINLAR with trametinib. Monitor for signs and symptoms of bleeding. (  5.3  ) 
+ *   Cardiomyopathy : Assess LVEF before treatment with TAFINLAR and trametinib, after one month of treatment, then every 2 to 3 months thereafter. (  5.4  ,  2.7  ) 
+ *   Uveitis : Perform ophthalmologic evaluation for any visual disturbances. (  5.5  ,  2.7  ) 
+ *   Serious  Febrile Reactions : Incidence and severity of pyrexia are increased with TAFINLAR and trametinib. (  5.6  ,  2.7  ) 
+ *   Serious  Skin toxicity : Monitor for skin toxicities. Discontinue for intolerable Grade 2 or for Grade 3 or 4 rash not improving within 3 weeks despite interruption of TAFINLAR. (  5.7  ,  2.7  ) 
+ *   Hyperglycemia : Monitor serum glucose levels in patients with pre-existing diabetes or hyperglycemia. (  5.8  ) 
+ *   Glucose-6-  phosphate dehydrogenase deficiency : Closely monitor for hemolytic anemia. (  5.9  ) 
+ *   Risks Associated with Combination Treatment : Review the Full Prescribing Information for trametinib for information on the serious risks of trametinib prior to initiation of TAFINLAR in combination with trametinib. (  5.10  ) 
+ *   Embryo-Fetal toxicity : Can cause fetal harm. Advise females of reproductive potential of potential risk to a fetus and to use an effective non-hormonal method of contraception. (  5.11  ,  8.1  ,  8.3  ) 
+    
+ 
+
+   5.1       New Primary Malignancies
+
+
+
+   Cutaneous Malignancies  
+
+
+
+  In the BREAK-3 study in patients with unresectable or metastatic melanoma, cutaneous squamous cell carcinomas and keratoacanthomas (cuSCC) occurred in 7% of patients receiving TAFINLAR.  
+
+
+
+  Across clinical trials of TAFINLAR monotherapy, the incidence of cuSCC was 11%. Of those patients who developed new cuSCC, approximately 33% developed one or more cuSCC with continued administration of TAFINLAR.  
+
+
+
+  In the COMBI-d study in patients with unresectable or metastatic melanoma, the incidence of basal cell carcinoma in patients receiving TAFINLAR in combination with trametinib was 3.3% compared with 6% of patients receiving single-agent TAFINLAR. Among the 7 patients receiving TAFINLAR with trametinib who developed basal cell carcinoma, 2 experienced more than one occurrence (range: 1 to 3). cuSCC and new primary melanoma occurred in 3% and 0.5% of patients receiving TAFINLAR with trametinib, respectively.  
+
+
+
+  In the COMBI-AD study in the adjuvant treatment of melanoma, cuSCC and new primary melanoma occurred in 1% and &lt; 1% of patients receiving TAFINLAR plus trametinib, respectively.  
+
+
+
+  In Study BRF113928 in patients with NSCLC, cuSCC occurred in 3.2% of patients receiving TAFINLAR plus trametinib.  
+
+
+
+  Perform dermatologic evaluations prior to initiation of TAFINLAR, every 2 months while on therapy, and for up to 6 months following discontinuation of TAFINLAR.  
+
+
+
+  Non-cutaneous Malignancies  
+
+
+
+  Based on its mechanism of action, TAFINLAR may promote the growth and development of malignancies with activation of RAS through mutation or other mechanisms [see Warnings and Precautions (5.2)]  . In the COMBI-d, COMBI-AD, and BRF113928 studies, non-cutaneous malignancies occurred in 1.4%, 1%, and 1.1% of patients receiving TAFINLAR with trametinib, respectively.  
+
+
+
+  Monitor patients receiving TAFINLAR for signs or symptoms of non-cutaneous malignancies. Permanently discontinue TAFINLAR for RAS mutation-positive non-cutaneous malignancies [see Dosage and Administration (2.7)].    
+
+
+
+    5.2       Tumor Promotion in BRAF Wild-Type Tumors
+
+
+
+  In vitro experiments have demonstrated paradoxical activation of MAP-kinase signaling and increased cell proliferation in BRAF wild-type cells which are exposed to BRAF inhibitors. Confirm evidence of BRAF V600E or V600K mutation status prior to initiation of TAFINLAR as a single agent or in combination with trametinib  [see   Indications and Usage (1.6)   ,   Dosage and Administration (2.1)]   .  
+
+
+
+    5.3       Hemorrhage
+
+
+
+   Hemorrhage, including major hemorrhage defined as symptomatic bleeding in a critical area or organ, can occur when TAFINLAR is administered with trametinib.  
+
+
+
+  In the COMBI-d study, the incidence of hemorrhagic events in patients receiving TAFINLAR with trametinib was 19% compared with 15% of patients receiving single agent TAFINLAR. Gastrointestinal hemorrhage occurred in 6% of patients receiving TAFINLAR with trametinib compared with 3% of patients receiving single agent TAFINLAR. Intracranial hemorrhage was fatal in 1.4% of patients receiving TAFINLAR with trametinib. No fatal hemorrhagic events were observed in the COMBI-AD study. In Study BRF113928, fatal hemorrhagic events occurred in 2.2% of patients receiving TAFINLAR with trametinib; these events were retroperitoneal hemorrhage and subarachnoid hemorrhage.  
+
+
+
+  Permanently discontinue TAFINLAR for all Grade 4 hemorrhagic events and for any Grade 3 hemorrhagic events that do not improve. Withhold TAFINLAR for Grade 3 hemorrhagic events; if improved, resume at the next lower dose level.  
+
+
+
+    5.4       Cardiomyopathy
+
+
+
+   In the COMBI-d study, cardiomyopathy, defined as a decrease in LVEF &gt;= 10% from baseline and below the institutional lower limit of normal, occurred in 6% of patients receiving TAFINLAR with trametinib and 2.9% of patients receiving single agent TAFINLAR. Development of cardiomyopathy in patients receiving TAFINLAR and trametinib resulted in dose interruption or discontinuation of TAFINLAR in 4.4% and 1.0% of patients, respectively. In patients receiving single-agent TAFINLAR, development of cardiomyopathy resulted in dose interruption, reduction, or discontinuation in 2.4%, 0.5%, and 1.0% of patients, respectively. Cardiomyopathy resolved in 10 of 12 patients receiving TAFINLAR with trametinib and in 3 of 6 patients receiving single agent TAFINLAR.  
+
+
+
+  In the COMBI-AD study, cardiomyopathy, defined as a decrease in LVEF below the institutional lower limit of normal with an absolute decrease in LVEF &gt; 10% below screening, occurred in 3% of patients receiving TAFINLAR with trametinib and resulted in discontinuation, dose reduction, and dose interruption of drug in 0.2%, 1.6%, and 2.1% of patients, respectively. Cardiomyopathy resolved in 12 of 14 patients receiving TAFINLAR with trametinib.  
+
+
+
+  In Study BRF113928, cardiomyopathy, defined as a decrease in LVEF below the institutional lower limit of normal with an absolute decrease in LVEF &gt; 10% below baseline, occurred in 9% of patients receiving TAFINLAR with trametinib and resulted in dose interruption and permanent discontinuation of TAFINLAR in 3.2% and 2.2% of patients, respectively. Cardiomyopathy resolved in 4 of 8 patients receiving TAFINLAR and trametinib.  
+
+
+
+  Assess LVEF by echocardiogram or multigated acquisition (MUGA) scan before initiation of TAFINLAR with trametinib, one month after initiation of TAFINLAR, and then at 2- to 3-month intervals while on treatment. Withhold TAFINLAR for symptomatic cardiomyopathy or asymptomatic LV dysfunction of &gt; 20% from baseline that is below institutional lower limit of normal (LLN). Resume TAFINLAR at the same dose level upon recovery of cardiac function to at least the institutional LLN for LVEF    and absolute decrease &lt;= 10% compared to baseline [see Dos   age and Administration   (   2.   7   )]  .  
+
+
+
+    5.5       Uveitis
+
+
+
+   Uveitis occurred in 1% of patients receiving TAFINLAR across multiple clinical trials and in 2% of patients receiving TAFINLAR with trametinib across randomized unresectable or metastatic melanoma trials. Treatment employed in clinical trials included steroid and mydriatic ophthalmic drops.  
+
+
+
+  Monitor patients for visual signs and symptoms of uveitis (e.g., change in vision, photophobia, eye pain). If iritis is diagnosed, administer ocular therapy and continue TAFINLAR without dose modification; for severe uveitis or iridocyclitis, interrupt TAFINLAR and treat as clinically indicated. Permanently discontinue TAFINLAR for persistent Grade 2 or greater uveitis of &gt; 6 weeks duration  [see Dosage and Administration (2.7)]  .  
+
+
+
+    5.6       Serious Febrile Reactions
+
+
+
+   Serious febrile reactions and fever of any severity complicated by hypotension, rigors or chills, dehydration, or renal failure, can occur with TAFINLAR.  
+
+
+
+  The incidence and severity of pyrexia are increased when TAFINLAR is administered with trametinib compared with TAFINLAR as a single agent  [see Adverse Reactions (6.1)]  .  
+
+
+
+  In the BREAK-3 study, the incidence of fever (serious and non-serious) was 28% in patients receiving TAFINLAR and 10% in patients receiving dacarbazine. Serious febrile reactions and fever of any severity complicated by hypotension, rigors or chills occurred in 3.7% of patients receiving TAFINLAR.  
+
+
+
+  In the COMBI-d and COMBI-v studies, fever occurred in 54% of patients receiving TAFINLAR with trametinib. Approximately one-half of the patients who received TAFINLAR with trametinib and experienced pyrexia had 3 or more discrete episodes.  
+
+
+
+  Serious febrile reactions or fever of any severity complicated by severe rigors/chills, hypotension, dehydration, renal failure, or syncope, occurred in 17% of patients with unresectable or metastatic melanoma receiving TAFINLAR with trametinib. Fever was complicated by severe chills/rigors in 0.4%, dehydration in 1.8%, renal failure in 0.5%, and syncope in 0.7% of patients.  
+
+
+
+  Withhold TAFINLAR for fever of 101.3oF or higher. Withhold TAFINLAR for any serious febrile reaction or fever complicated by hypotension, rigors or chills, dehydration, or renal failure and evaluate for signs and symptoms of infection. Monitor serum creatinine and other evidence of renal function during and following severe pyrexia. Refer to Table 2 for recommended dose modifications for adverse reactions [see Dosage and Administration (2.7)]  . Administer antipyretics as secondary prophylaxis when resuming TAFINLAR if patient had a prior episode of severe febrile reaction or fever associated with complications. Administer corticosteroids (e.g., prednisone 10 mg daily) for at least 5 days for second or subsequent pyrexia if temperature does not return to baseline within 3 days of onset of pyrexia, or for pyrexia associated with complications such as dehydration, hypotension, renal failure or severe chills/rigors, and there is no evidence of active infection.  
+
+
+
+    5.7       Serious Skin Toxicity
+
+
+
+   Across clinical trials of TAFINLAR administered with trametinib in patients with unresectable or metastatic melanoma, serious skin toxicity occurred in 0.7% of patients.  
+
+
+
+  Withhold TAFINLAR for intolerable or severe skin toxicity. TAFINLAR may be resumed at the next lower dose level in patients with improvement or recovery from skin toxicity within 3 weeks [see Dosage and Administration (2.7)]  .  
+
+
+
+    5.8       Hyperglycemia
+
+
+
+   In the BREAK-3 study, 5 of 12 patients with a history of diabetes required more intensive hypoglycemic therapy receiving TAFINLAR. The incidence of Grade 3 hyperglycemia based on laboratory values was 6% in patients receiving TAFINLAR.  
+
+
+
+  In the COMBI-d study, 27% of patients with a history of diabetes receiving TAFINLAR with trametinib and 13% of patients with a history of diabetes receiving single agent TAFINLAR required more intensive hypoglycemic therapy. Grade 3 and Grade 4 hyperglycemia based on laboratory values occurred in 5% and 0.5% of patients, respectively, receiving TAFINLAR with trametinib. For patients receiving single agent TAFINLAR, 4.3% of patients had Grade 3 hyperglycemia based on laboratory values and no patients had Grade 4 hyperglycemia.  
+
+
+
+  Monitor serum glucose levels upon initiation and as clinically appropriate when TAFINLAR is administered in patients with pre-existing diabetes or hyperglycemia.  
+
+
+
+    5.9       Glucose-6-Phosphate Dehydrogenase Deficiency
+
+
+
+  TAFINLAR, which contains a sulfonamide moiety, confers a potential risk of hemolytic anemia in patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency. Monitor patients with G6PD deficiency for signs of hemolytic anemia while taking TAFINLAR.
+
+
+
+    5.10       Risks Associated with Combination Treatment
+
+
+
+   TAFINLAR is indicated for use in combination with trametinib. Review the Full Prescribing Information for trametinib for information on the serious risks of trametinib prior to initiation of TAFINLAR in combination with trametinib.  
+
+
+
+    5.11       Embryo-Fetal Toxicity
+
+
+
+   Based on findings from animal studies and its mechanism of action, TAFINLAR can cause fetal harm when administered to a pregnant woman. Dabrafenib was teratogenic and embryotoxic in rats at doses three times greater than the human exposure at the recommended clinical dose. If TAFINLAR is used during pregnancy or if the patient becomes pregnant while taking TAFINLAR, advise the patient of the potential risk to a fetus [see Use in Specific Populations (8.1)]  .  
+
+
+
+  Advise female patients of reproductive potential to use an effective non-hormonal method of contraception, since TAFINLAR can render hormonal contraceptives ineffective, during treatment and for 2 weeks after the last dose of TAFINLAR. Advise patients to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, while taking TAFINLAR [see Use in Specific Populations (8.1)]  .  
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="32" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="37" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="1841" name="excerpt" section="S2" start="49" />
+    <IgnoredRegion len="878" name="excerpt" section="S1" start="895" />
+    <IgnoredRegion len="37" name="heading" section="S1" start="1777" />
+    <IgnoredRegion len="34" name="heading" section="S2" start="1897" />
+    <IgnoredRegion len="50" name="heading" section="S2" start="4005" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="4470" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="5572" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="7861" />
+    <IgnoredRegion len="35" name="heading" section="S2" start="8629" />
+    <IgnoredRegion len="31" name="heading" section="S2" start="10932" />
+    <IgnoredRegion len="23" name="heading" section="S2" start="11384" />
+    <IgnoredRegion len="54" name="heading" section="S2" start="12367" />
+    <IgnoredRegion len="54" name="heading" section="S2" start="12687" />
+    <IgnoredRegion len="32" name="heading" section="S2" start="12989" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

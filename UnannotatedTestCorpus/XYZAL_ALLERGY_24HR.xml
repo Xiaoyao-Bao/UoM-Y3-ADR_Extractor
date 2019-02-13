@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="XYZAL_ALLERGY_24HR">
+  <Text>
+    <Section id="S1" name="warnings">     Warnings  
+
+
+
+    Do not use  
+
+
+
+    *  if you have kidney disease  
+ *  if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing cetirizine 
+        Ask a doctor before use if you have  
+ 
+
+    *  ever had trouble urinating or emptying your bladder 
+        When using this product  
+ 
+
+    *  drowsiness may occur 
+ *  avoid alcoholic drinks 
+ *  alcohol, sedatives, and tranquilizers may increase drowsiness 
+ *  be careful when driving a motor vehicle or operating machinery 
+        Stop use and ask a doctor if  
+ 
+
+    *  you have trouble urinating or emptying your bladder 
+ *  an allergic reaction to this product occurs. Seek medical help right away. 
+        If pregnant or breast-feeding:  
+ 
+
+    *  if breast-feeding: not recommended 
+ *  if pregnant: ask a health professional before use 
+        Keep out of reach of children.  
+ 
+
+  In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="11" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="13" name="heading" section="S1" start="22" />
+    <IgnoredRegion len="38" name="heading" section="S1" start="216" />
+    <IgnoredRegion len="26" name="heading" section="S1" start="325" />
+    <IgnoredRegion len="31" name="heading" section="S1" start="554" />
+    <IgnoredRegion len="33" name="heading" section="S1" start="736" />
+    <IgnoredRegion len="33" name="heading" section="S1" start="878" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

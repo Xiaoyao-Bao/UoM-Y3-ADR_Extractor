@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="METOPIRONE">
+  <Text>
+    <Section id="S1" name="adverse reactions">      ADVERSE REACTIONS  
+
+    Cardiovascular System:  Hypotension
+
+
+
+   Gastrointestinal System:  Nausea, vomiting, abdominal discomfort or pain.
+
+
+
+   Central Nervous System:  Headache, dizziness, sedation.
+
+
+
+   Dermatologic System:  Allergic rash.
+
+
+
+   Hematologic System:  Rarely, decreased white blood cell count or bone marrow depression.
+</Section>
+    <Section id="S2" name="precautions">     PRECAUTIONS  
+
+
+
+    General  
+
+
+
+  Ability of adrenals to respond to exogenous ACTH should be demonstrated before Metopirone is employed as a test. In the presence of hypo- or hyperthyroidism, response to the Metopirone test may be subnormal.
+
+
+
+ Since Metopirone may cause dizziness and sedation, patients should exercise caution when driving or operating machinery.
+
+
+
+     Laboratory Tests  
+
+
+
+  See INTERPRETATION.
+
+
+
+     Drug Interactions  
+
+
+
+  Drugs affecting pituitary or adrenocortical function, including all corticosteroid therapy, must be discontinued prior to and during testing with Metopirone.
+
+
+
+ The metabolism of Metopirone is accelerated by phenytoin; therefore, results of the test may be inaccurate in patients taking phenytoin within two weeks before. A subnormal response may occur in patients on estrogen therapy.
+
+
+
+ Metopirone inhibits the glucuronidation of acetaminophen and could possibly potentiate acetaminophen toxicity.
+
+
+
+     Carcinogenesis, Mutagenesis, Impairment of Fertility  
+
+
+
+  Long-term carcinogenicity and reproduction studies in animals have not been conducted.
+
+
+
+ Metopirone was not mutagenic with or without metabolic activation in three strains of bacteria.
+
+
+
+     Pregnancy Category C  
+
+
+
+  A subnormal response to Metopirone may occur in pregnant women. Animal reproduction studies have not been conducted with Metopirone. The Metopirone test was administered to 20 pregnant women in their second and third trimester of pregnancy and evidence was found that the fetal pituitary responded to the enzymatic block. It is not known if Metopirone can affect reproduction capacity. Metopirone should be given to a pregnant woman only if clearly needed.
+
+
+
+ Animal reproduction studies adequate to evaluate teratogenicity and postnatal development have not been conducted with Metopirone.
+
+
+
+     Nursing Mothers  
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Metopirone is administered to a nursing woman.
+
+
+
+     Pediatric Use  
+
+
+
+  See DOSAGE AND ADMINISTRATION.
+
+
+
+     Geriatric Use  
+
+
+
+  Clinical studies of Metopirone did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+</Section>
+    <Section id="S3" name="warnings">     WARNINGS  
+
+
+
+  Metopirone may induce acute adrenal insufficiency in patients with reduced adrenal secretory capacity.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="21" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="10" name="heading" section="S2" start="25" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="381" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="433" />
+    <IgnoredRegion len="55" name="heading" section="S2" start="968" />
+    <IgnoredRegion len="23" name="heading" section="S2" start="1223" />
+    <IgnoredRegion len="18" name="heading" section="S2" start="1851" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="2070" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="2130" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

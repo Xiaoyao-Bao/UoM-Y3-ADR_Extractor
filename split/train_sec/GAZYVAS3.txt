@@ -1,0 +1,117 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Infusion reactions: Premedicate patients with glucocorticoid, acetaminophen, and anti-histamine. Monitor patients closely during infusions. Interrupt or discontinue infusion for reactions. (  2.2  ,  5.3  ) 
+ *  Tumor Lysis Syndrome: Anticipate tumor lysis syndrome; premedicate with anti-hyperuricemics and adequate hydration especially for patients with high tumor burden and/or high circulating lymphocyte count. Correct electrolyte abnormalities, provide supportive care, and monitor renal function and fluid balance. (  5.4  ) 
+ *  Neutropenia: Monitor for infection. (  5.6  ) 
+ *  Thrombocytopenia: Monitor platelet counts and for bleeding. Management of hemorrhage may require blood product support. (  5.7  ) 
+ *  Immunization: Do not administer live virus vaccines prior to or during GAZYVA treatment. (  5.8  ) 
+    
+ 
+
+   5.1 Hepatitis B Virus Reactivation
+
+
+
+   Hepatitis≠B-OSE_Labeled_AE   B≠I-OSE_Labeled_AE   virus≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  HBV≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   reactivation≠I-OSE_Labeled_AE , in some cases resulting in  fulminant≠B-NonOSE_AE   hepatitis≠I-NonOSE_AE ,  hepatic≠B-NonOSE_AE   failure≠I-NonOSE_AE , and  death≠B-NonOSE_AE , can occur in patients treated with anti-CD20 antibodies such as GAZYVA.  HBV≠B-OSE_Labeled_AE   reactivation≠I-OSE_Labeled_AE  has been reported in patients who are  hepatitis≠B-Not_AE_Candidate   B≠I-Not_AE_Candidate   surface≠I-Not_AE_Candidate   antigen≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  HBsAg≠I-Not_AE_Candidate  )≠I-Not_AE_Candidate   positive≠I-Not_AE_Candidate  and also in patients who are HBsAg negative but are  hepatitis≠B-Not_AE_Candidate   B≠I-Not_AE_Candidate   core≠I-Not_AE_Candidate   antibody≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  anti≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  HBc≠I-Not_AE_Candidate  )≠I-Not_AE_Candidate   positive≠I-Not_AE_Candidate . Reactivation has also occurred in patients who appear to have resolved  hepatitis≠B-Not_AE_Candidate   B≠I-Not_AE_Candidate   infection≠I-Not_AE_Candidate  (i.e.,  HBsAg≠B-Not_AE_Candidate   negative≠I-Not_AE_Candidate ,  anti≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  HBc≠I-Not_AE_Candidate   positive≠I-Not_AE_Candidate , and  hepatitis≠B-Not_AE_Candidate   B≠I-Not_AE_Candidate   surface≠I-Not_AE_Candidate   antibody≠I-Not_AE_Candidate   [≠I-Not_AE_Candidate  anti≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  HBs≠I-Not_AE_Candidate  ]≠I-Not_AE_Candidate   positive≠I-Not_AE_Candidate ).
+
+
+
+  HBV≠B-NonOSE_AE   reactivation≠I-NonOSE_AE  is defined as an abrupt increase in HBV replication manifesting as a rapid increase in serum HBV DNA level or detection of HBsAg in a person who was previously  HBsAg≠B-Not_AE_Candidate   negative≠I-Not_AE_Candidate  and  anti≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  HBc≠I-Not_AE_Candidate   positive≠I-Not_AE_Candidate .  Reactivation≠B-NonOSE_AE   of≠I-NonOSE_AE   HBV≠I-NonOSE_AE   replication≠I-NonOSE_AE  is often followed by  hepatitis≠B-NonOSE_AE , i.e.,  increase≠B-NonOSE_AE   in≠I-NonOSE_AE   transaminase≠I-NonOSE_AE   levels≠I-NonOSE_AE  and, in severe cases,  increase≠B-NonOSE_AE   in≠I-NonOSE_AE   bilirubin≠I-NonOSE_AE  levels,  liver≠B-NonOSE_AE   failure≠I-NonOSE_AE , and  death≠B-NonOSE_AE .
+
+
+
+ Screen all patients for  HBV≠B-Not_AE_Candidate   infection≠I-Not_AE_Candidate  by measuring HBsAg and anti-HBc before initiating treatment with GAZYVA. For patients who show evidence of  hepatitis≠B-Not_AE_Candidate   B≠I-Not_AE_Candidate   infection≠I-Not_AE_Candidate  ( HBsAg≠B-Not_AE_Candidate   positive≠I-Not_AE_Candidate  [regardless of antibody status] or  HBsAg≠B-Not_AE_Candidate   negative≠I-Not_AE_Candidate  but  anti≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  HBc≠I-Not_AE_Candidate   positive≠I-Not_AE_Candidate ), consult physicians with expertise in managing  hepatitis≠B-NonOSE_AE   B≠I-NonOSE_AE  regarding monitoring and consideration for HBV antiviral therapy.
+
+
+
+ Monitor patients with evidence of current or prior  HBV≠B-Not_AE_Candidate   infection≠I-Not_AE_Candidate  for clinical and laboratory signs of  hepatitis≠B-NonOSE_AE  or  HBV≠B-NonOSE_AE   reactivation≠I-NonOSE_AE  during and for several months following treatment with GAZYVA.  HBV≠B-OSE_Labeled_AE   reactivation≠I-OSE_Labeled_AE  has been reported for other CD20-directed cytolytic antibodies following completion of therapy.
+
+
+
+ In patients who develop  reactivation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   HBV≠I-OSE_Labeled_AE  while receiving GAZYVA, immediately discontinue GAZYVA and any concomitant chemotherapy and institute appropriate treatment. Resumption of GAZYVA in patients whose  HBV≠B-NonOSE_AE   reactivation≠I-NonOSE_AE  resolves should be discussed with physicians with expertise in managing  hepatitis≠B-NonOSE_AE   B≠I-NonOSE_AE . Insufficient data exist regarding the safety of resuming GAZYVA in patients who develop  HBV≠B-NonOSE_AE   reactivation≠I-NonOSE_AE .
+
+
+
+    5.2 Progressive Multifocal Leukoencephalopathy
+
+
+
+   JC≠B-OSE_Labeled_AE   virus≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  resulting in  progressive≠B-OSE_Labeled_AE   multifocal≠I-OSE_Labeled_AE   leukoencephalopathy≠I-OSE_Labeled_AE  (PML), which can be fatal, was observed in patients treated with GAZYVA. Consider the diagnosis of  PML≠B-NonOSE_AE  in any patient presenting with new onset or  changes≠B-NonOSE_AE   to≠I-NonOSE_AE   preexisting≠I-NonOSE_AE   neurologic≠I-NonOSE_AE   manifestations≠I-NonOSE_AE . Evaluation of  PML≠B-NonOSE_AE  includes, but is not limited to, consultation with a neurologist, brain MRI, and lumbar puncture. Discontinue GAZYVA therapy and consider discontinuation or reduction of any concomitant chemotherapy or immunosuppressive therapy in patients who develop  PML≠B-NonOSE_AE .
+
+
+
+    5.3 Infusion Reactions
+
+
+
+  GAZYVA can cause severe and life-threatening  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE . Two thirds of patients experienced a reaction to the first 1000 mg infused of GAZYVA.  Infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  can also occur with subsequent infusions. Symptoms may include  hypotension≠B-NonOSE_AE ,  tachycardia≠B-NonOSE_AE ,  dyspnea≠B-NonOSE_AE , and  respiratory≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  (e.g.,  bronchospasm≠B-NonOSE_AE ,  larynx≠B-NonOSE_AE  and throat  irritation≠I-NonOSE_AE ,  wheezing≠B-NonOSE_AE ,  laryngeal≠B-NonOSE_AE   edema≠I-NonOSE_AE ). Other common symptoms include  nausea≠B-NonOSE_AE ,  vomiting≠B-NonOSE_AE ,  diarrhea≠B-NonOSE_AE ,  hypertension≠B-NonOSE_AE ,  flushing≠B-NonOSE_AE ,  headache≠B-NonOSE_AE ,  pyrexia≠B-NonOSE_AE , and  chills≠B-NonOSE_AE  [see  Adverse Reactions (6.1)  ]  .
+
+
+
+ Premedicate patients with acetaminophen, antihistamine, and a glucocorticoid .  Institute medical management (e.g., glucocorticoids, epinephrine, bronchodilators, and/or oxygen) for  infusion≠B-NonOSE_AE   reactions≠I-NonOSE_AE  as needed. Closely monitor patients during the entire infusion.  Infusion≠B-NonOSE_AE   reactions≠I-NonOSE_AE  within 24 hours of receiving GAZYVA have occurred [see  Dosage and Administration (2)  ]  .
+
+
+
+ For patients with any Grade 4  infusion≠B-NonOSE_AE   reactions≠I-NonOSE_AE , including but not limited to  anaphylaxis≠B-NonOSE_AE , acute  life≠B-NonOSE_AE  -≠I-NonOSE_AE  threatening≠I-NonOSE_AE   respiratory≠I-NonOSE_AE   symptoms≠I-NonOSE_AE , or other life-threatening  infusion≠B-NonOSE_AE   reaction≠I-NonOSE_AE : Stop the GAZYVA infusion. Permanently discontinue GAZYVA therapy.
+
+
+
+ For patients with Grade 1, 2, or 3  infusion≠B-NonOSE_AE   reactions≠I-NonOSE_AE : Interrupt GAZYVA for Grade 3 reactions until resolution of symptoms. Interrupt or reduce the rate of the infusion for Grade 1 or 2 reactions and manage symptoms [see  Dosage and Administration (2)  ]  .
+
+
+
+  For patients with preexisting  cardiac≠B-Not_AE_Candidate  or  pulmonary≠B-Not_AE_Candidate   conditions≠I-Not_AE_Candidate , monitor more frequently throughout the infusion and the post-infusion period since they may be at greater risk of experiencing more severe reactions.  Hypotension≠B-NonOSE_AE  may occur as part of the GAZYVA  infusion≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE . Consider withholding antihypertensive treatments for 12 hours prior to, during each GAZYVA infusion, and for the first hour after administration until blood pressure is stable. For patients at increased risk of  hypertensive≠B-Not_AE_Candidate   crisis≠I-Not_AE_Candidate , consider the benefits versus the risks of withholding their antihypertensive medication as is suggested here.  
+
+
+
+    5.4 Tumor Lysis Syndrome
+
+
+
+   Acute≠B-NonOSE_AE   renal≠I-NonOSE_AE   failure≠I-NonOSE_AE ,  hyperkalemia≠B-NonOSE_AE ,  hypocalcemia≠B-NonOSE_AE ,  hyperuricemia≠B-NonOSE_AE , and/or  hyperphosphatemia≠B-NonOSE_AE  from  Tumor≠B-OSE_Labeled_AE   Lysis≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  (TLS) can occur within 12-24 hours after the first infusion. Patients with  high≠B-Not_AE_Candidate   tumor≠I-Not_AE_Candidate   burden≠I-Not_AE_Candidate  and/or  high≠B-Not_AE_Candidate  circulating  lymphocyte≠I-Not_AE_Candidate   count≠I-Not_AE_Candidate  (> 25 * 10  9  /L) are at greater risk for  TLS≠B-NonOSE_AE  and should receive appropriate tumor lysis prophylaxis with anti-hyperuricemics (e.g., allopurinol) and hydration beginning 12-24 hours prior to the infusion of GAZYVA [see  Dosage and Administration (2.2)  ].  For treatment of  TLS≠B-NonOSE_AE , correct  electrolyte≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE , monitor renal function and fluid balance, and administer supportive care, including dialysis as indicated.
+
+
+
+    5.5 Infections
+
+
+
+   Serious  bacterial≠B-OSE_Labeled_AE , fungal, and new or reactivated viral  infections≠I-OSE_Labeled_AE  can occur during and following GAZYVA therapy. Fatal  infections≠B-OSE_Labeled_AE  have been reported with GAZYVA. Do not administer GAZYVA to patients with an  active≠B-Not_AE_Candidate   infection≠I-Not_AE_Candidate . Patients with a history of recurring or  chronic≠B-Not_AE_Candidate   infections≠I-Not_AE_Candidate  may be at increased risk of  infection≠B-NonOSE_AE .  
+
+
+
+    5.6 Neutropenia
+
+
+
+   GAZYVA in combination with chlorambucil caused Grade 3 or 4  neutropenia≠B-OSE_Labeled_AE  in 33% of patients in the trial. Patients with Grade 3 to 4  neutropenia≠B-NonOSE_AE  should be monitored frequently with regular laboratory tests until resolution. Anticipate, evaluate, and treat any symptoms or signs of developing  infection≠B-NonOSE_AE .  
+
+
+
+  Neutropenia≠B-OSE_Labeled_AE  can also be of late onset (occurring more than 28 days after completion of treatment) and/or prolonged (lasting longer than 28 days).
+
+
+
+ Patients with  neutropenia≠B-NonOSE_AE  are strongly recommended to receive antimicrobial prophylaxis throughout the treatment period. Antiviral and antifungal prophylaxis should be considered.
+
+
+
+    5.7 Thrombocytopenia
+
+
+
+   GAZYVA in combination with chlorambucil caused Grade 3 or 4  thrombocytopenia≠B-OSE_Labeled_AE  in 10% of patients in the trial. In 4% of patients, GAZYVA caused acute  thrombocytopenia≠B-OSE_Labeled_AE  occurring within 24 hours after the GAZYVA infusion. Fatal  hemorrhagic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  during Cycle 1 have also been reported in patients treated with GAZYVA.  
+
+
+
+ Monitor all patients frequently for  thrombocytopenia≠B-NonOSE_AE  and  hemorrhagic≠B-NonOSE_AE   events≠I-NonOSE_AE , especially during the first cycle. In patients with Grade 3 or 4  thrombocytopenia≠B-NonOSE_AE , monitor platelet counts more frequently until resolution and consider subsequent dose delays of GAZYVA and chlorambucil or dose reductions of chlorambucil. Transfusion of blood products (i.e., platelet transfusion) may be necessary. Consider withholding concomitant medications which may  increase≠B-NonOSE_AE   bleeding≠I-NonOSE_AE   risk≠I-NonOSE_AE  (platelet inhibitors, anticoagulants), especially during the first cycle.
+
+
+
+    5.8 Immunization
+
+
+
+  The safety and efficacy of immunization with live or attenuated viral vaccines during or following GAZYVA therapy has not been studied. Immunization with live virus vaccines is not recommended during treatment and until B-cell recovery.

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PLAQUENIL">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+    Psychiatric disorders:  Nervousness, emotional lability, psychosis, suicidal behavior.
+
+
+
+   Nervous system disorders:  Dizziness, headache, convulsions have been reported with this class of drugs.
+
+
+
+   Eye disorders:  Retinopathy with changes in pigmentation and visual field defects have been reported. In its early form, it appears reversible on discontinuation of hydroxychloroquine. If allowed to develop, there may be a risk of progression even after treatment withdrawal. Cases of maculopathies and macular degeneration have been reported and may be irreversible.
+
+
+
+   Skin and subcutaneous tissue disorders:  Bullous eruptions including very rare cases of Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, photosensitivity and exfoliative dermatitis have been reported.
+</Section>
+    <Section id="S2" name="boxed warnings">
+
+    BOXED WARNING: WARNING
+
+  WARNING
+
+  PHYSICIANS SHOULD COMPLETELY FAMILIARIZE THEMSELVES WITH THE COMPLETE CONTENTS OF THIS LEAFLET BEFORE PRESCRIBING HYDROXYCHLOROQUINE.
+</Section>
+    <Section id="S3" name="precautions">    PRECAUTIONS, General
+
+
+
+  Antimalarial compounds should be used with caution in patients with hepatic disease or alcoholism or in conjunction with known hepatotoxic drugs.
+
+
+
+ Periodic blood cell counts should be made if patients are given prolonged therapy. If any severe blood disorder appears which is not attributable to the disease under treatment, discontinuation of the drug should be considered. The drug should be administered with caution in patients having G-6-PD (glucose-6-phosphate dehydrogenase) deficiency.
+</Section>
+    <Section id="S4" name="warnings">    WARNINGS, General
+
+
+
+  PLAQUENIL is not effective against chloroquine-resistant strains of P. falciparum  .
+
+
+
+  Before starting a long-term treatment, both eyes should be carefully examined for visual acuity, central visual field and color vision. Examination should also include fundoscopy. These examinations should be repeated at least annually. Retinal toxicity is largely dose-related  .
+
+
+
+ The risk of retinal damage is small with daily doses of up to 6.5 mg/kg body weight. Exceeding the recommended daily dose sharply increases the risk of retinal toxicity. This examination should be more frequent and adapted to the patient in the following situations:
+
+
+
+ *  -  daily dosage exceeding 6.5 mg/kg ideal body weight. Absolute body weight used as a guide to dosage, could result in an overdosage in the obese; 
+ *  -  renal insufficiency; 
+ *  -  cumulative dose more than 200 g; 
+ *  -  elderly; 
+ *  -  impaired visual acuity. 
+    If any visual disturbance occurs (visual acuity, color vision), the drug should be immediately discontinued and the patient closely observed for possible progression of the abnormality. Retinal changes (and visual disturbances) may progress even after cessation of the therapy. (See  ADVERSE REACTIONS  section)
+ 
+
+ Suicidal behavior has been reported in very rare cases in patients treated with hydroxychloroquine.
+
+
+
+ Children are especially sensitive to the 4-aminoquinoline compounds. A number of fatalities have been reported following the accidental ingestion of chloroquine, sometimes in relatively small doses (0.75 g or 1 g in one 3-year-old child). Patients should be strongly warned to keep these drugs out of the reach of children.
+
+
+
+ Use of PLAQUENIL in patients with psoriasis may precipitate a severe attack of psoriasis. When used in patients with porphyria the condition may be exacerbated. The preparation should not be used in these conditions unless in the judgment of the physician the benefit to the patient outweighs the possible hazard.
+
+
+
+    Usage in Pregnancy
+
+
+
+  Usage of this drug during pregnancy should be avoided except in the suppression or treatment of malaria when in the judgment of the physician the benefit outweighs the possible hazard. It should be noted that radioactively-tagged chloroquine administered intravenously to pregnant, pigmented CBA mice passed rapidly across the placenta. It accumulated selectively in the melanin structures of the fetal eyes and was retained in the ocular tissues for five months after the drug had been eliminated from the rest of the body.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="20" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="17" name="heading" section="S4" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="32" />
+    <IgnoredRegion len="18" name="heading" section="S4" start="2016" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

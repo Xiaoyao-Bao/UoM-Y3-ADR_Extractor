@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PEPCID_AC">
+  <Text>
+    <Section id="S1" name="warnings">    Warnings
+
+
+
+   Allergy alert
+
+
+
+  Do not use if you are allergic to famotidine or other acid reducers
+
+
+
+    Do not use
+
+
+
+    *  if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. 
+ *  if you have kidney disease, except under the advice and supervision of a doctor 
+ *  with other acid reducers 
+       Ask a doctor before use if you have
+ 
+
+    *  had heartburn over 3 months. This may be a sign of a more serious condition. 
+ *  heartburn with lightheadedness, sweating, or dizziness  
+ *  chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness 
+ *  frequent chest pain  
+ *  frequent wheezing, particularly with heartburn 
+ *  unexplained weight loss 
+ *  nausea or vomiting 
+ *  stomach pain 
+       Stop use and ask a doctor if
+ 
+
+    *  your heartburn continues or worsens 
+ *  you need to take this product for more than 14 days 
+       If pregnant or breast-feeding,  ask a health professional before use.
+ 
+
+    Keep out of reach of children.  In case of overdose, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="8" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="13" name="heading" section="S1" start="19" />
+    <IgnoredRegion len="10" name="heading" section="S1" start="113" />
+    <IgnoredRegion len="35" name="heading" section="S1" start="410" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="882" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

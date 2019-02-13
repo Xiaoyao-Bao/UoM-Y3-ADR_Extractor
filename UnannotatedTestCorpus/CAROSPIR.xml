@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CAROSPIR">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+
+
+ *  Hyperkalemia [see  Warnings and Precautions (5.1)  ]  
+ *  Hypotension and Worsening Renal Function [see  Warnings and Precautions (5.2)  ]  
+ *  Electrolyte and Metabolic Abnormalities [see  Warnings and Precautions (5.3)  ]  
+ *  Gynecomastia [see  Warnings and Precautions (5.4)  ]  
+ *  Impaired neurological function/ coma in patients with hepatic impairment, cirrhosis and ascites [see  Use in Specific Populations (8.7)  ]  
+    The following adverse reactions associated with the use of spironolactone were identified in clinical trials or postmarketing reports. Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency, reliably, or to establish a causal relationship to drug exposure.
+ 
+
+ Digestive: Gastric bleeding, ulceration, gastritis, diarrhea and cramping, nausea, vomiting.
+
+
+
+ Reproductive: Gynecomastia [see    Warnings and Precautions (5.4)    ], decreased libido, inability to achieve or maintain erection, irregular menses or amenorrhea, postmenopausal bleeding, breast nad nipple pain.
+
+
+
+ Hematologic: Leukopenia (including agranulocytosis), thrombocytopenia.
+
+
+
+ Hypersensitivity: Fever, urticaria, maculopapular or erythematous cutaneous eruptions, anaphylactic reactions, vasculitis.
+
+
+
+ Metabolism: Hyperkalemia, electrolyte disturbances  [see Warnings and Precautions (  5.1  ,  5.3  )]  , hyponatremia, hypovolemia.
+
+
+
+ Musculoskeletal: Leg cramps.
+
+
+
+ Nervous system /psychiatric: Lethargy, mental confusion, ataxia, dizziness, headache, drowsiness.
+
+
+
+ Liver / biliary: A very few cases of mixed cholestatic/hepatocellular toxicity, with one reported fatality, have been reported with spironolactone administration.
+
+
+
+ Renal: Renal dysfunction (including renal failure).
+
+
+
+ Skin: Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug rash with eosinophilia and systemic symptoms (DRESS), alopecia, pruritis, chloasma.
+
+
+
+   EXCERPT:   The most common adverse reaction (incidence &gt; 5%) with CAROSPIR treatment is gynecomastia (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact CMP Pharma at 1-844-321-1443 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hyperkalemia: Monitor serum potassium within one week of initiation and regularly thereafter (  5.1  ) 
+ *  Hypotension and Worsening Renal Function: Monitor volume status and renal function periodically (  5.2  ) 
+ *  Electrolyte and Metabolic Abnormalities: Monitor serum electrolytes, uric acid and blood glucose periodically (  5.3  ) 
+ *  Gynecomastia: CAROSPIR can cause gynecomastia (  5.4  ) 
+    
+ 
+
+   5.1 Hyperkalemia
+
+
+
+  CAROSPIR can cause hyperkalemia. This risk is increased by impaired renal function or concomitant potassium supplementation, potassium-containing salt substitutes or drugs that increase potassium, such as angiotensin converting enzyme inhibitors and angiotensin receptor blockers [see  Drug Interactions (7.1)  ]  .
+
+
+
+ Closer monitoring may be needed when CAROSPIR is given with other drugs that cause hyperkalemia or in patients with impaired renal function.
+
+
+
+ If hyperkalemia occurs, decrease the dose or discontinue CAROSPIR and treat hyperkalemia.
+
+
+
+    5.2 Hypotension and Worsening Renal Function
+
+
+
+  Excessive diuresis may cause symptomatic dehydration, hypotension and worsening renal function, particularly in salt-depleted patients or those taking angiotensin converting enzyme inhibitors and angiotensin II receptor blockers. Worsening of renal function can also occur with concomitant use of nephrotoxic drugs (e.g., aminoglycosides, cisplatin, and NSAIDs). Monitor volume status and renal function periodically.
+
+
+
+    5.3 Electrolyte and Metabolic Abnormalities
+
+
+
+  In addition to causing hyperkalemia, CAROSPIR can cause hyponatremia, hypomagnesemia, hypocalcemia, hypochloremic alkalosis, and hyperglycemia. Asymptomatic hyperuricemia can occur and rarely gout is precipitated. Monitor serum electrolytes, uric acid and blood glucose periodically.
+
+
+
+    5.4 Gynecomastia
+
+
+
+  CAROSPIR can cause gynecomastia. In RALES, patients with heart failure treated with a mean dose of 26 mg of spironolactone once daily, about 9% of the male subjects developed gynecomastia. The risk of gynecomastia increases in a dose-dependent manner with an onset that varies widely from 1-2 months to over a year. Gynecomastia is usually reversible.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="421" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="464" />
+    <IgnoredRegion len="44" name="heading" section="S2" start="1048" />
+    <IgnoredRegion len="43" name="heading" section="S2" start="1523" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="1863" />
+    <IgnoredRegion len="248" name="excerpt" section="S1" start="2089" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

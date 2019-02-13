@@ -1,0 +1,150 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *   Hepatotoxicity : Inform patients of warning signs and symptoms of hepatotoxicity. Discontinue if abnormal liver tests persist or worsen or if clinical signs and symptoms of liver disease develop (  5.3  ) 
+ *   Hypertension : Patients taking some antihypertensive medications may have impaired response to these therapies when taking NSAIDs. Monitor blood pressure (  5.4  ,  7  ) 
+ *   Heart Failure and Edema : Avoid use of PENNSAID in patients with severe heart failure unless benefits are expected to outweigh risk of worsening heart failure (  5.5  ) 
+ *   Renal Toxicity : Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia. Avoid use of PENNSAID in patients with advanced renal disease unless benefits are expected to outweigh risk of worsening renal function (  5.6  ) 
+ *   Anaphylactic Reactions : Seek emergency help if an anaphylactic reaction occurs (  5.7  ) 
+ *   Exacerbation of Asthma Related to Aspirin Sensitivity : PENNSAID is contraindicated in patients with aspirin-sensitive asthma. Monitor patients with preexisting asthma (without aspirin sensitivity) (  5.8  ) 
+ *   Serious Skin Reactions : Discontinue PENNSAID at first appearance of skin rash or other signs of hypersensitivity. (  5.9  ,  5.14  ) 
+ *   Premature Closure of Fetal Ductus Arteriosus : Avoid use in pregnant women starting at 30 weeks gestation (  5.10  ,  8.1  ) 
+ *   Hematologic Toxicity : Monitor hemoglobin or hematocrit in patients with any signs or symptoms of anemia (  5.11  ,  7  ). 
+ *   Exposure to light: Avoid exposure of treated knee(s) to natural or artificial sunlight. (  5.11  ) 
+ *   Eye Contact : Avoid contact of PENNSAID with eyes and mucosa. (  5.15  ) 
+ *   Oral Nonsteroidal Anti-inflammatory Drugs : Avoid concurrent use with oral NSAIDs. (  5.16  ) 
+    
+ 
+
+   5.1 Cardiovascular Thrombotic Events
+
+   Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious  cardiovascular≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  CV≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   thrombotic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE , including  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  MI≠I-OSE_Labeled_AE ), and  stroke≠B-OSE_Labeled_AE , which can be  fatal≠B-NonOSE_AE . Based on available data, it is unclear that the risk for  CV≠B-NonOSE_AE   thrombotic≠I-NonOSE_AE   events≠I-NonOSE_AE  is similar for all NSAIDs. The relative increase in serious  CV≠B-NonOSE_AE   thrombotic≠I-NonOSE_AE   events≠I-NonOSE_AE  over baseline conferred by NSAID use appears to be similar in those with and without known  CV≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  or risk factors for  CV≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate . However, patients with known  CV≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  or risk factors had a higher absolute incidence of excess serious  CV≠B-NonOSE_AE   thrombotic≠I-NonOSE_AE   events≠I-NonOSE_AE , due to their increased baseline rate. Some observational studies found that this increased risk of serious  CV≠B-OSE_Labeled_AE   thrombotic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  began as early as the first weeks of treatment. The increase in  CV≠B-NonOSE_AE   thrombotic≠I-NonOSE_AE   risk≠I-NonOSE_AE  has been observed most consistently at higher doses.  
+
+ To minimize the potential risk for an adverse  CV≠B-NonOSE_AE   event≠I-NonOSE_AE  in NSAID-treated patients, use the lowest effective dose for the shortest duration possible. Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous  CV≠B-NonOSE_AE   symptoms≠I-NonOSE_AE . Patients should be informed about the symptoms of serious  CV≠B-NonOSE_AE   events≠I-NonOSE_AE  and the steps to take if they occur.
+
+ There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious  CV≠B-NonOSE_AE   thrombotic≠I-NonOSE_AE   events≠I-NonOSE_AE  associated with NSAID use. The concurrent use of aspirin and an NSAID, such as diclofenac, increases the risk of serious  gastrointestinal≠B-NonOSE_AE   (≠I-NonOSE_AE  GI≠I-NonOSE_AE  )≠I-NonOSE_AE   events≠I-NonOSE_AE  [ see  Warnings and Precautions (5.2)    ].
+
+    Status Post Coronary Artery Bypass Graft (CABG) Surgery  
+
+ Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatment of  pain≠B-Not_AE_Candidate  in the first 10-14 days following CABG surgery found an increased incidence of  myocardial≠B-NonOSE_AE   infarction≠I-NonOSE_AE  and  stroke≠B-NonOSE_AE . NSAIDs are contraindicated in the setting of CABG [ see  Contraindications (4)    ].
+
+    Post-MI Patients  
+
+ Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the  post≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  MI≠I-Not_AE_Candidate  period were at increased risk of  reinfarction≠B-OSE_Labeled_AE ,  CV≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   death≠I-OSE_Labeled_AE , and all-cause  mortality≠B-NonOSE_AE  beginning in the first week of treatment. In this same cohort, the incidence of  death≠B-NonOSE_AE  in the first year post-MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients. Although the absolute rate of  death≠B-NonOSE_AE  declined somewhat after the first year  post≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  MI≠I-Not_AE_Candidate , the increased relative risk of  death≠B-NonOSE_AE  in NSAID users persisted over at least the next four years of follow-up.
+
+ Avoid the use of PENNSAID in patients with a recent  MI≠B-Not_AE_Candidate  unless the benefits are expected to outweigh the risk of recurrent  CV≠B-NonOSE_AE   thrombotic≠I-NonOSE_AE   events≠I-NonOSE_AE . If PENNSAID is used in patients with a recent  MI≠B-Not_AE_Candidate , monitor patients for signs of  cardiac≠B-NonOSE_AE   ischemia≠I-NonOSE_AE .
+
+    5.2 Gastrointestinal Bleeding, Ulceration, and Perforation
+
+  NSAIDs, including diclofenac, cause serious  gastrointestinal≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  GI≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE  adverse events including  inflammation≠I-OSE_Labeled_AE , bleeding, ulceration, and  perforation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE  esophagus, stomach,  small≠I-OSE_Labeled_AE   intestine≠I-OSE_Labeled_AE , or large intestine, which can be  fatal≠B-NonOSE_AE . These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs. Only one in five patients who develop a serious  upper≠B-NonOSE_AE   GI≠I-NonOSE_AE   adverse≠I-NonOSE_AE   event≠I-NonOSE_AE  on NSAID therapy is symptomatic.  Upper≠B-OSE_Labeled_AE   GI≠I-OSE_Labeled_AE   ulcers≠I-OSE_Labeled_AE , gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3-6 months, and in about 2%-4% of patients treated for one year. However, even short-term NSAID therapy is not without risk.
+
+    Risk Factors for GI Bleeding, Ulceration, and Perforation  
+
+ Patients with a prior history of  peptic≠B-Not_AE_Candidate   ulcer≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  and/or  GI≠B-Not_AE_Candidate   bleeding≠I-Not_AE_Candidate  who used NSAIDs had a greater than 10-fold increased risk for developing a  GI≠B-OSE_Labeled_AE   bleed≠I-OSE_Labeled_AE  compared to patients without these risk factors. Other factors that increase the risk of  GI≠B-NonOSE_AE   bleeding≠I-NonOSE_AE  in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status. Most postmarketing reports of  fatal≠B-NonOSE_AE   GI≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  occurred in elderly or debilitated patients. Additionally, patients with advanced  liver≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  and/or  coagulopathy≠B-Not_AE_Candidate  are at increased risk for  GI≠B-NonOSE_AE   bleeding≠I-NonOSE_AE .
+
+    Strategies to Minimize the GI Risks in NSAID-treated patients:  
+
+ *  Use the lowest effective dosage for the shortest possible duration. 
+ *  Avoid administration of more than one NSAID at a time. 
+ *  Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of  bleeding≠B-NonOSE_AE . For such patients, as well as those with active  GI≠B-Not_AE_Candidate   bleeding≠I-Not_AE_Candidate , consider alternate therapies other than NSAIDs. 
+ *  Remain alert for signs and symptoms of  GI≠B-NonOSE_AE   ulceration≠I-NonOSE_AE  and bleeding during NSAID therapy. 
+ *  If a serious  GI≠B-NonOSE_AE   adverse≠I-NonOSE_AE   event≠I-NonOSE_AE  is suspected, promptly initiate evaluation and treatment, and discontinue PENNSAID until a serious  GI≠B-NonOSE_AE   adverse≠I-NonOSE_AE   event≠I-NonOSE_AE  is ruled out. 
+ *  In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of  GI≠B-NonOSE_AE   bleeding≠I-NonOSE_AE  [ see  Drug Interactions (7)   ]. 
+       5.3 Hepatotoxicity
+ 
+
+  In clinical trials of oral diclofenac containing products, meaningful  elevations≠B-OSE_Labeled_AE  (i.e., more than 3 times the ULN)  of≠I-OSE_Labeled_AE   AST≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  SGOT≠I-OSE_Labeled_AE ) occurred in about 2% of approximately 5,700 patients at some time during diclofenac treatment (ALT was not measured in all studies).
+
+ In a large, open-label, controlled trial of 3,700 patients treated with oral diclofenac for 2 - 6 months, patients were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks. Meaningful  elevations≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE  ALT and/or  AST≠I-OSE_Labeled_AE  occurred in about 4% of 3,700 patients and included marked elevations (greater than 8 times the ULN) in about 1% of the 3,700 patients. In that open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3 to 8 times the ULN), and marked (greater than 8 times the ULN)  elevations≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE  ALT or  AST≠I-OSE_Labeled_AE  was observed in patients receiving diclofenac when compared to other NSAIDs.  Elevations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   transaminases≠I-OSE_Labeled_AE  were seen more frequently in patients with  osteoarthritis≠B-Not_AE_Candidate  than in those with  rheumatoid≠B-Not_AE_Candidate   arthritis≠I-Not_AE_Candidate .
+
+ Almost all meaningful  elevations≠B-NonOSE_AE   in≠I-NonOSE_AE   transaminases≠I-NonOSE_AE  were detected before patients became symptomatic. Abnormal tests occurred during the first 2 months of therapy with oral diclofenac in 42 of the 51 patients in all trials who developed marked  transaminase≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE .
+
+ In postmarketing reports, cases of  drug≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  induced≠I-OSE_Labeled_AE   hepatotoxicity≠I-OSE_Labeled_AE  have been reported in the first month, and in some cases, the first 2 months of NSAID therapy, but can occur at any time during treatment with diclofenac.
+
+ Postmarketing surveillance has reported cases of severe  hepatic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE , including  liver≠B-OSE_Labeled_AE   necrosis≠I-OSE_Labeled_AE ,  jaundice≠B-OSE_Labeled_AE ,  fulminant≠B-OSE_Labeled_AE   hepatitis≠I-OSE_Labeled_AE  with and without  jaundice≠B-NonOSE_AE , and  liver≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE . Some of these reported cases resulted in  fatalities≠B-NonOSE_AE  or liver transplantation.
+
+ In a European retrospective population-based, case-controlled study, 10 cases of oral diclofenac associated  drug≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  induced≠I-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE  with current use compared with non-use of diclofenac were associated with a statistically significant 4-fold adjusted odds ratio of  liver≠B-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE . In this particular study, based on an overall number of 10 cases of  liver≠B-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE  associated with diclofenac, the adjusted odds ratio increased further with female gender, doses of 150 mg or more, and duration of use for more than 90 days.
+
+ Physicians should measure transaminases at baseline and periodically in patients receiving long-term therapy with diclofenac, because severe  hepatotoxicity≠B-NonOSE_AE  may develop without a prodrome of distinguishing symptoms. The optimum times for making the first and subsequent transaminase measurements are not known. Based on clinical trial data and postmarketing experiences, transaminases should be monitored within 4 to 8 weeks after initiating treatment with diclofenac. However, severe  hepatic≠B-NonOSE_AE   reactions≠I-NonOSE_AE  can occur at any time during treatment with diclofenac.
+
+ If  abnormal≠B-NonOSE_AE   liver≠I-NonOSE_AE   tests≠I-NonOSE_AE  persist or worsen, if clinical signs and/or symptoms consistent with  liver≠B-NonOSE_AE   disease≠I-NonOSE_AE  develop, or if systemic manifestations occur (e.g.,  eosinophilia≠B-NonOSE_AE ,  rash≠B-NonOSE_AE ,  abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  diarrhea≠B-NonOSE_AE ,  dark≠B-NonOSE_AE   urine≠I-NonOSE_AE , etc.), PENNSAID should be discontinued immediately.
+
+ Inform patients of the warning signs and symptoms of  hepatotoxicity≠B-NonOSE_AE  (e.g.,  nausea≠B-NonOSE_AE ,  fatigue≠B-NonOSE_AE ,  lethargy≠B-NonOSE_AE ,  diarrhea≠B-NonOSE_AE ,  pruritus≠B-NonOSE_AE ,  jaundice≠B-NonOSE_AE ,  right≠B-NonOSE_AE   upper≠I-NonOSE_AE   quadrant≠I-NonOSE_AE   tenderness≠I-NonOSE_AE , and  "≠B-NonOSE_AE  flu≠I-NonOSE_AE  -≠I-NonOSE_AE  like≠I-NonOSE_AE  "≠I-NonOSE_AE   symptoms≠I-NonOSE_AE ). If clinical signs and symptoms consistent with  liver≠B-NonOSE_AE   disease≠I-NonOSE_AE  develop, or if systemic manifestations occur (e.g.,  eosinophilia≠B-NonOSE_AE ,  rash≠B-NonOSE_AE , etc.), discontinue PENNSAID immediately, and perform a clinical evaluation of the patient.
+
+ To minimize the potential risk for an adverse  liver≠B-NonOSE_AE  -≠I-NonOSE_AE  related≠I-NonOSE_AE   event≠I-NonOSE_AE  in patients treated with PENNSAID, use the lowest effective dose for the shortest duration possible. Exercise caution when prescribing PENNSAID with concomitant drugs that are known to be potentially hepatotoxic (e.g., acetaminophen, antibiotics, antiepileptics).
+
+    5.4 Hypertension
+
+  NSAIDs, including PENNSAID, can lead to new onset of  hypertension≠B-OSE_Labeled_AE  or  worsening≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   preexisting≠I-OSE_Labeled_AE   hypertension≠I-OSE_Labeled_AE , either of which may contribute to the increased incidence of  CV≠B-NonOSE_AE   events≠I-NonOSE_AE . Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs [ see  Drug Interactions (7)    ].
+
+ Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.
+
+    5.5 Heart Failure and Edema
+
+   The Coxib and traditional NSAID Trialists' Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for  heart≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  in COX-2 selective treated patients and nonselective NSAID-treated patients compared to placebo-treated patients. In a Danish National Registry study of patients with  heart≠B-Not_AE_Candidate   failure≠I-Not_AE_Candidate , NSAID use increased the risk of  MI≠B-OSE_Labeled_AE , hospitalization for  heart≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE , and  death≠B-NonOSE_AE .  
+
+ Additionally,  fluid≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE  and  edema≠B-OSE_Labeled_AE  have been observed in some patients treated with NSAIDs. Use of diclofenac may blunt the  CV≠B-NonOSE_AE   effects≠I-NonOSE_AE  of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) [ see  Drug Interactions (7)    ].
+
+ Avoid the use of PENNSAID in patients with severe  heart≠B-Not_AE_Candidate   failure≠I-Not_AE_Candidate  unless the benefits are expected to outweigh the risk of  worsening≠B-NonOSE_AE   heart≠I-NonOSE_AE   failure≠I-NonOSE_AE . If PENNSAID is used in patients with severe  heart≠B-Not_AE_Candidate   failure≠I-Not_AE_Candidate , monitor patients for signs of  worsening≠B-NonOSE_AE   heart≠I-NonOSE_AE   failure≠I-NonOSE_AE .
+
+    5.6 Renal Toxicity and Hyperkalemia
+
+   Renal Toxicity  
+
+ Long-term administration of NSAIDs has resulted in  renal≠B-OSE_Labeled_AE   papillary≠I-OSE_Labeled_AE   necrosis≠I-OSE_Labeled_AE  and other  renal≠B-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE .
+
+  Renal≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion. In these patients, administration of an NSAID may cause a dose-dependent  reduction≠B-NonOSE_AE   in≠I-NonOSE_AE  prostaglandin formation and, secondarily, in  renal≠I-NonOSE_AE   blood≠I-NonOSE_AE   flow≠I-NonOSE_AE , which may precipitate overt  renal≠B-NonOSE_AE   decompensation≠I-NonOSE_AE . Patients at greatest risk of this reaction are those with  impaired≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate ,  dehydration≠B-Not_AE_Candidate ,  hypovolemia≠B-Not_AE_Candidate ,  heart≠B-Not_AE_Candidate   failure≠I-Not_AE_Candidate ,  liver≠B-Not_AE_Candidate   dysfunction≠I-Not_AE_Candidate , those taking diuretics and ACE-inhibitors or ARBs, and the elderly. Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
+
+ No information is available from controlled clinical studies regarding the use of PENNSAID in patients with advanced  renal≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate . The  renal≠B-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE  of PENNSAID may hasten the  progression≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE  in patients with preexisting  renal≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate .
+
+ Correct volume status in  dehydrated≠B-Not_AE_Candidate  or  hypovolemic≠B-Not_AE_Candidate  patients prior to initiating PENNSAID. Monitor renal function in patients with  renal≠B-Not_AE_Candidate  or hepatic  impairment≠I-Not_AE_Candidate ,  heart≠B-Not_AE_Candidate   failure≠I-Not_AE_Candidate ,  dehydration≠B-Not_AE_Candidate , or  hypovolemia≠B-Not_AE_Candidate  during use of PENNSAID [ see  Drug Interactions (7)    ]. Avoid the use of PENNSAID in patients with advanced  renal≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  unless the benefits are expected to outweigh the risk of  worsening≠B-NonOSE_AE   renal≠I-NonOSE_AE   function≠I-NonOSE_AE . If PENNSAID is used in patients with advanced  renal≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate , monitor patients for signs of  worsening≠B-NonOSE_AE   renal≠I-NonOSE_AE   function≠I-NonOSE_AE .
+
+    Hyperkalemia  
+
+  Increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   potassium≠I-OSE_Labeled_AE   concentration≠I-OSE_Labeled_AE , including  hyperkalemia≠B-OSE_Labeled_AE , have been reported with use of NSAIDs, even in some patients without  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate . In patients with normal renal function, these effects have been attributed to a  hyporeninemic≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  hypoaldosteronism≠I-Not_AE_Candidate   state≠I-Not_AE_Candidate .
+
+    5.7 Anaphylactic Reactions
+
+  Diclofenac has been associated with  anaphylactic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  in patients with and without known  hypersensitivity≠B-Not_AE_Candidate   to≠I-Not_AE_Candidate   diclofenac≠I-Not_AE_Candidate  and in patients with  aspirin≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  sensitive≠I-Not_AE_Candidate   asthma≠I-Not_AE_Candidate  [ see  Contraindications (4)  and  Warnings and Precautions (5.8)    ].
+
+ Seek emergency help if an  anaphylactic≠B-NonOSE_AE   reaction≠I-NonOSE_AE  occurs.
+
+    5.8  Exacerbation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   Asthma≠I-OSE_Labeled_AE   Related≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   Aspirin≠I-OSE_Labeled_AE   Sensitivity≠I-OSE_Labeled_AE 
+
+  A subpopulation of patients with  asthma≠B-Not_AE_Candidate  may have  aspirin≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  sensitive≠I-Not_AE_Candidate   asthma≠I-Not_AE_Candidate  which may include chronic  rhinosinusitis≠B-Not_AE_Candidate  complicated by  nasal≠B-Not_AE_Candidate   polyps≠I-Not_AE_Candidate ; severe, potentially  fatal≠B-NonOSE_AE   bronchospasm≠B-Not_AE_Candidate ; and/or  intolerance≠B-Not_AE_Candidate   to≠I-Not_AE_Candidate   aspirin≠I-Not_AE_Candidate  and other NSAIDs. Because  cross≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  reactivity≠I-OSE_Labeled_AE   between≠I-OSE_Labeled_AE   aspirin≠I-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   other≠I-OSE_Labeled_AE   NSAIDs≠I-OSE_Labeled_AE  has been reported in such aspirin-sensitive patients, PENNSAID is contraindicated in patients with this form of aspirin sensitivity [ see  Contraindications (4)    ]. When PENNSAID is used in patients with preexisting  asthma≠B-Not_AE_Candidate  (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of  asthma≠B-NonOSE_AE .
+
+    5.9 Serious Skin Reactions
+
+  NSAIDs, including diclofenac, can cause serious  skin≠B-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  such as  exfoliative≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ,  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  (SJS), and  toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE  (TEN), which can be  fatal≠B-NonOSE_AE . These serious events may occur without warning. Inform patients about the signs and symptoms of serious  skin≠B-NonOSE_AE   reactions≠I-NonOSE_AE , and to discontinue the use of PENNSAID at the first appearance of  skin≠B-NonOSE_AE   rash≠I-NonOSE_AE  or any other sign of  hypersensitivity≠B-NonOSE_AE . PENNSAID is contraindicated in patients with previous serious  skin≠B-Not_AE_Candidate   reactions≠I-Not_AE_Candidate   to≠I-Not_AE_Candidate   NSAIDs≠I-Not_AE_Candidate  [ see  Contraindications (4)    ].
+
+ Do not apply PENNSAID to open  skin≠B-NonOSE_AE   wounds≠I-NonOSE_AE ,  infections≠B-NonOSE_AE ,  inflammations≠B-NonOSE_AE , or  exfoliative≠B-NonOSE_AE   dermatitis≠I-NonOSE_AE , as it may affect absorption and tolerability of the drug.
+
+    5.10 Premature Closure of Fetal Ductus Arteriosus
+
+  Diclofenac may cause  premature≠B-OSE_Labeled_AE   closure≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   fetal≠I-OSE_Labeled_AE   ductus≠I-OSE_Labeled_AE   arteriosus≠I-OSE_Labeled_AE . Avoid use of NSAIDs, including PENNSAID, in  pregnant≠B-Not_AE_Candidate  women starting at 30 weeks of gestation (third trimester) [ see  Use in Specific Populations (8.1)    ].
+
+    5.11  Hematologic≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE 
+
+   Anemia≠B-OSE_Labeled_AE  has occurred in NSAID-treated patients. This may be due to occult or gross  blood≠B-Not_AE_Candidate   loss≠I-Not_AE_Candidate ,  fluid≠B-Not_AE_Candidate   retention≠I-Not_AE_Candidate , or an incompletely described  effect≠B-Not_AE_Candidate   on≠I-Not_AE_Candidate   erythropoiesis≠I-Not_AE_Candidate . If a patient treated with PENNSAID has any signs or symptoms of  anemia≠B-NonOSE_AE , monitor hemoglobin or hematocrit.
+
+ NSAIDs, including PENNSAID, may increase the risk of  bleeding≠B-OSE_Labeled_AE  events. Co-morbid conditions such as  coagulation≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate  or concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk. Monitor these patients for signs of  bleeding≠B-NonOSE_AE  [ see  Drug Interactions (7)    ].
+
+    5.12  Masking≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   Inflammation≠I-OSE_Labeled_AE  and Fever
+
+  The pharmacological activity of PENNSAID in  reducing≠B-NonOSE_AE   inflammation≠I-NonOSE_AE , and possibly fever, may diminish the utility of diagnostic signs in detecting  infections≠B-NonOSE_AE .
+
+    5.13 Laboratory Monitoring
+
+  Because serious  GI≠B-NonOSE_AE   bleeding≠I-NonOSE_AE ,  hepatotoxicity≠B-NonOSE_AE , and  renal≠B-NonOSE_AE   injury≠I-NonOSE_AE  can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [ see  Warnings and Precautions (5.2  ,  5.3  ,  5.6)    ].
+
+    5.14 Sun Exposure
+
+  Instruct patients to avoid exposure to natural or artificial sunlight on treated knee(s) because studies in animals indicated topical diclofenac treatment resulted in an earlier onset of  ultraviolet≠B-NonOSE_AE   light≠I-NonOSE_AE  -≠I-NonOSE_AE  induced≠I-NonOSE_AE   skin≠I-NonOSE_AE   tumors≠I-NonOSE_AE . The potential effects of PENNSAID on  skin≠B-NonOSE_AE   response≠I-NonOSE_AE   to≠I-NonOSE_AE   ultraviolet≠I-NonOSE_AE   damage≠I-NonOSE_AE  in humans are not known.
+
+    5.15 Eye Exposure
+
+  Avoid contact of PENNSAID with eyes and mucosa. Advise patients that if eye contact occurs, immediately wash out the  eye≠B-NonOSE_AE  with water or saline and consult a physician if  irritation≠I-NonOSE_AE  persists for more than an hour.
+
+    5.16 Oral Nonsteroidal Anti-Inflammatory Drugs
+
+  Concomitant use of oral NSAIDs with PENNSAID 1.5% resulted in a higher rate of  rectal≠B-NonOSE_AE   hemorrhage≠I-NonOSE_AE , more frequent  abnormal≠B-NonOSE_AE   creatinine≠I-NonOSE_AE , urea and hemoglobin. Therefore, do not use combination therapy with PENNSAID and an oral NSAID unless the benefit outweighs the risk and conduct periodic laboratory evaluations.
+

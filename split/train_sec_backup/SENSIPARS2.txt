@@ -1,0 +1,45 @@
+    5         WARNINGS AND PRECAUTIONS  
+
+     EXCERPT:    *   Hypocalcemia  : Life threatening events and fatal outcomes were reported. Hypocalcemia can prolong QT interval, lower the threshold for seizures, and cause hypotension, worsening heart failure, and/or arrhythmia.  Monitor serum calcium carefully for the occurrence of hypocalcemia during treatment (  2.4  ,  5.1  ) 
+ *   Upper Gastrointestinal (GI) Bleeding: Patients with risk factors for upper GI bleeding may be at increased risk. Monitor patients and promptly evaluate and treat any suspected GI bleeding. (  5.2  ) 
+ *   Hypotension, Worsening Heart Failure and/or Arrhythmias : In postmarketing safety surveillance, isolated, idiosyncratic cases of hypotension, worsening heart failure, and/or arrhythmia have been reported in patients with impaired cardiac function. (  5.3  ) 
+ *   Adynamic  B  one  D  isease : May develop if iPTH levels are suppressed below 100 pg/mL. (  5.4  ) 
+    
+ 
+
+   5.1       Hypocalcemia
+
+   Sensipar lowers serum calcium and can lead to hypocalcemia [see Adverse Reactions (     6.1     )].  Significant lowering of serum calcium can cause paresthesias, myalgias, muscle spasms, tetany, seizures, QT interval prolongation and ventricular arrhythmia. Life threatening events and fatal outcomes associated with hypocalcemia have been reported in patients treated with Sensipar, including in pediatric patients. The safety and effectiveness of Sensipar have not been established in pediatric patients  [see Pediatric Use (     8.4     )].    
+
+ Sensipar is not indicated for patients with CKD not on dialysis  [see   I   ndications and Usage (     1     )]  .  In patients with secondary HPT and CKD not on dialysis, the long term safety and efficacy of Sensipar have not been established.  Clinical studies indicate that Sensipar-treated patients with CKD not on dialysis have an increased risk for hypocalcemia compared with Sensipar-treated patients with CKD on dialysis, which may be due to lower baseline calcium levels.  In a phase 3 study of 32 weeks duration and including 404 patients with CKD not on dialysis (302 cinacalcet, 102 placebo), in which the median dose for cinacalcet was 60 mg per day at the completion of the study, 80% of Sensipar-treated patients experienced at least one serum calcium value < 8.4 mg/dL compared with 5% of patients receiving placebo.
+
+  QT Interval Prolongation and Ventricular Arrhythmia  
+
+  Decreases in serum calcium can also prolong the QT interval, potentially resulting in ventricular arrhythmia. Cases of QT prolongation and ventricular arrhythmia have been reported in patients treated with Sensipar. Patients with congenital long QT syndrome, history of QT interval prolongation, family history of long QT syndrome or sudden cardiac death, and other conditions that predispose to QT interval prolongation and ventricular arrhythmia may be at increased risk for QT interval prolongation and ventricular arrhythmias if they develop hypocalcemia due to Sensipar. Closely monitor corrected serum calcium and QT interval in patients at risk receiving Sensipar.  
+
+  Seizures  
+
+ In clinical studies, seizures (primarily generalized or tonic-clonic) were observed in 1.4% (43/3049) of Sensipar-treated patients and 0.7% (5/687) of placebo-treated patients. While the basis for the reported difference in seizure rate is not clear, the threshold for seizures is lowered by significant reductions in serum calcium levels. Monitor serum calcium levels in patients with seizure disorders receiving Sensipar .  
+
+  Concurrent administration of Sensipar with calcium-lowering drugs including other calcium-sensing receptor agonists could result in severe hypocalcemia. Closely monitor serum calcium in patients receiving Sensipar and concomitant therapies known to lower serum calcium levels.  
+
+  Educate patients on the symptoms of hypocalcemia and advise them to contact a healthcare provider if they occur.  
+
+  If corrected serum calcium falls below the lower limit of normal or symptoms of hypocalcemia develop, start or increase calcium supplementation (including calcium, calcium-containing phosphate binders, and/or vitamin D sterols or increases in dialysate calcium concentration). Sensipar dose reduction or discontinuation of Sensipar may be necessary [see Dosage and Administration (     2.2     )].    
+
+    5.2       Upper Gastrointestinal Bleeding
+
+   Cases of gastrointestinal bleeding, mostly upper gastrointestinal bleeding, have occurred in patients using calcimimetics, including Sensipar, from postmarketing and clinical trial sources. The exact cause of GI bleeding in these patients is unknown.  
+
+    
+
+  Patients with risk factors for upper GI bleeding (such as known gastritis, esophagitis, ulcers or severe vomiting) may be at increased risk for GI bleeding when receiving Sensipar treatment. Monitor patients for worsening of common GI adverse reactions of nausea and vomiting associated with Sensipar [see Adverse Reactions (     6.1     )]  and for signs and symptoms of GI bleeding and ulcerations during Sensipar therapy. Promptly evaluate and treat any suspected GI bleeding.  
+
+    5.3        Hypotension, Worsening Heart Failure and/or Arrhythmias
+
+   In postmarketing safety surveillance, isolated, idiosyncratic cases of hypotension, worsening heart failure, and/or arrhythmia have been reported in patients with impaired cardiac function, in which a causal relationship to Sensipar could not be completely excluded and which may be mediated by reductions in serum calcium levels [see Adverse Reactions       (     6.2     )].    
+
+    5.4             Adynamic Bone Disease
+
+  Adynamic bone disease may develop if iPTH levels are suppressed below 100 pg/mL. One clinical study evaluated bone histomorphometry in patients treated with Sensipar for 1 year. Three patients with mild hyperparathyroid bone disease at the beginning of the study developed adynamic bone disease during treatment with Sensipar. Two of these patients had iPTH levels below 100 pg/mL at multiple time points during the study. In three 6-month, phase 3 studies conducted in patients with CKD on dialysis, 11% of patients treated with Sensipar had mean iPTH values below 100 pg/mL during the efficacy-assessment phase. If iPTH levels decrease below 150 pg/mL in patients treated with Sensipar, the dose of Sensipar and/or vitamin D sterols should be reduced or therapy discontinued.
+

@@ -1,0 +1,332 @@
+  6 ADVERSE REACTIONS
+
+  The following adverse reactions are described in detail in other labeling sections:
+
+ *   Teratogenicity≠B-OSE_Labeled_AE  [see  Boxed Warning  ,  Warnings and Precautions (5.1  ,  5.2)  , and  Patient Counseling Information (17)  ]  
+ *   Venous≠B-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   Arterial≠I-OSE_Labeled_AE   Thromboembolism≠I-OSE_Labeled_AE  [see  Boxed Warning  ,  Warnings and Precautions (5.3)  , and  Patient Counseling Information (17)  ]  
+ *  Increased  Mortality≠B-NonOSE_AE  in Patients with MM When Pembrolizumab Is Added to a Thalidomide Analogue and Dexamethasone [see  Warnings and Precautions (5.4)  ]  
+ *   Drowsiness≠B-OSE_Labeled_AE  and  Somnolence≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.5)  ]  
+ *   Peripheral≠B-OSE_Labeled_AE   Neuropathy≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.6)  ]  
+ *   Dizziness≠B-OSE_Labeled_AE  and  Orthostatic≠B-OSE_Labeled_AE   Hypotension≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.7)  ]  
+ *   Neutropenia≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.8)  ]  
+ *   Thrombocytopenia≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.9)  ]  
+ *   Increased≠B-OSE_Labeled_AE   HIV≠I-OSE_Labeled_AE   Viral≠I-OSE_Labeled_AE   Load≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.10)  ]  
+ *   Bradycardia≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.11)  ]  
+ *   Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  and  Toxic≠B-OSE_Labeled_AE   Epidermal≠I-OSE_Labeled_AE   Necrolysis≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.12)  ]  
+ *   Seizures≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.13)  ]  
+ *   Tumor≠B-OSE_Labeled_AE   Lysis≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.14)  ]  
+ *   Hypersensitivity≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.16)  ]  
+   *   MM≠B-Not_AE_Candidate : The most common adverse reactions (>= 20%) are  fatigue≠B-OSE_Labeled_AE ,  hypocalcemia≠B-OSE_Labeled_AE ,  edema≠B-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE ,  neuropathy≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  sensory≠I-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   weakness≠I-OSE_Labeled_AE ,  leukopenia≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE / desquamation≠B-OSE_Labeled_AE ,  confusion≠B-OSE_Labeled_AE ,  anorexia≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  anxiety≠B-OSE_Labeled_AE / agitation≠B-OSE_Labeled_AE ,  asthenia≠B-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  fever≠B-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE ,  thrombosis≠B-OSE_Labeled_AE / embolism≠B-OSE_Labeled_AE ,  neuropathy≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  motor≠I-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE , and  dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE . (  6.1  ) 
+ *   ENL≠B-Not_AE_Candidate : The most common adverse reactions (>= 10%) are  somnolence≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE , and  headache≠B-OSE_Labeled_AE . (  6.1  ) 
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS or embryo-fetal exposure: contact Celgene Corporation at 1-888-423-5436 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+ Most patients taking thalidomide can be expected to experience adverse reactions.
+
+   Teratogenicity:  
+
+ The most serious toxicity associated with thalidomide is its documented  human≠B-OSE_Labeled_AE   teratogenicity≠I-OSE_Labeled_AE . The risk of severe  birth≠B-OSE_Labeled_AE   defects≠I-OSE_Labeled_AE , primarily  phocomelia≠B-OSE_Labeled_AE  or  death≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   fetus≠I-OSE_Labeled_AE , is extremely high during the critical period of  pregnancy≠B-Not_AE_Candidate . The critical period is estimated, depending on the source of information, to range from 35 to 50 days after the last menstrual period. The risk of other potentially severe  birth≠B-NonOSE_AE   defects≠I-NonOSE_AE  outside this critical period is unknown, but may be significant. Based on present knowledge, thalidomide must not be used at any time during  pregnancy≠B-Not_AE_Candidate .
+
+ Because thalidomide is present in the semen of patients receiving the drug, males receiving thalidomide must always use a latex or synthetic condom during any sexual contact with females of reproductive potential, even if he has undergone a successful vasectomy.
+
+   Venous and  Arterial≠B-OSE_Labeled_AE   Thromboembolism≠I-OSE_Labeled_AE :  
+
+ An increased risk of  venous≠B-OSE_Labeled_AE   thromboembolism≠I-OSE_Labeled_AE  (such as  deep≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE  and  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE ),  ischemic≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE  (including  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE ), and  stroke≠B-OSE_Labeled_AE  have been reported in patients with  multiple≠B-Not_AE_Candidate   myeloma≠I-Not_AE_Candidate  treated with thalidomide  [see  Warnings and Precautions (5.3)  ]  .
+
+   Peripheral Neuropathy:  
+
+  Peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  is a very common, potentially severe, adverse reaction of treatment with thalidomide that may result in irreversible damage.   Peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  generally occurs following chronic use over a period of months. However, reports following relatively short-term use also exist. Incidence of  neuropathy≠B-OSE_Labeled_AE  events leading to discontinuation, dose reduction or interruption increases with cumulative dose and duration of therapy.  Symptoms may occur some time after thalidomide treatment has been stopped and may resolve slowly or not at all.
+
+  Somnolence≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE , and  rash≠B-OSE_Labeled_AE  are the most commonly observed adverse reactions associated with the use of thalidomide. Adverse event profiles from clinical trials are summarized in the sections that follow.
+
+   Adverse Reactions in Multiple Myeloma Controlled Clinical Trials  
+
+ The safety analyses were conducted in two controlled clinical studies (Study 1 and Study 2).  The safety analysis in Study 1 was conducted on 204 patients who received treatment.  Table 1  lists the most common adverse drug reactions (>= 10%). The most frequently reported adverse reactions were  fatigue≠B-OSE_Labeled_AE ,  hypocalcemia≠B-OSE_Labeled_AE ,  edema≠B-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE ,  sensory≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   weakness≠I-OSE_Labeled_AE ,  leukopenia≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE / desquamation≠B-OSE_Labeled_AE ,  confusion≠B-OSE_Labeled_AE ,  anorexia≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  anxiety≠B-OSE_Labeled_AE / agitation≠B-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  fever≠B-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE ,  thrombosis≠B-OSE_Labeled_AE / embolism≠B-OSE_Labeled_AE ,  neuropathy≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  motor≠I-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE , and  dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE .
+
+ Twenty-three percent of patients (47/204) discontinued due to adverse reactions; 30% (31/102) from the THALOMID/dexamethasone arm and 16% (16/102) from the dexamethasone alone arm.
+
+ Table 1: Adverse Drug Reactions Reported in >=10% of Patients in the THALOMID/Dexamethasone Arm (Study 1 - Safety Population; N=204) 
+ *Treatment-emergent adverse reactions reported in >=10% of  patients in THALOMID/dexamethasone arm and with a >=1% difference in the THALOMID/dexamethasone arm compared to the dexamethasone alone arm.   
+  
+   Body SystemAdverse Reaction      Thal + Dex *(N=102)                                   Dex Alone*(N=102)                                    
+   All Gradesn (%)            Grade 3/4n (%)             All Gradesn (%)            Grade 3/4n (%)            
+    Metabolic≠B-NonOSE_AE  /≠I-NonOSE_AE  Laboratory≠I-NonOSE_AE      97 (95)                    33 (32)                    96 (94)                    30 (29)                     
+        Hypocalcemia≠B-OSE_Labeled_AE          73 (72)                    11 (11)                    60 (59)                    5 (5)                       
+    Neurology≠B-NonOSE_AE                 92 (90)                    30 (29)                    76 (74)                    18 (18)                     
+        Neuropathy≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  sensory≠I-OSE_Labeled_AE    55 (54)                    4 (4)                      28 (28)                    1 (1)                       
+        Confusion≠B-OSE_Labeled_AE             29 (28)                    9 (9)                      12 (12)                    3 (3)                       
+        Anxiety≠B-OSE_Labeled_AE / agitation≠B-OSE_Labeled_AE     26 (26)                    1 (1)                      14 (14)                    3 (3)                       
+        Tremor≠B-OSE_Labeled_AE                26 (26)                    1 (1)                      6 (6)                      0 (0)                       
+        Neuropathy≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  motor≠I-OSE_Labeled_AE      22 (22)                    8 (8)                      16 (16)                    5 (5)                       
+        Dizziness≠B-OSE_Labeled_AE /       lightheadedness≠B-OSE_Labeled_AE   20 (20)                    1 (1)                      14 (14)                    0 (0)                       
+        Depressed≠B-OSE_Labeled_AE   level≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE        consciousness≠I-OSE_Labeled_AE   16 (16)                    3 (3)                      3 (3)                      3 (3)                       
+    Constitutional≠B-NonOSE_AE   Symptoms≠I-NonOSE_AE     91 (89)                    19 (19)                    84 (82)                    16 (16)                     
+        Fatigue≠B-OSE_Labeled_AE               81 (79)                    17 (17)                    72 (71)                    13 (13)                     
+        Fever≠B-OSE_Labeled_AE                 24 (24)                    1 (1)                      20 (20)                    3 (3)                       
+        Weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE           23 (23)                    1 (1)                      21 (21)                    2 (2)                       
+        Weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE           22 (22)                    1 (1)                      13 (13)                    0 (0)                       
+    Blood≠B-NonOSE_AE  /≠I-NonOSE_AE  Bone≠I-NonOSE_AE   Marrow≠I-NonOSE_AE         88 (86)                    29 (29)                    96 (94)                    19 (19)                     
+        Leukocytes≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  decreased≠I-OSE_Labeled_AE )  36 (35)                    6 (6)                      30 (29)                    3 (3)                       
+        Neutrophils≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  decreased≠I-OSE_Labeled_AE )  32 (31)                    10 (10)                    24 (24)                    10 (10)                     
+    Gastrointestinal≠B-NonOSE_AE          83 (81)                    22 (22)                    70 (69)                    8 (8)                       
+        Constipation≠B-OSE_Labeled_AE          56 (55)                    8 (8)                      29 (28)                    1 (1)                       
+        Anorexia≠B-OSE_Labeled_AE              29 (28)                    4 (4)                      25 (24)                    2 (2)                       
+        Nausea≠B-OSE_Labeled_AE                29 (28)                    5 (5)                      23 (22)                    1 (1)                       
+        Mouth≠B-OSE_Labeled_AE   dryness≠I-OSE_Labeled_AE         12 (12)                    1 (1)                      6 (6)                      0 (0)                       
+    Cardiovascular≠B-NonOSE_AE            70 (69)                    37 (36)                    60 (59)                    21 (21)                     
+        Edema≠B-OSE_Labeled_AE                 58 (56)                    6 (6)                      47 (46)                    4 (4)                       
+        Thrombosis≠B-OSE_Labeled_AE / embolism≠B-OSE_Labeled_AE   23 (22)                    21 (21)                    5 (5)                      5 (5)                       
+    Pain≠B-OSE_Labeled_AE                      64 (63)                    10 (10)                    66 (65)                    15 (15)                     
+        Myalgia≠B-OSE_Labeled_AE               17 (17)                    0 (0)                      14 (14)                    1 (1)                       
+        Arthralgia≠B-OSE_Labeled_AE            13 (13)                    0 (0)                      10 (10)                    2 (2)                       
+    Pulmonary≠B-NonOSE_AE                 52 (51)                    19 (19)                    51 (50)                    20 (20)                     
+        Dyspnea≠B-OSE_Labeled_AE               43 (42)                    13 (13)                    32 (31)                    15 (15)                     
+    Dermatology≠B-NonOSE_AE  /≠I-NonOSE_AE  Skin≠I-NonOSE_AE          48 (47)                    5 (5)                      35 (34)                    2 (2)                       
+        Rash≠B-OSE_Labeled_AE / desquamation≠B-OSE_Labeled_AE     31 (30)                    4 (4)                      18 (18)                    2 (2)                       
+        Dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE              21 (21)                    0 (0)                      11 (11)                    0 (0)                       
+    Hepatic≠B-NonOSE_AE                   47 (46)                    7 (7)                      45 (44)                    4 (4)                       
+        Bilirubin≠B-OSE_Labeled_AE             14 (14)                    2 (2)                      10 (10)                    2 (2)                       
+    Musculoskeletal≠B-NonOSE_AE           42 (41)                    9 (9)                      41 (40)                    14 (14)                     
+        Muscle≠B-OSE_Labeled_AE   weakness≠I-OSE_Labeled_AE       41 (40)                    6 (6)                      38 (37)                    13 (13)                     
+      The safety analysis in Study 2 was conducted on 466 patients who received treatment.  Table 2  lists the most common adverse drug reactions (>= 10%) that were observed.  Table 3  lists the most common Grade 3/4 adverse drug reactions (occurring at > 2%) that were observed. The adverse reactions most often reported by patients treated with THALOMID/dexamethasone were  constipation≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  asthenia≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE  and  fatigue≠B-OSE_Labeled_AE . Adverse reactions with a frequency at least 2-fold higher in the THALOMID/dexamethasone group than in the placebo/dexamethasone group include  constipation≠B-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  deep≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE  and  peripheral≠B-OSE_Labeled_AE   sensory≠I-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE .
+ 
+
+ Twenty-six percent of patients (121/466) discontinued due to adverse events; 37% (86/234) from the THALOMID/dexamethasone arm and 15% (35/232) from the placebo/dexamethasone arm.
+
+ Table 2: Adverse Drug Reactions Reported in >=10% of Patients in the THALOMID/Dexamethasone Arm (Study 2 - Safety Population; N=466) 
+  *All adverse reactions reported in >=10% of patients in THALOMID/dexamethasone arm and with a >=1% difference in proportion of patients between the THALOMID/dexamethasone arm compared to the placebo/dexamethasone arm.   NOS = not otherwise specified.    
+  
+   Body SystemAdverse Reaction      Thal/Dex (N=234)*n (%)      Placebo/Dex (N=232)*n (%)     
+   Patients with at least 1 Adverse Reaction      233 (99)                   230 (99)                  
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   Administration≠I-NonOSE_AE   Site≠I-NonOSE_AE   Conditions≠I-NonOSE_AE       176 (75)                   149 (64)                  
+        Edema≠B-OSE_Labeled_AE   peripheral≠I-OSE_Labeled_AE      80 (34)                    57 (25)                     
+        Asthenia≠B-OSE_Labeled_AE              56 (24)                    47 (20)                     
+        Fatigue≠B-OSE_Labeled_AE               50 (21)                    36 (16)                     
+        Edema≠B-OSE_Labeled_AE  NOS            31 (13)                    19 (8)                      
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE     162 (69)                   149 (64)                    
+        Constipation≠B-OSE_Labeled_AE          116 (50)                   49 (21)                     
+        Nausea≠B-OSE_Labeled_AE                30 (13)                    27 (12)                     
+        Dyspepsia≠B-OSE_Labeled_AE             27 (11)                    21 (9)                      
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE     161 (69)                   138 (60)                    
+        Tremor≠B-OSE_Labeled_AE                62 (26)                    29 (12)                     
+        Dizziness≠B-OSE_Labeled_AE             51 (23)                    32 (14)                     
+        Paresthesia≠B-OSE_Labeled_AE           27 (12)                    15 (6)                      
+        Peripheral≠B-OSE_Labeled_AE   sensory≠I-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE   24 (10)                    12 (5)                      
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE     139 (59)                   138 (60)                    
+        Pneumonia≠B-OSE_Labeled_AE  NOS        35 (15)                    28 (12)                     
+    Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE     90 (38)                    97 (42)                     
+        Anxiety≠B-OSE_Labeled_AE               27 (12)                    22 (10)                     
+        Depression≠B-OSE_Labeled_AE            24 (10)                    19 (8)                      
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE     96 (41)                    89 (38)                     
+        Hyperglycemia≠B-OSE_Labeled_AE  NOS    36 (15)                    32 (14)                     
+    Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE        92 (39)                    53 (23)                     
+        Deep≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE   30 (13)                    4 (2)                       
+     Table 3: Grade 3/4 Adverse Drug Reactions Reported in >2% of Patients in the THALOMID/Dexamethasone Arm (Study 2 - Safety Population; N=466) 
+  *All Grade 3/4 adverse reactions with >2% of patients in THALOMID/dexamethasone arm and with a higher frequency in the THALOMID/dexamethasone arm compared to the placebo/dexamethasone arm.   NOS = not otherwise specified.    
+  
+   Body SystemAdverse Reaction      THALOMID/Dex (N=234)*n (%)      Placebo/Dex (N=232)*n (%)     
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE       50 (21)                    36 (16)                   
+        Pneumonia≠B-OSE_Labeled_AE  NOS        17 (7)                     14 (6)                      
+        Bronchopneumonia≠B-OSE_Labeled_AE  NOS  7 (3)                      3 (1)                       
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE   andAdministration≠I-NonOSE_AE   Site≠I-NonOSE_AE   Conditions≠I-NonOSE_AE       44 (19)                    26 (11)                   
+        Asthenia≠B-OSE_Labeled_AE              11 (5)                     4 (2)                       
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   NutritionDisorders≠I-NonOSE_AE       33 (14)                    34 (15)                   
+        Hypokalemia≠B-OSE_Labeled_AE           7 (3)                      3 (1)                       
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE       47 (20)                    20 (9)                    
+        Syncope≠B-OSE_Labeled_AE               8 (3)                      1 (<1)                      
+        Peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  NOS  8 (3)                      0 (0)                       
+        Cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE   6 (3)                      1 (<1)                      
+    Cardiac≠B-NonOSE_AE   Disorders≠I-NonOSE_AE           35 (15)                    27 (11)                   
+        Atrial≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE   11 (5)                     8 (3)                       
+        Myocardial≠B-OSE_Labeled_AE   ischemia≠I-OSE_Labeled_AE   6 (3)                      2 (1)                       
+    Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE          42 (18)                    14 (6)                    
+        Deep≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE   27 (12)                    4 (2)                       
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE       26 (11)                    22 (10)                   
+        Constipation≠B-OSE_Labeled_AE          7 (3)                      2 (1)                       
+    Investigations≠B-NonOSE_AE              21 (9)                     21 (9)                    
+        Weight≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE      8 (3)                      4 (2)                       
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   SystemDisorders≠I-NonOSE_AE       24 (10)                    17 (7)                    
+        Neutropenia≠B-OSE_Labeled_AE           8 (3)                      6 (3)                       
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE  ,≠I-NonOSE_AE   andMediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE       27 (12)                    13 (6)                    
+        Pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE    16 (7)                     4 (2)                       
+    Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE       19 (8)                     8 (3)                     
+        Anxiety≠B-OSE_Labeled_AE               5 (2)                      3 (1)                       
+        Confusional≠B-OSE_Labeled_AE   state≠I-OSE_Labeled_AE     5 (2)                      2 (1)                       
+    Ear≠B-NonOSE_AE   and≠I-NonOSE_AE   Labyrinth≠I-NonOSE_AE   Disorders≠I-NonOSE_AE       6 (3)                      0 (0)                     
+        Vertigo≠B-OSE_Labeled_AE               5 (2)                      0 (0)                       
+        Less Common Adverse Drug Reactions in Multiple Myeloma Controlled Clinical Trials  
+ 
+
+ In Study 2, THALOMID in combination with dexamethasone in patients with  multiple≠B-Not_AE_Candidate   myeloma≠I-Not_AE_Candidate , the following adverse drug reactions not described above were reported*:
+
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   Vomiting≠B-OSE_Labeled_AE  NOS,  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE ,  peritonitis≠B-OSE_Labeled_AE ,  diverticular≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE 
+
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   Somnolence≠B-OSE_Labeled_AE ,  hypoesthesia≠B-OSE_Labeled_AE ,  polyneuropathy≠B-OSE_Labeled_AE  NOS,  transient≠B-OSE_Labeled_AE   ischemic≠I-OSE_Labeled_AE   attack≠I-OSE_Labeled_AE 
+
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE  ,≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   Bronchitis≠B-OSE_Labeled_AE  NOS
+
+    Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   Mood≠B-OSE_Labeled_AE   alteration≠I-OSE_Labeled_AE  NOS
+
+    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   Hypotension≠B-OSE_Labeled_AE  NOS,  orthostatic≠B-OSE_Labeled_AE   hypotension≠I-OSE_Labeled_AE 
+
+    Cardiac≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   Bradycardia≠B-OSE_Labeled_AE  NOS
+
+    Eye≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   Blurred≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE 
+
+ * All adverse reactions with >=3% of patients in THALOMID/dexamethasone arm and with a >=1% difference in proportion of patients between the THALOMID/dexamethasone arm compared to the placebo/dexamethasone arm. All grade 3/4 and serious adverse reactions reported >2 patients in THALOMID/dexamethasone arm and with a percentage higher in the THALOMID/dexamethasone arm compared to the placebo/dexamethasone arm have been considered for possible inclusion. In any cases medical judgment has been applied for consideration of causality assessment.
+
+   Adverse Reactions in Erythema Nodosum Leprosum (ENL) Clinical Trials  
+
+   Table 4  lists treatment-emergent signs and symptoms that occurred in THALOMID-treated patients in clinical trials in  ENL≠B-Not_AE_Candidate . The most common adverse reactions (>=10%) reported in patients with ENL were  somnolence≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE . Doses ranged from 50 to 300 mg/day. All adverse reactions were mild to moderate in severity, and none resulted in discontinuation.
+
+ Table 4: Summary of Adverse Events (AEs) Reported in Celgene-sponsored Controlled Clinical Trials 
+   Body System/Adverse Event      All AEs Reportedin Patients with ENL      AEs Reported in >=3 HIV-seropositive Patients     
+                                                         Thalidomide                Placebo                   
+                              50 to 300 mg/day(N=24)      100 mg/day(N=36)           200 mg/day(N=32)           (N=35)                    
+  Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE           0                          8 (22.2%)                  13 (40.6%)                 10 (28.6%)                
+         Anemia≠B-OSE_Labeled_AE               0                          2 (5.6%)                   4 (12.5%)                  3 (8.6%)                    
+         Leukopenia≠B-OSE_Labeled_AE           0                          6 (16.7%)                  8 (25.0%)                  3 (8.6%)                    
+         Lymphadenopathy≠B-OSE_Labeled_AE      0                          2 (5.6%)                   4 (12.5%)                  3 (8.6%)                    
+    Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE             16 (66.7%)                 18 (50.0%)                 19 (59.4%)                 13 (37.1%)                
+         Abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE       1 (4.2%)                   1 (2.8%)                   1 (3.1%)                   4 (11.4%)                   
+         Accidental≠B-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE    1 (4.2%)                   2 (5.6%)                   0                          1 (2.9%)                    
+         Asthenia≠B-OSE_Labeled_AE             2 (8.3%)                   2 (5.6%)                   7 (21.9%)                  1 (2.9%)                    
+         Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE            1 (4.2%)                   2 (5.6%)                   0                          0                           
+         Chills≠B-NonOSE_AE               1 (4.2%)                   0                          3 (9.4%)                   4 (11.4%)                   
+         Facial≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE         1 (4.2%)                   0                          0                          0                           
+         Fever≠B-OSE_Labeled_AE                0                          7 (19.4%)                  7 (21.9%)                  6 (17.1%)                   
+         Headache≠B-OSE_Labeled_AE             3 (12.5%)                  6 (16.7%)                  6 (18.7%)                  4 (11.4%)                   
+         Infection≠B-OSE_Labeled_AE            0                          3 (8.3%)                   2 (6.3%)                   1 (2.9%)                    
+         Malaise≠B-OSE_Labeled_AE              2 (8.3%)                   0                          0                          0                           
+         Neck≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE            1 (4.2%)                   0                          0                          0                           
+         Neck≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE        1 (4.2%)                   0                          0                          0                           
+         Pain≠B-OSE_Labeled_AE                 2 (8.3%)                   0                          1 (3.1%)                   2 (5.7%)                    
+    Digestive≠B-NonOSE_AE   System≠I-NonOSE_AE            5 (20.8%)                  16 (44.4%)                 16 (50.0%)                 15 (42.9%)                
+         Anorexia≠B-OSE_Labeled_AE             0                          1 (2.8%)                   3 (9.4%)                   2 (5.7%)                    
+         Constipation≠B-OSE_Labeled_AE         1 (4.2%)                   1 (2.8%)                   3 (9.4%)                   0                           
+         Diarrhea≠B-NonOSE_AE             1 (4.2%)                   4 (11.1%)                  6 (18.7%)                  6 (17.1%)                   
+         Dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE            0                          3 (8.3%)                   3 (9.4%)                   2 (5.7%)                    
+         Flatulence≠B-OSE_Labeled_AE           0                          3 (8.3%)                   0                          2 (5.7%)                    
+         Liver≠B-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   tests≠I-OSE_Labeled_AE              multiple≠I-OSE_Labeled_AE   abnormalities≠I-OSE_Labeled_AE   0                          0                          3 (9.4%)                   0                           
+         Nausea≠B-OSE_Labeled_AE               1 (4.2%)                   0                          4 (12.5%)                  1 (2.9%)                    
+         Oral≠B-OSE_Labeled_AE   moniliasis≠I-OSE_Labeled_AE      1 (4.2%)                   4 (11.1%)                  2 (6.3%)                   0                           
+         Tooth≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE           1 (4.2%)                   0                          0                          0                           
+    Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   Endocrine≠I-NonOSE_AE   Disorders≠I-NonOSE_AE       1 (4.2%)                   8 (22.2%)                  12 (37.5%)                 8 (22.9%)                 
+         Edema≠B-OSE_Labeled_AE   peripheral≠I-OSE_Labeled_AE     1 (4.2%)                   3 (8.3%)                   1 (3.1%)                   0                           
+         Hyperlipemia≠B-OSE_Labeled_AE         0                          2 (5.6%)                   3 (9.4%)                   1 (2.9%)                    
+         SGOT≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE       0                          1 (2.8%)                   4 (12.5%)                  2 (5.7%)                    
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE              13 (54.2%)                 19 (52.8%)                 18 (56.3%)                 12 (34.3%)                
+         Agitation≠B-OSE_Labeled_AE            0                          0                          3 (9.4%)                   0                           
+         Dizziness≠B-OSE_Labeled_AE            1 (4.2%)                   7 (19.4%)                  6 (18.7%)                  0                           
+         Insomnia≠B-OSE_Labeled_AE             0                          0                          3 (9.4%)                   2 (5.7%)                    
+         Nervousness≠B-OSE_Labeled_AE          0                          1 (2.8%)                   3 (9.4%)                   0                           
+         Neuropathy≠B-OSE_Labeled_AE           0                          3 (8.3%)                   0                          0                           
+         Paresthesia≠B-OSE_Labeled_AE          0                          2 (5.6%)                   5 (15.6%)                  4 (11.4%)                   
+         Somnolence≠B-OSE_Labeled_AE           9 (37.5%)                  13 (36.1%)                 12 (37.5%)                 4 (11.4%)                   
+         Tremor≠B-OSE_Labeled_AE               1 (4.2%)                   0                          0                          0                           
+         Vertigo≠B-OSE_Labeled_AE              2 (8.3%)                   0                          0                          0                           
+    Respiratory≠B-NonOSE_AE   System≠I-NonOSE_AE          3 (12.5%)                  9 (25.0%)                  6 (18.7%)                  9 (25.7%)                 
+         Pharyngitis≠B-OSE_Labeled_AE          1 (4.2%)                   3 (8.3%)                   2 (6.3%)                   2 (5.7%)                    
+         Rhinitis≠B-NonOSE_AE             1 (4.2%)                   0                          0                          4 (11.4%)                   
+         Sinusitis≠B-OSE_Labeled_AE            1 (4.2%)                   3 (8.3%)                   1 (3.1%)                   2 (5.7%)                    
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Appendages≠I-NonOSE_AE         10 (41.7%)                 17 (47.2%)                 18 (56.3%)                 19 (54.3%)                
+         Acne≠B-OSE_Labeled_AE                 0                          4 (11.1%)                  1 (3.1%)                   0                           
+         Dermatitis≠B-OSE_Labeled_AE   fungal≠I-OSE_Labeled_AE    1 (4.2%)                   2 (5.6%)                   3 (9.4%)                   0                           
+         Nail≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE        1 (4.2%)                   0                          1 (3.1%)                   0                           
+         Pruritus≠B-NonOSE_AE             2 (8.3%)                   1 (2.8%)                   2 (6.3%)                   2 (5.7%)                    
+         Rash≠B-NonOSE_AE                 5 (20.8%)                  9 (25.0%)                  8 (25.0%)                  11 (31.4%)                  
+         Rash≠B-OSE_Labeled_AE   maculopapular≠I-OSE_Labeled_AE   1 (4.2%)                   6 (16.7%)                  6 (18.7%)                  2 (5.7%)                    
+         Sweating≠B-NonOSE_AE             0                          0                          4 (12.5%)                  4 (11.4%)                   
+    Urogenital≠B-NonOSE_AE   System≠I-NonOSE_AE           2 (8.3%)                   6 (16.7%)                  2 (6.3%)                   4 (11.4%)                 
+         Albuminuria≠B-OSE_Labeled_AE          0                          3 (8.3%)                   1 (3.1%)                   2 (5.7%)                    
+         Hematuria≠B-OSE_Labeled_AE            0                          4 (11.1%)                  0                          1 (2.9%)                    
+         Impotence≠B-OSE_Labeled_AE            2 (8.3%)                   1 (2.8%)                   0                          0                           
+        Other Adverse Events Observed in ENL Patients  
+ 
+
+ THALOMID in doses up to 400 mg/day has been administered investigationally in the United States over a 19-year period in 1465 patients with  ENL≠B-Not_AE_Candidate . The published literature describes the treatment of an additional 1678 patients. To provide a meaningful estimate of the proportion of the individuals having adverse events, similar types of events were grouped into a smaller number of standardized categories using a modified COSTART dictionary/terminology. These categories are used in the listing below. All reported events are included except those already listed in the previous table. Due to the fact that these data were collected from uncontrolled studies, the incidence rate cannot be determined. No causal relationship between THALOMID and these events can be conclusively determined at this time. These are reports of all adverse events noted by investigators in patients to whom they had administered thalidomide.
+
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE :   ESR≠B-OSE_Labeled_AE   decrease≠I-OSE_Labeled_AE ,  eosinophilia≠B-OSE_Labeled_AE ,  granulocytopenia≠B-OSE_Labeled_AE ,  hypochromic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE ,  leukemia≠B-OSE_Labeled_AE ,  leukocytosis≠B-OSE_Labeled_AE ,  leukopenia≠B-OSE_Labeled_AE ,  MCV≠B-OSE_Labeled_AE   elevated≠I-OSE_Labeled_AE ,  RBC≠B-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  spleen≠B-OSE_Labeled_AE   palpable≠I-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE .
+
+    Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE :   Abdomen≠B-OSE_Labeled_AE   enlarged≠I-OSE_Labeled_AE ,  fever≠B-OSE_Labeled_AE ,  photosensitivity≠B-OSE_Labeled_AE ,  upper≠B-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE .
+
+    Cardiovascular≠B-NonOSE_AE   System≠I-NonOSE_AE :   Bradycardia≠B-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE ,  hypotension≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   vascular≠I-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  tachycardia≠B-OSE_Labeled_AE ,  vasodilation≠B-OSE_Labeled_AE .
+
+    Digestive≠B-NonOSE_AE   System≠I-NonOSE_AE :   Anorexia≠B-OSE_Labeled_AE ,  appetite≠B-OSE_Labeled_AE   increase≠I-OSE_Labeled_AE / weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE ,  enlarged≠B-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE ,  eructation≠B-OSE_Labeled_AE ,  flatulence≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   tests≠I-OSE_Labeled_AE ,  intestinal≠B-OSE_Labeled_AE   obstruction≠I-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE .
+
+    Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   Endocrine≠I-NonOSE_AE :   ADH≠B-OSE_Labeled_AE   inappropriate≠I-OSE_Labeled_AE ,  amyloidosis≠B-OSE_Labeled_AE ,  bilirubinemia≠B-OSE_Labeled_AE ,  BUN≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  creatinine≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  cyanosis≠B-OSE_Labeled_AE ,  diabetes≠B-OSE_Labeled_AE ,  edema≠B-OSE_Labeled_AE ,  electrolyte≠B-OSE_Labeled_AE   abnormalities≠I-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  hyperkalemia≠B-OSE_Labeled_AE ,  hyperuricemia≠B-OSE_Labeled_AE ,  hypocalcemia≠B-OSE_Labeled_AE ,  hypoproteinemia≠B-OSE_Labeled_AE ,  LDH≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  phosphorus≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  SGPT≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE .
+
+    Muscular≠B-NonOSE_AE   Skeletal≠I-NonOSE_AE :   Arthritis≠B-OSE_Labeled_AE ,  bone≠B-OSE_Labeled_AE   tenderness≠I-OSE_Labeled_AE ,  hypertonia≠B-OSE_Labeled_AE ,  joint≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  leg≠B-OSE_Labeled_AE   cramps≠I-OSE_Labeled_AE ,  myalgia≠B-OSE_Labeled_AE ,  myasthenia≠B-OSE_Labeled_AE ,  periosteal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE .
+
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE :   Abnormal≠B-OSE_Labeled_AE   thinking≠I-OSE_Labeled_AE ,  agitation≠B-OSE_Labeled_AE ,  amnesia≠B-OSE_Labeled_AE ,  anxiety≠B-OSE_Labeled_AE ,  causalgia≠B-OSE_Labeled_AE ,  circumoral≠B-OSE_Labeled_AE   paresthesia≠I-OSE_Labeled_AE ,  confusion≠B-OSE_Labeled_AE ,  depression≠B-OSE_Labeled_AE ,  euphoria≠B-OSE_Labeled_AE ,  hyperesthesia≠B-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  nervousness≠B-OSE_Labeled_AE ,  neuralgia≠B-OSE_Labeled_AE ,  neuritis≠B-OSE_Labeled_AE ,  neuropathy≠B-OSE_Labeled_AE ,  paresthesia≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   neuritis≠I-OSE_Labeled_AE ,  psychosis≠B-OSE_Labeled_AE .
+
+    Respiratory≠B-NonOSE_AE   System≠I-NonOSE_AE :   Cough≠B-OSE_Labeled_AE ,  emphysema≠B-OSE_Labeled_AE ,  epistaxis≠B-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   embolus≠I-OSE_Labeled_AE ,  rales≠B-OSE_Labeled_AE ,  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  voice≠B-OSE_Labeled_AE   alteration≠I-OSE_Labeled_AE .
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Appendages≠I-NonOSE_AE :   Acne≠B-OSE_Labeled_AE ,  alopecia≠B-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE ,  eczematous≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE ,  exfoliative≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ,  ichthyosis≠B-OSE_Labeled_AE ,  perifollicular≠B-OSE_Labeled_AE   thickening≠I-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   necrosis≠I-OSE_Labeled_AE ,  seborrhea≠B-OSE_Labeled_AE ,  sweating≠B-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE ,  vesiculobullous≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE .
+
+    Special≠B-NonOSE_AE   Senses≠I-NonOSE_AE :   Amblyopia≠B-OSE_Labeled_AE ,  deafness≠B-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   eye≠I-OSE_Labeled_AE ,  eye≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  tinnitus≠B-OSE_Labeled_AE .
+
+    Urogenital≠B-NonOSE_AE :   Decreased≠B-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE   clearance≠I-OSE_Labeled_AE ,  hematuria≠B-OSE_Labeled_AE ,  orchitis≠B-OSE_Labeled_AE ,  proteinuria≠B-OSE_Labeled_AE ,  pyuria≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   frequency≠I-OSE_Labeled_AE .
+
+   Other Adverse Events Observed in HIV-seropositive Patients  
+
+ In addition to controlled clinical trials, THALOMID has been used in uncontrolled studies in 145 patients. Less frequent adverse events that have been reported in these  HIV≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  seropositive≠I-Not_AE_Candidate  patients treated with THALOMID were grouped into a smaller number of standardized categories using modified COSTART dictionary/terminology and these categories are used in the listing below. Adverse events that have already been included in the tables and narrative above, or that are too general to be informative are not listed.
+
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE :   Aplastic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE ,  macrocytic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE ,  megaloblastic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE ,  microcytic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE .
+
+    Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE :   Ascites≠B-OSE_Labeled_AE ,  AIDS≠B-OSE_Labeled_AE ,  allergic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  cellulitis≠B-OSE_Labeled_AE ,  chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE  and  fever≠B-OSE_Labeled_AE ,  cyst≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   CD≠I-OSE_Labeled_AE  4≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE ,  facial≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  flu≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  hernia≠B-OSE_Labeled_AE ,  thyroid≠B-OSE_Labeled_AE   hormone≠I-OSE_Labeled_AE   level≠I-OSE_Labeled_AE   altered≠I-OSE_Labeled_AE ,  moniliasis≠B-OSE_Labeled_AE ,  photosensitivity≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  sarcoma≠B-OSE_Labeled_AE ,  sepsis≠B-OSE_Labeled_AE ,  viral≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE .
+
+    Cardiovascular≠B-NonOSE_AE   System≠I-NonOSE_AE :   Angina≠B-OSE_Labeled_AE   pectoris≠I-OSE_Labeled_AE ,  arrhythmia≠B-OSE_Labeled_AE ,  atrial≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE ,  bradycardia≠B-OSE_Labeled_AE ,  cerebral≠B-OSE_Labeled_AE   ischemia≠I-OSE_Labeled_AE ,  cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE ,  congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  deep≠B-OSE_Labeled_AE   thrombophlebitis≠I-OSE_Labeled_AE ,  heart≠B-OSE_Labeled_AE   arrest≠I-OSE_Labeled_AE ,  heart≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE ,  hypotension≠B-OSE_Labeled_AE ,  murmur≠B-OSE_Labeled_AE ,  myocardial≠B-OSE_Labeled_AE   infarct≠I-OSE_Labeled_AE ,  palpitation≠B-OSE_Labeled_AE ,  pericarditis≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   vascular≠I-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  postural≠B-OSE_Labeled_AE   hypotension≠I-OSE_Labeled_AE ,  syncope≠B-OSE_Labeled_AE ,  tachycardia≠B-OSE_Labeled_AE ,  thrombophlebitis≠B-OSE_Labeled_AE ,  thrombosis≠B-OSE_Labeled_AE .
+
+    Digestive≠B-NonOSE_AE   System≠I-NonOSE_AE :   Cholangitis≠B-OSE_Labeled_AE ,  cholestatic≠B-OSE_Labeled_AE   jaundice≠I-OSE_Labeled_AE ,  colitis≠B-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE ,  dysphagia≠B-OSE_Labeled_AE ,  esophagitis≠B-OSE_Labeled_AE ,  gastroenteritis≠B-OSE_Labeled_AE ,  gastrointestinal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  gastrointestinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  gum≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  hepatitis≠B-OSE_Labeled_AE ,  pancreatitis≠B-OSE_Labeled_AE ,  parotid≠B-OSE_Labeled_AE   gland≠I-OSE_Labeled_AE   enlargement≠I-OSE_Labeled_AE ,  periodontitis≠B-OSE_Labeled_AE ,  stomatitis≠B-OSE_Labeled_AE ,  tongue≠B-OSE_Labeled_AE   discoloration≠I-OSE_Labeled_AE ,  tooth≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE .
+
+    Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   Endocrine≠I-NonOSE_AE :   Avitaminosis≠B-OSE_Labeled_AE ,  bilirubinemia≠B-OSE_Labeled_AE ,  dehydration≠B-OSE_Labeled_AE ,  hypercholesterolemia≠B-OSE_Labeled_AE ,  hypoglycemia≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   alkaline≠I-OSE_Labeled_AE   phosphatase≠I-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   lipase≠I-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE .
+
+    Muscular≠B-NonOSE_AE   Skeletal≠I-NonOSE_AE :   Myalgia≠B-OSE_Labeled_AE ,  myasthenia≠B-OSE_Labeled_AE .
+
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE :   Abnormal≠B-OSE_Labeled_AE   gait≠I-OSE_Labeled_AE ,  ataxia≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   libido≠I-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   reflexes≠I-OSE_Labeled_AE ,  dementia≠B-OSE_Labeled_AE ,  dysesthesia≠B-OSE_Labeled_AE ,  dyskinesia≠B-OSE_Labeled_AE ,  emotional≠B-OSE_Labeled_AE   lability≠I-OSE_Labeled_AE ,  hostility≠B-OSE_Labeled_AE ,  hypalgesia≠B-OSE_Labeled_AE ,  hyperkinesia≠B-OSE_Labeled_AE ,  incoordination≠B-OSE_Labeled_AE ,  meningitis≠B-OSE_Labeled_AE ,  neurologic≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  vertigo≠B-OSE_Labeled_AE .
+
+    Respiratory≠B-NonOSE_AE   System≠I-NonOSE_AE :   Apnea≠B-OSE_Labeled_AE ,  bronchitis≠B-OSE_Labeled_AE ,  lung≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  lung≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  pneumonia≠B-OSE_Labeled_AE  (including  Pneumocystis≠B-OSE_Labeled_AE   carinii≠I-OSE_Labeled_AE   pneumonia≠I-OSE_Labeled_AE ),  rhinitis≠B-OSE_Labeled_AE .
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Appendages≠I-NonOSE_AE :   Angioedema≠B-OSE_Labeled_AE ,  benign≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE   neoplasm≠I-OSE_Labeled_AE ,  eczema≠B-OSE_Labeled_AE ,  herpes≠B-OSE_Labeled_AE   simplex≠I-OSE_Labeled_AE , incomplete  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  nail≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE ,  psoriasis≠B-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   discoloration≠I-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE .
+
+    Special≠B-NonOSE_AE   Senses≠I-NonOSE_AE :   Conjunctivitis≠B-OSE_Labeled_AE ,  eye≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  lacrimation≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  retinitis≠B-OSE_Labeled_AE ,  taste≠B-OSE_Labeled_AE   perversion≠I-OSE_Labeled_AE .
+
+   6.2 Postmarketing Experience
+
+  The following additional adverse reactions have been identified during post approval use of THALOMID and are not already included in Clinical Trials Experience  [see  Adverse Reactions (6.1)  ]  . Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE :   Decreased≠B-OSE_Labeled_AE   white≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   counts≠I-OSE_Labeled_AE  including  febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE ,  changes≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   prothrombin≠I-OSE_Labeled_AE   time≠I-OSE_Labeled_AE ,  pancytopenia≠B-OSE_Labeled_AE ,  chronic≠B-OSE_Labeled_AE   myelogenous≠I-OSE_Labeled_AE   leukemia≠I-OSE_Labeled_AE ,  nodular≠B-OSE_Labeled_AE   sclerosing≠I-OSE_Labeled_AE   Hodgkin≠I-OSE_Labeled_AE  '≠I-OSE_Labeled_AE  s≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE ,  erythroleukemia≠B-OSE_Labeled_AE ,  lymphedema≠B-OSE_Labeled_AE ,  lymphopenia≠B-OSE_Labeled_AE .
+
+    Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE :   Hangover≠B-OSE_Labeled_AE   effect≠I-OSE_Labeled_AE 
+
+    Cardiovascular≠B-NonOSE_AE   System≠I-NonOSE_AE :   Sick≠B-OSE_Labeled_AE   sinus≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  EKG≠B-OSE_Labeled_AE   abnormalities≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   hypertension≠I-OSE_Labeled_AE .
+
+    Digestive≠B-NonOSE_AE   System≠I-NonOSE_AE :   Intestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE ,  gastrointestinal≠B-OSE_Labeled_AE   perforations≠I-OSE_Labeled_AE ,  bile≠B-OSE_Labeled_AE   duct≠I-OSE_Labeled_AE   obstruction≠I-OSE_Labeled_AE ,  stomach≠B-OSE_Labeled_AE   ulcer≠I-OSE_Labeled_AE ,  aphthous≠B-OSE_Labeled_AE ,  stomatitis≠B-OSE_Labeled_AE .
+
+    Ear≠B-NonOSE_AE   and≠I-NonOSE_AE   Labyrinthine≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :   Hearing≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE .
+
+    Immune≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :   Hypersensitivity≠B-OSE_Labeled_AE .
+
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE :  Severe  infections≠B-OSE_Labeled_AE  (e.g.,  fatal≠B-NonOSE_AE   sepsis≠B-OSE_Labeled_AE  including  septic≠B-OSE_Labeled_AE   shock≠I-OSE_Labeled_AE ) and  viral≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  (including  varicella≠B-OSE_Labeled_AE   zoster≠I-OSE_Labeled_AE   virus≠I-OSE_Labeled_AE ,  cytomegalovirus≠B-OSE_Labeled_AE , and  hepatitis≠B-OSE_Labeled_AE   B≠I-OSE_Labeled_AE   virus≠I-OSE_Labeled_AE   reactivation≠I-OSE_Labeled_AE ).
+
+    Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   Endocrine≠I-NonOSE_AE :   Electrolyte≠B-OSE_Labeled_AE   imbalance≠I-OSE_Labeled_AE  including  hypercalcemia≠B-OSE_Labeled_AE ,  hyponatremia≠B-OSE_Labeled_AE  and  hypomagnesemia≠B-OSE_Labeled_AE ,  hypothyroidism≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   alkaline≠I-OSE_Labeled_AE   phosphatase≠I-OSE_Labeled_AE ,  tumor≠B-OSE_Labeled_AE   lysis≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  myxedema≠B-OSE_Labeled_AE .
+
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE :   Changes≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   mental≠I-OSE_Labeled_AE   status≠I-OSE_Labeled_AE  or mood including  suicide≠B-OSE_Labeled_AE   attempts≠I-OSE_Labeled_AE ,  disturbances≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   consciousness≠I-OSE_Labeled_AE  including  lethargy≠B-OSE_Labeled_AE ,  loss≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   consciousness≠I-OSE_Labeled_AE  or  stupor≠B-OSE_Labeled_AE ,  seizures≠B-OSE_Labeled_AE  including  grand≠B-OSE_Labeled_AE   mal≠I-OSE_Labeled_AE   convulsions≠I-OSE_Labeled_AE  and  status≠B-OSE_Labeled_AE   epilepticus≠I-OSE_Labeled_AE ,  Parkinson≠B-OSE_Labeled_AE  '≠I-OSE_Labeled_AE  s≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE ,  stroke≠B-OSE_Labeled_AE ,  carpal≠B-OSE_Labeled_AE   tunnel≠I-OSE_Labeled_AE ,  Raynaud≠B-OSE_Labeled_AE  '≠I-OSE_Labeled_AE  s≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  migraine≠B-OSE_Labeled_AE ,  foot≠B-OSE_Labeled_AE   drop≠I-OSE_Labeled_AE .
+
+    Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   Urinary≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :   Renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  acute≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  oliguria≠B-OSE_Labeled_AE ,  enuresis≠B-OSE_Labeled_AE .
+
+    Reproductive≠B-NonOSE_AE   System≠I-NonOSE_AE   and≠I-NonOSE_AE   Breast≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :   amenorrhea≠B-OSE_Labeled_AE ,  sexual≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE ,  galactorrhea≠B-OSE_Labeled_AE ,  gynecomastia≠B-OSE_Labeled_AE ,  metrorrhagia≠B-OSE_Labeled_AE .
+
+    Respiratory≠B-NonOSE_AE   System≠I-NonOSE_AE :   Pleural≠B-OSE_Labeled_AE   effusion≠I-OSE_Labeled_AE ,  interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE .
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Appendages≠I-NonOSE_AE :   Erythema≠B-OSE_Labeled_AE   multiforme≠I-OSE_Labeled_AE ,  erythema≠B-OSE_Labeled_AE   nodosum≠I-OSE_Labeled_AE ,  toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE ,  purpura≠B-OSE_Labeled_AE ,  petechiae≠B-OSE_Labeled_AE .
+
+    Special≠B-NonOSE_AE   Senses≠I-NonOSE_AE :   Diplopia≠B-OSE_Labeled_AE ,  nystagmus≠B-OSE_Labeled_AE 
+

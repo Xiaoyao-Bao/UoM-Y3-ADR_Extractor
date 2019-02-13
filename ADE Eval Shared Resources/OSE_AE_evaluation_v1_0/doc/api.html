@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- Copyright (C) 2018 The MITRE Corporation. See the toplevel
+file LICENSE.txt for license terms. -->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html;
+      charset=windows-1252">
+    <title>ADE Eval: API</title>
+    <link href="css/doc.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <h1>API</h1>
+    <p>You can use our Python 2 API to create your submissions, if you
+      choose. <br>
+    </p>
+    <p>If you're starting from the annotated training corpus, use the <a
+        href="convert_gold_to_submission.html">convert_gold_to_submission.py</a>
+      script to generate an unannotated submission corpus. If you're
+      starting from the unannotated test corpus, you may use that
+      directory directly.<br>
+    </p>
+    <p>Let's say this codebase is in
+      /proj/ade_eval/OSE_AE_evaluation_v1_0, and the unannotated
+      submission corpus is in /proj/ade_eval/submission_input, and you
+      want to place the output in /proj/ade_eval/submission.<br>
+    </p>
+    <pre>OSE_EVAL = "/proj/ade_eval/OSE_AE_evaluation_v1_0"<br>SUBMISSION_INPUT = "/proj/ade_eval/submission_input"<br>SUBMISSION_OUTPUT = "/proj/ade_eval/submission"</pre>
+    <p>First, set up your path and import the appropriate classes:<br>
+    </p>
+    <pre>import sys, os<br><br>sys.path.insert(0, os.path.join(OSE_EVAL, "lib", "python"))<br>from OSE_AE.corpus import Corpus<br>from OSE_AE.ose_eval_format import OSESubmissionEvalFormat<br></pre>
+    Load the corpus:<br>
+    <pre>c = Corpus(SUBMISSION_INPUT, OSESubmissionEvalFormat())<br>c.load()<br></pre>
+    <p>For each label, for each section, add your annotations:<br>
+    </p>
+    <pre>for goldLabel in c.labels.values():<br>    for section in goldLabel.sections:<br><br>        # Each section object has the following attributes:<br>        # text: the Unicode text contents of the section<br>        # name: one of "adverse reactions", "warnings and precautions", "boxed warnings", "warnings", "precautions"<br>        # id: the ID of the section<br>        <br>        # set up a counter for mention IDs.<br>        i = 0<br>        <br>        # In the examples below, s&lt;n&gt; is the start offset of the span, len&lt;n&gt; is the<br>        # length, ptName is the MedDRA PT, ptCode is the code for the MedDRA PT,<br>        # lltName is the MedDRA low-level term, lltCode is the code for the LLT.<br><br>        # To add a non-discontinuous mention with no MedDRA LLT information:<br>        section.addMention("M"+str(i), "OSE_Labeled_AE", [(s1, len1)], ptName, ptCode)<br>        i += 1<br><br>        # To add a discontinuous mention with no MedDRA LLT information:<br>        section.addMention("M"+str(i), "OSE_Labeled_AE", [(s1, len1), (s2, len2)], ptName, ptCode)<br>        i += 1<br><br>        # To add a continuous mention with low-level term information:<br>&nbsp;       section.addMention("M"+str(i), "OSE_Labeled_AE", [(s1, len1)], <br>                           ptName, ptCode, meddra_llt = lltName, meddra_llt_id = lltCode)<br>        i += 1<br>        ... <br></pre>
+    <p>Once you've added all your annotations, create the output
+      directory, redirect the corpus, and save:<br>
+    </p>
+    <pre>if not os.path.exists(SUBMISSION_OUTPUT):<br>    os.makedirs(SUBMISSION_OUTPUT)<br><br>c.dir = SUBMISSION_OUTPUT<br>c.write()<br></pre>
+  </body>
+</html>

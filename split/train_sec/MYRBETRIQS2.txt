@@ -1,0 +1,48 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *     Increases in Blood Pressure: MYRBETRIQ  (r)  can increase blood pressure. Periodic blood pressure determinations are recommended, especially in hypertensive patients. MYRBETRIQ  (r)  is not recommended for use in severe uncontrolled hypertensive patients (  5.1  ). 
+ *     Urinary Retention in Patients With Bladder Outlet Obstruction and in Patients Taking Antimuscarinic Drugs for Overactive Bladder: Administer with caution in these patients because of risk of urinary retention (  5.2  ). 
+ *     Angioedema: Angioedema of the face, lips, tongue and/or larynx has been reported with MYRBETRIQ  (r)  (  5.3  ,  6.2  ). 
+ *     Patients Taking Drugs Metabolized by CYP2D6: MYRBETRIQ  (r)  is a moderate inhibitor of CYP2D6. Appropriate monitoring is recommended and dose adjustment may be necessary for narrow therapeutic index CYP2D6 substrates (  5.4  ,  7.1  ,  12.3  ). 
+    
+ 
+
+   5.1 Increases in Blood Pressure
+
+
+
+  MYRBETRIQ  (r)  can  increase≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE . Periodic blood pressure determinations are recommended, especially in  hypertensive≠B-Not_AE_Candidate  patients. MYRBETRIQ  (r)  is not recommended for use in patients with severe  uncontrolled≠B-Not_AE_Candidate   hypertension≠I-Not_AE_Candidate  (defined as  systolic≠B-Not_AE_Candidate   blood≠I-Not_AE_Candidate   pressure≠I-Not_AE_Candidate   greater≠I-Not_AE_Candidate   than≠I-Not_AE_Candidate   or≠I-Not_AE_Candidate   equal≠I-Not_AE_Candidate   to≠I-Not_AE_Candidate   1≠I-Not_AE_Candidate  8≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   mm≠I-Not_AE_Candidate   Hg≠I-Not_AE_Candidate  and/or  diastolic≠B-Not_AE_Candidate   blood≠I-Not_AE_Candidate   pressure≠I-Not_AE_Candidate   greater≠I-Not_AE_Candidate   than≠I-Not_AE_Candidate   or≠I-Not_AE_Candidate   equal≠I-Not_AE_Candidate   to≠I-Not_AE_Candidate   1≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   mm≠I-Not_AE_Candidate   Hg≠I-Not_AE_Candidate ) [see  Clinical Pharmacology  (  12.2  )].  
+
+
+
+ In two, randomized, placebo-controlled, healthy volunteer studies, MYRBETRIQ  (r)  was associated with dose-related  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   supine≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE . In these studies, at the maximum recommended dose of 50 mg, the mean maximum  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   systolic≠I-OSE_Labeled_AE /diastolic blood pressure was approximately 3.5/1.5 mm Hg greater than placebo.
+
+
+
+ In contrast, in  OAB≠B-Not_AE_Candidate  patients in clinical trials, the mean  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   systolic≠I-OSE_Labeled_AE  and diastolic  blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE  at the maximum recommended dose of 50 mg was approximately 0.5 - 1 mm Hg greater than placebo.  Worsening≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   pre≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  existing≠I-OSE_Labeled_AE   hypertension≠I-OSE_Labeled_AE  was reported infrequently in MYRBETRIQ  (r)  patients.
+
+
+
+    5.2 Urinary Retention in Patients with Bladder Outlet Obstruction and in Patients Taking Antimuscarinic Medications for OAB
+
+
+
+   Urinary≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE  in patients with  bladder≠B-Not_AE_Candidate   outlet≠I-Not_AE_Candidate   obstruction≠I-Not_AE_Candidate  (BOO) and in patients taking antimuscarinic medications for the treatment of  OAB≠B-Not_AE_Candidate  has been reported in postmarketing experience in patients taking mirabegron. A controlled clinical safety study in patients with  BOO≠B-Not_AE_Candidate  did not demonstrate  increased≠B-NonOSE_AE   urinary≠I-NonOSE_AE   retention≠I-NonOSE_AE  in MYRBETRIQ  (r)  patients; however, MYRBETRIQ  (r)  should be administered with caution to patients with clinically significant  BOO≠B-Not_AE_Candidate . MYRBETRIQ  (r)  should also be administered with caution to patients taking antimuscarinic medications for the treatment of  OAB≠B-Not_AE_Candidate  [see  Clinical Pharmacology  (  12.2  )].  
+
+
+
+    5.3 Angioedema
+
+
+
+    Angioedema≠B-OSE_Labeled_AE  of the face, lips, tongue, and/or larynx has been reported with MYRBETRIQ  (r)  . In some cases  angioedema≠B-OSE_Labeled_AE  occurred after the first dose. Cases of  angioedema≠B-OSE_Labeled_AE  have been reported to occur hours after the first dose or after multiple doses.  Angioedema≠B-NonOSE_AE  associated with  upper≠B-NonOSE_AE   airway≠I-NonOSE_AE   swelling≠I-NonOSE_AE  may be life threatening. If involvement of the tongue, hypopharynx, or larynx occurs, promptly discontinue MYRBETRIQ  (r)  and initiate appropriate therapy and/or measures necessary to ensure a patent airway [see  Adverse Reactions  (  6.2  )].    
+
+
+
+    5.4 Patients Taking Drugs Metabolized by CYP2D6
+
+
+
+  Since mirabegron is a moderate CYP2D6 inhibitor, the systemic exposure to CYP2D6 substrates such as metoprolol and desipramine is increased when co-administered with mirabegron. Therefore, appropriate monitoring and dose adjustment may be necessary, especially with narrow therapeutic index drugs metabolized by CYP2D6, such as thioridazine, flecainide, and propafenone [see  Drug Interactions  (  7.1  ) and  Clinical Pharmacology  (  12.3  )]  .

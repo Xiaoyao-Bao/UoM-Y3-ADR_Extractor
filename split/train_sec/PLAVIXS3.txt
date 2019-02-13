@@ -1,0 +1,34 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  CYP2C19 inhibitors: Avoid concomitant use of omeprazole or esomeprazole. (  5.1  ) 
+ *  Bleeding: Plavix increases risk of bleeding. (  5.2  ) 
+ *  Discontinuation: Premature discontinuation increases risk of cardiovascular events. Discontinue 5 days prior to elective surgery that has a major risk of bleeding. (  5.3  ) 
+ *  Thrombotic thrombocytopenic purpura (TTP) has been reported. (  5.4  ) 
+ *  Cross-reactivity among thienopyridines has been reported. (  5.5  ) 
+    
+ 
+
+   5.1 Diminished Antiplatelet Activity in Patients with Impaired CYP2C19 Function
+
+  Clopidogrel is a prodrug.  Inhibition≠B-NonOSE_AE   of≠I-NonOSE_AE   platelet≠I-NonOSE_AE   aggregation≠I-NonOSE_AE  by clopidogrel is achieved through an active metabolite. The metabolism of clopidogrel to its active metabolite can be impaired by  genetic≠B-Not_AE_Candidate   variations≠I-Not_AE_Candidate   in≠I-Not_AE_Candidate   CYP≠I-Not_AE_Candidate  2≠I-Not_AE_Candidate  C≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  9≠I-Not_AE_Candidate  [see  Boxed Warning  ].  
+
+ The metabolism of clopidogrel can also be impaired by drugs that inhibit CYP2C19, such as omeprazole or esomeprazole. Avoid concomitant use of Plavix with omeprazole or esomeprazole because both significantly  reduce≠B-NonOSE_AE   the≠I-NonOSE_AE   antiplatelet≠I-NonOSE_AE   activity≠I-NonOSE_AE  of Plavix [see  Drug Interactions (7.1)  ]  .
+
+    5.2 General Risk of Bleeding
+
+  Thienopyridines, including Plavix, increase the risk of  bleeding≠B-OSE_Labeled_AE .
+
+ Thienopyridines  inhibit≠B-NonOSE_AE   platelet≠I-NonOSE_AE   aggregation≠I-NonOSE_AE  for the lifetime of the platelet (7-10 days). Because the half-life of clopidogrel's active metabolite is short, it may be possible to restore hemostasis by administering exogenous platelets; however, platelet transfusions within 4 hours of the loading dose or 2 hours of the maintenance dose may be less effective.
+
+    5.3 Discontinuation of Plavix
+
+  Discontinuation of Plavix increases the risk of  cardiovascular≠B-NonOSE_AE   events≠I-NonOSE_AE . If Plavix must be temporarily discontinued (e.g., to treat  bleeding≠B-Not_AE_Candidate  or for surgery with a major risk of  bleeding≠B-Not_AE_Candidate ), restart it as soon as possible. When possible, interrupt therapy with Plavix for five days prior to such surgery. Resume Plavix as soon as hemostasis is achieved.
+
+    5.4  Thrombotic≠B-OSE_Labeled_AE   Thrombocytopenic≠I-OSE_Labeled_AE   Purpura≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  TTP≠I-OSE_Labeled_AE )
+
+   TTP≠B-OSE_Labeled_AE , sometimes fatal, has been reported following use of Plavix, sometimes after a short exposure (<2 weeks).  TTP≠B-NonOSE_AE  is a serious condition that requires urgent treatment including plasmapheresis (plasma exchange). It is characterized by  thrombocytopenia≠B-NonOSE_AE ,  microangiopathic≠B-NonOSE_AE   hemolytic≠I-NonOSE_AE   anemia≠I-NonOSE_AE  ( schistocytes≠B-NonOSE_AE  [fragmented RBCs] seen on peripheral smear),  neurological≠B-NonOSE_AE   findings≠I-NonOSE_AE ,  renal≠B-NonOSE_AE   dysfunction≠I-NonOSE_AE , and  fever≠B-NonOSE_AE  [see  Adverse Reactions (6.2)  ].  
+
+    5.5 Cross-Reactivity among Thienopyridines
+
+   Hypersensitivity≠B-OSE_Labeled_AE  including  rash≠B-OSE_Labeled_AE ,  angioedema≠B-OSE_Labeled_AE  or  hematologic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE  has been reported in patients receiving Plavix, including patients with a  history≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate  hypersensitivity or  hematologic≠I-Not_AE_ Candidate≠B-Not_AE_Candidate     reac≠I-Not_AE_Candidate tion≠I-Not_AE_Candidate  to other thienopyridines [see  Contraindications (4.2)  and  Adverse Reactions (6.2)  ]  .
+

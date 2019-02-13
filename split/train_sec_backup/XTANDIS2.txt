@@ -1,0 +1,21 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *    Seizure occurred in 0.5% of patients receiving XTANDI. In patients with predisposing factors, seizures were reported in 2.2% of patients. Permanently discontinue XTANDI in patients who develop a seizure during treatment. (  5.1  ) 
+ *    Posterior reversible encephalopathy syndrome (PRES): Discontinue XTANDI. (  5.2  ) 
+    
+ 
+
+    5.1 Seizure  
+
+   Seizure occurred in 0.5% of patients receiving XTANDI in clinical studies. In these trials patients with predisposing factors for seizure were generally excluded. Seizure occurred from 31 to 603 days after initiation of XTANDI. Patients experiencing seizure were permanently discontinued from therapy and all seizure events resolved.  
+
+  In a single-arm trial designed to assess the risk of seizure in patients with pre-disposing factors for seizure, 8 of 366 (2.2%) XTANDI-treated patients experienced a seizure. Three of the 8 patients experienced a second seizure during continued treatment with XTANDI after their first seizure resolved. It is unknown whether anti-epileptic medications will prevent seizures with XTANDI. Patients in the study had one or more of the following pre-disposing factors: the use of medications that may lower the seizure threshold (~ 54%), history of traumatic brain or head injury (~ 28%), history of cerebrovascular accident or transient ischemic attack (~ 24%), and Alzheimer's disease, meningioma, or leptomeningeal disease from prostate cancer, unexplained loss of consciousness within the last 12 months, past history of seizure, presence of a space occupying lesion of the brain, history of arteriovenous malformation, or history of brain infection (all < 5%). Approximately 17% of patients had more than one risk factor.  
+
+  Advise patients of the risk of developing a seizure while receiving XTANDI and of engaging in any activity where sudden loss of consciousness could cause serious harm to themselves or others.  
+
+  Permanently discontinue XTANDI in patients who develop a seizure during treatment.  
+
+    5.2 Posterior Reversible Encephalopathy Syndrome (PRES)
+
+  There have been reports of posterior reversible encephalopathy syndrome (PRES) in patients receiving XTANDI [see  Adverse Reactions  (  6.2  )]  . PRES is a neurological disorder which can present with rapidly evolving symptoms including seizure, headache, lethargy, confusion, blindness, and other visual and neurological disturbances, with or without associated hypertension. A diagnosis of PRES requires confirmation by brain imaging, preferably magnetic resonance imaging (MRI). Discontinue XTANDI in patients who develop PRES.
+

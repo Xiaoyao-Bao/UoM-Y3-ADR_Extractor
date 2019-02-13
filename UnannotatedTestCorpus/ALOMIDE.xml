@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ALOMIDE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS:
+
+  During clinical studies of ALOMIDE(r) (lodoxamide tromethamine ophthalmic solution) 0.1%, the most frequently reported ocular adverse experiences were transient burning, stinging, or discomfort upon instillation, which occurred in approximately 15% of the subjects. Other ocular events occurring in 1 to 5% of the subjects included ocular itching/pruritus, blurred vision, dry eye, tearing/discharge, hyperemia, crystalline deposits, and foreign body sensation. Events that occurred in less than 1% of the subjects included corneal erosion/ulcer, scales on lid/lash, eye pain, ocular edema/swelling, ocular warming sensation, ocular fatigue, chemosis, corneal abrasion, anterior chamber cells, keratopathy/keratitis, blepharitis, allergy, sticky sensation, and epitheliopathy.
+
+
+
+ Nonocular events reported were headache (1.5%) and (at less than 1%) heat sensation, dizziness, somnolence, nausea, stomach discomfort, sneezing, dry nose, and rash.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS:
+
+
+
+   General:
+
+
+
+  Patients may experience a transient burning or stinging upon instillation of ALOMIDE(r) (lodoxamide tromethamine ophthalmic solution) 0.1%. Should these symptoms persist, the patient should be advised to contact the prescribing physician.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility:
+
+
+
+  A long-term study with lodoxamide tromethamine in rats (two-year oral administration) showed no neoplastic or tumorigenic effects at doses 100 mg/kg/day (more than 5000 times the proposed human clinical dose). No evidence of mutagenicity or genetic damage was seen in the Ames Salmonella  Assay, Chromosomal Aberration in CHO Cells Assay, or Mouse Forward Lymphoma Assay. In the BALB/c-3T3 Cells Transformation Assay, some increase in the number of transformed foci was seen at high concentrations (greater than 4000 mcg/mL). No evidence of impairment of reproductive function was shown in laboratory animal studies.
+
+
+
+    Pregnancy:
+
+
+
+  Reproduction studies with lodoxamide tromethamine administered orally to rats and rabbits in doses of 100 mg/kg/day (more than 5000 times the proposed human clinical dose) produced no evidence of developmental toxicity. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, ALOMIDE(r) (lodoxamide tromethamine ophthalmic solution) 0.1% should be used during pregnancy only if clearly needed.
+
+
+
+    Nursing Mothers:
+
+
+
+  It is not known whether lodoxamide tromethamine is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when ALOMIDE  (r)  Ophthalmic Solution 0.1% is administered to nursing women.
+
+
+
+    Pediatric Use:
+
+
+
+  Safety and effectiveness in pediatric patients below the age of 2 years have not been established.
+
+
+
+    Geriatric Use:
+
+
+
+  No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS:
+
+
+
+  FOR TOPICAL OPHTHALMIC USE ONLY. NOT FOR INJECTION. As with all ophthalmic preparations containing benzalkonium chloride, patients should be instructed not to wear soft contact lenses during treatment with ALOMIDE(r) (lodoxamide tromethamine ophthalmic solution) 0.1%. Do not touch the dropper tip to any surface, as this may contaminate the solution.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="18" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="12" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="9" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S2" start="23" />
+    <IgnoredRegion len="53" name="heading" section="S2" start="283" />
+    <IgnoredRegion len="10" name="heading" section="S2" start="966" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="1487" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="1744" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="1870" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

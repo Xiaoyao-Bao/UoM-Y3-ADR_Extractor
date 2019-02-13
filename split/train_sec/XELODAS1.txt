@@ -1,0 +1,319 @@
+  6 ADVERSE REACTIONS
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+   EXCERPT:   Most common adverse reactions (>=30%) were diarrhea, hand-and-foot syndrome, nausea, vomiting, abdominal pain, fatigue/weakness, and hyperbilirubinemia. Other adverse reactions, including serious adverse reactions, have been reported. (  6  )
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Genentech at 1-888-835-2555 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+ 
+
+  6.1 Adjuvant Colon Cancer
+
+      Table 4    shows the adverse reactions occurring in >=5% of patients from one phase 3 trial in patients with  Dukes≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate   C≠I-Not_AE_Candidate   colon≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  who received at least one dose of study medication and had at least one safety assessment. A total of 995 patients were treated with 1250 mg/m  2  twice a day of XELODA administered for 2 weeks followed by a 1-week rest period, and 974 patients were administered 5-FU and leucovorin (20 mg/m  2  leucovorin IV followed by 425 mg/m  2  IV bolus 5-FU on days 1-5 every 28 days). The median duration of treatment was 164 days for capecitabine-treated patients and 145 days for 5-FU/LV-treated patients. A total of 112 (11%) and 73 (7%) capecitabine and 5-FU/LV-treated patients, respectively, discontinued treatment because of adverse reactions. A total of 18  deaths≠B-NonOSE_AE  due to all causes occurred either on study or within 28 days of receiving study drug: 8 (0.8%) patients randomized to XELODA and 10 (1.0%) randomized to 5-FU/LV.
+
+     Table 5    shows grade 3/4  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  occurring in >=1% of patients from one phase 3 trial in patients with  Dukes≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate   C≠I-Not_AE_Candidate   colon≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  who received at least one dose of study medication and had at least one safety assessment.
+
+ Table 4 Percent Incidence of Adverse Reactions Reported in >=5% of Patients Treated With XELODA or 5-FU/LV for Colon Cancer in the Adjuvant Setting (Safety Population) 
+                                   Adjuvant Treatment for Colon Cancer (N=1969)   
+                                     XELODA(N=995)     5-FU/LV(N=974)     
+ Body System/Adverse Event            All Grades          Grade 3/4         All Grades          Grade 3/4       
+  
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                    
+    Diarrhea≠B-OSE_Labeled_AE                                47                 12                 65                 14           
+    Nausea≠B-OSE_Labeled_AE                                  34                  2                 47                  2           
+    Stomatitis≠B-OSE_Labeled_AE                              22                  2                 60                 14           
+    Vomiting≠B-OSE_Labeled_AE                                15                  2                 21                  2           
+    Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                          14                  3                 16                  2           
+    Constipation≠B-OSE_Labeled_AE                             9                  -                 11                 <1           
+    Upper≠B-OSE_Labeled_AE   Abdominal≠I-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                     7                 <1                  7                 <1           
+    Dyspepsia≠B-OSE_Labeled_AE                                6                 <1                  5                  -           
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                  
+    Hand≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  and≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Foot≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE                  60                 17                  9                 <1           
+    Alopecia≠B-OSE_Labeled_AE                                 6                  -                 22                 <1           
+    Rash≠B-OSE_Labeled_AE                                     7                  -                  8                  -           
+    Erythema≠B-OSE_Labeled_AE                                 6                  1                  5                 <1           
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   Administration≠I-NonOSE_AE   Site≠I-NonOSE_AE   Conditions≠I-NonOSE_AE                                                                                  
+    Fatigue≠B-OSE_Labeled_AE                                 16                 <1                 16                  1           
+    Pyrexia≠B-OSE_Labeled_AE                                  7                 <1                  9                 <1           
+    Asthenia≠B-OSE_Labeled_AE                                10                 <1                 10                  1           
+    Lethargy≠B-OSE_Labeled_AE                                10                 <1                  9                 <1           
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                      
+    Dizziness≠B-OSE_Labeled_AE                                6                 <1                  6                  -           
+    Headache≠B-OSE_Labeled_AE                                 5                 <1                  6                 <1           
+    Dysgeusia≠B-OSE_Labeled_AE                                6                  -                  9                  -           
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                  
+    Anorexia≠B-OSE_Labeled_AE                                 9                 <1                 11                 <1           
+    Eye≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                                 
+    Conjunctivitis≠B-OSE_Labeled_AE                           5                 <1                  6                 <1           
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                  
+    Neutropenia≠B-OSE_Labeled_AE                              2                 <1                  8                  5           
+    Respiratory≠B-NonOSE_AE   Thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                  
+    Epistaxis≠B-OSE_Labeled_AE                                2                  -                  5                  -           
+          Table 5 Percent Incidence of Grade 3/4 Laboratory Abnormalities Reported in >=1% of Patients Receiving XELODA Monotherapy for Adjuvant Treatment of Colon Cancer (Safety Population) 
+ Adverse Event                                                 XELODA(n=995)Grade 3/4 %  IV 5-FU/LV(n=974)Grade 3/4 %   
+  
+    Increased≠B-OSE_Labeled_AE   ALAT≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  SGPT≠I-OSE_Labeled_AE )                                               1.6                   0.6            
+    Increased≠B-OSE_Labeled_AE   calcium≠I-OSE_Labeled_AE                                                    1.1                   0.7            
+    Decreased≠B-OSE_Labeled_AE   calcium≠I-OSE_Labeled_AE                                                    2.3                   2.2            
+    Decreased≠B-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE                                                 1.0                   1.2            
+    Decreased≠B-OSE_Labeled_AE   lymphocytes≠I-OSE_Labeled_AE                                                13.0                  13.0           
+    Decreased≠B-OSE_Labeled_AE   neutrophils≠I-OSE_Labeled_AE  [note: The incidence of grade 3/4  white≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   abnormalities≠I-OSE_Labeled_AE  was 1.3% in the XELODA arm and 4.9% in the IV 5-FU/LV arm.]           2.2                   26.2           
+    Decreased≠B-OSE_Labeled_AE   neutrophils≠I-OSE_Labeled_AE /granulocytes                                  2.4                   26.4           
+    Decreased≠B-OSE_Labeled_AE   platelets≠I-OSE_Labeled_AE                                                  1.0                   0.7            
+    Increased≠B-OSE_Labeled_AE   bilirubin≠I-OSE_Labeled_AE  [note: It should be noted that grading was according to NCIC CTC Version 1 (May, 1994). In the NCIC-CTC Version 1,  hyperbilirubinemia≠B-NonOSE_AE  grade 3 indicates a  bilirubin≠B-NonOSE_AE   value≠I-NonOSE_AE   of≠I-NonOSE_AE   1≠I-NonOSE_AE  .≠I-NonOSE_AE  5≠I-NonOSE_AE   to≠I-NonOSE_AE   3≠I-NonOSE_AE  .≠I-NonOSE_AE  0≠I-NonOSE_AE   *≠I-NonOSE_AE   upper≠I-NonOSE_AE   limit≠I-NonOSE_AE   of≠I-NonOSE_AE   normal≠I-NonOSE_AE   (≠I-NonOSE_AE  ULN≠I-NonOSE_AE  )≠I-NonOSE_AE   range≠I-NonOSE_AE , and grade 4 a value of > 3.0 * ULN. The NCI CTC Version 2 and above define a grade 3  bilirubin≠B-NonOSE_AE   value≠I-NonOSE_AE   of≠I-NonOSE_AE   >≠I-NonOSE_AE  3≠I-NonOSE_AE  .≠I-NonOSE_AE  0≠I-NonOSE_AE   to≠I-NonOSE_AE   1≠I-NonOSE_AE  0≠I-NonOSE_AE  .≠I-NonOSE_AE  0≠I-NonOSE_AE   *≠I-NonOSE_AE   ULN≠I-NonOSE_AE , and grade 4 values >10.0 * ULN.]            20                   6.3            
+           6.2 Metastatic Colorectal Cancer
+     Monotherapy  
+
+     Table 6    shows the adverse reactions occurring in >=5% of patients from pooling the two phase 3 trials in first line  metastatic≠B-Not_AE_Candidate   colorectal≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate . A total of 596 patients with  metastatic≠B-Not_AE_Candidate   colorectal≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  were treated with 1250 mg/m  2  twice a day of XELODA administered for 2 weeks followed by a 1-week rest period, and 593 patients were administered 5-FU and leucovorin in the Mayo regimen (20 mg/m  2  leucovorin IV followed by 425 mg/m  2  IV bolus 5-FU, on days 1-5, every 28 days). In the pooled colorectal database the median duration of treatment was 139 days for capecitabine-treated patients and 140 days for 5-FU/LV-treated patients. A total of 78 (13%) and 63 (11%) capecitabine and 5-FU/LV-treated patients, respectively, discontinued treatment because of adverse reactions/intercurrent illness. A total of 82  deaths≠B-NonOSE_AE  due to all causes occurred either on study or within 28 days of receiving study drug: 50 (8.4%) patients randomized to XELODA and 32 (5.4%) randomized to 5-FU/LV.
+
+ Table 6 Pooled Phase 3 Colorectal Trials: Percent Incidence of Adverse Reactions in >=5% of Patients 
+ Adverse Event                             XELODA(n=596)  5-FU/LV(n=593)   
+                                             Total%     Grade 3%    Grade 4%     Total%     Grade 3%    Grade 4%    
+  
+ - Not observed                             
+ NA = Not Applicable                        
+  
+   Number of Patients With > One Adverse Event        96          52          9           94          45          9        
+   Body System/Adverse Event                                                                                        
+    GI≠B-NonOSE_AE                                                                                                                
+    Diarrhea≠B-OSE_Labeled_AE                                     55          13          2           61          10          2        
+    Nausea≠B-OSE_Labeled_AE                                       43          4           -           51          3           <1       
+    Vomiting≠B-OSE_Labeled_AE                                     27          4           <1          30          4           <1       
+    Stomatitis≠B-OSE_Labeled_AE                                   25          2           <1          62          14          1        
+    Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                               35          9           <1          31          5           -        
+    Gastrointestinal≠B-OSE_Labeled_AE   Motility≠I-OSE_Labeled_AE   Disorder≠I-OSE_Labeled_AE           10          <1          -           7           <1          -        
+    Constipation≠B-OSE_Labeled_AE                                 14          1           <1          17          1           -        
+    Oral≠B-OSE_Labeled_AE   Discomfort≠I-OSE_Labeled_AE                              10          -           -           10          -           -        
+    Upper≠B-OSE_Labeled_AE   GI≠I-OSE_Labeled_AE   Inflammatory≠I-OSE_Labeled_AE   Disorders≠I-OSE_Labeled_AE              8           <1          -           10          1           -        
+    Gastrointestinal≠B-OSE_Labeled_AE   Hemorrhage≠I-OSE_Labeled_AE                  6           1           <1          3           1           -        
+    Ileus≠B-OSE_Labeled_AE                                        6           4           1           5           2           1        
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE                                                                                             
+    Hand≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  and≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Foot≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE                       54          17          NA          6           1           NA       
+    Dermatitis≠B-OSE_Labeled_AE                                   27          1           -           26          1           -        
+    Skin≠B-OSE_Labeled_AE   Discoloration≠I-OSE_Labeled_AE                           7           <1          -           5           -           -        
+    Alopecia≠B-OSE_Labeled_AE                                     6           -           -           21          <1          -        
+    General≠B-NonOSE_AE                                                                                                           
+    Fatigue≠B-OSE_Labeled_AE / Weakness≠B-OSE_Labeled_AE                             42          4           -           46          4           -        
+    Pyrexia≠B-OSE_Labeled_AE                                      18          1           -           21          2           -        
+    Edema≠B-OSE_Labeled_AE                                        15          1           -           9           1           -        
+    Pain≠B-OSE_Labeled_AE                                         12          1           -           10          1           -        
+    Chest≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                   6           1           -           6           1           <1       
+    Neurological≠B-NonOSE_AE                                                                                                      
+    Peripheral≠B-OSE_Labeled_AE   Sensory≠I-OSE_Labeled_AE   Neuropathy≠I-OSE_Labeled_AE                10          -           -           4           -           -        
+    Headache≠B-OSE_Labeled_AE                                     10          1           -           7           -           -        
+    Dizziness≠B-OSE_Labeled_AE  [note: Excluding  vertigo≠B-NonOSE_AE ]         8           <1          -           8           <1          -        
+    Insomnia≠B-OSE_Labeled_AE                                     7           -           -           7           -           -        
+    Taste≠B-OSE_Labeled_AE   Disturbance≠I-OSE_Labeled_AE                            6           1           -           11          <1          1        
+    Metabolism≠B-NonOSE_AE                                                                                                        
+    Appetite≠B-OSE_Labeled_AE   Decreased≠I-OSE_Labeled_AE                           26          3           <1          31          2           <1       
+    Dehydration≠B-OSE_Labeled_AE                                  7           2           <1          8           3           1        
+    Eye≠B-NonOSE_AE                                                                                                               
+    Eye≠B-OSE_Labeled_AE   Irritation≠I-OSE_Labeled_AE                               13          -           -           10          <1          -        
+    Vision≠B-OSE_Labeled_AE   Abnormal≠I-OSE_Labeled_AE                              5           -           -           2           -           -        
+    Respiratory≠B-NonOSE_AE                                                                                                       
+    Dyspnea≠B-OSE_Labeled_AE                                      14          1           -           10          <1          1        
+    Cough≠B-OSE_Labeled_AE                                        7           <1          1           8           -           -        
+    Pharyngeal≠B-OSE_Labeled_AE   Disorder≠I-OSE_Labeled_AE                          5           -           -           5           -           -        
+    Epistaxis≠B-OSE_Labeled_AE                                    3           <1          -           6           -           -        
+    Sore≠B-OSE_Labeled_AE   Throat≠I-OSE_Labeled_AE                                  2           -           -           6           -           -        
+    Musculoskeletal≠B-NonOSE_AE                                                                                                   
+    Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                    10          2           -           9           <1          -        
+    Arthralgia≠B-OSE_Labeled_AE                                   8           1           -           6           1           -        
+    Vascular≠B-NonOSE_AE                                                                                                          
+    Venous≠B-OSE_Labeled_AE   Thrombosis≠I-OSE_Labeled_AE                            8           3           <1          6           2           -        
+    Psychiatric≠B-NonOSE_AE                                                                                                       
+    Mood≠B-OSE_Labeled_AE   Alteration≠I-OSE_Labeled_AE                              5           -           -           6           <1          -        
+    Depression≠B-OSE_Labeled_AE                                   5           -           -           4           <1          -        
+    Infections≠B-NonOSE_AE                                                                                                        
+   Viral                                       5           <1          -           5           <1          -        
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE                                                                                               
+    Anemia≠B-OSE_Labeled_AE                                       80          2           <1          79          1           <1       
+    Neutropenia≠B-OSE_Labeled_AE                                  13          1           2           46          8           13       
+    Hepatobiliary≠B-NonOSE_AE                                                                                                     
+    Hyperbilirubinemia≠B-OSE_Labeled_AE                           48          18          5           17          3           3        
+               6.3 Breast Cancer
+     In Combination with Docetaxel  
+
+ The following data are shown for the combination study with XELODA and docetaxel in patients with  metastatic≠B-Not_AE_Candidate   breast≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  in    Table 7    and    Table 8    . In the XELODA and docetaxel combination arm the treatment was XELODA administered orally 1250 mg/m  2  twice daily as intermittent therapy (2 weeks of treatment followed by 1 week without treatment) for at least 6 weeks and docetaxel administered as a 1-hour intravenous infusion at a dose of 75 mg/m  2  on the first day of each 3-week cycle for at least 6 weeks. In the monotherapy arm docetaxel was administered as a 1-hour intravenous infusion at a dose of 100 mg/m  2  on the first day of each 3-week cycle for at least 6 weeks. The mean duration of treatment was 129 days in the combination arm and 98 days in the monotherapy arm. A total of 66 patients (26%) in the combination arm and 49 (19%) in the monotherapy arm withdrew from the study because of adverse reactions. The percentage of patients requiring dose reductions due to adverse reactions was 65% in the combination arm and 36% in the monotherapy arm. The percentage of patients requiring treatment interruptions due to adverse reactions in the combination arm was 79%. Treatment interruptions were part of the dose modification scheme for the combination therapy arm but not for the docetaxel monotherapy-treated patients.
+
+ Table 7 Percent Incidence of Adverse Events Considered Related or Unrelated to Treatment in >=5% of Patients Participating in the XELODA and Docetaxel Combination vs Docetaxel Monotherapy Study 
+ Adverse Event                             XELODA 1250 mg/m  2  /bid With Docetaxel75 mg/m  2  /3 weeks  Docetaxel100 mg/m  2  /3 weeks   
+                                            (n=251)     (n=255)     
+                                             Total%     Grade 3%    Grade 4%     Total%     Grade 3%    Grade 4%    
+  
+ - Not observed                             
+ NA = Not Applicable                        
+  
+   Number of Patients With at Least One Adverse Event        99         76.5        29.1         97         57.6        31.8      
+   Body System/Adverse Event                                                                                        
+    GI≠B-NonOSE_AE                                                                                                                
+    Diarrhea≠B-OSE_Labeled_AE                                     67          14          <1          48          5           <1       
+    Stomatitis≠B-OSE_Labeled_AE                                   67          17          <1          43          5           -        
+    Nausea≠B-OSE_Labeled_AE                                       45          7           -           36          2           -        
+    Vomiting≠B-OSE_Labeled_AE                                     35          4           1           24          2           -        
+    Constipation≠B-OSE_Labeled_AE                                 20          2           -           18          -           -        
+    Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                               30          <3          <1          24          2           -        
+    Dyspepsia≠B-OSE_Labeled_AE                                    14          -           -           8           1           -        
+    Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE                                    6           <1          -           5           -           -        
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE                                                                                             
+    Hand≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  and≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Foot≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE                       63          24          NA          8           1           NA       
+    Alopecia≠B-OSE_Labeled_AE                                     41          6           -           42          7           -        
+    Nail≠B-OSE_Labeled_AE   Disorder≠I-OSE_Labeled_AE                                14          2           -           15          -           -        
+    Dermatitis≠B-OSE_Labeled_AE                                   8           -           -           11          1           -        
+    Rash≠B-OSE_Labeled_AE   Erythematous≠I-OSE_Labeled_AE                            9           <1          -           5           -           -        
+    Nail≠B-OSE_Labeled_AE   Discoloration≠I-OSE_Labeled_AE                           6           -           -           4           <1          -        
+    Onycholysis≠B-OSE_Labeled_AE                                  5           1           -           5           1           -        
+    Pruritus≠B-OSE_Labeled_AE                                     4           -           -           5           -           -        
+    General≠B-NonOSE_AE                                                                                                           
+    Pyrexia≠B-OSE_Labeled_AE                                      28          2           -           34          2           -        
+    Asthenia≠B-OSE_Labeled_AE                                     26          4           <1          25          6           -        
+    Fatigue≠B-OSE_Labeled_AE                                      22          4           -           27          6           -        
+    Weakness≠B-OSE_Labeled_AE                                     16          2           -           11          2           -        
+    Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Limb≠I-OSE_Labeled_AE                                 13          <1          -           13          2           -        
+    Lethargy≠B-OSE_Labeled_AE                                     7           -           -           6           2           -        
+    Pain≠B-OSE_Labeled_AE                                         7           <1          -           5           1           -        
+    Chest≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  non≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  cardiac≠I-OSE_Labeled_AE )                    4           <1          -           6           2           -        
+    Influenza≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  like≠I-OSE_Labeled_AE   Illness≠I-OSE_Labeled_AE                       5           -           -           5           -           -        
+    Neurological≠B-NonOSE_AE                                                                                                      
+    Taste≠B-OSE_Labeled_AE   Disturbance≠I-OSE_Labeled_AE                            16          <1          -           14          <1          -        
+    Headache≠B-OSE_Labeled_AE                                     15          3           -           15          2           -        
+    Paresthesia≠B-OSE_Labeled_AE                                  12          <1          -           16          1           -        
+    Dizziness≠B-OSE_Labeled_AE                                    12          -           -           8           <1          -        
+    Insomnia≠B-OSE_Labeled_AE                                     8           -           -           10          <1          -        
+    Peripheral≠B-OSE_Labeled_AE   Neuropathy≠I-OSE_Labeled_AE                        6           -           -           10          1           -        
+    Hypoaesthesia≠B-OSE_Labeled_AE                                4           <1          -           8           <1          -        
+    Metabolism≠B-NonOSE_AE                                                                                                        
+    Anorexia≠B-OSE_Labeled_AE                                     13          1           -           11          <1          -        
+    Appetite≠B-OSE_Labeled_AE   Decreased≠I-OSE_Labeled_AE                           10          -           -           5           -           -        
+    Weight≠B-OSE_Labeled_AE   Decreased≠I-OSE_Labeled_AE                             7           -           -           5           -           -        
+    Dehydration≠B-OSE_Labeled_AE                                  10          2           -           7           <1          <1       
+    Eye≠B-NonOSE_AE                                                                                                               
+    Lacrimation≠B-OSE_Labeled_AE   Increased≠I-OSE_Labeled_AE                        12          -           -           7           <1          -        
+    Conjunctivitis≠B-OSE_Labeled_AE                               5           -           -           4           -           -        
+    Eye≠B-OSE_Labeled_AE   Irritation≠I-OSE_Labeled_AE                               5           -           -           1           -           -        
+    Musculoskeletal≠B-NonOSE_AE                                                                                                   
+    Arthralgia≠B-OSE_Labeled_AE                                   15          2           -           24          3           -        
+    Myalgia≠B-OSE_Labeled_AE                                      15          2           -           25          2           -        
+    Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                    12          <1          -           11          3           -        
+    Bone≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                    8           <1          -           10          2           -        
+    Cardiac≠B-NonOSE_AE                                                                                                           
+    Edema≠B-OSE_Labeled_AE                                        33          <2          -           34          <3          1        
+    Blood≠B-NonOSE_AE                                                                                                             
+    Neutropenic≠B-OSE_Labeled_AE   Fever≠I-OSE_Labeled_AE                            16          3           13          21          5           16       
+    Respiratory≠B-NonOSE_AE                                                                                                       
+    Dyspnea≠B-OSE_Labeled_AE                                      14          2           <1          16          2           -        
+    Cough≠B-OSE_Labeled_AE                                        13          1           -           22          <1          -        
+    Sore≠B-OSE_Labeled_AE   Throat≠I-OSE_Labeled_AE                                  12          2           -           11          <1          -        
+    Epistaxis≠B-OSE_Labeled_AE                                    7           <1          -           6           -           -        
+    Rhinorrhea≠B-OSE_Labeled_AE                                   5           -           -           3           -           -        
+    Pleural≠B-OSE_Labeled_AE   Effusion≠I-OSE_Labeled_AE                             2           1           -           7           4           -        
+    Infection≠B-NonOSE_AE                                                                                                         
+    Oral≠B-OSE_Labeled_AE   Candidiasis≠I-OSE_Labeled_AE                             7           <1          -           8           <1          -        
+    Urinary≠B-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE                      6           <1          -           4           -           -        
+    Upper≠B-OSE_Labeled_AE   Respiratory≠I-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE                      4           -           -           5           1           -        
+    Vascular≠B-NonOSE_AE                                                                                                          
+    Flushing≠B-OSE_Labeled_AE                                     5           -           -           5           -           -        
+    Lymphoedema≠B-OSE_Labeled_AE                                  3           <1          -           5           1           -        
+    Psychiatric≠B-NonOSE_AE                                                                                                       
+    Depression≠B-OSE_Labeled_AE                                   5           -           -           5           1           -        
+            Table 8 Percent of Patients With Laboratory Abnormalities Participating in the XELODA and Docetaxel Combination vs Docetaxel Monotherapy Study 
+ Adverse Event                             XELODA 1250 mg/m  2  /bid With Docetaxel75 mg/m  2  /3 weeks  Docetaxel100 mg/m  2  /3 weeks   
+                                            (n=251)     (n=255)     
+ Body System/Adverse Event                   Total%     Grade 3%    Grade 4%     Total%     Grade 3%    Grade 4%    
+  
+    Hematologic≠B-NonOSE_AE                                                                                                       
+    Leukopenia≠B-OSE_Labeled_AE                                   91          37          24          88          42          33       
+    Neutropenia≠B-OSE_Labeled_AE / Granulocytopenia≠B-OSE_Labeled_AE                 86          20          49          87          10          66       
+    Thrombocytopenia≠B-OSE_Labeled_AE                             41          2           1           23          1           2        
+    Anemia≠B-OSE_Labeled_AE                                       80          7           3           83          5           <1       
+    Lymphocytopenia≠B-OSE_Labeled_AE                              99          48          41          98          44          40       
+    Hepatobiliary≠B-NonOSE_AE                                                                                                     
+    Hyperbilirubinemia≠B-OSE_Labeled_AE                           20          7           2           6           2           2        
+                 Monotherapy  
+ 
+
+ The following data are shown for the study in  stage≠B-Not_AE_Candidate   IV≠I-Not_AE_Candidate   breast≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  patients who received a dose of 1250 mg/m  2  administered twice daily for 2 weeks followed by a 1-week rest period. The mean duration of treatment was 114 days. A total of 13 out of 162 patients (8%) discontinued treatment because of adverse reactions/intercurrent  illness≠B-Not_AE_Candidate .
+
+ Table 9 Percent Incidence of Adverse Reactions Considered Remotely, Possibly or Probably Related to Treatment in >=5% of Patients Participating in the Single Arm Trial in Stage IV Breast Cancer 
+ Adverse Event                                   Phase 2 Trial in Stage IV Breast Cancer(n=162)   
+ Body System/Adverse Event                             Total%             Grade 3%            Grade 4%        
+  
+ - Not observed                                   
+ NA = Not Applicable                              
+  
+    GI≠B-NonOSE_AE                                                                                                          
+  Diarrhea≠B-OSE_Labeled_AE                                                 57                  12                  3            
+  Nausea≠B-OSE_Labeled_AE                                                   53                  4                   -            
+  Vomiting≠B-OSE_Labeled_AE                                                 37                  4                   -            
+  Stomatitis≠B-OSE_Labeled_AE                                               24                  7                   -            
+  Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                           20                  4                   -            
+  Constipation≠B-OSE_Labeled_AE                                             15                  1                   -            
+  Dyspepsia≠B-OSE_Labeled_AE                                                8                   -                   -            
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE                                                                                       
+  Hand≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  and≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Foot≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE                                   57                  11                  NA           
+  Dermatitis≠B-OSE_Labeled_AE                                               37                  1                   -            
+  Nail≠B-OSE_Labeled_AE   Disorder≠I-OSE_Labeled_AE                                            7                   -                   -            
+    General≠B-NonOSE_AE                                                                                                     
+  Fatigue≠B-OSE_Labeled_AE                                                  41                  8                   -            
+  Pyrexia≠B-OSE_Labeled_AE                                                  12                  1                   -            
+  Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Limb≠I-OSE_Labeled_AE                                             6                   1                   -            
+    Neurological≠B-NonOSE_AE                                                                                                
+  Paresthesia≠B-OSE_Labeled_AE                                              21                  1                   -            
+  Headache≠B-OSE_Labeled_AE                                                 9                   1                   -            
+  Dizziness≠B-OSE_Labeled_AE                                                8                   -                   -            
+  Insomnia≠B-OSE_Labeled_AE                                                 8                   -                   -            
+    Metabolism≠B-NonOSE_AE                                                                                                  
+  Anorexia≠B-OSE_Labeled_AE                                                 23                  3                   -            
+  Dehydration≠B-OSE_Labeled_AE                                              7                   4                   1            
+    Eye≠B-NonOSE_AE                                                                                                         
+  Eye≠B-OSE_Labeled_AE   Irritation≠I-OSE_Labeled_AE                                           15                  -                   -            
+    Musculoskeletal≠B-NonOSE_AE                                                                                             
+  Myalgia≠B-OSE_Labeled_AE                                                  9                   -                   -            
+    Cardiac≠B-NonOSE_AE                                                                                                     
+  Edema≠B-OSE_Labeled_AE                                                    9                   1                   -            
+    Blood≠B-NonOSE_AE                                                                                                       
+  Neutropenia≠B-OSE_Labeled_AE                                              26                  2                   2            
+  Thrombocytopenia≠B-OSE_Labeled_AE                                         24                  3                   1            
+  Anemia≠B-OSE_Labeled_AE                                                   72                  3                   1            
+  Lymphopenia≠B-OSE_Labeled_AE                                              94                  44                  15           
+    Hepatobiliary≠B-NonOSE_AE                                                                                               
+  Hyperbilirubinemia≠B-OSE_Labeled_AE                                       22                  9                   2            
+            6.4 Clinically Relevant Adverse Events in <5% of Patients
+   Clinically relevant adverse events reported in <5% of patients treated with XELODA either as monotherapy or in combination with docetaxel that were considered at least remotely related to treatment are shown below; occurrences of each grade 3 and 4 adverse event are provided in parentheses.
+
+     Monotherapy (Metastatic Colorectal Cancer, Adjuvant Colorectal Cancer, Metastatic Breast Cancer)  
+
+
+    Gastrointestinal≠B-NonOSE_AE :     abdominal≠B-OSE_Labeled_AE   distension≠I-OSE_Labeled_AE ,  dysphagia≠B-OSE_Labeled_AE ,  proctalgia≠B-OSE_Labeled_AE ,  ascites≠B-OSE_Labeled_AE  (0.1%),  gastric≠B-OSE_Labeled_AE   ulcer≠I-OSE_Labeled_AE  (0.1%),  ileus≠B-OSE_Labeled_AE  (0.3%),  toxic≠B-OSE_Labeled_AE   dilation≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   intestine≠I-OSE_Labeled_AE ,  gastroenteritis≠B-OSE_Labeled_AE  (0.1%)   
+    Skin≠B-NonOSE_AE   &≠I-NonOSE_AE   Subcutan≠I-NonOSE_AE .:     nail≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE  (0.1%),  sweating≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  (0.1%),  photosensitivity≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE  (0.1%),  skin≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE ,  radiation≠B-OSE_Labeled_AE   recall≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  (0.2%)   
+    General≠B-NonOSE_AE :             chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (0.2%),  influenza≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  like≠I-OSE_Labeled_AE   illness≠I-OSE_Labeled_AE ,  hot≠B-OSE_Labeled_AE   flushes≠I-OSE_Labeled_AE ,  pain≠B-OSE_Labeled_AE  (0.1%),  hoarseness≠B-OSE_Labeled_AE ,  irritability≠B-OSE_Labeled_AE ,  difficulty≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   walking≠I-OSE_Labeled_AE ,  thirst≠B-OSE_Labeled_AE ,  chest≠B-OSE_Labeled_AE   mass≠I-OSE_Labeled_AE ,  collapse≠B-OSE_Labeled_AE ,  fibrosis≠B-OSE_Labeled_AE  (0.1%),  hemorrhage≠B-OSE_Labeled_AE ,  edema≠B-OSE_Labeled_AE ,  sedation≠B-OSE_Labeled_AE    
+    Neurological≠B-NonOSE_AE :        insomnia≠B-OSE_Labeled_AE ,  ataxia≠B-OSE_Labeled_AE  (0.5%),  tremor≠B-OSE_Labeled_AE ,  dysphasia≠B-OSE_Labeled_AE ,  encephalopathy≠B-OSE_Labeled_AE  (0.1%),  abnormal≠B-OSE_Labeled_AE   coordination≠I-OSE_Labeled_AE ,  dysarthria≠B-OSE_Labeled_AE ,  loss≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   consciousness≠I-OSE_Labeled_AE  (0.2%),  impaired≠B-OSE_Labeled_AE   balance≠I-OSE_Labeled_AE    
+    Metabolism≠B-NonOSE_AE :          increased≠B-OSE_Labeled_AE   weight≠I-OSE_Labeled_AE ,  cachexia≠B-OSE_Labeled_AE  (0.4%),  hypertriglyceridemia≠B-OSE_Labeled_AE  (0.1%),  hypokalemia≠B-OSE_Labeled_AE ,  hypomagnesemia≠B-OSE_Labeled_AE    
+    Eye≠B-NonOSE_AE :                 conjunctivitis≠B-OSE_Labeled_AE                                                                      
+    Respiratory≠B-NonOSE_AE :         cough≠B-OSE_Labeled_AE  (0.1%),  epistaxis≠B-OSE_Labeled_AE  (0.1%),  asthma≠B-OSE_Labeled_AE  (0.2%),  hemoptysis≠B-OSE_Labeled_AE ,  respiratory≠B-OSE_Labeled_AE   distress≠I-OSE_Labeled_AE  (0.1%),  dyspnea≠B-OSE_Labeled_AE    
+    Cardiac≠B-NonOSE_AE :             tachycardia≠B-OSE_Labeled_AE  (0.1%),  bradycardia≠B-OSE_Labeled_AE ,  atrial≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE ,  ventricular≠B-OSE_Labeled_AE   extrasystoles≠I-OSE_Labeled_AE ,  extrasystoles≠B-OSE_Labeled_AE ,  myocarditis≠B-OSE_Labeled_AE  (0.1%),  pericardial≠B-OSE_Labeled_AE   effusion≠I-OSE_Labeled_AE    
+    Infections≠B-NonOSE_AE :          laryngitis≠B-OSE_Labeled_AE  (1.0%),  bronchitis≠B-OSE_Labeled_AE  (0.2%),  pneumonia≠B-OSE_Labeled_AE  (0.2%),  bronchopneumonia≠B-OSE_Labeled_AE  (0.2%),  keratoconjunctivitis≠B-OSE_Labeled_AE ,  sepsis≠B-OSE_Labeled_AE  (0.3%),  fungal≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  (including  candidiasis≠B-OSE_Labeled_AE ) (0.2%)   
+    Musculoskeletal≠B-NonOSE_AE :     myalgia≠B-OSE_Labeled_AE ,  bone≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (0.1%),  arthritis≠B-OSE_Labeled_AE  (0.1%),  muscle≠B-OSE_Labeled_AE   weakness≠I-OSE_Labeled_AE                        
+    Blood≠B-NonOSE_AE   &≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE :     leukopenia≠B-OSE_Labeled_AE  (0.2%),  coagulation≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE  (0.1%),  bone≠B-OSE_Labeled_AE   marrow≠I-OSE_Labeled_AE   depression≠I-OSE_Labeled_AE  (0.1%),  idiopathic≠B-OSE_Labeled_AE   thrombocytopenia≠I-OSE_Labeled_AE   purpura≠I-OSE_Labeled_AE  (1.0%),  pancytopenia≠B-OSE_Labeled_AE  (0.1%)   
+    Vascular≠B-NonOSE_AE :            hypotension≠B-OSE_Labeled_AE  (0.2%),  hypertension≠B-OSE_Labeled_AE  (0.1%),  lymphoedema≠B-OSE_Labeled_AE  (0.1%),  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE  (0.2%),  cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE  (0.1%)   
+    Psychiatric≠B-NonOSE_AE :         depression≠B-OSE_Labeled_AE ,  confusion≠B-OSE_Labeled_AE  (0.1%)                                                       
+    Renal≠B-NonOSE_AE :               renal≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE  (0.6%)                                                            
+    Ear≠B-NonOSE_AE :                 vertigo≠B-OSE_Labeled_AE                                                                             
+    Hepatobiliary≠B-NonOSE_AE :       hepatic≠B-OSE_Labeled_AE   fibrosis≠I-OSE_Labeled_AE  (0.1%),  hepatitis≠B-OSE_Labeled_AE  (0.1%),  cholestatic≠B-OSE_Labeled_AE   hepatitis≠I-OSE_Labeled_AE  (0.1%),  abnormal≠B-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   tests≠I-OSE_Labeled_AE    
+    Immune≠B-NonOSE_AE   System≠I-NonOSE_AE :       drug≠B-OSE_Labeled_AE   hypersensitivity≠I-OSE_Labeled_AE  (0.1%)                                                       
+   Postmarketing:       hepatic≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  lacrimal≠B-OSE_Labeled_AE   duct≠I-OSE_Labeled_AE   stenosis≠I-OSE_Labeled_AE ,  acute≠B-NonOSE_AE   renal≠I-NonOSE_AE   failure≠I-NonOSE_AE  secondary to  dehydration≠B-OSE_Labeled_AE  including  fatal≠B-NonOSE_AE  outcome  [see  Warnings and Precautions (5.5)  ]  ,  cutaneous≠B-OSE_Labeled_AE   lupus≠I-OSE_Labeled_AE   erythematosus≠I-OSE_Labeled_AE ,  corneal≠B-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE  including  keratitis≠B-OSE_Labeled_AE ,  toxic≠B-OSE_Labeled_AE   leukoencephalopathy≠I-OSE_Labeled_AE , severe  skin≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  such as  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  and  Toxic≠B-OSE_Labeled_AE   Epidermal≠I-OSE_Labeled_AE   Necrolysis≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  TEN≠I-OSE_Labeled_AE )  [see  Warnings and Precautions (5.7)  ]    ,  persistent or severe  hand≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  and≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  foot≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  can eventually lead to  loss≠B-NonOSE_AE   of≠I-NonOSE_AE   fingerprints≠I-NonOSE_AE  [  see  Warnings and Precautions (5.7)    ]   
+            XELODA In Combination With Docetaxel (Metastatic Breast Cancer)  
+ 
+
+
+    Gastrointestinal≠B-NonOSE_AE :     ileus≠B-OSE_Labeled_AE  (0.4%),  necrotizing≠B-OSE_Labeled_AE   enterocolitis≠I-OSE_Labeled_AE  (0.4%),  esophageal≠B-OSE_Labeled_AE   ulcer≠I-OSE_Labeled_AE  (0.4%),  hemorrhagic≠B-OSE_Labeled_AE   diarrhea≠I-OSE_Labeled_AE  (0.8%)   
+    Neurological≠B-NonOSE_AE :        ataxia≠B-OSE_Labeled_AE  (0.4%),  syncope≠B-OSE_Labeled_AE  (1.2%),  taste≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  (0.8%),  polyneuropathy≠B-OSE_Labeled_AE  (0.4%), migraine (0.4%)   
+    Cardiac≠B-NonOSE_AE :             supraventricular≠B-OSE_Labeled_AE   tachycardia≠I-OSE_Labeled_AE  (0.4%)                                                
+    Infection≠B-NonOSE_AE :           neutropenic≠B-OSE_Labeled_AE   sepsis≠I-OSE_Labeled_AE  (2.4%),  sepsis≠B-OSE_Labeled_AE  (0.4%),  bronchopneumonia≠B-OSE_Labeled_AE  (0.4%)                  
+    Blood≠B-NonOSE_AE   &≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE :     agranulocytosis≠B-OSE_Labeled_AE  (0.4%),  prothrombin≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE  (0.4%)                               
+    Vascular≠B-NonOSE_AE :            hypotension≠B-OSE_Labeled_AE  (1.2%),  venous≠B-OSE_Labeled_AE   phlebitis≠I-OSE_Labeled_AE  and  thrombophlebitis≠B-OSE_Labeled_AE  (0.4%),  postural≠B-OSE_Labeled_AE   hypotension≠I-OSE_Labeled_AE  (0.8%)   
+    Renal≠B-NonOSE_AE :               renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  (0.4%)                                                               
+    Hepatobiliary≠B-NonOSE_AE :       jaundice≠B-OSE_Labeled_AE  (0.4%),  abnormal≠B-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   tests≠I-OSE_Labeled_AE  (0.4%),  hepatic≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  (0.4%),  hepatic≠B-OSE_Labeled_AE   coma≠I-OSE_Labeled_AE  (0.4%),  hepatotoxicity≠B-OSE_Labeled_AE  (0.4%)   
+    Immune≠B-NonOSE_AE   System≠I-NonOSE_AE :       hypersensitivity≠B-OSE_Labeled_AE  (1.2%)                                                            
+

@@ -1,0 +1,72 @@
+   PRECAUTIONS
+
+   General
+
+  If Valium is to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed - particularly with known compounds that may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants (see  Drug Interactions  ).
+
+ The usual precautions are indicated for severely  depressed≠B-Not_AE_Candidate  patients or those in whom there is any evidence of latent  depression≠B-Not_AE_Candidate  or  anxiety≠B-Not_AE_Candidate  associated  with≠I-Not_AE_Candidate   depression≠I-Not_AE_Candidate , particularly the recognition that  suicidal≠B-Not_AE_Candidate   tendencies≠I-Not_AE_Candidate  may be present and protective measures may be necessary.
+
+  Psychiatric≠B-OSE_Labeled_AE  and paradoxical  reactions≠I-OSE_Labeled_AE  are known to occur when using benzodiazepines (see  ADVERSE REACTIONS  ). Should this occur, use of the drug should be discontinued. These reactions are more likely to occur in children and the elderly.
+
+ A lower dose is recommended for patients with  chronic≠B-Not_AE_Candidate   respiratory≠I-Not_AE_Candidate   insufficiency≠I-Not_AE_Candidate , due to the risk of  respiratory≠B-NonOSE_AE   depression≠I-NonOSE_AE .
+
+ Benzodiazepines should be used with extreme caution in patients with a history of  alcohol≠B-Not_AE_Candidate  or drug  abuse≠I-Not_AE_Candidate  (see  DRUG ABUSE AND DEPENDENCE  ).
+
+ In  debilitated≠B-Not_AE_Candidate  patients, it is recommended that the dosage be limited to the smallest effective amount to preclude the development of  ataxia≠B-NonOSE_AE  or  oversedation≠B-NonOSE_AE  (2 mg to 2.5 mg once or twice daily, initially, to be increased gradually as needed and tolerated).
+
+ Some  loss≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   response≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE  of benzodiazepines may develop after repeated use of Valium for a prolonged time.
+
+    Information For Patients
+
+  To assure the safe and effective use of benzodiazepines, patients should be informed that, since benzodiazepines may produce psychological and physical dependence, it is advisable that they consult with their physician before either increasing the dose or abruptly discontinuing this drug. The risk of dependence increases with duration of treatment; it is also greater in patients with a history of alcohol or drug abuse.
+
+ Patients should be advised against the simultaneous ingestion of alcohol and other CNS-depressant drugs during Valium therapy. As is true of most CNS-acting drugs, patients receiving Valium should be cautioned against engaging in hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.
+
+     Drug Interactions  
+
+   Opioids
+
+  The concomitant use of benzodiazepines and opioids increases the risk of  respiratory≠B-NonOSE_AE   depression≠I-NonOSE_AE  because of actions at different receptor sites in the CNS that control respiration. Benzodiazepines interact at GABAAsites and opioids interact primarily at mu receptors. When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related  respiratory≠B-NonOSE_AE   depression≠I-NonOSE_AE  exists. Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for  respiratory≠B-NonOSE_AE   depression≠I-NonOSE_AE  and  sedation≠B-NonOSE_AE .
+
+    Centrally Acting Agents
+
+  If Valium is to be combined with other centrally acting agents careful consideration should be given to the pharmacology of the agents employed particularly with compounds that may potentiate or be potentiated by the action of Valium, such as phenothiazines, antipsychotics, anxiolytics/sedatives, hypnotics, anticonvulsants, narcotic analgesics, anesthetics, sedative antihistamines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
+
+    Alcohol
+
+  Concomitant use with alcohol is not recommended due to  enhancement≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   sedative≠I-NonOSE_AE   effect≠I-NonOSE_AE .
+
+    Antacids
+
+  Diazepam peak concentrations are 30% lower when antacids are administered concurrently. However, there is no effect on the extent of absorption. The lower peak concentrations appear due to a slower rate of absorption, with the time required to achieve peak concentrations on average 20 - 25 minutes greater in the presence of antacids. However, this difference was not statistically significant.
+
+    Compounds Which Inhibit Certain Hepatic Enzymes
+
+  There is a potentially relevant interaction between diazepam and compounds which inhibit certain hepatic enzymes (particularly cytochrome P450 3A and 2C19). Data indicate that these compounds influence the pharmacokinetics of diazepam and may lead to increased and prolonged  sedation≠B-NonOSE_AE . At present, this reaction is known to occur with cimetidine, ketoconazole, fluvoxamine, fluoxetine, and omeprazole.
+
+    Phenytoin
+
+  There have also been reports that the metabolic elimination of phenytoin is decreased by diazepam.
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+  In studies in which mice and rats were administered diazepam in the diet at a dose of 75 mg/kg/day (approximately 6 and 12 times, respectively, the maximum recommended human dose [MRHD=1 mg/kg/day] on a mg/m  2  basis) for 80 and 104 weeks, respectively, an increased incidence of  liver≠B-NonOSE_AE   tumors≠I-NonOSE_AE  was observed in males of both species. The data currently available are inadequate to determine the  mutagenic≠B-NonOSE_AE  potential of diazepam. Reproduction studies in rats showed  decreases≠B-NonOSE_AE   in≠I-NonOSE_AE   the≠I-NonOSE_AE   number≠I-NonOSE_AE   of≠I-NonOSE_AE   pregnancies≠I-NonOSE_AE  and in the number of surviving offspring following administration of an oral dose of 100 mg/kg/day (approximately 16 times the MRHD on a mg/m  2  basis) prior to and during mating and throughout gestation and lactation. No adverse effects on  fertility≠B-NonOSE_AE  or  offspring≠B-NonOSE_AE   viability≠I-NonOSE_AE  were noted at a dose of 80 mg/kg/day (approximately 13 times the MRHD on a mg/m  2  basis).
+
+     Pregnancy  
+
+   Category D  (see  WARNINGS:  Pregnancy≠B-NonOSE_AE   ).
+
+     Pediatric Use  
+
+  Safety and effectiveness in pediatric patients below the age of 6 months have not been established.
+
+     Geriatric Use  
+
+  In elderly patients, it is recommended that the dosage be limited to the smallest effective amount to preclude the development of  ataxia≠B-NonOSE_AE  or  oversedation≠B-NonOSE_AE  (2 mg to 2.5 mg once or twice daily, initially to be increased gradually as needed and tolerated).
+
+ Extensive accumulation of diazepam and its major metabolite, desmethyldiazepam, has been noted following chronic administration of diazepam in healthy elderly male subjects. Metabolites of this drug are known to be substantially excreted by the kidney, and the risk of  toxic≠B-NonOSE_AE   reactions≠I-NonOSE_AE  may be greater in patients with  impaired≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate . Because elderly patients are more likely to have  decreased≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate , care should be taken in dose selection, and it may be useful to monitor renal function.
+
+     Hepatic Insufficiency  
+
+  Decreases in clearance and protein binding, and increases in volume of distribution and half-life have been reported in patients with  cirrhosis≠B-Not_AE_Candidate . In such patients, a 2- to 5- fold increase in mean half-life has been reported. Delayed elimination has also been reported for the active metabolite desmethyldiazepam. Benzodiazepines are commonly implicated in  hepatic≠B-OSE_Labeled_AE   encephalopathy≠I-OSE_Labeled_AE . Increases in half-life have also been reported in  hepatic≠B-Not_AE_Candidate   fibrosis≠I-Not_AE_Candidate  and in both  acute≠B-Not_AE_Candidate  and chronic  hepatitis≠I-Not_AE_Candidate  (see  CLINICAL PHARMACOLOGY: Pharmacokinetics in Special Populations: Hepatic Insufficiency  ).
+

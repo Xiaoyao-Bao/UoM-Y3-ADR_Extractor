@@ -1,0 +1,18 @@
+
+
+    BOXED WARNING: WARNING: DIMINISHED ANTIPLATELET EFFECT IN PATIENTS WITH TWO LOSS-OF-FUNCTION ALLELES OF THE CYP2C19 GENE
+
+  WARNING: DIMINISHED ANTIPLATELET EFFECT IN PATIENTS WITH TWO LOSS-OF-FUNCTION ALLELES OF THE CYP2C19 GENE
+
+  EXCERPT:   WARNING:  DIMINISHED ANTIPLATELET EFFECT IN PATIENTS WITH TWO LOSS-OF-FUNCTION ALLELES OF THE CYP2C19 GENE
+
+   See full prescribing information for complete boxed warning.  
+
+ *  Effectiveness of Plavix depends on conversion to an active metabolite by the cytochrome P450 (CYP) system, principally CYP2C19. (5.1, 12.3) 
+ *  Tests are available to identify patients who are CYP2C19 poor metabolizers. (12.5) 
+ *  Consider use of another platelet P2Y12 inhibitor in patients identified as CYP2C19 poor metabolizers. (5.1) 
+    
+ 
+
+    The effectiveness of Plavix results from its antiplatelet activity, which is dependent on its conversion to an active metabolite by the cytochrome P450 (CYP) system, principally CYP2C19   [see   Warnings and Precautions (5.1)  ,   Clinical Pharmacology (12.3)  ]  .  Plavix at recommended doses forms less of  the active metabolite and so has a  reduced≠B-NonOSE_AE   effect≠I-NonOSE_AE   on≠I-NonOSE_AE   platelet≠I-NonOSE_AE   activity≠I-NonOSE_AE  in patients who are  homozygous≠B-Not_AE_Candidate   for≠I-Not_AE_Candidate   nonfunctional≠I-Not_AE_Candidate   alleles≠I-Not_AE_Candidate   of≠I-Not_AE_Candidate   the≠I-Not_AE_Candidate   CYP≠I-Not_AE_Candidate  2≠I-Not_AE_Candidate  C≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  9≠I-Not_AE_Candidate   gene≠I-Not_AE_Candidate , (termed  "≠B-Not_AE_Candidate  CYP≠I-Not_AE_Candidate  2≠I-Not_AE_Candidate  C≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  9≠I-Not_AE_Candidate   poor≠I-Not_AE_Candidate   metabolizers≠I-Not_AE_Candidate  "≠I-Not_AE_Candidate ).  Tests are available to identify patients who are CYP2C19 poor metabolizers   [see   Clinical Pharmacology (12.5)  ]  .  Consider use of another platelet P2Y12 inhibitor in patients identified as CYP2C19 poor metabolizers.  
+

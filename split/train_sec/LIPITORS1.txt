@@ -1,0 +1,82 @@
+  6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed in greater detail in other sections of the label:
+
+  Rhabdomyolysis≠B-OSE_Labeled_AE  and  myopathy≠B-OSE_Labeled_AE   [see  Warnings and Precautions (5.1)  ]  
+
+  Liver≠B-OSE_Labeled_AE   enzyme≠I-OSE_Labeled_AE   abnormalities≠I-OSE_Labeled_AE   [see  Warnings and Precautions (5.2)  ]  
+
+   EXCERPT:   The most commonly reported adverse reactions (incidence >= 2%) in patients treated with LIPITOR in placebo-controlled trials regardless of causality were: nasopharyngitis, arthralgia, diarrhea, pain in extremity, and urinary tract infection (  6.1  ).
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Pfizer at (1-800-438-1985 and www.pfizer.com) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  .    
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+ In the LIPITOR placebo-controlled clinical trial database of 16,066 patients (8755 LIPITOR vs. 7311 placebo; age range 10-93 years, 39% women, 91% Caucasians, 3% Blacks, 2% Asians, 4% other) with a median treatment duration of 53 weeks, 9.7% of patients on LIPITOR and 9.5% of the patients on placebo discontinued due to adverse reactions regardless of causality. The five most common adverse reactions in patients treated with LIPITOR that led to treatment discontinuation and occurred at a rate greater than placebo were:  myalgia≠B-OSE_Labeled_AE  (0.7%),  diarrhea≠B-OSE_Labeled_AE  (0.5%),  nausea≠B-OSE_Labeled_AE  (0.4%),  alanine≠B-OSE_Labeled_AE   aminotransferase≠I-OSE_Labeled_AE   increase≠I-OSE_Labeled_AE  (0.4%), and  hepatic≠B-OSE_Labeled_AE   enzyme≠I-OSE_Labeled_AE   increase≠I-OSE_Labeled_AE  (0.4%).
+
+ The most commonly reported adverse reactions (incidence >= 2% and greater than placebo) regardless of causality, in patients treated with LIPITOR in placebo controlled trials (n=8755) were:  nasopharyngitis≠B-OSE_Labeled_AE  (8.3%),  arthralgia≠B-OSE_Labeled_AE  (6.9%),  diarrhea≠B-OSE_Labeled_AE  (6.8%),  pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE  (6.0%), and  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  (5.7%).
+
+ Table 3 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in >= 2% and at a rate greater than placebo in patients treated with LIPITOR (n=8755), from seventeen placebo-controlled trials.
+
+ Table 3. Clinical adverse reactions occurring in >= 2% in patients treated with any dose of LIPITOR and at an incidence greater than placebo regardless of causality (% of patients). 
+ Adverse Reaction [note: Adverse Reaction >= 2% in any dose greater than placebo]   Any doseN=8755  10 mgN=3908    20 mgN=188   40 mgN=604   80 mgN=4055  PlaceboN=7311   
+  
+  Nasopharyngitis≠B-OSE_Labeled_AE                  8.3            12.9           5.3          7.0          4.2          8.2           
+  Arthralgia≠B-OSE_Labeled_AE                       6.9            8.9            11.7         10.6         4.3          6.5           
+  Diarrhea≠B-OSE_Labeled_AE                         6.8            7.3            6.4          14.1         5.2          6.3           
+  Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE                6.0            8.5            3.7          9.3          3.1          5.9           
+  Urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE          5.7            6.9            6.4          8.0          4.1          5.6           
+  Dyspepsia≠B-OSE_Labeled_AE                        4.7            5.9            3.2          6.0          3.3          4.3           
+  Nausea≠B-OSE_Labeled_AE                           4.0            3.7            3.7          7.1          3.8          3.5           
+  Musculoskeletal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE             3.8            5.2            3.2          5.1          2.3          3.6           
+  Muscle≠B-OSE_Labeled_AE   Spasms≠I-OSE_Labeled_AE                    3.6            4.6            4.8          5.1          2.4          3.0           
+  Myalgia≠B-OSE_Labeled_AE                          3.5            3.6            5.9          8.4          2.7          3.1           
+  Insomnia≠B-OSE_Labeled_AE                         3.0            2.8            1.1          5.3          2.8          2.9           
+  Pharyngolaryngeal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE           2.3            3.9            1.6          2.8          0.7          2.1           
+             Other adverse reactions reported in placebo-controlled studies include:
+ 
+
+    Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   whole≠I-NonOSE_AE   :  malaise≠B-OSE_Labeled_AE ,  pyrexia≠B-OSE_Labeled_AE ;   Digestive≠B-NonOSE_AE   system≠I-NonOSE_AE :   abdominal≠B-OSE_Labeled_AE   discomfort≠I-OSE_Labeled_AE ,  eructation≠B-OSE_Labeled_AE ,  flatulence≠B-OSE_Labeled_AE ,  hepatitis≠B-OSE_Labeled_AE ,  cholestasis≠B-OSE_Labeled_AE ;   Musculoskeletal≠B-NonOSE_AE   system≠I-NonOSE_AE   :  musculoskeletal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   fatigue≠I-OSE_Labeled_AE ,  neck≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  joint≠B-OSE_Labeled_AE   swelling≠I-OSE_Labeled_AE ;   Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   nutritional≠I-NonOSE_AE   system≠I-NonOSE_AE   :  transaminases≠B-OSE_Labeled_AE   increase≠I-OSE_Labeled_AE ,  liver≠B-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   test≠I-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  blood≠B-OSE_Labeled_AE   alkaline≠I-OSE_Labeled_AE   phosphatase≠I-OSE_Labeled_AE   increase≠I-OSE_Labeled_AE ,  creatine≠B-OSE_Labeled_AE   phosphokinase≠I-OSE_Labeled_AE   increase≠I-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ;   Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   :  nightmare≠B-OSE_Labeled_AE ;   Respiratory≠B-NonOSE_AE   system≠I-NonOSE_AE :   epistaxis≠B-OSE_Labeled_AE ;   Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   appendages≠I-NonOSE_AE   :  urticaria≠B-OSE_Labeled_AE ;   Special≠B-NonOSE_AE   senses≠I-NonOSE_AE   :  vision≠B-OSE_Labeled_AE   blurred≠I-OSE_Labeled_AE ,  tinnitus≠B-OSE_Labeled_AE ;   Urogenital≠B-NonOSE_AE   system≠I-NonOSE_AE :   white≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   cells≠I-OSE_Labeled_AE   urine≠I-OSE_Labeled_AE   positive≠I-OSE_Labeled_AE .
+
+     Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT)  
+
+ In ASCOT  [see  Clinical Studies (14.1)  ]  involving 10,305 participants (age range 40-80 years, 19% women; 94.6% Caucasians, 2.6% Africans, 1.5% South Asians, 1.3% mixed/other) treated with LIPITOR 10 mg daily (n=5,168) or placebo (n=5,137), the safety and tolerability profile of the group treated with LIPITOR was comparable to that of the group treated with placebo during a median of 3.3 years of follow-up.
+
+     Collaborative Atorvastatin Diabetes Study (CARDS)  
+
+ In CARDS  [see  Clinical Studies (14.1)  ]  involving 2,838 subjects (age range 39-77 years, 32% women; 94.3% Caucasians, 2.4% South Asians, 2.3% Afro-Caribbean, 1.0% other) with  type≠B-Not_AE_Candidate   2≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate  treated with LIPITOR 10 mg daily (n=1,428) or placebo (n=1,410), there was no difference in the overall frequency of adverse reactions or serious adverse reactions between the treatment groups during a median follow-up of 3.9 years. No cases of  rhabdomyolysis≠B-NonOSE_AE  were reported.
+
+     Treating to New Targets Study (TNT)  
+
+ In TNT  [see  Clinical Studies (14.1)  ]  involving 10,001 subjects (age range 29-78 years, 19% women; 94.1% Caucasians, 2.9% Blacks, 1.0% Asians, 2.0% other) with clinically evident  CHD≠B-Not_AE_Candidate  treated with LIPITOR 10 mg daily (n=5006) or LIPITOR 80 mg daily (n=4995), there were more serious adverse reactions and discontinuations due to adverse reactions in the high-dose atorvastatin group (92, 1.8%; 497, 9.9%, respectively) as compared to the low-dose group (69, 1.4%; 404, 8.1%, respectively) during a median follow-up of 4.9 years. Persistent  transaminase≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  (>=3 * ULN twice within 4-10 days) occurred in 62 (1.3%) individuals with atorvastatin 80 mg and in nine (0.2%) individuals with atorvastatin 10 mg.  Elevations≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   CK≠I-OSE_Labeled_AE  (>= 10 * ULN) were low overall, but were higher in the high-dose atorvastatin treatment group (13, 0.3%) compared to the low-dose atorvastatin group (6, 0.1%).
+
+     Incremental Decrease in Endpoints through Aggressive Lipid Lowering Study (IDEAL)  
+
+ In IDEAL  [see  Clinical Studies (14.1)  ]  involving 8,888 subjects (age range 26-80 years, 19% women; 99.3% Caucasians, 0.4% Asians, 0.3% Blacks, 0.04% other) treated with LIPITOR 80 mg/day (n=4439) or simvastatin 20-40 mg daily (n=4449), there was no difference in the overall frequency of adverse reactions or serious adverse reactions between the treatment groups during a median follow-up of 4.8 years.
+
+     Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL)  
+
+ In SPARCL involving 4731 subjects (age range 21-92 years, 40% women; 93.3% Caucasians, 3.0% Blacks, 0.6% Asians, 3.1% other) without clinically evident  CHD≠B-Not_AE_Candidate  but with a  stroke≠B-Not_AE_Candidate  or  transient≠B-Not_AE_Candidate   ischemic≠I-Not_AE_Candidate   attack≠I-Not_AE_Candidate  (TIA) within the previous 6 months treated with LIPITOR 80 mg (n=2365) or placebo (n=2366) for a median follow-up of 4.9 years, there was a higher incidence of persistent  hepatic≠B-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  (>= 3 * ULN twice within 4-10 days) in the atorvastatin group (0.9%) compared to placebo (0.1%).  Elevations≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   CK≠I-OSE_Labeled_AE  (>10 * ULN) were rare, but were higher in the atorvastatin group (0.1%) compared to placebo (0.0%).  Diabetes≠B-OSE_Labeled_AE  was reported as an adverse reaction in 144 subjects (6.1%) in the atorvastatin group and 89 subjects (3.8%) in the placebo group  [see  Warnings and Precautions (5.5)  ]  .
+
+ In a post-hoc analysis, LIPITOR 80 mg reduced the incidence of  ischemic≠B-Not_AE_Candidate   stroke≠I-Not_AE_Candidate  (218/2365, 9.2% vs. 274/2366, 11.6%) and increased the incidence of  hemorrhagic≠B-OSE_Labeled_AE   stroke≠I-OSE_Labeled_AE  (55/2365, 2.3% vs. 33/2366, 1.4%) compared to placebo. The incidence of  fatal≠B-NonOSE_AE   hemorrhagic≠B-NonOSE_AE   stroke≠I-NonOSE_AE  was similar between groups (17 LIPITOR vs. 18 placebo). The incidence of non-fatal  hemorrhagic≠B-OSE_Labeled_AE   strokes≠I-OSE_Labeled_AE  was significantly greater in the atorvastatin group (38 non-fatal  hemorrhagic≠B-OSE_Labeled_AE   strokes≠I-OSE_Labeled_AE ) as compared to the placebo group (16 non-fatal  hemorrhagic≠B-NonOSE_AE   strokes≠I-NonOSE_AE ). Subjects who entered the study with a  hemorrhagic≠B-Not_AE_Candidate   stroke≠I-Not_AE_Candidate  appeared to be at increased risk for  hemorrhagic≠B-OSE_Labeled_AE   stroke≠I-OSE_Labeled_AE  [7 (16%) LIPITOR vs. 2 (4%) placebo].
+
+ There were no significant differences between the treatment groups for all-cause  mortality≠B-NonOSE_AE : 216 (9.1%) in the LIPITOR 80 mg/day group vs. 211 (8.9%) in the placebo group. The proportions of subjects who experienced  cardiovascular≠B-NonOSE_AE   death≠I-NonOSE_AE  were numerically smaller in the LIPITOR 80 mg group (3.3%) than in the placebo group (4.1%). The proportions of subjects who experienced non-cardiovascular  death≠B-NonOSE_AE  were numerically larger in the LIPITOR 80 mg group (5.0%) than in the placebo group (4.0%).
+
+     Adverse Reactions from Clinical Studies of LIPITOR in Pediatric Patients  
+
+ In a 26-week controlled study in boys and postmenarchal girls with HeFH (ages 10 years to 17 years) (n=140, 31% female; 92% Caucasians, 1.6% Blacks, 1.6% Asians, 4.8% other), the safety and tolerability profile of LIPITOR 10 to 20 mg daily, as an adjunct to diet to  reduce≠B-Not_AE_Candidate   total≠I-Not_AE_Candidate   cholesterol≠I-Not_AE_Candidate , LDL-C, and apo B levels, was generally similar to that of placebo  [see  Use in Special Populations (8.4)  and  Clinical Studies (14.6)  ]  .
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post-approval use of LIPITOR. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+ Adverse reactions associated with LIPITOR therapy reported since market introduction, that are not listed above, regardless of causality assessment, include the following:  anaphylaxis≠B-OSE_Labeled_AE ,  angioneurotic≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  bullous≠B-OSE_Labeled_AE   rashes≠I-OSE_Labeled_AE  (including  erythema≠B-OSE_Labeled_AE   multiforme≠I-OSE_Labeled_AE ,  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE , and  toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE ),  rhabdomyolysis≠B-OSE_Labeled_AE ,  myositis≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE ,  tendon≠B-OSE_Labeled_AE   rupture≠I-OSE_Labeled_AE ,  fatal≠B-NonOSE_AE  and non-fatal  hepatic≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  depression≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE ,  pancreatitis≠B-OSE_Labeled_AE  and  interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE .
+
+ There have been rare reports of  immune≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  mediated≠I-OSE_Labeled_AE   necrotizing≠I-OSE_Labeled_AE   myopathy≠I-OSE_Labeled_AE  associated with statin use  [see  Warnings and Precautions (5.1)  ]  .
+
+ There have been rare postmarketing reports of  cognitive≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE  (e.g.,  memory≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE ,  forgetfulness≠B-OSE_Labeled_AE ,  amnesia≠B-OSE_Labeled_AE ,  memory≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE ,  confusion≠B-OSE_Labeled_AE ) associated with statin use. These  cognitive≠B-OSE_Labeled_AE   issues≠I-OSE_Labeled_AE  have been reported for all statins. The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
+

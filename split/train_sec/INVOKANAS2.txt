@@ -1,0 +1,19 @@
+
+
+    BOXED WARNING: WARNING: LOWER LIMB AMPUTATION
+
+    WARNING: LOWER LIMB AMPUTATION  
+
+    *  An approximately 2-fold increased risk of  lower≠B-OSE_Labeled_AE   limb≠I-OSE_Labeled_AE   amputations≠I-OSE_Labeled_AE  associated with INVOKANA use was observed in CANVAS and CANVAS-R, two large, randomized, placebo-controlled trials in patients with  type≠B-Not_AE_Candidate   2≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate  who had established  cardiovascular≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  CVD≠I-Not_AE_Candidate ) or were at risk for  CVD≠B-Not_AE_Candidate . 
+ *   Amputations≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   toe≠I-OSE_Labeled_AE  and midfoot were most frequent; however,  amputations≠B-OSE_Labeled_AE   involving≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   leg≠I-OSE_Labeled_AE  were also observed. Some patients had multiple  amputations≠B-OSE_Labeled_AE , some involving both limbs. 
+ *  Before initiating, consider factors that may increase the risk of  amputation≠B-NonOSE_AE , such as a history of prior  amputation≠B-Not_AE_Candidate ,  peripheral≠B-Not_AE_Candidate   vascular≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate ,  neuropathy≠B-Not_AE_Candidate , and  diabetic≠B-Not_AE_Candidate   foot≠I-Not_AE_Candidate   ulcers≠I-Not_AE_Candidate . 
+ *  Monitor patients receiving INVOKANA for  infection≠B-NonOSE_AE , new  pain≠B-NonOSE_AE  or  tenderness≠B-NonOSE_AE ,  sores≠B-NonOSE_AE  or ulcers  involving≠I-NonOSE_AE   the≠I-NonOSE_AE   lower≠I-NonOSE_AE   limbs≠I-NonOSE_AE , and discontinue if these complications occur [see Warnings and Precautions (5.1)]. 
+      EXCERPT:   WARNING: LOWER LIMB AMPUTATION
+ 
+
+   See full prescribing information for complete boxed warning.  
+
+ *  In patients with type 2 diabetes who have established cardiovascular disease (CVD) or at risk for CVD, INVOKANA has been associated with lower limb amputations, most frequently of the toe and midfoot; some also involved the leg (5.1) 
+ *  Before initiating, consider factors that may increase the risk of amputation. Monitor patients receiving INVOKANA for infections or ulcers of the lower limbs, and discontinue if these occur. (5.1) 
+    
+

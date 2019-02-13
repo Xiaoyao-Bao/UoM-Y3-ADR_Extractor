@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="TOBRADEX_ST">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available.
+
+
+
+ The most frequent adverse reactions to topical ocular tobramycin (TOBREX  (r)  ) are hypersensitivity and localized ocular toxicity, including eye pain, eyelids pruritus, eyelid edema, and conjunctival hyperemia. These reactions occur in less than 4% of patients. Similar reactions may occur with the topical use of other aminoglycoside antibiotics.
+
+
+
+ The reactions due to the steroid component are: increased intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve disorder; subcapsular cataract; and impaired healing.
+
+
+
+ Secondary Infection.
+
+
+
+ The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs.
+
+
+
+ Non-ocular adverse events occurring at an incidence of 0.5% to 1% included headache and increased blood pressure.
+
+
+
+   EXCERPT:   Most common adverse reactions to topical ocular tobramycin are hypersensitivity and localized ocular toxicity, including eye pain, eyelids pruritus, eyelid edema, and conjunctival hyperemia. The reactions due to the steroid component are increases in intraocular pressure with possible development of glaucoma.
+
+
+
+        
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Alcon Laboratories, Inc. at 1-800-757-9195 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  .
+
+
+
+ 
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:    Intraocular pressure (IOP) increase-Prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision. If this product is used for 10 days or longer, IOP should be monitored. ( 5.1  ).
+
+
+
+  Sensitivity to topically applied aminoglycosides may occur. (   5.2    )
+
+
+
+  Cataracts- Use of corticosteroids may result in posterior subcapsular cataract formation. (   5.3    )
+
+
+
+  Delayed healing- The use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation. In those diseases causing thinning of the cornea or sclera, perforations have been known to occur with the use of topical steroids. The initial prescription and renewal of the medication order should be made by a physician only after examination of the patient with the aid of magnification such as slit lamp biomicroscopy and, where appropriate, fluorescein staining. (   5.4    )
+
+
+
+  Bacterial infections- Prolonged use of corticosteroids may suppress the host response and thus increase the hazard of secondary ocular infections. In acute purulent conditions, steroids may mask infection or enhance existing infection. If signs and symptoms fail to improve after 2 days, the patient should be re-evaluated. (   5.5    )
+
+
+
+  Viral infections- Employment of a corticosteroid medication in the treatment of patients with a history of herpes simplex requires great caution. Use of ocular steroids may prolong the course and may exacerbate the severity of many viral infections of the eye (including herpes simplex). (   5.6    )
+
+
+
+  Fungal infections- Fungal infections of the cornea are particularly prone to develop coincidentally with long-term local steroid application. Fungus invasion must be considered in any persistent corneal ulceration where a steroid has been used or is in use. (   5.7    )
+
+
+
+  If product is used in combination with systemic aminoglycoside antibiotics the patient should be monitored for total serum concentration of tobramycin. (   5.8    )
+
+
+
+ 
+
+
+
+   5.1 IOP increase
+
+
+
+  Prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision. If this product is used for 10 days or longer, IOP should be monitored.
+
+
+
+    5.2 Aminoglycoside sensitivity
+
+
+
+  Sensitivity to topically applied aminoglycosides may occur.
+
+
+
+    5.3 Cataracts
+
+
+
+  Use of corticosteroids may result in posterior subcapsular cataract formation.
+
+
+
+    5.4 Delayed Healing
+
+
+
+  The use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation. In those diseases causing thinning of the cornea or sclera, perforations have been known to occur with the use of topical steroids. The initial prescription and renewal of the medication order should be made by a physician only after examination of the patient with the aid of magnification such as slit lamp biomicroscopy and, where appropriate, fluorescein staining.
+
+
+
+    5.5 Bacterial infections
+
+
+
+  Prolonged use of corticosteroids may suppress the host response and thus increase the hazard of secondary ocular infections. In acute purulent conditions, steroids may mask infection or enhance existing infection. If signs and symptoms fail to improve after 2 days, the patient should be re-evaluated.
+
+
+
+    5.6 Viral infections
+
+
+
+  Employment of a corticosteroid medication in the treatment of patients with a history of herpes simplex requires great caution. Use of ocular steroids may prolong the course and may exacerbate the severity of many viral infections of the eye (including herpes simplex).
+
+
+
+    5.7 Fungal infections
+
+
+
+  Fungal infections of the cornea are particularly prone to develop coincidentally with long-term local steroid application. Fungus invasion must be considered in any persistent corneal ulceration where a steroid has been used or is in use.
+
+
+
+    5.8 Use with systemic aminoglycosides
+
+
+
+  If product is used in combination with systemic aminoglycoside antibiotics the patient should be monitored for total serum concentration.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="2061" name="excerpt" section="S2" start="35" />
+    <IgnoredRegion len="490" name="excerpt" section="S1" start="1423" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="2103" />
+    <IgnoredRegion len="30" name="heading" section="S2" start="2339" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2442" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="2547" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="3055" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="3394" />
+    <IgnoredRegion len="21" name="heading" section="S2" start="3697" />
+    <IgnoredRegion len="37" name="heading" section="S2" start="3970" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,118 @@
+   PRECAUTIONS
+
+   General
+
+  Excessive  diuresis≠B-NonOSE_AE  may cause  dehydration≠B-OSE_Labeled_AE  and  blood≠B-OSE_Labeled_AE   volume≠I-OSE_Labeled_AE   reduction≠I-OSE_Labeled_AE  with  circulatory≠B-OSE_Labeled_AE   collapse≠I-OSE_Labeled_AE  and possibly  vascular≠B-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE  and embolism, particularly in elderly patients. As with any effective  diuretic≠B-NonOSE_AE ,  electrolyte≠B-OSE_Labeled_AE   depletion≠I-OSE_Labeled_AE  may occur during furosemide therapy, especially in patients receiving higher doses and a restricted salt intake.  Hypokalemia≠B-OSE_Labeled_AE  may develop with furosemide, especially with brisk  diuresis≠B-NonOSE_AE , inadequate oral electrolyte intake, when  cirrhosis≠B-Not_AE_Candidate  is present, or during concomitant use of corticosteroids, ACTH, licorice in large amounts, or prolonged use of laxatives. Digitalis therapy may exaggerate metabolic effects of  hypokalemia≠B-NonOSE_AE , especially  myocardial≠B-NonOSE_AE   effects≠I-NonOSE_AE .
+
+ All patients receiving furosemide therapy should be observed for these signs or symptoms of  fluid≠B-NonOSE_AE  or electrolyte  imbalance≠I-NonOSE_AE  ( hyponatremia≠B-NonOSE_AE ,  hypochloremic≠B-NonOSE_AE   alkalosis≠I-NonOSE_AE ,  hypokalemia≠B-NonOSE_AE ,  hypomagnesemia≠B-NonOSE_AE  or  hypocalcemia≠B-NonOSE_AE ):  dryness≠B-NonOSE_AE   of≠I-NonOSE_AE   mouth≠I-NonOSE_AE ,  thirst≠B-NonOSE_AE ,  weakness≠B-NonOSE_AE ,  lethargy≠B-NonOSE_AE ,  drowsiness≠B-NonOSE_AE ,  restlessness≠B-NonOSE_AE ,  muscle≠B-NonOSE_AE   pains≠I-NonOSE_AE  or cramps,  muscular≠B-NonOSE_AE   fatigue≠I-NonOSE_AE ,  hypotension≠B-NonOSE_AE ,  oliguria≠B-NonOSE_AE ,  tachycardia≠B-NonOSE_AE ,  arrhythmia≠B-NonOSE_AE , or  gastrointestinal≠B-NonOSE_AE   disturbances≠I-NonOSE_AE  such as  nausea≠B-NonOSE_AE  and  vomiting≠B-NonOSE_AE .  Increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   glucose≠I-OSE_Labeled_AE  and  alterations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   glucose≠I-OSE_Labeled_AE   tolerance≠I-OSE_Labeled_AE   tests≠I-OSE_Labeled_AE  (with  abnormalities≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   fasting≠I-OSE_Labeled_AE  and 2-hour postprandial  sugar≠I-OSE_Labeled_AE ) have been observed, and rarely, precipitation of  diabetes≠B-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE  has been reported.
+
+ In patients with severe symptoms of  urinary≠B-Not_AE_Candidate   retention≠I-Not_AE_Candidate  (because of  bladder≠B-Not_AE_Candidate   emptying≠I-Not_AE_Candidate   disorders≠I-Not_AE_Candidate ,  prostatic≠B-Not_AE_Candidate   hyperplasia≠I-Not_AE_Candidate ,  urethral≠B-Not_AE_Candidate   narrowing≠I-Not_AE_Candidate ), the administration of furosemide can cause  acute≠B-OSE_Labeled_AE   urinary≠I-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE  related to  increased≠B-NonOSE_AE   production≠I-NonOSE_AE  and retention  of≠I-NonOSE_AE   urine≠I-NonOSE_AE . Thus, these patients require careful monitoring, especially during the initial stages of treatment.
+
+ In patients at high risk for  radiocontrast≠B-Not_AE_Candidate   nephropathy≠I-Not_AE_Candidate  furosemide can lead to a higher incidence of  deterioration≠B-NonOSE_AE   in≠I-NonOSE_AE   renal≠I-NonOSE_AE   function≠I-NonOSE_AE  after receiving radiocontrast compared to high-risk patients who received only intravenous hydration prior to receiving radiocontrast.
+
+ In patients with  hypoproteinemia≠B-Not_AE_Candidate  (e.g., associated with  nephrotic≠B-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate ) the effect of furosemide may be weakened and its  ototoxicity≠B-OSE_Labeled_AE  potentiated.
+
+ Asymptomatic  hyperuricemia≠B-OSE_Labeled_AE  can occur and  gout≠B-OSE_Labeled_AE  may rarely be precipitated.
+
+ Patients  allergic≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   sulfonamides≠I-OSE_Labeled_AE   may≠I-OSE_Labeled_AE   also≠I-OSE_Labeled_AE   be≠I-OSE_Labeled_AE   allergic≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   furosemide≠I-OSE_Labeled_AE . The possibility exists of exacerbation or activation of  systemic≠B-OSE_Labeled_AE   lupus≠I-OSE_Labeled_AE   erythematosus≠I-OSE_Labeled_AE .
+
+ As with many other drugs, patients should be observed regularly for the possible occurrence of  blood≠B-NonOSE_AE   dyscrasias≠I-NonOSE_AE ,  liver≠B-NonOSE_AE  or kidney  damage≠I-NonOSE_AE , or other  idiosyncratic≠B-NonOSE_AE   reactions≠I-NonOSE_AE .
+
+    Information for Patients
+
+  Patients receiving furosemide should be advised that they may experience symptoms from excessive  fluid≠B-NonOSE_AE  and/or electrolyte  losses≠I-NonOSE_AE . The  postural≠B-NonOSE_AE   hypotension≠I-NonOSE_AE  that sometimes occurs can usually be managed by getting up slowly. Potassium supplements and/or dietary measures may be needed to control or avoid  hypokalemia≠B-NonOSE_AE .
+
+ Patients with  diabetes≠B-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate  should be told that furosemide may  increase≠B-NonOSE_AE   blood≠I-NonOSE_AE   glucose≠I-NonOSE_AE   levels≠I-NonOSE_AE  and thereby affect urine glucose tests. The  skin≠B-NonOSE_AE   of≠I-NonOSE_AE   some≠I-NonOSE_AE   patients≠I-NonOSE_AE   may≠I-NonOSE_AE   be≠I-NonOSE_AE   more≠I-NonOSE_AE   sensitive≠I-NonOSE_AE   to≠I-NonOSE_AE   the≠I-NonOSE_AE   effects≠I-NonOSE_AE   of≠I-NonOSE_AE   sunlight≠I-NonOSE_AE  while taking furosemide.
+
+  Hypertensive≠B-Not_AE_Candidate  patients should avoid medications that may  increase≠B-NonOSE_AE   blood≠I-NonOSE_AE   pressure≠I-NonOSE_AE , including over-the-counter products for  appetite≠B-Not_AE_Candidate   suppression≠I-Not_AE_Candidate  and  cold≠B-Not_AE_Candidate   symptoms≠I-Not_AE_Candidate .
+
+    Laboratory Tests
+
+  Serum electrolytes (particularly potassium), CO2, creatinine and BUN should be determined frequently during the first few months of furosemide therapy and periodically thereafter. Serum and urine electrolyte determinations are particularly important when the patient is  vomiting≠B-NonOSE_AE  profusely or receiving parenteral fluids. Abnormalities should be corrected or the drug temporarily withdrawn. Other medications may also influence serum electrolytes.
+
+ Reversible  elevations≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   BUN≠I-OSE_Labeled_AE  may occur and are associated with  dehydration≠B-OSE_Labeled_AE , which should be avoided, particularly in patients with  renal≠B-Not_AE_Candidate   insufficiency≠I-Not_AE_Candidate .
+
+ Urine and blood glucose should be checked periodically in  diabetics≠B-Not_AE_Candidate  receiving furosemide, even in those suspected of latent  diabetes≠B-Not_AE_Candidate .
+
+ Furosemide may  lower≠B-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   calcium≠I-OSE_Labeled_AE  (rarely cases of  tetany≠B-OSE_Labeled_AE  have been reported) and magnesium. Accordingly, serum levels of these electrolytes should be determined periodically.
+
+ In  premature≠B-Not_AE_Candidate   infants≠I-Not_AE_Candidate  furosemide may precipitate  nephrocalcinosis≠B-OSE_Labeled_AE / nephrolithiasis≠B-OSE_Labeled_AE , therefore renal function must be monitored and renal ultrasonography performed. (See   PRECAUTIONS: Pediatric Use    )
+
+    Drug Interactions
+
+  Furosemide may increase the  ototoxic≠B-NonOSE_AE  potential of aminoglycoside antibiotics, especially in the presence of  impaired≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate . Except in life-threatening situations, avoid this combination.
+
+ Furosemide should not be used concomitantly with ethacrynic acid because of the possibility of  ototoxicity≠B-NonOSE_AE . Patients receiving high doses of salicylates concomitantly with furosemide, as in rheumatic disease, may experience  salicylate≠B-NonOSE_AE   toxicity≠I-NonOSE_AE  at lower doses because of competitive renal excretory sites.
+
+ There is a risk of  ototoxic≠B-NonOSE_AE  effects if cisplatin and furosemide are given concomitantly. In addition,  nephrotoxicity≠B-NonOSE_AE  of  nephrotoxic≠B-NonOSE_AE   drugs≠I-NonOSE_AE  such as cisplatin may be enhanced if furosemide is not given in lower doses and with  positive≠B-NonOSE_AE   fluid≠I-NonOSE_AE   balance≠I-NonOSE_AE  when used to achieve forced  diuresis≠B-NonOSE_AE  during cisplatin treatment.
+
+ Furosemide has a tendency to antagonize the skeletal muscle relaxing effect of tubocurarine and may potentiate the action of succinylcholine.
+
+ Lithium generally should not be given with  diuretics≠B-NonOSE_AE  because they reduce lithium's renal clearance and add a high risk of  lithium≠B-NonOSE_AE   toxicity≠I-NonOSE_AE .
+
+ Furosemide combined with angiotensin converting enzyme inhibitors or angiotensin II receptor blockers may lead to severe  hypotension≠B-NonOSE_AE  and  deterioration≠B-NonOSE_AE   in≠I-NonOSE_AE   renal≠I-NonOSE_AE   function≠I-NonOSE_AE , including  renal≠B-NonOSE_AE   failure≠I-NonOSE_AE . An interruption or reduction in the dosage of furosemide, angiotensin converting enzyme inhibitors, or angiotensin receptor blockers may be necessary.
+
+ Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs.
+
+ Furosemide may  decrease≠B-NonOSE_AE   arterial≠I-NonOSE_AE   responsiveness≠I-NonOSE_AE  to norepinephrine. However, norepinephrine may still be used effectively.
+
+ Simultaneous administration of sucralfate and furosemide tablets may  reduce≠B-NonOSE_AE   the≠I-NonOSE_AE   natriuretic≠I-NonOSE_AE  and antihypertensive effects of furosemide. Patients receiving both drugs should be observed closely to determine if the desired  diuretic≠B-NonOSE_AE  and/or  antihypertensive≠B-NonOSE_AE   effect≠I-NonOSE_AE  of furosemide is achieved. The intake of furosemide and sucralfate should be separated by at least two hours.
+
+ In isolated cases, intravenous administration of furosemide within 24 hours of taking chloral hydrate may lead to  flushing≠B-NonOSE_AE ,  sweating≠B-NonOSE_AE   attacks≠I-NonOSE_AE ,  restlessness≠B-NonOSE_AE ,  nausea≠B-NonOSE_AE ,  increase≠B-NonOSE_AE   in≠I-NonOSE_AE   blood≠I-NonOSE_AE   pressure≠I-NonOSE_AE  and  tachycardia≠B-NonOSE_AE . Use of furosemide concomitantly with chloral hydrate is, therefore, not recommended.
+
+ Phenytoin interferes directly with renal action of furosemide. There is evidence that treatment with phenytoin leads to decrease intestinal absorption of furosemide, and consequently to lower peak serum furosemide concentrations.
+
+ Methotrexate and other drugs that , like furosemide, undergo significant renal tubular secretion may reduce the effect of furosemide. Conversely, furosemide may decrease renal elimination of other drugs that undergo tubular secretion. High-dose treatment of both furosemide and these other drugs, may result in elevated serum levels of these drugs and may potentiate their toxicity as well as the  toxicity≠B-NonOSE_AE   of≠I-NonOSE_AE   furosemide≠I-NonOSE_AE .
+
+ Furosemide can increase the risk of  cephalosporin≠B-NonOSE_AE  -≠I-NonOSE_AE  induced≠I-NonOSE_AE   nephrotoxicity≠I-NonOSE_AE  even in the setting of minor or transient  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate .
+
+ Concomitant use of cyclosporine and furosemide is associated with increased risk of  gouty≠B-NonOSE_AE   arthritis≠I-NonOSE_AE  secondary to furosemide-induced  hyperurecemia≠B-OSE_Labeled_AE  and cyclosporine  impairment≠B-NonOSE_AE   of≠I-NonOSE_AE   renal≠I-NonOSE_AE   urate≠I-NonOSE_AE   excretion≠I-NonOSE_AE .
+
+ High doses (> 80 mg) of furosemide may inhibit the binding of thyroid hormones to carrier proteins and result in transient  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   free≠I-OSE_Labeled_AE   thyroid≠I-OSE_Labeled_AE   hormones≠I-OSE_Labeled_AE , followed by an overall  decrease≠B-NonOSE_AE   in≠I-NonOSE_AE   total≠I-NonOSE_AE   thyroid≠I-NonOSE_AE   hormone≠I-NonOSE_AE   levels≠I-NonOSE_AE .
+
+ One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily  reduced≠B-NonOSE_AE   creatinine≠I-NonOSE_AE   clearance≠I-NonOSE_AE  in patients with  chronic≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   insufficiency≠I-Not_AE_Candidate . There are case reports of patients who developed  increased≠B-NonOSE_AE   BUN≠I-NonOSE_AE , serum creatinine and serum potassium levels, and  weight≠B-NonOSE_AE   gain≠I-NonOSE_AE  when furosemide was used in conjunction with NSAIDs.
+
+ Literature reports indicate that coadministration of indomethacin may  reduce≠B-NonOSE_AE   the≠I-NonOSE_AE   natriuretic≠I-NonOSE_AE  and antihypertensive  effects≠I-NonOSE_AE  of furosemide in some patients by inhibiting prostaglandin synthesis. Indomethacin may also affect plasma renin levels, aldosterone excretion, and renin profile evaluation. Patients receiving both indomethacin and furosemide should be observed closely to determine if the desired  diuretic≠B-NonOSE_AE  and/or  antihypertensive≠B-NonOSE_AE   effect≠I-NonOSE_AE  of furosemide is achieved.
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+  Furosemide was tested for  carcinogenicity≠B-NonOSE_AE  by oral administration in one strain of mice and one strain of rats. A small but significantly increased incidence of  mammary≠B-NonOSE_AE   gland≠I-NonOSE_AE   carcinomas≠I-NonOSE_AE  occurred in female mice at a dose 17.5 times the maximum human dose of 600 mg. There were marginal increases in uncommon  tumors≠B-NonOSE_AE  in male rats at a dose of 15 mg/kg (slightly greater than the maximum human dose) but not at 30 mg/kg.
+
+ Furosemide was devoid of  mutagenic≠B-NonOSE_AE  activity in various strains of Salmonella typhimurium  when tested in the presence or absence of an in vitro  metabolic activation system, and questionably  positive≠B-NonOSE_AE   for≠I-NonOSE_AE   gene≠I-NonOSE_AE   mutation≠I-NonOSE_AE   in≠I-NonOSE_AE   mouse≠I-NonOSE_AE   lymphoma≠I-NonOSE_AE   cells≠I-NonOSE_AE   in≠I-NonOSE_AE   the≠I-NonOSE_AE   presence≠I-NonOSE_AE   of≠I-NonOSE_AE   rat≠I-NonOSE_AE   liver≠I-NonOSE_AE  S9 at the highest dose tested. Furosemide did not induce  sister≠B-NonOSE_AE   chromatid≠I-NonOSE_AE   exchange≠I-NonOSE_AE  in human cells in vitro,  but other studies on  chromosomal≠B-NonOSE_AE   aberrations≠I-NonOSE_AE  in human cells in vitro  gave conflicting results. In Chinese hamster cells it induced  chromosomal≠B-NonOSE_AE   damage≠I-NonOSE_AE  but was questionably  positive≠B-NonOSE_AE   for≠I-NonOSE_AE   sister≠I-NonOSE_AE   chromatid≠I-NonOSE_AE   exchange≠I-NonOSE_AE . Studies on the induction by furosemide of  chromosomal≠B-NonOSE_AE   aberrations≠I-NonOSE_AE  in mice were inconclusive. The urine of rats treated with this drug did not  induce≠B-NonOSE_AE   gene≠I-NonOSE_AE   conversion≠I-NonOSE_AE   in≠I-NonOSE_AE   Saccharomyces≠I-NonOSE_AE   cerevisiae≠I-NonOSE_AE .  
+
+ Furosemide produced  no≠B-NonOSE_AE   impairment≠I-NonOSE_AE   of≠I-NonOSE_AE   fertility≠I-NonOSE_AE  in male or female rats, at 100 mg/kg/day (the maximum effective  diuretic≠B-NonOSE_AE  dose in the rat and 8 times the maximal human dose of 600 mg/day).
+
+    Pregnancy
+
+   Pregnancy Category C
+
+  Furosemide has been shown to cause unexplained  maternal≠B-NonOSE_AE   deaths≠I-NonOSE_AE  and  abortions≠B-NonOSE_AE  in rabbits at 2, 4 and 8 times the maximal recommended human dose. There are no adequate and well-controlled studies in  pregnant≠B-Not_AE_Candidate  women. Furosemide should be used during  pregnancy≠B-Not_AE_Candidate  only if the potential benefit justifies the potential  risk≠B-NonOSE_AE   to≠I-NonOSE_AE   the≠I-NonOSE_AE   fetus≠I-NonOSE_AE .
+
+ Treatment during  pregnancy≠B-Not_AE_Candidate  requires monitoring of fetal growth because of the potential for  higher≠B-OSE_Labeled_AE   birth≠I-OSE_Labeled_AE   weights≠I-OSE_Labeled_AE .
+
+ The effects of furosemide on embryonic and fetal development and on  pregnant≠B-NonOSE_AE  dams were studied in mice, rats and rabbits.
+
+ Furosemide caused unexplained  maternal≠B-NonOSE_AE   deaths≠I-NonOSE_AE  and  abortions≠B-NonOSE_AE  in the rabbit at the lowest dose of 25 mg/kg (2 times the maximal recommended human dose of 600 mg/day). In another study, a dose of 50 mg/kg (4 times the maximal recommended human dose of 600 mg/day) also caused  maternal≠B-NonOSE_AE   deaths≠I-NonOSE_AE  and  abortions≠B-NonOSE_AE  when administered to rabbits between Days 12 and 17 of gestation. In a third study, none of the  pregnant≠B-NonOSE_AE  rabbits survived a dose of 100 mg/kg. Data from the above studies indicate  fetal≠B-NonOSE_AE   lethality≠I-NonOSE_AE  that can precede  maternal≠B-NonOSE_AE   deaths≠I-NonOSE_AE .
+
+ The results of the mouse study and one of the three rabbit studies also showed an increased incidence and severity of  hydronephrosis≠B-NonOSE_AE  (distention of the renal pelvis and,  in≠I-NonOSE_AE  some cases, of the ureters) in  fetuses≠I-NonOSE_AE  derived from the treated dams as compared with the incidence in fetuses from the control group.
+
+    Nursing Mothers
+
+  Because it appears in breast milk, caution should be exercised when furosemide is administered to a nursing mother.
+
+ Furosemide may  inhibit≠B-OSE_Labeled_AE   lactation≠I-OSE_Labeled_AE .
+
+    Pediatric Use
+
+  In  premature≠B-Not_AE_Candidate   infants≠I-Not_AE_Candidate  furosemide may precipitate  nephrocalcinosis≠B-OSE_Labeled_AE / nephrolithiasis≠B-OSE_Labeled_AE .
+
+  Nephrocalcinosis≠B-OSE_Labeled_AE / nephrolithiasis≠B-OSE_Labeled_AE  has also been observed in children under 4 years of age with no history of  prematurity≠B-Not_AE_Candidate  who have been treated chronically with furosemide. Monitor renal function, and renal ultrasonography should be considered, in pediatric patients receiving furosemide.
+
+ If furosemide is administered to  premature≠B-Not_AE_Candidate   infants≠I-Not_AE_Candidate  during the first weeks of life, it may increase the risk of persistence of  patent≠B-OSE_Labeled_AE   ductus≠I-OSE_Labeled_AE   arteriosus≠I-OSE_Labeled_AE .
+
+    Geriatric Use
+
+  Controlled clinical studies of furosemide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of  decreased≠B-Not_AE_Candidate   hepatic≠I-Not_AE_Candidate , renal or cardiac  function≠I-Not_AE_Candidate , and of concomitant disease or other drug therapy.
+
+ This drug is known to be substantially excreted by the kidney, and the risk of  toxic≠B-NonOSE_AE   reactions≠I-NonOSE_AE  to this drug may be greater in patients with  impaired≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate . Because elderly patients are more likely to have  decreased≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate , care should be taken in dose selection and it may be useful to monitor renal function. (See   PRECAUTIONS: General    and   DOSAGE AND ADMINISTRATION    .)
+

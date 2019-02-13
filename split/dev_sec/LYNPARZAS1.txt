@@ -1,0 +1,145 @@
+    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed elsewhere in the labeling:
+
+
+
+ *     Myelodysplastic≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE / Acute≠B-OSE_Labeled_AE   Myeloid≠I-OSE_Labeled_AE   Leukemia≠I-OSE_Labeled_AE  [see    Warnings and Precautions (5.1)    ]  
+ *     Pneumonitis≠B-OSE_Labeled_AE  [see    Warnings and Precautions (5.2)    ]  
+   *    Most common adverse reactions (>=20%) in clinical trials were  anemia≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE  (including  asthenia≠B-OSE_Labeled_AE ),  vomiting≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  dysgeusia≠B-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  nasopharyngitis≠B-OSE_Labeled_AE / pharyngitis≠B-OSE_Labeled_AE / URI≠B-OSE_Labeled_AE ,  cough≠B-OSE_Labeled_AE ,  arthralgia≠B-OSE_Labeled_AE / musculoskeletal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  myalgia≠B-OSE_Labeled_AE ,  back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  dermatitis≠B-OSE_Labeled_AE / rash≠B-OSE_Labeled_AE  and  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE /discomfort. (  6.1  ) 
+ *    Most common laboratory abnormalities (>=25%) were  increase≠B-OSE_Labeled_AE  in  creatinine≠I-OSE_Labeled_AE ,  mean≠B-OSE_Labeled_AE   corpuscular≠I-OSE_Labeled_AE   volume≠I-OSE_Labeled_AE   elevation≠I-OSE_Labeled_AE ,  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE ,  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   lymphocytes≠I-OSE_Labeled_AE ,  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   absolute≠I-OSE_Labeled_AE   neutrophil≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE , and  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   platelets≠I-OSE_Labeled_AE . (  6.1  ) 
+      EXCERPT:   To report SUSPECTED ADVERSE REACTIONS, contact AstraZeneca at 1-800-236-9933 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Lynparza 400 mg twice daily as monotherapy, has been studied in 300 patients with g   BRCA≠B-Not_AE_Candidate    -≠I-Not_AE_Candidate  mutated≠I-Not_AE_Candidate   advanced≠I-Not_AE_Candidate   ovarian≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate , and 223 of these patients had received 3 or more prior lines of chemotherapy.
+
+
+
+ In the 223 patients with  g≠B-Not_AE_Candidate    BRCA≠I-Not_AE_Candidate    -≠I-Not_AE_Candidate  mutated≠I-Not_AE_Candidate   ovarian≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  who received 3 or more prior lines of chemotherapy (including 137 patients in Study 1 with measureable disease)  [see      Clinical Studies (14)      ]  , adverse reactions led to dose interruption in 40% of patients, dose reduction in 4%, and discontinuation in 7%. There were 8 (4%) patients with adverse reactions leading to  death≠B-NonOSE_AE , two were attributed to  acute≠B-OSE_Labeled_AE   leukemia≠I-OSE_Labeled_AE , and one each was attributed to  COPD≠B-OSE_Labeled_AE ,  cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE ,  intestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE ,  sepsis≠B-OSE_Labeled_AE , and suture rupture. Table 1 presents the frequency of adverse reactions reported in >=20% of 223 patients (in 6 studies) with  g≠B-Not_AE_Candidate    BRCA≠I-Not_AE_Candidate    -≠I-Not_AE_Candidate  mutated≠I-Not_AE_Candidate   advanced≠I-Not_AE_Candidate   ovarian≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  who had received 3 or more prior lines of chemotherapy who were treated with Lynparza 400 mg twice daily. The median exposure to Lynparza in these patients was 158 days.
+
+
+
+ Table 1 Adverse Reactions Reported in >=20% of Patients with gBRCA-Mutated Advanced Ovarian Cancer Receiving Lynparza 
+                                                       3 or more lines of prior chemotherapy    
+  Adverse Reaction                                     Grades 1-4  N=223  %    Grades 3-4  N=223  %    
+   Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   disorders≠I-NonOSE_AE                         
+                                                       Anemia≠B-OSE_Labeled_AE                                               
+                                                                                                            34                      18                     
+   Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE                            
+                                                       Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE /discomfort                           
+                                                                                                            43                      8                      
+                                                       Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE                                   
+                                                                                                            22                      1                      
+                                                       Nausea≠B-OSE_Labeled_AE                                               
+                                                                                                            64                      3                      
+                                                       Vomiting≠B-OSE_Labeled_AE                                             
+                                                                                                            43                      4                      
+                                                       Diarrhea≠B-OSE_Labeled_AE                                             
+                                                                                                            31                      1                      
+                                                       Dyspepsia≠B-OSE_Labeled_AE                                            
+                                                                                                            25                      0                      
+   General≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                     
+                                                       Fatigue≠B-OSE_Labeled_AE / asthenia≠B-OSE_Labeled_AE                                     
+                                                                                                            66                      8                      
+   Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE                                                                          
+                                                       Nasopharyngitis≠B-OSE_Labeled_AE / URI≠B-OSE_Labeled_AE                                  
+                                                                                                            26                      0                      
+   Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                      
+                                                       Arthralgia≠B-OSE_Labeled_AE / musculoskeletal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                      
+                                                                                                            21                      0                      
+                                                       Myalgia≠B-OSE_Labeled_AE                                              
+                                                                                                            22                      0                      
+         Table 2 presents the frequency of  abnormal≠B-NonOSE_AE   laboratory≠I-NonOSE_AE   findings≠I-NonOSE_AE  in the 223 patients with  g≠B-Not_AE_Candidate    BRCA≠I-Not_AE_Candidate    -≠I-Not_AE_Candidate  mutated≠I-Not_AE_Candidate   advanced≠I-Not_AE_Candidate   ovarian≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  who had received three or more prior lines of chemotherapy receiving Lynparza 400 mg twice daily.
+ 
+
+ Table 2 Laboratory Abnormalities Reported in Patients with gBRCA-Mutated Advanced Ovarian Cancer Receiving Lynparza 
+  Laboratory Parameter1                                3 or more lines of prior chemotherapy    
+  Grades 1-4  N=223  %                                 Grades 3-4  N=223  %    
+   Decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE  ( anemia≠B-OSE_Labeled_AE )                      90                      15                     
+   Decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   absolute≠I-OSE_Labeled_AE   neutrophil≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE  ( neutropenia≠B-OSE_Labeled_AE )    25                      7                      
+   Decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   platelets≠I-OSE_Labeled_AE  ( thrombocytopenia≠B-OSE_Labeled_AE )             30                      3                      
+   Decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   lymphocytes≠I-OSE_Labeled_AE  ( lymphopenia≠B-OSE_Labeled_AE )                56                      17                     
+   Mean≠B-OSE_Labeled_AE   corpuscular≠I-OSE_Labeled_AE   volume≠I-OSE_Labeled_AE   elevation≠I-OSE_Labeled_AE                     57                      -                      
+   Increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE                                30                      2                      
+         The following adverse reactions and  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  have been identified in >=10 to <20% of the 223 patients receiving Lynparza and not included in the table:  cough≠B-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE ,  dysgeusia≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE , and  rash≠B-OSE_Labeled_AE . The following adverse reactions and  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  have been identified in >=1 to <10% of the 223 patients receiving Lynparza and not included in the table:  leukopenia≠B-OSE_Labeled_AE ,  stomatitis≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE ,  pyrexia≠B-OSE_Labeled_AE ,  hypomagnesemia≠B-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  anxiety≠B-OSE_Labeled_AE ,  depression≠B-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  dysuria≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   incontinence≠I-OSE_Labeled_AE ,  vulvovaginal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE /  eczema≠B-OSE_Labeled_AE ,  pruritis≠B-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE ,  venous≠B-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE  (including  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE ), and  hot≠B-OSE_Labeled_AE   flush≠I-OSE_Labeled_AE .
+ 
+
+ Table 3 presents adverse reactions reported in >=20% of patients from a randomized trial of Lynparza 400 mg twice daily as maintenance monotherapy compared to placebo in patients with platinum sensitive, relapsed, high-grade serous  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  following treatment with 2 or more platinum-containing regimens. Table 4 presents the  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  in patients from this randomized trial. Of the 96 patients with  g≠B-Not_AE_Candidate    BRCA≠I-Not_AE_Candidate    -≠I-Not_AE_Candidate  mutation≠I-Not_AE_Candidate , 53 received Lynparza, and 43 received placebo. The median duration on treatment with Lynparza was 11.1 months for patients with a  g≠B-Not_AE_Candidate    BRCA≠I-Not_AE_Candidate    mutation≠I-Not_AE_Candidate  compared to 4.4 months for patients with  g≠B-Not_AE_Candidate    BRCA≠I-Not_AE_Candidate    mutation≠I-Not_AE_Candidate  on placebo.
+
+
+
+ Adverse reactions led to dose interruptions in 26% of those receiving Lynparza and 7% of those receiving placebo; dose reductions in 15% of Lynparza and 5% of placebo patients; and discontinuation in 9% of Lynparza and 0% in placebo patients. One (2%) patient on Lynparza  died≠B-NonOSE_AE  as a result of an adverse reaction.
+
+
+
+ Table 3 Adverse Reactions Reported in >=20% of Patients with gBRCA-Mutated Ovarian Cancer in the Randomized Trial 
+  Adverse Reactions                        Lynparza  N=53    Placebo  N=43    
+                                           Grades 1-4  %    Grades 3-4  %    Grades 1-4  %      Grades 3-4  %     
+   Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                  
+                                           Anemia≠B-OSE_Labeled_AE                                   
+                                                                                    25              4               7                  2                 
+   Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE                
+                                           Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE /discomfort               
+                                                                                    47              0               58                 2                 
+                                           Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE                       
+                                                                                    25              0               14                 0                 
+                                           Nausea≠B-OSE_Labeled_AE                                   
+                                                                                    75              2               37                 0                 
+                                           Vomiting≠B-OSE_Labeled_AE                                 
+                                                                                    32              4               9                  0                 
+                                           Diarrhea≠B-OSE_Labeled_AE                                 
+                                                                                    28              4               21                 2                 
+                                           Dyspepsia≠B-OSE_Labeled_AE                                
+                                                                                    25              0               14                 0                 
+                                           Dysgeusia≠B-OSE_Labeled_AE                                
+                                                                                    21              0               9                  0                 
+   General≠B-NonOSE_AE   disorders≠I-NonOSE_AE                         
+                                           Fatigue≠B-OSE_Labeled_AE  (including  asthenia≠B-OSE_Labeled_AE ,  lethargy≠B-OSE_Labeled_AE )  
+                                                                                    68              6               53                 2                 
+   Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE                                                                                    
+                                           Nasopharyngitis≠B-OSE_Labeled_AE / Pharyngitis≠B-OSE_Labeled_AE / URI≠B-OSE_Labeled_AE          
+                                                                                    43              0               16                 0                 
+   Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   Connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                          
+                                           Arthralgia≠B-OSE_Labeled_AE / Musculoskeletal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE          
+                                                                                                   32             
+                                                 4              
+                                                    21                
+                                                         0                
+                                      
+                                           Myalgia≠B-OSE_Labeled_AE                                  
+                                                                                                   25             
+                                                 2              
+                                                    12                
+                                                         0                
+                                      
+                                           Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                
+                                                                                                   25             
+                                                 6              
+                                                    21                
+                                                         0                
+                                      
+   Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorder≠I-NonOSE_AE                   
+                                           Headache≠B-OSE_Labeled_AE                                 
+                                                                                    25              0               19                 2                 
+   Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE  ,≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                          
+                                           Cough≠B-OSE_Labeled_AE                                    
+                                                                                    21              0               14                 0                 
+   Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE                                                                                   
+                                           Dermatitis≠B-OSE_Labeled_AE / Rash≠B-OSE_Labeled_AE                          
+                                                                                    25              0               14                 0                 
+          Table 4 Laboratory Abnormalities in Patients with gBRCA-Mutated Ovarian Cancer in the Randomized Trial 
+  Laboratory parameter1                    Lynparza  N=53    Placebo  N=43    
+                                           Grades 1-4  %    Grades 3-4  %    Grades 1-4  %      Grades 3-4  %     
+   Decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE                    85              8               58                 2                 
+   Decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   absolute≠I-OSE_Labeled_AE   neutrophil≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE     32              8               23                 0                 
+   Decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   platelets≠I-OSE_Labeled_AE                     26              6               19                 0                 
+   Mean≠B-OSE_Labeled_AE   corpuscular≠I-OSE_Labeled_AE   volume≠I-OSE_Labeled_AE   elevation≠I-OSE_Labeled_AE         85              -               44                 -                 
+   Increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE Patients were allowed to enter clinical studies with laboratory values of CTCAE Grade 1.    26              0               5                  0                 

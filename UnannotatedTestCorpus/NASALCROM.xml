@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="NASALCROM">
+  <Text>
+    <Section id="S1" name="warnings">     Warnings  
+
+
+
+    Do not use  
+
+
+
+    *  if you are allergic to any of the ingredients 
+        Ask a doctor before use if you have  
+ 
+
+    *  fever 
+ *  discolored nasal discharge 
+ *  sinus pain 
+ *  wheezing 
+        When using this product  
+ 
+
+    *  it may take several days of use to notice an effect. Your best effect may not be seen for 1 to 2 weeks. 
+ *  brief stinging or sneezing may occur right after use 
+ *  do not use it to treat sinus infection, asthma, or cold symptoms 
+ *  do not share this bottle with anyone else as this may spread germs 
+        Stop use and ask a doctor if  
+ 
+
+    *  shortness of breath, wheezing, or chest tightness occurs 
+ *  hives or swelling of the mouth or throat occurs 
+ *  your symptoms worsen 
+ *  you have new symptoms 
+ *  your symptoms do not begin to improve within two weeks 
+ *  you need to use for more than 12 weeks 
+        If pregnant or breast-feeding,  
+ 
+
+  ask a health professional before use.
+
+
+
+     Keep out of reach of children.  
+
+
+
+  If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="11" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="13" name="heading" section="S1" start="22" />
+    <IgnoredRegion len="38" name="heading" section="S1" start="100" />
+    <IgnoredRegion len="26" name="heading" section="S1" start="225" />
+    <IgnoredRegion len="31" name="heading" section="S1" start="574" />
+    <IgnoredRegion len="33" name="heading" section="S1" start="891" />
+    <IgnoredRegion len="33" name="heading" section="S1" start="975" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CORTROSYN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Since CORTROSYN  (r)  (cosyntropin) for Injection is intended for diagnostic and not therapeutic use, adverse reactions other than a rare hypersensitivity reaction are not anticipated. A rare hypersensitivity reaction usually associated with a pre-existing allergic disease and/or a previous reaction to natural ACTH is possible. Symptoms may include slight whealing with splotchy erythema at the injection site. There have been rare reports of anaphylactic reaction. The following adverse reactions have been reported in patients after the administration of CORTROSYN  (r)  and the association has been neither confirmed nor refuted:
+
+
+
+ ● bradycardia● tachycardia● hypertension● peripheral edema● rash
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+     
+ 
+
+    General
+
+
+
+  CORTROSYN  (r)  (cosyntropin) for Injection exhibits slight immunologic activity, does not contain animal protein and is therefore less risky to use than natural ACTH. Patients known to be sensitized to natural ACTH with markedly positive skin tests will, with few exceptions, react negatively when tested intradermally with CORTROSYN  (r)  . Most patients with a history of a previous hypersensitivity reaction to natural ACTH or a pre-existing allergic disease will tolerate CORTROSYN  (r)  . Despite this however, CORTROSYN  (r)  is not completely devoid of immunologic activity and hypersensitivity reactions including rare anaphylaxis are possible. Therefore, the physician should be prepared, prior to injection, to treat any possible acute hypersensitivity reaction.
+
+
+
+    Drug Interactions
+
+
+
+  Corticotropin may accentuate the electrolyte loss associated with diuretic therapy.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Long term studies in animals have not been performed to evaluate carcinogenic or mutagenic potential or impairment of fertility. A study in rats noted inhibition of reproductive function like natural ACTH.
+
+
+
+    Pregnancy
+
+
+
+  Pregnancy Category C. Animal reproduction studies have not been conducted with CORTROSYN  (r)  (cosyntropin) for Injection. It is also not known whether CORTROSYN  (r)  can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. CORTROSYN  (r)  should be given to a pregnant woman only if clearly needed.
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when CORTROSYN  (r)  (cosyntropin) for Injection is administered to a nursing woman.
+
+
+
+    Pediatric Use
+
+
+
+  (See  DOSAGE AND ADMINISTRATION  section.)
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="32" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="826" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="940" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="1211" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1574" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="1823" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

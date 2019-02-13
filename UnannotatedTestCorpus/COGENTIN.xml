@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="COGENTIN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity.
+
+
+
+   Cardiovascular:  Tachycardia.
+
+
+
+   Digestive:  Paralytic ileus, constipation, vomiting, nausea, dry mouth.
+
+
+
+ If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily.
+
+
+
+ Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage.
+
+
+
+   Nervous System:  Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers.
+
+
+
+   Special Senses:  Blurred vision, dilated pupils.
+
+
+
+   Urogenital:  Urinary retention, dysuria.
+
+
+
+   Metabolic/Immune or Skin:  Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued.
+
+
+
+   Other:  Heat stroke, hyperthermia, fever.
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Oak Pharmaceuticals, Inc. at 1-800-932-5676 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General:  Since COGENTIN has cumulative action, continued supervision is advisable. Patients with a tendency to tachycardia and patients with prostatic hypertrophy should be observed closely during treatment.
+
+
+
+ Dysuria may occur, but rarely becomes a problem. Urinary retention has been reported with COGENTIN.
+
+
+
+ The drug may cause complaints of weakness and inability to move particular muscle groups, especially in large doses. For example, if the neck has been rigid and suddenly relaxes, it may feel weak, causing some concern. In this event, dosage adjustment is required.
+
+
+
+ Mental confusion and excitement may occur with large doses, or in susceptible patients. Visual hallucinations have been reported occasionally. Furthermore, in the treatment of extrapyramidal disorders due to neuroleptic drugs (e.g., phenothiazines), in patients with mental disorders, occasionally there may be intensification of mental symptoms. In such cases, antiparkinsonian drugs can precipitate a toxic psychosis. Patients with mental disorders should be kept under careful observation, especially at the beginning of treatment or if dosage is increased.
+
+
+
+ Tardive dyskinesia may appear in some patients on long-term therapy with phenothiazines and related agents, or may occur after therapy when these drugs have been discontinued. Antiparkinsonism agents do not alleviate the symptoms of tardive dyskinesia, and in some instances may aggravate them. COGENTIN is not recommended for use in patients with tardive dyskinesia.
+
+
+
+ The physician should be aware of the possible occurrence of glaucoma. Although the drug does not appear to have any adverse effect on simple glaucoma, it probably should not be used in angle-closure glaucoma.
+
+
+
+    Drug Interactions:  Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see  WARNINGS  ).
+
+
+
+    Pediatric use:  Because of the atropine-like side effects, COGENTIN should be used with caution in pediatric patients over three years of age (see  CONTRAINDICATIONS  ).
+
+
+
+    Geriatric Use:  Clinical studies of COGENTIN did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should start at the low end of the dosing range (see  DOSAGE AND ADMINISTRATION  ) and the dose should be increased only as needed with monitoring for the emergence of adverse events (see  PRECAUTIONS  and  ADVERSE REACTIONS  ).
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Safe use in pregnancy has not been established.
+
+
+
+ COGENTIN may impair mental and/or physical abilities required for performance of hazardous tasks, such as operating machinery or driving a motor vehicle.
+
+
+
+ When COGENTIN is given concomitantly with phenothiazines, haloperidol, or other drugs with anticholinergic or antidopaminergic activity, patients should be advised to report gastrointestinal complaints, fever or heat intolerance promptly. Paralytic ileus, hyperthermia and heat stroke, all of which have sometimes been fatal, have occurred in patients taking anticholinergic-type antiparkinsonism drugs, including COGENTIN, in combination with phenothiazines and/or tricyclic antidepressants.
+
+
+
+ Since COGENTIN contains structural features of atropine, it may produce anhidrosis. For this reason, it should be administered with caution during hot weather, especially when given concomitantly with other atropine-like drugs to the chronically ill, the alcoholic, those who have central nervous system disease, and those who do manual labor in a hot environment. Anhidrosis may occur more readily when some disturbance of sweating already exists. If there is evidence of anhidrosis, the possibility of hyperthermia should be considered. Dosage should be decreased at the discretion of the physician so that the ability to maintain body heat equilibrium by perspiration is not impaired. Severe anhidrosis and fatal hyperthermia have occurred.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

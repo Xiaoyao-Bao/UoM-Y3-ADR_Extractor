@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoldLabel drug="MOVANTIK">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  Serious and important adverse reactions described elsewhere in labeling include:
+
+
+
+ *    Gastrointestinal perforation [ see  Warnings and Precautions (5.1)   ] 
+ *    Opioid withdrawal [ see    Warnings and Precautions (5.2)   ] 
+      EXCERPT:   The most common adverse reactions in clinical trials (&gt;= 3%) are: abdominal pain, diarrhea, nausea, flatulence, vomiting, and headache  (6.1)  
+ 
+
+ To report SUSPECTED ADVERSE REACTIONS, contact AstraZeneca at 1-800-236-9933 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The data described below reflect exposure to MOVANTIK in 1497 patients in clinical trials, including 537 patients exposed for greater than six months, and 320 patients exposed for 12 months.
+
+
+
+ The safety data described in Table 1 are derived from two double-blind, placebo-controlled trials (Studies 1 and 2) in patients with OIC and non-cancer related pain [  see      Clinical Studies (14)    ].
+
+
+
+ Study 3 (n=302) was a safety extension study that allowed patients from Study 1 to continue the same blinded treatment for an additional 12 weeks. Safety data for patients in Study 3 are similar to those listed in Table 1.
+
+
+
+ Study 4 (n=844) was a Phase 3, 52-week, multi-center, open-label, randomized, parallel group, safety and tolerability study of naloxegol versus usual care treatment for OIC (as determined by the investigator and excluding peripheral opioid antagonists) in patients with non-cancer related pain. The population enrolled in Study 4 was similar to that of the other studies. Eligible patients were randomized in a 2:1 ratio to receive either naloxegol 25 mg once daily or usual care treatment for OIC. The most commonly used laxatives in the usual care group were rectal stimulants (e.g., bisacodyl), oral stimulants (e.g., senna), and oral osmotics (e.g., macrogol, magnesium). Safety data for patients in Study 4 are similar to those listed in Table 1.
+
+
+
+ Table 1 lists adverse reactions in pooled Studies 1 and 2 occurring in &gt;= 3% of patients receiving MOVANTIK 12.5 mg or 25 mg and at an incidence greater than placebo.
+
+
+
+ Table 1. Adverse ReactionsAdverse reactions occurring in &gt;=3% of patients receiving MOVANTIK 12.5 mg or 25 mg and at an incidence greater than placebo. in Patients with OIC and Non-Cancer Pain (Studies 1 and 2) 
+                                Adverse Reaction            
+                                                              MOVANTIK 25 mg  (n=446)    MOVANTIK 12.5 mg  (n=441)    Placebo  (n=444)         
+                               Abdominal Pain               
+                                                              21%                      12%                      7%                       
+                               Diarrhea                     
+                                                              9%                       6%                       5%                       
+                               Nausea                       
+                                                              8%                       7%                       5%                       
+                               Flatulence                   
+                                                              6%                       3%                       3%                       
+                               Vomiting                     
+                                                              5%                       3%                       4%                       
+                               Headache                     
+                                                              4%                       4%                       3%                       
+                               Hyperhidrosis                
+                                                              3%                       &lt;1%                      &lt;1%                      
+            Opioid Withdrawal  
+ 
+
+ Possible opioid withdrawal, defined as at least three adverse reactions potentially related to opioid withdrawal that occurred on the same day and were not all related to the gastrointestinal system, occurred in less than 1% (1/444) of placebo subjects, 1% (5/441) receiving MOVANTIK 12.5 mg, and 3% (14/446) receiving MOVANTIK 25 mg in Studies 1 and 2 regardless of maintenance opioid treatment. Symptoms included but were not limited to hyperhidrosis, chills, diarrhea, abdominal pain, anxiety, irritability, and yawning. Patients receiving methadone as therapy for their pain condition were observed in Studies 1 and 2 to have a higher frequency of gastrointestinal adverse reactions than patients receiving other opioids [39% (7/18) vs. 26% (110/423) in the 12.5 mg group; 75% (24/32) vs. 34% (142/414) in the 25 mg group].
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *     Gastrointestinal perforation : Consider the overall risk benefit in patients with known or suspected lesions of the GI tract. Monitor for severe, persistent or worsening abdominal pain; discontinue if development of symptoms  (5.1)   
+ *     Opioid withdrawal : Consider the overall risk benefit in patients with disruptions to the blood-brain barrier. Monitor for symptoms of opioid withdrawal  (5.2)   
+    
+ 
+
+   5.1 Gastrointestinal Perforation
+
+
+
+  Cases of gastrointestinal perforation have been reported with use of another peripherally acting opioid antagonist in patients with conditions that may be associated with localized or diffuse reduction of structural integrity in the wall of the gastrointestinal tract (e.g., peptic ulcer disease, Ogilvie's syndrome, diverticular disease, infiltrative gastrointestinal tract malignancies or peritoneal metastases). Take into account the overall risk-benefit profile when using MOVANTIK in patients with these conditions or other conditions which might result in impaired integrity of the gastrointestinal tract wall (e.g., Crohn's disease). Monitor for the development of severe, persistent or worsening abdominal pain; discontinue MOVANTIK in patients who develop this symptom [ see     Contraindications (4)    ].
+
+
+
+    5.2 Opioid Withdrawal
+
+
+
+  Clusters of symptoms consistent with opioid withdrawal, including hyperhidrosis, chills, diarrhea, abdominal pain, anxiety, irritability, and yawning have occurred in patients treated with MOVANTIK [ see     Adverse Reactions (6.1)    ]. In addition, patients receiving methadone as therapy for their pain condition were observed in clinical trials to have a higher frequency of gastrointestinal adverse reactions that may have been related to opioid withdrawal than patients receiving other opioids [ see     Adverse Reactions (6.1)    ]. Patients having disruptions to the blood-brain barrier may be at increased risk for opioid withdrawal or reduced analgesia. Take into account the overall risk-benefit profile when using MOVANTIK in such patients. Monitor for symptoms of opioid withdrawal in such patients.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="428" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="294" name="excerpt" section="S1" start="263" />
+    <IgnoredRegion len="32" name="heading" section="S2" start="471" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="561" />
+    <IgnoredRegion len="21" name="heading" section="S2" start="1332" />
+  </IgnoredRegions>
+  <Mentions>
+    <Mention id="M14" len="28" reason="AE_for_another_drug_in_class" section="S1" start="117" type="NonOSE_AE">
+      <Normalization meddra_llt="Gastrointestinal perforation" meddra_llt_id="10018001" meddra_pt="Gastrointestinal perforation" meddra_pt_id="10018001" />
+    </Mention>
+    <Mention id="M24" len="17" reason="from_drug_use" section="S1" start="195" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Caffeine withdrawal" meddra_llt_id="10078073" meddra_pt="Drug withdrawal syndrome" meddra_pt_id="10013754" />
+      <Normalization meddra_pt="Withdrawal syndrome" meddra_pt_id="10048010" />
+    </Mention>
+    <Mention id="M1" len="3" reason="indication" section="S1" start="1191" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Constipation" meddra_llt_id="10010774" meddra_pt="Constipation" meddra_pt_id="10010774" />
+    </Mention>
+    <Mention id="M5" len="23" reason="preexisting_condition_or_risk_factor" section="S1" start="1199" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Pain" meddra_llt_id="10033371" meddra_pt="Pain" meddra_pt_id="10033371" />
+    </Mention>
+    <Mention id="M2" len="23" reason="preexisting_condition_or_risk_factor" section="S1" start="1764" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Pain" meddra_llt_id="10033371" meddra_pt="Pain" meddra_pt_id="10033371" />
+    </Mention>
+    <Mention id="M3" len="3" reason="indication" section="S1" start="1988" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Constipation" meddra_llt_id="10010774" meddra_pt="Constipation" meddra_pt_id="10010774" />
+    </Mention>
+    <Mention id="M4" len="3" reason="indication" section="S1" start="2590" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Constipation" meddra_llt_id="10010774" meddra_pt="Constipation" meddra_pt_id="10010774" />
+    </Mention>
+    <Mention id="M6" len="15" reason="preexisting_condition_or_risk_factor" section="S1" start="2598" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Pain" meddra_llt_id="10033371" meddra_pt="Pain" meddra_pt_id="10033371" />
+    </Mention>
+    <Mention id="M25" len="14" reason="from_drug_use" section="S1" start="2869" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Pain abdominal" meddra_llt_id="10033374" meddra_pt="Abdominal pain" meddra_pt_id="10000081" />
+    </Mention>
+    <Mention id="M16" len="8" reason="from_drug_use" section="S1" start="3068" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Diarrhea" meddra_llt_id="10012727" meddra_pt="Diarrhoea" meddra_pt_id="10012735" />
+    </Mention>
+    <Mention id="M17" len="6" reason="from_drug_use" section="S1" start="3267" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Nausea" meddra_llt_id="10028813" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Mention>
+    <Mention id="M18" len="10" reason="from_drug_use" section="S1" start="3466" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Flatulence" meddra_llt_id="10016766" meddra_pt="Flatulence" meddra_pt_id="10016766" />
+    </Mention>
+    <Mention id="M19" len="8" reason="from_drug_use" section="S1" start="3665" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Vomiting" meddra_llt_id="10047700" meddra_pt="Vomiting" meddra_pt_id="10047700" />
+    </Mention>
+    <Mention id="M20" len="8" reason="from_drug_use" section="S1" start="3864" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Headache" meddra_llt_id="10019211" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Mention>
+    <Mention id="M21" len="13" reason="from_drug_use" section="S1" start="4063" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hyperhidrosis" meddra_llt_id="10020642" meddra_pt="Hyperhidrosis" meddra_pt_id="10020642" />
+    </Mention>
+    <Mention id="M22" len="17" reason="from_drug_use" section="S1" start="4243" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Caffeine withdrawal" meddra_llt_id="10078073" meddra_pt="Drug withdrawal syndrome" meddra_pt_id="10013754" />
+      <Normalization meddra_pt="Withdrawal syndrome" meddra_pt_id="10048010" />
+    </Mention>
+    <Mention id="M23" len="17" reason="from_drug_use" section="S1" start="4276" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Caffeine withdrawal" meddra_llt_id="10078073" meddra_pt="Drug withdrawal syndrome" meddra_pt_id="10013754" />
+      <Normalization meddra_pt="Withdrawal syndrome" meddra_pt_id="10048010" />
+    </Mention>
+    <Mention id="M26" len="17" reason="from_drug_use" section="S1" start="4362" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Caffeine withdrawal" meddra_llt_id="10078073" meddra_pt="Drug withdrawal syndrome" meddra_pt_id="10013754" />
+      <Normalization meddra_pt="Withdrawal syndrome" meddra_pt_id="10048010" />
+    </Mention>
+    <Mention id="M7" len="13" reason="manifestation_or_complication" section="S1" start="4706" type="NonOSE_AE">
+      <Normalization meddra_llt="Hyperhidrosis" meddra_llt_id="10020642" meddra_pt="Hyperhidrosis" meddra_pt_id="10020642" />
+    </Mention>
+    <Mention id="M8" len="6" reason="manifestation_or_complication" section="S1" start="4721" type="NonOSE_AE">
+      <Normalization meddra_llt="Chills" meddra_llt_id="10008531" meddra_pt="Chills" meddra_pt_id="10008531" />
+    </Mention>
+    <Mention id="M9" len="8" reason="manifestation_or_complication" section="S1" start="4729" type="NonOSE_AE">
+      <Normalization meddra_llt="Diarrhea" meddra_llt_id="10012727" meddra_pt="Diarrhoea" meddra_pt_id="10012735" />
+    </Mention>
+    <Mention id="M10" len="14" reason="manifestation_or_complication" section="S1" start="4739" type="NonOSE_AE">
+      <Normalization meddra_llt="Pain abdominal" meddra_llt_id="10033374" meddra_pt="Abdominal pain" meddra_pt_id="10000081" />
+    </Mention>
+    <Mention id="M11" len="7" reason="manifestation_or_complication" section="S1" start="4755" type="NonOSE_AE">
+      <Normalization meddra_llt="Anxiety" meddra_llt_id="10002855" meddra_pt="Anxiety" meddra_pt_id="10002855" />
+    </Mention>
+    <Mention id="M12" len="12" reason="manifestation_or_complication" section="S1" start="4764" type="NonOSE_AE">
+      <Normalization meddra_llt="Irritability" meddra_llt_id="10022998" meddra_pt="Irritability" meddra_pt_id="10022998" />
+    </Mention>
+    <Mention id="M13" len="7" reason="manifestation_or_complication" section="S1" start="4782" type="NonOSE_AE">
+      <Normalization meddra_llt="Yawning" meddra_llt_id="10048232" meddra_pt="Yawning" meddra_pt_id="10048232" />
+    </Mention>
+    <Mention id="M15" len="34" reason="general_term" section="S1" start="4919" type="NonOSE_AE">
+      <Normalization meddra_llt="Reaction gastrointestinal" meddra_llt_id="10037947" meddra_pt="Gastrointestinal disorder" meddra_pt_id="10017944" />
+    </Mention>
+    <Mention id="M43" len="28" reason="AE_for_another_drug_in_class" section="S2" start="518" type="NonOSE_AE">
+      <Normalization meddra_llt="Gastrointestinal perforation" meddra_llt_id="10018001" meddra_pt="Gastrointestinal perforation" meddra_pt_id="10018001" />
+    </Mention>
+    <Mention id="M32" len="75" reason="preexisting_condition_or_risk_factor" section="S2" start="701" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Gastrointestinal wall abnormal" meddra_llt_id="10075725" meddra_pt="Gastrointestinal wall abnormal" meddra_pt_id="10075725" />
+    </Mention>
+    <Mention id="M27" len="20" reason="preexisting_condition_or_risk_factor" section="S2" start="784" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Peptic ulcer disease" meddra_llt_id="10034343" meddra_pt="Peptic ulcer" meddra_pt_id="10034341" />
+    </Mention>
+    <Mention id="M28" len="18" reason="preexisting_condition_or_risk_factor" section="S2" start="806" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Ogilvie's syndrome" meddra_llt_id="10052504" meddra_pt="Intestinal pseudo-obstruction" meddra_pt_id="10022698" />
+    </Mention>
+    <Mention id="M29" len="20" reason="preexisting_condition_or_risk_factor" section="S2" start="826" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Diverticular disease" meddra_llt_id="10013534" meddra_pt="Diverticulum" meddra_pt_id="10013554" />
+    </Mention>
+    <Mention id="M33" len="48" reason="preexisting_condition_or_risk_factor" section="S2" start="848" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Gastrointestinal tract cancer NOS" meddra_llt_id="10018017" meddra_pt="Gastrointestinal carcinoma" meddra_pt_id="10017940" />
+    </Mention>
+    <Mention id="M30" len="21" reason="preexisting_condition_or_risk_factor" section="S2" start="900" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Peritoneal metastases" meddra_llt_id="10034672" meddra_pt="Metastases to peritoneum" meddra_pt_id="10051676" />
+    </Mention>
+    <Mention id="M44" len="53" reason="general_term" section="S2" start="1071" type="NonOSE_AE">
+      <Normalization meddra_llt="Gastrointestinal wall abnormal" meddra_llt_id="10075725" meddra_pt="Gastrointestinal wall abnormal" meddra_pt_id="10075725" />
+    </Mention>
+    <Mention id="M31" len="15" reason="preexisting_condition_or_risk_factor" section="S2" start="1132" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Crohn's disease" meddra_llt_id="10011401" meddra_pt="Crohn's disease" meddra_pt_id="10011401" />
+    </Mention>
+    <Mention id="M45" len="14" reason="AE_only_as_instruction" section="S2" start="1213" type="NonOSE_AE">
+      <Normalization meddra_llt="Pain abdominal" meddra_llt_id="10033374" meddra_pt="Abdominal pain" meddra_pt_id="10000081" />
+    </Mention>
+    <Mention id="M51" len="17" reason="from_drug_use" section="S2" start="1396" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Caffeine withdrawal" meddra_llt_id="10078073" meddra_pt="Drug withdrawal syndrome" meddra_pt_id="10013754" />
+      <Normalization meddra_pt="Withdrawal syndrome" meddra_pt_id="10048010" />
+    </Mention>
+    <Mention id="M36" len="13" reason="manifestation_or_complication" section="S2" start="1425" type="NonOSE_AE">
+      <Normalization meddra_llt="Hyperhidrosis" meddra_llt_id="10020642" meddra_pt="Hyperhidrosis" meddra_pt_id="10020642" />
+    </Mention>
+    <Mention id="M37" len="6" reason="manifestation_or_complication" section="S2" start="1440" type="NonOSE_AE">
+      <Normalization meddra_llt="Chills" meddra_llt_id="10008531" meddra_pt="Chills" meddra_pt_id="10008531" />
+    </Mention>
+    <Mention id="M38" len="8" reason="manifestation_or_complication" section="S2" start="1448" type="NonOSE_AE">
+      <Normalization meddra_llt="Diarrhea" meddra_llt_id="10012727" meddra_pt="Diarrhoea" meddra_pt_id="10012735" />
+    </Mention>
+    <Mention id="M39" len="14" reason="manifestation_or_complication" section="S2" start="1458" type="NonOSE_AE">
+      <Normalization meddra_llt="Pain abdominal" meddra_llt_id="10033374" meddra_pt="Abdominal pain" meddra_pt_id="10000081" />
+    </Mention>
+    <Mention id="M40" len="7" reason="manifestation_or_complication" section="S2" start="1474" type="NonOSE_AE">
+      <Normalization meddra_llt="Anxiety" meddra_llt_id="10002855" meddra_pt="Anxiety" meddra_pt_id="10002855" />
+    </Mention>
+    <Mention id="M41" len="12" reason="manifestation_or_complication" section="S2" start="1483" type="NonOSE_AE">
+      <Normalization meddra_llt="Irritability" meddra_llt_id="10022998" meddra_pt="Irritability" meddra_pt_id="10022998" />
+    </Mention>
+    <Mention id="M42" len="7" reason="manifestation_or_complication" section="S2" start="1501" type="NonOSE_AE">
+      <Normalization meddra_llt="Yawning" meddra_llt_id="10048232" meddra_pt="Yawning" meddra_pt_id="10048232" />
+    </Mention>
+    <Mention id="M35" len="4" reason="preexisting_condition_or_risk_factor" section="S2" start="1660" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Pain" meddra_llt_id="10033371" meddra_pt="Pain" meddra_pt_id="10033371" />
+    </Mention>
+    <Mention id="M46" len="34" reason="general_term" section="S2" start="1738" type="NonOSE_AE">
+      <Normalization meddra_llt="Reaction gastrointestinal" meddra_llt_id="10037947" meddra_pt="Gastrointestinal disorder" meddra_pt_id="10017944" />
+    </Mention>
+    <Mention id="M47" len="17" reason="AE_only_as_instruction" section="S2" start="1803" type="NonOSE_AE">
+      <Normalization meddra_llt="Caffeine withdrawal" meddra_llt_id="10078073" meddra_pt="Drug withdrawal syndrome" meddra_pt_id="10013754" />
+      <Normalization meddra_pt="Withdrawal syndrome" meddra_pt_id="10048010" />
+    </Mention>
+    <Mention id="M34" len="38" reason="preexisting_condition_or_risk_factor" section="S2" start="1915" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Blood brain barrier defect" meddra_llt_id="10057361" meddra_pt="Blood brain barrier defect" meddra_pt_id="10057361" />
+    </Mention>
+    <Mention id="M48" len="17" reason="AE_only_as_instruction" section="S2" start="1983" type="NonOSE_AE">
+      <Normalization meddra_llt="Caffeine withdrawal" meddra_llt_id="10078073" meddra_pt="Drug withdrawal syndrome" meddra_pt_id="10013754" />
+      <Normalization meddra_pt="Withdrawal syndrome" meddra_pt_id="10048010" />
+    </Mention>
+    <Mention id="M49" len="17" reason="AE_only_as_instruction" section="S2" start="2004" type="NonOSE_AE">
+      <Normalization meddra_llt="Inadequate analgesia" meddra_llt_id="10021576" meddra_pt="Inadequate analgesia" meddra_pt_id="10021576" />
+    </Mention>
+    <Mention id="M50" len="17" reason="AE_only_as_instruction" section="S2" start="2136" type="NonOSE_AE">
+      <Normalization meddra_llt="Caffeine withdrawal" meddra_llt_id="10078073" meddra_pt="Drug withdrawal syndrome" meddra_pt_id="10013754" />
+      <Normalization meddra_pt="Withdrawal syndrome" meddra_pt_id="10048010" />
+    </Mention>
+  </Mentions>
+</GoldLabel>

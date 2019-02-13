@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoldLabel drug="RENVELA">
+  <Text>
+    <Section id="S1" name="adverse reactions">  6 ADVERSE REACTIONS
+
+   EXCERPT:    *  Most of the safety experience is with sevelamer tablets and sevelamer hydrochloride. In long-term studies with sevelamer hydrochloride, which contains the same active moiety as sevelamer carbonate, the most common adverse events included: vomiting (22%), nausea (20%), diarrhea (19%), dyspepsia (16%), abdominal pain (9%), flatulence (8%), and constipation (8%). (  6.1)   
+      To report SUSPECTED ADVERSE REACTIONS, contact Genzyme Corporation at 1-800-847-0069 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+ There are limited clinical trial data on the safety of Renvela. However, because it contains the same active ingredient as the hydrochloride salt, the adverse event profiles of the two salts are expected to be similar. In a cross-over study in hemodialysis patients with treatment durations of eight weeks each and no washout, and another cross-over study in hemodialysis patients with treatment durations of four weeks each and no washout between treatment periods, the adverse reactions on sevelamer carbonate powder were similar to those reported for sevelamer hydrochloride.
+
+ In a parallel design study of sevelamer hydrochloride with treatment duration of 52 weeks, adverse reactions reported for sevelamer hydrochloride (n=99) were similar to those reported for the active-comparator group (n=101). Overall adverse reactions among those treated with sevelamer hydrochloride occurring in &gt;5% of patients included: vomiting (22%), nausea (20%), diarrhea (19%), dyspepsia (16%), abdominal pain (9%), flatulence (8%), and constipation (8%). A total of 27 patients treated with sevelamer and 10 patients treated with comparator withdrew from the study due to adverse reactions.
+
+ Based on studies of 8-52 weeks, the most common reason for withdrawal from sevelamer hydrochloride was gastrointestinal adverse reactions (3%-16%).
+
+ In 143 peritoneal dialysis patients studied for 12 weeks using sevelamer hydrochloride, most common adverse reactions were similar to adverse reactions observed in hemodialysis patients. The most frequently occurring treatment emergent serious adverse reaction was peritonitis (8 reactions in 8 patients [8%] in the sevelamer group and 2 reactions in 2 patients [4%] on active control). Thirteen patients (14%) in the sevelamer group and 9 patients (20%) in the active-control group discontinued, mostly for gastrointestinal adverse reactions.
+
+   6.2 Postmarketing Experience
+
+  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or to establish a causal relationship to drug exposure.
+
+ The following adverse reactions have been identified during postapproval use of sevelamer hydrochloride or sevelamer carbonate: hypersensitivity, pruritus, rash, abdominal pain, fecal impaction, and uncommon cases of ileus, intestinal obstruction, and intestinal perforation. Appropriate medical management should be given to patients who develop constipation or have worsening of existing constipation to avoid severe complications.
+
+</Section>
+    <Section id="S2" name="warnings and precautions">   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  Serious cases of dysphagia, bowel obstruction, and perforation have been associated with sevelamer use, some requiring hospitalization and surgery. (  5.1  ) 
+    
+ 
+
+   5.1 Gastrointestinal Adverse Events
+
+  Cases of dysphagia and esophageal tablet retention have been reported in association with use of the tablet formulation of sevelamer, some requiring hospitalization and intervention. Consider using sevelamer suspension in patients with a history of swallowing disorders.
+
+ Cases of bowel obstruction and perforation have also been reported with sevelamer use.
+
+ Patients with dysphagia, swallowing disorders, severe gastrointestinal (GI) motility disorders, including severe constipation, or major GI tract surgery were not included in the Renvela clinical studies.
+
+    5.2 Reductions in Vitamins D, E, K (clotting factors) and Folic Acid Levels
+
+  In preclinical studies in rats and dogs, sevelamer hydrochloride, which contains the same active moiety as sevelamer carbonate, reduced vitamins D, E, and K (coagulation parameters) and folic acid levels at doses of 6-10 times the recommended human dose. In short-term clinical trials, there was no evidence of reduction in serum levels of vitamins. However, in a one-year clinical trial, 25-hydroxyvitamin D (normal range 10 to 55 ng/mL) fell from 39 +/- 22 ng/mL to 34 +/- 22 ng/mL (p&lt;0.01) with sevelamer hydrochloride treatment. Most (approximately 75%) patients in sevelamer hydrochloride clinical trials were receiving vitamin supplements.
+
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="2" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="3" />
+    <IgnoredRegion len="537" name="excerpt" section="S1" start="25" />
+    <IgnoredRegion len="179" name="excerpt" section="S2" start="33" />
+    <IgnoredRegion len="35" name="heading" section="S2" start="219" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="566" />
+    <IgnoredRegion len="75" name="heading" section="S2" start="829" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="2746" />
+  </IgnoredRegions>
+  <Mentions>
+    <Mention id="M3" len="8" reason="class_effect" section="S1" start="1786" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Vomiting" meddra_llt_id="10047700" meddra_pt="Vomiting" meddra_pt_id="10047700" />
+    </Mention>
+    <Mention id="M4" len="6" reason="class_effect" section="S1" start="1802" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Nausea" meddra_llt_id="10028813" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Mention>
+    <Mention id="M5" len="8" reason="class_effect" section="S1" start="1816" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Diarrhea" meddra_llt_id="10012727" meddra_pt="Diarrhoea" meddra_pt_id="10012735" />
+    </Mention>
+    <Mention id="M6" len="9" reason="class_effect" section="S1" start="1832" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Dyspepsia-aggravated" meddra_llt_id="10048482" meddra_pt="Dyspepsia" meddra_pt_id="10013946" />
+    </Mention>
+    <Mention id="M7" len="14" reason="class_effect" section="S1" start="1849" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Pain abdominal" meddra_llt_id="10033374" meddra_pt="Abdominal pain" meddra_pt_id="10000081" />
+    </Mention>
+    <Mention id="M8" len="10" reason="class_effect" section="S1" start="1870" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Flatulence" meddra_llt_id="10016766" meddra_pt="Flatulence" meddra_pt_id="10016766" />
+    </Mention>
+    <Mention id="M9" len="12" reason="class_effect" section="S1" start="1891" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Constipation" meddra_llt_id="10010774" meddra_pt="Constipation" meddra_pt_id="10010774" />
+    </Mention>
+    <Mention id="M19" len="34" reason="class_effect" section="S1" start="2151" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Reaction gastrointestinal" meddra_llt_id="10037947" meddra_pt="Gastrointestinal disorder" meddra_pt_id="10017944" />
+    </Mention>
+    <Mention id="M10" len="11" reason="class_effect" section="S1" start="2463" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Peritonitis" meddra_llt_id="10034674" meddra_pt="Peritonitis" meddra_pt_id="10034674" />
+    </Mention>
+    <Mention id="M20" len="34" reason="class_effect" section="S1" start="2706" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Reaction gastrointestinal" meddra_llt_id="10037947" meddra_pt="Gastrointestinal disorder" meddra_pt_id="10017944" />
+    </Mention>
+    <Mention id="M11" len="16" reason="from_drug_use" section="S1" start="3113" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Drug hypersensitivity" meddra_llt_id="10013700" meddra_pt="Drug hypersensitivity" meddra_pt_id="10013700" />
+      <Normalization meddra_pt="Hypersensitivity" meddra_pt_id="10020751" />
+    </Mention>
+    <Mention id="M12" len="8" reason="from_drug_use" section="S1" start="3131" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Pruritus" meddra_llt_id="10037087" meddra_pt="Pruritus" meddra_pt_id="10037087" />
+    </Mention>
+    <Mention id="M13" len="4" reason="from_drug_use" section="S1" start="3141" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Rash" meddra_llt_id="10037844" meddra_pt="Rash" meddra_pt_id="10037844" />
+    </Mention>
+    <Mention id="M14" len="14" reason="from_drug_use" section="S1" start="3147" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Pain abdominal" meddra_llt_id="10033374" meddra_pt="Abdominal pain" meddra_pt_id="10000081" />
+    </Mention>
+    <Mention id="M15" len="15" reason="from_drug_use" section="S1" start="3163" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Impaction fecal" meddra_llt_id="10021515" meddra_pt="Faecaloma" meddra_pt_id="10056325" />
+    </Mention>
+    <Mention id="M16" len="5" reason="from_drug_use" section="S1" start="3202" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Ileus" meddra_llt_id="10021328" meddra_pt="Ileus" meddra_pt_id="10021328" />
+    </Mention>
+    <Mention id="M17" len="22" reason="from_drug_use" section="S1" start="3209" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Obstruction intestinal" meddra_llt_id="10029958" meddra_pt="Intestinal obstruction" meddra_pt_id="10022687" />
+    </Mention>
+    <Mention id="M18" len="22" reason="from_drug_use" section="S1" start="3237" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Perforation intestinal" meddra_llt_id="10034413" meddra_pt="Intestinal perforation" meddra_pt_id="10022694" />
+    </Mention>
+    <Mention id="M1" len="12" reason="AE_only_as_instruction" section="S1" start="3332" type="NonOSE_AE">
+      <Normalization meddra_llt="Constipation" meddra_llt_id="10010774" meddra_pt="Constipation" meddra_pt_id="10010774" />
+    </Mention>
+    <Mention id="M2" len="12" reason="AE_only_as_instruction" section="S1" start="3375" type="NonOSE_AE">
+      <Normalization meddra_llt="Constipation" meddra_llt_id="10010774" meddra_pt="Constipation" meddra_pt_id="10010774" />
+    </Mention>
+    <Mention id="M31" len="31" reason="from_drug_use" section="S2" start="223" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Disorder gastrointestinal" meddra_llt_id="10013225" meddra_pt="Gastrointestinal disorder" meddra_pt_id="10017944" />
+    </Mention>
+    <Mention id="M33" len="9" reason="from_drug_use" section="S2" start="267" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Dysphagia" meddra_llt_id="10013950" meddra_pt="Dysphagia" meddra_pt_id="10013950" />
+    </Mention>
+    <Mention id="M32" len="27" reason="from_drug_use" section="S2" start="281" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Foreign body in esophagus" meddra_llt_id="10017011" meddra_pt="Foreign body in gastrointestinal tract" meddra_pt_id="10079846" />
+    </Mention>
+    <Mention id="M25" len="20" reason="preexisting_condition_or_risk_factor" section="S2" start="507" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Swallowing disorder" meddra_llt_id="10042646" meddra_pt="Dysphagia" meddra_pt_id="10013950" />
+    </Mention>
+    <Mention id="M34" len="5,11" reason="from_drug_use" section="S2" start="540,562" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Perforation bowel" meddra_llt_id="10034406" meddra_pt="Intestinal perforation" meddra_pt_id="10022694" />
+    </Mention>
+    <Mention id="M35" len="17" reason="from_drug_use" section="S2" start="540" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Obstruction bowel" meddra_llt_id="10029937" meddra_pt="Intestinal obstruction" meddra_pt_id="10022687" />
+    </Mention>
+    <Mention id="M21" len="9" reason="preexisting_condition_or_risk_factor" section="S2" start="634" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Dysphagia" meddra_llt_id="10013950" meddra_pt="Dysphagia" meddra_pt_id="10013950" />
+    </Mention>
+    <Mention id="M22" len="20" reason="preexisting_condition_or_risk_factor" section="S2" start="645" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Swallowing disorder" meddra_llt_id="10042646" meddra_pt="Dysphagia" meddra_pt_id="10013950" />
+    </Mention>
+    <Mention id="M23" len="40" reason="preexisting_condition_or_risk_factor" section="S2" start="674" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Gastrointestinal motility disorder" meddra_llt_id="10061173" meddra_pt="Gastrointestinal motility disorder" meddra_pt_id="10061173" />
+    </Mention>
+    <Mention id="M24" len="12" reason="preexisting_condition_or_risk_factor" section="S2" start="733" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Constipation" meddra_llt_id="10010774" meddra_pt="Constipation" meddra_pt_id="10010774" />
+    </Mention>
+    <Mention id="M27" len="7,17" reason="AE_animal" section="S2" start="1036,1094" type="NonOSE_AE">
+      <Normalization meddra_llt="Folic acid decreased" meddra_llt_id="10050787" meddra_pt="Blood folate decreased" meddra_pt_id="10005527" />
+    </Mention>
+    <Mention id="M28" len="16,25" reason="AE_animal" section="S2" start="1036,1063" type="NonOSE_AE">
+      <Normalization meddra_llt="Vitamin K decreased" meddra_llt_id="10058744" meddra_pt="Vitamin K decreased" meddra_pt_id="10058744" />
+    </Mention>
+    <Mention id="M29" len="16,1" reason="AE_animal" section="S2" start="1036,1056" type="NonOSE_AE">
+      <Normalization meddra_llt="Vitamin E decreased" meddra_llt_id="10058738" meddra_pt="Vitamin E decreased" meddra_pt_id="10058738" />
+    </Mention>
+    <Mention id="M30" len="18" reason="AE_animal" section="S2" start="1036" type="NonOSE_AE">
+      <Normalization meddra_llt="Vitamin D decreased" meddra_llt_id="10062189" meddra_pt="Vitamin D decreased" meddra_pt_id="10062189" />
+    </Mention>
+    <Mention id="M26" len="37" reason="negation" section="S2" start="1219" type="NonOSE_AE">
+      <Normalization meddra_llt="Deficiency of other vitamins" meddra_llt_id="10012135" meddra_pt="Hypovitaminosis" meddra_pt_id="10021135" />
+    </Mention>
+    <Mention id="M36" len="19,4" reason="from_drug_use" section="S2" start="1297,1347" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Blood 25-hydroxycholecalciferol decreased" meddra_llt_id="10053813" meddra_pt="Blood 25-hydroxycholecalciferol decreased" meddra_pt_id="10053813" />
+    </Mention>
+  </Mentions>
+</GoldLabel>

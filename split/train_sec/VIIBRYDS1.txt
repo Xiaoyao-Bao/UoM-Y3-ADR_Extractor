@@ -1,0 +1,149 @@
+    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *   Suicidal≠B-OSE_Labeled_AE   Thoughts≠I-OSE_Labeled_AE  and Behaviors in Children, Adolescents, and Young Adults [see Warnings and Precautions (  5.1  )].  
+ *   Serotonin≠B-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.2  )].  
+ *  Increased Risk of  Bleeding≠B-OSE_Labeled_AE  [see Warnings and Precautions (  5.3  )].  
+ *  Activation of  Mania≠B-OSE_Labeled_AE  or  Hypomania≠B-OSE_Labeled_AE  [see Warnings and Precautions (  5.4  )].  
+ *   Discontinuation≠B-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.5  )].  
+ *   Seizures≠B-NonOSE_AE  [see Warnings and Precautions (  5.6  )]  
+ *   Angle≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Closure≠I-OSE_Labeled_AE   Glaucoma≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.7  )].  
+ *   Hyponatremia≠B-OSE_Labeled_AE  [see Warnings and Precautions (  5.8  )].  
+      EXCERPT:   Most common adverse reactions (incidence >= 5% and at least twice the rate of placebo): diarrhea, nausea, vomiting, and insomnia (  6  ).
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Forest Laboratories, LLC. at 1-800-678-1605 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    .  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions and varying lengths of time, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect rates observed in practice.
+
+
+
+ The most commonly observed adverse reactions in VIIBRYD-treated patients with  major≠B-Not_AE_Candidate   depressive≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate  (MDD) in placebo-controlled studies (incidence >= 5% and at least twice the rate of placebo) were  diarrhea≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE , and  insomnia≠B-OSE_Labeled_AE .
+
+
+
+     Patient Exposure  
+
+
+
+ The safety of VIIBRYD was evaluated in 3,007 patients (18-70 years of age) diagnosed with  MDD≠B-Not_AE_Candidate  who participated in clinical studies, representing 676 patient-years of exposure. In an open-label 52 week study at 40 mg daily, 599 patients were exposed to VIIBRYD for a total of 348 patient-years.
+
+
+
+ The adverse reaction information presented below was derived from studies of VIIBRYD 20 mg and 40 mg daily in patients with MDD including:
+
+
+
+ *  Four placebo-controlled 8 to 10-week studies in 2,233 patients, including 1,266 VIIBRYD-treated patients; and 
+ *  An open-label 52-week study of 599 VIIBRYD-treated patients. 
+    These studies included a titration period of 10 mg daily for 7 days, followed by 20 mg daily for 7 days or to 40 mg daily over 2 weeks. In these clinical trials, VIIBRYD was administered with food.
+ 
+
+     Adverse reactions reported as reasons for discontinuation of treatment  
+
+
+
+ In these studies, 7.3% of the VIIBRYD-treated patients discontinued treatment due to an adverse reaction, compared with 3.5% of placebo-treated patients. The most common adverse reaction leading to discontinuation in at least 1% of the VIIBRYD-treated patients in the placebo-controlled studies was  nausea≠B-OSE_Labeled_AE  (1.4%).
+
+
+
+     Common adverse reactions in placebo-controlled MDD studies  
+
+
+
+   Table 2  shows the incidence of common adverse reactions occuring in >= 2% of VIIBRYD-treated patients and greater than the rate of placebo-treated patients in MDD Studies. There were no dose-related adverse reactions between 20 mg and 40 mg reported.
+
+
+
+ Table 2: Common Adverse Reactions Occurring in >= 2% of VIIBRYD-treated Patients and Greater than the Rate of Placebo-Treated Patients 
+   System Organ Class    Preferred Term                 Placebo    N=967      VIIBRYD    20 mg/day    N=288      VIIBRYD    40 mg/day    N=978     
+  
+  1 Includes  abdominal≠B-OSE_Labeled_AE   discomfort≠I-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE , and  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE .    
+  2 Includes  headache≠B-OSE_Labeled_AE  and  tension≠B-OSE_Labeled_AE   headache≠I-OSE_Labeled_AE              
+  3 Includes  restlessness≠B-OSE_Labeled_AE ,  akathisia≠B-OSE_Labeled_AE , and  restless≠B-OSE_Labeled_AE   legs≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE     
+  Sexual adverse reactions are presented in Table 3    
+  
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                                               
+        Diarrhea≠B-OSE_Labeled_AE                                        10%              26%               29%               
+        Nausea≠B-OSE_Labeled_AE                                          7%               22%               24%               
+        Dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE                                       5%               8%                7%                
+        Vomiting≠B-OSE_Labeled_AE                                        2%               4%                5%                
+        Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   1                              3%               7%                4%                
+        Dyspepsia≠B-OSE_Labeled_AE                                       2%               2%                3%                
+        Flatulence≠B-OSE_Labeled_AE                                      1%               3%                3%                
+        Gastroenteritis≠B-OSE_Labeled_AE                                 1%               1%                2%                
+        Abdominal≠B-OSE_Labeled_AE   distension≠I-OSE_Labeled_AE                            1%               2%                1%                
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                 
+        Headache≠B-OSE_Labeled_AE   2                                    14%              15%               14%               
+        Dizziness≠B-OSE_Labeled_AE                                       5%               6%                8%                
+        Somnolence≠B-OSE_Labeled_AE                                      2%               4%                5%                
+        Paresthesia≠B-OSE_Labeled_AE                                     1%               1%                2%                
+    Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                    
+        Insomnia≠B-OSE_Labeled_AE                                        2%               7%                6%                
+        Abnormal≠B-OSE_Labeled_AE   dreams≠I-OSE_Labeled_AE                                 2%               2%                3%                
+        Restlessness≠B-OSE_Labeled_AE   3                                1%               2%                3%                
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                        
+        Fatigue≠B-OSE_Labeled_AE                                         3%               4%                3%                
+    Cardiac≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                        
+        Palpitations≠B-OSE_Labeled_AE                                    <1%              1%                2%                
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   nutrition≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                       
+        Increased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE                              1%               1%                3%                
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                          
+        Arthralgia≠B-OSE_Labeled_AE                                      1%               2%                1%                
+    Investigations≠B-NonOSE_AE                                                                                           
+        Increased≠B-OSE_Labeled_AE   weight≠I-OSE_Labeled_AE                                1%               1%                2%                
+              Sexual adverse reactions  
+ 
+
+   Table 3  displays the most common sexual adverse reactions in the placebo-controlled MDD studies.
+
+
+
+ Table 3: Common Sexual Adverse Reactions Occurring in >= 2% of VIIBRYD-treated Patients and Greater than the Rate of Placebo-Treated Patients 
+  - Not applicable*Includes  abnormal≠B-OSE_Labeled_AE   orgasm≠I-OSE_Labeled_AE  and  anorgasmia≠B-OSE_Labeled_AE     
+  
+   Preferred Term               Males       Females      
+   Placebo    N=416             VIIBRYD 20 mg/day    N=122      VIIBRYD    40 mg/day    N=417      Placebo    N=551      VIIBRYD 20 mg/day    N=166      VIIBRYD    40 mg/day    N=561     
+  Abnormal≠B-OSE_Labeled_AE   Orgasm≠I-OSE_Labeled_AE  *≠I-OSE_Labeled_AE              <1%         2%            2%            0%         1%            1%             
+  Erectile≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE          1%          0%            3%            -          -             -              
+  Libido≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE              <1%         3%            4%            <1%        2%            2%             
+  Ejaculation≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE          0%          1%            2%            -          -             -              
+                 Other adverse reactions observed in clinical studies  
+ 
+
+ The following list does not include reactions: 1) already listed in previous tables or elsewhere in labeling, 2) for which a drug cause was remote, 3) which were so general as to be uninformative, 4) which were not considered to have significant clinical implications, or 5) which occurred at a rate equal to or less than placebo.
+
+
+
+ Reactions are categorized by body system according to the following definitions:  frequent  adverse reactions are those occurring in at least 1/100 patients;  infrequent  adverse reactions are those occurring in 1/100 to 1/1000 patients;  rare  reactions are those occurring in fewer than 1/1000 patients:
+
+
+
+ *      Cardiac≠B-NonOSE_AE   disorders≠I-NonOSE_AE : infrequent :  ventricular≠B-OSE_Labeled_AE   extrasystoles≠I-OSE_Labeled_AE  
+ *      Eye≠B-NonOSE_AE   disorders≠I-NonOSE_AE : infrequent:  dry≠B-OSE_Labeled_AE   eye≠I-OSE_Labeled_AE ,  vision≠B-OSE_Labeled_AE   blurred≠I-OSE_Labeled_AE , rare:  cataracts≠B-OSE_Labeled_AE  
+ *      Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE : frequent :  sedation≠B-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ; infrequent :  migraine≠B-OSE_Labeled_AE  
+ *      Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE : infrequent :  panic≠B-OSE_Labeled_AE   attack≠I-OSE_Labeled_AE  
+ *      Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE : infrequent :  hyperhidrosis≠B-OSE_Labeled_AE ,  night≠B-OSE_Labeled_AE   sweats≠I-OSE_Labeled_AE  
+      6.2 Post-marketing Experience
+   The following adverse reactions have been identified during post-approval use of VIIBRYD. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency or establish a causal relationship to drug exposure. Reports of adverse reactions temporally associated with VIIBRYD that have been received since market introduction and that are not listed above include the following:
+
+
+
+  General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   Administration≠I-NonOSE_AE   Site≠I-NonOSE_AE   Conditions≠I-NonOSE_AE :  irritability≠B-OSE_Labeled_AE 
+
+
+
+  Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :  hallucinations≠B-OSE_Labeled_AE ,  suicide≠B-OSE_Labeled_AE   attempt≠I-OSE_Labeled_AE ,  suicidal≠B-OSE_Labeled_AE   ideation≠I-OSE_Labeled_AE 
+
+
+
+  Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  rash≠B-OSE_Labeled_AE ,  generalized≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE ,  drug≠B-OSE_Labeled_AE   eruption≠I-OSE_Labeled_AE 

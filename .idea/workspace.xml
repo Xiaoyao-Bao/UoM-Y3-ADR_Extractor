@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae7a1581-79cd-4b1b-90e4-e11c594f6a91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/split/combine_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/split/delete_embedded_labels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BIOLabelling.py" beforeDir="false" afterPath="$PROJECT_DIR$/BIOLabelling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_off_filenames.py" beforeDir="false" afterPath="$PROJECT_DIR$/read_off_filenames.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/split/delete_embedded_labelling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/split/delete_newLine.py" beforeDir="false" afterPath="$PROJECT_DIR$/split/delete_newLine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/split/rawXML_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/split/rawXML_reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/split/text_tokenizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/split/text_tokenizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/split/train_sec/AFINITORS1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/split/train_sec/AFINITORS1.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1306456071">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="7" />
+          <entry key="py" value="47" />
+          <entry key="txt" value="248" />
+          <entry key="xml" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="7" />
+          <entry key="PLAIN_TEXT" value="248" />
+          <entry key="Python" value="47" />
+          <entry key="XML" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="656" />
+          <entry key="dummy" value="50" />
+          <entry key="md" value="2869" />
+          <entry key="py" value="5422" />
+          <entry key="txt" value="195" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="2869" />
+          <entry key="PLAIN_TEXT" value="245" />
+          <entry key="Python" value="6078" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="UoM-Y3-ADR_Extractor" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BIOLabelling.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="99" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/split/train_sec/AFINITORS1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="283" column="34" selection-start-line="283" selection-start-column="34" selection-end-line="283" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/split/dev_token/BELVIQS1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="542">
+              <caret line="2176" selection-start-line="2176" selection-end-line="2176" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/split/combine_files.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/split/delete_newLine.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+              <folding>
+                <element signature="e#51#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>(AS</find>
+      <find>zip</find>
+      <find>Gastrointestinal</find>
+      <find>vaccines</find>
+      <find>eriodi</find>
+      <find>tongue</find>
+      <find>(A</find>
+      <find>~</find>
+      <find>!1</find>
+      <find>32952</find>
+      <find>Alanine~B-OSE_Labeled_AE</find>
+      <find>bronchitis</find>
+      <find>'infections</find>
+      <find>infestations</find>
+      <find>nasopharyngitis</find>
+      <find>(</find>
+      <find>!</find>
+      <find>,≠</find>
+      <find>'</find>
+      <find>AL</find>
+      <find>xeroderma</find>
+      <find>/</find>
+      <find>-</find>
+      <find>&quot;</find>
+      <find>11634</find>
+      <find>8065</find>
+      <find>≠</find>
+      <find>204</find>
+      <find>8.3.0</find>
+      <find>8.3 O</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/skeleton.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/something.py" />
+        <option value="$PROJECT_DIR$/ADE Eval Shared Resources/ose_xml_training_20181101/training_file_name.txt" />
+        <option value="$PROJECT_DIR$/ADE Eval Shared Resources/ose_xml_training_20181101/something.txt" />
+        <option value="$PROJECT_DIR$/ADE Eval Shared Resources/ose_xml_training_20181101/xml_handler.py" />
+        <option value="$PROJECT_DIR$/xml_handler.py" />
+        <option value="$PROJECT_DIR$/split/dev/dev_file_name.txt" />
+        <option value="$PROJECT_DIR$/split/train/xml_handler.py" />
+        <option value="$PROJECT_DIR$/split/xml_handler.py" />
+        <option value="$PROJECT_DIR$/train_sec_file_name.txt" />
+        <option value="$PROJECT_DIR$/text_tokenizer.py" />
+        <option value="$PROJECT_DIR$/split/train_sec/text_tokenizer.py" />
+        <option value="$PROJECT_DIR$/split/train_sec_file_name.txt" />
+        <option value="$PROJECT_DIR$/split/train_sec_label/AFINITORS2.txt" />
+        <option value="$PROJECT_DIR$/hhh.py" />
+        <option value="$PROJECT_DIR$/ADE Eval Shared Resources/ose_xml_training_20181101/AFINITOR.xml" />
+        <option value="$PROJECT_DIR$/split/train_sec_label_wtSinRepDel/AFINITORS1.txt" />
+        <option value="$PROJECT_DIR$/preprocessing.py" />
+        <option value="$PROJECT_DIR$/split/delete_repetitive_labelling.py" />
+        <option value="$PROJECT_DIR$/split/train_sec_label/AFINITORS1.txt" />
+        <option value="$PROJECT_DIR$/split/train_token/AFINITORS1.txt" />
+        <option value="$PROJECT_DIR$/split/train/AFINITOR.xml" />
+        <option value="$PROJECT_DIR$/split/train_sec/AFINITORS1.txt" />
+        <option value="$PROJECT_DIR$/split/train_token2/AFINITORS2.txt" />
+        <option value="$PROJECT_DIR$/split/train_token2/AFINITORS1.txt" />
+        <option value="$PROJECT_DIR$/read_off_filenames.py" />
+        <option value="$PROJECT_DIR$/skeleton.md" />
+        <option value="$PROJECT_DIR$/split/delete_IgnoreRegion.py" />
+        <option value="$PROJECT_DIR$/split/delete_embedded_labelling.py" />
+        <option value="$PROJECT_DIR$/split/text_tokenizer.py" />
+        <option value="$PROJECT_DIR$/split/rawXML_reader.py" />
+        <option value="$PROJECT_DIR$/split/delete_embedded_labels.py" />
+        <option value="$PROJECT_DIR$/split/delete_newLine.py" />
+        <option value="$PROJECT_DIR$/BIOLabelling.py" />
+        <option value="$PROJECT_DIR$/split/combine_files.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="834" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UoM-Y3-ADR_Extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UoM-Y3-ADR_Extractor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UoM-Y3-ADR_Extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UoM-Y3-ADR_Extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="split" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/split" />
+      <recent name="$PROJECT_DIR$/split/train_sec" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/split/train" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/split/train_token2" />
+      <recent name="$PROJECT_DIR$/split" />
+      <recent name="$PROJECT_DIR$/split/train_sec2" />
+      <recent name="$PROJECT_DIR$/split/train_sec" />
+      <recent name="$PROJECT_DIR$/split/train_sec_label_wtSinRepDel" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.combine_files">
+    <configuration name="BIOLabelling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UoM-Y3-ADR_Extractor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BIOLabelling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="combine_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UoM-Y3-ADR_Extractor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/split" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/split/combine_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="delete_embedded_labels" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UoM-Y3-ADR_Extractor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/split" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/split/delete_embedded_labels.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="delete_newLine" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UoM-Y3-ADR_Extractor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/split" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/split/delete_newLine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text_tokenizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UoM-Y3-ADR_Extractor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/split" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/split/text_tokenizer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.BIOLabelling" />
+      <item itemvalue="Python.delete_newLine" />
+      <item itemvalue="Python.text_tokenizer" />
+      <item itemvalue="Python.delete_embedded_labels" />
+      <item itemvalue="Python.combine_files" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.combine_files" />
+        <item itemvalue="Python.text_tokenizer" />
+        <item itemvalue="Python.BIOLabelling" />
+        <item itemvalue="Python.delete_newLine" />
+        <item itemvalue="Python.delete_embedded_labels" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae7a1581-79cd-4b1b-90e4-e11c594f6a91" name="Default Changelist" comment="" />
+      <created>1542803152586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542803152586</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7309417" visible="true" weight="0.19650392" />
+      <window_info id="Structure" order="1" sideWeight="0.2690583" side_tool="true" visible="true" weight="0.19650392" />
+      <window_info id="Favorites" order="2" sideWeight="0.26606876" side_tool="true" weight="0.19650392" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49909583" visible="true" weight="0.31734693" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49940476" weight="0.32244897" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49940476" weight="0.32857144" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50090414" side_tool="true" weight="0.33571428" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32959184" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/split/train_sec_label_wtRepDel/SABRILS3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train_sec2/ANDROGELS1.txt" />
+    <entry file="file://$PROJECT_DIR$/split/train_token2/ANDROGELS2.txt" />
+    <entry file="file://$PROJECT_DIR$/split/train_token2/ANDROGELS1.txt" />
+    <entry file="file://$PROJECT_DIR$/split/train/NATROBA.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train/PROGRAF.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train/RAPIVAB.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train/XTANDI.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/read_off_filenames.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train_sec_file_name.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train_sec_label_wtRepDel/AFINITORS1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3825">
+          <caret line="382" column="8" selection-start-line="382" selection-start-column="8" selection-end-line="382" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/something.txt" />
+    <entry file="file://$PROJECT_DIR$/split/train_sec2/AFINITORS2.txt" />
+    <entry file="file://$PROJECT_DIR$/split/train_sec2/AFINITORS1.txt" />
+    <entry file="file://$PROJECT_DIR$/split/train_sec/ARANESPS2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/delete_IgnoreRegion.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train_token/CARBOPLATINS3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train_token/EGRIFTAS2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15911" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train_sec/CARBOPLATINS3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skeleton.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret line="45" column="223" selection-start-line="45" selection-start-column="223" selection-end-line="45" selection-end-column="223" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/dev_sec_file_name.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/text_tokenizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/rawXML_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/dev_sec_label/BELVIQS1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="94" column="8" selection-start-line="94" selection-start-column="3" selection-end-line="94" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/dev_sec_label/CYRAMZAS1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="62" column="8" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/delete_embedded_labels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train_sec/KITS1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/dev_token/CYRAMZAS1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50539" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/dev_token/CELEBREXS1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36379" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train_token/ANDROGELS1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25564" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/dev_sec/BELVIQS1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/dev_sec_label_wtRepDel/BELVIQS1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1444" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train_token/AUBAGIOS3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train/CARBOPLATIN.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-588" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train/DOXIL_LIPOSOMAL_.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4333" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train/LIORESAL.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4857" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train/AFINITOR.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="147" column="26" lean-forward="true" selection-start-line="147" selection-start-column="26" selection-end-line="147" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train/PENNSAID.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4611" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train/XALKORI.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3250" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/delete_newLine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+          <folding>
+            <element signature="e#51#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train_sec/AFINITORS1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="283" column="34" selection-start-line="283" selection-start-column="34" selection-end-line="283" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/glob.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BIOLabelling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="99" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train_token2/AFINITORS1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train_token/AFINITORS1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96498">
+          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train_token/AFINITORS2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33454" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/train_BIO.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="2326" column="3" selection-start-line="2326" selection-start-column="3" selection-end-line="2326" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/dev_token/BELVIQS1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="2176" selection-start-line="2176" selection-end-line="2176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/dev_token/BELVIQS2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/dev_BIO.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32317" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/split/combine_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

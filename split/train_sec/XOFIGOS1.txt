@@ -1,0 +1,97 @@
+    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed in greater detail in another section of the label:
+
+
+
+ *     Bone≠B-OSE_Labeled_AE   Marrow≠I-OSE_Labeled_AE   Suppression≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.1  )]  
+      EXCERPT:   The most common adverse drug reactions (>= 10%) in patients receiving Xofigo were nausea, diarrhea, vomiting, and peripheral edema.
+ 
+
+ The most common hematologic laboratory abnormalities (>= 10%) were anemia, lymphocytopenia, leukopenia, thrombocytopenia, and neutropenia (  6.1  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    Bayer HealthCare Pharmaceuticals Inc. at 1-888-842-2937    or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In the randomized clinical trial in patients with  metastatic≠B-Not_AE_Candidate   castration≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  resistant≠I-Not_AE_Candidate   prostate≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  with  bone≠B-Not_AE_Candidate   metastases≠I-Not_AE_Candidate , 600 patients received intravenous injections of 50 kBq/kg (1.35 microcurie/kg) of Xofigo and best standard of care and 301 patients received placebo and best standard of care once every 4 weeks for up to 6 injections. Prior to randomization, 58% and 57% of patients had received docetaxel in the Xofigo and placebo arms, respectively. The median duration of treatment was 20 weeks (6 cycles) for Xofigo and 18 weeks (5 cycles) for placebo.
+
+
+
+ The most common adverse reactions (>= 10%) in patients receiving Xofigo were  nausea≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE , and  peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE  (Table 3). Grade 3 and 4 adverse events were reported among 57% of Xofigo-treated patients and 63% of placebo-treated patients. The most common  hematologic≠B-OSE_Labeled_AE   laboratory≠I-OSE_Labeled_AE   abnormalities≠I-OSE_Labeled_AE  in Xofigo-treated patients (>= 10%) were  anemia≠B-OSE_Labeled_AE ,  lymphocytopenia≠B-OSE_Labeled_AE ,  leukopenia≠B-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE , and  neutropenia≠B-OSE_Labeled_AE  (Table 4).
+
+
+
+ Treatment discontinuations due to adverse events occurred in 17% of patients who received Xofigo and 21% of patients who received placebo. The most common  hematologic≠B-OSE_Labeled_AE   laboratory≠I-OSE_Labeled_AE   abnormalities≠I-OSE_Labeled_AE  leading to discontinuation for Xofigo were  anemia≠B-OSE_Labeled_AE  (2%) and  thrombocytopenia≠B-OSE_Labeled_AE  (2%).
+
+
+
+ Table 3 shows adverse reactions occurring in >= 2% of patients and for which the incidence for Xofigo exceeds the incidence for placebo.
+
+
+
+ Table 3: Adverse Reactions in the Randomized Trial 
+  System/Organ ClassPreferred Term    Xofigo (n=600)           Placebo (n=301)          
+  Grades 1-4%              Grades 3-4%              Grades 1-4%              Grades 3-4%              
+   Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE     
+   Pancytopenia≠B-OSE_Labeled_AE              2                        1                        0                        0                        
+   Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE     
+   Nausea≠B-OSE_Labeled_AE                    36                       2                        35                       2                        
+   Diarrhea≠B-OSE_Labeled_AE                  25                       2                        15                       2                        
+   Vomiting≠B-OSE_Labeled_AE                  19                       2                        14                       2                        
+   General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE     
+   Peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE          13                       2                        10                       1                        
+   Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   urinary≠I-NonOSE_AE   disorders≠I-NonOSE_AE     
+   Renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  and impairment    3                        1                        1                        1                        
+             Laboratory Abnormalities
+   Table 4 shows  hematologic≠B-NonOSE_AE   laboratory≠I-NonOSE_AE   abnormalities≠I-NonOSE_AE  occurring in  >  10% of patients and for which the incidence for Xofigo exceeds the incidence for placebo.
+
+
+
+   Table 4: Hematologic Laboratory Abnormalities  
+
+
+
+
+  Hematologic Laboratory Abnormalities    Xofigo (n=600)           Placebo (n=301)          
+  Grades 1-4%              Grades 3-4%              Grades 1-4%              Grades 3-4%              
+   Anemia≠B-OSE_Labeled_AE                    93                       6                        88                       6                        
+   Lymphocytopenia≠B-OSE_Labeled_AE           72                       20                       53                       7                        
+   Leukopenia≠B-OSE_Labeled_AE                35                       3                        10                       <1                       
+   Thrombocytopenia≠B-OSE_Labeled_AE          31                       3                        22                       <1                       
+   Neutropenia≠B-OSE_Labeled_AE               18                       2                        5                        <1                       
+  Laboratory values were obtained at baseline and prior to each 4-week cycle.    
+           As an adverse reaction, grade 3-4  thrombocytopenia≠B-OSE_Labeled_AE  was reported in 6% of patients on Xofigo and in 2% of patients on placebo. Among patients who received Xofigo, the  laboratory≠B-NonOSE_AE   abnormality≠I-NonOSE_AE  grade 3-4  thrombocytopenia≠B-OSE_Labeled_AE  occurred in 1% of docetaxel naive patients and in 4% of patients who had received prior docetaxel. Grade 3-4  neutropenia≠B-OSE_Labeled_AE  occurred in 1% of docetaxel naive patients and in 3% of patients who have received prior docetaxel.
+ 
+
+   Fluid Status
+
+   Dehydration≠B-OSE_Labeled_AE  occurred in 3% of patients on Xofigo and 1% of patients on placebo. Xofigo increases adverse reactions such as  diarrhea≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE , and  vomiting≠B-OSE_Labeled_AE  which may result in  dehydration≠B-NonOSE_AE . Monitor patients' oral intake and fluid status carefully and promptly treat patients who display signs or symptoms of  dehydration≠B-NonOSE_AE  or  hypovolemia≠B-NonOSE_AE .
+
+
+
+    Injection≠B-OSE_Labeled_AE   Site≠I-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE 
+
+   Erythema≠B-OSE_Labeled_AE , pain, and edema  at≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   injection≠I-OSE_Labeled_AE   site≠I-OSE_Labeled_AE  were reported in 1% of patients on Xofigo.
+
+
+
+   Secondary Malignant Neoplasms
+
+  Xofigo contributes to a patient's overall long-term cumulative radiation exposure. Long-term cumulative radiation exposure may be associated with an  increased≠B-OSE_Labeled_AE   risk≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   cancer≠I-OSE_Labeled_AE  and  hereditary≠B-OSE_Labeled_AE   defects≠I-OSE_Labeled_AE . Due to its mechanism of action and  neoplastic≠B-NonOSE_AE   changes≠I-NonOSE_AE , including  osteosarcomas≠B-NonOSE_AE , in rats following administration of radium-223 dichloride, Xofigo may increase the risk of  osteosarcoma≠B-OSE_Labeled_AE  or other  secondary≠B-OSE_Labeled_AE   malignant≠I-OSE_Labeled_AE   neoplasms≠I-OSE_Labeled_AE   [see Nonclinical Toxicology (  13.1  )]  . However, the overall incidence of new  malignancies≠B-NonOSE_AE  in the randomized trial was lower on the Xofigo arm compared to placebo (<1% vs. 2%; respectively), but the expected latency period for the development of  secondary≠B-NonOSE_AE   malignancies≠I-NonOSE_AE  exceeds the duration of follow up for patients on the trial.
+
+
+
+   Subsequent Treatment with Cytotoxic Chemotherapy
+
+  In the randomized clinical trial, 16% patients in the Xofigo group and 18% patients in the placebo group received  cytotoxic≠B-NonOSE_AE   chemotherapy≠I-NonOSE_AE  after completion of study treatments. Adequate safety monitoring and laboratory testing was not performed to assess how patients treated with Xofigo will tolerate subsequent  cytotoxic≠B-NonOSE_AE   chemotherapy≠I-NonOSE_AE .

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="NORGESIC">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Side effects of Norgesic or Norgesic Forte are those seen with aspirin and caffeine or those usually associated with mild anticholinergic agents. These may include tachycardia, palpitation, urinary hesitancy or retention, dry mouth, blurred vision, dilatation of the pupil, increased intraocular tension, weakness, nausea, vomiting, headache, dizziness, constipation, drowsiness, and rarely, urticaria and other dermatoses. Infrequently, an elderly patient may experience some degree of confusion. Mild central excitation and occasional hallucinations may be observed. These mild side effects can usually be eliminated by reduction in dosage. One case of aplastic anemia associated with the use of Norgesic has been reported. No causal relationship has been established. Rare G.I. hemorrhage due to aspirin content may be associated with the administration of Norgesic or Norgesic Forte. Some patients may experience transient episodes of light-headedness, dizziness or syncope.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+  Confusion, anxiety and tremors have been reported in a few patients receiving propoxyphene and orphenadrine concomitantly. As these symptoms may be simply due to an additive effect, reduction of dosage and/or discontinuation of one or both agents is recommended in such cases.
+
+
+
+ Safety of continuous long term therapy with Norgesic and Norgesic Forte has not been established; therefore, if Norgesic or Norgesic Forte is prescribed for prolonged use, periodic monitoring of blood, urine and liver function values is recommended.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Reye's Syndrome may develop in individuals who have chicken pox, influenza, or flu symptoms. Some studies suggest a possible association between the development of Reye's Syndrome and the use of medicines containing salicylate or aspirin. Norgesic and Norgesic Forte contain aspirin and therefore are not recommended for use in patients with chicken pox, influenza, or flu symptoms.
+
+
+
+ Norgesic and Norgesic Forte may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or driving a motor vehicle; ambulatory patients should therefore be cautioned accordingly.
+
+
+
+ Aspirin should be used with extreme caution in the presence of peptic ulcers and coagulation abnormalities.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

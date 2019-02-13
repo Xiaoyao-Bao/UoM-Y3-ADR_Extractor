@@ -1,0 +1,134 @@
+    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the label:
+
+
+
+ *  Hepatotoxicity [See  Warnings and Precautions (5.1)  ]  
+ *  Left Ventricular Dysfunction [See  Warnings and Precautions (5.2)  ]  
+ *  Embryo-Fetal Toxicity [See  Warnings and Precautions (5.3)  ]  
+ *  Pulmonary Toxicity [See  Warnings and Precautions (5.4)  ]  
+ *  Infusion-Related Reactions, Hypersensitivity Reactions [See  Warnings and Precautions (5.5)  ]  
+ *  Hemorrhage [See  Warnings and Precautions (5.6)  ]  
+ *  Thrombocytopenia [See  Warnings and Precautions (5.7)  ]  
+ *  Neurotoxicity [See  Warnings and Precautions (5.8)  ]  
+      EXCERPT:   The most common adverse drug reactions (frequency > 25%) with KADCYLA (n=884 treated patients) were fatigue, nausea, musculoskeletal pain, hemorrhage, thrombocytopenia, headache, increased transaminases, constipation and epistaxis. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Genentech at 1-888-835-2555 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In clinical trials, KADCYLA has been evaluated as single-agent in 884 patients with HER2-positive metastatic breast cancer. The most common (frequency >= 25%) adverse drug reactions (ADRs) seen in 884 patients treated with KADCYLA were fatigue, nausea, musculoskeletal pain, hemorrhage, thrombocytopenia, headache, increased transaminases, constipation and epistaxis.
+
+
+
+ The ADRs described in  Table 6  were identified in patients with HER2-positive metastatic breast cancer treated in a randomized trial (Study 1)  [see  Clinical Studies (14.1)  ]  . Patients were randomized to receive KADCYLA or lapatinib plus capecitabine. The median duration of study treatment was 7.6 months for patients in the KADCYLA-treated group and 5.5 months and 5.3 months for patients treated with lapatinib and capecitabine, respectively. Two hundred and eleven (43.1%) patients experienced >= Grade 3 adverse events in the KADCYLA-treated group compared with 289 (59.2%) patients in the lapatinib plus capecitabine-treated group. Dose adjustments for KADCYLA were permitted  [see  Dosage and Administration (2.2)  ]  . Thirty-two patients (6.5%) discontinued KADCYLA due to an adverse event, compared with 41 patients (8.4%) who discontinued lapatinib, and 51 patients (10.5%) who discontinued capecitabine due to an adverse event. The most common adverse events leading to KADCYLA withdrawal were thrombocytopenia and increased transaminases. Eighty patients (16.3%) treated with KADCYLA had adverse events leading to dose reductions. The most frequent adverse events leading to dose reduction of KADCYLA (in >= 1% of patients) included thrombocytopenia, increased transaminases, and peripheral neuropathy. Adverse events that led to dose delays occurred in 116 (23.7%) of KADCYLA treated patients. The most frequent adverse events leading to a dose delay of KADCYLA (in >= 1% of patients) were neutropenia, thrombocytopenia, leukopenia, fatigue, increased transaminases and pyrexia.
+
+
+
+   Table 6  reports the ADRs that occurred in patients in the KADCYLA-treated group (n=490) of the randomized trial (Study 1). Selected laboratory abnormalities are shown in  Table 7  . The most common ADRs seen with KADCYLA in the randomized trial (frequency > 25%) were nausea, fatigue, musculoskeletal pain, hemorrhage, thrombocytopenia, increased transaminases, headache, and constipation. The most common NCI-CTCAE (version 3) >= Grade 3 ADRs (frequency >2%) were thrombocytopenia, increased transaminases, anemia, hypokalemia, peripheral neuropathy and fatigue.
+
+
+
+ Table 6 Summary of Adverse Drug Reactions Occurring in Patients on the KADCYLA Treatment Arm in the Randomized Trial (Study 1) 
+ Adverse Drug Reactions (MedDRA)System Organ Class  KADCYLA(3.6 mg/kg)n=490Frequency rate %  Lapatinib (1250 mg) + Capecitabine (2000 mg/m  2  )n=488Frequency rate %   
+                                           All grades (%)   Grade 3 - 4 (%)  All grades (%)   Grade 3 - 4 (%)   
+  
+ ND = Not determined                        
+  
+   Blood and Lymphatic System Disorders     
+ Neutropenia                                     6.7              2.0              9.0              4.3         
+ Anemia                                         14.3              4.1             10.5              2.5         
+ Thrombocytopenia                               31.2             14.5              3.3              0.4         
+   Cardiac Disorders                        
+ Left ventricular dysfunction                    1.8              0.2              3.3              0.4         
+   Eye Disorders                            
+ Lacrimation increased                           3.3               0               2.5               0          
+ Dry eye                                         3.9               0               3.1               0          
+ Vision blurred                                  4.5               0               0.8               0          
+ Conjunctivitis                                  3.9               0               2.3               0          
+   Gastrointestinal Disorders               
+ Dyspepsia                                       9.2               0              11.5              0.4         
+ Stomatitis                                     14.1              0.2             32.6              2.5         
+ Dry Mouth                                      16.7               0               4.9              0.2         
+ Abdominal pain                                 18.6              0.8             17.6              1.6         
+ Vomiting                                       19.2              0.8             29.9              4.5         
+ Diarrhea                                       24.1              1.6             79.7             20.7         
+ Constipation                                   26.5              0.4             11.1               0          
+ Nausea                                         39.8              0.8             45.1              2.5         
+   General Disorders and Administration     
+ Peripheral edema                                7.1               0               8.2              0.2         
+ Chills                                          7.6               0               3.1               0          
+ Pyrexia                                        18.6              0.2              8.4              0.4         
+ Asthenia                                       17.8              0.4             17.6              1.6         
+ Fatigue                                        36.3              2.5             28.3              3.5         
+   Hepatobiliary Disorders                  
+ Nodular regenerative hyperplasia                0.4              ND                0                0          
+ Portal hypertension                             0.4              0.2               0                0          
+   Immune System Disorders                  
+ Drug hypersensitivity                           2.2               0               0.8               0          
+   Injury, Poisoning, and Procedural        
+ Infusion-related reaction                       1.4               0               0.2               0          
+   Infections and Infestations              
+ Urinary tract infection                         9.4              0.6              3.9               0          
+   Investigations                           
+ Blood alkaline phosphatase increased            4.7              0.4              3.7              0.4         
+ Increased transaminases                        28.8              8.0             14.3              2.5         
+   Metabolism and Nutrition Disorders       
+ Hypokalemia                                    10.2              2.7              9.4              4.7         
+   Musculoskeletal and Connective Tissue Disorders     
+ Myalgia                                        14.1              0.6              3.7               0          
+ Arthralgia                                     19.2              0.6              8.4               0          
+ Musculoskeletal pain                           36.1              1.8             30.5              1.4         
+   Nervous System Disorders                 
+ Dysgeusia                                       8.0               0               4.1              0.2         
+ Dizziness                                      10.2              0.4             10.7              0.2         
+ Peripheral neuropathy                          21.2              2.2             13.5              0.2         
+ Headache                                       28.2              0.8             14.5              0.8         
+   Psychiatric Disorders                    
+ Insomnia                                       12.0              0.4              8.6              0.2         
+   Respiratory, Thoracic, and Mediastinal Disorders     
+ Pneumonitis                                     1.2               0                0                0          
+ Dyspnea                                        12.0              0.8              8.0              0.4         
+ Cough                                          18.2              0.2             13.1              0.2         
+ Epistaxis                                      22.5              0.2              8.4               0          
+   Skin and Subcutaneous Tissue Disorders     
+ Pruritus                                        5.5              0.2              9.2               0          
+ Rash                                           11.6               0              27.5              1.8         
+   Vascular Disorders                       
+ Hemorrhage                                     32.2              1.8             16.4              0.8         
+ Hypertension                                    5.1              1.2              2.3              0.4         
+          Table 7 Selected Laboratory Abnormalities 
+ Parameter                     KADCYLA(3.6 mg/kg)  Lapatinib (1250 mg) + Capecitabine (2000 mg/m  2  )   
+ All Grade %                    Grade 3 %     Grade 4 %    All Grade %    Grade 3 %     Grade 4 %     
+  
+ Increased bilirubin                17            <1            0             57            2             0         
+ Increased AST                      98            7             <1            65            3             0         
+ Increased ALT                      82            5             <1            54            3             0         
+ Decreased platelet count           83            14            3             21            <1            <1        
+ Decreased hemoglobin               60            4             1             64            3             <1        
+ Decreased neutrophils              39            3             <1            38            6             2         
+ Decreased potassium                33            3             0             31            6             <1        
+             Hepatic failure has been observed in two patients (0.2%) with HER2-positive metastatic breast cancer in clinical trials (n=884) with KADCYLA as single-agent.
+ 
+
+   6.2 Immunogenicity
+
+  As with all therapeutic proteins, there is the potential for an immune response to KADCYLA.
+
+
+
+ A total of 836 patients from six clinical studies were tested at multiple time points for anti-therapeutic antibody (ATA) responses to KADCYLA. Following KADCYLA dosing, 5.3% (44/836) of patients tested positive for anti-KADCYLA antibodies at one or more post-dose time points. The presence of KADCYLA in patient serum at the time of ATA sampling may interfere with the ability of this assay to detect anti-KADCYLA antibodies. As a result, data may not accurately reflect the true incidence of anti-KADCYLA antibody development. In addition, neutralizing activity of anti-KADCYLA antibodies has not been assessed.
+
+
+
+ Immunogenicity data are highly dependent on the sensitivity and specificity of the test methods used. Additionally, the observed incidence of a positive result in a test method may be influenced by several factors, including sample handling, timing of sample collection, drug interference, concomitant medication and the underlying disease. Therefore, comparison of the incidence of antibodies to KADCYLA with the incidence of antibodies to other products may be misleading. Clinical significance of anti-KADCYLA antibodies is not yet known.

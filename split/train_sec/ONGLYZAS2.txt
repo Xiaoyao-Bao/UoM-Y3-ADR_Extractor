@@ -1,0 +1,53 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *     Acute Pancreatitis (postmarketing reports): If pancreatitis is suspected, promptly discontinue ONGLYZA.  (5.1)   
+ *     Hypoglycemia: In add-on to sulfonylurea, add-on to insulin, and add-on to metformin plus sulfonylurea trials, confirmed hypoglycemia was more common in patients treated with ONGLYZA compared to placebo. When used with an insulin secretagogue (e.g., sulfonylurea) or insulin, a lower dose of the insulin secretagogue or insulin may be required to minimize the risk of hypoglycemia.  (5.2  ,  6.1)   
+ *     Hypersensitivity-Related Events (e.g., urticaria, facial edema): More common in patients treated with ONGLYZA than in patients treated with placebo; and postmarketing reports of serious hypersensitivity reactions such as anaphylaxis, angioedema, and exfoliative skin conditions. Promptly discontinue ONGLYZA, assess for other potential causes, institute appropriate monitoring and treatment, and initiate alternative treatment for diabetes.  (5.3  ,  6.1  ,  6.2)   
+ *     Arthralgia: Severe and disabling arthralgia has been reported in patients taking DPP4 inhibitors. Consider as a possible cause for severe joint pain and discontinue drug if appropriate. (  5.4  ) 
+ *    There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ONGLYZA or any other antidiabetic drug.  (5.5)   
+    
+ 
+
+   5.1 Pancreatitis
+
+
+
+  There have been postmarketing reports of  acute≠B-OSE_Labeled_AE   pancreatitis≠I-OSE_Labeled_AE  in patients taking ONGLYZA. After initiation of ONGLYZA, patients should be observed carefully for signs and symptoms of  pancreatitis≠B-NonOSE_AE . If  pancreatitis≠B-NonOSE_AE  is suspected, ONGLYZA should promptly be discontinued and appropriate management should be initiated. It is unknown whether patients with a  history≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   pancreatitis≠I-Not_AE_Candidate  are at increased risk for the development of  pancreatitis≠B-NonOSE_AE  while using ONGLYZA.
+
+
+
+    5.2 Hypoglycemia with Concomitant Use of Sulfonylurea or Insulin
+
+
+
+  When ONGLYZA was used in combination with a sulfonylurea or with insulin, medications known to cause  hypoglycemia≠B-NonOSE_AE , the incidence of confirmed  hypoglycemia≠B-NonOSE_AE  was increased over that of placebo used in combination with a sulfonylurea or with insulin. [ see  Adverse Reactions (6.1)    ]. Therefore, a lower dose of the insulin secretagogue or insulin may be required to minimize the risk of  hypoglycemia≠B-NonOSE_AE  when used in combination with ONGLYZA [ see  Dosage and Administration (2.4)    ].
+
+
+
+    5.3 Hypersensitivity Reactions
+
+
+
+  There have been postmarketing reports of serious  hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  in patients treated with ONGLYZA. These reactions include  anaphylaxis≠B-OSE_Labeled_AE ,  angioedema≠B-OSE_Labeled_AE , and  exfoliative≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE   conditions≠I-OSE_Labeled_AE . Onset of these reactions occurred within the first 3 months after initiation of treatment with ONGLYZA, with some reports occurring after the first dose. If a serious  hypersensitivity≠B-NonOSE_AE   reaction≠I-NonOSE_AE  is suspected, discontinue ONGLYZA, assess for other potential causes for the event, and institute alternative treatment for  diabetes≠B-Not_AE_Candidate  [ see  Adverse Reactions (6.2)    ].
+
+
+
+ Use caution in a patient with a history of  angioedema≠B-Not_AE_Candidate  to another dipeptidyl peptidase-4 (DPP4) inhibitor because it is unknown whether such patients will be predisposed to  angioedema≠B-NonOSE_AE  with ONGLYZA.
+
+
+
+    5.4 Severe and Disabling Arthralgia
+
+
+
+  There have been postmarketing reports of severe and disabling  arthralgia≠B-OSE_Labeled_AE  in patients taking DPP4 inhibitors. The time to onset of symptoms following initiation of drug therapy varied from one day to years. Patients experienced relief of symptoms upon discontinuation of the medication. A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP4 inhibitor. Consider DPP4 inhibitors as a possible cause for severe  joint≠B-NonOSE_AE   pain≠I-NonOSE_AE  and discontinue drug if appropriate.
+
+
+
+    5.5 Macrovascular Outcomes
+
+
+
+  There have been no clinical studies establishing conclusive evidence of  macrovascular≠B-NonOSE_AE   risk≠I-NonOSE_AE  reduction with ONGLYZA or any other antidiabetic drug.

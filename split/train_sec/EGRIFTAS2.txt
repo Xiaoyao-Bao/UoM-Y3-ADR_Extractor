@@ -1,0 +1,83 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Neoplasms: Preexisting malignancy should be inactive and its treatment complete prior to starting EGRIFTA  (r)  therapy. (  5.1  ) 
+ *  Elevated IGF-1: Monitor regularly in all patients. Consider discontinuation in patients with persistent elevations. (  5.2  ) 
+ *  Fluid retention: May include edema, arthralgia, and carpal tunnel syndrome. (  5.3  ) 
+ *  Glucose intolerance: May develop with EGRIFTA  (r)  use. Evaluate glucose status prior to and during therapy with EGRIFTA  (r)  . (  5.4  ) 
+ *  Hypersensitivity reactions (e.g., rash, urticaria): Advise patients to seek immediate medical attention if suspected. (  5.5  ) 
+ *  Injection site reactions: Advise patients to rotate sites. (  5.6  ) 
+ *  Acute critical illness: Consider discontinuation. (  5.7  ) 
+    
+ 
+
+   5.1 Neoplasms
+
+
+
+  EGRIFTA  (r)  induces the release of endogenous growth hormone (GH), a known growth factor. Thus, patients with active  malignancy≠B-Not_AE_Candidate  should not be treated with EGRIFTA  (r)   [see Contraindications (  4.2  )]  .
+
+
+
+ For patients with a history of  non≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  malignant≠I-Not_AE_Candidate   neoplasms≠I-Not_AE_Candidate , EGRIFTA  (r)  therapy should be initiated after careful evaluation of the potential benefit of treatment. For patients with a history of treated and stable  malignancies≠B-Not_AE_Candidate , EGRIFTA  (r)  therapy should be initiated only after careful evaluation of the potential benefit of treatment relative to the risk of  re≠B-NonOSE_AE  -≠I-NonOSE_AE  activation≠I-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   underlying≠I-NonOSE_AE   malignancy≠I-NonOSE_AE .
+
+
+
+ In addition, the decision to start treatment with EGRIFTA  (r)  should be considered carefully based on the increased background risk of  malignancies≠B-Not_AE_Candidate  in  HIV≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  positive≠I-Not_AE_Candidate  patients.
+
+
+
+    5.2 Elevated IGF-1
+
+
+
+  EGRIFTA  (r)  stimulates GH production and  increases≠B-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   IGF≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE . Given that IGF-1 is a growth factor and the effect of prolonged  elevations≠B-NonOSE_AE   in≠I-NonOSE_AE   IGF≠I-NonOSE_AE  -≠I-NonOSE_AE  1≠I-NonOSE_AE  levels on the development or  progression≠B-NonOSE_AE   of≠I-NonOSE_AE   malignancies≠I-NonOSE_AE  is unknown, IGF-1 levels should be monitored closely during EGRIFTA  (r)  therapy. Careful consideration should be given to discontinuing EGRIFTA  (r)  in patients with  persistent≠B-NonOSE_AE   elevations≠I-NonOSE_AE   of≠I-NonOSE_AE   IGF≠I-NonOSE_AE  -≠I-NonOSE_AE  1≠I-NonOSE_AE   levels≠I-NonOSE_AE  (e.g., >3 SDS), particularly if the efficacy response is not robust (e.g., based on visceral adipose tissue changes measured by waist circumference or CT scan).
+
+
+
+ During the clinical trials, patients were monitored every three months. Among patients who received EGRIFTA  (r)  for 26 weeks, 47.4% had  IGF≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE   greater≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   2≠I-OSE_Labeled_AE   standard≠I-OSE_Labeled_AE   deviation≠I-OSE_Labeled_AE   scores≠I-OSE_Labeled_AE  (SDS), and 35.6% had SDS >3, with this effect seen as early as 13 weeks of treatment. Among those patients who remained on EGRIFTA  (r)  for a total of 52 weeks, at the end of treatment 33.7% had  IGF≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE   SDS≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  2≠I-OSE_Labeled_AE  and 22.6% had  IGF≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE   SDS≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  3≠I-OSE_Labeled_AE .
+
+
+
+    5.3 Fluid Retention
+
+
+
+   Fluid≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE  may occur during EGRIFTA  (r)  therapy and is thought to be related to the induction of GH secretion. It manifests as  increased≠B-NonOSE_AE   tissue≠I-NonOSE_AE   turgor≠I-NonOSE_AE  and  musculoskeletal≠B-NonOSE_AE   discomfort≠I-NonOSE_AE  resulting in a variety of adverse reactions (e.g.  edema≠B-NonOSE_AE ,  arthralgia≠B-NonOSE_AE ,  carpal≠B-NonOSE_AE   tunnel≠I-NonOSE_AE   syndrome≠I-NonOSE_AE ) which are either transient or resolve with discontinuation of treatment.
+
+
+
+    5.4 Glucose Intolerance
+
+
+
+  EGRIFTA  (r)  treatment may result in  glucose≠B-OSE_Labeled_AE   intolerance≠I-OSE_Labeled_AE . During the Phase 3 clinical trials, the percentages of patients with  elevated≠B-OSE_Labeled_AE   HbA≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  c≠I-OSE_Labeled_AE (>= 6.5%) from baseline to Week 26 were 4.5% and 1.3% in the EGRIFTA  (r)  and placebo groups, respectively. An increased risk of developing  diabetes≠B-OSE_Labeled_AE  with EGRIFTA  (r)  ( HbA≠B-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  clevel≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  =≠I-OSE_Labeled_AE   6≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  5≠I-OSE_Labeled_AE  %≠I-OSE_Labeled_AE ) relative to placebo was observed [intent-to-treat hazard odds ratio of 3.3 (CI 1.4, 9.6)]. Therefore, glucose status should be carefully evaluated prior to initiating EGRIFTA  (r)  treatment. In addition, all patients treated with EGRIFTA  (r)  should be monitored periodically for changes in glucose metabolism to diagnose those who develop  impaired≠B-NonOSE_AE   glucose≠I-NonOSE_AE   tolerance≠I-NonOSE_AE  or  diabetes≠B-NonOSE_AE .  Diabetes≠B-NonOSE_AE  is a known cardiovascular risk factor and patients who develop  glucose≠B-NonOSE_AE   intolerance≠I-NonOSE_AE  have an elevated risk for developing  diabetes≠B-NonOSE_AE . Caution should be exercised in treating  HIV≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  positive≠I-Not_AE_Candidate   patients≠I-Not_AE_Candidate   with≠I-Not_AE_Candidate   lipodystrophy≠I-Not_AE_Candidate  with EGRIFTA  (r)  if they develop  glucose≠B-NonOSE_AE   intolerance≠I-NonOSE_AE  or  diabetes≠B-NonOSE_AE , and careful consideration should be given to discontinuing EGRIFTA  (r)  treatment in patients who do not show a clear efficacy response as judged by the degree of reduction in visceral adipose tissue by waist circumference or CT scan measurements.
+
+
+
+ Since EGRIFTA  (r)   increases≠B-OSE_Labeled_AE   IGF≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE , patients with  diabetes≠B-Not_AE_Candidate  who are receiving ongoing treatment with EGRIFTA  (r)  should be monitored at regular intervals for potential development or worsening of retinopathy.
+
+
+
+    5.5 Hypersensitivity Reactions
+
+
+
+   Hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  may occur in patients treated with EGRIFTA  (r)  .  Hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  occurred in 3.6% of patients with  HIV≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  associated≠I-Not_AE_Candidate   lipodystrophy≠I-Not_AE_Candidate  treated with EGRIFTA  (r)  in the Phase 3 clinical trials. These reactions included  pruritus≠B-OSE_Labeled_AE ,  erythema≠B-OSE_Labeled_AE ,  flushing≠B-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE , and other  rash≠B-OSE_Labeled_AE . In cases of suspected  hypersensitivity≠B-NonOSE_AE   reactions≠I-NonOSE_AE , patients should be advised to seek prompt medical attention and treatment with EGRIFTA  (r)  should be discontinued immediately.
+
+
+
+    5.6 Injection Site Reactions
+
+
+
+  EGRIFTA  (r)  treatment may cause  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE , including  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   erythema≠I-OSE_Labeled_AE , pruritus, pain, irritation, and bruising. The incidence of  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  was 24.5% in EGRIFTA  (r)  -treated patients and 14.4% in placebo-treated patients during the first 26 weeks of treatment in the Phase 3 clinical trials. For patients who continued EGRIFTA  (r)  for an additional 26 weeks, the incidence of  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  was 6.1%. In order to reduce the incidence of  injection≠B-NonOSE_AE   site≠I-NonOSE_AE   reactions≠I-NonOSE_AE , it is recommended to rotate the site of injection to different areas of the abdomen.
+
+
+
+    5.7 Acute Critical Illness
+
+
+
+   Increased≠B-NonOSE_AE   mortality≠I-NonOSE_AE  in patients with  acute≠B-Not_AE_Candidate   critical≠I-Not_AE_Candidate   illness≠I-Not_AE_Candidate  due to complications following  open≠B-Not_AE_Candidate   heart≠I-Not_AE_Candidate   surgery≠I-Not_AE_Candidate ,  abdominal≠B-Not_AE_Candidate   surgery≠I-Not_AE_Candidate  or  multiple≠B-Not_AE_Candidate   accidental≠I-Not_AE_Candidate   trauma≠I-Not_AE_Candidate , or those with  acute≠B-Not_AE_Candidate   respiratory≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate  has been reported after treatment with pharmacologic amounts of growth hormone. EGRIFTA  (r)  has not been studied in patients with  acute≠B-Not_AE_Candidate   critical≠I-Not_AE_Candidate   illness≠I-Not_AE_Candidate . Since EGRIFTA  (r)   stimulates≠B-NonOSE_AE   growth≠I-NonOSE_AE   hormone≠I-NonOSE_AE   production≠I-NonOSE_AE , careful consideration should be given to discontinuing EGRIFTA  (r)  in critically ill patients.

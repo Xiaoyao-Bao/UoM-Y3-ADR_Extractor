@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ZIRGAN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  Most common adverse reactions reported in patients were blurred vision (60%), eye irritation (20%), punctate keratitis (5%), and conjunctival hyperemia (5%).
+
+
+
+   EXCERPT:   Most common adverse reactions reported in patients were blurred vision (60%), eye irritation (20%), punctate keratitis (5%), and conjunctival hyperemia (5%). (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Bausch &amp; Lomb at 1-800-323-0000 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    ZIRGAN is indicated for topical ophthalmic use only. (  5.1  ) 
+ *    Patients should not wear contact lenses if they have signs or symptoms of herpetic keratitis or during the course of therapy with ZIRGAN. (  5.2  ) 
+    
+ 
+
+   5.1 Topical Ophthalmic Use Only
+
+
+
+  ZIRGAN is indicated for topical ophthalmic use only.
+
+
+
+    5.2 Avoidance of Contact Lenses
+
+
+
+  Patients should not wear contact lenses if they have signs or symptoms of herpetic keratitis or during the course of therapy with ZIRGAN.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="241" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="319" name="excerpt" section="S1" start="190" />
+    <IgnoredRegion len="31" name="heading" section="S2" start="284" />
+    <IgnoredRegion len="31" name="heading" section="S2" start="381" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

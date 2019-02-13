@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PREVACID_24_HR">
+  <Text>
+    <Section id="S1" name="warnings">     Warnings  
+
+
+
+   Allergy alert:  Do not use if you are allergic to lansoprazole
+
+
+
+    Do Not Use
+
+
+
+    *    if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. 
+       Ask a Doctor before use if you have
+ 
+
+    *    liver disease 
+ *    had heartburn over 3 months. This may be a sign of a more serious condition. 
+ *    chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness 
+ *    frequent chest pain  
+ *    frequent wheezing, particularly with heartburn 
+ *    unexplained weight lose 
+ *    nausea or vomiting 
+ *    stomach pain 
+       Ask a doctor or pharmacist before use if you are taking
+ 
+
+    *    warfarin (blood-thinning medicine) 
+ *    prescription antifungal or anti-yeast medicines 
+ *    digoxin (heart medicine) 
+ *    theophylline (asthma medicine) 
+ *    tacrolimus or mycophenolate mofetil (immune system medicines) 
+ *    atazanavir (medicine for HIV infection) 
+ *    methotrexate (arthritis medication) 
+       Stop use and ask a doctor if
+ 
+
+    *    your heartburn continues or worsens 
+ *    you need to take this product for more than 14 days 
+ *    you need to take more than 1 course of treatment every 4 months 
+ *    you get diarrhea 
+       If pregnant or breast-feeding,
+ 
+
+  ask a health professional before use.
+
+
+
+    Keep out of reach of children
+
+
+
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="11" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="10" name="heading" section="S1" start="92" />
+    <IgnoredRegion len="35" name="heading" section="S1" start="276" />
+    <IgnoredRegion len="55" name="heading" section="S1" start="722" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="1117" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="1356" />
+    <IgnoredRegion len="29" name="heading" section="S1" start="1437" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="URISPAS">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency.
+
+
+
+   Gastrointestinal:  Nausea, vomiting, dry mouth.
+
+
+
+   CNS:  Vertigo, headache, mental confusion, especially in the elderly, drowsiness, nervousness.
+
+
+
+   Hematologic:  Leukopenia (one case which was reversible upon discontinuation of the drug).
+
+
+
+   Cardiovascular:  Tachycardia and palpitation.
+
+
+
+   Allergic:  Urticaria and other dermatoses, eosinophilia and hyperpyrexia.
+
+
+
+   Ophthalmic:  Increased ocular tension, blurred vision, disturbance in eye accommodation.
+
+
+
+   Renal:  Dysuria.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   Information for Patients:
+
+
+
+  Patients should be informed that if drowsiness and blurred vision occur, they should not operate a motor vehicle or machinery or participate in activities where alertness is required.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility:
+
+
+
+  Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of URISPAS  (r)  (flavoxate HCl) have not been performed.
+
+
+
+    Pregnancy:
+
+
+
+  Teratogenic Effects-Pregnancy Category B. Reproduction studies have been performed in rats and rabbits at doses up to 34 times the human dose and revealed no evidence of impaired fertility or harm to the fetus due to flavoxate HCl. There are, however, no well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+
+
+    Nursing Mothers:
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when URISPAS  (r)  is administered to a nursing woman.
+
+
+
+    Pediatric Use:
+
+
+
+  Safety and effectiveness in children below the age of 12 years have not been established.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  URISPAS  (r)  (flavoxate HCl) should be given cautiously in patients with suspected glaucoma.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="25" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="53" name="heading" section="S2" start="244" />
+    <IgnoredRegion len="10" name="heading" section="S2" start="462" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="930" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="1150" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

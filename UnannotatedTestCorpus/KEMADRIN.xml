@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="KEMADRIN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Anticholinergic effects can be produced by therapeutic doses although these can frequently be minimized or eliminated by careful dosage. They include: dryness of the mouth, mydriasis, blurring of vision, giddiness, lightheadedness, and gastrointestinal disturbances such as nausea, vomiting, epigastric distress, and constipation. Occasionally an allergic reaction such as a skin rash may be encountered. Feelings of muscular weakness may occur. Acute suppurative parotitis as a complication of dry mouth has been reported.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  Conditions in which inhibition of the parasympathetic nervous system is undesirable, such as tachycardia and urinary retention (such as may occur with marked prostatic hypertrophy), require special care in the administration of the drug. Hypotensive patients who receive the drug should be observed closely. Occasionally, particularly in older patients, mental confusion and disorientation may occur with the development of agitation, hallucinations, and psychotic-like symptoms.
+
+
+
+ Patients with mental disorders occasionally experience a precipitation of a psychotic episode when the dosage of antiparkinsonism drugs is increased to treat the extrapyramidal side effects of phenothiazine and rauwolfia derivatives.
+
+
+
+    Geriatric Use
+
+
+
+  Clinical studies of KEMADRIN did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should start at the low end of the dosing range (see  DOSAGE AND ADMINISTRATION  ) and the dose should be increased only as needed with monitoring for the emergence of adverse events (see  PRECAUTIONS  and  ADVERSE REACTIONS  ).
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+   Use in Children:  Safety and efficacy have not been established in the pediatric age group; therefore, the use of procyclidine hydrochloride in this age group requires that the potential benefits be weighed against the possible hazards to the child.
+
+
+
+  Pregnancy Warning:  The safe use of this drug in pregnancy has not been established; therefore, the use of procyclidine hydrochloride in pregnancy, lactation, or in women of childbearing age requires that the potential benefits be weighed against the possible hazards to the mother and child.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="760" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

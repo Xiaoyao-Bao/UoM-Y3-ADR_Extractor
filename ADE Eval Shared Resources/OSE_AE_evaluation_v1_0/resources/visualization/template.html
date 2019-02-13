@@ -1,0 +1,37 @@
+<!-- Copyright (C) 2018 The MITRE Corporation. See the toplevel
+ file LICENSE.txt for license terms. -->
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="brat_13/style-vis.css"/>
+<script type="text/javascript" src="brat_13/client/lib/head.load.min.js"></script>
+<script type="text/javascript">
+var docData = TPL_DOCDATA;
+</script>
+<script type="text/javascript" src="js/labelviz.js"></script>
+<style>
+#meddraCode {
+  display: none;
+  position: fixed;
+  height: 1em;
+  bottom: 0px;
+  background: white;
+  border-top: 1px solid black;
+  font-family: sans-serif;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  width: 98%;
+}
+/* This will force the whitespace in SVG not to collapse,
+  which will block errors in text length computing caused by
+  the collapse. This works in Firefox and Safari, not sure about other
+  browsers. */
+text {
+  white-space: pre;
+}
+</style>
+</head>
+<body>
+<div id="vizdiv"></div>
+<div id="meddraCode"></div>
+</body>
+</html>

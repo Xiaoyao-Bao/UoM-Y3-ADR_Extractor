@@ -1,0 +1,70 @@
+    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed in greater detail in other sections of the label:
+
+
+
+ *   Rhabdomyolysis≠B-OSE_Labeled_AE  with  myoglobinuria≠B-OSE_Labeled_AE  and  acute≠B-NonOSE_AE   renal≠I-NonOSE_AE   failure≠I-NonOSE_AE  and  myopathy≠B-OSE_Labeled_AE  (including  myositis≠B-OSE_Labeled_AE ) [see Warnings and Precautions (  5.1  )].  
+ *   Liver≠B-OSE_Labeled_AE   Enzyme≠I-OSE_Labeled_AE   Abnormalities≠I-OSE_Labeled_AE  [see Warning and Precautions (  5.2  )].  
+    Of 4,798 patients enrolled in 10 controlled clinical studies and 4 subsequent open-label extension studies, 3,291 patients were administered pitavastatin 1 mg to 4 mg daily. The mean continuous exposure of pitavastatin (1 mg to 4 mg) was 36.7 weeks (median 51.1 weeks). The mean age of the patients was 60.9 years (range; 18 years - 89 years) and the gender distribution was 48% males and 52% females. Approximately 93% of the patients were Caucasian, 7% were Asian/Indian, 0.2% were African American and 0.3% were Hispanic and other.
+ 
+
+   EXCERPT:   The most frequent adverse reactions (rate >=2.0% in at least one marketed dose) were myalgia, back pain, diarrhea, constipation and pain in extremity. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Kowa Pharmaceuticals America, Inc. at 1-877-334-3464 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical studies on LIVALO are conducted in varying study populations and study designs, the frequency of adverse reactions observed in the clinical studies of LIVALO cannot be directly compared with that in the clinical studies of other HMG-CoA reductase inhibitors and may not reflect the frequency of adverse reactions observed in clinical practice.
+
+
+
+ Adverse reactions reported in >= 2% of patients in controlled clinical studies and at a rate greater than or equal to placebo are shown in  Table 1  . These studies had treatment duration of up to 12 weeks.
+
+
+
+ Table 1. Adverse Reactions* Reported by >=2.0% of Patients Treated with LIVALO and > Placebo in Short-Term Controlled Studies 
+  * Adverse reactions by MedDRA preferred term.    
+  
+ AdverseReactions*  PlaceboN= 208        LIVALO1 mgN=309     LIVALO2 mgN=951          LIVALO4 mgN=1540        
+  Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE          2.9%                 3.9%                1.8%                     1.4%                    
+  Constipation≠B-OSE_Labeled_AE       1.9%                 3.6%                1.5%                     2.2%                    
+  Diarrhea≠B-OSE_Labeled_AE           1.9%                 2.6%                1.5%                     1.9%                    
+  Myalgia≠B-OSE_Labeled_AE            1.4%                 1.9%                2.8%                     3.1%                    
+  Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE   1.9%                 2.3%                0.6%                     0.9%                    
+           Other adverse reactions reported from clinical studies were  arthralgia≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  influenza≠B-OSE_Labeled_AE , and  nasopharyngitis≠B-OSE_Labeled_AE .
+ 
+
+ The following laboratory abnormalities have also been reported:  elevated≠B-OSE_Labeled_AE   creatine≠I-OSE_Labeled_AE   phosphokinase≠I-OSE_Labeled_AE , transaminases, alkaline phosphatase, bilirubin, and glucose.
+
+
+
+ In controlled clinical studies and their open-label extensions, 3.9% (1 mg), 3.3% (2 mg), and 3.7% (4 mg) of pitavastatin-treated patients were discontinued due to adverse reactions. The most common adverse reactions that led to treatment discontinuation were:  elevated≠B-OSE_Labeled_AE   creatine≠I-OSE_Labeled_AE   phosphokinase≠I-OSE_Labeled_AE  (0.6% on 4 mg) and  myalgia≠B-OSE_Labeled_AE  (0.5% on 4 mg).
+
+
+
+  Hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  including  rash≠B-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE , and  urticaria≠B-OSE_Labeled_AE  have been reported with LIVALO.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during postapproval use of LIVALO. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ Adverse reactions associated with LIVALO therapy reported since market introduction, regardless of causality assessment, include the following:  abdominal≠B-OSE_Labeled_AE   discomfort≠I-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  asthenia≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE ,  malaise≠B-OSE_Labeled_AE ,  hepatitis≠B-OSE_Labeled_AE ,  jaundice≠B-OSE_Labeled_AE ,  fatal≠B-NonOSE_AE  and non-fatal  hepatic≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  hypoesthesia≠B-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  depression≠B-OSE_Labeled_AE ,  interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE ,  erectile≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE  and  muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE .
+
+
+
+ There have been rare postmarketing reports of  cognitive≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE  (e.g.,  memory≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE ,  forgetfulness≠B-OSE_Labeled_AE ,  amnesia≠B-OSE_Labeled_AE ,  memory≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE ,  confusion≠B-OSE_Labeled_AE ) associated with statin use. These  cognitive≠B-OSE_Labeled_AE   issues≠I-OSE_Labeled_AE  have been reported for all statins. The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
+
+
+
+ There have been rare reports of  immune≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  mediated≠I-OSE_Labeled_AE   necrotizing≠I-OSE_Labeled_AE   myopathy≠I-OSE_Labeled_AE  associated with statin use [see  Warnings and Precautions (  5.1  )  ].

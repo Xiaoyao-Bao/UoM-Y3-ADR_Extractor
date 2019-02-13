@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ALTABAX">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common drug-related adverse reaction was application site irritation (less than or equal to 2% of subjects). (6.1)
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact GlaxoSmithKline at 1-888-825-5249 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical trials are conducted under varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice. The adverse reaction information from the clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
+
+
+
+ The safety profile of ALTABAX was assessed in 2,115 adult and pediatric subjects 9 months and older who used at least one dose from a 5-day, twice a day regimen of retapamulin ointment. Control groups included 819 adult and pediatric subjects who used at least one dose of the active control (oral cephalexin), 172 subjects who used an active topical comparator (not available in the US), and 71 subjects who used placebo.
+
+
+
+ Adverse events rated by investigators as drug-related occurred in 5.5% (116/2,115) of subjects treated with retapamulin ointment, 6.6% (54/819) of subjects receiving cephalexin, and 2.8% (2/71) of subjects receiving placebo. The most common drug-related adverse events (greater than or equal to 1% of subjects) were application site irritation (1.4%) in the retapamulin group, diarrhea (1.7%) in the cephalexin group, and application site pruritus (1.4%) and application site paresthesia (1.4%) in the placebo group.
+
+
+
+     Adults  
+
+  The adverse events, regardless of attribution, reported in at least 1% of adults (aged 18 years and older) who received ALTABAX or comparator are presented in Table 1.
+
+
+
+ Table 1. Adverse Events Reported by &gt;=1% of Adult Subjects Treated with ALTABAX or Comparator in Phase 3 Clinical Trials 
+  Adverse Event                                              ALTABAX  N = 1,527  %    Cephalexin  N = 698  %    
+  Headache                                                   2.0                     2.0                     
+  Application site irritation                                1.6                     &lt;1.0                    
+  Diarrhea                                                   1.4                     2.3                     
+  Nausea                                                     1.2                     1.9                     
+  Nasopharyngitis                                            1.2                     &lt;1.0                    
+  Creatinine phosphokinase increased                         &lt;1.0                    1.0                     
+             Pediatrics  
+   The adverse events, regardless of attribution, reported in at least 1% of pediatric subjects aged 9 months to 17 years who received ALTABAX are presented in Table 2.
+
+
+
+ Table 2. Adverse Events Reported by &gt;=1% in Pediatric Subjects Aged 9 Months to 17 Years Treated with ALTABAX in Phase 3 Clinical Trials 
+  Adverse Event                             ALTABAX  N = 588  %     Cephalexin  N = 121  %    Placebo  N = 64  %    
+  Application site pruritus                 1.9                     0                       0                 
+  Diarrhea                                  1.7                     5.0                     0                 
+  Nasopharyngitis                           1.5                     1.7                     0                 
+  Pruritus                                  1.5                     1.0                     1.6               
+  Eczema                                    1.0                     0                       0                 
+  Headache                                  1.2                     1.7                     0                 
+  Pyrexia                                   1.2                     &lt;1.0                    1.6               
+              Other Adverse Events  
+   Application site pain, erythema, and contact dermatitis were reported in less than 1% of subjects in clinical trials.
+
+
+
+   6.2 Postmarketing Experience
+
+  In addition to reports in clinical trials, the following events have been identified during postmarketing use of ALTABAX. Because these events are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency orestablish a causal relationship to drug exposure.
+
+
+
+   General Disorders and Administration Site Conditions  
+
+
+
+ Application site burning.
+
+
+
+   Immune System Disorders  
+
+
+
+ Hypersensitivity including angioedema.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Discontinue in the event of sensitization or severe local irritation. (5.1) 
+ *    Not intended for ingestion. Not for intraoral, intranasal, ophthalmic, or intravaginal use. (5.2) 
+    
+ 
+
+   5.1 Local Irritation
+
+
+
+  In the event of sensitization or severe local irritation from ALTABAX, usage should be discontinued, the ointment wiped off, and appropriate alternative therapy for the infection instituted [see Patient Counseling Information (17)]  .
+
+
+
+    5.2 Not for Systemic or Mucosal Use
+
+
+
+  ALTABAX is not intended for ingestion or for oral, intranasal, ophthalmic, or intravaginal use. The efficacy and safety of ALTABAX on mucosal surfaces have not been established. Epistaxis has been reported with the use of ALTABAX on nasal mucosa.
+
+
+
+    5.3 Potential for Microbial Overgrowth
+
+
+
+  The use of antibiotics may promote the selection of nonsusceptible organisms. Should superinfection occur during therapy, appropriate measures should be taken.
+
+
+
+ Prescribing ALTABAX in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="279" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="204" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="247" />
+    <IgnoredRegion len="31" name="heading" section="S1" start="309" />
+    <IgnoredRegion len="35" name="heading" section="S2" start="515" />
+    <IgnoredRegion len="38" name="heading" section="S2" start="810" />
+    <IgnoredRegion len="10" name="heading" section="S1" start="1748" />
+    <IgnoredRegion len="14" name="heading" section="S1" start="2840" />
+    <IgnoredRegion len="24" name="heading" section="S1" start="4072" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="4224" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

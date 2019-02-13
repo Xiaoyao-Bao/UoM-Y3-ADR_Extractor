@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="MYOVIEW">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+
+
+ *  Hypersensitivity Reactions [ see   Warnings and Precautions (5.3)  ] . 
+      EXCERPT:   Most common adverse reactions (incidence &lt; 1%) after MYOVIEW injection: Cardiovascular: angina, hypertension, torsades de pointes. Gastrointestinal: vomiting, abdominal discomfort. Hypersensitivity: cutaneous allergy, hypotension, dyspnea. Special Senses: metallic taste, burning of the mouth, smell alteration. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact GE Healthcare at 1-800-654-0118 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    .
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of MYOVIEW cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Adverse reactions were evaluated in clinical studies (using an exercise/rest protocol) of 764 adults (511 men) with a mean age of 58.7 years (range 29-94 years). The subjects received a mean dose of 285 MBq (7.7 mCi) on the first injection and 829 MBq (22.4 mCi) on the second injection of MYOVIEW.
+
+
+
+ After MYOVIEW injection, angina occurred in 4 subjects, ventricular tachycardia in 1 subject, and respiratory arrest in 1 subject.
+
+
+
+ The following reactions were noted in less than 1% of subjects:
+
+
+
+ Cardiovascular: angina, hypertension, torsades de pointes.
+
+
+
+ Gastrointestinal: vomiting, abdominal discomfort.
+
+
+
+ Hypersensitivity: cutaneous allergy, hypotension, dyspnea.
+
+
+
+ Special Senses: metallic taste, burning of the mouth, smell alteration.
+
+
+
+ In four studies,438 adults (232 men and 205 women: gender was not recorded for one subject) with a mean age of 65 years (range 27-97 years) received a single pharmacologic stress agent. The subjects received a mean dose of 7-8 mCi on the rest/first injection and 22-34 mCi on the stress/second injection. Among the 438 subjects, 319 subjects (73%) experienced an adverse reaction. Reactions occurring in &gt;=1% of the subjects included angina (39%), flushing (36%), dyspnea (28%), headache (14%), abdominal pain (11%), dizziness (7%), palpitations (2%), nausea (2%), hypotension (1%) and pain (1%). Events occurring in &lt;1% include cough, arrhythmia, bronchospasm, ECG abnormalities, hypertension, vomiting and asthenia.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post approval use of MYOVIEW. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ The most common adverse reactions reported included: rash, urticaria, abnormal vision, hypersensitivity reactions, and fever.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  *  Continuous cardiac monitoring should be performed in studying patients with known or suspected coronary artery disease (  5.1  ) 
+ *  When pharmacologic stress is selected as an alternative to exercise, perform the procedure in accordance with the pharmacologic stress agent's prescribing information (  5.1  ) 
+   Risk with exercise or pharmacologic stress: 
+ *  Appropriate safety measures should be used to minimize radiation exposure to clinical personnel and to the patient consistent with proper patient management (  2.1  ,  5.2  ) 
+    
+ 
+
+   5.1 Risks Associated with Exercise or Pharmacologic Stress
+
+
+
+  Patients evaluated with exercise or pharmacologic stress may experience serious adverse reactions such as myocardial infarction, arrhythmia, hypotension, bronchoconstriction, and cerebrovascular reactions such as headache, paraesthesias, convulsions, somnolence and cerebrovascular accident, including hemorrhage. Perform stress testing in the setting where cardiac resuscitation equipment and trained staff are readily available. When pharmacologic stress is selected as an alternative to exercise, perform the procedure in accordance with the pharmacologic stress agent's prescribing information.
+
+
+
+    5.2 Radiation Risks
+
+
+
+  Technetium Tc99m contributes to a patient's overall long-term cumulative radiation exposure. Long-term cumulative radiation exposure is associated with an increased risk of cancer. Ensure safe handling and preparation reconstitution procedures to protect patients and health care workers from unintentional radiation exposure. Encourage adequate hydration; instruct patients to void when the examination is completed and as often thereafter as possible [ see    Dosage and Administration (2.1)  and  (2.3)  ]  .
+
+
+
+    5.3 Hypersensitivity Reactions
+
+
+
+  Hypersensitivity reactions including anaphylaxis, dyspnea, bronchospasm, throat tightness, coughing, tachycardia, chest pain, hypotension, abdominal pain, and cutaneous reactions (rash, urticaria, pruritus, erythema, and swelling or angioedema) have been observed after the administration of MYOVIEW. Always have cardiopulmonary resuscitation equipment and personnel available and monitor all patients for hypersensitivity reactions.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="563" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="478" name="excerpt" section="S1" start="207" />
+    <IgnoredRegion len="58" name="heading" section="S2" start="606" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="689" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="1276" />
+    <IgnoredRegion len="30" name="heading" section="S2" start="1820" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="2478" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

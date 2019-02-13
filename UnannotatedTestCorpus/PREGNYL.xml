@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PREGNYL">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Headache, irritability, restlessness, depression, fatigue, edema, precocious puberty, gynecomastia, pain at the site of injection.
+
+
+
+ Hypersensitivity reactions, both localized and systemic in nature, have been reported.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  Since androgens may cause fluid retention, HCG should be used with caution in patients with cardiac or renal disease, epilepsy, migraine, or asthma.
+
+
+
+    Pediatric Use
+
+
+
+  Induction of androgen secretion by HCG may induce precocious puberty in pediatric patients treated for cryptorchidism. Therapy should be discontinued if signs of precocious puberty occur.
+
+
+
+    Geriatric Use
+
+
+
+  Clinical studies of PREGNYL   (r)    (chorionic gonadotropin for injection USP) did not include subjects aged 65 and over.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  HCG should be used in conjunction with human menopausal gonadotropins only by physicians experienced with infertility problems who are familiar with the criteria for patient selection, contraindications, warnings, precautions, and adverse reactions described in the package insert for menotropins.
+
+
+
+ Anaphylaxis has been reported with urinary-derived HCG products.
+
+
+
+ The principal serious adverse reactions during this use are: (1) ovarian hyperstimulation, a syndrome of sudden ovarian enlargement, ascites with or without pain, and/or pleural effusion, (2) rupture of ovarian cysts with resultant hemoperitoneum, (3) multiple births, and (4) arterial thromboembolism.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="191" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="405" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

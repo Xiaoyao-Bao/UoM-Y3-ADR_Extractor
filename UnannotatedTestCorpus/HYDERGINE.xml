@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="HYDERGINE">
+  <Text>
+    <Section id="S1" name="adverse reactions">      ADVERSE REACTIONS  
+
+  Hydergine  (r)  (ergoloid mesylates) preparations have not been found to produce serious side effects. Transient nausea and gastric disturbances have been reported. Hydergine  (r)  (ergoloid mesylates) preparations do not possess the vasoconstrictor properties of the natural ergot alkaloids.
+</Section>
+    <Section id="S2" name="precautions">     PRECAUTIONS  
+
+
+
+   Practitioners are advised that because the target symptoms are of unknown etiology, careful diagnosis should be attempted before prescribing Hydergine     (r)     (ergoloid mesylates) preparations.  
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="21" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

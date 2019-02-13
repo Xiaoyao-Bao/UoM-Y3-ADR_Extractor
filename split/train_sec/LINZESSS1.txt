@@ -1,0 +1,96 @@
+  6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (>=2%) reported in IBS-C or CIC patients are: diarrhea, abdominal pain, flatulence and abdominal distension. (  6.1  )
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Allergan at 1-800-678-1605 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    .  
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+ Exposure in clinical development included approximately 2570, 2040, and 1220 patients with either IBS-C or CIC treated with LINZESS for 6 months or longer, 1 year or longer, and 18 months or longer, respectively (not mutually exclusive).
+
+ Demographic characteristics were comparable between treatment groups in all studies  [see Clinical Studies (  14  )]  .
+
+     Irritable Bowel Syndrome with Constipation (IBS-C)  
+
+     Most Common Adverse Reactions  
+
+ The data described below reflect exposure to LINZESS in the two placebo-controlled clinical trials involving 1605 adult patients with  IBS≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  C≠I-Not_AE_Candidate  (Trials 1 and 2). Patients were randomized to receive placebo or 290 mcg LINZESS once daily on an empty stomach for up to 26 weeks.  Table 1  provides the incidence of adverse reactions reported in at least 2% of IBS-C patients in the LINZESS treatment group and at an incidence that was greater than in the placebo group.
+
+ Table 1: Most Common Adverse Reactionsa in Two Placebo-Controlled Trials (1 and 2) in Patients with IBS-C 
+  a: Reported in at least 2% of LINZESS-treated patients and at an incidence greater than placebo    
+  b: " Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE " term includes  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  upper≠B-OSE_Labeled_AE   abdominal≠I-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE , and  lower≠B-OSE_Labeled_AE   abdominal≠I-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE .    
+  
+   Adverse Reactions                               LINZESS    290 mcg    [N=807]    %      Placebo    [N=798]    %     
+    Gastrointestinal≠B-NonOSE_AE         Diarrhea≠B-OSE_Labeled_AE       Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   b        Flatulence≠B-OSE_Labeled_AE       Abdominal≠B-OSE_Labeled_AE   distension≠I-OSE_Labeled_AE   20742                         3521                        
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE         Viral≠B-OSE_Labeled_AE   Gastroenteritis≠I-OSE_Labeled_AE   3                             1                           
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE         Headache≠B-OSE_Labeled_AE        4                             3                           
+             Diarrhea  
+ 
+
+  Diarrhea≠B-OSE_Labeled_AE  was the most commonly reported adverse reaction of the LINZESS-treated patients in the pooled  IBS≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  C≠I-Not_AE_Candidate  pivotal placebo-controlled trials. In these trials, 20% of LINZESS-treated patients reported  diarrhea≠B-OSE_Labeled_AE  compared to 3% of placebo-treated patients. Severe  diarrhea≠B-OSE_Labeled_AE  was reported in 2% of the LINZESS-treated patients versus less than 1% of the placebo-treated patients, and 5% of LINZESS-treated patients discontinued due to  diarrhea≠B-OSE_Labeled_AE  vs less than 1% of placebo-treated patients. The majority of reported cases of  diarrhea≠B-OSE_Labeled_AE  started within the first 2 weeks of LINZESS treatment  [see Warnings and Precautions (  5.2  )]  .
+
+     Adverse Reactions Leading to Discontinuation  
+
+ In placebo-controlled trials in patients with  IBS≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  C≠I-Not_AE_Candidate , 9% of patients treated with LINZESS and 3% of patients treated with placebo discontinued prematurely due to adverse reactions. In the LINZESS treatment group, the most common reasons for discontinuation due to adverse reactions were  diarrhea≠B-OSE_Labeled_AE  (5%) and  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (1%). In comparison, less than 1% of patients in the placebo group withdrew due to  diarrhea≠B-NonOSE_AE  or  abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE .
+
+     Adverse Reactions Leading to Dose Reductions  
+
+ In the open-label, long-term trials, 2147 patients with  IBS≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  C≠I-Not_AE_Candidate  received 290 mcg of LINZESS daily for up to 18 months. In these trials, 29% of patients had their dose reduced or suspended secondary to adverse reactions, the majority of which were  diarrhea≠B-OSE_Labeled_AE  or other  GI≠B-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE .
+
+     Less Common Adverse Reactions  
+
+  Defecation≠B-OSE_Labeled_AE   urgency≠I-OSE_Labeled_AE ,  fecal≠B-OSE_Labeled_AE   incontinence≠I-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE , and  gastroesophagal≠B-OSE_Labeled_AE   reflux≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE  were reported in <2% of patients in the LINZESS treatment group and at an incidence greater than in the placebo treatment group.
+
+     Chronic Idiopathic Constipation (CIC)  
+
+     Most Common Adverse Reactions  
+
+ The data described below reflect exposure to LINZESS in the two double-blind placebo-controlled clinical trials of 1275 adult patients with  CIC≠B-Not_AE_Candidate  (Trials 3 and 4). Patients were randomized to receive placebo or 145 mcg LINZESS or 290 mcg LINZESS once daily on an empty stomach, for at least 12 weeks.  Table 2  provides the incidence of adverse reactions reported in at least 2% of CIC patients in the 145 mcg LINZESS treatment group and at an incidence that was greater than in the placebo treatment group.
+
+ Table 2: Most Common Adverse Reactionsa in the Two Placebo-controlled Trials (3 and 4) in Patients with CIC 
+  a: Reported in at least 2% of LINZESS-treated patients and at an incidence greater than placebo    
+  b: " Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE " term includes  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  upper≠B-OSE_Labeled_AE   abdominal≠I-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE , and  lower≠B-OSE_Labeled_AE   abdominal≠I-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE .    
+  
+   Adverse Reactions                                             LINZESS    145 mcg    [N=430]    %      Placebo    [N=423]    %     
+    Gastrointestinal≠B-NonOSE_AE         Diarrhea≠B-OSE_Labeled_AE       Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   b        Flatulence≠B-OSE_Labeled_AE       Abdominal≠B-OSE_Labeled_AE   distension≠I-OSE_Labeled_AE   16763                 5652                  
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE         Upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE       Sinusitis≠B-OSE_Labeled_AE   53                    42                    
+         The safety of a 72 mcg dose was evaluated in an additional placebo-controlled trial in which 1223 patients were randomized to LINZESS 72 mcg, 145 mcg, or placebo once daily for 12 weeks (Trial 5).
+ 
+
+ In Trial 5, adverse reactions that occurred at a frequency of >= 2% in LINZESS-treated patients (n=411 in each LINZESS 72 mcg and 145 mcg group) and at a higher rate than placebo (n=401) were:
+
+ *   Diarrhea≠B-OSE_Labeled_AE  (LINZESS 72 mcg 19%; LINZESS 145 mcg 22%; placebo 7%) 
+ *   Abdominal≠B-OSE_Labeled_AE   distension≠I-OSE_Labeled_AE  (LINZESS 72 mcg 2%; LINZESS 145 mcg 1%; placebo < 1%) 
+         Diarrhea≠B-OSE_Labeled_AE   
+ 
+
+ This section summarizes information from Trials 3 and 4 (pooled) and Trial 5 regarding  diarrhea≠B-OSE_Labeled_AE , the most commonly reported adverse reaction reported in LINZESS-treated patients in  CIC≠B-Not_AE_Candidate  placebo-controlled studies.
+
+ In all trials, the majority of reported cases of  diarrhea≠B-OSE_Labeled_AE  started within the first 2 weeks of LINZESS treatment.
+
+ Severe  diarrhea≠B-OSE_Labeled_AE  was reported in less than 1% of the 72 mcg LINZESS-treated patients (Trial 5), in 2% of the 145 mcg LINZESS-treated patients (Trials 3 and 4; Trial 5), and less than 1% of the placebo-treated patients (Trials 3, 4, and 5)  [see Warnings and Precautions (  5.2  )]  .
+
+     Adverse Reactions Leading to Discontinuation  
+
+ In placebo-controlled trials in patients with  CIC≠B-Not_AE_Candidate , 3% of patients treated with 72 mcg (Trial 5) and between 5% (Trial 5) and 8% (Trials 3 and 4) of patients treated with 145 mcg of LINZESS discontinued prematurely due to adverse reactions compared to between less than 1% (Trial 5) and 4% (Trials 3 and 4) of patients treated with placebo.
+
+ In patients treated with 72 mcg LINZESS the most common reason for discontinuation due to adverse reactions was  diarrhea≠B-OSE_Labeled_AE  (2% in Trial 5) and in patients treated with 145 mcg LINZESS, the most common reasons for discontinuation due to adverse reactions were  diarrhea≠B-OSE_Labeled_AE  (3% in Trial 5 and 5% in Trials 3 and 4) and  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (1% in Trials 3 and 4). In comparison, less than 1% of patients in the placebo group withdrew due to  diarrhea≠B-NonOSE_AE  or  abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE  (Trials 3 and 4; Trial 5).
+
+     Adverse Reactions Leading to Dose Reductions  
+
+ In the open-label, long-term trials, 1129 patients with  CIC≠B-Not_AE_Candidate  received 290 mcg of LINZESS daily for up to 18 months. In these trials, 27% of patients had their dose reduced or suspended secondary to adverse reactions, the majority of which were  diarrhea≠B-OSE_Labeled_AE  or other  GI≠B-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE .
+
+     Less Common Adverse Reactions  
+
+  Defecation≠B-OSE_Labeled_AE   urgency≠I-OSE_Labeled_AE ,  fecal≠B-OSE_Labeled_AE   incontinence≠I-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE , and  viral≠B-OSE_Labeled_AE   gastroenteritis≠I-OSE_Labeled_AE , were reported in less than 2% of patients in the LINZESS treatment group and at an incidence greater than placebo treatment group.
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post approval use of LINZESS. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+  Hematochezia≠B-OSE_Labeled_AE ,  rectal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE , and  allergic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE  or  hives≠B-OSE_Labeled_AE .
+

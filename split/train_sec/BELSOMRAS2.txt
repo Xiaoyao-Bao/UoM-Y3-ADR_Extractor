@@ -1,0 +1,82 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Daytime somnolence: Risk of impaired alertness and motor coordination, including impaired driving; risk increases with dose; caution patients taking 20 mg against next-day driving and other activities requiring complete mental alertness (  5.1  ). 
+ *  Need to evaluate for co-morbid diagnoses: Reevaluate if insomnia persists after 7 to 10 days of treatment (  5.2  ). 
+ *  Nighttime "sleep-driving" and other complex behaviors while out of bed and not fully awake. Risk increases with dose, with use of CNS depressants, and with alcohol (  5.3  ). 
+ *  Depression: Worsening of depression or suicidal thinking may occur. Risk increases with dose. Immediately evaluate any new behavioral changes (  5.4  ). 
+ *  Compromised respiratory function: Effect on respiratory function should be considered (  5.5  ,  8.6  ). 
+ *  Sleep paralysis, hypnagogic/hypnopompic hallucinations, and cataplexy-like symptoms: Risk increases with dose (  5.6  ). 
+    
+ 
+
+   5.1 CNS Depressant Effects and Daytime Impairment
+
+
+
+  BELSOMRA is a central nervous system (CNS) depressant that can  impair≠B-OSE_Labeled_AE   daytime≠I-OSE_Labeled_AE   wakefulness≠I-OSE_Labeled_AE  even when used as prescribed. Prescribers should monitor for  somnolence≠B-NonOSE_AE  and  CNS≠B-NonOSE_AE   depressant≠I-NonOSE_AE   effects≠I-NonOSE_AE , but impairment can occur in the absence of symptoms, and may not be reliably detected by ordinary clinical exam (i.e., less than formal testing of daytime wakefulness and/or psychomotor performance).  CNS≠B-OSE_Labeled_AE   depressant≠I-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE  may persist in some patients for up to several days after discontinuing BELSOMRA.
+
+
+
+ BELSOMRA can  impair≠B-OSE_Labeled_AE   driving≠I-OSE_Labeled_AE   skills≠I-OSE_Labeled_AE  and may  increase≠B-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   risk≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   falling≠I-OSE_Labeled_AE   asleep≠I-OSE_Labeled_AE   while≠I-OSE_Labeled_AE   driving≠I-OSE_Labeled_AE . Discontinue or decrease the dose in patients who drive if  daytime≠B-NonOSE_AE   somnolence≠I-NonOSE_AE  develops. In a study of healthy adults,  driving≠B-OSE_Labeled_AE   ability≠I-OSE_Labeled_AE   was≠I-OSE_Labeled_AE   impaired≠I-OSE_Labeled_AE  in some individuals taking 20 mg BELSOMRA [see  Clinical Studies (14.2)  ].  Although pharmacodynamic tolerance or adaptation to some adverse depressant effects of BELSOMRA may develop with daily use, patients using the 20 mg dose of BELSOMRA should be cautioned against next-day driving and other activities requiring full mental alertness. Patients taking lower doses of BELSOMRA should also be cautioned about the potential for  driving≠B-NonOSE_AE   impairment≠I-NonOSE_AE  because there is individual variation in sensitivity to BELSOMRA.
+
+
+
+ Co-administration with other CNS depressants (e.g., benzodiazepines, opioids, tricyclic antidepressants, alcohol)  increases≠B-NonOSE_AE   the≠I-NonOSE_AE   risk≠I-NonOSE_AE   of≠I-NonOSE_AE   CNS≠I-NonOSE_AE   depression≠I-NonOSE_AE . Patients should be advised not to consume alcohol in combination with BELSOMRA because of additive effects [see  Drug Interactions (7.1)  ]  . Dosage adjustments of BELSOMRA and of concomitant CNS depressants may be necessary when administered together because of potentially additive effects. The use of BELSOMRA with other drugs to treat  insomnia≠B-Not_AE_Candidate  is not recommended [see  Dosage and Administration (2.3)  ].  
+
+
+
+ The risk of  next≠B-NonOSE_AE  -≠I-NonOSE_AE  day≠I-NonOSE_AE   impairment≠I-NonOSE_AE , including  impaired≠B-NonOSE_AE   driving≠I-NonOSE_AE , is increased if BELSOMRA is taken with less than a full night of sleep remaining, if a higher than the recommended dose is taken, if co-administered with other CNS depressants, or if co-administered with other drugs that increase blood levels of BELSOMRA. Patients should be cautioned against driving and other activities requiring complete mental alertness if BELSOMRA is taken in these circumstances.
+
+
+
+    5.2 Need to Evaluate for Co-morbid Diagnoses
+
+
+
+  Because  sleep≠B-Not_AE_Candidate   disturbances≠I-Not_AE_Candidate  may be the presenting manifestation of a  physical≠B-Not_AE_Candidate  and/or psychiatric  disorder≠I-Not_AE_Candidate , treatment of  insomnia≠B-Not_AE_Candidate  should be initiated only after careful evaluation of the patient. The failure of  insomnia≠B-Not_AE_Candidate  to remit after 7 to 10 days of treatment may indicate the presence of a primary  psychiatric≠B-Not_AE_Candidate  and/or medical  illness≠I-Not_AE_Candidate  that should be evaluated.  Worsening≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   insomnia≠I-Not_AE_Candidate  or the emergence of new  cognitive≠B-Not_AE_Candidate  or behavioral  abnormalities≠I-Not_AE_Candidate  may be the result of an unrecognized underlying  psychiatric≠B-Not_AE_Candidate  or physical  disorder≠I-Not_AE_Candidate , and can emerge during the course of treatment with hypnotic drugs such as BELSOMRA.
+
+
+
+    5.3 Abnormal Thinking and Behavioral Changes
+
+
+
+  A variety of  cognitive≠B-OSE_Labeled_AE  and behavioral  changes≠I-OSE_Labeled_AE  (e.g.,  amnesia≠B-OSE_Labeled_AE ,  anxiety≠B-OSE_Labeled_AE ,  hallucinations≠B-OSE_Labeled_AE  and other  neuro≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  psychiatric≠I-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE ) have been reported to occur in association with the use of hypnotics such as BELSOMRA.  Complex≠B-OSE_Labeled_AE   behaviors≠I-OSE_Labeled_AE  such as  "≠B-OSE_Labeled_AE  sleep≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  driving≠I-OSE_Labeled_AE  "≠I-OSE_Labeled_AE  (i.e.,  driving≠B-OSE_Labeled_AE   while≠I-OSE_Labeled_AE   not≠I-OSE_Labeled_AE   fully≠I-OSE_Labeled_AE   awake≠I-OSE_Labeled_AE  after taking a hypnotic) and other  complex≠B-OSE_Labeled_AE   behaviors≠I-OSE_Labeled_AE  (e.g.,  preparing≠B-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   eating≠I-OSE_Labeled_AE   food≠I-OSE_Labeled_AE , making phone calls, or having sex),  with≠I-OSE_Labeled_AE   amnesia≠I-OSE_Labeled_AE   for≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   event≠I-OSE_Labeled_AE , have been reported in association with the use of hypnotics. These events can occur in hypnotic-naive as well as in hypnotic-experienced persons. The use of alcohol and other CNS depressants may increase the risk of such behaviors. Discontinuation of BELSOMRA should be strongly considered for patients who report any  complex≠B-NonOSE_AE   sleep≠I-NonOSE_AE   behavior≠I-NonOSE_AE .
+
+
+
+    5.4 Worsening of Depression/Suicidal Ideation
+
+
+
+  In clinical studies, a dose-dependent  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   suicidal≠I-OSE_Labeled_AE   ideation≠I-OSE_Labeled_AE  was observed in patients taking BELSOMRA as assessed by questionnaire. Immediately evaluate patients with  suicidal≠B-NonOSE_AE   ideation≠I-NonOSE_AE  or any new behavioral sign or symptom.
+
+
+
+ In primarily  depressed≠B-Not_AE_Candidate  patients treated with sedative-hypnotics,  worsening≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   depression≠I-OSE_Labeled_AE , and  suicidal≠B-OSE_Labeled_AE   thoughts≠I-OSE_Labeled_AE  and actions (including  completed≠B-OSE_Labeled_AE   suicides≠I-OSE_Labeled_AE ) have been reported.  Suicidal≠B-NonOSE_AE   tendencies≠I-NonOSE_AE  may be present in such patients and protective measures may be required.  Intentional≠B-NonOSE_AE   overdose≠I-NonOSE_AE  is more common in this group of patients; therefore, the lowest number of tablets that is feasible should be prescribed for the patient at any one time.
+
+
+
+ The emergence of any new  behavioral≠B-NonOSE_AE   sign≠I-NonOSE_AE   or≠I-NonOSE_AE   symptom≠I-NonOSE_AE  of concern requires careful and immediate evaluation.
+
+
+
+    5.5 Patients with Compromised Respiratory Function
+
+
+
+  Effect of BELSOMRA on respiratory function should be considered if prescribed to patients with  compromised≠B-Not_AE_Candidate   respiratory≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate . BELSOMRA has not been studied in patients with severe  obstructive≠B-Not_AE_Candidate   sleep≠I-Not_AE_Candidate   apnea≠I-Not_AE_Candidate  (OSA) or severe  chronic≠B-Not_AE_Candidate   obstructive≠I-Not_AE_Candidate   pulmonary≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  (COPD) [see  Use in Specific Populations (8.6)  ].  
+
+
+
+    5.6 Sleep Paralysis, Hypnagogic/Hypnopompic Hallucinations, Cataplexy-like Symptoms
+
+
+
+   Sleep≠B-OSE_Labeled_AE   paralysis≠I-OSE_Labeled_AE , an  inability≠B-NonOSE_AE   to≠I-NonOSE_AE   move≠I-NonOSE_AE   or≠I-NonOSE_AE   speak≠I-NonOSE_AE   for≠I-NonOSE_AE   up≠I-NonOSE_AE   to≠I-NonOSE_AE   several≠I-NonOSE_AE   minutes≠I-NonOSE_AE   during≠I-NonOSE_AE   sleep≠I-NonOSE_AE  -≠I-NonOSE_AE  wake≠I-NonOSE_AE   transitions≠I-NonOSE_AE , and  hypnagogic≠B-OSE_Labeled_AE /hypnopompic  hallucinations≠I-OSE_Labeled_AE , including  vivid≠B-NonOSE_AE  and disturbing  perceptions≠I-NonOSE_AE  by the patient, can occur with the use of BELSOMRA. Prescribers should explain the nature of these events to patients when prescribing BELSOMRA.
+
+
+
+  Symptoms≠B-OSE_Labeled_AE   similar≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   mild≠I-OSE_Labeled_AE   cataplexy≠I-OSE_Labeled_AE  can occur, with risk increasing with the dose of BELSOMRA. Such symptoms can include periods of  leg≠B-OSE_Labeled_AE   weakness≠I-OSE_Labeled_AE  lasting from seconds to a few minutes, can occur both at night and during the day, and may not be associated with an identified triggering event (e.g., laughter or surprise).

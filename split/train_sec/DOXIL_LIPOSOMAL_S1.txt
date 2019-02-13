@@ -1,0 +1,216 @@
+  6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in more detail in other sections of the labeling.
+
+ *   Cardiomyopathy≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.1)  ]  
+ *   Infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Related≠I-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.2)  ]  
+ *   Hand≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Foot≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.3)  ]  
+ *   Secondary≠B-OSE_Labeled_AE   Oral≠I-OSE_Labeled_AE   Neoplasms≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.4)  ]  
+    The most common adverse reactions (>20%) observed with DOXIL are  asthenia≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE ,  fever≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  stomatitis≠B-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE ,  anorexia≠B-OSE_Labeled_AE ,  hand≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  foot≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE  and  neutropenia≠B-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE  and  anemia≠B-OSE_Labeled_AE .
+ 
+
+   EXCERPT:   Most common adverse reactions (>20%) are asthenia, fatigue, fever, anorexia, nausea, vomiting, stomatitis, diarrhea, constipation, hand-foot syndrome, rash, neutropenia, thrombocytopenia, and anemia (  6  ).
+
+   To report SUSPECTED ADVERSE REACTIONS contact Janssen Products, LP at 1-800-JANSSEN (1-800-526-7736) or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+ 
+
+  6.1 Adverse Reactions in Clinical Trials
+
+  Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates on other clinical trials and may not reflect the rates observed in clinical practice.
+
+ The safety data reflect exposure to DOXIL in 1310 patients including: 239 patients with  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate , 753 patients with  AIDS≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  related≠I-Not_AE_Candidate   Kaposi≠I-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   sarcoma≠I-Not_AE_Candidate , and 318 patients with  multiple≠B-Not_AE_Candidate   myeloma≠I-Not_AE_Candidate .
+
+ The following tables present adverse reactions from clinical trials of single-agent DOXIL in  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  and  AIDS≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  Related≠I-Not_AE_Candidate   Kaposi≠I-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   sarcoma≠I-Not_AE_Candidate .
+
+   Patients With Ovarian Cancer
+
+ The safety data described below are from Trial 4, which included 239 patients with  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  treated with DOXIL 50 mg/m  2  once every 4 weeks for a minimum of four courses in a randomized, multicenter, open-label study. In this trial, patients received DOXIL for a median number of 3.2 months (range 1 day to 25.8 months). The median age of the patients is 60 years (range 27 to 87), with 91% Caucasian, 6% Black, and 3% Hispanic or Other.
+
+ Table 3 presents the  hematologic≠B-NonOSE_AE   adverse≠I-NonOSE_AE   reactions≠I-NonOSE_AE  from Trial 4.
+
+ Table 3: Hematologic Adverse Reactions in Trial 4 
+                                               DOXIL Patients(n=239)         Topotecan Patients(n=235)      
+  
+  Neutropenia≠B-OSE_Labeled_AE                                                                                                 
+   500 - <1000/mm  3                                     8%                             14%                 
+   <500/mm  3                                           4.2%                            62%                 
+  Anemia≠B-OSE_Labeled_AE                                                                                                      
+   6.5 - <8 g/dL                                         5%                             25%                 
+   < 6.5 g/dL                                           0.4%                            4.3%                
+  Thrombocytopenia≠B-OSE_Labeled_AE                                                                                            
+   10,000 - <50,000/mm  3                               1.3%                            17%                 
+   <10,000/mm  3                                        0.0%                            17%                 
+         Table 4 presents the  non≠B-NonOSE_AE  -≠I-NonOSE_AE  hematologic≠I-NonOSE_AE   adverse≠I-NonOSE_AE   reactions≠I-NonOSE_AE  from Trial 4.
+ 
+
+ Table 4: Non-Hematologic Adverse Reactions in Trial 4 
+ Non-Hematologic Adverse Reaction 10% or Greater  DOXIL (%) treated(n=239)  Topotecan (%) treated(n=235)   
+                                             All grades       Grades 3-4       All grades       Grades 3-4      
+  
+      Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE                         
+      Asthenia≠B-OSE_Labeled_AE                                     40                7               52                8          
+      Fever≠B-OSE_Labeled_AE                                        21               0.8              31                6          
+      Mucous≠B-OSE_Labeled_AE   Membrane≠I-OSE_Labeled_AE   Disorder≠I-OSE_Labeled_AE                     14               3.8              3.4               0          
+      Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                    12               1.7              10               0.9         
+      Infection≠B-OSE_Labeled_AE                                    12               2.1               6               0.9         
+      Headache≠B-OSE_Labeled_AE                                     11               0.8              15                0          
+      Digestive≠B-NonOSE_AE                               
+      Nausea≠B-OSE_Labeled_AE                                       46                5               63                8          
+      Stomatitis≠B-OSE_Labeled_AE                                   41                8               15               0.4         
+      Vomiting≠B-OSE_Labeled_AE                                     33                8               44               10          
+      Diarrhea≠B-OSE_Labeled_AE                                     21               2.5              35               4.2         
+      Anorexia≠B-OSE_Labeled_AE                                     20               2.5              22               1.3         
+      Dyspepsia≠B-OSE_Labeled_AE                                    12               0.8              14                0          
+      Nervous≠B-NonOSE_AE                                 
+      Dizziness≠B-OSE_Labeled_AE                                    4.2               0               10                0          
+      Respiratory≠B-NonOSE_AE                             
+      Pharyngitis≠B-OSE_Labeled_AE                                  16                0               18               0.4         
+      Dyspnea≠B-OSE_Labeled_AE                                      15               4.1              23               4.3         
+      Cough≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE                              10                0               12                0          
+      Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Appendages≠I-NonOSE_AE                     
+      Hand≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  foot≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE                           51               24               0.9               0          
+      Rash≠B-OSE_Labeled_AE                                         29               4.2              12               0.4         
+      Alopecia≠B-OSE_Labeled_AE                                     19               N/A              52               N/A         
+           The following additional adverse reactions were observed in patients with  ovarian≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  with doses administered every four weeks (Trial 4).
+ 
+
+   Incidence 1% to 10%
+
+    Cardiovascular≠B-NonOSE_AE :   vasodilation≠B-OSE_Labeled_AE ,  tachycardia≠B-OSE_Labeled_AE ,  deep≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE ,  hypotension≠B-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   arrest≠I-OSE_Labeled_AE .
+
+    Digestive≠B-NonOSE_AE :   oral≠B-OSE_Labeled_AE   moniliasis≠I-OSE_Labeled_AE ,  mouth≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE ,  esophagitis≠B-OSE_Labeled_AE ,  dysphagia≠B-OSE_Labeled_AE ,  rectal≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE ,  ileus≠B-OSE_Labeled_AE .
+
+    Hematologic≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE :   ecchymosis≠B-OSE_Labeled_AE .
+
+    Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutritional≠I-NonOSE_AE :   dehydration≠B-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE ,  hyperbilirubinemia≠B-OSE_Labeled_AE ,  hypokalemia≠B-OSE_Labeled_AE ,  hypercalcemia≠B-OSE_Labeled_AE ,  hyponatremia≠B-OSE_Labeled_AE .
+
+    Nervous≠B-NonOSE_AE :   somnolence≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  depression≠B-OSE_Labeled_AE .
+
+    Respiratory≠B-NonOSE_AE :   rhinitis≠B-OSE_Labeled_AE ,  pneumonia≠B-OSE_Labeled_AE ,  sinusitis≠B-OSE_Labeled_AE ,  epistaxis≠B-OSE_Labeled_AE .
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Appendages≠I-NonOSE_AE :   pruritus≠B-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   discoloration≠I-OSE_Labeled_AE ,  vesiculobullous≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE ,  maculopapular≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE ,  exfoliative≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ,  herpes≠B-OSE_Labeled_AE   zoster≠I-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE ,  herpes≠B-OSE_Labeled_AE   simplex≠I-OSE_Labeled_AE ,  fungal≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ,  furunculosis≠B-OSE_Labeled_AE ,  acne≠B-OSE_Labeled_AE .
+
+    Special≠B-NonOSE_AE   Senses≠I-NonOSE_AE :   conjunctivitis≠B-OSE_Labeled_AE ,  taste≠B-OSE_Labeled_AE   perversion≠I-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   eyes≠I-OSE_Labeled_AE .
+
+    Urinary≠B-NonOSE_AE :   urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  hematuria≠B-OSE_Labeled_AE ,  vaginal≠B-OSE_Labeled_AE   moniliasis≠I-OSE_Labeled_AE .
+
+   Patients With AIDS-Related Kaposi's Sarcoma
+
+ The safety data described is based on the experience reported in 753 patients with  AIDS≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  related≠I-Not_AE_Candidate   Kaposi≠I-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   sarcoma≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  KS≠I-Not_AE_Candidate ) enrolled in four open-label, uncontrolled trials of DOXIL administered at doses ranging from 10 to 40 mg/m  2  every 2 to 3 weeks. Demographics of the population were: median age 38.7 years (range 24-70); 99% male; 88% Caucasian, 6% Hispanic, 4% Black, and 2% Asian/other/unknown. The majority of patients were treated with 20 mg/m  2  of DOXIL every 2 to 3 weeks with a median exposure of 4.2 months (range 1 day to 26.6 months). The median cumulative dose was 120 mg/m  2  (range 3.3 to 798.6 mg/m  2  ); 3% received cumulative doses of greater than 450 mg/m  2  .
+
+ Disease characteristics were: 61% poor risk for  KS≠B-Not_AE_Candidate   tumor≠I-Not_AE_Candidate   burden≠I-Not_AE_Candidate , 91% poor risk for immune system, and 47% poor risk for  systemic≠B-Not_AE_Candidate   illness≠I-Not_AE_Candidate ; 36% were poor risk for all three categories; median CD4 count 21 cells/mm  3  (51% less than 50 cells/mm  3  ); mean absolute neutrophil count at study entry approximately 3,000 cells/mm  3  .
+
+ Of the 693 patients with concomitant medication information, 59% were on one or more antiretroviral medications [35% zidovudine (AZT), 21% didanosine (ddI), 16% zalcitabine (ddC), and 10% stavudine (D4T)]; 85% received  PCP≠B-NonOSE_AE   prophylaxis≠I-NonOSE_AE  (54% sulfamethoxazole/trimethoprim); 85% received antifungal medications (76% fluconazole); 72% received antivirals (56% acyclovir, 29% ganciclovir, and 16% foscarnet) and 48% patients received colony-stimulating factors (sargramostim/filgrastim) during their course of treatment.
+
+ Adverse reactions led to discontinuation of treatment in 5% of patients with  AIDS≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  related≠I-Not_AE_Candidate   Kaposi≠I-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   sarcoma≠I-Not_AE_Candidate  and included  myelosuppression≠B-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE ,  infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE ,  toxoplasmosis≠B-OSE_Labeled_AE ,  HFS≠B-OSE_Labeled_AE ,  pneumonia≠B-OSE_Labeled_AE ,  cough≠B-OSE_Labeled_AE / dyspnea≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE ,  optic≠B-OSE_Labeled_AE   neuritis≠I-OSE_Labeled_AE ,  progression≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   a≠I-OSE_Labeled_AE   non≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  KS≠I-OSE_Labeled_AE   tumor≠I-OSE_Labeled_AE ,  allergy≠B-Not_AE_Candidate   to≠I-Not_AE_Candidate   penicillin≠I-Not_AE_Candidate , and unspecified reasons. Tables 5 and 6 summarize adverse reactions reported in patients treated with DOXIL for AIDS-related Kaposi's sarcoma in a pooled analysis of the four trials.
+
+ Table 5: Hematologic Adverse Reactions Reported in Patients With AIDS-Related Kaposi's Sarcoma 
+                                     Patients With Refractory or Intolerant AIDS-Related Kaposi's Sarcoma(n=74 [note: This includes a subset of subjects who were retrospectively identified as having disease progression on prior systemic combination chemotherapy (at least 2 cycles of a regimen containing at least 2 of 3 treatments: bleomycin, vincristine or vinblastine, or doxorubicin) or as being intolerant to such therapy.] )  Total Patients With  AIDS≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  Related≠I-Not_AE_Candidate   Kaposi≠I-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   Sarcoma≠I-Not_AE_Candidate (n=720 [note: This includes only subjects with  AIDS≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  KS≠I-Not_AE_Candidate  who had available data from the 4 pooled trials.] )   
+  
+  Neutropenia≠B-OSE_Labeled_AE                           
+   < 1000/mm  3                                     46%                                49%                  
+   < 500/mm  3                                      11%                                13%                  
+  Anemia≠B-OSE_Labeled_AE                                
+   < 10 g/dL                                        58%                                55%                  
+   < 8 g/dL                                         16%                                18%                  
+  Thrombocytopenia≠B-OSE_Labeled_AE                      
+   < 150,000/mm  3                                  61%                                61%                  
+   < 25,000/mm  3                                  1.4%                               4.2%                  
+        Table 6: Non-Hematologic Adverse Reactions Reported in >= 5% of Patients With AIDS-Related Kaposi's Sarcoma 
+ Adverse Reactions                   Patients With Refractory or Intolerant AIDS-Related Kaposi's Sarcoma(n=77 [note: This includes a subset of subjects who were retrospectively identified as having disease progression on prior systemic combination chemotherapy (at least 2 cycles of a regimen containing at least 2 of 3 treatments: bleomycin, vincristine or vinblastine, or doxorubicin) or as being intolerant to such therapy.] )  Total Patients With AIDS-Related Kaposi's Sarcoma(n=705 [note: This includes only subjects with  AIDS≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  KS≠I-Not_AE_Candidate  who had available adverse event data from the 4 pooled trials.] )   
+  
+  Nausea≠B-OSE_Labeled_AE                                              18%                                17%                  
+  Asthenia≠B-OSE_Labeled_AE                                            7%                                 10%                  
+  Fever≠B-OSE_Labeled_AE                                               8%                                 9%                   
+  Alopecia≠B-OSE_Labeled_AE                                            9%                                 9%                   
+  Alkaline≠B-OSE_Labeled_AE   Phosphatase≠I-OSE_Labeled_AE   Increase≠I-OSE_Labeled_AE                      1.3%                                8%                   
+  Vomiting≠B-OSE_Labeled_AE                                            8%                                 8%                   
+  Diarrhea≠B-OSE_Labeled_AE                                            5%                                 8%                   
+  Stomatitis≠B-OSE_Labeled_AE                                          5%                                 7%                   
+  Oral≠B-OSE_Labeled_AE   Moniliasis≠I-OSE_Labeled_AE                                    1.3%                                6%                   
+         The following additional adverse reactions were observed in 705 patients with  AIDS≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  related≠I-Not_AE_Candidate   Kaposi≠I-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   sarcoma≠I-Not_AE_Candidate .
+ 
+
+   Incidence 1% to 5%
+
+    Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE :   headache≠B-OSE_Labeled_AE ,  back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  infection≠B-OSE_Labeled_AE ,  allergic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE .
+
+    Cardiovascular≠B-NonOSE_AE :   chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  hypotension≠B-OSE_Labeled_AE ,  tachycardia≠B-OSE_Labeled_AE .
+
+    Cutaneous≠B-NonOSE_AE :   herpes≠B-OSE_Labeled_AE   simplex≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE ,  itching≠B-OSE_Labeled_AE .
+
+    Digestive≠B-NonOSE_AE :   mouth≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE ,  anorexia≠B-OSE_Labeled_AE ,  dysphagia≠B-OSE_Labeled_AE .
+
+    Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutritional≠I-NonOSE_AE :   SGPT≠B-OSE_Labeled_AE   increase≠I-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE ,  hyperbilirubinemia≠B-OSE_Labeled_AE .
+
+   Other:   dyspnea≠B-OSE_Labeled_AE ,  pneumonia≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE .
+
+   Incidence Less Than 1%
+
+    Body≠B-NonOSE_AE   As≠I-NonOSE_AE   A≠I-NonOSE_AE   Whole≠I-NonOSE_AE :   sepsis≠B-OSE_Labeled_AE ,  moniliasis≠B-OSE_Labeled_AE ,  cryptococcosis≠B-OSE_Labeled_AE .
+
+    Cardiovascular≠B-NonOSE_AE :   thrombophlebitis≠B-OSE_Labeled_AE ,  cardiomyopathy≠B-OSE_Labeled_AE ,  palpitation≠B-OSE_Labeled_AE ,  bundle≠B-OSE_Labeled_AE   branch≠I-OSE_Labeled_AE   block≠I-OSE_Labeled_AE ,  congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  heart≠B-OSE_Labeled_AE   arrest≠I-OSE_Labeled_AE ,  thrombosis≠B-OSE_Labeled_AE ,  ventricular≠B-OSE_Labeled_AE   arrhythmia≠I-OSE_Labeled_AE .
+
+    Digestive≠B-NonOSE_AE :   hepatitis≠B-OSE_Labeled_AE .
+
+    Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutritional≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :   dehydration≠B-OSE_Labeled_AE .
+
+    Respiratory≠B-NonOSE_AE :   cough≠B-OSE_Labeled_AE   increase≠I-OSE_Labeled_AE ,  pharyngitis≠B-OSE_Labeled_AE .
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Appendages≠I-NonOSE_AE :   maculopapular≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE ,  herpes≠B-OSE_Labeled_AE   zoster≠I-OSE_Labeled_AE .
+
+    Special≠B-NonOSE_AE   Senses≠I-NonOSE_AE :   taste≠B-OSE_Labeled_AE   perversion≠I-OSE_Labeled_AE ,  conjunctivitis≠B-OSE_Labeled_AE .
+
+   Patients With Multiple Myeloma
+
+ The safety data described are from 318 patients treated with DOXIL (30 mg/m  2  ) administered on day 4 following bortezomib (1.3 mg/m  2  i.v. bolus on days 1, 4, 8 and 11) every 3 weeks, in a randomized, open-label, multicenter study (Trial 6). In this trial, patients in the DOXIL + bortezomib combination group were treated for a median number of 4.5 months (range 21 days to 13.5 months). The population was 28 to 85 years of age (median age 61), 58% male, 90% Caucasian, 6% Black, and 4% Asian and Other. Table 7 lists adverse reactions reported in 10% or more of patients treated with DOXIL in combination with bortezomib for  multiple≠B-Not_AE_Candidate   myeloma≠I-Not_AE_Candidate .
+
+ Table 7: Frequency of Treatment-Emergent Adverse Reactions Reported in >=10% Patients Treated for Multiple Myeloma With DOXIL in Combination With Bortezomib 
+ Adverse Reaction                          DOXIL + bortezomib(n=318)  Bortezomib(n=318)   
+                                               Any (%)         Grade 3-4         Any (%)         Grade 3-4      
+  
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                          
+  Neutropenia≠B-OSE_Labeled_AE                                      36               32               22               16          
+  Thrombocytopenia≠B-OSE_Labeled_AE                                 33               24               28               17          
+  Anemia≠B-OSE_Labeled_AE                                           25                9               21                9          
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE                                                                          
+  Fatigue≠B-OSE_Labeled_AE                                          36                7               28                3          
+  Pyrexia≠B-OSE_Labeled_AE                                          31                1               22                1          
+  Asthenia≠B-OSE_Labeled_AE                                         22                6               18                4          
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                    
+  Nausea≠B-OSE_Labeled_AE                                           48                3               40                1          
+  Diarrhea≠B-OSE_Labeled_AE                                         46                7               39                5          
+  Vomiting≠B-OSE_Labeled_AE                                         32                4               22                1          
+  Constipation≠B-OSE_Labeled_AE                                     31                1               31                1          
+  Mucositis≠B-OSE_Labeled_AE / Stomatitis≠B-OSE_Labeled_AE                             20                2                5               <1          
+  Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                   11                1                8                1          
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE                                                                                   
+  Herpes≠B-OSE_Labeled_AE   zoster≠I-OSE_Labeled_AE                                    11                2                9                2          
+  Herpes≠B-OSE_Labeled_AE   simplex≠I-OSE_Labeled_AE                                   10                0                6                1          
+    Investigations≠B-NonOSE_AE                                                                                                
+  Weight≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE                                 12                0                4                0          
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutritional≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                          
+  Anorexia≠B-OSE_Labeled_AE                                         19                2               14               <1          
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                      
+  Peripheral≠B-OSE_Labeled_AE   Neuropathy≠I-OSE_Labeled_AE  [note:  Peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  includes the following adverse reactions:  peripheral≠B-OSE_Labeled_AE   sensory≠I-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE ,  neuropathy≠B-OSE_Labeled_AE   peripheral≠I-OSE_Labeled_AE ,  polyneuropathy≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   motor≠I-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE , and  neuropathy≠B-OSE_Labeled_AE  NOS.]         42                7               45               11          
+  Neuralgia≠B-OSE_Labeled_AE                                        17                3               20                4          
+  Paresthesia≠B-OSE_Labeled_AE / dysesthesia≠B-OSE_Labeled_AE                          13               <1               10                0          
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                          
+  Cough≠B-OSE_Labeled_AE                                            18                0               12                0          
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                          
+  Rash≠B-OSE_Labeled_AE  [note:  Rash≠B-OSE_Labeled_AE  includes the following adverse reactions:  rash≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   erythematous≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   macular≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   maculo≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  papular≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   pruritic≠I-OSE_Labeled_AE ,  exfoliative≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE , and  rash≠B-OSE_Labeled_AE  generalized.]         22                1               18                1          
+  Hand≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  foot≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE                               19                6               <1                0          
+             6.2 Postmarketing Experience
+   The following additional adverse reactions have been identified during post approval use of DOXIL. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :   muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE 
+
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :   pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE  (in some cases  fatal≠B-NonOSE_AE )
+
+    Hematologic≠B-NonOSE_AE   disorders≠I-NonOSE_AE   :  Secondary≠B-OSE_Labeled_AE   acute≠I-OSE_Labeled_AE   myelogenous≠I-OSE_Labeled_AE   leukemia≠I-OSE_Labeled_AE 
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   erythema≠B-OSE_Labeled_AE   multiforme≠I-OSE_Labeled_AE ,  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE 
+
+    Secondary≠B-OSE_Labeled_AE   oral≠I-OSE_Labeled_AE   neoplasms≠I-OSE_Labeled_AE : [see  Warnings and Precautions (5.4)  ].  
+

@@ -1,0 +1,75 @@
+    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions occurring at least 3% more frequently than on placebo are mild local reactions at the site of injection. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Merz North America, Inc. at 1-866-862-1211 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Study Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In 5 controlled randomized clinical trials, Asclera has been administered to 401 patients with small or very small  varicose≠B-Not_AE_Candidate   veins≠I-Not_AE_Candidate  ( reticular≠B-Not_AE_Candidate  and spider  veins≠I-Not_AE_Candidate ) and compared with another sclerosing agent and with placebo. Patients were 18 to 70 years old. The patient population was predominately female and consisted of Caucasian and Asian patients.
+
+
+
+ Table 1 shows adverse events more common with Asclera or sodium tetradecyl sulfate (STS) 1% than with placebo by at least 3% in the placebo- controlled EASI study  (see  Clinical Studies [14]  )  . All of these were  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  and most were mild.
+
+
+
+ Table 1: Adverse Reactions in EASI-study 
+                                  ASCLERA (180 patients)    STS 1% (105 patients)    Placebo (53 patients)    
+  
+  Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   haematoma≠I-OSE_Labeled_AE                   42%                       65%                      19%             
+  Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   irritation≠I-OSE_Labeled_AE                  41%                       73%                      30%             
+  Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   discoloration≠I-OSE_Labeled_AE               38%                       74%                      4%              
+  Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                        24%                       31%                      9%              
+  Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   pruritus≠I-OSE_Labeled_AE                    19%                       27%                      4%              
+  Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   warmth≠I-OSE_Labeled_AE                      16%                       21%                      6%              
+  Neovascularisation≠B-OSE_Labeled_AE                          8%                       20%                      4%              
+  Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE                   6%                       1%                       0%              
+          Ultrasound examinations at one week (+/-3 days) and 12 weeks (+/-2 weeks) after treatment did not reveal  deep≠B-NonOSE_AE   vein≠I-NonOSE_AE   thrombosis≠I-NonOSE_AE  in any treatment group.
+ 
+
+   6.2 Post-marketing Safety Experience
+
+  The following adverse reactions have been reported during use of polidocanol in world-wide experience; in some of these cases these adverse events have been serious or troublesome. Because these reactions are reported voluntarily from a population of uncertain size and without a control group, it is not possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
+
+
+
+    Immune≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   Anaphylactic≠B-OSE_Labeled_AE   shock≠I-OSE_Labeled_AE ,  angioedema≠B-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE  generalized,  asthma≠B-OSE_Labeled_AE 
+
+
+
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   Cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE ,  migraine≠B-OSE_Labeled_AE ,  paresthesia≠B-OSE_Labeled_AE  (local),  loss≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   consciousness≠I-OSE_Labeled_AE ,  confusional≠B-OSE_Labeled_AE   state≠I-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE 
+
+
+
+    Cardiac≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   Cardiac≠B-OSE_Labeled_AE   arrest≠I-OSE_Labeled_AE ,  palpitations≠B-OSE_Labeled_AE 
+
+
+
+    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   Deep≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE ,  syncope≠B-OSE_Labeled_AE   vasovagal≠I-OSE_Labeled_AE ,  circulatory≠B-OSE_Labeled_AE   collapse≠I-OSE_Labeled_AE ,  vasculitis≠B-OSE_Labeled_AE 
+
+
+
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   Dyspnea≠B-OSE_Labeled_AE 
+
+
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE   :  Skin≠B-OSE_Labeled_AE   hyperpigmentation≠I-OSE_Labeled_AE ,  dermatitis≠B-OSE_Labeled_AE   allergic≠I-OSE_Labeled_AE ,  hypertrichosis≠B-OSE_Labeled_AE  (in the area of sclerotherapy)
+
+
+
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   injection≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE   :  Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   necrosis≠I-OSE_Labeled_AE ,  pyrexia≠B-OSE_Labeled_AE ,  hot≠B-OSE_Labeled_AE   flush≠I-OSE_Labeled_AE 
+
+
+
+    Injury≠B-NonOSE_AE  ,≠I-NonOSE_AE   poisoning≠I-NonOSE_AE   and≠I-NonOSE_AE   procedural≠I-NonOSE_AE   complications≠I-NonOSE_AE   :  Nerve≠B-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE 

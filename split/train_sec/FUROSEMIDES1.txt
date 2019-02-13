@@ -1,0 +1,78 @@
+  ADVERSE REACTIONS
+
+  Adverse reactions are categorized below by organ system and listed by decreasing severity.
+
+    Gastrointestinal≠B-NonOSE_AE   System≠I-NonOSE_AE   Reactions≠I-NonOSE_AE   
+
+ *  1.   hepatic≠B-OSE_Labeled_AE   encephalopathy≠I-OSE_Labeled_AE  in patients with  hepatocellular≠B-Not_AE_Candidate   insufficiency≠I-Not_AE_Candidate  
+ *  2.   pancreatitis≠B-OSE_Labeled_AE  
+ *  3.   jaundice≠B-OSE_Labeled_AE  ( intrahepatic≠B-OSE_Labeled_AE   cholestatic≠I-OSE_Labeled_AE   jaundice≠I-OSE_Labeled_AE ) 
+ *  4.   increased≠B-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   enzymes≠I-OSE_Labeled_AE  
+ *  5.   anorexia≠B-OSE_Labeled_AE  
+ *  6.   oral≠B-OSE_Labeled_AE  and gastric  irritation≠I-OSE_Labeled_AE  
+ *  7.   cramping≠B-OSE_Labeled_AE  
+ *  8.   diarrhea≠B-OSE_Labeled_AE  
+ *  9.   constipation≠B-OSE_Labeled_AE  
+ *  10.   nausea≠B-OSE_Labeled_AE  
+ *  11.   vomiting≠B-OSE_Labeled_AE  
+       Systemic≠B-NonOSE_AE   Hypersensitivity≠I-NonOSE_AE   Reactions≠I-NonOSE_AE   
+ 
+
+ *  1.  severe  anaphylactic≠B-OSE_Labeled_AE  or  anaphylactoid≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (e.g. with  shock≠B-OSE_Labeled_AE ) 
+ *  2.   systemic≠B-OSE_Labeled_AE   vasculitis≠I-OSE_Labeled_AE  
+ *  3.   interstitial≠B-OSE_Labeled_AE   nephritis≠I-OSE_Labeled_AE  
+ *  4.   necrotizing≠B-OSE_Labeled_AE   angiitis≠I-OSE_Labeled_AE  
+       Central≠B-NonOSE_AE   Nervous≠I-NonOSE_AE   System≠I-NonOSE_AE   Reactions≠I-NonOSE_AE   
+ 
+
+ *  1.   tinnitus≠B-OSE_Labeled_AE  and  hearing≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  
+ *  2.   paresthesias≠B-OSE_Labeled_AE  
+ *  3.   vertigo≠B-OSE_Labeled_AE  
+ *  4.   dizziness≠B-OSE_Labeled_AE  
+ *  5.   headache≠B-OSE_Labeled_AE  
+ *  6.   blurred≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE  
+ *  7.   xanthopsia≠B-OSE_Labeled_AE  
+       Hematologic≠B-NonOSE_AE   Reactions≠I-NonOSE_AE   
+ 
+
+ *  1.   aplastic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE  
+ *  2.   thrombocytopenia≠B-OSE_Labeled_AE  
+ *  3.   agranulocytosis≠B-OSE_Labeled_AE  
+ *  4.   hemolytic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE  
+ *  5.   leukopenia≠B-OSE_Labeled_AE  
+ *  6.   anemia≠B-OSE_Labeled_AE  
+ *  7.   eosinophilia≠B-OSE_Labeled_AE  
+       Dermatologic≠B-NonOSE_AE  -≠I-NonOSE_AE  Hypersensitivity≠I-NonOSE_AE   Reactions≠I-NonOSE_AE   
+ 
+
+ *  1.   toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE  
+ *  2.   Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  
+ *  3.   erythema≠B-OSE_Labeled_AE   multiforme≠I-OSE_Labeled_AE  
+ *  4.   drug≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   eosinophilia≠I-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   systemic≠I-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  
+ *  5.   acute≠B-OSE_Labeled_AE   generalized≠I-OSE_Labeled_AE   exanthematous≠I-OSE_Labeled_AE   pustulosis≠I-OSE_Labeled_AE  
+ *  6.   exfoliative≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE  
+ *  7.   bullous≠B-OSE_Labeled_AE   pemphigoid≠I-OSE_Labeled_AE  
+ *  8.   purpura≠B-OSE_Labeled_AE  
+ *  9.   photosensitivity≠B-OSE_Labeled_AE  
+ *  10.   rash≠B-OSE_Labeled_AE  
+ *  11.   pruritis≠B-OSE_Labeled_AE  
+ *  12.   urticaria≠B-OSE_Labeled_AE  
+       Cardiovascular≠B-NonOSE_AE   Reaction≠I-NonOSE_AE   
+ 
+
+ *  1.   Orthostatic≠B-OSE_Labeled_AE   hypotension≠I-OSE_Labeled_AE  may occur and be aggravated by alcohol, barbiturates or narcotics. 
+ *  2.   Increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE  and triglyceride serum levels. 
+       Other≠B-NonOSE_AE   Reactions≠I-NonOSE_AE   
+ 
+
+ *  1.   hyperglycemia≠B-OSE_Labeled_AE  
+ *  2.   glycosuria≠B-OSE_Labeled_AE  
+ *  3.   hyperuricemia≠B-OSE_Labeled_AE  
+ *  4.   muscle≠B-OSE_Labeled_AE   spasm≠I-OSE_Labeled_AE  
+ *  5.   weakness≠B-OSE_Labeled_AE  
+ *  6.   restlessness≠B-OSE_Labeled_AE  
+ *  7.   urinary≠B-OSE_Labeled_AE   bladder≠I-OSE_Labeled_AE   spasm≠I-OSE_Labeled_AE  
+ *  8.   thrombophlebitis≠B-OSE_Labeled_AE  
+ *  9.   fever≠B-OSE_Labeled_AE  
+    Whenever adverse reactions are moderate or severe, furosemide dosage should be reduced or therapy withdrawn.
+

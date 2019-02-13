@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="TRIDERM">
+  <Text>
+    <Section id="S1" name="adverse reactions">      ADVERSE REACTIONS  
+
+  The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, miliaria.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="21" name="heading" section="S1" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

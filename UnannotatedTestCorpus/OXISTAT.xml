@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="OXISTAT">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  During clinical trials, of 955 patients treated with oxiconazole nitrate  cream  , 1%, 41 (4.3%) reported adverse reactions thought to be related to drug therapy. These reactions included pruritus (1.6%); burning (1.4%); irritation and allergic contact dermatitis (0.4% each); folliculitis (0.3%); erythema (0.2%); and papules, fissure, maceration, rash, stinging, and nodules (0.1% each).
+
+
+
+ In a controlled, multicenter clinical trial of 269 patients treated with oxiconazole nitrate  lotion  , 1%, 7 (2.6%) reported adverse reactions thought to be related to drug therapy. These reactions included burning and stinging (0.7% each) and pruritus, scaling, tingling, pain, and dyshidrotic eczema (0.4% each).
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General:  OXISTAT  (r)  Cream and Lotion are for external dermal use only. Avoid introduction of OXISTAT  (r)  Cream or Lotion into the eyes or vagina. If a reaction suggesting sensitivity or chemical irritation should occur with the use of OXISTAT  (r)  Cream or Lotion, treatment should be discontinued and appropriate therapy instituted. If signs of epidermal irritation should occur, the drug should be discontinued.
+
+
+
+    Information for Patients:  The patient should be instructed to:
+
+
+
+ *  1.  Use OXISTAT  (r)  as directed by the physician. The hands should be washed after applying the medication to the affected area(s). Avoid contact with the eyes, nose, mouth, and other mucous membranes. OXISTAT  (r)  is for external use only. 
+ *  2.  Use the medication for the full treatment time recommended by the physician, even though symptoms may have improved. Notify the physician if there is no improvement after 2 to 4 weeks, or sooner if the condition worsens (see below). 
+ *  3.  Inform the physician if the area of application shows signs of increased irritation, itching, burning, blistering, swelling, or oozing. 
+ *  4.  Avoid the use of occlusive dressings unless otherwise directed by the physician. 
+ *  5.  Do not use this medication for any disorder other than that for which it was prescribed. 
+       Drug Interactions:  Potential drug interactions between OXISTAT  (r)  and other drugs have not been systematically evaluated.
+ 
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility:  Although no long-term studies in animals have been performed to evaluate carcinogenic potential, no evidence of mutagenic effect was found in 2 mutation assays (Ames test and Chinese hamster V79 in vitro cell mutation assay) or in 2 cytogenetic assays (human peripheral blood lymphocyte in vitro chromosome aberration assay and in vivo micronucleus assay in mice).
+
+
+
+ Reproductive studies revealed no impairment of fertility in rats at oral doses of 3 mg/kg/day in females (1 time the human dose based on mg/m  2  ) and 15 mg/kg/day in males (4 times the human dose based on mg/m  2  ). However, at doses above this level, the following effects were observed: a reduction in the fertility parameters of males and females, a reduction in the number of sperm in vaginal smears, extended estrous cycle, and a decrease in mating frequency.
+
+
+
+    Pregnancy: Teratogenic Effects:    Pregnancy Category B. Reproduction studies have been performed in rabbits, rats, and mice at oral doses up to 100, 150, and 200 mg/kg/day (57, 40, and 27 times the human dose based on mg/m  2  ), respectively, and revealed no evidence of harm to the fetus due to oxiconazole nitrate. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+
+
+    Nursing Mothers:  Because oxiconazole is excreted in human milk, caution should be exercised when the drug is administered to a nursing woman.
+
+
+
+    Pediatric Use:  OXISTAT  (r)  Cream may be used in pediatric patients for tinea corporis, tinea cruris, tinea pedis, and tinea (pityriasis) versicolor; however, these indications for which OXISTAT  (r)  Cream has been shown to be effective rarely occur in children below the age of 12.
+
+
+
+    Geriatric Use:  A limited number of patients at or above 60 years of age (n ~ 396) have been treated with OXISTAT  (r)  Cream in US and non-US clinical trials, and a limited number (n = 43) have been treated with OXISTAT  (r)  Lotion in US clinical trials. The number of patients is too small to permit separate analysis of efficacy and safety. No adverse events were reported with OXISTAT  (r)  Lotion in geriatric patients, and the adverse reactions reported with OXISTAT  (r)  Cream in this population were similar to those reported by younger patients. Based on available data, no adjustment of dosage of OXISTAT  (r)  Cream and Lotion in geriatric patients is warranted.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  OXISTAT  (r)  (oxiconazole nitrate) Cream, 1% and OXISTAT  (r)  (oxiconazole nitrate) Lotion, 1% are not for ophthalmic or intravaginal use.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

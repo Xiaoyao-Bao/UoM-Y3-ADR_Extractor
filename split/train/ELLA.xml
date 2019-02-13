@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoldLabel drug="ELLA">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions (&gt;= 5%) in the clinical trials were headache (18%), abdominal pain (12%), nausea (12%), dysmenorrhea (9%), fatigue (6%) and dizziness (5%). (  6  )  To report SUSPECTED ADVERSE REACTIONS, contact Afaxys, Inc. at 1-855-888-2467 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+   ella  was studied in an open-label multicenter trial (Open-Label Study) and in a comparative, randomized, single-blind, multicenter trial (Single-Blind Comparative Study). In these studies, a total of 2,637 (1,533 + 1,104) women in the 30 mg ulipristal acetate groups were included in the safety analysis. The mean age of women who received ulipristal acetate was 24.5 years and the mean body mass index (BMI) was 25.3. The racial demographics of those enrolled were 67% Caucasian, 20% Black or African American, 2% Asian, and 12% other. 
+
+
+
+ The most common adverse reactions (&gt;= 10%) in the clinical trials for women receiving  ella  were headache (18% overall) and nausea (12% overall) and abdominal and upper abdominal pain (12% overall). Table 1 lists those adverse reactions that were reported in &gt;= 5% of subjects in the clinical studies (  14  ).
+
+
+
+ Table 1: Adverse Reactions in &gt;= 5% of Women (%) Receiving a Single Dose of ella (30 mg Ulipristal Acetate) 
+   Most Common Adverse Reactions      Open-Label Study                                                                                                                                        Single-Blind Comparative Study                                                                                                                         
+    N = 1,533        N = 1,104                                                                                                                                             
+   Headache        18                                                                                                                                                      19                                                                                                                                                      
+   Nausea          12                                                                                                                                                      13                                                                                                                                                      
+   Abdominal and upper abdominal pain     15                                                                                                                                                      8                                                                                                                                                       
+    Dysmenorrhea     7                                                                                                                                                       13                                                                                                                                                      
+   Fatigue         6                                                                                                                                                       6                                                                                                                                                       
+   Dizziness       5                                                                                                                                                       5                                                                                                                                                       
+           6.2 Postmarketing Experience
+   The following adverse reactions have been identified during post-approval use of  ella:          Skin and Subcutaneous Tissue Disorders: AcneBecause these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   ella is not indicated for termination of an existing pregnancy. Exclude pregnancy before administering. (  5.1)   
+ *  Ectopic pregnancy: Women who become pregnant or complain of lower abdominal pain after taking ella should be evaluated for ectopic pregnancy. (  5.2  ) 
+ *  Effect on menstrual cycle: ella may alter the next expected menses. If menses is delayed beyond 1 week, pregnancy should be ruled out. (  5.5  ) 
+ *   ella does not protect against STI/HIV. (  5.6  ) 
+    
+ 
+
+   5.1 Existing Pregnancy
+
+
+
+   ella  is not indicated for termination of an existing pregnancy. Pregnancy should be excluded before prescribing ella.  If pregnancy cannot be excluded on the basis of history and/or physical examination, pregnancy testing should be performed. A follow-up physical or pelvic examination is recommended if there is any doubt concerning the general health or pregnancy status of any woman after taking ella  .
+
+
+
+    5.2 Ectopic Pregnancy
+
+
+
+  A history of ectopic pregnancy is not a contraindication to use of this emergency contraceptive method.  Healthcare providers, however, should consider the possibility of ectopic pregnancy in women who become pregnant or complain of lower abdominal pain after taking ella  .  A follow-up physical or pelvic examination is recommended if there is any doubt concerning the general health or pregnancy status of any woman after taking ella  .
+
+
+
+    5.3 Repeated Use
+
+
+
+   ella  is for occasional use as an emergency contraceptive. It should not replace a regular method of contraception. Repeated use of ella  within the same menstrual cycle is not recommended, as safety and efficacy of repeat use within the same cycle has not been evaluated.
+
+
+
+    5.4 CYP3A4 Inducers
+
+
+
+  A CYP3A4 inducer, rifampin, decreases the plasma concentration of ella significantly. Ella  should not be administered with CYP3A4 inducers [see Drug interactions (  7.1  ) and Pharmacokinetics (  12.3  )]  .
+
+
+
+    5.5 Fertility Following Use
+
+
+
+  A rapid return of fertility is likely following treatment with ella  for emergency contraception; therefore, routine contraception should be continued or initiated as soon as possible following use of ella  to ensure ongoing prevention of pregnancy. While there are no data about use of ella  with regular hormonal contraceptives, due to its high affinity binding to the progesterone receptor, use of ella  may reduce the contraceptive action of regular hormonal contraceptive methods. Therefore, after use of ella  , a reliable barrier method of contraception should be used with subsequent acts of intercourse that occur in that same menstrual cycle.
+
+
+
+    5.6 Effect on Menstrual Cycle
+
+
+
+  After ella  intake, menses sometimes occur earlier or later than expected by a few days. In clinical trials, cycle length was increased by a mean of 2.5 days but returned to normal in the subsequent cycle. Seven percent of subjects reported menses occurring more than 7 days earlier than expected, and 19% reported a delay of more than 7 days. If there is a delay in the onset of expected menses beyond 1 week, rule out pregnancy.
+
+
+
+ Nine percent of women studied reported intermenstrual bleeding after use of ella.  
+
+
+
+    5.7 Sexually Transmitted Infections/HIV
+
+
+
+   ella  does not protect against HIV infection (AIDS) or other sexually transmitted infections (STIs).
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="332" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="498" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="362" />
+    <IgnoredRegion len="22" name="heading" section="S2" start="541" />
+    <IgnoredRegion len="21" name="heading" section="S2" start="985" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="1459" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="1762" />
+    <IgnoredRegion len="27" name="heading" section="S2" start="2003" />
+    <IgnoredRegion len="29" name="heading" section="S2" start="2696" />
+    <IgnoredRegion len="39" name="heading" section="S2" start="3257" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="4137" />
+  </IgnoredRegions>
+  <Mentions>
+    <Mention id="M2" len="8" reason="from_drug_use" section="S1" start="1316" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Headache" meddra_llt_id="10019211" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Mention>
+    <Mention id="M3" len="6" reason="from_drug_use" section="S1" start="1343" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Nausea" meddra_llt_id="10028813" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Mention>
+    <Mention id="M12" len="9,4" reason="from_drug_use" section="S1" start="1368,1398" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Pain abdominal" meddra_llt_id="10033374" meddra_pt="Abdominal pain" meddra_pt_id="10000081" />
+    </Mention>
+    <Mention id="M4" len="20" reason="from_drug_use" section="S1" start="1382" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Upper abdominal pain" meddra_llt_id="10046272" meddra_pt="Abdominal pain upper" meddra_pt_id="10000087" />
+    </Mention>
+    <Mention id="M5" len="8" reason="from_drug_use" section="S1" start="2160" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Headache" meddra_llt_id="10019211" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Mention>
+    <Mention id="M6" len="6" reason="from_drug_use" section="S1" start="2484" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Nausea" meddra_llt_id="10028813" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Mention>
+    <Mention id="M13" len="9,4" reason="from_drug_use" section="S1" start="2808,2838" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Pain abdominal" meddra_llt_id="10033374" meddra_pt="Abdominal pain" meddra_pt_id="10000081" />
+    </Mention>
+    <Mention id="M7" len="20" reason="from_drug_use" section="S1" start="2822" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Upper abdominal pain" meddra_llt_id="10046272" meddra_pt="Abdominal pain upper" meddra_pt_id="10000087" />
+    </Mention>
+    <Mention id="M8" len="12" reason="from_drug_use" section="S1" start="3156" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Dysmenorrhea" meddra_llt_id="10013934" meddra_pt="Dysmenorrhoea" meddra_pt_id="10013935" />
+    </Mention>
+    <Mention id="M9" len="7" reason="from_drug_use" section="S1" start="3481" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Fatigue" meddra_llt_id="10016256" meddra_pt="Fatigue" meddra_pt_id="10016256" />
+    </Mention>
+    <Mention id="M10" len="9" reason="from_drug_use" section="S1" start="3805" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Dizziness" meddra_llt_id="10013573" meddra_pt="Dizziness" meddra_pt_id="10013573" />
+    </Mention>
+    <Mention id="M1" len="38" reason="general_term" section="S1" start="4266" type="NonOSE_AE">
+      <Normalization meddra_llt="Other disorders of skin and subcutaneous tissue" meddra_llt_id="10032001" meddra_pt="Skin disorder" meddra_pt_id="10040831" />
+    </Mention>
+    <Mention id="M11" len="4" reason="from_drug_use" section="S1" start="4306" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Acne" meddra_llt_id="10000496" meddra_pt="Acne" meddra_pt_id="10000496" />
+    </Mention>
+    <Mention id="M14" len="9" reason="contraindication" section="S2" start="624" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Pregnancy" meddra_llt_id="10036556" meddra_pt="Pregnancy" meddra_pt_id="10036556" />
+    </Mention>
+    <Mention id="M16" len="9" reason="preexisting_condition_or_risk_factor" section="S2" start="635" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Pregnancy" meddra_llt_id="10036556" meddra_pt="Pregnancy" meddra_pt_id="10036556" />
+    </Mention>
+    <Mention id="M17" len="9" reason="preexisting_condition_or_risk_factor" section="S2" start="693" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Pregnancy" meddra_llt_id="10036556" meddra_pt="Pregnancy" meddra_pt_id="10036556" />
+    </Mention>
+    <Mention id="M28" len="17" reason="AE_only_as_instruction" section="S2" start="775" type="NonOSE_AE">
+      <Normalization meddra_llt="Pregnancy test" meddra_llt_id="10036572" meddra_pt="Pregnancy test" meddra_pt_id="10036572" />
+    </Mention>
+    <Mention id="M22" len="9" reason="AE_only_as_instruction" section="S2" start="927" type="NonOSE_AE">
+      <Normalization meddra_llt="Pregnancy" meddra_llt_id="10036556" meddra_pt="Pregnancy" meddra_pt_id="10036556" />
+    </Mention>
+    <Mention id="M18" len="17" reason="preexisting_condition_or_risk_factor" section="S2" start="1025" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Pregnancy ectopic" meddra_llt_id="10036559" meddra_pt="Ectopic pregnancy" meddra_pt_id="10014166" />
+    </Mention>
+    <Mention id="M23" len="17" reason="AE_only_as_instruction" section="S2" start="1183" type="NonOSE_AE">
+      <Normalization meddra_llt="Pregnancy ectopic" meddra_llt_id="10036559" meddra_pt="Ectopic pregnancy" meddra_pt_id="10014166" />
+    </Mention>
+    <Mention id="M26" len="8" reason="AE_only_as_instruction" section="S2" start="1221" type="NonOSE_AE">
+      <Normalization meddra_llt="Pregnant" meddra_llt_id="10036586" meddra_pt="Pregnancy" meddra_pt_id="10036556" />
+    </Mention>
+    <Mention id="M24" len="20" reason="AE_only_as_instruction" section="S2" start="1245" type="NonOSE_AE">
+      <Normalization meddra_llt="Abdominal pain lower" meddra_llt_id="10000084" meddra_pt="Abdominal pain lower" meddra_pt_id="10000084" />
+    </Mention>
+    <Mention id="M25" len="9" reason="AE_only_as_instruction" section="S2" start="1401" type="NonOSE_AE">
+      <Normalization meddra_llt="Pregnancy" meddra_llt_id="10036556" meddra_pt="Pregnancy" meddra_pt_id="10036556" />
+    </Mention>
+    <Mention id="M15" len="23" reason="indication" section="S2" start="1516" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Post coital contraception" meddra_llt_id="10036251" meddra_pt="Post coital contraception" meddra_pt_id="10036251" />
+    </Mention>
+    <Mention id="M27" len="9" reason="AE_only_as_instruction" section="S2" start="2275" type="NonOSE_AE">
+      <Normalization meddra_llt="Pregnancy" meddra_llt_id="10036556" meddra_pt="Pregnancy" meddra_pt_id="10036556" />
+    </Mention>
+    <Mention id="M31" len="6,5,5" reason="from_drug_use" section="S2" start="2751,2768,2785" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Menses delayed" meddra_llt_id="10027315" meddra_pt="Menstruation delayed" meddra_pt_id="10027336" />
+    </Mention>
+    <Mention id="M32" len="6,13" reason="from_drug_use" section="S2" start="2751,2768" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Menses irregular" meddra_llt_id="10027317" meddra_pt="Menstruation irregular" meddra_pt_id="10027339" />
+    </Mention>
+    <Mention id="M33" len="6,26" reason="from_drug_use" section="S2" start="2751,2840" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Menses infrequent" meddra_llt_id="10027316" meddra_pt="Oligomenorrhoea" meddra_pt_id="10030295" />
+    </Mention>
+    <Mention id="M34" len="6,7" reason="from_drug_use" section="S2" start="2972,3006" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Menses irregular" meddra_llt_id="10027317" meddra_pt="Menstruation irregular" meddra_pt_id="10027339" />
+    </Mention>
+    <Mention id="M35" len="6,5" reason="from_drug_use" section="S2" start="2972,3048" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Menses delayed" meddra_llt_id="10027315" meddra_pt="Menstruation delayed" meddra_pt_id="10027336" />
+    </Mention>
+    <Mention id="M29" len="5,6" reason="AE_only_as_instruction" section="S2" start="3089,3120" type="NonOSE_AE">
+      <Normalization meddra_llt="Menses delayed" meddra_llt_id="10027315" meddra_pt="Menstruation delayed" meddra_pt_id="10027336" />
+    </Mention>
+    <Mention id="M19" len="9" reason="preexisting_condition_or_risk_factor" section="S2" start="3151" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Pregnancy" meddra_llt_id="10036556" meddra_pt="Pregnancy" meddra_pt_id="10036556" />
+    </Mention>
+    <Mention id="M30" len="23" reason="from_drug_use" section="S2" start="3205" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Bleeding intermenstrual" meddra_llt_id="10005120" meddra_pt="Metrorrhagia" meddra_pt_id="10027514" />
+    </Mention>
+    <Mention id="M20" len="19" reason="preexisting_condition_or_risk_factor" section="S2" start="3334" type="Not_AE_Candidate">
+      <Normalization meddra_llt="HIV-1 infection" meddra_llt_id="10068341" meddra_pt="HIV infection" meddra_pt_id="10020161" />
+    </Mention>
+    <Mention id="M21" len="37" reason="preexisting_condition_or_risk_factor" section="S2" start="3364" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Sexually transmitted infection" meddra_llt_id="10068720" meddra_pt="Sexually transmitted disease" meddra_pt_id="10040490" />
+    </Mention>
+  </Mentions>
+</GoldLabel>

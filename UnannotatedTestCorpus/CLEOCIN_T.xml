@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CLEOCIN_T">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  In 18 clinical studies of various formulations of CLEOCIN T using placebo vehicle and/or active comparator drugs as controls, patients experienced a number of treatment emergent adverse dermatologic events [see  table  below].
+
+
+
+ Number of Patients Reporting Events 
+ Treatment EmergentAdverse Event      Solutionn=553(%)              Geln=148(%)              Lotionn=160(%)         
+  
+ # not recorded              
+  
+ Burning                             62 (11)                    15 (10)                    17 (11)            
+ Itching                             36 ( 7)                    15 (10)                    17 (11)            
+ Burning/Itching                     60 (11)                    # ( - )                    # ( - )            
+ Dryness                            105 (19)                    34 (23)                    29 (18)            
+ Erythema                            86 (16)                    10 ( 7)                    22 (14)            
+ Oiliness/Oily Skin                  8 ( 1)                     26 (18)                    12(10)             
+ Peeling                             61 (11)                    # ( - )                    11 ( 7)            
+          Orally and parenterally administered clindamycin has been associated with severe colitis which may end fatally.
+ 
+
+ Cases of diarrhea, bloody diarrhea and colitis (including pseudomembranous colitis) have been reported as adverse reactions in patients treated with oral and parenteral formulations of clindamycin and rarely with topical clindamycin (see  WARNINGS  ).
+
+
+
+ Abdominal pain, gastrointestinal disturbances, gram-negative folliculitis, eye pain and contact dermatitis have also been reported in association with the use of topical formulations of clindamycin.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  CLEOCIN T Topical Solution contains an alcohol base which will cause burning and irritation of the eye. In the event of accidental contact with sensitive surfaces (eye, abraded skin, mucous membranes), bathe with copious amounts of cool tap water. The solution has an unpleasant taste and caution should be exercised when applying medication around the mouth.
+
+
+
+ CLEOCIN T should be prescribed with caution in atopic individuals.
+
+
+
+    Drug Interactions
+
+
+
+  Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents. Therefore it should be used with caution in patients receiving such agents.
+
+
+
+    Pregnancy
+
+
+
+   Teratogenic effects
+
+
+
+  In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters has not been associated with an increased frequency of congenital abnormalities. There are no adequate studies in pregnant women during the first trimester of pregnancy. Clindamycin should be used during the first trimester of pregnancy only if clearly needed.
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether clindamycin is excreted in human breast milk following use of CLEOCIN T. Clindamycin has been reported to appear in human breast milk in ranges from &lt;0.5 to 3.8 ug/mL following systemic use. Clindamycin has the potential to cause adverse effects on the breastfed infant's gastrointestinal flora. If oral or intravenous clindamycin is required by a nursing mother, it is not a reason to discontinue breastfeeding, but an alternate drug may be preferred. Monitor the infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis.
+
+
+
+ The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for clindamycin and any potential adverse effects on the breastfed child from clindamycin or from the underlying maternal condition.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in pediatric patients under the age of 12 have not been established.
+
+
+
+    Geriatric Use
+
+
+
+  Clinical studies for CLEOCIN T did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+   Orally and parenterally administered clindamycin has been associated with severe colitis which may result in patient death. Use of the topical formulation of clindamycin results in absorption of the antibiotic from the skin surface. Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of topical and systemic clindamycin.  
+
+
+
+  Studies indicate a toxin(s) produced by clostridia is one primary cause of antibiotic-associated colitis. The colitis is usually characterized by severe persistent diarrhea and severe abdominal cramps and may be associated with the passage of blood and mucus. Endoscopic examination may reveal pseudomembranous colitis.   Stool culture for   Clostridium difficile   and stool assay for   C. difficile   toxin may be helpful diagnostically.  
+
+
+
+  When significant diarrhea occurs, the drug should be discontinued. Large bowel endoscopy should be considered to establish a definitive diagnosis in cases of severe diarrhea.  
+
+
+
+  Antiperistaltic agents such as opiates and diphenoxylate with atropine may prolong and/or worsen the condition. Vancomycin has been found to be effective in the treatment of antibiotic-associated pseudomembranous colitis produced by Clostridium difficile  . The usual adult dosage is 500 milligrams to 2 grams of vancomycin orally per day in three to four divided doses administered for 7 to 10 days. Cholestyramine or colestipol resins bind vancomycin in vitro    . If both a resin and vancomycin are to be administered concurrently, it may be advisable to separate the time of administration of each drug.  
+
+
+
+  Diarrhea, colitis, and pseudomembranous colitis have been observed to begin up to several weeks following cessation of oral and parenteral therapy with clindamycin.  
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="473" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="716" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="732" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1147" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2115" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2235" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

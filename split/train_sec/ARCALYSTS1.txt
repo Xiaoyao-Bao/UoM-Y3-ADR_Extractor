@@ -1,0 +1,91 @@
+    6 ADVERSE REACTIONS
+
+  Six serious adverse reactions were reported by four patients during the clinical program. These serious adverse reactions were   Mycobacterium≠B-OSE_Labeled_AE   intracellulare≠I-OSE_Labeled_AE    infection≠I-OSE_Labeled_AE ;  gastrointestinal≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE  and  colitis≠B-OSE_Labeled_AE ;  sinusitis≠B-OSE_Labeled_AE  and  bronchitis≠B-OSE_Labeled_AE ; and   Streptococcus≠B-OSE_Labeled_AE   pneumoniae≠I-OSE_Labeled_AE    meningitis≠I-OSE_Labeled_AE  [  see Adverse Reactions (  6.3  )  ].
+
+
+
+ The most commonly reported adverse reaction associated with ARCALYST was  injection≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  site≠I-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE  (ISR) [  see Adverse Reactions (  6.2    )]. The next most commonly reported adverse reaction was  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  [  see Adverse Reactions (  6.3  )  ].
+
+
+
+ Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The data described herein reflect exposure to ARCALYST in 600 patients, including 85 exposed for at least 6 months and 65 exposed for at least one year. These included patients with  CAPS≠B-Not_AE_Candidate , patients with other diseases, and healthy volunteers. Approximately 60 patients with  CAPS≠B-Not_AE_Candidate  have been treated weekly with 160 mg of ARCALYST. The pivotal trial population included 47 patients with  CAPS≠B-Not_AE_Candidate . These patients were between the ages of 22 and 78 years (average 51 years). Thirty-one patients were female and 16 were male. All of the patients were White/Caucasian. Six pediatric patients (12-17 years) were enrolled directly into the open-label extension phase.
+
+
+
+   EXCERPT:   The most common adverse reactions reported by patients with CAPS treated with ARCALYST are injection-site reactions and upper respiratory tract infections. (  6.2  ,  6.3  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Regeneron at 1-877-REGN-777 (1-877-734-6777) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Part A of the clinical trial was conducted in patients with  CAPS≠B-Not_AE_Candidate  who were naive to treatment with ARCALYST. Part A of the study was a randomized, double-blind, placebo-controlled, six-week study comparing ARCALYST to placebo [  see Clinical Studies (  14  )  ].  Table 1  reflects the frequency of adverse events reported by at least two patients during Part A.
+
+
+
+ Table 1: Most Frequent Adverse Reactions (Part A, Reported by at Least Two Patients) 
+   Adverse Event                                        ARCALYST160 mg(n = 23)      Placebo(n= 24)           
+ Any AE                                               17 (74%)                  13 (54%)                   
+  Injection≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE                              11 (48%)                  3 (13%)                    
+  Upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE                     6 (26%)                   1 (4%)                     
+  Nausea≠B-NonOSE_AE                                                1 (4%)                    3 (13%)                    
+  Diarrhea≠B-NonOSE_AE                                              1 (4%)                    3 (13%)                    
+  Sinusitis≠B-OSE_Labeled_AE                                             2 (9%)                    1 (4%)                     
+  Abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE   upper≠I-NonOSE_AE                                  0                         2 (8%)                     
+  Cough≠B-OSE_Labeled_AE                                                 2 (9%)                    0                          
+  Hypoesthesia≠B-OSE_Labeled_AE                                          2 (9%)                    0                          
+  Stomach≠B-NonOSE_AE   discomfort≠I-NonOSE_AE                                    1 (4%)                    1 (4%)                     
+  Urinary≠B-NonOSE_AE   tract≠I-NonOSE_AE   infection≠I-NonOSE_AE                               1 (4%)                    1 (4%)                     
+           6.2 Injection-Site Reactions
+   In patients with  CAPS≠B-Not_AE_Candidate , the most common and consistently reported adverse event associated with ARCALYST was  injection≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  site≠I-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE  (ISR). The  ISRs≠B-OSE_Labeled_AE  included erythema, swelling, pruritis, mass, bruising, inflammation, pain, edema, dermatitis, discomfort, urticaria, vesicles, warmth and hemorrhage. Most  injection≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  lasted for one to two days. No  ISRs≠B-NonOSE_AE  were assessed as severe, and no patient discontinued study participation due to an  ISR≠B-NonOSE_AE .
+
+
+
+   6.3 Infections
+
+  During Part A, the incidence of patients reporting  infections≠B-OSE_Labeled_AE  was greater with ARCALYST (48%) than with placebo (17%). In Part B, randomized withdrawal, the incidence of  infections≠B-NonOSE_AE  were similar in the ARCALYST (18%) and the placebo patients (22%). Part A of the trial was initiated in the winter months, while Part B was predominantly performed in the summer months.
+
+
+
+ In placebo-controlled studies across a variety of patient populations encompassing 360 patients treated with rilonacept and 179 treated with placebo, the incidence of  infections≠B-OSE_Labeled_AE  was 34% and 27% (2.15 per patient-exposure year and 1.81 per patient-exposure year), respectively, for rilonacept and placebo.
+
+
+
+ Serious  Infections≠B-NonOSE_AE : One patient receiving ARCALYST for an unapproved indication in another study developed an  infection≠B-NonOSE_AE   in≠I-NonOSE_AE   his≠I-NonOSE_AE   olecranon≠I-NonOSE_AE   bursa≠I-NonOSE_AE   with≠I-NonOSE_AE    Mycobacterium≠I-NonOSE_AE   intracellulare≠I-NonOSE_AE   . The patient was on chronic glucocorticoid treatment. The  infection≠B-NonOSE_AE  occurred after an intraarticular glucocorticoid injection into the bursa with subsequent local exposure to a suspected source of mycobacteria. The patient recovered after the administration of the appropriate antimicrobial therapy. One patient treated for another unapproved indication developed  bronchitis≠B-NonOSE_AE / sinusitis≠B-NonOSE_AE , which resulted in hospitalization. One patient  died≠B-NonOSE_AE  in an open-label study of  CAPS≠B-Not_AE_Candidate  from   Streptococcus≠B-NonOSE_AE   pneumoniae≠I-NonOSE_AE    meningitis≠I-NonOSE_AE .
+
+
+
+   6.4 Malignancies
+
+  [s  ee Warnings and Precautions (  5.2  )].  
+
+
+
+   6.5 Hematologic Events
+
+  One patient in a study in an unapproved indication developed transient  neutropenia≠B-NonOSE_AE  ( ANC≠B-NonOSE_AE   <≠I-NonOSE_AE   1≠I-NonOSE_AE   x≠I-NonOSE_AE   1≠I-NonOSE_AE  0≠I-NonOSE_AE    9≠I-NonOSE_AE    /≠I-NonOSE_AE  L≠I-NonOSE_AE ) after receiving a large dose (2000 mg intravenously) of ARCALYST. The patient did not experience any  infection≠B-NonOSE_AE   associated≠I-NonOSE_AE   with≠I-NonOSE_AE   the≠I-NonOSE_AE   neutropenia≠I-NonOSE_AE .
+
+
+
+   6.6 Immunogenicity
+
+   Antibodies≠B-OSE_Labeled_AE  directed  against≠I-OSE_Labeled_AE  the receptor domains of  rilonacept≠I-OSE_Labeled_AE  were  detected≠I-OSE_Labeled_AE  by an ELISA assay in patients with  CAPS≠B-Not_AE_Candidate  after treatment with ARCALYST. Nineteen of 55 patients (35%) who had received ARCALYST for at least 6 weeks tested positive for  treatment≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  emergent≠I-OSE_Labeled_AE   binding≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE  on at least one occasion. Of the 19, seven tested positive at the last assessment (Week 18 or 24 of the open-label extension period), and five patients tested  positive≠B-OSE_Labeled_AE  for  neutralizing≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE  on at least one occasion. There was no correlation of antibody activity and either clinical effectiveness or safety.
+
+
+
+ The data reflect the percentage of patients whose test results were  positive≠B-NonOSE_AE   for≠I-NonOSE_AE   antibodies≠I-NonOSE_AE  to the rilonacept receptor domains in specific assays, and are highly dependent on the sensitivity and specificity of the assays. The observed incidence of  antibody≠B-NonOSE_AE  (including neutralizing antibody)  positivity≠I-NonOSE_AE  in an assay is highly dependent on several factors including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of antibodies to rilonacept with the incidence of antibodies to other products may be misleading.
+
+
+
+   6.7 Lipid profiles
+
+   Cholesterol≠B-Not_AE_Candidate  and lipid levels  may≠I-Not_AE_Candidate   be≠I-Not_AE_Candidate   reduced≠I-Not_AE_Candidate  in patients with  chronic≠B-Not_AE_Candidate   inflammation≠I-Not_AE_Candidate . Patients with  CAPS≠B-Not_AE_Candidate  treated with ARCALYST experienced  increases≠B-OSE_Labeled_AE  in their mean  total≠I-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE , HDL cholesterol, LDL cholesterol, and triglycerides. The mean  increases≠B-OSE_Labeled_AE  from baseline for  total≠I-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE , HDL cholesterol, LDL cholesterol, and triglycerides were 19 mg/dL, 2 mg/dL, 10 mg/dL, and 57 mg/dL respectively after 6 weeks of open-label therapy. Physicians should monitor the lipid profiles of their patients (for example after 2-3 months) and consider lipid-lowering therapies as needed based upon cardiovascular risk factors and current guidelines.

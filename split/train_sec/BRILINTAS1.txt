@@ -1,0 +1,167 @@
+    6 ADVERSE REACTIONS
+
+  The following adverse reactions are also discussed elsewhere in the labeling:
+
+
+
+ *     Bleeding≠B-OSE_Labeled_AE  [ see  Warnings and Precautions (5.1)   ] 
+ *     Dyspnea≠B-OSE_Labeled_AE  [ see  Warnings and Precautions (5.3)   ] 
+      EXCERPT:   Most common adverse reactions are bleeding 12% and dyspnea 14%. (  5.1  ,  5.3  ,  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact AstraZeneca at 1-800-236-9933 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ BRILINTA has been evaluated for safety in more than 27000 patients, including more than 13000 patients treated for at least 1 year.
+
+
+
+   Bleeding in PLATO (Reduction in risk of thrombotic events in ACS)  
+
+
+
+ Figure 1 is a plot of time to the first non-CABG major  bleeding≠B-NonOSE_AE  event.
+
+
+
+   Figure 1 - Kaplan-Meier estimate of time to first non-CABG PLATO-defined major bleeding event (PLATO)  
+
+
+
+ Frequency of  bleeding≠B-NonOSE_AE  in PLATO is summarized in Tables 1 and 2. About half of the Non-CABG major  bleeding≠B-OSE_Labeled_AE  events were in the first 30 days.
+
+
+
+ Table 1 - Non-CABG related  bleeds≠B-OSE_Labeled_AE  (PLATO) 
+                                                           BRILINTA        N=9235      Clopidogrel    N=9186     
+  
+                                                          n (%) patients  with event    n (%) patients  with event    
+  PLATO Major + Minor                                     713 (7.7)                567 (6.2)                
+  Major                                                   362 (3.9)                306 (3.3)                
+   Fatal≠B-NonOSE_AE /Life-threatening                                  171 (1.9)                151 (1.6)                
+   Fatal≠B-NonOSE_AE                                                    15 (0.2)                 16 (0.2)                 
+   Intracranial≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  ( Fatal≠B-NonOSE_AE /Life-threatening)        26 (0.3)                 15 (0.2)                 
+  PLATO Minor  bleed≠B-OSE_Labeled_AE : requires medical intervention to stop or treat  bleeding≠B-NonOSE_AE .  PLATO Major  bleed≠B-OSE_Labeled_AE : any one of the following: fatal;  intracrania l≠B-NonOSE_AE  ≠≠I-NonOSE_AE  I≠I-NonOSE_AE  -≠I-NonOSE_AE  O≠I-NonOSE_AE SE_Labeled_AE ; intrapericardial with  cardiac≠B-NonOSE_AE   tamponade≠I-NonOSE_AE ;  hypovolemic≠B-NonOSE_AE   shock≠I-NonOSE_AE  or  severe≠B-NonOSE_AE   hypotension≠I-NonOSE_AE  requiring intervention; significantly disabling (e.g., intraocular with permanent  vision≠B-NonOSE_AE   loss≠I-NonOSE_AE ); associated with a  decrease≠B-NonOSE_AE   in≠I-NonOSE_AE   Hb≠I-NonOSE_AE  of at least 3 g/dL (or a  fall≠B-NonOSE_AE   in≠I-NonOSE_AE   hematocrit≠I-NonOSE_AE  (Hct) of at least 9%); transfusion of 2 or more units.  PLATO Major  bleed≠B-OSE_Labeled_AE ,  fatal≠B-NonOSE_AE /life-threatening: any major  bleed≠B-OSE_Labeled_AE  as described above and associated with a  decrease≠B-NonOSE_AE   in≠I-NonOSE_AE   Hb≠I-NonOSE_AE  of more than 5 g/dL (or a  fall≠B-NonOSE_AE   in≠I-NonOSE_AE   hematocrit≠I-NonOSE_AE  (Hct) of at least 15%); transfusion of 4 or more units.   Fatal≠B-NonOSE_AE : A  bleeding≠B-OSE_Labeled_AE  event that directly led to  death≠B-NonOSE_AE  within 7 days.    
+         No baseline demographic factor altered the relative risk of  bleeding≠B-NonOSE_AE  with BRILINTA compared to clopidogrel.
+ 
+
+ In PLATO, 1584 patients underwent CABG surgery. The percentages of those patients who  bled≠B-NonOSE_AE  are shown in Figure 2 and Table 2.
+
+
+
+   Figure 2 - 'Major fatal/life-threatening' CABG-related bleeding by days from last dose of study drug to CABG procedure (PLATO)  
+
+
+
+ X-axis is days from last dose of study drug prior to CABG.
+
+
+
+ The PLATO protocol recommended a procedure for withholding study drug prior to CABG or other major surgery without unblinding. If surgery was elective or non-urgent, study drug was interrupted temporarily, as follows: If local practice was to allow antiplatelet effects to dissipate before surgery, capsules (blinded clopidogrel) were withheld 5 days before surgery and tablets (blinded ticagrelor) were withheld for a minimum of 24 hours and a maximum of 72 hours before surgery. If local practice was to perform surgery without waiting for dissipation of antiplatelet effects capsules and tablets were withheld 24 hours prior to surgery and use of aprotinin or other haemostatic agents was allowed. If local practice was to use IPA monitoring to determine when surgery could be performed both the capsules and tablets were withheld at the same time and the usual monitoring procedures followed.
+
+
+
+ T Ticagrelor; C Clopidogrel
+
+
+
+ Table 2 - CABG-related  bleeding≠B-OSE_Labeled_AE  (PLATO) 
+                                              BRILINTA90 mg BID  N=770       Clopidogrel  N=814            
+  PLATO Total Major                           626 (81.3)                     666 (81.8)                    
+   Fatal≠B-NonOSE_AE /Life-threatening                      337 (43.8)                     350 (43.0)                    
+   Fatal≠B-NonOSE_AE                                        6 (0.8)                        7 (0.9)                       
+  PLATO Major  bleed≠B-OSE_Labeled_AE : any one of the following: fatal;  intracrania l≠B-NonOSE_AE  ≠≠I-NonOSE_AE  I≠I-NonOSE_AE  -≠I-NonOSE_AE  O≠I-NonOSE_AE SE_Labeled_AE ; intrapericardial with  cardiac≠B-NonOSE_AE   tamponade≠I-NonOSE_AE ;  hypovolemic≠B-NonOSE_AE   shock≠I-NonOSE_AE  or  severe≠B-NonOSE_AE   hypotension≠I-NonOSE_AE  requiring intervention; significantly disabling (e.g., intraocular with permanent  vision≠B-NonOSE_AE   loss≠I-NonOSE_AE ); associated with a  decrease≠B-NonOSE_AE   in≠I-NonOSE_AE   Hb≠I-NonOSE_AE  of at least 3 g/dL (or a  fall≠B-NonOSE_AE   in≠I-NonOSE_AE   hematocrit≠I-NonOSE_AE  (Hct) of at least 9%); transfusion of 2 or more units.  PLATO Major  bleed≠B-OSE_Labeled_AE ,  fatal≠B-NonOSE_AE /life-threatening: any major  bleed≠B-OSE_Labeled_AE  as described above and associated with a  decrease≠B-NonOSE_AE   in≠I-NonOSE_AE   Hb≠I-NonOSE_AE  of more than 5 g/dL (or a  fall≠B-NonOSE_AE   in≠I-NonOSE_AE   hematocrit≠I-NonOSE_AE  (Hct) of at least 15%); transfusion of 4 or more units.    
+         When antiplatelet therapy was stopped 5 days before CABG, major  bleeding≠B-OSE_Labeled_AE  occurred in 75% of BRILINTA treated patients and 79% on clopidogrel.
+ 
+
+   Other Adverse Reactions in PLATO  
+
+
+
+ Adverse reactions that occurred at a rate of 4% or more in PLATO are shown in Table 3.
+
+
+
+ Table 3 - Percentage of patients reporting non-hemorrhagic adverse reactions at least 4% or more in either group and more frequently on BRILINTA (PLATO) 
+                     BRILINTAN=9235      ClopidogrelN=9186     
+  
+   Dyspnea≠B-OSE_Labeled_AE            13.8             7.8               
+   Dizziness≠B-OSE_Labeled_AE          4.5              3.9               
+   Nausea≠B-OSE_Labeled_AE             4.3              3.8               
+           Bleeding in PEGASUS (Secondary Prevention in Patients with a History of Myocardial Infarction)  
+ 
+
+ Overall outcome of  bleeding≠B-NonOSE_AE  events in the PEGASUS study are shown in Table 4.
+
+
+
+ Table 4 -  Bleeding≠B-OSE_Labeled_AE  events (PEGASUS) 
+                                BRILINTA60 mg BID + Aspirin  N=6958    Aspirin Alone  N=6996    
+                                n (%)  patients  with event    Events  /100 pt yrs    n patients  with event    Events  /100 pt yrs    
+  TIMI Major                    115 (1.7)           0.78              54 (0.8)               0.34             
+        Fatal≠B-NonOSE_AE                     11 (0.2)            0.08              12 (0.2)               0.08             
+        Intracranial≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE     28 (0.4)            0.19              23 (0.3)               0.14             
+  TIMI Major or Minor           168 (2.4)           1.15              72 (1.0)               0.45             
+  TIMI Major:  Fatal≠B-NonOSE_AE   bleeding≠B-OSE_Labeled_AE , OR any  intracranial≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE , OR clinically overt signs of  hemorrhage≠B-OSE_Labeled_AE  associated with a  drop≠B-NonOSE_AE   in≠I-NonOSE_AE   hemoglobin≠I-NonOSE_AE   (≠I-NonOSE_AE  Hgb≠I-NonOSE_AE ) of >=5 g/dL, or a  fall≠B-NonOSE_AE   in≠I-NonOSE_AE   hematocrit≠I-NonOSE_AE  (Hct) of 15%.   Fatal≠B-NonOSE_AE : A  bleeding≠B-OSE_Labeled_AE  event that directly led to  death≠B-NonOSE_AE  within 7 days.  TIMI Minor: Clinically apparent with 3-5 g/dL  decrease≠B-NonOSE_AE   in≠I-NonOSE_AE   hemoglobin≠I-NonOSE_AE .    
+           The  bleeding≠B-NonOSE_AE  profile of BRILINTA 60 mg compared to aspirin alone was consistent across multiple pre-defined subgroups (e.g., by age, gender, weight, race, geographic region, concurrent conditions, concomitant therapy, stent, and medical history) for TIMI Major and TIMI Major or Minor  bleeding≠B-NonOSE_AE  events.
+ 
+
+   Other Adverse Reactions in PEGASUS  
+
+
+
+ Adverse reactions that occurred in PEGASUS at rates of 3% or more are shown in Table 5.
+
+
+
+ Table 5 - Non-hemorrhagic adverse reactions reported in >3.0% of patients in the ticagrelor 60 mg treatment group (PEGASUS) 
+                BRILINTA    N=6958      ClopidogrelN=6996     
+  
+   Dyspnea≠B-OSE_Labeled_AE       14.2            5.5             
+   Dizziness≠B-OSE_Labeled_AE     4.5             4.1             
+   Diarrhea≠B-OSE_Labeled_AE      3.3             2.5             
+           Bradycardia  
+ 
+
+ In a Holter substudy of about 3000 patients in PLATO, more patients had  ventricular≠B-OSE_Labeled_AE   pauses≠I-OSE_Labeled_AE  with BRILINTA (6.0%) than with clopidogrel (3.5%) in the acute phase; rates were 2.2% and 1.6% respectively after 1 month. PLATO and PEGASUS excluded patients at increased risk of  bradycardic≠B-Not_AE_Candidate  events (e.g., patients who have  sick≠B-Not_AE_Candidate   sinus≠I-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate , 2  nd  or 3  rd  degree  AV≠B-Not_AE_Candidate   block≠I-Not_AE_Candidate , or  bradycardic≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  related≠I-Not_AE_Candidate   syncope≠I-Not_AE_Candidate  and not protected with a pacemaker). In PLATO,  syncope≠B-OSE_Labeled_AE ,  pre≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  syncope≠I-OSE_Labeled_AE  and  loss≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   consciousness≠I-OSE_Labeled_AE  were reported by 1.7% and 1.5% of BRILINTA 90 mg and clopidogrel patients, respectively. In PEGASUS,  syncope≠B-OSE_Labeled_AE  was reported by 1.2% and 0.9% of patients on BRILINTA 60 mg and aspirin alone, respectively.
+
+
+
+     Lab abnormalities    
+
+
+
+ Serum Uric Acid:
+
+
+
+ In PLATO,  serum≠B-OSE_Labeled_AE   uric≠I-OSE_Labeled_AE   acid≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  approximately 0.6 mg/dL from baseline on BRILINTA 90 mg and approximately 0.2 mg/dL on clopidogrel. The difference disappeared within 30 days of discontinuing treatment. Reports of  gout≠B-OSE_Labeled_AE  did not differ between treatment groups in PLATO (0.6% in each group).
+
+
+
+ In PEGASUS,  serum≠B-OSE_Labeled_AE   uric≠I-OSE_Labeled_AE   acid≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  approximately 0.2 mg/dL from baseline on BRILINTA 60 mg and no elevation was observed on aspirin alone.  Gout≠B-OSE_Labeled_AE  occurred more commonly in patients on BRILINTA than in patients on aspirin alone (1.5%,1.1%). Mean  serum≠B-NonOSE_AE   uric≠I-NonOSE_AE   acid≠I-NonOSE_AE  concentrations  decrease≠I-NonOSE_AE d after treatment was stopped.
+
+
+
+ Serum Creatinine:
+
+
+
+ In PLATO, a >50%  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE  was observed in 7.4% of patients receiving BRILINTA 90 mg compared to 5.9% of patients receiving clopidogrel. The increases typically did not progress with ongoing treatment and often decreased with continued therapy. Evidence of reversibility upon discontinuation was observed even in those with the greatest on treatment increases. Treatment groups in PLATO did not differ for  renal≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   serious≠I-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  such as  acute≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  chronic≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  toxic≠B-OSE_Labeled_AE   nephropathy≠I-OSE_Labeled_AE , or  oliguria≠B-OSE_Labeled_AE .
+
+
+
+ In PEGASUS,  serum≠B-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE  concentration increased by >50% in approximately 4% of patients receiving BRILINTA 60 mg, similar to aspirin alone. The frequency of  renal≠B-OSE_Labeled_AE   related≠I-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  was similar for ticagrelor and aspirin alone regardless of age and baseline renal function.
+
+
+
+  Figure 1 - Kaplan-Meier Graph  Figure 2 - Bar Graph 

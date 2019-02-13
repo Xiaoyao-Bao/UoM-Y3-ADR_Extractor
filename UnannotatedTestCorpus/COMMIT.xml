@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="COMMIT">
+  <Text>
+    <Section id="S1" name="warnings">    Warnings
+
+
+
+   If you are pregnant or breast-feeding, only use this medicine on the advice of your health care provider.  Smoking can seriously harm your child. Try to stop smoking without using any nicotine replacement medicine. This medicine is believed to be safer than smoking. However, the risks to your child from this medicine are not fully known.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="8" name="heading" section="S1" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

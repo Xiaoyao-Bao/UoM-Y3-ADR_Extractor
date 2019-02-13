@@ -1,0 +1,103 @@
+    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (>1%) are nausea, headache and vomiting (abdominal bloating, distension, pain/cramping, and watery diarrhea not requiring an intervention were not collected) (  6.1  )  To report SUSPECTED ADVERSE REACTIONS, contact Ferring at 1-888-FERRING (1-888-337-7464) or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In randomized, multicenter, controlled clinical trials,  nausea≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE , and  vomiting≠B-OSE_Labeled_AE  were the most common adverse reactions (>1%) following Prepopik  (r)  administration. The patients were not blinded to the study drug. Since  abdominal≠B-OSE_Labeled_AE   bloating≠I-OSE_Labeled_AE ,  distension≠B-OSE_Labeled_AE ,  pain≠B-OSE_Labeled_AE / cramping≠B-OSE_Labeled_AE , and  watery≠B-OSE_Labeled_AE   diarrhea≠I-OSE_Labeled_AE  are known to occur in response to colon cleansing preparations, these effects were documented as adverse events in the clinical trials only if they required medical intervention (such as a change in study drug or led to study discontinuation, therapeutic or diagnostic procedures, met the criteria for a serious adverse event), or showed clinically significant worsening during the study that was not in the frame of the usual clinical course, as determined by the investigator.
+
+
+
+ Prepopik  (r)  was compared for colon cleansing effectiveness with a preparation containing two liters (2L) of polyethylene glycol plus electrolytes solution (PEG + E) and two 5-mg bisacodyl tablets, all administered the day before the procedure. Table 1 displays the most common adverse reactions in Study 1 and Study 2 for the Prepopik  (r)  Split-Dose and Day-Before dosing regimens, respectively, each as compared to the comparator preparation.
+
+
+
+ Table 1: Treatment-Emergent Adverse Reactions observed in at Least (>1%) of Patients using the Split-Dose Regimen and Day-Before Regimen  abdominal≠B-NonOSE_AE   bloating≠I-NonOSE_AE ,  distension≠B-NonOSE_AE ,  pain≠B-NonOSE_AE /cramping, and  watery≠B-NonOSE_AE   diarrhea≠I-NonOSE_AE  not requiring an intervention were not collected 
+ Adverse Reaction  Study 1: Split-Dose Regimen  Study 2: Day-Before Regimen   
+ PREPOPIK  (r)  (N=305)n (% = n/N)  2L PEG+Ewith 2 * 5-mg bisacodyl tablets(N=298)n (% = n/N)  PREPOPIK  (r)  (N=296)n (% = n/N)  2L PEG+Ewith 2 * 5-mg bisacodyl tablets(N=302)n (% = n/N)   
+  
+  Nausea≠B-OSE_Labeled_AE              8 (2.6)                 11 (3.7)                 9 (3.0)                 13 (4.3)           
+  Headache≠B-OSE_Labeled_AE            5 (1.6)                  5 (1.7)                 8 (2.7)                  5 (1.7)           
+  Vomiting≠B-OSE_Labeled_AE            3 (1.0)                 10 (3.4)                 4 (1.4)                  6 (2.0)           
+               Electrolyte Abnormalities  
+ 
+
+ In general, Prepopik  (r)  was associated with numerically higher rates of  abnormal≠B-OSE_Labeled_AE   electrolyte≠I-OSE_Labeled_AE  shifts on the day of colonoscopy compared to the preparation containing 2L of PEG + E plus two * 5-mg bisacodyl tablets (Table 2). These shifts were transient in nature and numerically similar between treatment arms at the Day 30 visit.
+
+
+
+ Table 2: Shifts from Normal Baseline to Outside the Normal Range at Day 7 and Day 30 
+ Laboratory Parameter (direction of change)                 Visit  Study 1: Split-Dose Regimen  Study 2: Day-Before Regimen   
+ PREPOPIK  (r)         2L PEG+E with 2* 5 mg bisacodyl tablets  PREPOPIK  (r)    2L PEG+E with 2* 5 mg bisacodyl tablets   
+                                                 n/N (%)          n/N (%)       
+  
+  Potassium≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  low≠I-OSE_Labeled_AE )         Day of Colonoscopy   19/260 (7.3)    11/268 ( 4.1 )    13/274 (4.7)     13/271 (4.8)     
+                                24-48 hours    3/302 (1.0)      2/294 (0.7)      3/287 (1.0)      5/292 (1.7)     
+                                      Day 7   11/285 (3.9)      8/279 (2.9)      6/276 (2.2)     14/278 (5.0)     
+                                     Day 30   11/284 (3.9)      8/278 (2.9)      7/275 (2.5)      8/284 (2.8)     
+  Sodium≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  low≠I-OSE_Labeled_AE )            Day of Colonoscopy   11/298 (3.7)      3/295 (1.0)      3/286 (1.0)      3/295 (1.0)     
+                                24-48 hours    1/303 (0.3)      1/295 (0.3)      1/288 (0.3)      1/293 (0.3)     
+                                      Day 7    2/300 (0.7)      1/292 (0.3)      1/285 (0.4)      1/291 (0.3)     
+                                     Day 30    2/299( 0.7)      3/291 (1.0)      1/284( 0.4)      1/296 (0.3)     
+  Chloride≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  low≠I-OSE_Labeled_AE )          Day of Colonoscopy   11/301 (3.7)      1/298 (0.3)      3/287 (1.0)      0/297 (0.0)     
+                                24-48 hours    1/303 (0.3)      0/295 (0.0)      2/288 (0.7)      0/293 (0.0)     
+                                      Day 7    1/303 (0.3)      3/295 (1.0)      0/285 (0.0)      0/293 (0.0)     
+                                     Day 30    2/302 (0.7)      3/294 (1.0)      0/285 (0.0)      0/298 (0.0)     
+  Magnesium≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  high≠I-OSE_Labeled_AE )        Day of Colonoscopy   34/294 (11.6)     0/294 (0.0)     25/288 (8.7)      1/289 (0.3)     
+                                24-48 hours    0/303 (0.0)      0/295 (0.0)      0/288 (0.0)      0/293 (0.0)     
+                                      Day 7    0/297 (0.0)      1/291 (0.3)      1/286 (0.3)      1/285 (0.4)     
+                                     Day 30    1/296 (0.3)      2/290 (0.7)      0/286 (0.0)      0/290 (0.0)     
+  Calcium≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  low≠I-OSE_Labeled_AE )           Day of Colonoscopy    2/292 (0.7)      1/286 (0.3)      0/276 (0.0)      2/282 (0.7)     
+                                24-48 hours    0/303 (0.0)      0/295 (0.0)      0/288 (0.0)      0/293 (0.0)     
+                                      Day 7    0/293 (0.0)      1/283 (0.4)      0/274 (0.0)      0/278 (0.0)     
+                                     Day 30    0/292 (0.0)      1/282 (0.4)      0/274 (0.0)      1/283 (0.4)     
+  Creatinine≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  high≠I-OSE_Labeled_AE )       Day of Colonoscopy    5/260 (1.9)     13/268 (4.9)     12/266 (4.5)     16/270 (5.9)     
+                                24-48 hours    1/303 (0.3)      0/295 (0.0)      0/288 (0.0)      0/293 (0.0)     
+                                      Day 7   10/264 (0.4)     13/267 (4.8)     10/264 (3.8)     10/265 (3.8)     
+                                     Day 30   11/264 (4.2)      14/265(5.3)     18/264 (6.8)     10/272 (3.7)     
+  eGFR≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  low≠I-OSE_Labeled_AE )              Day of Colonoscopy   22/221 (10.0)    17/214 (7.9)     26/199 (13.1)    25/224 (11.2)    
+                                24-48 hours   76/303 (25.1)    72/295 (24.4)    82/288 (28.5)    62/293 (21.2)    
+                                      Day 7   22/223 (10.0)    17/213 (8.0)     11/198 (5.6)     28/219 (12.8)    
+                                     Day 30   24/223(10.8)     21/211 (10.0)    21/199 (10.6)    24/224 (10.7)    
+              6.2 Postmarketing Experience
+   The following foreign spontaneous reports have been identified during use of formulations similar to Prepopik  (r)  . Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+     Allergic reactions  
+
+
+
+ Cases of  hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  including  rash≠B-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE , and  purpura≠B-OSE_Labeled_AE  have been reported.
+
+
+
+     Electrolyte abnormalities  
+
+
+
+ There have been reports of  hypokalemia≠B-OSE_Labeled_AE ,  hyponatremia≠B-OSE_Labeled_AE  and  hypermagnesemia≠B-OSE_Labeled_AE  with the use of Prepopik  (r)  for colon preparation prior to colonoscopy.
+
+
+
+     Gastrointestinal:  
+
+
+
+  Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  fecal≠B-OSE_Labeled_AE   incontinence≠I-OSE_Labeled_AE , and  proctalgia≠B-OSE_Labeled_AE  have been reported with the use of Prepopik  (r)  for colon preparation prior to colonoscopy. There have been isolated reports of reversible aphthoid  ileal≠B-OSE_Labeled_AE   ulcers≠I-OSE_Labeled_AE .  Ischemic≠B-OSE_Labeled_AE   colitis≠I-OSE_Labeled_AE  has been reported with the use of Prepopik  (r)  for colon preparation prior to colonoscopy. However, a causal relationship between these  ischemic≠B-NonOSE_AE   colitis≠I-NonOSE_AE  cases and the use of Prepopik  (r)  has not been established.
+
+
+
+     Neurologic,  
+
+
+
+ There have been reports of  generalized≠B-OSE_Labeled_AE   tonic≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  clonic≠I-OSE_Labeled_AE   seizures≠I-OSE_Labeled_AE  associated with and without  hyponatremia≠B-OSE_Labeled_AE  in  epileptic≠B-Not_AE_Candidate   patients≠I-Not_AE_Candidate .

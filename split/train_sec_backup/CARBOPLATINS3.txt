@@ -1,0 +1,32 @@
+   PRECAUTIONS
+
+   General
+
+   Needles or intravenous administration sets containing aluminum parts that may come in contact with carboplatin injection should not be used for the preparation or administration of the drug. Aluminum can react with carboplatin causing precipitate formation and loss of potency.  
+
+    Drug Interactions
+
+  The renal effects of nephrotoxic compounds may be potentiated by carboplatin.
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+  The carcinogenic potential of carboplatin has not been studied, but compounds with similar mechanisms of action and mutagenicity profiles have been reported to be carcinogenic. Carboplatin has been shown to be mutagenic both in vitro  and in vivo  . It has also been shown to be embryotoxic and teratogenic in rats receiving the drug during organogenesis. Secondary malignancies have been reported in association with multi-drug therapy.
+
+    Pregnancy
+
+    Pregnancy Category D  
+
+  See   WARNINGS    .
+
+    Nursing Mothers
+
+  It is not known whether carboplatin is excreted in human milk. Because there is a possibility of toxicity in nursing infants secondary to carboplatin treatment of the mother, it is recommended that breastfeeding be discontinued if the mother is treated with carboplatin injection.
+
+    Pediatric Use
+
+  Safety and effectiveness in pediatric patients have not been established (see   WARNINGS, "audiologic toxicity"    ).
+
+    Geriatric Use
+
+  Of the 789 patients in initial treatment combination therapy studies (NCIC and SWOG), 395 patients were treated with carboplatin in combination with cyclophosphamide. Of these, 141 were over 65 years of age and 22 were 75 years or older. In these trials, age was not a prognostic factor for survival. In terms of safety, elderly patients treated with carboplatin were more likely to develop severe thrombocytopenia than younger patients. In a combined database of 1,942 patients (414 were >= 65 years of age) that received single agent carboplatin for different tumor types, a similar incidence of adverse events was seen in patients 65 years and older and in patients less than 65. Other reported clinical experience has not identified differences in responses between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out. Because renal function is often decreased in the elderly, renal function should be considered in the selection of carboplatin injection dosage (see   DOSAGE AND ADMINISTRATION    ).
+

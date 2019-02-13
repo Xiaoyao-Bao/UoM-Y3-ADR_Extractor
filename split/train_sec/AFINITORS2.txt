@@ -1,0 +1,94 @@
+   5     WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  Non-infectious pneumonitis: Monitor for clinical symptoms or radiological changes; fatal cases have occurred. Manage by dose reduction or discontinuation until symptoms resolve, and consider use of corticosteroids. (  5.1  ) 
+ *  Infections: Increased risk of infections, some fatal. Monitor for signs and symptoms, and treat promptly. (  5.2  ) 
+ *  Angioedema: Patients taking concomitant ACE inhibitor therapy may be at increased risk for angioedema. (  5.3  ) 
+ *  Stomatitis: Stomatitis, including mouth ulcers and oral mucositis, occurs in most patients treated with AFINITOR. Initiation of topical treatment with dexamethasone mouthwash when starting AFINITOR reduces the incidence and severity of stomatitis. (  5.4  ,  6.1  ) 
+ *  Renal failure: Cases of renal failure (including acute renal failure), some with a fatal outcome, have been observed. (  5.5  ) 
+ *  Impaired wound healing: Increased risk of wound-related complications. Monitor signs and symptoms. Exercise caution in the peri-surgical period. (  5.6  ) 
+ *  Laboratory test alterations: Elevations of serum creatinine, urinary protein, blood glucose, and lipids may occur. Decreases in hemoglobin, neutrophils, and platelets may also occur. Monitor renal function, blood glucose, lipids, and hematologic parameters prior to treatment and periodically thereafter. (  5.8  ) 
+ *  Vaccinations: Avoid live vaccines and close contact with those who have received live vaccines. (  5.11  ) 
+ *  Embryo-Fetal Toxicity: Can cause fetal harm. Advise patients of reproductive potential of the potential risk to a fetus and to use effective contraception. (  5.12  ,  8.1  ,  8.3  ) 
+    
+ 
+
+   5.1     Non-infectious Pneumonitis
+
+   Non≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  infectious≠I-OSE_Labeled_AE   pneumonitis≠I-OSE_Labeled_AE  is a class effect of rapamycin derivatives, including AFINITOR.  Non≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  infectious≠I-OSE_Labeled_AE   pneumonitis≠I-OSE_Labeled_AE  was reported in up to 19% of patients treated with AFINITOR in clinical trials, some cases reported with  pulmonary≠B-OSE_Labeled_AE   hypertension≠I-OSE_Labeled_AE  (including  pulmonary≠B-OSE_Labeled_AE   arterial≠I-OSE_Labeled_AE   hypertension≠I-OSE_Labeled_AE ) as a secondary event. The incidence of Common Terminology Criteria (CTC) Grade 3 and 4  non≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  infectious≠I-OSE_Labeled_AE   pneumonitis≠I-OSE_Labeled_AE  was up to 4.0% and up to 0.2%, respectively [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)]  .  Fatal≠B-NonOSE_AE  outcomes have been observed.
+
+ Consider a diagnosis of  non≠B-NonOSE_AE  -≠I-NonOSE_AE  infectious≠I-NonOSE_AE   pneumonitis≠I-NonOSE_AE  in patients presenting with non-specific respiratory signs and symptoms such as  hypoxia≠B-NonOSE_AE ,  pleural≠B-NonOSE_AE   effusion≠I-NonOSE_AE ,  cough≠B-NonOSE_AE , or  dyspnea≠B-NonOSE_AE , and in whom  infectious≠B-Not_AE_Candidate ,  neoplastic≠B-Not_AE_Candidate , and other causes have been excluded by means of appropriate investigations.  Opportunistic≠B-NonOSE_AE   infections≠I-NonOSE_AE  such as  pneumocystis≠B-NonOSE_AE   jiroveci≠I-NonOSE_AE   pneumonia≠I-NonOSE_AE   (≠I-NonOSE_AE  PJP≠I-NonOSE_AE ) should be considered in the differential diagnosis. Advise patients to report promptly any new or  worsening≠B-NonOSE_AE   respiratory≠I-NonOSE_AE   symptoms≠I-NonOSE_AE .
+
+ Patients who develop radiological changes suggestive of  non≠B-NonOSE_AE  -≠I-NonOSE_AE  infectious≠I-NonOSE_AE   pneumonitis≠I-NonOSE_AE  and have few or no symptoms may continue AFINITOR therapy without dose alteration. Imaging appears to overestimate the incidence of clinical  pneumonitis≠B-NonOSE_AE .
+
+ If symptoms are moderate, consider interrupting therapy until symptoms improve. The use of corticosteroids may be indicated. AFINITOR may be reintroduced at a daily dose approximately 50% lower than the dose previously administered [see Table 1 in Dosage and Administration (2.2)]  .
+
+ For cases of Grade 3  non≠B-NonOSE_AE  -≠I-NonOSE_AE  infectious≠I-NonOSE_AE   pneumonitis≠I-NonOSE_AE , interrupt AFINITOR until resolution to less than or equal to Grade 1. AFINITOR may be re-introduced at a daily dose approximately 50% lower than the dose previously administered depending on the individual clinical circumstances [see Dosage and Administration (2.2)]  . If toxicity recurs at Grade 3, consider discontinuation of AFINITOR. For cases of Grade 4  non≠B-NonOSE_AE  -≠I-NonOSE_AE  infectious≠I-NonOSE_AE   pneumonitis≠I-NonOSE_AE , discontinue AFINITOR. Corticosteroids may be indicated until clinical symptoms resolve. For patients who require use of corticosteroids for treatment of  non≠B-NonOSE_AE  -≠I-NonOSE_AE  infectious≠I-NonOSE_AE   pneumonitis≠I-NonOSE_AE , prophylaxis for  PJP≠B-NonOSE_AE  may be considered. The development of  pneumonitis≠B-OSE_Labeled_AE  has been reported even at a reduced dose.
+
+    5.2     Infections
+
+  AFINITOR has  immunosuppressive≠B-OSE_Labeled_AE  properties and may predispose patients to  bacterial≠B-OSE_Labeled_AE , fungal, viral, or protozoal  infections≠I-OSE_Labeled_AE , including  infections≠B-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   opportunistic≠I-OSE_Labeled_AE   pathogens≠I-OSE_Labeled_AE  [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)]  .  Localized≠B-OSE_Labeled_AE  and systemic  infections≠I-OSE_Labeled_AE , including  pneumonia≠B-OSE_Labeled_AE ,  mycobacterial≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE , other  bacterial≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE ,  invasive≠B-OSE_Labeled_AE   fungal≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE , such as  aspergillosis≠B-OSE_Labeled_AE ,  candidiasis≠B-OSE_Labeled_AE , or  pneumocystis≠B-OSE_Labeled_AE   jiroveci≠I-OSE_Labeled_AE   pneumonia≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PJP≠I-OSE_Labeled_AE ) and  viral≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  including  reactivation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   hepatitis≠I-OSE_Labeled_AE   B≠I-OSE_Labeled_AE   virus≠I-OSE_Labeled_AE  have occurred in patients taking AFINITOR. Some of these  infections≠B-NonOSE_AE  have been severe (e.g., leading to  sepsis≠B-NonOSE_AE ,  respiratory≠B-NonOSE_AE  or hepatic  failure≠I-NonOSE_AE ) or  fatal≠B-NonOSE_AE . Physicians and patients should be aware of the increased risk of  infection≠B-NonOSE_AE  with AFINITOR. Complete treatment of pre-existing  invasive≠B-Not_AE_Candidate   fungal≠I-Not_AE_Candidate   infections≠I-Not_AE_Candidate  prior to starting treatment with AFINITOR. While taking AFINITOR, be vigilant for signs and symptoms of  infection≠B-NonOSE_AE ; if a diagnosis of an  infection≠B-NonOSE_AE  is made, institute appropriate treatment promptly and consider interruption or discontinuation of AFINITOR. If a diagnosis of  invasive≠B-NonOSE_AE   systemic≠I-NonOSE_AE   fungal≠I-NonOSE_AE   infection≠I-NonOSE_AE  is made, discontinue AFINITOR and treat with appropriate antifungal therapy.
+
+  Pneumocystis≠B-OSE_Labeled_AE   jiroveci≠I-OSE_Labeled_AE   pneumonia≠I-OSE_Labeled_AE , some with a  fatal≠B-NonOSE_AE  outcome, has been reported in patients who received everolimus. This may be associated with concomitant use of corticosteroids or other  immunosuppressive≠B-NonOSE_AE  agents. Prophylaxis for  PJP≠B-NonOSE_AE  should be considered when concomitant use of corticosteroids or other  immunosuppressive≠B-NonOSE_AE  agents are required.
+
+    5.3     Angioedema with Concomitant Use of Angiotensin-Converting Enzyme (ACE) Inhibitors
+
+  Patients taking concomitant ACE inhibitor therapy may be at increased risk for  angioedema≠B-NonOSE_AE  (e.g.,  swelling≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE  airways or  tongue≠I-NonOSE_AE , with or without  respiratory≠B-NonOSE_AE   impairment≠I-NonOSE_AE ). In a pooled analysis of randomized double-blind oncology clinical trials, the incidence of  angioedema≠B-NonOSE_AE  in patients taking everolimus with an ACE inhibitor was 6.8% compared to 1.3% in the control arm with an ACE inhibitor.
+
+    5.4     Stomatitis
+
+    Stomatitis≠B-OSE_Labeled_AE , including  mouth≠B-OSE_Labeled_AE   ulcers≠I-OSE_Labeled_AE  and  oral≠B-OSE_Labeled_AE   mucositis≠I-OSE_Labeled_AE , has occurred in patients treated with AFINITOR at an incidence ranging from 44%-78% across the clinical trial experience. Grade 3 or 4  stomatitis≠B-OSE_Labeled_AE  was reported in 4%-9% of patients [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)  ].  Stomatitis≠B-OSE_Labeled_AE  most often occurs within the first 8 weeks of treatment. When starting AFINITOR, initiating dexamethasone alcohol-free oral solution as a swish and spit mouthwash reduces the incidence and severity of  stomatitis≠B-NonOSE_AE  [see Adverse Reactions (6.1) and Use in Specific Populations (8.4)]  . If  stomatitis≠B-NonOSE_AE  does occur, mouthwashes and/or other topical treatments are recommended, but alcohol-, hydrogen peroxide-, iodine-, or thyme- containing products should be avoided as they may exacerbate the condition [see Dosage and Administration (2.2)]  . Antifungal agents should not be used unless  fungal≠B-NonOSE_AE   infection≠I-NonOSE_AE  has been diagnosed [see Drug Interactions (7.1)]  .  
+
+    5.5     Renal Failure
+
+  Cases of  renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  (including  acute≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ), some with a  fatal≠B-NonOSE_AE  outcome, have been observed in patients treated with AFINITOR [see Laboratory Tests and Monitoring (5.8)]  .
+
+    5.6     Impaired Wound Healing
+
+  Everolimus  delays≠B-OSE_Labeled_AE   wound≠I-OSE_Labeled_AE   healing≠I-OSE_Labeled_AE  and increases the occurrence of  wound≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   complications≠I-OSE_Labeled_AE  like  wound≠B-OSE_Labeled_AE   dehiscence≠I-OSE_Labeled_AE ,  wound≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  incisional≠B-OSE_Labeled_AE   hernia≠I-OSE_Labeled_AE ,  lymphocele≠B-OSE_Labeled_AE , and  seroma≠B-OSE_Labeled_AE . These  wound≠B-NonOSE_AE  -≠I-NonOSE_AE  related≠I-NonOSE_AE   complications≠I-NonOSE_AE  may require surgical intervention. Exercise caution with the use of AFINITOR in the peri-surgical period.
+
+    5.7     Geriatric Patients
+
+  In the randomized advanced  hormone≠B-Not_AE_Candidate   receptor≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  positive≠I-Not_AE_Candidate  ,≠I-Not_AE_Candidate   HER≠I-Not_AE_Candidate  2≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  negative≠I-Not_AE_Candidate   breast≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  study (BOLERO-2), the incidence of  deaths≠B-NonOSE_AE  due to any cause within 28 days of the last AFINITOR dose was 6% in patients >= 65 years of age compared to 2% in patients < 65 years of age. Adverse reactions leading to permanent treatment discontinuation occurred in 33% of patients >= 65 years of age compared to 17% in patients < 65 years of age. Careful monitoring and appropriate dose adjustments for adverse reactions are recommended [see Dosage and Administration (2.2), Use in Specific Populations (8.5)]  .
+
+    5.8     Laboratory Tests and Monitoring
+
+   Renal Function  
+
+  Elevations≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE  and  proteinuria≠B-OSE_Labeled_AE  have been reported in patients taking AFINITOR [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)]  . Monitoring of renal function, including measurement of blood urea nitrogen (BUN), urinary protein, or serum creatinine, is recommended prior to the start of AFINITOR therapy and periodically thereafter. Renal function of patients should be monitored particularly where patients have additional risk factors that may further  impair≠B-NonOSE_AE   renal≠I-NonOSE_AE   function≠I-NonOSE_AE .
+
+  Blood Glucose and Lipids  
+
+  Hyperglycemia≠B-OSE_Labeled_AE ,  hyperlipidemia≠B-OSE_Labeled_AE , and  hypertriglyceridemia≠B-OSE_Labeled_AE  have been reported in patients taking AFINITOR [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)]  . Monitoring of fasting serum glucose and lipid profile is recommended prior to the start of AFINITOR therapy and periodically thereafter as well as management with appropriate medical therapy. More frequent monitoring is recommended when AFINITOR is co-administered with other drugs that may induce  hyperglycemia≠B-NonOSE_AE . When possible, optimal glucose and lipid control should be achieved before starting a patient on AFINITOR.
+
+  Hematologic Parameters  
+
+  Decreased≠B-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE , lymphocytes, neutrophils, and platelets have been reported in patients taking AFINITOR [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)]  . Monitoring of complete blood count is recommended prior to the start of AFINITOR therapy and periodically thereafter.
+
+    5.9     Drug-Drug Interactions
+
+  Due to significant increases in exposure of everolimus, co-administration with strong CYP3A4/PgP inhibitors should be avoided  [see Dosage and Administration (2.2, 2.5) and Drug Interactions (7.1)]  .
+
+ A reduction of the AFINITOR dose is recommended when co-administered with a moderate CYP3A4/PgP inhibitor [see Dosage and Administration (2.2, 2.5) and Drug Interactions (7.1)]  .
+
+ An increase in the AFINITOR dose is recommended when co-administered with a strong CYP3A4/PgP inducer [see Dosage and Administration (2.2, 2.5) and Drug Interactions (7.2)]  .
+
+    5.10     Hepatic Impairment
+
+  Exposure to everolimus was increased in patients with  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate   [see Clinical Pharmacology (12.3)]  .
+
+ For  advanced≠B-Not_AE_Candidate   HR≠I-Not_AE_Candidate  +≠I-Not_AE_Candidate   BC≠I-Not_AE_Candidate ,  advanced≠B-Not_AE_Candidate   NET≠I-Not_AE_Candidate ,  advanced≠B-Not_AE_Candidate   RCC≠I-Not_AE_Candidate , and  renal≠B-Not_AE_Candidate   angiomyolipoma≠I-Not_AE_Candidate   with≠I-Not_AE_Candidate   TSC≠I-Not_AE_Candidate  patients with severe  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  (Child-Pugh class C), AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk. For patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B)  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate , a dose reduction is recommended [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]  .
+
+ For patients with  SEGA≠B-Not_AE_Candidate  and mild or moderate  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate , adjust the dose of AFINITOR Tablets or AFINITOR DISPERZ based on therapeutic drug monitoring. For patients with  SEGA≠B-Not_AE_Candidate  and severe  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate , reduce the starting dose of AFINITOR Tablets or AFINITOR DISPERZ by approximately 50% and adjust subsequent doses based on therapeutic drug monitoring [see Dosage and Administration (2.4, 2.5)]  .
+
+    5.11     Vaccinations
+
+  During AFINITOR treatment, avoid the use of live vaccines and avoid close contact with individuals who have received live vaccines (e.g.,  intranasal≠B-NonOSE_AE   influenza≠I-NonOSE_AE , measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid  vaccines≠I-NonOSE_AE ).
+
+ For pediatric patients with  SEGA≠B-Not_AE_Candidate  that do not require immediate treatment, complete the recommended childhood series of live virus vaccinations according to American Council on Immunization Practices (ACIP) guidelines prior to the start of therapy. An accelerated vaccination schedule may be appropriate.
+
+    5.12      Embryo≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Fetal≠I-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE 
+
+   Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)]  , AFINITOR can cause  fetal≠B-OSE_Labeled_AE   harm≠I-OSE_Labeled_AE  when administered to a  pregnant≠B-Not_AE_Candidate  woman. In animal studies, everolimus caused  embryo≠B-NonOSE_AE  -≠I-NonOSE_AE  fetal≠I-NonOSE_AE   toxicities≠I-NonOSE_AE  in rats when administered during the period of organogenesis at maternal exposures that were lower than human exposures at the clinical dose of 10 mg daily. Advise  pregnant≠B-Not_AE_Candidate  women of the potential  risk≠B-NonOSE_AE   to≠I-NonOSE_AE   a≠I-NonOSE_AE   fetus≠I-NonOSE_AE .  
+
+  Advise female patients of reproductive potential to avoid becoming  pregnant≠B-NonOSE_AE  and to use effective contraception during treatment with AFINITOR and for 8 weeks after the last dose. Advise male patients with female partners of reproductive potential to use effective contraception during treatment with AFINITOR and for 4 weeks after the last dose [see Use in Specific Populations (8.1, 8.3)]  .  
+

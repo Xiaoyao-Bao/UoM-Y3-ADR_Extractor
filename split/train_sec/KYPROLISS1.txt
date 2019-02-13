@@ -1,0 +1,276 @@
+    6         ADVERSE REACTIONS  
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+ *   Cardiac≠B-OSE_Labeled_AE   Toxicities≠I-OSE_Labeled_AE  [see   Warnings and Precautions  (    5.1    )]  
+ *   Acute≠B-OSE_Labeled_AE   Renal≠I-OSE_Labeled_AE   Failure≠I-OSE_Labeled_AE   [see   Warnings and Precautions  (    5.2    )]  
+ *   Tumor≠B-OSE_Labeled_AE   Lysis≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  [see   Warnings and Precautions  (    5.3    )]  
+ *   Pulmonary≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE  [see   Warnings and Precautions  (    5.4    )]  
+ *   Pulmonary≠B-OSE_Labeled_AE   Hypertension≠I-OSE_Labeled_AE   [see   Warnings and Precautions  (    5.5    )]  
+ *   Dyspnea≠B-OSE_Labeled_AE  [see   Warnings and Precautions  (    5.6    )]  
+ *   Hypertension≠B-OSE_Labeled_AE  [see   Warnings and Precautions  (    5.7    )]  
+ *   Venous≠B-OSE_Labeled_AE   Thrombosis≠I-OSE_Labeled_AE  [see   Warnings and Precautions  (    5.8    )]  
+ *   Infusion≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [see   Warnings and Precautions  (    5.9    )]  
+ *   Hemorrhage≠B-OSE_Labeled_AE  [see   Warnings and Precautions (    5.10    )]  
+ *   Thrombocytopenia≠B-OSE_Labeled_AE  [see Warnings and Precautions  (    5.11    )]  
+ *   Hepatic≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE  and  Hepatic≠B-OSE_Labeled_AE   Failure≠I-OSE_Labeled_AE  [see   Warnings and Precautions  (    5.12    )]  
+ *   Thrombotic≠B-OSE_Labeled_AE   Microangiopathy≠I-OSE_Labeled_AE   [see   Warnings and Precautions  (    5.13    )]  
+ *   Posterior≠B-OSE_Labeled_AE   Reversible≠I-OSE_Labeled_AE   Encephalopathy≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  [see   Warnings and Precautions   (    5.14    )]  
+ *  Increased  Fatal≠B-NonOSE_AE  and Serious Toxicities in Combintaion with Melphalan and Prednisone in Newly Diagnosed Transplant-Ineligible Patients [see   Warnings and Precautions (    5.15    )]  
+      EXCERPT:   The most common adverse reactions occurring in at least 20% of patients treated with Kyprolis in monotherapy trials:  anemia, fatigue, thrombocytopenia, nausea, pyrexia, dyspnea, diarrhea, headache, cough, edema peripheral. (  6  )
+ 
+
+    
+
+ The most common adverse reactions occurring in at least 20% of patients treated with Kyprolis in the combination therapy trials: anemia, neutropenia, diarrhea, dyspnea, fatigue, thrombocytopenia, pyrexia, insomnia, muscle spasm, cough, upper respiratory tract infection, hypokalemia. (  6  )
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Amgen Medical Information at 1-800-77-AMGEN (1-800-772-6436) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+ 
+
+  6.1       Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug, and may not reflect the rates observed in medical practice.
+
+   Safety Experience with Kyprolis in Combination with Lenalidomide and Dexamethasone in Patients with Multiple Myeloma  
+
+ The safety of Kyprolis in combination with lenalidomide and dexamethasone (KRd) was evaluated in an open-label randomized study in patients with relapsed  multiple≠B-Not_AE_Candidate   myeloma≠I-Not_AE_Candidate . Details of the study treatment are described in Section 14.1.  The median number of cycles initiated was 22 cycles for the KRd arm and 14 cycles for the Rd arm.
+
+  Deaths≠B-NonOSE_AE  due to adverse reactions within 30 days of the last dose of any therapy in the KRd arm occurred in 27/392 (7%) patients compared with 27/389 (7%) patients who  died≠B-NonOSE_AE  due to adverse events within 30 days of the last dose of any Rd therapy. The most common cause of  deaths≠B-NonOSE_AE  occurring in patients (%) in the two arms (KRd  versus  Rd) included  cardiac≠B-NonOSE_AE  10 (3%)  versus  7 (2%),  infection≠B-NonOSE_AE  9 (2%)  versu    s  10 (3%),  renal≠B-NonOSE_AE  0 (0%)  versus  1 (< 1%), and other adverse reactions 9 (2%)  versus  10 (3%). Serious adverse reactions were reported in 60% of the patients in the KRd arm and 54% of the patients in the Rd arm. The most common serious adverse reactions reported in the KRd arm as compared with the Rd arm were  pneumonia≠B-OSE_Labeled_AE  (14%  versus  11%),  respiratory≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  (4%  versus  1.5%),  pyrexia≠B-OSE_Labeled_AE  (4%  versus  2%), and  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE  (3%  versus  2%). Discontinuation due to any adverse reaction occurred in 26% in the KRd arm  versus  25% in the Rd arm. Adverse reactions leading to discontinuation of Kyprolis occurred in 12% of patients and the most common reactions included  pneumonia≠B-OSE_Labeled_AE  (1%),  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE  (0.8%), and  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  (0.8%).
+
+   Common Adverse    Reactions    (    >=         10%)  
+
+ The adverse reactions in the first 12 cycles of therapy that occurred at a rate of 10% or greater in the KRd arm are presented in Table 8.
+
+ Table 8:  Most Common Adverse Reactions (>= 10% in the KRd Arm)  Occurring in Cycles 1-12  (20/27 mg/m2 Regimen In Combination with Lenalidomide and Dexamethasone) 
+                    KRd Arm    (N         =         392)    n (%)      Rd Arm    (N         =         389)    n (%)     
+               Adverse Reactions by Body System      Any Grade        >=         Grade         3      Any Grade        >=         Grade         3     
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+        Anemia≠B-OSE_Labeled_AE      138 (35)         53 (14)          127 (33)         47 (12)           
+        Neutropenia≠B-OSE_Labeled_AE   124 (32)         104 (27)         115 (30)         89 (23)           
+        Thrombocytopenia≠B-OSE_Labeled_AE   100 (26)         58 (15)          75 (19)          39 (10)           
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE      
+        Diarrhea≠B-OSE_Labeled_AE    115 (29)         7 (2)            105 (27)         12 (3)            
+        Constipation≠B-OSE_Labeled_AE   68 (17)          0                53 (14)          1 (0)             
+        Nausea≠B-OSE_Labeled_AE      60 (15)          1 (0)            39 (10)          3 (1)             
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   Administration≠I-NonOSE_AE   Site≠I-NonOSE_AE   Conditions≠I-NonOSE_AE      
+        Fatigue≠B-OSE_Labeled_AE     109 (28)         21 (5)           104 (27)         20 (5)            
+        Pyrexia≠B-OSE_Labeled_AE     93 (24)          5 (1)            64 (17)          1 (0)             
+        Edema≠B-OSE_Labeled_AE   peripheral≠I-OSE_Labeled_AE   63 (16)          2 (1)            57 (15)          2 (1)             
+        Asthenia≠B-OSE_Labeled_AE    53 (14)          11 (3)           46 (12)          7 (2)             
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE      
+        Upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE   85 (22)          7 (2)            52 (13)          3 (1)             
+        Nasopharyngitis≠B-OSE_Labeled_AE   63 (16)          0                43 (11)          0                 
+        Bronchitis≠B-OSE_Labeled_AE   54 (14)          5 (1)            39 (10)          2 (1)             
+        Pneumonia≠B-OSE_Labeled_AE   a    54 (14)          35 (9)           43 (11)          27 (7)            
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+        Hypokalemia≠B-OSE_Labeled_AE   78 (20)          22 (6)           35 (9)           12 (3)            
+        Hypocalcemia≠B-OSE_Labeled_AE   55 (14)          10 (3)           39 (10)          5 (1)             
+        Hyperglycemia≠B-OSE_Labeled_AE   43 (11)          18 (5)           33 (9)           15 (4)            
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+        Muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE   88 (22)          3 (1)            73 (19)          3 (1)             
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+        Peripheral≠B-OSE_Labeled_AE   neuropathies≠I-OSE_Labeled_AE   b    43 (11)          7 (2)            37 (10)          4 (1)             
+    Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                          
+        Insomnia≠B-OSE_Labeled_AE    63 (16)          6 (2)            50 (13)          8 (2)             
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE  ,≠I-NonOSE_AE   and≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+        Cough≠B-OSE_Labeled_AE   c    91 (23)          2 (1)            52 (13)          0                 
+        Dyspnea≠B-OSE_Labeled_AE   d    70 (18)          9 (2)            58 (15)          6 (2)             
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+        Rash≠B-OSE_Labeled_AE        45 (12)          5 (1)            53 (14)          5 (1)             
+    Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE      
+        Embolic≠B-OSE_Labeled_AE  and thrombotic  events≠I-OSE_Labeled_AE   venous≠I-OSE_Labeled_AE   e    49 (13)          16 (4)           22 (6)           9 (2)             
+        Hypertension≠B-OSE_Labeled_AE   f    41 (11)          12 (3)           15 (4)           4 (1)             
+ KRd = Kyprolis, lenalidomide, and dexamethasone; Rd = lenalidomide and dexamethasone  a    Pneumonia≠B-OSE_Labeled_AE  includes  pneumonia≠B-OSE_Labeled_AE  and  bronchopneumonia≠B-OSE_Labeled_AE .  b    Peripheral≠B-OSE_Labeled_AE   neuropathies≠I-OSE_Labeled_AE  includes  peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   sensory≠I-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE , and  peripheral≠B-OSE_Labeled_AE   motor≠I-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE .  c   Cough≠B-OSE_Labeled_AE  includes  cough≠B-OSE_Labeled_AE  and  productive≠B-OSE_Labeled_AE   cough≠I-OSE_Labeled_AE .  d    Dyspnea≠B-OSE_Labeled_AE  includes  dyspnea≠B-OSE_Labeled_AE  and  dyspnea≠B-OSE_Labeled_AE   exertional≠I-OSE_Labeled_AE .  e    Embolic≠B-OSE_Labeled_AE  and thrombotic      events≠I-OSE_Labeled_AE ,  venous≠I-OSE_Labeled_AE  include  deep≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE ,  thrombophlebitis≠B-OSE_Labeled_AE   superficial≠I-OSE_Labeled_AE ,  thrombophlebitis≠B-OSE_Labeled_AE ,  venous≠B-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE   limb≠I-OSE_Labeled_AE ,  post≠B-OSE_Labeled_AE   thrombotic≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  venous≠B-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE .  f    Hypertension≠B-OSE_Labeled_AE  includes  hypertension≠B-OSE_Labeled_AE ,  hypertensive≠B-OSE_Labeled_AE   crisis≠I-OSE_Labeled_AE .   
+           There were 274 (70%) patients in the KRd arm who received treatment beyond Cycle 12. There were no new clinically relevant adverse reactions that emerged in the later treatment cycles.
+ 
+
+   Adverse Reactions Occurring at a Frequency of <         10%  
+
+ *    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE ,  lymphopenia≠B-OSE_Labeled_AE  
+ *    Cardiac≠B-NonOSE_AE   disorders≠I-NonOSE_AE :    cardiac≠B-OSE_Labeled_AE   arrest≠I-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE   congestive≠I-OSE_Labeled_AE ,  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE ,  myocardial≠B-OSE_Labeled_AE   ischemia≠I-OSE_Labeled_AE ,  pericardial≠B-OSE_Labeled_AE   effusion≠I-OSE_Labeled_AE  
+ *    Eye≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  cataract≠B-OSE_Labeled_AE ,  vision≠B-OSE_Labeled_AE   blurred≠I-OSE_Labeled_AE  
+ *    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE ,  gastrointestinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  toothache≠B-OSE_Labeled_AE  
+ *    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE :  chills≠B-OSE_Labeled_AE ,  infusion≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  multi≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  organ≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  pain≠B-OSE_Labeled_AE  
+ *    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE :  influenza≠B-OSE_Labeled_AE ,  lung≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  rhinitis≠B-OSE_Labeled_AE ,  sepsis≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  viral≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  
+ *    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   nutrition≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  dehydration≠B-OSE_Labeled_AE ,  hyperkalemia≠B-OSE_Labeled_AE ,  hyperuricemia≠B-OSE_Labeled_AE ,  hypoalbuminemia≠B-OSE_Labeled_AE ,  hyponatremia≠B-OSE_Labeled_AE ,  tumor≠B-OSE_Labeled_AE   lysis≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  
+ *    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  muscular≠B-OSE_Labeled_AE   weakness≠I-OSE_Labeled_AE ,  myalgia≠B-OSE_Labeled_AE  
+ *    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  hypoesthesia≠B-OSE_Labeled_AE ,  intracranial≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  paresthesia≠B-OSE_Labeled_AE ,  deafness≠B-OSE_Labeled_AE  
+ *    Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  anxiety≠B-OSE_Labeled_AE ,  delirium≠B-OSE_Labeled_AE  
+ *    Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   urinary≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE   acute≠I-OSE_Labeled_AE ,  renal≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE  
+ *    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  dysphonia≠B-OSE_Labeled_AE ,  epistaxis≠B-OSE_Labeled_AE ,  oropharyngeal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE   
+ *    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  erythema≠B-OSE_Labeled_AE ,  hyperhidrosis≠B-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE  
+ *    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  deep≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE ,  hemorrhage≠B-OSE_Labeled_AE ,  hypotension≠B-OSE_Labeled_AE  
+    Grade 3 and higher adverse reactions that occurred during Cycles 1-12 with a substantial difference (>= 2%) between the two arms were  neutropenia≠B-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE ,  hypokalemia≠B-OSE_Labeled_AE , and  hypophosphatemia≠B-OSE_Labeled_AE .
+ 
+
+   Laboratory Abnormalities  
+
+ Table 9 describes Grade 3-4  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  reported at a rate of >= 10% in the KRd arm for patients who received combination therapy.
+
+ Table 9: Grade 3-4 Laboratory Abnormalities (>= 10% in the KRd Arm) in Cycles 1-12 (20/27 mg/m2 Regimen In Combination with Lenalidomide and Dexamethasone) 
+    Laboratory≠B-NonOSE_AE   Abnormality≠I-NonOSE_AE       KRd    (N         =         392)    n (%)      Rd    (N         =         389)    n (%)     
+  Decreased≠B-OSE_Labeled_AE   lymphocytes≠I-OSE_Labeled_AE   182 (46)         119 (31)          
+  Decreased≠B-OSE_Labeled_AE   absolute≠I-OSE_Labeled_AE   neutrophil≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE   152 (39)         140 (36)          
+  Decreased≠B-OSE_Labeled_AE   phosphorus≠I-OSE_Labeled_AE   122 (31)         106 (27)          
+  Decreased≠B-OSE_Labeled_AE   platelets≠I-OSE_Labeled_AE   101 (26)         59 (15)           
+  Decreased≠B-OSE_Labeled_AE   total≠I-OSE_Labeled_AE   white≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE   97 (25)          71 (18)           
+  Decreased≠B-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE   58 (15)          68 (18)           
+  Decreased≠B-OSE_Labeled_AE   potassium≠I-OSE_Labeled_AE   41 (11)          23 (6)            
+ KRd = Kyprolis, lenalidomide, and dexamethasone; Rd = lenalidomide and dexamethasone   
+           Safety Experience with Kyprolis    in Combination with Dexamethasone    in Patients with Multiple Myeloma  
+ 
+
+ The safety of Kyprolis in combination with dexamethasone was evaluated in an open-label, randomized trial of patients with relapsed  multiple≠B-Not_AE_Candidate   myeloma≠I-Not_AE_Candidate . The study treatment is described in Section 14.2.  Patients received treatment for a median duration of 40 weeks in the Kyprolis/dexamethasone (Kd) arm and 27 weeks in the bortezomib/dexamethasone (Vd) arm.
+
+  Deaths≠B-NonOSE_AE  due to adverse reactions within 30 days of last study treatment occurred in 22/463 (5%) patients in the Kd arm and 21/456 (5%) patients in the Vd arm. The causes of  death≠B-NonOSE_AE  occurring in patients (%) in the two arms (Kd  versus  Vd) included  cardiac≠B-NonOSE_AE  7 (2%)  versus  5 (1%),  infections≠B-NonOSE_AE  5 (1%)  versus  8 (2%), disease progression 6 (1%)  versus  4 (1%),  pulmonary≠B-NonOSE_AE  3 (1%)  versus  2 (< 1%),  renal≠B-NonOSE_AE  1 (< 1%)  versus  0 (0%), and other adverse events 2 (< 1%)  versus  2 (< 1%). Serious adverse reactions were reported in 48% of the patients in the Kd arm and 36% of the patients in the Vd arm. In both treatment arms,  pneumonia≠B-OSE_Labeled_AE  was the most commonly reported serious adverse reaction (6%  versus  9%). Discontinuation due to any adverse reaction occurred in 20% in the Kd arm  versus  21% in the Vd arm. The most common reaction leading to discontinuation was  cardiac≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  in the Kd arm (n = 6, 1.3%) and  peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  in the Vd arm (n = 19, 4.2%).
+
+   Common Adverse    Reactions         (    >=         10%)  
+
+ Adverse reactions in the first 6 months of therapy that occurred at a rate of 10% or greater in the Kd arm are presented in Table 10.
+
+ Table 10: Most Common Adverse Reactions (>= 10% in the Kd Arm) Occurring in Months 1-6 (20/56 mg/m2 Regimen In Combination with Dexamethasone) 
+                    Kd    (N         =         463)    n (%)      Vd    (N         =         456)    n (%)     
+   Adverse Reaction by Body System      Any Grade        >=         Grade         3      Any Grade        >=         Grade         3     
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE      L≠I-NonOSE_AE      ymphatic≠I-NonOSE_AE      S≠I-NonOSE_AE      ystem≠I-NonOSE_AE      D≠I-NonOSE_AE      isorders≠I-NonOSE_AE      
+       Anemia≠B-OSE_Labeled_AE       160 (35)         57 (12)          112 (25)         43 (9)            
+       Thrombocytopenia≠B-OSE_Labeled_AE   a    127 (27)         46 (10)          112 (25)         65 (14)           
+    Gastrointestinal≠B-NonOSE_AE      D≠I-NonOSE_AE      isorders≠I-NonOSE_AE      
+       Diarrhea≠B-OSE_Labeled_AE     111 (24)         14 (3)           150 (33)         26 (6)            
+       Nausea≠B-OSE_Labeled_AE       69 (15)          4 (1)            66 (15)          3 (1)             
+       Constipation≠B-OSE_Labeled_AE   58 (13)          1 (0)            109 (24)         6 (1)             
+       Vomiting≠B-OSE_Labeled_AE     45 (10)          5 (1)            32 (7)           3 (1)             
+    General≠B-NonOSE_AE      D≠I-NonOSE_AE      isorders≠I-NonOSE_AE   and≠I-NonOSE_AE      A≠I-NonOSE_AE      dministration≠I-NonOSE_AE      S≠I-NonOSE_AE      ite≠I-NonOSE_AE      C≠I-NonOSE_AE      onditions≠I-NonOSE_AE      
+       Fatigue≠B-OSE_Labeled_AE      112 (24)         13 (3)           124 (27)         25 (6)            
+       Pyrexia≠B-OSE_Labeled_AE      102 (22)         9 (2)            52 (11)          3 (1)             
+       Peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE   75 (16)          3 (1)            73 (16)          3 (1)             
+       Asthenia≠B-OSE_Labeled_AE     71 (15)          9 (2)            66 (14)          13 (3)            
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE      I≠I-NonOSE_AE      nfestations≠I-NonOSE_AE      
+       Upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE   66 (14)          4 (1)            54 (12)          3 (1)             
+       Bronchitis≠B-OSE_Labeled_AE   54 (12)          5 (1)            26 (6)           2 (0)             
+       Nasopharyngitis≠B-OSE_Labeled_AE   45 (10)          0 (0)            42 (9)           1 (0)             
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE      C≠I-NonOSE_AE      onnective≠I-NonOSE_AE      T≠I-NonOSE_AE      issue≠I-NonOSE_AE      D≠I-NonOSE_AE      isorders≠I-NonOSE_AE      
+       Muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE   66 (14)          1 (0)            22 (5)           3 (1)             
+       Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE    58 (13)          7 (2)            60 (13)          8 (2)             
+    Nervous≠B-NonOSE_AE      S≠I-NonOSE_AE      ystem≠I-NonOSE_AE      D≠I-NonOSE_AE      isorders≠I-NonOSE_AE      
+       Headache≠B-OSE_Labeled_AE     68 (15)          4 (1)            38 (8)           2 (0)             
+       Peripheral≠B-OSE_Labeled_AE   neuropathies≠I-OSE_Labeled_AE   b    ,c    54 (12)          7 (2)            167 (37)         23 (5)            
+    Psychiatric≠B-NonOSE_AE      D≠I-NonOSE_AE      isorders≠I-NonOSE_AE      
+       Insomnia≠B-OSE_Labeled_AE     103 (22)         5 (1)            113 (25)         10 (2)            
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE      T≠I-NonOSE_AE      horacic≠I-NonOSE_AE   and≠I-NonOSE_AE      M≠I-NonOSE_AE      ediastinal≠I-NonOSE_AE      D≠I-NonOSE_AE      isorders≠I-NonOSE_AE      
+       Dyspnea≠B-OSE_Labeled_AE   d    123 (27)         23 (5)           66 (15)          8 (2)             
+       Cough≠B-OSE_Labeled_AE   e    91 (20)          0 (0)            61 (13)          2 (0)             
+    Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE      
+       Hypertension≠B-OSE_Labeled_AE   f    80 (17)          29 (6)           33 (7)           12 (3)            
+ Kd = Kyprolis and dexamethasone; Vd = bortezomib and dexamethasone  a    Thrombocytopenia≠B-OSE_Labeled_AE  includes  platelet≠B-OSE_Labeled_AE   count≠I-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE  and  thrombocytopenia≠B-OSE_Labeled_AE .  b    Peripheral≠B-OSE_Labeled_AE   neuropathies≠I-OSE_Labeled_AE  include  peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   sensory≠I-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE , and  peripheral≠B-OSE_Labeled_AE   motor≠I-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE .  c  See Clinical Studies (14.2).  d    Dyspnea≠B-OSE_Labeled_AE  includes  dyspnea≠B-OSE_Labeled_AE  and  dyspnea≠B-OSE_Labeled_AE   exertional≠I-OSE_Labeled_AE .  e   Cough≠B-OSE_Labeled_AE  includes  cough≠B-OSE_Labeled_AE  and  productive≠B-OSE_Labeled_AE   cough≠I-OSE_Labeled_AE .  f    Hypertension≠B-OSE_Labeled_AE  includes  hypertension≠B-OSE_Labeled_AE ,  hypertensive≠B-OSE_Labeled_AE   crisis≠I-OSE_Labeled_AE , and  hypertensive≠B-OSE_Labeled_AE   emergency≠I-OSE_Labeled_AE .   
+            The event rate of >= Grade 2  peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  in the Kd arm was 6% (95% CI:  4, 8)  versus  32% (95% CI:  28, 36) in the Vd arm.
+ 
+
+   Adverse Reactions Occurring at a Frequency of <         10%  
+
+ *    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE ,  leukopenia≠B-OSE_Labeled_AE ,  lymphopenia≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE ,  thrombotic≠B-OSE_Labeled_AE   microangiopathy≠I-OSE_Labeled_AE ,  thrombotic≠B-OSE_Labeled_AE   thrombocytopenic≠I-OSE_Labeled_AE   purpura≠I-OSE_Labeled_AE  
+ *    Cardiac≠B-NonOSE_AE   disorders≠I-NonOSE_AE :    atrial≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   arrest≠I-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE   congestive≠I-OSE_Labeled_AE ,  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE ,  myocardial≠B-OSE_Labeled_AE   ischemia≠I-OSE_Labeled_AE ,  palpitations≠B-OSE_Labeled_AE ,  tachycardia≠B-OSE_Labeled_AE  
+ *    Eye≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  cataract≠B-OSE_Labeled_AE ,  vision≠B-OSE_Labeled_AE   blurred≠I-OSE_Labeled_AE  
+ *    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE ,  gastrointestinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  toothache≠B-OSE_Labeled_AE  
+ *    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE :  chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE ,  infusion≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (including  inflammation≠B-OSE_Labeled_AE ,  pain≠B-OSE_Labeled_AE , and  erythema≠B-OSE_Labeled_AE ),  pain≠B-OSE_Labeled_AE  
+ *    Hepatobiliary≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  cholestasis≠B-OSE_Labeled_AE ,  hepatic≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  hyperbilirubinemia≠B-OSE_Labeled_AE  
+ *    Immune≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  drug≠B-OSE_Labeled_AE   hypersensitivity≠I-OSE_Labeled_AE  
+ *    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE :  bronchopneumonia≠B-OSE_Labeled_AE ,  influenza≠B-OSE_Labeled_AE ,  lung≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  pneumonia≠B-OSE_Labeled_AE ,  rhinitis≠B-OSE_Labeled_AE ,  sepsis≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  viral≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  
+ *    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   nutrition≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  dehydration≠B-OSE_Labeled_AE ,  hypercalcemia≠B-OSE_Labeled_AE ,  hyperkalemia≠B-OSE_Labeled_AE ,  hyperuricemia≠B-OSE_Labeled_AE ,  hypoalbuminemia≠B-OSE_Labeled_AE ,  hypocalcemia≠B-OSE_Labeled_AE ,  hypomagnesemia≠B-OSE_Labeled_AE ,  hyponatremia≠B-OSE_Labeled_AE ,  hypophosphatemia≠B-OSE_Labeled_AE ,  tumor≠B-OSE_Labeled_AE   lysis≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  
+ *    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  muscular≠B-OSE_Labeled_AE   weakness≠I-OSE_Labeled_AE ,  musculoskeletal≠B-OSE_Labeled_AE   chest≠I-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  musculoskeletal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  myalgia≠B-OSE_Labeled_AE  
+ *    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  hypoesthesia≠B-OSE_Labeled_AE ,  paresthesia≠B-OSE_Labeled_AE ,  posterior≠B-OSE_Labeled_AE   reversible≠I-OSE_Labeled_AE   encephalopathy≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  
+ *    Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  anxiety≠B-OSE_Labeled_AE  
+ *    Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   urinary≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE   acute≠I-OSE_Labeled_AE ,  renal≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE  
+ *    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  acute≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   distress≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  dysphonia≠B-OSE_Labeled_AE ,  epistaxis≠B-OSE_Labeled_AE ,  interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE ,  oropharyngeal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  pneumonitis≠B-OSE_Labeled_AE   pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   hypertension≠I-OSE_Labeled_AE ,  wheezing≠B-OSE_Labeled_AE  
+ *    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  erythema≠B-OSE_Labeled_AE ,  hyperhidrosis≠B-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE  
+ *    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  deep≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE ,  flushing≠B-OSE_Labeled_AE ,  hypotension≠B-OSE_Labeled_AE  
+      Laboratory Abnormalities  
+ 
+
+ Table 11 describes Grades 3-4  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  reported at a rate of >= 10% in the Kd arm.
+
+ Table 11: Grades 3-4 Laboratory Abnormalities (>= 10%) in Months 1-6 (20/56 mg/m2 Regimen In Combination with Dexamethasone) 
+    Laboratory≠B-NonOSE_AE   Abnormality≠I-NonOSE_AE       Kd    (N         =         463)    n (%)      Vd    (N         =         456)    n (%)     
+  Decreased≠B-OSE_Labeled_AE   lymphocytes≠I-OSE_Labeled_AE   248 (54)         180 (40)          
+  Increase≠B-OSE_Labeled_AE   uric≠I-OSE_Labeled_AE   acid≠I-OSE_Labeled_AE   243 (53)         198 (43)          
+  Decreased≠B-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE   79 (17)          68 (15)           
+  Decreased≠B-OSE_Labeled_AE   platelets≠I-OSE_Labeled_AE   85 (18)          77 (17)           
+  Decreased≠B-OSE_Labeled_AE   phosphorus≠I-OSE_Labeled_AE   73 (16)          61 (13)           
+  Decreased≠B-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE   clearance≠I-OSE_Labeled_AE   a    65 (14)          49 (11)           
+  Increased≠B-OSE_Labeled_AE   potassium≠I-OSE_Labeled_AE   55 (12)          21 (5)            
+ Kd = Kyprolis and dexamethasone; Vd = bortezomib and dexamethasone  a  Calculated using the Cockcroft-Gault formula.   
+           Safety Experience with Kyprolis in Patients with Multiple Myeloma who Received Monotherapy  
+ 
+
+ The safety of Kyprolis, dosed at 20/27 mg/m  2  by up to 10-minute infusion, was evaluated in clinical trials in which 598 patients with relapsed and/or refractory  myeloma≠B-Not_AE_Candidate  received Kyprolis monotherapy starting with the 20 mg/m  2  dose in Cycle 1, Day 1 and escalating to 27 mg/m  2  on Cycle 1, Day 8 or Cycle 2, Day 1. Premedication with dexamethasone 4 mg was required before each dose in Cycle 1 and was optional for subsequent cycles. The median age was 64 years (range 32-87), and approximately 57% were male. The patients received a median of 5 (range 1-20) prior regimens. The median number of cycles initiated was 4 (range 1-35).
+
+ Serious adverse reactions, regardless of causality, were reported in 50% of patients in the pooled Kyprolis monotherapy studies (N = 598).  The most common serious adverse reactions were:  pneumonia≠B-OSE_Labeled_AE  (8%),  acute≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  (5%),  disease≠B-OSE_Labeled_AE   progression≠I-OSE_Labeled_AE  (4%),  pyrexia≠B-OSE_Labeled_AE  (3%),  hypercalcemia≠B-OSE_Labeled_AE  (3%),  congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  (3%),  multiple≠B-OSE_Labeled_AE   myeloma≠I-OSE_Labeled_AE  (3%),  anemia≠B-OSE_Labeled_AE  (2%), and  dyspnea≠B-OSE_Labeled_AE  (2%). In patients treated with Kyprolis, the incidence of serious adverse reactions was higher in those >= 65 years old and those >= 75 years old  [see Geriatric Use         (      8.5      )]  .
+
+  Deaths≠B-NonOSE_AE  due to adverse reactions within 30 days of the last dose of Kyprolis occurred in 30/598 (5%) patients receiving Kyprolis monotherapy. These adverse reactions were related to  cardiac≠B-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE  in 10 (2%) patients,  infections≠B-OSE_Labeled_AE  in 8 (1%) patients,  renal≠B-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE  in 4 (< 1%) patients, and other adverse reactions in 8 (1%) patients.  In a randomized trial comparing Kyprolis as a single agent  versus  corticosteroids with optional oral cyclophosphamide for patients with relapsed and refractory  multiple≠B-Not_AE_Candidate   myeloma≠I-Not_AE_Candidate ,  mortality≠B-NonOSE_AE  was higher in the patients treated with Kyprolis in comparison to the control arm in the subgroup of 48 patients >= 75 years of age. The most common cause of discontinuation due to an adverse reaction was  acute≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  (2%).
+
+ Safety of Kyprolis monotherapy dosed at 20/56 mg/m  2  by 30-minute infusion was evaluated in a multicenter, open-label study in patients with relapsed and/or refractory  multiple≠B-Not_AE_Candidate   myeloma≠I-Not_AE_Candidate .  The study treatment is described in Section 14.3. The patients received a median of 4 (range 1-10) prior regimens.
+
+ The common adverse reactions occurring at a rate of 20% or greater with Kyprolis monotherapy are presented in Table 12.
+
+ Table 12: Most Common Adverse Reactions (>= 20%) with Kyprolis Monotherapy  
+                    20/56         mg/m      2      by 30  -  minute infusion    (N         =         24)      20/27         mg/m      2      by    2  -  to 10  -  minute infusion    (N         =         598)     
+   Adverse Reaction      Any Grade    n (%)      Grades         3         -         5    n (%)      Any Grade    n (%)      Grades         3         -         5    n (%)     
+  Fatigue≠B-OSE_Labeled_AE           14 (58)          2 (8)            238 (40)         25 (4)            
+  Dyspnea≠B-OSE_Labeled_AE   a       14 (58)          2 (8)            202 (34)         21 (4)            
+  Pyrexia≠B-OSE_Labeled_AE           14 (58)          0                177 (30)         11 (2)            
+  Thrombocytopenia≠B-OSE_Labeled_AE   13 (54)          13 (54)          220 (37)         152 (25)          
+  Nausea≠B-OSE_Labeled_AE            13 (54)          0                211 (35)         7 (1)             
+  Anemia≠B-OSE_Labeled_AE            10 (42)          7 (29)           291 (49)         141 (24)          
+  Hypertension≠B-OSE_Labeled_AE   b    10 (42)          3 (13)           90 (15)          22 (4)            
+  Chills≠B-OSE_Labeled_AE            9 (38)           0                73 (12)          1 (< 1)           
+  Headache≠B-OSE_Labeled_AE          8 (33)           0                141 (24)         7 (1)             
+  Cough≠B-OSE_Labeled_AE   c         8 (33)           0                134 (22)         2 (< 1)           
+  Vomiting≠B-OSE_Labeled_AE          8 (33)           0                104 (17)         4 (1)             
+  Lymphopenia≠B-OSE_Labeled_AE       8 (33)           8 (33)           85 (14)          73 (12)           
+  Insomnia≠B-OSE_Labeled_AE          7 (29)           0                75 (13)          0                 
+  Dizziness≠B-OSE_Labeled_AE         7 (29)           0                64 (11)          5 (1)             
+  Diarrhea≠B-OSE_Labeled_AE          6 (25)           1 (4)            160 (27)         8 (1)             
+  Blood≠B-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   6 (25)           1 (4)            103 (17)         15 (3)            
+  Peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE   5 (21)           0                118 (20)         1 (< 1)           
+  Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE         5 (21)           1 (4)            115 (19)         19 (3)            
+  Upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE   5 (21)           1 (4)            112 (19)         15 (3)            
+  Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE   5 (21)           0                89 (15)          2 (< 1)           
+  Muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE     5 (21)           0                62 (10)          2 (< 1)           
+  Chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE        5 (21)           0                20 (3)           1 (< 1)           
+   a   Dyspnea≠B-OSE_Labeled_AE  includes preferred terms of  dyspnea≠B-OSE_Labeled_AE  and  dyspnea≠B-OSE_Labeled_AE   exertional≠I-OSE_Labeled_AE .  b   Hypertension≠B-OSE_Labeled_AE  includes  hypertension≠B-OSE_Labeled_AE ,  hypertensive≠B-OSE_Labeled_AE   crisis≠I-OSE_Labeled_AE , and  hypertensive≠B-OSE_Labeled_AE   emergency≠I-OSE_Labeled_AE .  c   Cough≠B-OSE_Labeled_AE  includes  cough≠B-OSE_Labeled_AE  and  productive≠B-OSE_Labeled_AE   cough≠I-OSE_Labeled_AE .   
+             Adverse Reactions Occurring at a Frequency of <     20    %  
+ 
+
+ *    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE ,  leukopenia≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE  
+ *    Cardiac≠B-NonOSE_AE   disorders≠I-NonOSE_AE :    cardiac≠B-OSE_Labeled_AE   arrest≠I-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE   congestive≠I-OSE_Labeled_AE ,  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE ,  myocardial≠B-OSE_Labeled_AE   ischemia≠I-OSE_Labeled_AE  
+ *    Eye≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  cataract≠B-OSE_Labeled_AE ,  blurred≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE  
+ *    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE ,  gastrointestinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  toothache≠B-OSE_Labeled_AE  
+ *    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE :    asthenia≠B-OSE_Labeled_AE ,  infusion≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  multi≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  organ≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  pain≠B-OSE_Labeled_AE  
+ *    Hepatobiliary≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  hepatic≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  
+ *    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE :  bronchitis≠B-OSE_Labeled_AE ,  bronchopneumonia≠B-OSE_Labeled_AE ,  influenza≠B-OSE_Labeled_AE ,  lung≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  pneumonia≠B-OSE_Labeled_AE ,  nasopharyngitis≠B-OSE_Labeled_AE ,  respiratory≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  rhinitis≠B-OSE_Labeled_AE ,  sepsis≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  
+ *    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   nutrition≠I-NonOSE_AE   disorders≠I-NonOSE_AE :    hypercalcemia≠B-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  hyperkalemia≠B-OSE_Labeled_AE ,  hyperuricemia≠B-OSE_Labeled_AE ,  hypoalbuminemia≠B-OSE_Labeled_AE ,  hypocalcemia≠B-OSE_Labeled_AE ,  hypokalemia≠B-OSE_Labeled_AE ,  hypomagnesemia≠B-OSE_Labeled_AE ,  hyponatremia≠B-OSE_Labeled_AE ,  hypophosphatemia≠B-OSE_Labeled_AE ,  tumor≠B-OSE_Labeled_AE   lysis≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  
+ *    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :    arthralgia≠B-OSE_Labeled_AE ,  musculoskeletal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  musculoskeletal≠B-OSE_Labeled_AE   chest≠I-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  myalgia≠B-OSE_Labeled_AE ,  pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE  
+ *    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  hypoesthesia≠B-OSE_Labeled_AE ,  intracranial≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  paresthesia≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   motor≠I-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   sensory≠I-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  
+ *    Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE   :  anxiety≠B-OSE_Labeled_AE  
+ *    Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   urinary≠I-NonOSE_AE   disorders≠I-NonOSE_AE :    acute≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  renal≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE  
+ *    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  dysphonia≠B-OSE_Labeled_AE ,  epistaxis≠B-OSE_Labeled_AE ,  oropharyngeal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  
+ *    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  erythema≠B-OSE_Labeled_AE ,  hyperhidrosis≠B-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE  
+ *    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  embolic≠B-OSE_Labeled_AE  and thrombotic  events≠I-OSE_Labeled_AE ,  venous≠I-OSE_Labeled_AE  (including  deep≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE  and  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE ),  hemorrhage≠B-OSE_Labeled_AE ,  hypotension≠B-OSE_Labeled_AE  
+    Grade 3 and higher adverse reactions occurring at an incidence of > 1% include  febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   arrest≠I-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE   congestive≠I-OSE_Labeled_AE ,  pain≠B-OSE_Labeled_AE ,  sepsis≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  hyperkalemia≠B-OSE_Labeled_AE ,  hyperuricemia≠B-OSE_Labeled_AE ,  hypoalbuminemia≠B-OSE_Labeled_AE ,  hypocalcemia≠B-OSE_Labeled_AE ,  hyponatremia≠B-OSE_Labeled_AE ,  hypophosphatemia≠B-OSE_Labeled_AE ,  renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE   acute≠I-OSE_Labeled_AE ,  renal≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE , and  hypotension≠B-OSE_Labeled_AE .
+ 
+
+   Laboratory Abnormalities  
+
+ Table 13 describes Grade 3-4 laboratory abnormalities reported at a rate of > 10% for patients who received Kyprolis monotherapy.
+
+ Table 13: Grade 3-4 Laboratory Abnormalities (> 10%) with Kyprolis Monotherapy 
+    Laboratory≠B-NonOSE_AE   Abnormality≠I-NonOSE_AE       Kyprolis    20/56 mg/m      2      (N = 24)      Kyprolis    20/27 mg/m      2      (N = 598)     
+  Decreased≠B-OSE_Labeled_AE   lymphocytes≠I-OSE_Labeled_AE   15 (63)          151 (25)          
+  Decreased≠B-OSE_Labeled_AE   platelets≠I-OSE_Labeled_AE   11 (46)          184 (31)          
+  Decreased≠B-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE   7 (29)           132 (22)          
+  Decreased≠B-OSE_Labeled_AE   total≠I-OSE_Labeled_AE   white≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE   3 (13)           71 (12)           
+  Decreased≠B-OSE_Labeled_AE   sodium≠I-OSE_Labeled_AE   2 (8)            69 (12)           
+  Decreased≠B-OSE_Labeled_AE   absolute≠I-OSE_Labeled_AE   neutrophil≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE   2 (8)            67 (11)           
+           6.2       Postmarketing Experience
+   The following additional adverse reactions were reported in the postmarketing experience with Kyprolis. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:  hemolytic≠B-OSE_Labeled_AE   uremic≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  HUS≠I-OSE_Labeled_AE ),  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE ,  pericarditis≠B-OSE_Labeled_AE .
+

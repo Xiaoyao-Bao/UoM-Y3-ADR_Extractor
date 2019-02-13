@@ -1,0 +1,30 @@
+   WARNINGS
+
+  Concomitant use of benzodiazepiones, including Valium, and opioids may result in profound  sedation≠B-NonOSE_AE ,  respiratory≠B-NonOSE_AE   depression≠I-NonOSE_AE ,  coma≠B-NonOSE_AE , and  death≠B-NonOSE_AE . Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
+ Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related  mortality≠B-NonOSE_AE  compared to use of opioids alone. If a decision is made to prescribe Valium concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of  respiratory≠B-NonOSE_AE   depression≠I-NonOSE_AE  and  sedation≠B-NonOSE_AE . In patients already receiving an opioid analgesic, prescribe a lower initial dose of Valium than indicated in the absence of an opioid and titrate based on clinical response. If an opioid is initiated in a patient already taking Valium, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
+
+ Advise both patients and caregivers about the risks of  respiratory≠B-NonOSE_AE   depression≠I-NonOSE_AE  and  sedation≠B-NonOSE_AE  when Valium is used with opioids. Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see   Drug Interactions    ).
+
+ Valium is not recommended in the treatment of  psychotic≠B-Not_AE_Candidate  patients and should not be employed instead of appropriate treatment.
+
+ Since Valium has a  central≠B-OSE_Labeled_AE   nervous≠I-OSE_Labeled_AE   system≠I-OSE_Labeled_AE   depressant≠I-OSE_Labeled_AE   effect≠I-OSE_Labeled_AE , patients should be advised against the simultaneous ingestion of alcohol and other CNS-depressant drugs during Valium therapy.
+
+ As with other agents that have anticonvulsant activity, when Valium is used as an adjunct in treating  convulsive≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate , the possibility of an increase in the frequency and/or severity of  grand≠B-Not_AE_Candidate   mal≠I-Not_AE_Candidate   seizures≠I-Not_AE_Candidate  may require an increase in the dosage of standard anticonvulsant medication. Abrupt withdrawal of Valium in such cases may also be associated with a temporary increase in the frequency and/or severity of  seizures≠B-NonOSE_AE .
+
+    Pregnancy
+
+  An increased risk of  congenital≠B-OSE_Labeled_AE   malformation≠I-OSE_Labeled_AE s and other  developmental≠B-OSE_Labeled_AE   abnormalities≠I-OSE_Labeled_AE  associated with the use of benzodiazepine drugs during  pregnancy≠B-Not_AE_Candidate  has been suggested. There may also be  non≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  teratogenic≠I-OSE_Labeled_AE   risks≠I-OSE_Labeled_AE  associated with the use of benzodiazepines during  pregnancy≠B-Not_AE_Candidate . There have been reports of  neonatal≠B-OSE_Labeled_AE   flaccidity≠I-OSE_Labeled_AE , respiratory and feeding difficulties, and hypothermia in children born to mothers who have been receiving benzodiazepines late in  pregnancy≠B-Not_AE_Candidate . In addition, children born to mothers receiving benzodiazepines on a regular basis late in  pregnancy≠B-Not_AE_Candidate  may be at some risk of experiencing  withdrawal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  during the  postnatal≠I-OSE_Labeled_AE  period.
+
+ Diazepam has been shown to be  teratogenic≠B-NonOSE_AE  in mice and hamsters when given orally at daily doses of 100 mg/kg or greater (approximately eight times the maximum recommended human dose [MRHD=1 mg/kg/day] or greater on a mg/m  2  basis).  Cleft≠B-NonOSE_AE   palate≠I-NonOSE_AE  and  encephalopathy≠B-NonOSE_AE  are the most common and consistently reported  malformations≠B-NonOSE_AE  produced in these species by administration of high, maternally toxic doses of diazepam during organogenesis. Rodent studies have indicated that prenatal exposure to diazepam doses similar to those used clinically can produce long-term  changes≠B-NonOSE_AE   in≠I-NonOSE_AE   cellular≠I-NonOSE_AE   immune≠I-NonOSE_AE   responses≠I-NonOSE_AE , brain neurochemistry, and behavior.
+
+ In general, the use of diazepam in women of childbearing potential, and more specifically during known  pregnancy≠B-Not_AE_Candidate , should be considered only when the clinical situation warrants the  risk≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   fetus≠I-OSE_Labeled_AE . The possibility that a woman of childbearing potential may be  pregnant≠B-NonOSE_AE  at the time of institution of therapy should be considered. If this drug is used during  pregnancy≠B-Not_AE_Candidate , or if the patient becomes  pregnant≠B-NonOSE_AE  while taking this drug, the patient should be apprised of the potential  hazard≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   fetus≠I-OSE_Labeled_AE . Patients should also be advised that if they become  pregnant≠B-NonOSE_AE  during therapy or intend to become  pregnant≠B-NonOSE_AE  they should communicate with their physician about the desirability of discontinuing the drug.
+
+    Labor and Delivery
+
+  Special care must be taken when Valium is used during labor and delivery, as high single doses may produce  irregularities≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   fetal≠I-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  and  hypotonia≠B-OSE_Labeled_AE , poor sucking, hypothermia, and moderate respiratory depression in the  neonates≠I-OSE_Labeled_AE . With newborn infants it must be remembered that the enzyme system involved in the breakdown of the drug is not yet fully developed (especially in  premature≠B-Not_AE_Candidate   infants≠I-Not_AE_Candidate ).
+
+    Nursing Mothers
+
+  Diazepam passes into breast milk. Breastfeeding is therefore not recommended in patients receiving Valium.
+

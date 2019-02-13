@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="TOPOTECAN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+    The following serious adverse reactions are described below and elsewhere in the labeling:  
+
+
+
+ *    Bone Marrow Suppression [ see  Warnings and Precautions (5.1)   ] 
+ *    Neutropenic Enterocolitis [ see  Warnings and Precautions (5.2)   ] 
+ *    Interstitial Lung Disease [ see  Warnings and Precautions (5.3)   ] 
+ *    Extravasation and Tissue Injury [ see  Warnings and Precautions (5.5)   ] 
+      EXCERPT:   Small cell lung cancer:
+ 
+
+ *    The most common hematologic adverse reactions were: neutropenia (Grade 4: 70%), anemia (Grade 3/4: 42%), thrombocytopenia (Grade 4: 29%), and febrile neutropenia (28%). (  6.1  ) 
+ *    The most common (&gt;5%) non-hematologic adverse reactions (all grades) were: asthenia, dyspnea, nausea, pneumonia, abdominal pain, and fatigue. (  6.1  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Hospira, Inc. at 1-800-441-4100 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+     Small Cell Lung Cancer    
+
+
+
+   Table 1  shows the Grade 3/4 hematologic and major non-hematologic adverse reactions in the Topotecan/CAV (cyclophosphamide-doxorubicin-vincristine) comparator trial in small cell lung cancer.
+
+
+
+ Table 1. Adverse Reactions Experienced by &gt;=5% of Small Cell Lung Cancer Patients Randomized to Receive Topotecan or CAV 
+   a      Death related to sepsis occurred in 3% of patients receiving Topotecan and 1% of patients receiving CAV.  b      Pain includes body pain, skeletal pain, and back pain.   
+  
+  Adverse Reaction                                    Topotecan  (n = 107)       CAV  (n = 104)             
+  Hematologic Grade 3/4                               %                          %                          
+  Grade 4 neutropenia     (&lt;500 cells/mm3)               70                         72                      
+  Grade 3/4 anemia     (Hgb &lt;8 g/dL)                     42                         20                      
+  Grade 4 thrombocytopenia     (&lt;25,000 plts/mm3)        29                         5                       
+  Febrile neutropenia                                 28                         26                         
+  Non-hematologic Grade 3/4                           %                          %                          
+  Infections and infestations     Sepsisa                5                          5                       
+  Respiratory, thoracic, and mediastinaldisorders     Dyspnea     Pneumonia          9  8                       14  6                
+  Gastrointestinal disorders     Abdominal pain     Nausea       6  8                       4  6                    
+  General disorders and administrative siteconditions     Fatigue     Asthenia     Painb          6  9  5                    10  7  7             
+           Hepatobiliary Disorders in Small Cell Lung Cancer Patients Receiving Topotecan:  Based on 426 patients with small cell lung cancer treated with topotecan, Grade 1 transient elevations in hepatic enzymes occurred in 8% of patients. Grade 3/4 elevations occurred in 4%. Grade 3/4 elevated bilirubin occurred in less than 2% of patients.
+ 
+
+   6.2 Postmarketing Experience
+
+  The following reactions have been identified during postmarketing use of topotecan. Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made. These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to topotecan.
+
+
+
+     Blood and Lymphatic System Disorders    
+
+
+
+ Severe bleeding (in association with thrombocytopenia) [    see    Warnings and Precautions (5.1)    ].
+
+
+
+     Immune System Disorders    
+
+
+
+ Allergic manifestations, anaphylactoid reactions.
+
+
+
+     Gastrointestinal Disorders    
+
+
+
+ Abdominal pain potentially associated with neutropenic enterocolitis [    see    Warnings and Precautions (5.2)    ]    .    
+
+
+
+     Pulmonary Disorders    
+
+
+
+ Interstitial lung disease [    see    Warnings and Precautions (5.3)    ]    .    
+
+
+
+     Skin and Subcutaneous Tissue Disorders    
+
+
+
+ Angioedema, severe dermatitis, severe pruritus.
+
+
+
+     General Disorders and Administration Site Conditions    
+
+
+
+ Extravasation [    see    Warnings and Precautions (5.5)    ].
+</Section>
+    <Section id="S2" name="boxed warnings">
+
+    BOXED WARNING: WARNING: BONE MARROW SUPPRESSION
+
+  WARNING: BONE MARROW SUPPRESSION
+
+    Topotecan injection can cause severe myelosuppression. Administer only to patients with baseline neutrophil counts of greater than or equal to 1,500 cells/mm  3   and platelet counts greater than or equal to 100,000 cells/mm  3  . Monitor blood cell counts   [  see         Warnings and Precautions (5.1)      ].    
+
+
+
+   EXCERPT:     WARNING: BONE MARROW SUPPRESSION   
+
+
+
+       See full prescribing information for complete boxed warning.      
+
+
+
+     Topotecan injection can cause severe myelosuppression. Administer only to patients with baseline neutrophil counts greater than or equal to 1,500 cells/mm  3   and platelet count greater than or equal to 100,000/mm  3  . Monitor blood cell counts. (    5.1    )     
+
+
+
+ 
+</Section>
+    <Section id="S3" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Bone marrow suppression: Administer topotecan injection only to patients with adequate bone marrow reserves. Monitor peripheral blood counts and adjust the dose as needed. (  2.2  ,  5.1  ) 
+ *    Neutropenic enterocolitis: Fatal typhlitis can occur. (  5.2  ) 
+ *    Interstitial lung disease (ILD): Fatal cases have occurred. Permanently discontinue for confirmed ILD. (  5.3  ) 
+ *    Embryofetal toxicity: Can cause fetal harm. Advise women of potential risk to the fetus. (  5.4  ,  8.1  ,  8.3  ) 
+ *    Extravasation and tissue injury: Severe cases have been reported. If extravasation occurs, immediately stop administration and institute recommended management procedures. (  5.5  ) 
+    
+ 
+
+   5.1 Bone Marrow Suppression
+
+
+
+  Bone marrow suppression (primarily neutropenia) is the dose-limiting toxicity of topotecan. Neutropenia is not cumulative over time. Severe myelotoxicity has been reported when topotecan is used in combination with cisplatin [ see  Drug Interactions (7)    ].
+
+
+
+ *    The following data on myelosuppression are based on an integrated safety database from 8 trials (N = 879) using topotecan at 1.5 mg/m  2  by intravenous infusion over 30 minutes daily for 5 consecutive days, starting on Day 1 of a 21-day course in patients with ovarian cancer and small cell lung cancer and from one trial in patients with cervical cancer (N = 147) using topotecan 0.75 mg/m  2  by intravenous infusion over 30 minutes daily on Days 1, 2, and 3 repeated every 21 days in combination with cisplatin 50 mg/m  2  on Day 1. 
+      Neutropenia    
+ 
+
+ *    Monotherapy: Grade 4 neutropenia (less than 500 cells/mm  3  ) occurred in 78% of patients, with a median duration of 7 days and was most common during Course 1 of treatment (58% of patients). Grade 4 neutropenia associated with infection occurred in 13% of patients and febrile neutropenia occurred in 5% of patients. Sepsis occurred in 4% of patients and was fatal in 1% of patients. Pancytopenia has been reported. 
+ *    Combination with cisplatin: Grade 4 neutropenia occurred in 48% of patients. 
+      Thrombocytopenia    
+ 
+
+ *    Monotherapy: Grade 4 thrombocytopenia (less than 25,000/mm  3  ) occurred in 27% of patients, with a median duration of 5 days. 
+ *    Combination with cisplatin: Grade 4 thrombocytopenia occurred in 7% of patients. 
+      Anemia    
+ 
+
+ *    Monotherapy: Grade 3 or 4 anemia (less than 8 g/dL) occurred in 37% of patients. 
+ *    Combination with cisplatin: Grade 3 or Grade 4 anemia occurred in 40% of patients. 
+    Administer Topotecan injection only to patients with a baseline neutrophil count of greater than or equal to 1,500 cells/mm  3  and a platelet count greater than or equal to 100,000/mm  3  . Monitor peripheral blood counts frequently during treatment with Topotecan injection. Refer to Section 2.4 for dose modification guidelines for hematological toxicities in subsequent courses. Do not treat patients with subsequent courses of Topotecan injection until neutrophils recover to greater than 1,000 cells/mm  3  , platelets recover to greater than 100,000 cells/mm  3  , and hemoglobin levels recover to 9.0 g/dL (with transfusion if necessary).
+ 
+
+    5.2 Neutropenic Enterocolitis
+
+
+
+  Topotecan can cause fatal typhlitis (neutropenic enterocolitis). Consider the possibility of typhlitis in patients presenting with fever, neutropenia, and abdominal pain.
+
+
+
+    5.3 Interstitial Lung Disease
+
+
+
+  Interstitial lung disease (ILD), including fatalities, has occurred with Topotecan. Underlying risk factors include history of ILD, pulmonary fibrosis, lung cancer, thoracic radiation, and use of pneumotoxic drugs and/or colony stimulating factors. Monitor patients for pulmonary symptoms indicative of ILD (e.g., cough, fever, dyspnea, and/or hypoxia), and discontinue Topotecan injection if a new diagnosis of ILD is confirmed.
+
+
+
+    5.4 Embryofetal Toxicity
+
+
+
+  Based on animal data, Topotecan injection can cause fetal harm when administered to a pregnant woman.
+
+
+
+ Topotecan caused embryolethality, fetotoxicity, and teratogenicity in rats and rabbits when administered during organogenesis. Advise females of reproductive potential to use effective contraception during treatment and for at least 1 month after the last dose of Topotecan. Advise women of the potential risk to a fetus [  see  Use in Specific Populations (  8.1  ,  8.3  )  ].
+
+
+
+    5.5 Extravasation and Tissue Injury
+
+
+
+  Extravasation with topotecan has been observed; severe cases have been reported. If signs or symptoms of extravasation occur, immediately stop administration of Topotecan and institute recommended management procedures [ see  Adverse Reactions (6)    ].
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="715" name="excerpt" section="S3" start="36" />
+    <IgnoredRegion len="32" name="heading" section="S2" start="57" />
+    <IgnoredRegion len="406" name="excerpt" section="S2" start="417" />
+    <IgnoredRegion len="525" name="excerpt" section="S1" start="434" />
+    <IgnoredRegion len="27" name="heading" section="S3" start="758" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="963" />
+    <IgnoredRegion len="29" name="heading" section="S3" start="3241" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="3429" />
+    <IgnoredRegion len="29" name="heading" section="S3" start="3454" />
+    <IgnoredRegion len="24" name="heading" section="S3" start="3926" />
+    <IgnoredRegion len="35" name="heading" section="S3" start="4448" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

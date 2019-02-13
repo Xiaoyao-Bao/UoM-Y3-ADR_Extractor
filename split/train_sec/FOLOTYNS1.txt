@@ -1,0 +1,114 @@
+    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *   Bone≠B-OSE_Labeled_AE   Marrow≠I-OSE_Labeled_AE   Suppression≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.1  )]  
+ *   Mucositis≠B-OSE_Labeled_AE  [see Warnings and Precautions (  5.2  )]  
+ *   Dermatologic≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.3  )]  
+ *   Tumor≠B-OSE_Labeled_AE   Lysis≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.4  )]  
+ *   Hepatic≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.5  )]  
+    The most common adverse reactions observed in patients with  peripheral≠B-Not_AE_Candidate   T≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  cell≠I-Not_AE_Candidate   lymphoma≠I-Not_AE_Candidate  (PTCL) treated with FOLOTYN were  mucositis≠B-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE , and  fatigue≠B-OSE_Labeled_AE .
+ 
+
+   EXCERPT:   Most common adverse reactions (>35%) are mucositis, thrombocytopenia, nausea, and fatigue. Most common serious adverse reactions are pyrexia, mucositis, sepsis, febrile neutropenia, dehydration, dyspnea, and thrombocytopenia. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Allos Therapeutics, Inc at 1-888-ALLOS88 (1-888-255-6788) or    www.FOLOTYN.com    or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety of FOLOTYN was evaluated in 111  PTCL≠B-Not_AE_Candidate  patients in a single-arm clinical study in which patients received a starting dose of 30 mg/m  2  once weekly for 6 weeks in 7-week cycles. The median duration of treatment was 70 days (range 1-540 days).
+
+
+
+     Most Frequent Adverse Reactions  
+
+
+
+   Table 4  summarizes the most frequent adverse reactions, regardless of causality, using the National Cancer Institute-Common Terminology Criteria for Adverse Events (NCI CTCAE, version 3.0).
+
+
+
+ Table 4 Adverse Reactions Occurring in PTCL Patients (Incidence >= 10% of patients) 
+                                                                N=111     
+   Total                                                        Grade 3      Grade 4     
+   Preferred Term                                               N       %       N       %       N       %      
+  
+  a Stomatitis≠B-OSE_Labeled_AE  or  mucosal≠B-OSE_Labeled_AE   inflammation≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE  the  gastrointestinal≠I-OSE_Labeled_AE  and genitourinary  tracts≠I-OSE_Labeled_AE .    
+  bFive patients with  platelets≠B-OSE_Labeled_AE   <≠I-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  ,≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  mcL≠I-OSE_Labeled_AE                    
+  c Alanine≠B-OSE_Labeled_AE   aminotransferase≠I-OSE_Labeled_AE , aspartate aminotransferase, and transaminases  increased≠I-OSE_Labeled_AE     
+  
+ Any Adverse Event                                            111     100     48      43      34      31       
+         Mucositis≠B-OSE_Labeled_AE   a                                          78      70      19      17      4       4        
+         Thrombocytopenia≠B-OSE_Labeled_AE   b                                   45      41      15      14      21      19  b     
+         Nausea≠B-OSE_Labeled_AE                                                 44      40      4       4       0       0        
+         Fatigue≠B-OSE_Labeled_AE                                                40      36      5       5       2       2        
+         Anemia≠B-OSE_Labeled_AE                                                 38      34      17      15      2       2        
+         Constipation≠B-OSE_Labeled_AE                                           37      33      0       0       0       0        
+         Pyrexia≠B-OSE_Labeled_AE                                                36      32      1       1       1       1        
+         Edema≠B-OSE_Labeled_AE                                                  33      30      1       1       0       0        
+         Cough≠B-OSE_Labeled_AE                                                  31      28      1       1       0       0        
+         Epistaxis≠B-OSE_Labeled_AE                                              29      26      0       0       0       0        
+         Vomiting≠B-OSE_Labeled_AE                                               28      25      2       2       0       0        
+         Neutropenia≠B-OSE_Labeled_AE                                            27      24      14      13      8       7        
+         Diarrhea≠B-OSE_Labeled_AE                                               23      21      2       2       0       0        
+         Dyspnea≠B-OSE_Labeled_AE                                                21      19      8       7       0       0        
+         Anorexia≠B-OSE_Labeled_AE                                               17      15      3       3       0       0        
+         Hypokalemia≠B-OSE_Labeled_AE                                            17      15      4       4       1       1        
+         Rash≠B-OSE_Labeled_AE                                                   17      15      0       0       0       0        
+         Pruritus≠B-OSE_Labeled_AE                                               16      14      2       2       0       0        
+         Pharyngolaryngeal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                 15      14      1       1       0       0        
+         Liver≠B-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   test≠I-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE   c                       14      13      6       5       0       0        
+         Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                         13      12      4       4       0       0        
+         Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE                                      13      12      0       0       0       0        
+         Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                              12      11      3       3       0       0        
+         Leukopenia≠B-OSE_Labeled_AE                                             12      11      3       3       4       4        
+         Night≠B-OSE_Labeled_AE   sweats≠I-OSE_Labeled_AE                                           12      11      0       0       0       0        
+         Asthenia≠B-OSE_Labeled_AE                                               11      10      1       1       0       0        
+         Tachycardia≠B-OSE_Labeled_AE                                            11      10      0       0       0       0        
+         Upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE                      11      10      1       1       0       0        
+                 Serious Adverse Events  
+ 
+
+ Forty-four percent of patients (n = 49) experienced a serious adverse event while on study or within 30 days after their last dose of FOLOTYN. The most common serious adverse events (> 3%), regardless of causality, were  pyrexia≠B-OSE_Labeled_AE ,  mucositis≠B-OSE_Labeled_AE ,  sepsis≠B-OSE_Labeled_AE ,  febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE ,  dehydration≠B-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE , and  thrombocytopenia≠B-OSE_Labeled_AE . One  death≠B-NonOSE_AE  from  cardiopulmonary≠B-NonOSE_AE   arrest≠I-NonOSE_AE  in a patient with  mucositis≠B-NonOSE_AE  and  febrile≠B-NonOSE_AE   neutropenia≠I-NonOSE_AE  was reported in this trial.  Deaths≠B-NonOSE_AE  from  mucositis≠B-NonOSE_AE ,  febrile≠B-NonOSE_AE   neutropenia≠I-NonOSE_AE ,  sepsis≠B-NonOSE_AE , and  pancytopenia≠B-NonOSE_AE  occurred in 1.2% of patients treated on all FOLOTYN trials at doses ranging from 30 to 325 mg/m  2  .
+
+
+
+     Discontinuations  
+
+
+
+ Twenty-three percent of patients (n = 25) discontinued treatment with FOLOTYN due to adverse reactions. The adverse reactions reported most frequently as the reason for discontinuation of treatment were  mucositis≠B-OSE_Labeled_AE  (6%, n = 7) and  thrombocytopenia≠B-OSE_Labeled_AE  (5%, n = 5).
+
+
+
+     Dose Modifications  
+
+
+
+ The target dose of FOLOTYN was 30 mg/m  2  once weekly for 6 weeks in 7-week cycles. The majority of patients (69%, n = 77) remained at the target dose for the duration of treatment. Overall, 85% of scheduled doses were administered.
+
+
+
+   6.2 Post Marketing Experience
+
+  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+     Dermatologic Reactions  
+
+
+
+  Toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE , sometimes  fatal≠B-NonOSE_AE , has been reported during post-marketing use of FOLOTYN.  Fatal≠B-NonOSE_AE  cases have been reported following the first dose of FOLOTYN, including when a reduced dose is given, and have been reported in patients with  end≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  stage≠I-Not_AE_Candidate   renal≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  undergoing dialysis [  see Warnings and Precautions (  5.3  ), Use in Specific Populations (  8.7  ), and Clinical Pharmacology (  12.3  )  ].

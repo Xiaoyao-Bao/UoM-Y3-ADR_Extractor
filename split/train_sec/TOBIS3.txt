@@ -1,0 +1,24 @@
+    WARNINGS  
+
+  Caution should be exercised when prescribing TOBI to patients with known or suspected  renal≠B-Not_AE_Candidate , auditory, vestibular, or neuromuscular  dysfunction≠I-Not_AE_Candidate . Patients receiving concomitant parenteral aminoglycoside therapy should be monitored as clinically appropriate.
+
+ Aminoglycosides can cause  fetal≠B-OSE_Labeled_AE   harm≠I-OSE_Labeled_AE  when administered to a  pregnant≠B-Not_AE_Candidate  woman. Aminoglycosides cross the placenta, and streptomycin has been associated with several reports of total, irreversible, bilateral  congenital≠B-OSE_Labeled_AE   deafness≠I-OSE_Labeled_AE  in pediatric  patients≠B-OSE_Labeled_AE   exposed≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   utero≠I-OSE_Labeled_AE . Patients who use TOBI during  pregnancy≠B-NonOSE_AE , or become  pregnant≠B-NonOSE_AE  while taking TOBI should be apprised of the potential  hazard≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   fetus≠I-OSE_Labeled_AE .
+
+     Ototoxicity  
+
+   Ototoxicity≠B-NonOSE_AE , as measured by complaints of  hearing≠B-NonOSE_AE   loss≠I-NonOSE_AE  or by audiometric evaluations, did not occur with TOBI therapy during clinical studies. However, transient  tinnitus≠B-OSE_Labeled_AE  occurred in eight TOBI-treated patients versus no placebo patients in the clinical studies.  Tinnitus≠B-NonOSE_AE  may be a sentinel symptom of  ototoxicity≠B-NonOSE_AE , and therefore the onset of this symptom warrants caution (see ADVERSE REACTIONS).  Ototoxicity≠B-OSE_Labeled_AE , manifested as both  auditory≠B-OSE_Labeled_AE  and vestibular  toxicity≠I-OSE_Labeled_AE , has been reported with parenteral aminoglycosides.  Vestibular≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  may be manifested by  vertigo≠B-NonOSE_AE ,  ataxia≠B-NonOSE_AE  or  dizziness≠B-NonOSE_AE .
+
+  In postmarketing experience, patients receiving TOBI have reported  hearing≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE .  Some of these reports occurred in patients with previous or concomitant treatment with systemic aminoglycosides. Patients with  hearing≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  frequently reported  tinnitus≠B-OSE_Labeled_AE .
+
+     Nephrotoxicity  
+
+   Nephrotoxicity≠B-OSE_Labeled_AE  was not seen during TOBI clinical studies but has been associated with aminoglycosides as a class. If  nephrotoxicity≠B-NonOSE_AE  occurs in a patient receiving TOBI, tobramycin therapy should be discontinued until serum concentrations fall below 2 mcg/mL.
+
+     Muscular Disorders  
+
+  TOBI should be used cautiously in patients with  neuromuscular≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate , such as  myasthenia≠B-Not_AE_Candidate   gravis≠I-Not_AE_Candidate  or  Parkinson≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate , since aminoglycosides may  aggravate≠B-OSE_Labeled_AE   muscle≠I-OSE_Labeled_AE   weakness≠I-OSE_Labeled_AE  because of a potential curare-like effect on neuromuscular function.
+
+     Bronchospasm  
+
+   Bronchospasm≠B-OSE_Labeled_AE  has been reported with inhalation of TOBI. In clinical studies of TOBI,  changes≠B-NonOSE_AE   in≠I-NonOSE_AE   FEV≠I-NonOSE_AE  1≠I-NonOSE_AE  measured after the inhaled dose were similar in the TOBI and placebo groups.  Bronchospasm≠B-NonOSE_AE  should be treated as medically appropriate.
+

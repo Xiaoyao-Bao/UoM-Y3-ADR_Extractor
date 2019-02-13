@@ -1,0 +1,23 @@
+
+
+    BOXED WARNING: WARNING:  EMBRYO≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  FETAL≠I-OSE_Labeled_AE   TOXICITY≠I-OSE_Labeled_AE 
+
+  WARNING: EMBRYO-FETAL TOXICITY
+
+    IMPAVIDO may cause  fetal≠B-OSE_Labeled_AE   harm≠I-OSE_Labeled_AE .  Fetal≠B-NonOSE_AE   death≠I-NonOSE_AE  and  teratogenicity≠B-NonOSE_AE  occurred in animals administered miltefosine at doses lower than the recommended human dose.  Do not administer IMPAVIDO to  pregnant≠B-Not_AE_Candidate  women. Obtain a serum or urine  pregnancy≠B-NonOSE_AE  test in females of reproductive potential prior to prescribing IMPAVIDO. Females of reproductive potential should be advised to use effective contraception during IMPAVIDO therapy and for 5 months after therapy   [see Contraindications (  4.1  ), Warnings and Precautions (  5.1  ), Use in Specific Populations (  8.1  ,   8.8  ) and Nonclinical Toxicology (  13.1  )]  .  
+
+
+
+   EXCERPT:   WARNING: EMBRYO-FETAL TOXICITY
+
+
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+   IMPAVIDO may cause fetal harm. Fetal death and teratogenicity, occurred in animals administered miltefosine at doses lower than the recommended human dose.  Do not administer IMPAVIDO to pregnant women. Obtain a serum or urine pregnancy test in females of reproductive potential prior to prescribing IMPAVIDO.    
+
+
+
+   Advise females of reproductive potential to use effective contraception during therapy and for 5 months after therapy (  4.1  ,   5.1  ,   8.1  ,   8.8  ,   13.1  ).  

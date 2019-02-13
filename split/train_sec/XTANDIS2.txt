@@ -1,0 +1,21 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *    Seizure occurred in 0.5% of patients receiving XTANDI. In patients with predisposing factors, seizures were reported in 2.2% of patients. Permanently discontinue XTANDI in patients who develop a seizure during treatment. (  5.1  ) 
+ *    Posterior reversible encephalopathy syndrome (PRES): Discontinue XTANDI. (  5.2  ) 
+    
+ 
+
+    5.1 Seizure  
+
+    Seizure≠B-OSE_Labeled_AE  occurred in 0.5% of patients receiving XTANDI in clinical studies. In these trials patients with predisposing factors for  seizure≠B-NonOSE_AE  were generally excluded.  Seizure≠B-OSE_Labeled_AE  occurred from 31 to 603 days after initiation of XTANDI. Patients experiencing  seizure≠B-NonOSE_AE  were permanently discontinued from therapy and all  seizure≠B-NonOSE_AE  events resolved.  
+
+  In a single-arm trial designed to assess the risk of  seizure≠B-NonOSE_AE  in patients with pre-disposing factors for  seizure≠B-NonOSE_AE , 8 of 366 (2.2%) XTANDI-treated patients experienced a  seizure≠B-OSE_Labeled_AE . Three of the 8 patients experienced a second  seizure≠B-OSE_Labeled_AE  during continued treatment with XTANDI after their first  seizure≠B-NonOSE_AE  resolved. It is unknown whether anti-epileptic medications will prevent  seizures≠B-NonOSE_AE  with XTANDI. Patients in the study had one or more of the following pre-disposing factors: the use of medications that may  lower≠B-NonOSE_AE   the≠I-NonOSE_AE   seizure≠I-NonOSE_AE   threshold≠I-NonOSE_AE  (~ 54%), history of  traumatic≠B-Not_AE_Candidate   brain≠I-Not_AE_Candidate   or≠I-Not_AE_Candidate   head≠I-Not_AE_Candidate   injury≠I-Not_AE_Candidate  (~ 28%), history of  cerebrovascular≠B-Not_AE_Candidate   accident≠I-Not_AE_Candidate  or  transient≠B-Not_AE_Candidate   ischemic≠I-Not_AE_Candidate   attack≠I-Not_AE_Candidate  (~ 24%), and  Alzheimer≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate ,  meningioma≠B-Not_AE_Candidate , or  leptomeningeal≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  from  prostate≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate , unexplained  loss≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   consciousness≠I-Not_AE_Candidate  within the last 12 months, past history of  seizure≠B-Not_AE_Candidate , presence of a  space≠B-Not_AE_Candidate   occupying≠I-Not_AE_Candidate   lesion≠I-Not_AE_Candidate   of≠I-Not_AE_Candidate   the≠I-Not_AE_Candidate   brain≠I-Not_AE_Candidate , history of  arteriovenous≠B-Not_AE_Candidate   malformation≠I-Not_AE_Candidate , or history of  brain≠B-Not_AE_Candidate   infection≠I-Not_AE_Candidate  (all < 5%). Approximately 17% of patients had more than one risk factor.  
+
+  Advise patients of the risk of developing a  seizure≠B-NonOSE_AE  while receiving XTANDI and of engaging in any activity where sudden  loss≠B-NonOSE_AE   of≠I-NonOSE_AE   consciousness≠I-NonOSE_AE  could cause serious harm to themselves or others.  
+
+  Permanently discontinue XTANDI in patients who develop a  seizure≠B-NonOSE_AE  during treatment.  
+
+    5.2 Posterior Reversible Encephalopathy Syndrome (PRES)
+
+  There have been reports of  posterior≠B-OSE_Labeled_AE   reversible≠I-OSE_Labeled_AE   encephalopathy≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PRES≠I-OSE_Labeled_AE ) in patients receiving XTANDI [see  Adverse Reactions  (  6.2  )]  .  PRES≠B-NonOSE_AE  is a  neurological≠B-NonOSE_AE   disorder≠I-NonOSE_AE  which can present with rapidly evolving symptoms including  seizure≠B-NonOSE_AE ,  headache≠B-NonOSE_AE ,  lethargy≠B-NonOSE_AE ,  confusion≠B-NonOSE_AE ,  blindness≠B-NonOSE_AE , and other  visual≠B-NonOSE_AE  and neurological  disturbances≠I-NonOSE_AE , with or without associated  hypertension≠B-NonOSE_AE . A diagnosis of  PRES≠B-NonOSE_AE  requires confirmation by brain imaging, preferably magnetic resonance imaging (MRI). Discontinue XTANDI in patients who develop  PRES≠B-NonOSE_AE .
+

@@ -1,0 +1,54 @@
+    6  ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed elsewhere in the labeling:
+
+
+
+ *  Severe  cardiopulmonary≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.1  )]  
+ *   Hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  [see Warnings and Precautions (  5.2  )]  
+      EXCERPT:   Most common adverse reactions (incidence >= 0.5%) are headache and nausea (  6.1  ).
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Bracco Diagnostics Inc at 1-800-257-5181 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1  Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In completed clinical trials, a total of 6307 adult subjects (128 healthy volunteers and 6179 patients) received Lumason at cumulative doses ranging from 0.2 to 161 mL (mean 10.5 mL). Lumason was administered mainly as single or multiple injections; however, some subjects received infusion dosing. The majority (73%) of subjects received Lumason at cumulative doses of 10 mL or less. There were 65% men and 35% women, with an average age of 59 years (range 17 to 99 years). A total of 4993 (79%) subjects were Caucasian; 192 (3%) were Black; 1053 (17%) were Asian; 33 (< 1%) were Hispanic; and 36 (<1%) were in other racial groups or race was not reported.
+
+
+
+ In the clinical trials, serious adverse reactions were observed in 2 subjects; one who experienced a  hypersensitivity≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  type≠I-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE  and  near≠B-OSE_Labeled_AE   syncope≠I-OSE_Labeled_AE  symptoms and another who experienced  anaphylactic≠B-OSE_Labeled_AE   shock≠I-OSE_Labeled_AE  shortly following Lumason administration.
+
+
+
+ The most commonly reported adverse reactions among patients (occurring among at least 0.2% of patients) are listed below (Table 1). Most adverse reactions were mild to moderate in intensity and resolved spontaneously.
+
+
+
+
+   *  occurring in at least 0.2% of patients   
+  
+   Table 1. Adverse Reactions in Patients*n = 6179     
+ Number (%) of Patients with Adverse Reactions  302 (4.9%)        
+  Headache≠B-OSE_Labeled_AE          56 (0.9%)         
+  Nausea≠B-OSE_Labeled_AE            34 (0.6%)         
+  Dysgeusia≠B-OSE_Labeled_AE         19 (0.3%)         
+  Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   18 (0.3%)         
+  Chest≠B-OSE_Labeled_AE   discomfort≠I-OSE_Labeled_AE   16 (0.3%)         
+  Feeling≠B-OSE_Labeled_AE   Hot≠I-OSE_Labeled_AE       16 (0.3%)         
+  Chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE        11 (0.2%)         
+  Injection≠B-OSE_Labeled_AE   Site≠I-OSE_Labeled_AE   Warmth≠I-OSE_Labeled_AE   11 (0.2%)         
+        6.2  Postmarketing Experience
+   In the international postmarketing clinical experience and on-going clinical trials, serious adverse reactions have uncommonly been reported following administration of Lumason. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The serious adverse reactions include fatalities, especially in a pattern of symptoms suggestive of  anaphylactoid≠B-OSE_Labeled_AE /hypersensitivity  reactions≠I-OSE_Labeled_AE . Other serious reactions included  arrhythmias≠B-OSE_Labeled_AE  and  hypertensive≠B-OSE_Labeled_AE   episodes≠I-OSE_Labeled_AE . These reactions typically occurred within 30 minutes of Lumason administration.
+
+
+
+ The risk for serious  cardiopulmonary≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  may be increased among patients with unstable  cardiopulmonary≠B-Not_AE_Candidate   conditions≠I-Not_AE_Candidate  ( acute≠B-Not_AE_Candidate   myocardial≠I-Not_AE_Candidate   infarction≠I-Not_AE_Candidate ,  acute≠B-Not_AE_Candidate   coronary≠I-Not_AE_Candidate  artery  syndromes≠I-Not_AE_Candidate ,  worsening≠B-Not_AE_Candidate  or unstable  congestive≠I-Not_AE_Candidate   heart≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate , or serious  ventricular≠B-Not_AE_Candidate   arrhythmias≠I-Not_AE_Candidate   [see Warnings and Precautions (  5.1  ]  ).

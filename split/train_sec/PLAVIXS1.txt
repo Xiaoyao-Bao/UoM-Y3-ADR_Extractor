@@ -1,0 +1,90 @@
+  6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed below and elsewhere in the labeling:
+
+ *   Bleeding≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.2)  ]  
+ *   Thrombotic≠B-OSE_Labeled_AE   thrombocytopenic≠I-OSE_Labeled_AE   purpura≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.4)  ]  
+      EXCERPT:   Bleeding, including life-threatening and fatal bleeding, is the most commonly reported adverse reaction. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Bristol-Myers Squibb/Sanofi Pharmaceuticals Partnership at 1-800-633-1610 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions and durations of follow-up, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+ Plavix has been evaluated for safety in more than 54,000 patients, including over 21,000 patients treated for one year or more. The clinically important adverse reactions observed in trials comparing Plavix plus aspirin to placebo plus aspirin and trials comparing Plavix alone to aspirin alone are discussed below.
+
+     Bleeding  
+
+   CURE
+
+ In CURE, Plavix use with aspirin was associated with an increase in major  bleeding≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  primarily≠I-OSE_Labeled_AE   gastrointestinal≠I-OSE_Labeled_AE  and at puncture sites) compared to placebo with aspirin (see  Table 1  ). The incidence of  intracranial≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  (0.1%) and  fatal≠B-NonOSE_AE   bleeding≠B-OSE_Labeled_AE  (0.2%) were the same in both groups. Other  bleeding≠B-OSE_Labeled_AE  events that were reported more frequently in the clopidogrel group were  epistaxis≠B-OSE_Labeled_AE ,  hematuria≠B-OSE_Labeled_AE , and  bruise≠B-OSE_Labeled_AE .
+
+ The overall incidence of  bleeding≠B-NonOSE_AE  is described in Table 1.
+
+ Table 1: CURE Incidence of  Bleeding≠B-OSE_Labeled_AE  Complications (% patients) 
+ Event                                               Plavix(+ aspirin)(n=6259)  Placebo(+ aspirin)(n=6303)   
+  
+   Major  bleeding≠B-OSE_Labeled_AE    [note: Life-threatening and other major  bleeding≠B-OSE_Labeled_AE .]              3.7                        2.7              
+   Life-threatening  bleeding≠B-OSE_Labeled_AE                                     2.2                        1.8              
+      Fatal≠B-NonOSE_AE                                                       0.2                        0.2              
+     5 g/dL  hemoglobin≠B-OSE_Labeled_AE   drop≠I-OSE_Labeled_AE                                      0.9                        0.9              
+     Requiring surgical intervention                            0.7                        0.7              
+      Hemorrhagic≠B-OSE_Labeled_AE   strokes≠I-OSE_Labeled_AE                                         0.1                        0.1              
+     Requiring inotropes                                        0.5                        0.5              
+     Requiring transfusion (>=4 units)                          1.2                        1.0              
+   Other major  bleeding≠B-OSE_Labeled_AE                                          1.6                        1.0              
+     Significantly disabling                                    0.4                        0.3              
+      Intraocular≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE  with significant  loss≠B-NonOSE_AE   of≠I-NonOSE_AE   vision≠I-NonOSE_AE             0.05                       0.03              
+     Requiring 2-3 units of blood                               1.3                        0.9              
+   Minor  bleeding≠B-OSE_Labeled_AE    [note: Led to interruption of study medication.]              5.1                        2.4              
+           COMMIT
+ 
+
+ In COMMIT, similar rates of major  bleeding≠B-OSE_Labeled_AE  were observed in the Plavix and placebo groups, both of which also received aspirin (see  Table 2  ).
+
+ Table 2: Incidence of Bleeding Events in COMMIT (% patients) 
+ Type of  Bleeding≠B-OSE_Labeled_AE                           Plavix(+ aspirin)(n=22961)  Placebo(+ aspirin)(n=22891)        p-value          
+  
+ Major [note: Major bleeds were cerebral bleeds or   noncerebra≠B-OSE_Labeled_AE  l≠I-OSE_Labeled_AE  ≠≠I-OSE_Labeled_AE  I≠I-OSE_Labeled_AE -OSE_ Labeled≠B-OSE_Labeled_AE  _≠I-OSE_Labeled_AE  AE≠I-OSE_Labeled_AE    bleeds≠I-OSE_Labeled_AE  thought to have caused  death≠B-NonOSE_AE  or that required transfusion.]  noncerebral≠B-OSE_Labeled_AE  or cerebral  bleeding≠I-OSE_Labeled_AE           0.6                   0.5                   0.59           
+   Major noncerebral                               0.4                   0.3                   0.48           
+    Fatal≠B-NonOSE_AE                                            0.2                   0.2                   0.90           
+  Hemorrhagic≠B-OSE_Labeled_AE   stroke≠I-OSE_Labeled_AE                                 0.2                   0.2                   0.91           
+    Fatal≠B-NonOSE_AE                                            0.2                   0.2                   0.81           
+ Other  noncerebral≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE  (nonmajor)             3.6                   3.1                  0.005           
+ Any  noncerebral≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE                           3.9                   3.4                  0.004           
+            CAPRIE (Plavix vs Aspirin)
+ 
+
+ In CAPRIE,  gastrointestinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  occurred at a rate of 2.0% in those taking Plavix versus 2.7% in those taking aspirin;  bleeding≠B-OSE_Labeled_AE  requiring hospitalization occurred in 0.7% and 1.1%, respectively. The incidence of  intracranial≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  was 0.4% for Plavix compared to 0.5% for aspirin.
+
+ Other  bleeding≠B-OSE_Labeled_AE  events that were reported more frequently in the Plavix group were  epistaxis≠B-OSE_Labeled_AE  and  hematoma≠B-OSE_Labeled_AE .
+
+     Other Adverse Events  
+
+ In CURE and CHARISMA, which compared Plavix plus aspirin to aspirin alone, there was no difference in the rate of adverse events (other than  bleeding≠B-NonOSE_AE ) between Plavix and placebo.
+
+ In CAPRIE, which compared Plavix to aspirin,  pruritus≠B-OSE_Labeled_AE  was more frequently reported in those taking Plavix. No other difference in the rate of adverse events (other than  bleeding≠B-NonOSE_AE ) was reported.
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during postapproval use of Plavix. Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+  Hemorrhages≠B-OSE_Labeled_AE , including those with  fatal≠B-NonOSE_AE  outcome, have been reported in patients treated with Plavix.
+
+ *    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE  :  Agranulocytosis≠B-OSE_Labeled_AE ,  aplastic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE / pancytopenia≠B-OSE_Labeled_AE ,  thrombotic≠B-OSE_Labeled_AE   thrombocytopenic≠I-OSE_Labeled_AE   purpura≠I-OSE_Labeled_AE  (TTP),  acquired≠B-OSE_Labeled_AE   hemophilia≠I-OSE_Labeled_AE   A≠I-OSE_Labeled_AE  
+ *    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  Colitis≠B-OSE_Labeled_AE  (including  ulcerative≠B-OSE_Labeled_AE  or lymphocytic  colitis≠I-OSE_Labeled_AE ),  pancreatitis≠B-OSE_Labeled_AE ,  stomatitis≠B-OSE_Labeled_AE ,  gastric≠B-OSE_Labeled_AE /duodenal  ulcer≠I-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE  
+ *    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   condition≠I-NonOSE_AE  :  Fever≠B-OSE_Labeled_AE  
+ *    Hepatobiliary≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  Acute≠B-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  hepatitis≠B-OSE_Labeled_AE  ( noninfectious≠I-OSE_Labeled_AE ),  abnormal≠B-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   test≠I-OSE_Labeled_AE  
+ *    Immune≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  Hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE ,  anaphylactoid≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE ,  serum≠B-OSE_Labeled_AE   sickness≠I-OSE_Labeled_AE  
+ *    Musculoskeletal≠B-NonOSE_AE  ,≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   and≠I-NonOSE_AE   bone≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  Myalgia≠B-OSE_Labeled_AE ,  arthralgia≠B-OSE_Labeled_AE ,  arthritis≠B-OSE_Labeled_AE  
+ *    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE  :  Taste≠B-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  ageusia≠B-OSE_Labeled_AE  
+ *    Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  Confusion≠B-OSE_Labeled_AE ,  hallucinations≠B-OSE_Labeled_AE  
+ *    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  Bronchospasm≠B-OSE_Labeled_AE ,  interstitial≠B-OSE_Labeled_AE   pneumonitis≠I-OSE_Labeled_AE ,  eosinophilic≠B-OSE_Labeled_AE   pneumonia≠I-OSE_Labeled_AE  
+ *    Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   urinary≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  Increased≠B-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE  
+ *    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  Maculopapular≠B-OSE_Labeled_AE , erythematous or exfoliative  rash≠I-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE ,  bullous≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ,  eczema≠B-OSE_Labeled_AE ,  toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE ,  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  acute≠B-OSE_Labeled_AE   generalized≠I-OSE_Labeled_AE   exanthematous≠I-OSE_Labeled_AE   pustulosis≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  AGEP≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE ,  angioedema≠B-OSE_Labeled_AE ,  drug≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  induced≠I-OSE_Labeled_AE   hypersensitivity≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  drug≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   eosinophilia≠I-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   systemic≠I-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  ( DRESS≠B-OSE_Labeled_AE ),  erythema≠B-OSE_Labeled_AE   multiforme≠I-OSE_Labeled_AE ,  lichen≠B-OSE_Labeled_AE   planus≠I-OSE_Labeled_AE ,  generalized≠B-OSE_Labeled_AE   pruritus≠I-OSE_Labeled_AE  
+ *    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  Vasculitis≠B-OSE_Labeled_AE ,  hypotension≠B-OSE_Labeled_AE  
+

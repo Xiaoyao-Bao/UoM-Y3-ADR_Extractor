@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="TAGAMET">
+  <Text>
+    <Section id="S1" name="warnings">     Warnings  
+
+
+
+   Allergy Alert:  Do not use if you are allergic to cimetidine or other acid reducers
+
+
+
+     Do not use  
+
+
+
+    *  if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. 
+ *  with other acid reducers 
+        Ask a doctor before use if you have  
+ 
+
+    *  frequent chest pain 
+ *  frequent wheezing, particularly with heartburn 
+ *  unexplained weight loss 
+ *  nausea or vomiting 
+ *  stomach pain 
+ *  had heartburn over 3 months. This may be a sign of a more serious condition. 
+ *  heartburn with lightheadedness, sweating or dizziness  
+ *  chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness 
+        Ask a doctor or pharmacist before use if you are taking  
+ 
+
+    *  theophylline (oral asthma medicine) 
+ *  warfarin (blood thinning medicine) 
+ *  phenytoin (seizure medicine) 
+    If you are not sure you are taking one of these medicines, talk to your doctor or pharmacist.
+ 
+
+     Stop use and ask a doctor if  
+
+
+
+    *  your heartburn continues or worsens 
+ *  stomach pain continues 
+ *  you need to take this product for more than 14 days 
+        If pregnant or breast-feeding,  
+ 
+
+  ask a health professional before use.
+
+
+
+     Keep out of reach of children.  
+
+
+
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="11" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="13" name="heading" section="S1" start="113" />
+    <IgnoredRegion len="38" name="heading" section="S1" start="328" />
+    <IgnoredRegion len="58" name="heading" section="S1" start="801" />
+    <IgnoredRegion len="31" name="heading" section="S1" start="1086" />
+    <IgnoredRegion len="33" name="heading" section="S1" start="1257" />
+    <IgnoredRegion len="33" name="heading" section="S1" start="1341" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

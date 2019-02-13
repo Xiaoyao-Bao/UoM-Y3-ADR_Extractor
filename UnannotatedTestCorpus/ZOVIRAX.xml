@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ZOVIRAX">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  In the controlled clinical trials, mild pain (including transient burning and stinging) was reported by about 30% of patients in both the active and placebo arms; treatment was discontinued in 2 of these patients. Local pruritus occurred in 4% of these patients. In all studies, there was no significant difference between the drug and placebo group in the rate or type of reported adverse reactions nor were there any differences in abnormal clinical laboratory findings.
+
+
+
+     Observed During Clinical Practice:  Based on clinical practice experience in patients treated with ZOVIRAX Ointment in the U.S., spontaneously reported adverse events are uncommon. Data are insufficient to support an estimate of their incidence or to establish causation. These events may also occur as part of the underlying disease process. Voluntary reports of adverse events that have been received since market introduction include:
+
+
+
+     General:    Edema and/or pain at the application site.
+
+
+
+     Skin:    Pruritus, rash.
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General:  The recommended dosage, frequency of applications, and length of treatment should not be exceeded (see  DOSAGE AND ADMINISTRATION  ). There are no data to support the use of ZOVIRAX Ointment 5% to prevent transmission of infection to other persons or prevent recurrent infections when applied in the absence of signs and symptoms. ZOVIRAX Ointment 5% should not be used for the prevention of recurrent HSV infections. Although clinically significant viral resistance associated with the use of ZOVIRAX Ointment 5% has not been observed, this possibility exists.
+
+
+
+    Drug Interactions:  Clinical experience has identified no interactions resulting from topical or systemic administration of other drugs concomitantly with ZOVIRAX Ointment 5%.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility:  Systemic exposure following topical administration of acyclovir is minimal. Dermal carcinogenicity studies were not conducted. Results from the studies of carcinogenesis, mutagenesis, and fertility are not included in the full prescribing information for ZOVIRAX Ointment 5% due to the minimal exposures of acyclovir that result from dermal application. Information on these studies is available in the full prescribing information for ZOVIRAX Capsules, Tablets, and Suspension and ZOVIRAX for Injection.
+
+
+
+    Pregnancy: Teratogenic Effects:    Acyclovir was not teratogenic in the mouse, rabbit, or rat at exposures greatly in excess of human exposure. There are no adequate and well-controlled studies of systemic acyclovir in pregnant women. A prospective epidemiologic registry of acyclovir use during pregnancy was established in 1984 and completed in April 1999. There were 749 pregnancies followed in women exposed to systemic  acyclovir during the first trimester of pregnancy resulting in 756 outcomes. The occurrence rate of birth defects approximates that found in the general population. However, the small size of the registry is insufficient to evaluate the risk for less common defects or to permit reliable or definitive conclusions regarding the safety of acyclovir in pregnant women and their developing fetuses. Systemic acyclovir should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+    Nursing Mothers:  It is not known whether topically applied acyclovir is excreted in breast milk. Systemic exposure following topical  administration is minimal. After oral  administration of ZOVIRAX, acyclovir concentrations have been documented in breast milk in 2 women and ranged from 0.6 to 4.1 times the corresponding plasma levels. These concentrations would potentially expose the nursing infant to a dose of acyclovir up to 0.3 mg/kg/day. Nursing mothers who have active herpetic lesions near or on the breast should avoid nursing.
+
+
+
+    Geriatric Use:  Clinical studies of ZOVIRAX Ointment did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. Systemic absorption of acyclovir after topical administration is minimal (see  CLINICAL PHARMACOLOGY  ).
+
+
+
+    Pediatric Use:  Safety and effectiveness in pediatric patients have not been established.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  ZOVIRAX Ointment 5% is intended for cutaneous use only and should not be used in the eye.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

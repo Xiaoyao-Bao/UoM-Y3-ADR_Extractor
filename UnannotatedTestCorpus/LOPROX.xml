@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="LOPROX">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  In all controlled clinical studies with 514 patients using LOPROX  (r)  Cream and in 296 patients using the vehicle cream, the incidence of adverse reactions was low. This included pruritus at the site of application in one patient and worsening of the clinical signs and symptoms in another patient using ciclopirox cream and burning in one patient and worsening of the clinical signs and symptoms in another patient using the vehicle cream.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+  If a reaction suggesting sensitivity or chemical irritation should occur with the use of LOPROX  (r)  Cream, treatment should be discontinued and appropriate therapy instituted.
+
+
+
+    Information for Patientss
+
+
+
+  The patient should be told to:
+
+
+
+ *  Use the medication for the full treatment time even though symptoms may have improved and notify the physician if there is no improvement after four weeks. 
+ *  Inform the physician if the area of application shows signs of increased irritation (redness, itching, burning, blistering, swelling, or oozing) indicative of possible sensitization. 
+ *  Avoid the use of occlusive wrappings or dressings 
+       Carcinogenesis, Mutagenesis, and Impairment of Fertility
+ 
+
+  A 104-week dermal carcinogenicity study in mice was conducted with ciclopirox cream applied at doses up to 1.93% (100 mg/kg/day or 300 mg/m  2  /day). No increase in drug related neoplasms was noted when compared to control.
+
+
+
+ The following in vitro genotoxicity tests have been conducted with ciclopirox: evaluation of gene mutation in the Ames Salmonella and E. coli assays (negative); chromosome aberration assays in V79 Chinese hamster lung fibroblast cells, with and without metabolic activation (positive); chromosome aberration assays in V79 Chinese hamster lung fibroblast cells in the presence of supplemental Fe  3+  , with and without metabolic activation (negative); gene mutation assays in the HGPRT-test with V79 Chinese hamster lung fibroblast cells (negative); and a primary DNA damage assay (i.e., unscheduled DNA synthesis assay in A549 human cells) (negative). An in vitro  cell transformation assay in BALB/c 3T3 cells was negative for cell transformation. In an in vivo  Chinese hamster bone marrow cytogenetic assay, ciclopirox was negative for chromosome aberrations at a dosage of 5000 mg/kg body weight.
+
+
+
+ A combined oral fertility and embryofetal developmental study was conducted in rats with ciclopirox olamine. No effect on fertility or reproductive performance was noted at the highest dose tested of 3.85 mg/kg/day ciclopirox (approximately 1.2 times the maximum recommended human dose based on body surface area comparisons).
+
+
+
+    Pregnancy
+
+
+
+   Teratogenic Effects
+
+
+
+   Pregnancy Category B
+
+
+
+  There are no adequate or well-controlled studies in pregnant women. Therefore, LOPROX  (r)  Cream should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+ Oral embryofetal developmental studies were conducted in mice, rats, rabbits and monkeys. Ciclopirox or ciclopirox olamine was orally administered during the period of organogenesis. No maternal toxicity, embryotoxicity or teratogenicity were noted at the highest doses of 77, 125, 80 and 38.5 mg/kg/day ciclopirox in mice, rats, rabbits and monkeys, respectively (approximately 11, 37, 51 and 24 times the maximum recommended human dose based on body surface area comparisons, respectively).
+
+
+
+ Dermal embryofetal developmental studies were conducted in rats and rabbits with ciclopirox olamine dissolved in PEG 400. Ciclopirox olamine was topically administered during the period of organogenesis. No maternal toxicity, embryotoxicity or teratogenicity were noted at the highest doses of 92 mg/kg/day and 77 mg/kg/day ciclopirox in rats and rabbits, respectively (approximately 27 and 49 times the maximum recommended human dose based on body surface area comparisons, respectively).
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when LOPROX  (r)  Cream is administered to a nursing woman.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in pediatric patients below the age of 10 years have not been established.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  LOPROX  (r)  Cream is not for ophthalmic use.
+
+
+
+  Keep out of reach of children.  
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="25" name="heading" section="S2" start="206" />
+    <IgnoredRegion len="56" name="heading" section="S2" start="682" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="2213" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="2229" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="2255" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="3482" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="3706" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="HUMATIN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    Adverse Reactions
+
+  Nausea, abdominal cramps, and diarrhea have been reported in patients on doses over 3 g daily.
+</Section>
+    <Section id="S2" name="precautions">    Precautions
+
+
+
+  The use of this antibiotic, as with other antibiotics, may result in an overgrowth of nonsusceptible organisms, including fungi. Constant observation of the patient is essential. If new infections caused by nonsusceptible organisms appear during therapy, appropriate measures should be taken.
+
+
+
+ The drug should be used with caution in individuals with ulcerative lesions of the bowel to avoid renal toxicity through inadvertent absorption.
+
+
+
+  Pediatric Use:  See Dosage and Administration  section.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,139 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Adverse reactions, sometimes severe and life-threatening or fatal, have been seen in clinical trials with ZALTRAP, including:
+
+
+
+ *  Fistula Formation: Discontinue ZALTRAP if fistula occurs. (  2.2  ,  5.4  ) 
+ *  Hypertension: Monitor blood pressure and treat hypertension. Temporarily suspend ZALTRAP if hypertension is not controlled. Discontinue ZALTRAP if hypertensive crisis develops. (  2.2  ,  5.5  ) 
+ *  Arterial Thromboembolic Events (ATE) (e.g., transient ischemic attacks, cerebrovascular accident, angina pectoris): Discontinue ZALTRAP if ATE develops. (  5.6  ) 
+ *  Proteinuria: Monitor urine protein. Suspend ZALTRAP when proteinuria >= 2 grams per 24 hours. Discontinue ZALTRAP if nephrotic syndrome or thrombotic microangiopathy (TMA) develops. (  2.2  ,  5.7  ) 
+ *  Neutropenia and Neutropenic Complications: Delay administration of ZALTRAP/FOLFIRI until neutrophil count is >= 1.5 * 10  9  /L. (5.8) 
+ *  Diarrhea and Dehydration: Incidence of severe diarrhea and dehydration is increased. Monitor elderly patients more closely. (  5.9  ,  8.5  ) 
+ *  Reversible Posterior Leukoencephalopathy Syndrome (RPLS): Discontinue ZALTRAP. (  5.10  ) 
+    
+ 
+
+   5.1 Hemorrhage
+
+
+
+  Patients treated with ZALTRAP have an increased risk of  hemorrhage≠B-OSE_Labeled_AE , including severe and sometimes  fatal≠B-NonOSE_AE   hemorrhagic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE . In patients with  mCRC≠B-Not_AE_Candidate ,  bleeding≠B-OSE_Labeled_AE / hemorrhage≠B-OSE_Labeled_AE  (all grades) were reported in 38% of patients treated with ZALTRAP/FOLFIRI compared to 19% of patients treated with placebo/FOLFIRI. Grade 3-4  hemorrhagic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE , including  gastrointestinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  hematuria≠B-OSE_Labeled_AE , and  post≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  procedural≠I-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE , were reported in 3% of patients receiving ZALTRAP/FOLFIRI compared with 1% of patients receiving placebo/FOLFIRI. Severe  intracranial≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  and  pulmonary≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE / hemoptysis≠B-OSE_Labeled_AE  including  fatal≠B-NonOSE_AE  events have also occurred in patients receiving ZALTRAP.
+
+
+
+ Monitor patients for signs and symptoms of  bleeding≠B-NonOSE_AE . Do not initiate ZALTRAP in patients with severe  hemorrhage≠B-Not_AE_Candidate . Discontinue ZALTRAP in patients who develop severe  hemorrhage≠B-NonOSE_AE  [ see  Dosage and Administration (2.2)    ].
+
+
+
+    5.2 Gastrointestinal Perforation
+
+
+
+   Gastrointestinal≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  GI≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  including  fatal≠B-NonOSE_AE   GI≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  can occur in patients receiving ZALTRAP. Across three Phase 3 placebo-controlled clinical studies ( colorectal≠B-Not_AE_Candidate , pancreatic, and lung  cancer≠I-Not_AE_Candidate  populations), the incidence of  GI≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  (all grades) was 0.8% for patients treated with ZALTRAP and 0.3% for patients treated with placebo. Grade 3-4  GI≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  events occurred in 0.8% of patients treated with ZALTRAP and 0.2% of patients treated with placebo.
+
+
+
+ Monitor patients for signs and symptoms of  GI≠B-NonOSE_AE   perforation≠I-NonOSE_AE . Discontinue ZALTRAP therapy in patients who experience  GI≠B-NonOSE_AE   perforation≠I-NonOSE_AE  [ see  Dosage and Administration (2.2)    ].
+
+
+
+    5.3 Compromised Wound Healing
+
+
+
+  ZALTRAP  impairs≠B-NonOSE_AE   wound≠I-NonOSE_AE   healing≠I-NonOSE_AE  in animal models [ see  Nonclinical Toxicology (13.2)    ].
+
+
+
+ Grade 3  compromised≠B-OSE_Labeled_AE   wound≠I-OSE_Labeled_AE   healing≠I-OSE_Labeled_AE  was reported in 2 patients (0.3%) treated with ZALTRAP/FOLFIRI regimen and in none of the patients treated with placebo/FOLFIRI regimen.
+
+
+
+ Suspend ZALTRAP for at least 4 weeks prior to elective surgery. Do not resume ZALTRAP for at least 4 weeks following major surgery and until the surgical wound is fully healed. For minor surgery such as central venous access port placement, biopsy, and tooth extraction, ZALTRAP may be initiated/resumed once the surgical wound is fully healed. Discontinue ZALTRAP in patients with  compromised≠B-NonOSE_AE   wound≠I-NonOSE_AE   healing≠I-NonOSE_AE  [ see  Dosage and Administration (2.2)    ].
+
+
+
+    5.4 Fistula Formation
+
+
+
+   Fistula≠B-OSE_Labeled_AE   formation≠I-OSE_Labeled_AE  involving  gastrointestinal≠I-OSE_Labeled_AE  and non-gastrointestinal sites occurs at a higher incidence in patients treated with ZALTRAP. In patients with  mCRC≠B-Not_AE_Candidate ,  fistulas≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  anal≠I-OSE_Labeled_AE , enterovesical, enterocutaneous, colovaginal, intestinal sites) were reported in 9 of 611 patients (1.5%) treated with ZALTRAP/FOLFIRI regimen and 3 of 605 patients (0.5%) treated with placebo/FOLFIRI regimen. Grade 3  GI≠B-OSE_Labeled_AE   fistula≠I-OSE_Labeled_AE  formation occurred in 2 patients treated with ZALTRAP (0.3%) and in 1 placebo-treated patient (0.2%).
+
+
+
+ Discontinue ZALTRAP therapy in patients who develop  fistula≠B-NonOSE_AE  [ see  Dosage and Administration (2.2)    ].
+
+
+
+    5.5 Hypertension
+
+
+
+  ZALTRAP increases the risk of Grade 3-4  hypertension≠B-OSE_Labeled_AE . There is no clinical trial experience administering ZALTRAP to patients with  NYHA≠B-Not_AE_Candidate   class≠I-Not_AE_Candidate   III≠I-Not_AE_Candidate   or≠I-Not_AE_Candidate   IV≠I-Not_AE_Candidate   heart≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate . In patients with  mCRC≠B-Not_AE_Candidate , Grade 3  hypertension≠B-OSE_Labeled_AE  (defined as requiring adjustment in existing  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  hypertensive≠I-NonOSE_AE   therapy≠I-NonOSE_AE  or treatment with more than one drug) was reported in 1.5% of patients treated with placebo/FOLFIRI and 19% of patients treated with ZALTRAP/FOLFIRI. Grade 4  hypertension≠B-OSE_Labeled_AE  ( hypertensive≠B-OSE_Labeled_AE   crisis≠I-OSE_Labeled_AE ) was reported in 1 patient (0.2%) treated with ZALTRAP/FOLFIRI. Among those patients treated with ZALTRAP/FOLFIRI developing Grade 3-4  hypertension≠B-OSE_Labeled_AE , 54% had onset during the first two cycles of treatment.
+
+
+
+ Monitor blood pressure every two weeks or more frequently as clinically indicated during treatment with ZALTRAP. Treat with appropriate  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  hypertensive≠I-NonOSE_AE   therapy≠I-NonOSE_AE  and continue monitoring blood pressure regularly. Temporarily suspend ZALTRAP in patients with  uncontrolled≠B-NonOSE_AE   hypertension≠I-NonOSE_AE  until controlled, and permanently reduce ZALTRAP dose to 2 mg per kg for subsequent cycles. Discontinue ZALTRAP in patients with  hypertensive≠B-NonOSE_AE   crisis≠I-NonOSE_AE  or  hypertensive≠B-NonOSE_AE   encephalopathy≠I-NonOSE_AE  [ see  Dosage and Administration (2.2)    ].
+
+
+
+    5.6 Arterial Thromboembolic Events
+
+
+
+   Arterial≠B-OSE_Labeled_AE   thromboembolic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  ATE≠I-OSE_Labeled_AE ), including  transient≠B-OSE_Labeled_AE   ischemic≠I-OSE_Labeled_AE   attack≠I-OSE_Labeled_AE ,  cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE , and  angina≠B-OSE_Labeled_AE   pectoris≠I-OSE_Labeled_AE , occurred more frequently in patients who have received ZALTRAP. In patients with  mCRC≠B-Not_AE_Candidate ,  ATE≠B-OSE_Labeled_AE  was reported in 2.6% of patients treated with ZALTRAP/FOLFIRI and 1.7% of patients treated with placebo/FOLFIRI. Grade 3-4 events occurred in 11 patients (1.8%) treated with ZALTRAP/FOLFIRI and 4 patients (0.7%) treated with placebo/FOLFIRI.
+
+
+
+ Discontinue ZALTRAP in patients who experience an  ATE≠B-NonOSE_AE  [ see  Dosage and Administration (2.2)    ].
+
+
+
+    5.7 Proteinuria
+
+
+
+  Severe  proteinuria≠B-OSE_Labeled_AE ,  nephrotic≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE , and  thrombotic≠B-OSE_Labeled_AE   microangiopathy≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  TMA≠I-OSE_Labeled_AE ) occurred more frequently in patients treated with ZALTRAP. In patients with  mCRC≠B-Not_AE_Candidate ,  proteinuria≠B-OSE_Labeled_AE  was reported in 62% patients treated with ZALTRAP/FOLFIRI compared to 41% patients treated with placebo/FOLFIRI. Grade 3-4  proteinuria≠B-OSE_Labeled_AE  occurred in 8% of patients treated with ZALTRAP/FOLFIRI to 1% of patients treated with placebo/FOLFIRI [ see  Adverse Reactions (6.1)    ].  Nephrotic≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  occurred in 2 patients (0.5%) treated with ZALTRAP/FOLFIRI compared to none of the patients treated with placebo/FOLFIRI.  TMA≠B-OSE_Labeled_AE  was reported in 3 of 2258 patients with  cancer≠B-Not_AE_Candidate  enrolled across completed studies.
+
+
+
+ Monitor  proteinuria≠B-NonOSE_AE  by urine dipstick analysis and/or urinary protein creatinine ratio (UPCR) for the development or worsening of  proteinuria≠B-NonOSE_AE  during ZALTRAP therapy. Patients with a dipstick of >=2+ for protein or a UPCR greater than 1 should undergo a 24-hour urine collection.
+
+
+
+ Suspend ZALTRAP administration for  proteinuria≠B-NonOSE_AE  2 grams per 24 hours or more, and resume when  proteinuria≠B-NonOSE_AE  is less than 2 grams per 24 hours. If recurrent, suspend until  proteinuria≠B-NonOSE_AE  is less than 2 grams per 24 hours and then permanently reduce the ZALTRAP dose to 2 mg per kg. Discontinue ZALTRAP in patients who develop  nephrotic≠B-NonOSE_AE   syndrome≠I-NonOSE_AE  or  TMA≠B-NonOSE_AE  [ see  Dosage and Administration (2.2)    ].
+
+
+
+    5.8 Neutropenia and Neutropenic Complications
+
+
+
+  A higher incidence of  neutropenic≠B-OSE_Labeled_AE   complications≠I-OSE_Labeled_AE  ( febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE  and  neutropenic≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ) occurred in patients receiving ZALTRAP. In patients with  mCRC≠B-Not_AE_Candidate , Grade 3-4  neutropenia≠B-OSE_Labeled_AE  occurred in 37% of patients treated with ZALTRAP/FOLFIRI compared to 30% patients treated with placebo/FOLFIRI [ see  Adverse Reactions (6.1)    ]. Grade 3-4  febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE  occurred in 4% of patients treated with ZALTRAP/FOLFIRI compared to 2% of patients treated with placebo/FOLFIRI. Grade 3-4  neutropenic≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE /sepsis occurred in 1.5% of patients treated with ZALTRAP/FOLFIRI and 1.2% of patients treated with placebo/FOLFIRI.
+
+
+
+ Monitor CBC with differential count at baseline and prior to initiation of each cycle of ZALTRAP. Delay ZALTRAP/FOLFIRI until neutrophil count is at or above 1.5 * 10  9  /L.
+
+
+
+    5.9 Diarrhea and Dehydration
+
+
+
+  The incidence of severe  diarrhea≠B-OSE_Labeled_AE  is increased in patients treated with ZALTRAP/FOLFIRI. In patients with  mCRC≠B-Not_AE_Candidate , Grade 3-4  diarrhea≠B-OSE_Labeled_AE  was reported in 19% of patients treated with ZALTRAP/FOLFIRI compared to 8% of patients treated with placebo/FOLFIRI. Grade 3-4  dehydration≠B-OSE_Labeled_AE  was reported in 4% of patients treated with ZALTRAP/FOLFIRI compared to 1% of patients treated with placebo/FOLFIRI [ see  Adverse Reactions (6.1)    ]. The incidence of  diarrhea≠B-NonOSE_AE  is increased in patients who are age 65 years or older as compared to patients younger than 65 years of age [ see  Geriatric Use (8.5)    ]. Monitor elderly patients closely for  diarrhea≠B-NonOSE_AE .
+
+
+
+    5.10 Reversible Posterior Leukoencephalopathy Syndrome (RPLS)
+
+
+
+   RPLS≠B-OSE_Labeled_AE  (also known as  posterior≠B-OSE_Labeled_AE   reversible≠I-OSE_Labeled_AE   encephalopathy≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ) was reported in 0.5% of 3795 patients treated with ZALTRAP monotherapy or in combination with chemotherapy.
+
+
+
+ Confirm the diagnosis of  RPLS≠B-NonOSE_AE  with MRI and discontinue ZALTRAP in patients who develop  RPLS≠B-NonOSE_AE . Symptoms usually resolve or improve within days, although some patients have experienced ongoing  neurologic≠B-NonOSE_AE   sequelae≠I-NonOSE_AE  or  death≠B-NonOSE_AE  [ see  Dosage and Administration (2.2)    ].

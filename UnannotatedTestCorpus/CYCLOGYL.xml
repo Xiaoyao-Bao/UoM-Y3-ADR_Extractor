@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CYCLOGYL">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS:
+
+    Ocular:  Increased intraocular pressure, burning, photophobia, blurred vision, irritation, hyperemia, conjunctivitis, blepharoconjunctivitis, punctate keratitis, synechiae have been reported.
+
+
+
+   Non-ocular:  Use of cyclopentolate has been associated with psychotic reactions and behavioral disturbances, usually in children, especially with 2% concentration. These disturbances include ataxia, incoherent speech, restlessness, hallucinations, hyperactivity, seizures, disorientation as to time and place, and failure to recognize people. This drug produces reactions similar to those of other anticholinergic drugs, but the central nervous system manifestations as noted above are more common. Other toxic manifestations of anticholinergic drugs are skin rash, abdominal distention in infants, unusual drowsiness, tachycardia, hyperpyrexia, vasodilation, urinary retention, diminished gastrointestinal motility and decreased secretion in salivary and sweat glands, pharynx, bronchi and nasal passages. Severe manifestations of toxicity include coma, medullary paralysis and death.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS:
+
+
+
+   
+
+
+
+   General:  The lacrimal sac should be compressed by digital pressure for two to three minutes after instillation to reduce excessive systemic absorption. Caution should be observed when considering use of this medication in the presence of Down's syndrome and in those predisposed to angle-closure glaucoma.
+
+
+
+    
+
+
+
+   Information for Patients:  Do not touch dropper tip to any surface, as this may contaminate the solution. A transient burning sensation may occur upon instillation. Patients should be advised not to drive or engage in other hazardous activities while pupils are dilated. Patients may experience sensitivity to light and should protect eyes in bright illumination during dilation. Parents should be warned not to get this preparation in their child's mouth and to wash their own hands and the child's hands following administration. Feeding intolerance may follow ophthalmic use of this product in infants. It is recommended that feeding be withheld for 4 hours after examination.
+
+
+
+    
+
+
+
+   Drug Interactions:  Cyclopentolate may interfere with the ocular anti-hypertensive action of carbachol, pilocarpine, or ophthalmic cholinesterase inhibitors.
+
+
+
+    
+
+
+
+   Carcinogenesis, Mutagenesis, Impairment of Fertility:  Studies in animals or humans have not been conducted to evaluate the carcinogenic potential of CYCLOGYL(r) (cyclopentolate hydrochloride ophthalmic solution, USP).
+
+
+
+    
+
+
+
+   Pregnancy:  Animal reproduction studies have not been conducted with cyclopentolate. It is also not known whether cyclopentolate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Cyclopentolate should be administered to a pregnant woman only if clearly needed.
+
+
+
+    
+
+
+
+   Nursing Mothers:  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when cyclopentolate hydrochloride is administered to a nursing woman.
+
+
+
+    
+
+
+
+   Pediatric Use:  Use of cyclopentolate has been associated with psychotic reactions and behavioral disturbances in pediatric patients. Increased susceptibility to cyclopentolate has been reported in infants, young children, and in children with spastic paralysis or brain damage. These disturbances include ataxia, incoherent speech, restlessness, hallucinations, hyperactivity, seizures, disorientation as to time and place, and failure to recognize people. Feeding intolerance may follow ophthalmic use of this product in infants. It is recommended that feeding be withheld for four (4) hours after examination. Observe infants closely for at least 30 minutes (see WARNINGS).
+
+
+
+    
+
+
+
+   Geriatric Use:  No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+</Section>
+    <Section id="S3" name="warnings">    
+
+
+
+   WARNINGS:  FOR TOPICAL OPHTHALMIC USE ONLY .  NOT FOR INJECTION. This preparation may cause CNS disturbances. This is especially true in younger age groups, but may occur at any age, especially with the stronger solutions. Infants are especially prone to CNS and cardiopulmonary side effects from cyclopentolate. To minimize absorption, use only 1 drop of 0.5% CYCLOGYL solution per eye, followed by pressure applied over the nasolacrimal sac for two to three minutes. Observe infants closely for at least 30 minutes following instillation.
+
+
+
+ Mydriatics may produce a transient elevation of intraocular pressure.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="18" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="12" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="0" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="23" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="344" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="1038" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="1210" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="1443" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="1764" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="2002" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="2693" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

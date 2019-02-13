@@ -1,0 +1,63 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Interleukin-1 blockade may interfere with immune response to infections. Serious, life-threatening infections have been reported in patients taking ARCALYST. Discontinue treatment with ARCALYST if a patient develops a serious infection. Do not initiate treatment with ARCALYST in patients with active or chronic infections. (  5.1  ) 
+ *  Hypersensitivity reactions associated with ARCALYST administration have been rare. If a hypersensitivity reaction occurs, discontinue administration of ARCALYST and initiate appropriate therapy. (  5.5  ) 
+ *  Live vaccines should not be given concurrently with ARCALYST. Prior to initiation of therapy with ARCALYST, patients should receive all recommended vaccinations. (  5.3  ) 
+    
+ 
+
+   5.1 Infections
+
+
+
+  Interleukin -1 (IL-1) blockade may interfere with the immune response to infections. Treatment with another medication that works through inhibition of IL-1 has been associated with an increased risk of serious infections, and serious infections have been reported in patients taking ARCALYST [ see Clinical Studies (  14  )  ]. There was a greater incidence of infections in patients on ARCALYST compared with placebo. In the controlled portion of the study, one infection was reported as severe, which was bronchitis in a patient on ARCALYST.
+
+
+
+ In an open-label extension study, one patient developed bacterial meningitis and died [ see Adverse Reactions (  6.3  )  ]. ARCALYST should be discontinued if a patient develops a serious infection. Treatment with ARCALYST should not be initiated in patients with an active or chronic infection.
+
+
+
+ In clinical studies, ARCALYST has not been administered concomitantly with tumor necrosis factor (TNF) inhibitors. An increased incidence of serious infections has been associated with administration of an IL-1 blocker in combination with TNF inhibitors. Taking ARCALYST with TNF inhibitors is not recommended because this may increase the risk of serious infections.  
+
+
+
+ Drugs that affect the immune system by blocking TNF have been associated with an increased risk of reactivation of latent tuberculosis (TB). It is possible that taking drugs such as ARCALYST that block IL-1 increases the risk of TB or other atypical or opportunistic infections. Healthcare providers should follow current CDC guidelines both to evaluate for and to treat possible latent tuberculosis infections before initiating therapy with ARCALYST.
+
+
+
+    5.2 Immunosuppression
+
+
+
+  The impact of treatment with ARCALYST on active and/or chronic infections and the development of malignancies is not known [ see Adverse Reactions (  6.3  )]  . However, treatment with immunosuppressants, including ARCALYST, may result in an increase in the risk of malignancies.
+
+
+
+    5.3 Immunizations
+
+
+
+  Since no data are available on either the efficacy of live vaccines or on the risks of secondary transmission of infection by live vaccines in patients receiving ARCALYST, live vaccines should not be given concurrently with ARCALYST. In addition, because ARCALYST may interfere with normal immune response to new antigens, vaccinations may not be effective in patients receiving ARCALYST. No data are available on the effectiveness of vaccination with inactivated (killed) antigens in patients receiving ARCALYST.
+
+
+
+ Because IL-1 blockade may interfere with immune response to infections, it is recommended that prior to initiation of therapy with ARCALYST adult and pediatric patients receive all recommended vaccinations, as appropriate, including pneumococcal vaccine and inactivated influenza vaccine. (See current Recommended Immunizations schedules at the website of the Centers for Disease Control. http://www.cdc.gov/vaccines/recs/schedules/).
+
+
+
+    5.4 Lipid Profile Changes
+
+
+
+  Patients should be monitored for changes in their lipid profiles and provided with medical treatment if warranted [see Adverse Reactions (  6.7  )]  .
+
+
+
+    5.5 Hypersensitivity
+
+
+
+  Hypersensitivity reactions associated with ARCALYST administration in the clinical studies were rare. If a hypersensitivity reaction occurs, administration of ARCALYST should be discontinued and appropriate therapy initiated.

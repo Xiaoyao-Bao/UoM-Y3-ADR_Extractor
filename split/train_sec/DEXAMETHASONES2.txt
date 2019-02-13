@@ -1,0 +1,114 @@
+   PRECAUTIONS
+
+   General
+
+  The lowest possible dose of corticosteroids should be used to control the condition under treatment. When reduction in dosage is possible, the reduction should be gradual.
+
+ Since complications of treatment with corticosteroids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
+
+  Kaposi≠B-OSE_Labeled_AE  '≠I-OSE_Labeled_AE  s≠I-OSE_Labeled_AE   sarcoma≠I-OSE_Labeled_AE  has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions. Discontinuation of corticosteroids may result in clinical improvement.
+
+    Cardio-Renal
+
+  As  sodium≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE  with resultant  edema≠B-NonOSE_AE  and  potassium≠B-NonOSE_AE   loss≠I-NonOSE_AE  may occur in patients receiving corticosteroids, these agents should be used with caution in patients with  congestive≠B-Not_AE_Candidate   heart≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate ,  hypertension≠B-Not_AE_Candidate , or  renal≠B-Not_AE_Candidate   insufficiency≠I-Not_AE_Candidate 
+
+    Endocrine
+
+   Drug≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  induced≠I-OSE_Labeled_AE   secondary≠I-OSE_Labeled_AE   adrenocortical≠I-OSE_Labeled_AE   insufficiency≠I-OSE_Labeled_AE  may be minimized by gradual reduction of dosage. This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of  stress≠B-Not_AE_Candidate  occurring during that period, hormone therapy should be reinstituted. Since  mineralocorticoid≠B-NonOSE_AE   secretion≠I-NonOSE_AE  may be  impaired≠I-NonOSE_AE , salt and/or a mineralocorticoid should be administered concurrently.
+
+    Gastrointestinal
+
+  Steroids should be used with caution in active or latent  peptic≠B-Not_AE_Candidate   ulcers≠I-Not_AE_Candidate ,  diverticulitis≠B-Not_AE_Candidate ,  fresh≠B-Not_AE_Candidate   intestinal≠I-Not_AE_Candidate   anastomoses≠I-Not_AE_Candidate , and nonspecific  ulcerative≠B-Not_AE_Candidate   colitis≠I-Not_AE_Candidate , since they may increase the risk of a  perforation≠B-NonOSE_AE .
+
+ Signs of  peritoneal≠B-NonOSE_AE   irritation≠I-NonOSE_AE  following  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  in patients receiving corticosteroids may be minimal or absent.
+
+ There is an enhanced effect due to decreased metabolism of corticosteroids in patients with  cirrhosis≠B-Not_AE_Candidate .
+
+    Musculoskeletal
+
+  Corticosteroids  decrease≠B-OSE_Labeled_AE   bone≠I-OSE_Labeled_AE   formation≠I-OSE_Labeled_AE  and  increase≠B-OSE_Labeled_AE   bone≠I-OSE_Labeled_AE   resorption≠I-OSE_Labeled_AE  both through their  effect≠B-OSE_Labeled_AE   on≠I-OSE_Labeled_AE   calcium≠I-OSE_Labeled_AE   regulation≠I-OSE_Labeled_AE  (i.e., decreasing absorption and increasing excretion) and  inhibition≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   osteoblast≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE . This, together with a  decrease≠B-NonOSE_AE   in≠I-NonOSE_AE   the≠I-NonOSE_AE   protein≠I-NonOSE_AE   matrix≠I-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   bone≠I-NonOSE_AE  secondary to an  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   protein≠I-OSE_Labeled_AE   catabolism≠I-OSE_Labeled_AE , and  reduced≠B-OSE_Labeled_AE   sex≠I-OSE_Labeled_AE   hormone≠I-OSE_Labeled_AE   production≠I-OSE_Labeled_AE , may lead to  inhibition≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   bone≠I-OSE_Labeled_AE   growth≠I-OSE_Labeled_AE  in pediatric patients and the development of  osteoporosis≠B-OSE_Labeled_AE  at any age. Special consideration should be given to patients at increased risk of  osteoporosis≠B-Not_AE_Candidate  (e.g.,  postmenopausal≠B-Not_AE_Candidate  women) before initiating corticosteroid therapy.
+
+    Neuro-Psychiatric
+
+  Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of  acute≠B-Not_AE_Candidate   exacerbations≠I-Not_AE_Candidate   of≠I-Not_AE_Candidate   multiple≠I-Not_AE_Candidate   sclerosis≠I-Not_AE_Candidate , they do not show that they affect the ultimate outcome or natural history of the disease. The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect (see   DOSAGE AND ADMINISTRATION    ).
+
+ An  acute≠B-OSE_Labeled_AE   myopathy≠I-OSE_Labeled_AE  has been observed with the use of high doses of corticosteroids, most often occurring in patients with  disorders≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   neuromuscular≠I-Not_AE_Candidate   transmission≠I-Not_AE_Candidate  (e.g.,  myasthenia≠B-Not_AE_Candidate   gravis≠I-Not_AE_Candidate ), or in patients receiving concomitant therapy with neuromuscular blocking drugs (e.g., pancuronium). This  acute≠B-NonOSE_AE   myopathy≠I-NonOSE_AE  is generalized, may involve ocular and respiratory muscles, and may result in  quadriparesis≠B-NonOSE_AE .  Elevation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE   kinase≠I-OSE_Labeled_AE  may occur. Clinical improvement or recovery after stopping corticosteroids may require weeks to years.
+
+  Psychic≠B-OSE_Labeled_AE   derangements≠I-OSE_Labeled_AE  may appear when corticosteroids are used, ranging from  euphoria≠B-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  mood≠B-OSE_Labeled_AE   swings≠I-OSE_Labeled_AE ,  personality≠B-OSE_Labeled_AE   changes≠I-OSE_Labeled_AE , and  severe≠B-OSE_Labeled_AE   depression≠I-OSE_Labeled_AE , to frank  psychotic≠B-OSE_Labeled_AE   manifestations≠I-OSE_Labeled_AE . Also, existing  emotional≠B-OSE_Labeled_AE   instability≠I-OSE_Labeled_AE  or psychotic tendencies may be  aggravated≠I-OSE_Labeled_AE  by corticosteroids.
+
+    Ophthalmic
+
+   lntraocular≠B-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE  may become  elevated≠I-OSE_Labeled_AE  in some individuals. If steroid therapy is continued for more than 6 weeks, intraocular pressure should be monitored.
+
+    Information for Patients
+
+  Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision. As prolonged use may cause  adrenal≠B-NonOSE_AE   insufficiency≠I-NonOSE_AE  and make patients  dependent≠B-NonOSE_AE  on corticosteroids, they should advise any medical attendants that they are taking corticosteroids and they should seek medical advice at once should they develop an  acute≠B-NonOSE_AE   illness≠I-NonOSE_AE  including  fever≠B-NonOSE_AE  or other signs of  infection≠B-NonOSE_AE . Following prolonged therapy, withdrawal of corticosteroids may result in symptoms of the  corticosteroid≠B-NonOSE_AE   withdrawal≠I-NonOSE_AE   syndrome≠I-NonOSE_AE  including,  myalgia≠B-NonOSE_AE ,  arthralgia≠B-NonOSE_AE , and  malaise≠B-NonOSE_AE .
+
+ Persons who are on corticosteroids should be warned to avoid exposure to  chickenpox≠B-NonOSE_AE  or  measles≠B-NonOSE_AE . Patients should also be advised that if they are exposed, medical advice should be sought without delay.
+
+    Drug Interactions
+
+   Aminoglutethimide  : Aminoglutethimide may  diminish≠B-NonOSE_AE   adrenal≠I-NonOSE_AE   suppression≠I-NonOSE_AE  by corticosteroids.
+
+  Amphotericin B Injection and Potassium-depleting agents  : When corticosteroids are administered concomitantly with potassium-depleting agents (e.g., amphotericin B, diuretics), patients should be observed closely for development of  hypokalemia≠B-NonOSE_AE . In addition, there have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by  cardiac≠B-NonOSE_AE   enlargement≠I-NonOSE_AE  and  congestive≠B-NonOSE_AE   heart≠I-NonOSE_AE   failure≠I-NonOSE_AE .
+
+  Antibiotics  : Macrolide antibiotics have been reported to cause a significant decrease in corticosteroid clearance (see Drug Interactions: Hepatic Enzyme Inducers, Inhibitors and Substrates).
+
+  Anticholinesterases  : Concomitant use of anticholinesterase agents and corticosteroids may produce  severe≠B-NonOSE_AE   weakness≠I-NonOSE_AE  in patients with  myasthenia≠B-Not_AE_Candidate   gravis≠I-Not_AE_Candidate . If possible, anticholinesterase agents should be withdrawn at least 24 hours before initiating corticosteroid therapy.
+
+  Anticoagulants, Oral  : Co-administration of corticosteroids and warfarin usually results in inhibition of response to warfarin, although there have been some conflicting reports. Therefore, coagulation indices should be monitored frequently to maintain the desired  anticoagulant≠B-NonOSE_AE   effect≠I-NonOSE_AE .
+
+  Antidiabetics  : Because corticosteroids may  increase≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   glucose≠I-OSE_Labeled_AE   concentrations≠I-OSE_Labeled_AE , dosage adjustments of antidiabetic agents may be required.
+
+  Antitubercular Drugs  : Serum concentrations of isoniazid may be decreased.
+
+  Cholestyramine  : Cholestyramine may increase the clearance of corticosteroids.
+
+  Cyclosporine  : Increased activity of both cyclosporine and corticosteroids may occur when the two are used concurrently.  Convulsions≠B-NonOSE_AE  have been reported with this concurrent use.
+
+  Dexamethasone Suppression Test (DST)  :  False≠B-NonOSE_AE  -≠I-NonOSE_AE  negative≠I-NonOSE_AE   results≠I-NonOSE_AE   in≠I-NonOSE_AE   the≠I-NonOSE_AE   dexamethasone≠I-NonOSE_AE   suppression≠I-NonOSE_AE   test≠I-NonOSE_AE   (≠I-NonOSE_AE  DST≠I-NonOSE_AE ) in patients being treated with indomethacin have been reported. Thus, results of the DST should be interpreted with caution in these patients.
+
+  Digitalis Glycosides  : Patients on digitalis glycosides may be at increased risk of  arrhythmias≠B-NonOSE_AE  due to  hypokalemia≠B-NonOSE_AE .
+
+  Ephedrine  : Ephedrine may enhance the metabolic clearance of corticosteroids, resulting in decreased blood levels and lessened physiologic activity, thus requiring an increase in corticosteroid dosage.
+
+  Estrogens, Including Oral Contraceptives  : Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereby increasing their effect.
+
+  Hepatic Enzyme Inducers, Inhibitors and Substrates  : Drugs which induce cytochrome P450 3A4 (CYP 3A4) enzyme activity ( e.g., barbiturates, phenytoin, carbamazepine, rifampin  ) may enhance the metabolism of corticosteroids and require that the dosage of the corticosteroid be increased. Drugs which inhibit CYP 3A4 ( e.g., ketoconazole, macrolide antibiotics such as erythromycin  ) have the potential to result in increased plasma concentrations of corticosteroids. Dexamethasone is a moderate inducer of CYP 3A4. Co-adminstration with other drugs that are metabolized by CYP 3A4 ( e.g., indinavir, erythromycin  ) may increase their clearance, resulting in decreased plasma concentration.
+
+  Ketoconazole  : Ketoconazole has been reported to decrease the metabolism of certain corticosteroids by up to 60%, leading to increased risk of corticosteroid side effects. In addition, ketoconazole alone can  inhibit≠B-NonOSE_AE   adrenal≠I-NonOSE_AE   corticosteroid≠I-NonOSE_AE   synthesis≠I-NonOSE_AE  and may cause  adrenal≠B-NonOSE_AE   insufficiency≠I-NonOSE_AE  during corticosteroid withdrawal.
+
+  Nonsteroidal Anti-Inflammatory Agents (NSAIDS)  : Concomitant use of aspirin (or other nonsteroidal antiinflammatory agents) and corticosteroids increases the risk of  gastrointestinal≠B-NonOSE_AE   side≠I-NonOSE_AE   effects≠I-NonOSE_AE . Aspirin should be used cautiously in conjunction with corticosteroids in  hypoprothrombinemia≠B-Not_AE_Candidate . The clearance of salicylates may be increased with concurrent use of corticosteroids.
+
+  Phenytoin  : In post-marketing experience, there have been reports of both increases and decreases in phenytoin levels with dexamethasone co-administration, leading to alterations in  seizure≠B-NonOSE_AE  control.
+
+  Skin Tests  : Corticosteroids may  suppress≠B-NonOSE_AE   reactions≠I-NonOSE_AE   to≠I-NonOSE_AE   skin≠I-NonOSE_AE   tests≠I-NonOSE_AE .
+
+  Thalidomide  : Co-administration with thalidomide should be employed cautiously, as  toxic≠B-NonOSE_AE   epidermal≠I-NonOSE_AE   necrolysis≠I-NonOSE_AE  has been reported with concomitant use.
+
+  Vaccines  : Patients on corticosteroid therapy may exhibit a diminished response to toxoids and live or inactivated vaccines due to  inhibition≠B-NonOSE_AE   of≠I-NonOSE_AE   antibody≠I-NonOSE_AE   response≠I-NonOSE_AE . Corticosteroids may also  potentiate≠B-NonOSE_AE   the≠I-NonOSE_AE   replication≠I-NonOSE_AE   of≠I-NonOSE_AE   some≠I-NonOSE_AE   organisms≠I-NonOSE_AE   contained≠I-NonOSE_AE   in≠I-NonOSE_AE   live≠I-NonOSE_AE   attenuated≠I-NonOSE_AE   vaccines≠I-NonOSE_AE . Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see   WARNINGS  :  Infections  :  Vaccination    ).
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+  No adequate studies have been conducted in animals to determine whether corticosteroids have a potential for  carcinogenesis≠B-NonOSE_AE  or  mutagenesis≠B-NonOSE_AE .
+
+ Steroids may  increase≠B-OSE_Labeled_AE  or decrease  motility≠I-OSE_Labeled_AE  and number  of≠I-OSE_Labeled_AE   spermatozoa≠I-OSE_Labeled_AE  in some patients.
+
+    Pregnancy
+
+   Teratogenic Effects:  Pregnancy≠B-NonOSE_AE  Category C    : Corticosteroids have been shown to be  teratogenic≠B-NonOSE_AE  in many species when given in doses equivalent to the human dose. Animal studies in which corticosteroids have been given to  pregnant≠B-NonOSE_AE  mice, rats, and rabbits have yielded an increased incidence of  cleft≠B-NonOSE_AE   palate≠I-NonOSE_AE   in≠I-NonOSE_AE   the≠I-NonOSE_AE   offspring≠I-NonOSE_AE . There are no adequate and well-controlled studies in  pregnant≠B-Not_AE_Candidate  women. Corticosteroids should be used during  pregnancy≠B-Not_AE_Candidate  only if the potential benefit justifies the potential  risk≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   fetus≠I-OSE_Labeled_AE .  Infants≠B-NonOSE_AE  born to mothers who have received substantial doses of corticosteroids during pregnancy shou ld≠B-Not_AE_Candidate   be≠I-Not_AE_Candidate   car≠I-Not_AE_Candidate efully observed for signs of  hypoadrenalism≠I-NonOSE_AE .
+
+    Nursing Mothers
+
+  Systemically administered corticosteroids appear in human milk and could  suppress≠B-OSE_Labeled_AE   growth≠I-OSE_Labeled_AE ,  interfere≠B-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   endogenous≠I-OSE_Labeled_AE   corticosteroid≠I-OSE_Labeled_AE   production≠I-OSE_Labeled_AE , or cause other untoward effects. Because of the potential for serious  adverse≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   nursing≠I-OSE_Labeled_AE   infants≠I-OSE_Labeled_AE   from≠I-OSE_Labeled_AE   corticosteroids≠I-OSE_Labeled_AE , a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+    Pediatric Use
+
+  The efficacy and safety of corticosteroids in the pediatric population are based on the well-established course of effect of corticosteroids, which is similar in pediatric and adult populations. Published studies provide evidence of efficacy and safety in pediatric patients for the treatment of  nephrotic≠B-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate  (patients >2 years of age), and aggressive  lymphomas≠B-Not_AE_Candidate  and  leukemias≠B-Not_AE_Candidate  (patients >1 month of age). Other indications for pediatric use of corticosteroids, e.g., severe  asthma≠B-Not_AE_Candidate  and  wheezing≠B-Not_AE_Candidate , are based on adequate and well-controlled trials conducted in adults, on the premises that the course of the diseases and their pathophysiology are considered to be substantially similar in both populations.
+
+ The adverse effects of corticosteroids in pediatric patients are similar to those in adults (see   ADVERSE REACTIONS    ). Like adults, pediatric patients should be carefully observed with frequent measurements of blood pressure, weight, height, intraocular pressure, and clinical evaluation for the presence of  infection≠B-NonOSE_AE ,  psychosocial≠B-NonOSE_AE   disturbances≠I-NonOSE_AE ,  thromboembolism≠B-NonOSE_AE ,  peptic≠B-NonOSE_AE   ulcers≠I-NonOSE_AE ,  cataracts≠B-NonOSE_AE , and  osteoporosis≠B-NonOSE_AE . Pediatric patients who are treated with corticosteroids by any route, including systemically administered corticosteroids, may experience a  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   their≠I-OSE_Labeled_AE   growth≠I-OSE_Labeled_AE   velocity≠I-OSE_Labeled_AE . This  negative≠B-OSE_Labeled_AE   impact≠I-OSE_Labeled_AE  of corticosteroids  on≠I-OSE_Labeled_AE   growth≠I-OSE_Labeled_AE  has been observed at low systemic doses and in the absence of laboratory evidence of  hypothalamic≠B-NonOSE_AE  -≠I-NonOSE_AE  pituitary≠I-NonOSE_AE  -≠I-NonOSE_AE  adrenal≠I-NonOSE_AE   (≠I-NonOSE_AE  HPA≠I-NonOSE_AE  )≠I-NonOSE_AE   axis≠I-NonOSE_AE   suppression≠I-NonOSE_AE  (i.e., cosyntropin stimulation and basal cortisol plasma levels). Growth velocity may therefore be a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA axis function. The linear growth of pediatric patients treated with corticosteroids should be monitored, and the potential  growth≠B-NonOSE_AE   effects≠I-NonOSE_AE  of prolonged treatment should be weighed against clinical benefits obtained and the availability of treatment alternatives. In order to minimize the potential  growth≠B-NonOSE_AE   effects≠I-NonOSE_AE  of corticosteroids, pediatric patients should be titrated  to the lowest effective dose.
+
+    Geriatric Use
+
+  Clinical studies did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of  decreased≠B-Not_AE_Candidate   hepatic≠I-Not_AE_Candidate , renal, or cardiac  function≠I-Not_AE_Candidate , and of concomitant disease or other drug therapy. In particular, the increased risk of  diabetes≠B-NonOSE_AE   mellitus≠I-NonOSE_AE ,  fluid≠B-NonOSE_AE   retention≠I-NonOSE_AE  and  hypertension≠B-NonOSE_AE  in elderly patients treated with corticosteroids should be considered.
+

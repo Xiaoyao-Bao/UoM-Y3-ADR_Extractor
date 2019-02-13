@@ -1,0 +1,44 @@
+
+
+    BOXED WARNING: WARNING:  SERIOUS INFECTIONS and MALIGNANCIES
+
+    WARNING:  SERIOUS INFECTIONS and MALIGNANCIES  
+
+    SERIOUS INFECTIONS  
+
+   Patients treated with Enbrel are at increased risk for developing serious  infections≠B-OSE_Labeled_AE  that may lead to hospitalization or  death≠B-NonOSE_AE  [see Warnings and Precautions (      5.1      ) and Adverse Reactions (      6      )].  Most patients who developed these  infections≠B-NonOSE_AE  were taking concomitant  immunosuppressants≠B-NonOSE_AE  such as methotrexate or corticosteroids.  
+
+   Enbrel should be discontinued if a patient develops a serious  infection≠B-NonOSE_AE  or  sepsis≠B-NonOSE_AE .  
+
+   Reported  infections≠B-OSE_Labeled_AE  include:  
+
+ *   Active≠B-OSE_Labeled_AE   tuberculosis≠I-OSE_Labeled_AE , including  reactivation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   latent≠I-OSE_Labeled_AE   tuberculosis≠I-OSE_Labeled_AE . Patients with  tuberculosis≠B-OSE_Labeled_AE  have frequently presented with disseminated or extrapulmonary disease. Patients should be tested for  latent≠B-Not_AE_Candidate   tuberculosis≠I-Not_AE_Candidate  before Enbrel use and during therapy. Treatment for  latent≠B-Not_AE_Candidate   infection≠I-Not_AE_Candidate  should be initiated prior to Enbrel use. 
+ *   Invasive≠B-OSE_Labeled_AE   fungal≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE , including  histoplasmosis≠B-OSE_Labeled_AE ,  coccidioidomycosis≠B-OSE_Labeled_AE ,  candidiasis≠B-OSE_Labeled_AE ,  aspergillosis≠B-OSE_Labeled_AE ,  blastomycosis≠B-OSE_Labeled_AE , and  pneumocystosis≠B-OSE_Labeled_AE . Patients with  histoplasmosis≠B-OSE_Labeled_AE  or other  invasive≠B-OSE_Labeled_AE   fungal≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  may present with disseminated, rather than localized, disease.  Antigen≠B-NonOSE_AE  and antibody  testing≠I-NonOSE_AE   for≠I-NonOSE_AE   histoplasmosis≠I-NonOSE_AE   may≠I-NonOSE_AE   be≠I-NonOSE_AE   negative≠I-NonOSE_AE  in some patients with active  infection≠B-NonOSE_AE . Empiric anti-fungal therapy should be considered in patients at risk for  invasive≠B-NonOSE_AE   fungal≠I-NonOSE_AE   infections≠I-NonOSE_AE  who develop severe systemic illness. 
+ *   Bacterial≠B-OSE_Labeled_AE , viral, and other  infections≠I-OSE_Labeled_AE   due≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   opportunistic≠I-OSE_Labeled_AE   pathogens≠I-OSE_Labeled_AE , including  Legionella≠B-OSE_Labeled_AE  and Listeria. 
+      The risks and benefits of treatment with Enbrel should be carefully considered prior to initiating therapy in patients with chronic or recurrent  infection≠I-OSE_Labeled_AE .  
+ 
+
+   Patients should be closely monitored for the development of signs and symptoms of  infection≠B-NonOSE_AE  during and after treatment with Enbrel, including the possible development of  tuberculosis≠B-NonOSE_AE  in patients who tested negative for  latent≠B-Not_AE_Candidate   tuberculosis≠I-Not_AE_Candidate   infection≠I-Not_AE_Candidate  prior to initiating therapy.  
+
+   MALIGNANCIES  
+
+    Lymphoma≠B-OSE_Labeled_AE  and other  malignancies≠B-OSE_Labeled_AE , some  fatal≠B-NonOSE_AE , have been reported in children and adolescent patients treated with TNF blockers, including Enbrel.      
+
+   EXCERPT:     WARNING    :     SERIOUS INFECTIONS     and         MALIGNANCIES  
+
+   See     f    ull     p    rescribing     i    nformation for complete     b    oxed     w    arning.  
+
+   SERIOUS INFECTIONS  
+
+ *  Increased risk of serious infections leading to hospitalization or death, including tuberculosis (TB), bacterial sepsis, invasive fungal infections (such as histoplasmosis), and infections due to other opportunistic pathogens. (5.1) 
+ *  Enbrel should be discontinued if a patient develops a serious infection or sepsis during treatment. (5.1) 
+ *  Perform test for latent TB; if positive, start treatment for TB prior to starting Enbrel. (5.1) 
+ *  Monitor all patients for active TB during treatment, even if initial latent TB test is negative. (5.1) 
+           
+ 
+
+   MALIGNANCIES  
+
+ *  Lymphoma and other malignancies, some fatal, have been reported in children and adolescent patients treated with TNF blockers, including Enbrel. (5.3) 
+    
+

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="METROLOTION">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  In a controlled clinical trial, safety data from 141 patients who used MetroLotion  (r)  Topical Lotion (n=71), or the lotion vehicle (n=70), twice daily and experienced a local cutaneous adverse event which may or may not have been related to the treatments include: local allergic reaction, MetroLotion  (r)  Topical Lotion 2 (3%), lotion vehicle 0; contact dermatitis, MetroLotion  (r)  Topical Lotion 2 (3%), lotion vehicle 1 (1%); pruritus, MetroLotion  (r)  Topical Lotion 1 (1%), lotion vehicle 0; skin discomfort (burning and stinging), MetroLotion  (r)  Topical Lotion 1 (1%), lotion vehicle 2 (3%); erythema, MetroLotion  (r)  Topical Lotion 4 (6%), lotion vehicle 0; dry skin, MetroLotion  (r)  Topical Lotion 0, lotion vehicle 1 (l%); and worsening of rosacea, MetroLotion  (r)  Topical Lotion 1 (1%), lotion vehicle 7 (10%).
+
+
+
+ The following additional adverse experiences have been reported with the topical use of metronidazole: skin irritation, transient redness, metallic taste, tingling or numbness of extremities, and nausea.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+    General:    Topical metronidazole formulations have been reported to cause tearing of the eyes. Therefore, contact with the eyes should be avoided. If a reaction suggesting local irritation occurs, patients should be directed to use the medication less frequently or discontinue use. Metronidazole is a nitroimidazole and should be used with care in patients with evidence or history of blood dyscrasia.
+
+
+
+   Information for Patients:    Patients using MetroLotion  (r)  Topical Lotion should receive the following information and instructions:
+
+
+
+ *  This medication is to be used only as directed by the physician. 
+ *  It is for external use only. 
+ *  Avoid contact with the eyes. 
+ *  Cleanse affected area(s) before applying this medication. 
+ *  Patients should report any adverse reaction to their physician. 
+      Drug Interactions:    Oral metronidazole has been reported to potentiate the anticoagulant effect of warfarin and coumarin anticoagulants, resulting in a prolongation of prothrombin time. The effect of topical metronidazole on prothrombin time is not known.
+ 
+
+   Carcinogenesis, Mutagenesis, Impairment of Fertility:    Metronidazole has shown evidence of carcinogenic activity in a number of studies involving chronic, oral administration in mice and rats. Metronidazole has not been assessed for carcinogenic activity following topical administration. In several long term studies in mice, oral doses of approximately 200 mg/m  2  /day (approximately 20 times the exposure of a patient that received the estimated maximum human topical daily dose (assuming 100% bioavailability and following normalization of the data on the basis of the body surface area)) or greater were associated with increase incidences of lung tumors in male mice and lymphomas in female mice. In several long-term studies in rats, oral administration of metronidazole resulted in increased incidences of mammary and hepatic tumors in female rats and testicular tumors and pituitary adenomas in male rats at dosages of approximately 1600 mg/m  2  /day (approximately 170 times the exposure of a patient that received the estimated maximum human topical daily dose (assuming 100% bioavailability and following normalization of the data on the basis of the body surface area)) or greater. In another oral study, an increase of mammary tumors was observed in female rats that received approximately 160 mg/m  2  /day (approximately 17 times the exposure of a patient that received the estimated maximum human topical daily dose (assuming 100% bioavailability and the following normalization of the data on the basis of the body surface area)).
+
+
+
+ Ultraviolet radiation-induced carcinogenesis was enhanced in albino mice by intraperitoneal injection of metronidazole at a dosage of 45 mg/m  2  /day, 5 days per week for 10 weeks, as indicated by a decreased latency period to the development of skin neoplasms. It is unclear how this level of exposure compares to the clinical situation with respect to the concentration of the drug or metabolics in the skin. This study did not determine if metronidazole must be present during exposure to ultraviolet radiation in order to enhance tumor formation; metronidazole may promote tumor formation in cells that have previously been initiated by ultraviolet radiation.
+
+
+
+ Metronidazole exhibited mutagenic activity in several in vitro  bacterial and mammalian assay systems. Intraperitoneal administration of metronidazole to mice resulted in a dosage-dependent increase in the incidence of chromosomal aberrations in peripheral lymphocytes was reported in patients with Crohn`s disease who were treated with metronidazole for 1 to 24 months at a dosage of 200 to 1200 mg/day. However, similar results were not observed in another study, in which humans were treated for 8 months.
+
+
+
+ In rats, oral metronidazole at a dosage of approximately 1800 mg/m  2  /day (approximately 200 times the exposure of a patient that received the estimated maximum human topical daily dose (assuming 100% bioavailability and following normalization of the data on the basis of body surface area)) induced inhibition of spermatogenesis and severe testicular degeneration.
+
+
+
+   Pregnancy:      Teratogenic Effects:   Pregnancy Category B:  There are no adequate and well-controlled studies with the use of MetroLotion  (r)  Topical Lotion in pregnant women. Metronidazole crosses the placental barrier and enters the fetal circulation rapidly. No fetotoxicity was observed after oral administration of metronidazole in rats or mice. However, because animal reproduction studies are not always predictive of human response and since oral metronidazole has been shown to be a carcinogen in some rodents, this drug should be used during pregnancy only if clearly needed.
+
+
+
+   Nursing Mothers:      After oral administration, metronidazole is secreted in breast milk in concentrations similar to those found in the plasma. Even though blood levels are significantly lower with topically applied metronidazole than those achieved after oral administration of metronidazole, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+
+
+   Pediatric Use:      Safety and effectiveness in pediatric patients have not been established.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

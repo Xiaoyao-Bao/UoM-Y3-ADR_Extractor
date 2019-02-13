@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="MONISTAT_3">
+  <Text>
+    <Section id="S1" name="warnings">     Warnings  
+
+
+
+   For vaginal use only  
+
+
+
+    
+
+
+
+   Do not use if you have never had a vaginal yeast infection diagnosed by a doctor  
+
+
+
+    
+
+
+
+   Ask a doctor before use if you have  
+
+
+
+ *   vaginal itching and discomfort for the first time  
+ *   lower abdominal, back or shoulder pain, fever, chills, nausea, vomiting, or foul-smelling vaginal discharge. You may have a more serious condition.  
+ *  vaginal yeast infections often (such as once a month or 3 in 6 months). You could be pregnant or have a serious underlying medical cause for your symptoms, including diabetes or a weakened immune system. 
+ *  been exposed to the human immunodeficiency virus (HIV) that causes AIDS 
+       
+ 
+
+   Ask a doctor or pharmacist before use if you are  taking the prescription blood thinning medicine warfarin, because bleeding or bruising may occur
+
+
+
+    
+
+
+
+   When using this product  
+
+
+
+ *  do not use tampons, douches, spermicides or other vaginal products. Condoms and diaphragms may be damaged and fail to prevent pregnancy or sexually transmitted diseases (STDs). 
+ *  do not have vaginal intercourse 
+ *  mild increase in vaginal burning, itching or irritation may occur 
+ *  if you do not get complete relief ask a doctor before using another product. 
+       
+ 
+
+   Stop use and ask a doctor if  
+
+
+
+ *  symptoms do not get better in 3 days 
+ *  symptoms last more than 7 days 
+ *  you get a rash or hives, abdominal pain, fever, chills, nausea, vomiting, or foul- smelling vaginal discharge  
+       
+ 
+
+   If pregnant or breast-feeding,  ask a health professional before use.
+
+
+
+    
+
+
+
+   Keep out of reach of children.  If swallowed, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="11" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="0" name="heading" section="S1" start="52" />
+    <IgnoredRegion len="0" name="heading" section="S1" start="149" />
+    <IgnoredRegion len="0" name="heading" section="S1" start="702" />
+    <IgnoredRegion len="0" name="heading" section="S1" start="863" />
+    <IgnoredRegion len="0" name="heading" section="S1" start="1278" />
+    <IgnoredRegion len="0" name="heading" section="S1" start="1520" />
+    <IgnoredRegion len="0" name="heading" section="S1" start="1604" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

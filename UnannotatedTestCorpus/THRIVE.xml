@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="THRIVE">
+  <Text>
+    <Section id="S1" name="warnings">    Warnings
+
+
+
+   If you are pregnant or breast-feeding, only use this medicine on the advice of your health care provider.
+
+
+
+  Smoking can seriously harm your child. Try to stop smoking without using any nicotine replacement medicine. This medicine is believed to be safer than smoking. However, the risks to your child from this medicine are not fully known.
+
+
+
+    Ask a doctor before use if you have
+
+
+
+  ● a sodium restricted diet
+
+
+
+ ● heart disease, recent heart attack, or irregular heartbeat. Nicotine can increase your heart rate.
+
+
+
+ ● high blood pressure not controlled with medication. Nicotine can increase your blood pressure.
+
+
+
+ ● stomach ulcer or diabetes
+
+
+
+    Ask a doctor or pharmacist before use if you are
+
+
+
+  ● using a non-nicotine stop smoking drug
+
+
+
+ ● taking a prescription medicine for depression or asthma. Your prescription dose may need to be adjusted.
+
+
+
+    Stop use and ask a doctor if
+
+
+
+  ● mouth, teeth or jaw problems occur
+
+
+
+ ● irregular heartbeat or palpitations occur
+
+
+
+ ● you get symptoms or nicotine overdose, such as nausea, vomiting, dizziness, diarrhea, weakness, and rapid heartbeat
+
+
+
+     Keep out of reach of children and pets.  
+
+
+
+  Pieces of nicotine gum may have enough nicotine to make children and pets sick. Wrap used pieces of gum in paper and throw away in the trash. In case of overdose, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="8" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="105" name="heading" section="S1" start="19" />
+    <IgnoredRegion len="35" name="heading" section="S1" start="370" />
+    <IgnoredRegion len="48" name="heading" section="S1" start="683" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="896" />
+    <IgnoredRegion len="42" name="heading" section="S1" start="1144" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

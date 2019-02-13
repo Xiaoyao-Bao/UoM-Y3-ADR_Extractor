@@ -1,0 +1,128 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  Lactic acidosis: See  boxed warning  . (  5.1  ) 
+ *  There have been postmarketing reports of acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis. If pancreatitis is suspected, promptly discontinue JANUMET. (  5.2  ) 
+ *  Heart failure has been observed with two other members of the DPP-4 inhibitor class. Consider risks and benefits of JANUMET in patients who have known risk factors for heart failure. Monitor patients for signs and symptoms. (  5.3  ) 
+ *  There have been postmarketing reports of acute renal failure, sometimes requiring dialysis. Before initiating JANUMET and at least annually thereafter, assess renal function. (  5.4  ) 
+ *  Vitamin B12deficiency: Metformin may lower Vitamin B12levels. Measure hematologic parameters annually. (  5.5  ) 
+ *  When used with an insulin secretagogue (e.g., sulfonylurea) or with insulin, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia. (  5.7  ) 
+ *  There have been postmarketing reports of serious allergic and hypersensitivity reactions in patients treated with sitagliptin (one of the components of JANUMET), such as anaphylaxis, angioedema, and exfoliative skin conditions including Stevens-Johnson syndrome. In such cases, promptly stop JANUMET, assess for other potential causes, institute appropriate monitoring and treatment, and initiate alternative treatment for diabetes. (  5.9  ) 
+ *  Severe and disabling arthralgia has been reported in patients taking DPP-4 inhibitors. Consider as a possible cause for severe joint pain and discontinue drug if appropriate. (  5.10  ) 
+ *  There have been postmarketing reports of bullous pemphigoid requiring hospitalization in patients taking DPP-4 inhibitors. Tell patients to report development of blisters or erosions. If bullous pemphigoid is suspected, discontinue JANUMET. (  5.11  ) 
+ *  There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JANUMET or any other anti-diabetic drug. (  5.12  ) 
+    
+ 
+
+   5.1 Lactic Acidosis
+
+    Metformin hydrochloride    
+
+  There have been postmarketing cases of metformin-associated  lactic≠B-OSE_Labeled_AE   acidosis≠I-OSE_Labeled_AE , including  fatal≠B-NonOSE_AE  cases. These cases had a subtle onset and were accompanied by nonspecific symptoms such as  malaise≠B-NonOSE_AE ,  myalgias≠B-NonOSE_AE ,  abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  respiratory≠B-NonOSE_AE   distress≠I-NonOSE_AE , or  increased≠B-NonOSE_AE   somnolence≠I-NonOSE_AE ; however,  hypothermia≠B-NonOSE_AE ,  hypotension≠B-NonOSE_AE  and resistant  bradyarrhythmias≠B-NonOSE_AE  have occurred with severe  acidosis≠B-NonOSE_AE . Metformin-associated  lactic≠B-OSE_Labeled_AE   acidosis≠I-OSE_Labeled_AE  was characterized by  elevated≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   lactate≠I-OSE_Labeled_AE   concentrations≠I-OSE_Labeled_AE  (>5 mmol/Liter),  anion≠B-OSE_Labeled_AE   gap≠I-OSE_Labeled_AE   acidosis≠I-OSE_Labeled_AE  (without evidence of  ketonuria≠B-NonOSE_AE  or  ketonemia≠B-NonOSE_AE ), and an  increased≠B-OSE_Labeled_AE   lactate≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  pyruvate≠I-OSE_Labeled_AE   ratio≠I-OSE_Labeled_AE ; metformin plasma levels were generally >5 mcg/mL. Metformin decreases liver uptake of lactate  increasing≠B-OSE_Labeled_AE   lactate≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE  which may increase the risk of  lactic≠B-OSE_Labeled_AE   acidosis≠I-OSE_Labeled_AE , especially in patients at risk.  
+
+  If metformin-associated  lactic≠B-NonOSE_AE   acidosis≠I-NonOSE_AE  is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of JANUMET. In JANUMET-treated patients with a diagnosis or strong suspicion of  lactic≠B-NonOSE_AE   acidosis≠I-NonOSE_AE , prompt hemodialysis is recommended to correct the  acidosis≠B-NonOSE_AE  and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/min under good hemodynamic conditions). Hemodialysis has often resulted in reversal of symptoms and recovery.  
+
+  Educate patients and their families about the symptoms of  lactic≠B-NonOSE_AE   acidosis≠I-NonOSE_AE  and if these symptoms occur instruct them to discontinue JANUMET and report these symptoms to their health care provider.  
+
+  For each of the known and possible risk factors for metformin-associated  lactic≠B-NonOSE_AE   acidosis≠I-NonOSE_AE , recommendations to reduce the risk of and manage metformin-associated  lactic≠B-NonOSE_AE   acidosis≠I-NonOSE_AE  are provided below:  
+
+     Renal Impairment    
+
+  The postmarketing metformin-associated  lactic≠B-OSE_Labeled_AE   acidosis≠I-OSE_Labeled_AE  cases primarily occurred in patients with significant  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate . The risk of metformin accumulation and metformin-associated  lactic≠B-NonOSE_AE   acidosis≠I-NonOSE_AE  increases with the severity of  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  because metformin is substantially excreted by the kidney. Clinical recommendations based upon the patient's renal function include [see  Dosage and Administration (2.2)  ,  Clinical Pharmacology (12.3)  ]  :  
+
+ *   Before initiating JANUMET, obtain an estimated glomerular filtration rate (eGFR).  
+ *   JANUMET is contraindicated in patients with an  eGFR≠B-Not_AE_Candidate   below≠I-Not_AE_Candidate   3≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  .≠I-Not_AE_Candidate  7≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate   m≠I-Not_AE_Candidate    2≠I-Not_AE_Candidate    [see  Contraindications (4)  ] .  
+ *   JANUMET is not recommended in patients with an  eGFR≠B-Not_AE_Candidate   between≠I-Not_AE_Candidate   3≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   and≠I-Not_AE_Candidate   <≠I-Not_AE_Candidate  4≠I-Not_AE_Candidate  5≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  .≠I-Not_AE_Candidate  7≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate   m≠I-Not_AE_Candidate    2≠I-Not_AE_Candidate   because these patients require a lower dosage of sitagliptin than what is available in the fixed combination JANUMET product.  
+ *   Obtain an eGFR at least annually in all patients taking JANUMET. In patients at increased risk for the development of  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  (e.g., the elderly), renal function should be assessed more frequently.  
+        Drug Interactions    
+ 
+
+  The concomitant use of JANUMET with specific drugs may increase the risk of metformin-associated  lactic≠B-NonOSE_AE   acidosis≠I-NonOSE_AE : those that  impair≠B-NonOSE_AE   renal≠I-NonOSE_AE   function≠I-NonOSE_AE , result in significant  hemodynamic≠B-NonOSE_AE   change≠I-NonOSE_AE ,  interfere≠B-NonOSE_AE   with≠I-NonOSE_AE   acid≠I-NonOSE_AE  -≠I-NonOSE_AE  base≠I-NonOSE_AE   balance≠I-NonOSE_AE  or increase metformin accumulation [see  Drug Interactions (7)  ]  . Therefore, consider more frequent monitoring of patients.  
+
+     Age 65 or Greater    
+
+  The risk of metformin-associated  lactic≠B-OSE_Labeled_AE   acidosis≠I-OSE_Labeled_AE  increases with the patient's age because elderly patients have a greater likelihood of having  hepatic≠B-Not_AE_Candidate , renal, or cardiac  impairment≠I-Not_AE_Candidate  than younger patients. Assess renal function more frequently in elderly patients [ see  Use in Specific Populations (8.5)  ].    
+
+     Radiological Studies with Contrast    
+
+  Administration of intravascular iodinated contrast agents in metformin-treated patients has led to an acute  decrease≠B-NonOSE_AE   in≠I-NonOSE_AE   renal≠I-NonOSE_AE   function≠I-NonOSE_AE  and the occurrence of  lactic≠B-NonOSE_AE   acidosis≠I-NonOSE_AE . Stop JANUMET at the time of, or prior to, an iodinated contrast imaging procedure in patients with an  eGFR≠B-Not_AE_Candidate   between≠I-Not_AE_Candidate   3≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   and≠I-Not_AE_Candidate   6≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  .≠I-Not_AE_Candidate  7≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate   m≠I-Not_AE_Candidate    2≠I-Not_AE_Candidate   ; in patients with a history of  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate , alcoholism, or  heart≠B-Not_AE_Candidate   failure≠I-Not_AE_Candidate ; or in patients who will be administered intra-arterial iodinated contrast. Re-evaluate eGFR 48 hours after the imaging procedure, and restart JANUMET if renal function is stable.  
+
+     Surgery and Other Procedures    
+
+  Withholding of food and fluids during surgical or other procedures may increase the risk for  volume≠B-NonOSE_AE   depletion≠I-NonOSE_AE ,  hypotension≠B-NonOSE_AE  and  renal≠B-NonOSE_AE   impairment≠I-NonOSE_AE . JANUMET should be temporarily discontinued while patients have restricted food and fluid intake.  
+
+     Hypoxic States    
+
+  Several of the postmarketing cases of metformin-associated  lactic≠B-OSE_Labeled_AE   acidosis≠I-OSE_Labeled_AE  occurred in the setting of  acute≠B-Not_AE_Candidate   congestive≠I-Not_AE_Candidate   heart≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate  (particularly when accompanied by  hypoperfusion≠B-Not_AE_Candidate  and  hypoxemia≠B-Not_AE_Candidate ).  Cardiovascular≠B-Not_AE_Candidate   collapse≠I-Not_AE_Candidate  ( shock≠B-Not_AE_Candidate ),  acute≠B-Not_AE_Candidate   myocardial≠I-Not_AE_Candidate   infarction≠I-Not_AE_Candidate ,  sepsis≠B-Not_AE_Candidate , and other conditions associated with  hypoxemia≠B-Not_AE_Candidate  have been associated with  lactic≠B-NonOSE_AE   acidosis≠I-NonOSE_AE  and may also cause  prerenal≠B-NonOSE_AE   azotemia≠I-NonOSE_AE . When such events occur, discontinue JANUMET.  
+
+     Excessive Alcohol Intake    
+
+  Alcohol potentiates the effect of metformin on lactate metabolism and this may increase the risk of metformin-associated  lactic≠B-NonOSE_AE   acidosis≠I-NonOSE_AE . Warn patients against excessive alcohol intake while receiving JANUMET.  
+
+     Hepatic Impairment    
+
+  Patients with  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  have developed with cases of metformin-associated  lactic≠B-OSE_Labeled_AE   acidosis≠I-OSE_Labeled_AE . This may be due to impaired lactate clearance resulting in  higher≠B-NonOSE_AE   lactate≠I-NonOSE_AE   blood≠I-NonOSE_AE   levels≠I-NonOSE_AE . Therefore, avoid use of JANUMET in patients with clinical or laboratory evidence of  hepatic≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate .  
+
+    5.2 Pancreatitis
+
+  There have been postmarketing reports of  acute≠B-OSE_Labeled_AE   pancreatitis≠I-OSE_Labeled_AE , including  fatal≠B-NonOSE_AE  and non-fatal  hemorrhagic≠B-OSE_Labeled_AE  or necrotizing  pancreatitis≠I-OSE_Labeled_AE , in patients taking JANUMET. After initiation of JANUMET, patients should be observed carefully for signs and symptoms of  pancreatitis≠B-NonOSE_AE . If  pancreatitis≠B-NonOSE_AE  is suspected, JANUMET should promptly be discontinued and appropriate management should be initiated. It is unknown whether patients with a history of  pancreatitis≠B-Not_AE_Candidate  are at increased risk for the development of  pancreatitis≠B-NonOSE_AE  while using JANUMET.
+
+    5.3 Heart Failure
+
+   An association between dipeptidyl peptidase-4 (DPP-4) inhibitor treatment and  heart≠B-NonOSE_AE   failure≠I-NonOSE_AE  has been observed in cardiovascular outcomes trials for two other members of the DPP-4 inhibitor class. These trials evaluated patients with  type≠B-Not_AE_Candidate   2≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate  and  atherosclerotic≠B-Not_AE_Candidate   cardiovascular≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate .  
+
+  Consider the risks and benefits of JANUMET prior to initiating treatment in patients at risk for  heart≠B-NonOSE_AE   failure≠I-NonOSE_AE , such as those with a prior history of  heart≠B-Not_AE_Candidate   failure≠I-Not_AE_Candidate  and a history of  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate , and observe these patients for signs and symptoms of  heart≠B-NonOSE_AE   failure≠I-NonOSE_AE  during therapy. Advise patients of the characteristic symptoms of  heart≠B-NonOSE_AE   failure≠I-NonOSE_AE  and to immediately report such symptoms. If  heart≠B-NonOSE_AE   failure≠I-NonOSE_AE  develops, evaluate and manage according to current standards of care and consider discontinuation of JANUMET.  
+
+    5.4 Assessment of Renal Function
+
+   Metformin and sitagliptin are known to be substantially excreted by the kidney.  
+
+     Metformin hydrochloride    
+
+  JANUMET is contraindicated in patients with severe  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  [see  Contraindications (4)  and  Warnings and Precautions (5.1)  ]  .  
+
+     Sitagliptin    
+
+  There have been postmarketing reports of  worsening≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE , including  acute≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE , sometimes requiring dialysis. Before initiation of therapy with JANUMET and at least annually thereafter, renal function should be assessed. In patients in whom development of  renal≠B-NonOSE_AE   dysfunction≠I-NonOSE_AE  is anticipated, particularly in elderly patients, renal function should be assessed more frequently and JANUMET discontinued if evidence of  renal≠B-NonOSE_AE   impairment≠I-NonOSE_AE  is present.  
+
+    5.5 Vitamin B12Levels
+
+  In controlled clinical trials of metformin of 29 weeks duration, a  decrease≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   subnormal≠I-OSE_Labeled_AE  levels of previously normal serum  Vitamin≠I-OSE_Labeled_AE   B≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  2≠I-OSE_Labeled_AE  levels≠I-OSE_Labeled_AE , without clinical manifestations, was observed in approximately 7% of patients. Such decrease, possibly due to  interference≠B-NonOSE_AE   with≠I-NonOSE_AE   B≠I-NonOSE_AE  1≠I-NonOSE_AE  2≠I-NonOSE_AE  absorption≠I-NonOSE_AE  from the B12-intrinsic factor complex, is, however, very rarely associated with  anemia≠B-NonOSE_AE  and appears to be rapidly reversible with discontinuation of metformin or Vitamin B12supplementation. Measurement of hematologic parameters on an annual basis is advised in patients on JANUMET and any apparent abnormalities should be appropriately investigated and managed. [See  Adverse Reactions (6.1)  .]  
+
+ Certain individuals (those with  inadequate≠B-Not_AE_Candidate   Vitamin≠I-Not_AE_Candidate   B≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  2≠I-Not_AE_Candidate or calcium intake or  absorption≠I-Not_AE_Candidate ) appear to be predisposed to developing  subnormal≠B-NonOSE_AE   Vitamin≠I-NonOSE_AE   B≠I-NonOSE_AE  1≠I-NonOSE_AE  2≠I-NonOSE_AE  levels≠I-NonOSE_AE . In these patients, routine serum Vitamin B12measurements at two- to three-year intervals may be useful.
+
+    5.6 Change in Clinical Status of Patients with Previously Controlled Type 2 Diabetes
+
+  A patient with  type≠B-Not_AE_Candidate   2≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate  previously well controlled on JANUMET who develops  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  or clinical illness (especially vague and poorly defined illness) should be evaluated promptly for evidence of  ketoacidosis≠B-NonOSE_AE  or  lactic≠B-NonOSE_AE   acidosis≠I-NonOSE_AE . Evaluation should include serum electrolytes and ketones, blood glucose and, if indicated, blood pH, lactate, pyruvate, and metformin levels. If  acidosis≠B-NonOSE_AE  of either form occurs, JANUMET must be stopped immediately and other appropriate corrective measures initiated.
+
+    5.7 Use with Medications Known to Cause Hypoglycemia
+
+   Sitagliptin  
+
+ When sitagliptin was used in combination with a sulfonylurea or with insulin, medications known to cause  hypoglycemia≠B-NonOSE_AE , the incidence of  hypoglycemia≠B-NonOSE_AE  was increased over that of placebo used in combination with a sulfonylurea or with insulin [see  Adverse Reactions (6)  ].  Therefore, patients also receiving an insulin secretagogue (e.g., sulfonylurea) or insulin may require a lower dose of the insulin secretagogue or insulin to reduce the risk of  hypoglycemia≠B-NonOSE_AE  [see  Drug Interactions (7.4)  ]  .
+
+    Metformin hydrochloride  
+
+  Hypoglycemia≠B-NonOSE_AE  does not occur in patients receiving metformin alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as sulfonylureas and insulin) or ethanol. Elderly,  debilitated≠B-Not_AE_Candidate , or malnourished patients, and those with  adrenal≠B-Not_AE_Candidate  or pituitary  insufficiency≠I-Not_AE_Candidate  or  alcohol≠B-Not_AE_Candidate   intoxication≠I-Not_AE_Candidate  are particularly susceptible to  hypoglycemic≠B-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE .  Hypoglycemia≠B-NonOSE_AE  may be difficult to recognize in the elderly, and in people who are taking beta-adrenergic blocking drugs.
+
+    5.8 Loss of Control of Blood Glucose
+
+  When a patient stabilized on any diabetic regimen is exposed to stress such as  fever≠B-Not_AE_Candidate ,  trauma≠B-Not_AE_Candidate ,  infection≠B-Not_AE_Candidate , or surgery, a temporary  loss≠B-NonOSE_AE   of≠I-NonOSE_AE   glycemic≠I-NonOSE_AE   control≠I-NonOSE_AE  may occur. At such times, it may be necessary to withhold JANUMET and temporarily administer insulin. JANUMET may be reinstituted after the acute episode is resolved.
+
+    5.9 Hypersensitivity Reactions
+
+  There have been postmarketing reports of serious  hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  in patients treated with sitagliptin, one of the components of JANUMET. These reactions include  anaphylaxis≠B-OSE_Labeled_AE ,  angioedema≠B-OSE_Labeled_AE , and  exfoliative≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE   conditions≠I-OSE_Labeled_AE  including  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE . Onset of these reactions occurred within the first 3 months after initiation of treatment with sitagliptin, with some reports occurring after the first dose. If a  hypersensitivity≠B-NonOSE_AE   reaction≠I-NonOSE_AE  is suspected, discontinue JANUMET, assess for other potential causes for the event, and institute alternative treatment for  diabetes≠B-Not_AE_Candidate . [See  Adverse Reactions (6.2)  .]  
+
+  Angioedema≠B-NonOSE_AE  has also been reported with other DPP-4 inhibitors. Use caution in a patient with a history of  angioedema≠B-Not_AE_Candidate  with another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to  angioedema≠B-NonOSE_AE  with JANUMET.
+
+    5.10 Severe and Disabling Arthralgia
+
+  There have been postmarketing reports of severe and disabling  arthralgia≠B-OSE_Labeled_AE  in patients taking DPP-4 inhibitors. The time to onset of symptoms following initiation of drug therapy varied from one day to years. Patients experienced relief of symptoms upon discontinuation of the medication. A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor. Consider DPP-4 inhibitors as a possible cause for severe  joint≠B-NonOSE_AE   pain≠I-NonOSE_AE  and discontinue drug if appropriate.
+
+    5.11 Bullous Pemphigoid
+
+   Postmarketing cases of  bullous≠B-OSE_Labeled_AE   pemphigoid≠I-OSE_Labeled_AE  requiring hospitalization have been reported with DPP-4 inhibitor use. In reported cases, patients typically recovered with topical or systemic  immunosuppressive≠B-NonOSE_AE   treatment≠I-NonOSE_AE  and discontinuation of the DPP-4 inhibitor. Tell patients to report development of  blisters≠B-NonOSE_AE  or  erosions≠B-NonOSE_AE  while receiving JANUMET. If  bullous≠B-NonOSE_AE   pemphigoid≠I-NonOSE_AE  is suspected, JANUMET should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.  
+
+    5.12 Macrovascular Outcomes
+
+  There have been no clinical studies establishing conclusive evidence of  macrovascular≠B-NonOSE_AE  risk reduction with JANUMET or any other anti-diabetic drug.
+

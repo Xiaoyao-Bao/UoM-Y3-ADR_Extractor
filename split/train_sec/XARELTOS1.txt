@@ -1,0 +1,189 @@
+  6 ADVERSE REACTIONS
+
+  The following adverse reactions are also discussed in other sections of the labeling:
+
+ *  Increased risk of  stroke≠B-NonOSE_AE  after discontinuation in  nonvalvular≠B-Not_AE_Candidate   atrial≠I-Not_AE_Candidate   fibrillation≠I-Not_AE_Candidate  [see  Boxed Warning  and  Warnings and Precautions (5.1)  ]  
+ *   Bleeding≠B-OSE_Labeled_AE  risk [see  Warnings and Precautions (5.2  ,  5.4  ,  5.5  ,  5.6  ,  5.7)  ]  
+ *   Spinal≠B-OSE_Labeled_AE /epidural  hematoma≠I-OSE_Labeled_AE  [see  Boxed Warning  and  Warnings and Precautions (5.3)  ]  
+      EXCERPT:   The most common adverse reaction (>5%) was bleeding. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Janssen Pharmaceuticals, Inc. at 1-800-526-7736 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+ During clinical development for the approved indications, 18560 patients were exposed to XARELTO. These included 7111 patients who received XARELTO 15 mg or 20 mg orally once daily for a mean of 19 months (5558 for 12 months and 2512 for 24 months) to reduce the risk of  stroke≠B-Not_AE_Candidate  and  systemic≠B-Not_AE_Candidate   embolism≠I-Not_AE_Candidate  in  nonvalvular≠B-Not_AE_Candidate   atrial≠I-Not_AE_Candidate   fibrillation≠I-Not_AE_Candidate  (ROCKET AF); 6962 patients who received XARELTO 15 mg orally twice daily for three weeks followed by 20 mg orally once daily to treat  DVT≠B-Not_AE_Candidate  or  PE≠B-Not_AE_Candidate  (EINSTEIN  DVT≠B-Not_AE_Candidate , EINSTEIN  PE≠B-Not_AE_Candidate ), 10 mg or 20 mg orally once daily (EINSTEIN Extension, EINSTEIN CHOICE) to reduce the risk of recurrence of  DVT≠B-Not_AE_Candidate  and/or  PE≠B-Not_AE_Candidate ; and 4487 patients who received XARELTO 10 mg orally once daily for prophylaxis of  DVT≠B-Not_AE_Candidate  following hip or knee replacement surgery (RECORD 1-3).
+
+    Hemorrhage≠B-OSE_Labeled_AE 
+
+ The most common adverse reactions with XARELTO were  bleeding≠B-OSE_Labeled_AE   complications≠I-OSE_Labeled_AE   [see  Warnings and Precautions (5.2)  ]  .
+
+      Nonvalvular≠B-Not_AE_Candidate   Atrial≠I-Not_AE_Candidate   Fibrillation≠I-Not_AE_Candidate   
+
+ In the ROCKET  AF≠B-Not_AE_Candidate  trial, the most frequent adverse reactions associated with permanent drug discontinuation were  bleeding≠B-OSE_Labeled_AE  events, with incidence rates of 4.3% for XARELTO vs. 3.1% for warfarin. The incidence of discontinuations for  non≠B-NonOSE_AE  -≠I-NonOSE_AE  bleeding≠I-NonOSE_AE   adverse≠I-NonOSE_AE   events≠I-NonOSE_AE  was similar in both treatment groups.
+
+ Table 1 shows the number of patients experiencing various types of  bleeding≠B-NonOSE_AE  events in the ROCKET  AF≠B-Not_AE_Candidate  trial.
+
+ Table 1: Bleeding Events in ROCKET AFMajor bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories. These events occurred during treatment or within 2 days of stopping treatment.- On Treatment Plus 2 Days 
+ Parameter                       XARELTON=7111n (%/year)  WarfarinN=7125n (%/year)  XARELTO vs. WarfarinHR(95% CI)   
+  
+ Abbreviations: HR = Hazard Ratio, CI = Confidence interval, CRNM = Clinically Relevant Non-Major.   
+  
+ Major  Bleeding≠B-OSE_Labeled_AE  [note: Defined as clinically overt  bleeding≠B-OSE_Labeled_AE  associated with a  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE  of >=2 g/dL, a transfusion of >=2 units of packed red blood cells or whole blood,  bleeding≠B-OSE_Labeled_AE  at a critical site, or with a fatal outcome.]          395 (3.6)                386 (3.5)            1.04 (0.90, 1.20)       
+    Intracranial≠B-OSE_Labeled_AE   Hemorrhage≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  ICH≠I-OSE_Labeled_AE ) [note:  Intracranial≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  included intraparenchymal, intraventricular, subdural,  subarachnoid≠B-OSE_Labeled_AE  and/or epidural  hematoma≠I-OSE_Labeled_AE .]          55 (0.5)                 84 (0.7)             0.67 (0.47, 0.93)       
+      Hemorrhagic≠B-OSE_Labeled_AE   Stroke≠I-OSE_Labeled_AE  [note:  Hemorrhagic≠B-OSE_Labeled_AE   stroke≠I-OSE_Labeled_AE  in this table specifically refers to non-traumatic  intraparenchymal≠B-OSE_Labeled_AE  and/or intraventricular  hematoma≠I-OSE_Labeled_AE  in patients on treatment plus 2 days.]          36 (0.3)                 58 (0.5)             0.63 (0.42, 0.96)       
+     Other  ICH≠B-OSE_Labeled_AE                           19 (0.2)                 26 (0.2)             0.74 (0.41, 1.34)       
+    Gastrointestinal≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  GI≠I-OSE_Labeled_AE ) [note:  Gastrointestinal≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE  events included  upper≠B-OSE_Labeled_AE   GI≠I-OSE_Labeled_AE , lower GI, and rectal  bleeding≠I-OSE_Labeled_AE .]          221 (2.0)                140 (1.2)            1.61 (1.30, 1.99)       
+   Fatal  Bleeding≠B-OSE_Labeled_AE  [note: Fatal  bleeding≠B-OSE_Labeled_AE  is adjudicated death with the primary cause of death from  bleeding≠B-OSE_Labeled_AE .]          27 (0.2)                 55 (0.5)             0.50 (0.31, 0.79)       
+      ICH≠B-OSE_Labeled_AE                                 24 (0.2)                 42 (0.4)             0.58 (0.35, 0.96)       
+     Non-intracranial                    3 (0.0)                 13 (0.1)             0.23 (0.07, 0.82)       
+          Figure 1 shows the risk of major  bleeding≠B-NonOSE_AE  events across major subgroups.
+ 
+
+   Figure 1: Risk of Major Bleeding Events by Baseline Characteristics in ROCKET AF - On Treatment Plus 2 Days  
+
+ 
+
+ Note: The figure above presents effects in various subgroups all of which are baseline characteristics and all of which were pre-specified ( diabetic≠B-NonOSE_AE  status was not pre-specified in the subgroup, but was a criterion for the CHADS2 score). The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors. Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
+
+  Figure 1     Treatment of Deep Vein Thrombosis (DVT) and/or Pulmonary Embolism (PE)  
+
+   EINSTEIN  DVT≠B-Not_AE_Candidate  and EINSTEIN  PE≠B-Not_AE_Candidate  Studies
+
+ In the pooled analysis of the EINSTEIN  DVT≠B-Not_AE_Candidate  and EINSTEIN  PE≠B-Not_AE_Candidate  clinical studies, the most frequent adverse reactions leading to permanent drug discontinuation were  bleeding≠B-OSE_Labeled_AE  events, with XARELTO vs. enoxaparin/Vitamin K antagonist (VKA) incidence rates of 1.7% vs. 1.5%, respectively. The mean duration of treatment was 208 days for XARELTO-treated patients and 204 days for enoxaparin/VKA-treated patients.
+
+ Table 2 shows the number of patients experiencing major  bleeding≠B-NonOSE_AE  events in the pooled analysis of the EINSTEIN  DVT≠B-Not_AE_Candidate  and EINSTEIN  PE≠B-Not_AE_Candidate  studies.
+
+ Table 2: Bleeding EventsBleeding event occurred after randomization and up to 2 days after the last dose of study drug. Although a patient may have had 2 or more events, the patient is counted only once in a category. in the Pooled Analysis of EINSTEIN  DVT≠B-Not_AE_Candidate  and EINSTEIN  PE≠B-Not_AE_Candidate  Studies 
+ Parameter                                                     XARELTO [note: Treatment schedule in EINSTEIN  DVT≠B-Not_AE_Candidate  and EINSTEIN  PE≠B-Not_AE_Candidate  studies: XARELTO 15 mg twice daily for 3 weeks followed by 20 mg once daily; enoxaparin/VKA [enoxaparin: 1 mg/kg twice daily, VKA: individually titrated doses to achieve a target INR of 2.5 (range: 2.0-3.0)]] N=4130n (%)  Enoxaparin/VKAN=4116n (%)   
+  
+ Major  bleeding≠B-OSE_Labeled_AE  event                                                40 (1.0)              72 (1.7)         
+   Fatal  bleeding≠B-OSE_Labeled_AE                                                     3 (<0.1)              8 (0.2)          
+     Intracranial                                                    2 (<0.1)              4 (<0.1)         
+   Non-fatal critical organ  bleeding≠B-OSE_Labeled_AE                                  10 (0.2)              29 (0.7)         
+      Intracranial≠B-OSE_Labeled_AE  [note: Treatment-emergent major  bleeding≠I-OSE_Labeled_AE  events with at least >2 subjects in any pooled treatment group]         3 (<0.1)              10 (0.2)         
+     Retroperitoneal                                                 1 (<0.1)              8 (0.2)          
+     Intraocular                                                     3 (<0.1)              2 (<0.1)         
+     Intra-articular                                                    0                  4 (<0.1)         
+   Non-fatal non-critical organ  bleeding≠B-OSE_Labeled_AE  [note: Major  bleeding≠B-OSE_Labeled_AE  which is not fatal or in a critical organ, but resulting in a  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Hb≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  =≠I-OSE_Labeled_AE   2≠I-OSE_Labeled_AE   g≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  dL≠I-OSE_Labeled_AE  and/or transfusion of >=2 units of whole blood or packed red blood cells]         27 (0.7)              37 (0.9)         
+    Decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Hb≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  =≠I-OSE_Labeled_AE   2≠I-OSE_Labeled_AE   g≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  dL≠I-OSE_Labeled_AE                                           28 (0.7)              42 (1.0)         
+   Transfusion of >=2 units of whole blood or packed red blood cells        18 (0.4)              25 (0.6)         
+ Clinically relevant non-major  bleeding≠B-OSE_Labeled_AE                              357 (8.6)             357 (8.7)         
+ Any  bleeding≠B-OSE_Labeled_AE                                                       1169 (28.3)           1153 (28.0)        
+             Reduction in the Risk of Recurrence of DVT and/or PE  
+ 
+
+   EINSTEIN CHOICE Study
+
+ In the EINSTEIN CHOICE clinical study, the most frequent adverse reactions associated with permanent drug discontinuation were  bleeding≠B-OSE_Labeled_AE  events, with incidence rates of 1% for XARELTO 10 mg, 2% for XARELTO 20 mg, and 1% for acetylsalicylic acid (aspirin) 100 mg. The mean duration of treatment was 293 days for XARELTO 10 mg-treated patients and 286 days for aspirin 100 mg-treated patients.
+
+ Table 3 shows the number of patients experiencing  bleeding≠B-NonOSE_AE  events in the EINSTEIN CHOICE study.
+
+ Table 3: Bleeding EventsBleeding event occurred after the first dose and up to 2 days after the last dose of study drug. Although a patient may have had 2 or more events, the patient is counted only once in a category. in EINSTEIN CHOICE 
+ Parameter                                 XARELTO [note: Treatment schedule: XARELTO 10 mg once daily or aspirin 100 mg once daily.] 10 mgN=1127n (%)  Acetylsalicylic Acid (aspirin)100 mgN=1131n (%)   
+  
+ Major  bleeding≠B-OSE_Labeled_AE  event                                 5 (0.4)                         3 (0.3)               
+   Fatal  bleeding≠B-OSE_Labeled_AE                                         0                            1 (<0.1)              
+   Non-fatal critical organ  bleeding≠B-OSE_Labeled_AE                   2 (0.2)                         1 (<0.1)              
+   Non-fatal non-critical organ  bleeding≠B-OSE_Labeled_AE  [note: Major  bleeding≠B-OSE_Labeled_AE  which is not fatal or in a critical organ, but resulting in a  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Hb≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  =≠I-OSE_Labeled_AE   2≠I-OSE_Labeled_AE   g≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  dL≠I-OSE_Labeled_AE  and/or transfusion of >= 2 units of whole blood or packed red blood cells.]              3 (0.3)                         1 (<0.1)              
+ Clinically relevant non-major (CRNM)  bleeding≠B-OSE_Labeled_AE  [note:  Bleeding≠B-OSE_Labeled_AE  which was clinically overt, did not meet the criteria for major  bleeding≠B-NonOSE_AE , but was associated with medical intervention, unscheduled contact with a physician, temporary cessation of treatment, discomfort for the patient, or  impairment≠B-NonOSE_AE   of≠I-NonOSE_AE   activities≠I-NonOSE_AE   of≠I-NonOSE_AE   daily≠I-NonOSE_AE   life≠I-NonOSE_AE .]              22 (2.0)                        20 (1.8)              
+ Any  bleeding≠B-OSE_Labeled_AE                                         151 (13.4)                      138 (12.2)             
+         In the EINSTEIN CHOICE study, there was an increased incidence of  bleeding≠B-OSE_Labeled_AE , including major and CRNM  bleeding≠B-OSE_Labeled_AE  in the XARELTO 20 mg group compared to the XARELTO 10 mg or aspirin 100 mg groups.
+ 
+
+     Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery  
+
+ In the RECORD clinical trials, the overall incidence rate of adverse reactions leading to permanent treatment discontinuation was 3.7% with XARELTO.
+
+ The rates of major  bleeding≠B-NonOSE_AE  events and any  bleeding≠B-NonOSE_AE  events observed in patients in the RECORD clinical trials are shown in Table 4.
+
+ Table 4: Bleeding EventsBleeding events occurring any time following the first dose of double-blind study medication (which may have been prior to administration of active drug) until two days after the last dose of double-blind study medication. Patients may have more than one event. in Patients Undergoing Hip or Knee Replacement Surgeries (RECORD 1-3) 
+                                                   XARELTO 10 mg           Enoxaparin [note: Includes the placebo-controlled period for RECORD 2, enoxaparin dosing was 40 mg once daily (RECORD 1-3)]    
+  
+   Total treated patients                           N=4487n (%)                     N=4524n (%)             
+   Major  bleeding≠B-OSE_Labeled_AE  event                               14 (0.3)                        9 (0.2)               
+     Fatal  bleeding≠B-OSE_Labeled_AE                                    1 (<0.1)                           0                  
+      Bleeding≠B-OSE_Labeled_AE  into a critical organ                   2 (<0.1)                        3 (0.1)               
+      Bleeding≠B-OSE_Labeled_AE  that required re-operation              7 (0.2)                         5 (0.1)               
+     Extra-surgical site  bleeding≠B-OSE_Labeled_AE  requiring transfusion of >2 units of whole blood or packed cells             4 (0.1)                         1 (<0.1)              
+   Any  bleeding≠B-OSE_Labeled_AE  event [note: Includes major  bleeding≠B-OSE_Labeled_AE  events]             261 (5.8)                       251 (5.6)              
+   Hip Surgery Studies                              N=3281n (%)                     N=3298n (%)             
+   Major  bleeding≠B-OSE_Labeled_AE  event                               7 (0.2)                         3 (0.1)               
+     Fatal  bleeding≠B-OSE_Labeled_AE                                    1 (<0.1)                           0                  
+      Bleeding≠B-OSE_Labeled_AE  into a critical organ                   1 (<0.1)                        1 (<0.1)              
+      Bleeding≠B-OSE_Labeled_AE  that required re-operation              2 (0.1)                         1 (<0.1)              
+     Extra-surgical site  bleeding≠B-OSE_Labeled_AE  requiring transfusion of >2 units of whole blood or packed cells             3 (0.1)                         1 (<0.1)              
+   Any  bleeding≠B-OSE_Labeled_AE  event                                201 (6.1)                       191 (5.8)              
+   Knee Surgery Study                               N=1206n (%)                     N=1226n (%)             
+   Major  bleeding≠B-OSE_Labeled_AE  event                               7 (0.6)                         6 (0.5)               
+     Fatal  bleeding≠B-OSE_Labeled_AE                                       0                               0                  
+      Bleeding≠B-OSE_Labeled_AE  into a critical organ                   1 (0.1)                         2 (0.2)               
+      Bleeding≠B-OSE_Labeled_AE  that required re-operation              5 (0.4)                         4 (0.3)               
+     Extra-surgical site  bleeding≠B-OSE_Labeled_AE  requiring transfusion of >2 units of whole blood or packed cells             1 (0.1)                            0                  
+   Any  bleeding≠B-OSE_Labeled_AE  event                                 60 (5.0)                        60 (4.9)              
+         Following XARELTO treatment, the majority of major  bleeding≠B-OSE_Labeled_AE  complications (>=60%) occurred during the first week after surgery.
+ 
+
+   Other Adverse Reactions
+
+  Non≠B-NonOSE_AE  -≠I-NonOSE_AE  hemorrhagic≠I-NonOSE_AE   adverse≠I-NonOSE_AE   reactions≠I-NonOSE_AE  reported in >=1% of XARELTO-treated patients in the EINSTEIN  DVT≠B-Not_AE_Candidate  and EINSTEIN  PE≠B-Not_AE_Candidate  studies are shown in Table 5.
+
+ Table 5: Other Adverse ReactionsAdverse reaction with Relative Risk >1.5 for XARELTO versus comparator Reported by >=1% of XARELTO-Treated Patients in EINSTEIN DVT and EINSTEIN PE Studies 
+ Body SystemAdverse Reaction                                                                                
+  
+   EINSTEIN  DVT≠B-Not_AE_Candidate  Study                                            XARELTO 20 mgN=1718n (%)      Enoxaparin/VKAN=1711n (%)     
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                
+    Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                                     46 (2.7)              25 (1.5)         
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE                                                      
+    Fatigue≠B-OSE_Labeled_AE                                                            24 (1.4)              15 (0.9)         
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                           
+    Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                                          50 (2.9)              31 (1.8)         
+    Muscle≠B-OSE_Labeled_AE   spasm≠I-OSE_Labeled_AE                                                       23 (1.3)              13 (0.8)         
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                  
+    Dizziness≠B-OSE_Labeled_AE                                                          38 (2.2)              22 (1.3)         
+    Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                     
+    Anxiety≠B-OSE_Labeled_AE                                                            24 (1.4)              11 (0.6)         
+    Depression≠B-OSE_Labeled_AE                                                         20 (1.2)              10 (0.6)         
+    Insomnia≠B-OSE_Labeled_AE                                                           28 (1.6)              18 (1.1)         
+   EINSTEIN  PE≠B-Not_AE_Candidate  Study                                             XARELTO 20 mgN=2412n (%)      Enoxaparin/VKAN=2405n (%)     
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                    
+    Pruritus≠B-OSE_Labeled_AE                                                           53 (2.2)              27 (1.1)         
+          Non≠B-NonOSE_AE  -≠I-NonOSE_AE  hemorrhagic≠I-NonOSE_AE   adverse≠I-NonOSE_AE   reactions≠I-NonOSE_AE  reported in >=1% of XARELTO-treated patients in RECORD 1-3 studies are shown in Table 6.
+ 
+
+ Table 6: Other Adverse Drug ReactionsAdverse reaction occurring any time following the first dose of double-blind medication, which may have been prior to administration of active drug, until two days after the last dose of double-blind study medication Reported by >=1% of XARELTO-Treated Patients in RECORD 1-3 Studies 
+ Body SystemAdverse Reaction                                   XARELTO10 mgN=4487n (%)  Enoxaparin [note: Includes the placebo-controlled period of RECORD 2, enoxaparin dosing was 40 mg once daily (RECORD 1-3)] N=4524n (%)   
+  
+    Injury≠B-NonOSE_AE  ,≠I-NonOSE_AE   poisoning≠I-NonOSE_AE   and≠I-NonOSE_AE   procedural≠I-NonOSE_AE   complications≠I-NonOSE_AE                                                            
+    Wound≠B-OSE_Labeled_AE   secretion≠I-OSE_Labeled_AE                                                   125 (2.8)              89 (2.0)         
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                           
+    Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE                                                  74 (1.7)              55 (1.2)         
+    Muscle≠B-OSE_Labeled_AE   spasm≠I-OSE_Labeled_AE                                                       52 (1.2)              32 (0.7)         
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                  
+    Syncope≠B-OSE_Labeled_AE                                                            55 (1.2)              32 (0.7)         
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                    
+    Pruritus≠B-OSE_Labeled_AE                                                           96 (2.1)              79 (1.8)         
+    Blister≠B-OSE_Labeled_AE                                                            63 (1.4)              40 (0.9)         
+             Other clinical trial experience:  In an investigational study of acute medically ill patients being treated with XARELTO 10 mg tablets, cases of  pulmonary≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  and  pulmonary≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  with  bronchiectasis≠B-OSE_Labeled_AE  were observed.
+ 
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post-approval use of XARELTO. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+    Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   agranulocytosis≠B-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE 
+
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   retroperitoneal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE 
+
+    Hepatobiliary≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   jaundice≠B-OSE_Labeled_AE ,  cholestasis≠B-OSE_Labeled_AE ,  hepatitis≠B-OSE_Labeled_AE  (including  hepatocellular≠B-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE )
+
+    Immune≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   hypersensitivity≠B-OSE_Labeled_AE ,  anaphylactic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  anaphylactic≠B-OSE_Labeled_AE   shock≠I-OSE_Labeled_AE ,  angioedema≠B-OSE_Labeled_AE 
+
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   cerebral≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  subdural≠B-OSE_Labeled_AE   hematoma≠I-OSE_Labeled_AE ,  epidural≠B-OSE_Labeled_AE   hematoma≠I-OSE_Labeled_AE ,  hemiparesis≠B-OSE_Labeled_AE 
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE 
+

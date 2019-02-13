@@ -1,0 +1,124 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Monitor patients for suicidal behavior and ideation (  5.1  ) 
+ *  VIMPAT may cause dizziness and ataxia (  5.2  ) 
+ *  Cardiac Rhythm and Conduction Abnormalities: ECG before beginning VIMPAT, and after VIMPAT is titrated to steady-state maintenance dose is recommended in patients with known cardiac conduction problems, taking drugs known to induce PR interval prolongation, or with severe cardiac disease (  5.3  ) 
+ *  VIMPAT may cause syncope (  5.4  ) 
+ *  VIMPAT should be gradually withdrawn to minimize the potential of increased seizure frequency (  5.5  ) 
+ *  Multiorgan Hypersensitivity Reactions (  5.6  ) 
+    
+ 
+
+   5.1 Suicidal Behavior and Ideation
+
+
+
+  Antiepileptic drugs (AEDs), including VIMPAT, increase the risk of  suicidal≠B-OSE_Labeled_AE   thoughts≠I-OSE_Labeled_AE  or behavior in patients taking these drugs for any indication. Patients treated with any AED for any indication should be monitored for the emergence or  worsening≠B-NonOSE_AE   of≠I-NonOSE_AE   depression≠I-NonOSE_AE ,  suicidal≠B-NonOSE_AE   thoughts≠I-NonOSE_AE  or behavior, and/or any unusual  changes≠B-NonOSE_AE   in≠I-NonOSE_AE   mood≠I-NonOSE_AE  or behavior.
+
+
+
+ Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of  suicidal≠B-OSE_Labeled_AE   thinking≠I-OSE_Labeled_AE  or behavior compared to patients randomized to placebo. In these trials, which had a median treatment duration of 12 weeks, the estimated incidence of  suicidal≠B-OSE_Labeled_AE   behavior≠I-OSE_Labeled_AE  or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of  suicidal≠B-OSE_Labeled_AE   thinking≠I-OSE_Labeled_AE  or behavior for every 530 patients treated. There were four  suicides≠B-OSE_Labeled_AE  in drug-treated patients in the trials and none in placebo-treated patients, but the number of events is too small to allow any conclusion about drug effect on  suicide≠B-NonOSE_AE .
+
+
+
+ The increased risk of  suicidal≠B-OSE_Labeled_AE   thoughts≠I-OSE_Labeled_AE  or behavior with AEDs was observed as early as one week after starting treatment with AEDs and persisted for the duration of treatment assessed. Because most trials included in the analysis did not extend beyond 24 weeks, the risk of  suicidal≠B-NonOSE_AE   thoughts≠I-NonOSE_AE  or behavior beyond 24 weeks could not be assessed.
+
+
+
+ The risk of  suicidal≠B-NonOSE_AE   thoughts≠I-NonOSE_AE  or behavior was generally consistent among drugs in the data analyzed. The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication. The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+
+
+
+ Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
+
+
+
+ Table 1 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis 
+ Indication            Placebo Patients with Events Per 1000 Patients  Drug Patients with Events Per 1000 Patients  Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients  Risk Difference: Additional Drug Patients with Events Per 1000 Patients   
+  
+  Epilepsy≠B-Not_AE_Candidate                       1.0                   3.4                   3.5                   2.4            
+  Psychiatric≠B-Not_AE_Candidate                    5.7                   8.5                   1.5                   2.9            
+ Other                         1.0                   1.8                   1.9                   0.9            
+ Total                         2.4                   4.3                   1.8                   1.9            
+           The relative risk for  suicidal≠B-OSE_Labeled_AE  thoughts or  behavior≠I-OSE_Labeled_AE  was higher in clinical trials for  epilepsy≠B-Not_AE_Candidate  than in clinical trials for  psychiatric≠B-Not_AE_Candidate  or other conditions, but the absolute risk differences were similar.
+ 
+
+ Anyone considering prescribing VIMPAT or any other AED must balance this risk with the risk of untreated illness.  Epilepsy≠B-Not_AE_Candidate  and many other illnesses for which antiepileptics are prescribed are themselves associated with morbidity and mortality and an increased risk of  suicidal≠B-NonOSE_AE   thoughts≠I-NonOSE_AE  and behavior. Should  suicidal≠B-NonOSE_AE   thoughts≠I-NonOSE_AE  and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
+
+
+
+ Patients, their caregivers, and families should be informed that AEDs increase the risk of  suicidal≠B-NonOSE_AE   thoughts≠I-NonOSE_AE  and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of  depression≠B-NonOSE_AE , any unusual  changes≠B-NonOSE_AE   in≠I-NonOSE_AE   mood≠I-NonOSE_AE  or behavior, or the emergence of  suicidal≠B-NonOSE_AE   thoughts≠I-NonOSE_AE , behavior, or  thoughts≠B-NonOSE_AE   about≠I-NonOSE_AE   self≠I-NonOSE_AE  -≠I-NonOSE_AE  harm≠I-NonOSE_AE .  Behaviors≠B-NonOSE_AE   of≠I-NonOSE_AE   concern≠I-NonOSE_AE  should be reported immediately to healthcare providers.
+
+
+
+    5.2 Dizziness and Ataxia
+
+
+
+  VIMPAT may cause  dizziness≠B-OSE_Labeled_AE  and  ataxia≠B-OSE_Labeled_AE .
+
+
+
+ In patients with  partial≠B-Not_AE_Candidate -onset  seizures≠I-Not_AE_Candidate  taking 1 to 3 concomitant AEDs,  dizziness≠B-OSE_Labeled_AE  was experienced by 25% of patients randomized to the recommended doses (200 to 400 mg/day) of VIMPAT (compared with 8% of placebo patients) and was the adverse event most frequently leading to discontinuation (3%).  Ataxia≠B-OSE_Labeled_AE  was experienced by 6% of patients randomized to the recommended doses (200 to 400 mg/day) of VIMPAT (compared to 2% of placebo patients). The onset of  dizziness≠B-OSE_Labeled_AE  and  ataxia≠B-OSE_Labeled_AE  was most commonly observed during titration. There was a substantial increase in these adverse events at doses higher than 400 mg/day [ see  Adverse Reactions (6.1)    ].
+
+
+
+    5.3 Cardiac Rhythm and Conduction Abnormalities
+
+
+
+   PR interval prolongation  
+
+
+
+ Dose-dependent  prolongations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   PR≠I-OSE_Labeled_AE   interval≠I-OSE_Labeled_AE  with VIMPAT have been observed in clinical studies in patients and in healthy volunteers [ see  Clinical Pharmacology (12.2)    ]. In adjunctive clinical trials in patients with  partial≠B-Not_AE_Candidate -onset  epilepsy≠I-Not_AE_Candidate , asymptomatic  first≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  degree≠I-OSE_Labeled_AE   atrioventricular≠I-OSE_Labeled_AE  (AV)  block≠I-OSE_Labeled_AE  was observed as an adverse reaction in 0.4% (4/944) of patients randomized to receive VIMPAT and 0% (0/364) of patients randomized to receive placebo. In clinical trials in patients with  diabetic≠B-Not_AE_Candidate   neuropathy≠I-Not_AE_Candidate , asymptomatic  first≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  degree≠I-OSE_Labeled_AE   AV≠I-OSE_Labeled_AE   block≠I-OSE_Labeled_AE  was observed as an adverse reaction in 0.5% (5/1023) of patients receiving VIMPAT and 0% (0/291) of patients receiving placebo.  Second≠B-OSE_Labeled_AE   degree≠I-OSE_Labeled_AE  and complete  AV≠I-OSE_Labeled_AE   block≠I-OSE_Labeled_AE  have been reported in patients in  pain≠B-Not_AE_Candidate  studies and in patients with  seizures≠B-Not_AE_Candidate . When VIMPAT is given with other drugs that  prolong≠B-NonOSE_AE   the≠I-NonOSE_AE   PR≠I-NonOSE_AE   interval≠I-NonOSE_AE ,  further≠B-NonOSE_AE   PR≠I-NonOSE_AE   prolongation≠I-NonOSE_AE  is possible.
+
+
+
+  VIMPAT should be used with caution in patients with known conduction problems (e.g., marked  first≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  degree≠I-Not_AE_Candidate   AV≠I-Not_AE_Candidate   block≠I-Not_AE_Candidate ,  second≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  degree≠I-Not_AE_Candidate   or≠I-Not_AE_Candidate   higher≠I-Not_AE_Candidate   AV≠I-Not_AE_Candidate   block≠I-Not_AE_Candidate  and  sick≠B-Not_AE_Candidate   sinus≠I-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate  without pacemaker),  sodium≠B-Not_AE_Candidate   channelopathies≠I-Not_AE_Candidate  (e.g.,  Brugada≠B-Not_AE_Candidate   Syndrome≠I-Not_AE_Candidate ), on concomitant medications that  prolong≠B-NonOSE_AE   PR≠I-NonOSE_AE   interval≠I-NonOSE_AE , or with severe  cardiac≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  such as  myocardial≠B-Not_AE_Candidate   ischemia≠I-Not_AE_Candidate  or  heart≠B-Not_AE_Candidate   failure≠I-Not_AE_Candidate , or  structural≠B-Not_AE_Candidate   heart≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate . In such patients, obtaining an ECG before beginning VIMPAT, and after VIMPAT is titrated to steady-state maintenance dose, is recommended. In addition, these patients should be closely monitored if they are administered VIMPAT through the intravenous route. One case of profound  bradycardia≠B-OSE_Labeled_AE  was observed in a patient during a 15-minute infusion of 150 mg VIMPAT. There were two postmarketing reports of  third≠B-NonOSE_AE   degree≠I-NonOSE_AE   AV≠I-NonOSE_AE   block≠I-NonOSE_AE  in patients with significant  cardiac≠B-Not_AE_Candidate   history≠I-Not_AE_Candidate  and also receiving metoprolol and amlodipine during infusion of VIMPAT injection at doses higher than recommended [ see  Adverse Reactions (6.1)  ,  Drug Interactions (7.2)  ].    
+
+
+
+    Atrial fibrillation and Atrial flutter  
+
+
+
+ In the short-term investigational trials of VIMPAT in  epilepsy≠B-Not_AE_Candidate  patients, there were no cases of  atrial≠B-NonOSE_AE   fibrillation≠I-NonOSE_AE  or flutter. Both  atrial≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE  and  atrial≠B-OSE_Labeled_AE   flutter≠I-OSE_Labeled_AE  have been reported in open label  epilepsy≠B-Not_AE_Candidate  trials and in postmarketing experience. In patients with  diabetic≠B-Not_AE_Candidate   neuropathy≠I-Not_AE_Candidate , 0.5% of patients treated with VIMPAT experienced an adverse reaction of  atrial≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE  or  atrial≠B-OSE_Labeled_AE   flutter≠I-OSE_Labeled_AE , compared to 0% of placebo-treated patients. VIMPAT administration may predispose to  atrial≠B-OSE_Labeled_AE   arrhythmias≠I-OSE_Labeled_AE  ( atrial≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE  or flutter), especially in patients with  diabetic≠B-Not_AE_Candidate   neuropathy≠I-Not_AE_Candidate  and/or  cardiovascular≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate .
+
+
+
+    5.4 Syncope
+
+
+
+   In the short-term controlled trials of VIMPAT in epilepsy patients with no significant system illnesses, there was no increase in  syncope≠B-NonOSE_AE  compared to placebo. In the short-term controlled trials of VIMPAT in patients with  diabetic≠B-Not_AE_Candidate   neuropathy≠I-Not_AE_Candidate , 1.2% of patients who were treated with VIMPAT reported an adverse reaction of  syncope≠B-OSE_Labeled_AE  or  loss≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   consciousness≠I-OSE_Labeled_AE , compared to 0% of placebo-treated patients with  diabetic≠B-Not_AE_Candidate   neuropathy≠I-Not_AE_Candidate . Most of the cases of  syncope≠B-OSE_Labeled_AE  were observed in patients receiving doses above 400 mg/day. The cause of  syncope≠B-NonOSE_AE  was not determined in most cases. However, several were associated with either  changes≠B-NonOSE_AE   in≠I-NonOSE_AE  orthostatic  blood≠I-NonOSE_AE   pressure≠I-NonOSE_AE ,  atrial≠B-NonOSE_AE  flutter/ fibrillation≠I-NonOSE_AE  (and associated  tachycardia≠B-NonOSE_AE ), or  bradycardia≠B-OSE_Labeled_AE . Cases of  syncope≠B-OSE_Labeled_AE  have also been observed in open-label clinical  epilepsy≠B-Not_AE_Candidate  studies. These cases were associated with a history of risk factors for  cardiac≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  and the use of  drugs≠B-Not_AE_Candidate   that≠I-Not_AE_Candidate   slow≠I-Not_AE_Candidate   AV≠I-Not_AE_Candidate   conduction≠I-Not_AE_Candidate .  
+
+
+
+    5.5 Withdrawal of Antiepileptic Drugs (AEDs)
+
+
+
+  As with all AEDs, VIMPAT should be withdrawn gradually (over a minimum of 1 week) to minimize the potential of  increased≠B-NonOSE_AE   seizure≠I-NonOSE_AE   frequency≠I-NonOSE_AE  in patients with  seizure≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate .
+
+
+
+    5.6 Multiorgan Hypersensitivity Reactions
+
+
+
+  One case of symptomatic  hepatitis≠B-OSE_Labeled_AE  and  nephritis≠B-OSE_Labeled_AE  was observed among 4011 subjects exposed to VIMPAT during clinical development. The event occurred in a healthy volunteer, 10 days after stopping VIMPAT treatment. The subject was not taking any concomitant medication and potential known  viral≠B-NonOSE_AE   etiologies≠I-NonOSE_AE   for≠I-NonOSE_AE   hepatitis≠I-NonOSE_AE  were  ruled≠I-NonOSE_AE   out≠I-NonOSE_AE . The subject fully recovered within a month, without specific treatment. The case is consistent with a delayed  multiorgan≠B-OSE_Labeled_AE   hypersensitivity≠I-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE . Additional potential cases included 2 with  rash≠B-OSE_Labeled_AE  and  elevated≠B-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   enzymes≠I-OSE_Labeled_AE  and 1 with  myocarditis≠B-OSE_Labeled_AE  and  hepatitis≠B-OSE_Labeled_AE  of uncertain etiology.
+
+
+
+  Multiorgan≠B-OSE_Labeled_AE   hypersensitivity≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  also≠I-OSE_Labeled_AE   known≠I-OSE_Labeled_AE   as≠I-OSE_Labeled_AE   D≠I-OSE_Labeled_AE    rug≠I-OSE_Labeled_AE   R≠I-OSE_Labeled_AE    eaction≠I-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   E≠I-OSE_Labeled_AE    osinophilia≠I-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   S≠I-OSE_Labeled_AE    ystemic≠I-OSE_Labeled_AE   S≠I-OSE_Labeled_AE    ymptoms≠I-OSE_Labeled_AE  ,≠I-OSE_Labeled_AE   or≠I-OSE_Labeled_AE   DRESS≠I-OSE_Labeled_AE ) have been reported with other antiepileptics and typically, although not exclusively, present with  fever≠B-NonOSE_AE  and  rash≠B-NonOSE_AE  associated with other organ system involvement, that may or may not include  eosinophilia≠B-NonOSE_AE ,  hepatitis≠B-NonOSE_AE ,  nephritis≠B-NonOSE_AE ,  lymphadenopathy≠B-NonOSE_AE , and/or  myocarditis≠B-NonOSE_AE . Because this disorder is variable in its expression, other organ system signs and symptoms not noted here may occur. If this reaction is suspected, VIMPAT should be discontinued and alternative treatment started.
+
+
+
+    5.7 Phenylketonurics
+
+
+
+  VIMPAT oral solution contains aspartame, a source of phenylalanine. A 200 mg dose of VIMPAT oral solution (equivalent to 20 mL) contains 0.32 mg of phenylalanine.

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="RIMSO_50">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  A garlic-like taste may be noted by the patient within a few minutes after instillation of RIMSO-50  (r)  (dimethyl sulfoxide). This taste may last several hours and because of the presence of metabolites, an odor on the breath and skin may remain for 72 hours.
+
+
+
+ Transient chemical cystitis has been noted following instillation of dimethyl sulfoxide.
+
+
+
+ The patient may experience moderately severe discomfort on administration. Usually this becomes less prominent with repeated administration.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+  Changes in the refractive index and lens opacities have been seen in monkeys, dogs and rabbits given high doses of dimethyl sulfoxide chronically. Since lens changes were noted in animals, full eye evaluations, including slit lamp examinations, are recommended prior to and periodically during treatment.
+
+
+
+ Approximately every six months patients receiving dimethyl sulfoxide should have a biochemical screening, particularly liver and renal function tests, and complete blood count.
+
+
+
+ Intravesical instillation of RIMSO-50  (r)  may be harmful to patients with urinary tract malignancy because of dimethyl sulfoxide-induced vasodilation.
+
+
+
+ Some data indicate that dimethyl sulfoxide potentiates other concomitantly administered medications.
+
+
+
+ Dimethyl sulfoxide caused teratogenic responses in hamsters, rats and mice when administered intraperitoneally at high doses (2.5 to 12 gm/kg). Oral or topical doses of dimethyl sulfoxide did not cause problems of reproduction in rats, mice and hamsters. Topical doses (5 gm/kg first two days, then 2.5 gm/kg - last eight days) produced terata in rabbits, but in another study, topical doses of 1.1 gm/kg days 3 through 16 of gestation failed to produce any abnormalities. There are no adequate and well controlled studies in pregnant women. Dimethyl sulfoxide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+ It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when dimethyl sulfoxide is administered to a nursing woman.
+
+
+
+ Safety and effectiveness in children have not been established.
+
+
+
+ Information available to be given to the patient is reprinted at the end of this text.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Dimethyl sulfoxide can initiate the liberation of histamine and there has been occasional hypersensitivity reaction with topical administration of dimethyl sulfoxide. This hypersensitivity has been reported in one patients receiving intravesical RIMSO-50  (r)  . The physician should be cognizant of this possibility in prescribing RIMSO-50  (r)  . If anaphylactoid symptoms develop, appropriate therapy should be instituted.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

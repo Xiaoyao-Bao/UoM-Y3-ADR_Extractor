@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="GYNAZOLE_1">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Of the 314 patients treated with Gynazole-1  (r)  for 1 day in controlled clinical trials, 18 patients (5.7%) reported complaints such as vulvar/vaginal burning, itching, soreness and swelling, pelvic or abdominal pain or cramping, or a combination of two or more of these symptoms. In 3 patients (1%) these complaints were considered treatment-related. Five of the 18 patients reporting adverse events discontinued the study because of them.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  If clinical symptoms persist, tests should be repeated to rule out other pathogens, to confirm the original diagnosis, and to rule out other conditions that may predispose a patient to recurrent vaginal fungal infections.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Carcinogenesis: Long term studies in animals have not been performed to evaluate the carcinogenic potential of this drug.
+
+
+
+ Mutagenicity: Butoconazole nitrate was not mutagenic when tested in the Ames bacterial test, yeast, chromosomal aberration assay in CHO cells, CHO/HGPRT point mutation assay, mouse micronucleus, and rat dominant lethal assays.
+
+
+
+ Impairment of Fertility: No impairment of fertility was seen in rabbits or rats administered butoconazole nitrate in oral doses up to 30 mg/kg/day (5 times the human dose based on mg/M  2  ) or 100 mg/kg/day (10 times the human dose based on mg/M  2  ), respectively.
+
+
+
+    Pregnancy: Category C
+
+
+
+  In pregnant rats administered 6 mg/kg/day of butoconazole nitrate intravaginally during the period of organogenesis, there was an increase in resorption rate and decrease in litter size; however, no teratogenicity was noted. This dose represents a 130- to 353-fold margin of safety based on serum levels achieved in rats following intravaginal administration compared to the serum levels achieved in humans following intravaginal administration of the recommended therapeutic dose of butoconazole nitrate.
+
+
+
+ Butoconazole nitrate has no apparent adverse effect when administered orally to pregnant rats throughout organogenesis at dose levels up to 50 mg/kg/day (5 times the human dose based on mg/M  2  ). Daily oral doses of 100, 300 or 750 mg/kg/day (10, 30 or 75 times the human dose based on mg/M  2  respectively) resulted in fetal malformations (abdominal wall defects, cleft palate), but maternal stress was also evident at these higher dose levels. There were, however, no adverse effects on litters of rabbits who received butoconazole nitrate orally, even at maternally stressful dose levels (e.g., 150 mg/kg, 24 times the human dose based on mg/M  2  ).
+
+
+
+ Butoconazole nitrate, like other azole anti-fungal agents, causes dystocia in rats when treatment is extended through parturition. However, this effect was not apparent in rabbits treated with as much as 100 mg/kg/day orally (16 times the human dose based on mg/M  2  ).
+
+
+
+ There are, however, no adequate and well-controlled studies in pregnant women. Gynazole-1  (r)  should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when butoconazole nitrate is administered to a nursing woman.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in children have not been established.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  This cream contains mineral oil. Mineral oil may weaken latex or rubber products such as condoms or vaginal contraceptive diaphragms; therefore, use of such products within 72 hours following treatment with Gynazole-1  (r)  is not recommended.
+
+
+
+ Recurrent vaginal yeast infections, especially those that are difficult to eradicate, can be an early sign of infection with the human immunodeficiency virus (HIV) in women who are considered at risk for HIV infection.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="264" />
+    <IgnoredRegion len="21" name="heading" section="S2" start="954" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="2635" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2861" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

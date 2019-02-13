@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ALCAINE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS:
+
+  Occasional temporary stinging, burning and conjunctival redness may occur with the use of proparacaine. A rare, severe, immediate-type, apparently hyperallergic corneal reaction characterized by acute, intense and diffuse epithelial keratitis, a gray, ground glass appearance, sloughing of large areas of necrotic epithelium, corneal filaments and, sometimes, iritis with descemetitis has been reported.
+
+
+
+ Allergic contact dermatitis from proparacaine with drying and fissuring of the fingertips has also been reported.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS:
+
+
+
+   
+
+
+
+   Carcinogenesis, Mutagenesis, Impairment of Fertility.  Long-term studies in animals have not been performed to evaluate carcinogenic potential, mutagenicity, or possible impairment of fertility in males or females.
+
+
+
+    Pregnancy:
+
+
+
+  Animal reproduction studies have not been conducted with ALCAINE  (r)  (proparacaine hydrochloride ophthalmic solution, USP) 0.5%. It is also not known whether proparacaine hydrochloride can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Proparacaine hydrochloride should be administered to a pregnant woman only if clearly needed.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS:
+
+
+
+  NOT FOR INJECTION - FOR TOPICAL OPHTHALMIC USE ONLY. Prolonged use of a topical ocular anesthetic is not recommended. It may produce permanent corneal opacification with accompanying visual loss.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="18" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="12" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="9" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="23" />
+    <IgnoredRegion len="10" name="heading" section="S2" start="252" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

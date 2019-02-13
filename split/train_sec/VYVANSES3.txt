@@ -1,0 +1,53 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *   Serious Cardiovascular Reactions: Sudden death has been reported in association with CNS stimulant treatment at recommended doses in pediatric patients with structural cardiac abnormalities or other serious heart problems. In adults, sudden death, stroke, and myocardial infarction have been reported. Avoid use in patients with known structural cardiac abnormalities, cardiomyopathy, serious heart arrhythmia, or coronary artery disease (  5.2  ) 
+ *   Blood Pressure and Heart Rate Increases: Monitor blood pressure and pulse. Consider benefits and risks before use in patients for whom blood pressure increases may be problematic (  5.3  ) 
+ *   Psychiatric Adverse Reactions: May cause psychotic or manic symptoms in patients with no prior history, or exacerbation of symptoms in patients with pre-existing psychosis. Evaluate for bipolar disorder prior to stimulant use (  5.4  ) 
+ *   Suppression of Growth: Monitor height and weight in pediatric patients during treatment (  5.5  ) 
+ *   Peripheral Vasculopathy, including Raynaud's phenomenon: Stimulants are associated with peripheral vasculopathy, including Raynaud's phenomenon. Careful observation for digital changes is necessary during treatment with stimulants (  5.6  ) 
+ *   Serotonin Syndrome: Increased risk when co-administered with serotonergic agents (e.g., SSRIs, SNRIs, triptans), but also during overdosage situations. If it occurs, discontinue VYVANSE and initiate supportive treatment (  4  ,  5.7  ,  10  ). 
+    
+ 
+
+   5.1 Potential for Abuse and Dependence
+
+  CNS stimulants (amphetamines and methylphenidate-containing products), including VYVANSE, have a high potential for  abuse≠B-OSE_Labeled_AE  and  dependence≠B-OSE_Labeled_AE . Assess the risk of  abuse≠B-NonOSE_AE  prior to prescribing, and monitor for signs of  abuse≠B-NonOSE_AE  and  dependence≠B-NonOSE_AE  while on therapy [see   Drug≠B-NonOSE_AE   Abuse≠I-NonOSE_AE  and  Dependence≠B-NonOSE_AE  (9.2  ,  9.3)  ]  .
+
+    5.2 Serious  Cardiovascular≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE 
+
+   Sudden≠B-OSE_Labeled_AE   death≠I-OSE_Labeled_AE ,  stroke≠B-OSE_Labeled_AE  and  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE  have been reported in adults with CNS stimulant treatment at recommended doses.  Sudden≠B-OSE_Labeled_AE   death≠I-OSE_Labeled_AE  has been reported in children and adolescents with  structural≠B-Not_AE_Candidate   cardiac≠I-Not_AE_Candidate   abnormalities≠I-Not_AE_Candidate  and other serious  heart≠B-Not_AE_Candidate   problems≠I-Not_AE_Candidate  taking CNS stimulants at recommended doses for  ADHD≠B-Not_AE_Candidate . Avoid use in patients with known  structural≠B-Not_AE_Candidate   cardiac≠I-Not_AE_Candidate   abnormalities≠I-Not_AE_Candidate ,  cardiomyopathy≠B-Not_AE_Candidate , serious  heart≠B-Not_AE_Candidate   arrhythmia≠I-Not_AE_Candidate ,  coronary≠B-Not_AE_Candidate   artery≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate , and other serious  heart≠B-Not_AE_Candidate   problems≠I-Not_AE_Candidate . Further evaluate patients who develop  exertional≠B-NonOSE_AE   chest≠I-NonOSE_AE   pain≠I-NonOSE_AE ,  unexplained≠B-NonOSE_AE   syncope≠I-NonOSE_AE , or  arrhythmias≠B-NonOSE_AE  during VYVANSE treatment.
+
+    5.3 Blood Pressure and Heart Rate Increases
+
+  CNS stimulants cause an  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE  (mean increase about 2-4 mm Hg) and heart rate (mean increase about 3-6 bpm). Monitor all patients for potential  tachycardia≠B-NonOSE_AE  and  hypertension≠B-NonOSE_AE .
+
+    5.4  Psychiatric≠B-OSE_Labeled_AE   Adverse≠I-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE 
+
+    Exacerbation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   Pre≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  existing≠I-OSE_Labeled_AE   Psychosis≠I-OSE_Labeled_AE   
+
+ CNS stimulants may  exacerbate≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   behavior≠I-OSE_Labeled_AE   disturbance≠I-OSE_Labeled_AE  and thought disorder in patients with a pre-existing  psychotic≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate .
+
+     Induction of a Manic Episode in Patients with Bipolar Disorder    
+
+  CNS stimulants may induce a  mixed≠B-OSE_Labeled_AE /manic  episode≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   patients≠I-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   bipolar≠I-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE . Prior to initiating treatment, screen patients for risk factors for developing a  manic≠B-NonOSE_AE   episode≠I-NonOSE_AE  (e.g., comorbid or history of  depressive≠B-Not_AE_Candidate   symptoms≠I-Not_AE_Candidate  or a family history of  suicide≠B-Not_AE_Candidate ,  bipolar≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate , and  depression≠B-Not_AE_Candidate ).  
+
+    New Psychotic or Manic Symptoms  
+
+ CNS stimulants, at recommended doses, may cause  psychotic≠B-OSE_Labeled_AE  or manic  symptoms≠I-OSE_Labeled_AE , e.g.  hallucinations≠B-OSE_Labeled_AE ,  delusional≠B-OSE_Labeled_AE   thinking≠I-OSE_Labeled_AE , or  mania≠B-OSE_Labeled_AE  in children and adolescents without a prior history of  psychotic≠B-Not_AE_Candidate   illness≠I-Not_AE_Candidate  or  mania≠B-Not_AE_Candidate . If such symptoms occur, consider discontinuing VYVANSE. In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants,  psychotic≠B-OSE_Labeled_AE  or manic  symptoms≠I-OSE_Labeled_AE  occurred in 0.1% of CNS stimulant-treated patients compared to 0% in placebo-treated patients.
+
+    5.5  Suppression≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   Growth≠I-OSE_Labeled_AE 
+
+  CNS stimulants have been associated with  weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  and  slowing≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   growth≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  in pediatric patients. Closely monitor growth (weight and height) in pediatric patients treated with CNS stimulants, including VYVANSE. In a 4-week, placebo-controlled trial of VYVANSE in patients ages 6 to 12 years old with  ADHD≠B-Not_AE_Candidate , there was a dose-related  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   weight≠I-OSE_Labeled_AE  in the VYVANSE groups compared to  weight≠B-NonOSE_AE   gain≠I-NonOSE_AE  in the placebo group. Additionally, in studies of another stimulant, there was  slowing≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   increase≠I-NonOSE_AE   in≠I-NonOSE_AE   height≠I-NonOSE_AE  [see  Adverse Reactions (6.1)  ]  .
+
+    5.6 Peripheral Vasculopathy, including Raynaud's Phenomenon
+
+  Stimulants, including VYVANSE, are associated with  peripheral≠B-OSE_Labeled_AE   vasculopathy≠I-OSE_Labeled_AE , including  Raynaud≠B-OSE_Labeled_AE  '≠I-OSE_Labeled_AE  s≠I-OSE_Labeled_AE   phenomenon≠I-OSE_Labeled_AE . Signs and symptoms are usually intermittent and mild; however, very rare sequelae include  digital≠B-NonOSE_AE   ulceration≠I-NonOSE_AE  and/or  soft≠B-NonOSE_AE   tissue≠I-NonOSE_AE   breakdown≠I-NonOSE_AE . Effects of  peripheral≠B-OSE_Labeled_AE   vasculopathy≠I-OSE_Labeled_AE , including  Raynaud≠B-OSE_Labeled_AE  '≠I-OSE_Labeled_AE  s≠I-OSE_Labeled_AE   phenomenon≠I-OSE_Labeled_AE , were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment. Signs and symptoms generally improve after reduction in dose or discontinuation of drug. Careful observation for  digital≠B-NonOSE_AE   changes≠I-NonOSE_AE  is necessary during treatment with stimulants. Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+
+    5.7 Serotonin Syndrome
+
+    Serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE , a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort [see  Drug Interactions (7.1)  ]  . Amphetamines and amphetamine derivatives are known to be metabolized, to some degree, by cytochrome P450 2D6 (CYP2D6) and display minor inhibition of CYP2D6 metabolism [see  Clinical Pharmacology 12.3  ]  . The potential for a pharmacokinetic interaction exists with the co-administration of CYP2D6 inhibitors which may increase the risk with increased exposure to the active metabolite of VYVANSE (dextroamphetamine). In these situations, consider an alternative non-serotonergic drug or an alternative drug that does not inhibit CYP2D6 [see  Drug Interactions (7.1)  ]  .  Serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE  symptoms may include  mental≠B-NonOSE_AE   status≠I-NonOSE_AE   changes≠I-NonOSE_AE  (e.g.,  agitation≠B-NonOSE_AE ,  hallucinations≠B-NonOSE_AE ,  delirium≠B-NonOSE_AE , and  coma≠B-NonOSE_AE ),  autonomic≠B-NonOSE_AE   instability≠I-NonOSE_AE  (e.g.,  tachycardia≠B-NonOSE_AE ,  labile≠B-NonOSE_AE   blood≠I-NonOSE_AE   pressure≠I-NonOSE_AE ,  dizziness≠B-NonOSE_AE ,  diaphoresis≠B-NonOSE_AE ,  flushing≠B-NonOSE_AE ,  hyperthermia≠B-NonOSE_AE ),  neuromuscular≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  (e.g.,  tremor≠B-NonOSE_AE ,  rigidity≠B-NonOSE_AE ,  myoclonus≠B-NonOSE_AE ,  hyperreflexia≠B-NonOSE_AE ,  incoordination≠B-NonOSE_AE ),  seizures≠B-NonOSE_AE , and/or  gastrointestinal≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  (e.g.,  nausea≠B-NonOSE_AE ,  vomiting≠B-NonOSE_AE ,  diarrhea≠B-NonOSE_AE ).  
+
+  Concomitant use of VYVANSE with MAOI drugs is contraindicated [see  Contraindications (4)  ]  .  
+
+  Discontinue treatment with VYVANSE and any concomitant serotonergic agents immediately if symptoms of  serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE  occur, and initiate supportive symptomatic treatment. Concomitant use of VYVANSE with other serotonergic drugs or CYP2D6 inhibitors should be used only if the potential benefit justifies the potential risk. If clinically warranted, consider initiating VYVANSE with lower doses, monitoring patients for the emergence of  serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE  during drug initiation or titration, and informing patients of the increased risk for  serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE .  
+

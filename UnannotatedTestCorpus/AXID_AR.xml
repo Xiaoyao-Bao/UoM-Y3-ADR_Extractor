@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="AXID_AR">
+  <Text>
+    <Section id="S1" name="warnings">    WARNINGS
+
+
+
+   Allergy alert:
+
+
+
+  Do not use if you are allergic to nizatidine or other acid reducers
+
+
+
+    Do not use
+
+
+
+    *  if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. 
+ *  with other acid reducers 
+       Ask a doctor before use if you have
+ 
+
+    *  had heartburn over 3 months. This may be a sign of a more serious condition. 
+ *  heartburn with  lightheadedness, sweating or dizziness   
+ *  chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness 
+ *  frequent  chest pain   
+ *  frequent wheezing, particularly with heartburn 
+ *  unexplained weight loss 
+ *  nausea or vomiting 
+ *  stomach pain 
+       Stop use and ask a doctor if
+ 
+
+    *  your heartburn continues or worsens 
+ *  you need to take this product for more than 14 days 
+       If pregnant or breast feeding,
+ 
+
+  ask a health professional before use.
+
+
+
+    Keep out of reach of children.
+
+
+
+  In case of overdose, get medical help or contact a Poison Control Center right away
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="8" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="14" name="heading" section="S1" start="19" />
+    <IgnoredRegion len="10" name="heading" section="S1" start="114" />
+    <IgnoredRegion len="35" name="heading" section="S1" start="326" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="801" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="941" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="1022" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

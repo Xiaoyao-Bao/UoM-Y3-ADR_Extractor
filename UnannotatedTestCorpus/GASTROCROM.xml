@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="GASTROCROM">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Most of the adverse events reported in mastocytosis patients have been transient and could represent symptoms of the disease. The most frequently reported adverse events in mastocytosis patients who have received GASTROCROM during clinical studies were headache and diarrhea, each of which occurred in 4 of the 87 patients. Pruritus, nausea, and myalgia were each reported in 3 patients and abdominal pain, rash, and irritability in 2 patients each. One report of malaise was also recorded.
+
+
+
+   Other Adverse Events
+
+  Additional adverse events have been reported during studies in other clinical conditions and from worldwide postmarketing experience. In most cases the available information is incomplete and attribution to the drug cannot be determined. The majority of these reports involve the gastrointestinal system and include: diarrhea, nausea, abdominal pain, constipation, dyspepsia, flatulence, glossitis, stomatitis, vomiting, dysphagia, esophagospasm.
+
+
+
+ Other less commonly reported events (the majority representing only a single report) include the following:
+
+
+
+ *  Skin: pruritus, rash, urticaria/angioedema, erythema/ burning, photosensitivity 
+ *  Musculoskeletal: arthralgia, myalgia, stiffness/weakness of legs 
+ *  Neurologic: headache, dizziness, hypoesthesia, paresthesia, migraine, convulsions, flushing 
+ *  Psychiatric: psychosis, anxiety, depression, hallucinations, behavior change, insomnia, nervousness 
+ *  Heart Rate: tachycardia, premature ventricular contractions (PVCs), palpitations 
+ *  Respiratory: pharyngitis, dyspnea 
+ *  Miscellaneous: fatigue, edema, unpleasant taste, chest pain, postprandial lightheadedness and lethargy, dysuria, urinary frequency, purpura, hepatic function test abnormal, polycythemia, neutropenia, pancytopenia, tinnitus, lupus erythematosus (LE) syndrome 
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+  In view of the biliary and renal routes of excretion of GASTROCROM, consideration should be given to decreasing the dosage of the drug in patients with impaired renal or hepatic function.
+
+
+
+    Carcinogenesis, Mutagenesis, and Impairment of Fertility
+
+
+
+  In carcinogenicity studies in mice, hamsters, and rats, cromolyn sodium had no neoplastic effects at intraperitoneal doses up to 150 mg/kg three days per week for 12 months in mice, at intraperitoneal doses up to 53 mg/kg three days per week for 15 weeks followed by 17.5 mg/kg three days per week for 37 weeks in hamsters, and at subcutaneous doses up to 75 mg/kg six days per week for 18 months in rats. These doses in mice, hamsters, and rats are less than the maximum recommended daily oral dose in adults and children on a mg/m  2  basis.
+
+
+
+ Cromolyn sodium showed no mutagenic potential in Ames Salmonella/microsome plate assays, mitotic gene conversion in Saccharomyces cerevisiae  and in an in vitro  cytogenetic study in human peripheral lymphocytes.
+
+
+
+ In rats, cromolyn sodium showed no evidence of impaired fertility at subcutaneous doses up to 175 mg/kg in males (approximately equal to the maximum recommended daily oral dose in adults on a mg/m  2  basis) and 100 mg/kg in females (less than the maximum recommended daily oral dose in adults on a mg/m  2  basis).
+
+
+
+    Pregnancy
+
+
+
+   Pregnancy Category B
+
+
+
+  In reproductive studies in pregnant mice, rats, and rabbits, cromolyn sodium produced no evidence of fetal malformations at subcutaneous doses up to 540 mg/kg in mice (approximately equal to the maximum recommended daily oral dose in adults on a mg/m  2  basis) and 164 mg/kg in rats (less than the maximum recommended daily oral dose in adults on a mg/m  2  basis) or at intravenous doses up to 485 mg/kg in rabbits (approximately 4 times the maximum recommended daily oral dose in adults on a mg/m  2  basis). There are, however, no adequate and well controlled studies in pregnant women.
+
+
+
+ Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+
+
+    Drug Interaction During Pregnancy
+
+
+
+  In pregnant mice, cromolyn sodium alone did not cause significant increases in resorptions or major malformations at subcutaneous doses up to 540 mg/kg (approximately equal to the maximum recommended daily oral dose in adults on a mg/m  2  basis). Isoproterenol alone increased both resorptions and major malformations (primarily cleft palate) at a subcutaneous dose of 2.7 mg/kg (approximately 7 times the maximum recommended daily inhalation dose in adults on a mg/m  2  basis). The incidence of major malformations increased further when cromolyn sodium at a subcutaneous dose of 540 mg/kg was added to isoproterenol at a subcutaneous dose of 2.7 mg/kg. No such interaction was observed in rats or rabbits.
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when GASTROCROM is administered to a nursing woman.
+
+
+
+    Pediatric Use
+
+
+
+  In adult rats no adverse effects of cromolyn sodium were observed at oral doses up to 6144 mg/kg (approximately 25 times the maximum recommended daily oral dose in adults on a mg/m  2  basis). In neonatal rats, cromolyn sodium increased mortality at oral doses of 1000 mg/kg or greater (approximately 9 times the maximum recommended daily oral dose in infants on a mg/m  2  basis) but not at doses of 300 mg/kg or less (approximately 3 times the maximum recommended daily oral dose in infants on a mg/m  2  basis). Plasma and kidney concentrations of cromolyn after oral administration to neonatal rats were up to 20 times greater than those in older rats. In term infants up to six months of age, available clinical data suggest that the dose should not exceed 20 mg/kg/day. The use of this product in pediatric patients less than two years of age should be reserved for patients with severe disease in which the potential benefits clearly outweigh the risks.
+
+
+
+    Geriatric Use
+
+
+
+  Clinical studies of GASTROCROM did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+   The recommended dosage should be decreased in patients with decreased renal or hepatic function. Severe anaphylactic reactions may occur rarely in association with cromolyn sodium administration.  
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="56" name="heading" section="S2" start="216" />
+    <IgnoredRegion len="20" name="heading" section="S1" start="522" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="1366" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="1382" />
+    <IgnoredRegion len="33" name="heading" section="S2" start="2157" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="2913" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="3129" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="4116" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

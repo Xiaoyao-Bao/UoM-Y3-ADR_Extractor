@@ -1,0 +1,96 @@
+  6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (>=2%) reported in IBS-C or CIC patients are: diarrhea, abdominal pain, flatulence and abdominal distension. (  6.1  )
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Allergan at 1-800-678-1605 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    .  
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+ Exposure in clinical development included approximately 2570, 2040, and 1220 patients with either IBS-C or CIC treated with LINZESS for 6 months or longer, 1 year or longer, and 18 months or longer, respectively (not mutually exclusive).
+
+ Demographic characteristics were comparable between treatment groups in all studies  [see Clinical Studies (  14  )]  .
+
+     Irritable Bowel Syndrome with Constipation (IBS-C)  
+
+     Most Common Adverse Reactions  
+
+ The data described below reflect exposure to LINZESS in the two placebo-controlled clinical trials involving 1605 adult patients with IBS-C (Trials 1 and 2). Patients were randomized to receive placebo or 290 mcg LINZESS once daily on an empty stomach for up to 26 weeks.  Table 1  provides the incidence of adverse reactions reported in at least 2% of IBS-C patients in the LINZESS treatment group and at an incidence that was greater than in the placebo group.
+
+ Table 1: Most Common Adverse Reactionsa in Two Placebo-Controlled Trials (1 and 2) in Patients with IBS-C 
+  a: Reported in at least 2% of LINZESS-treated patients and at an incidence greater than placebo    
+  b: "Abdominal pain" term includes abdominal pain, upper abdominal pain, and lower abdominal pain.    
+  
+   Adverse Reactions                               LINZESS    290 mcg    [N=807]    %      Placebo    [N=798]    %     
+   Gastrointestinal       Diarrhea     Abdominal pain  b       Flatulence     Abdominal distension  20742                         3521                        
+   Infections and Infestations       Viral Gastroenteritis  3                             1                           
+   Nervous System Disorders       Headache       4                             3                           
+             Diarrhea  
+ 
+
+ Diarrhea was the most commonly reported adverse reaction of the LINZESS-treated patients in the pooled IBS-C pivotal placebo-controlled trials. In these trials, 20% of LINZESS-treated patients reported diarrhea compared to 3% of placebo-treated patients. Severe diarrhea was reported in 2% of the LINZESS-treated patients versus less than 1% of the placebo-treated patients, and 5% of LINZESS-treated patients discontinued due to diarrhea vs less than 1% of placebo-treated patients. The majority of reported cases of diarrhea started within the first 2 weeks of LINZESS treatment  [see Warnings and Precautions (  5.2  )]  .
+
+     Adverse Reactions Leading to Discontinuation  
+
+ In placebo-controlled trials in patients with IBS-C, 9% of patients treated with LINZESS and 3% of patients treated with placebo discontinued prematurely due to adverse reactions. In the LINZESS treatment group, the most common reasons for discontinuation due to adverse reactions were diarrhea (5%) and abdominal pain (1%). In comparison, less than 1% of patients in the placebo group withdrew due to diarrhea or abdominal pain.
+
+     Adverse Reactions Leading to Dose Reductions  
+
+ In the open-label, long-term trials, 2147 patients with IBS-C received 290 mcg of LINZESS daily for up to 18 months. In these trials, 29% of patients had their dose reduced or suspended secondary to adverse reactions, the majority of which were diarrhea or other GI adverse reactions.
+
+     Less Common Adverse Reactions  
+
+ Defecation urgency, fecal incontinence, vomiting, and gastroesophagal reflux disease were reported in <2% of patients in the LINZESS treatment group and at an incidence greater than in the placebo treatment group.
+
+     Chronic Idiopathic Constipation (CIC)  
+
+     Most Common Adverse Reactions  
+
+ The data described below reflect exposure to LINZESS in the two double-blind placebo-controlled clinical trials of 1275 adult patients with CIC (Trials 3 and 4). Patients were randomized to receive placebo or 145 mcg LINZESS or 290 mcg LINZESS once daily on an empty stomach, for at least 12 weeks.  Table 2  provides the incidence of adverse reactions reported in at least 2% of CIC patients in the 145 mcg LINZESS treatment group and at an incidence that was greater than in the placebo treatment group.
+
+ Table 2: Most Common Adverse Reactionsa in the Two Placebo-controlled Trials (3 and 4) in Patients with CIC 
+  a: Reported in at least 2% of LINZESS-treated patients and at an incidence greater than placebo    
+  b: "Abdominal pain" term includes abdominal pain, upper abdominal pain, and lower abdominal pain.    
+  
+   Adverse Reactions                                             LINZESS    145 mcg    [N=430]    %      Placebo    [N=423]    %     
+   Gastrointestinal       Diarrhea     Abdominal pain  b       Flatulence     Abdominal distension  16763                 5652                  
+   Infections and Infestations       Upper respiratory tract infection     Sinusitis  53                    42                    
+         The safety of a 72 mcg dose was evaluated in an additional placebo-controlled trial in which 1223 patients were randomized to LINZESS 72 mcg, 145 mcg, or placebo once daily for 12 weeks (Trial 5).
+ 
+
+ In Trial 5, adverse reactions that occurred at a frequency of >= 2% in LINZESS-treated patients (n=411 in each LINZESS 72 mcg and 145 mcg group) and at a higher rate than placebo (n=401) were:
+
+ *  Diarrhea (LINZESS 72 mcg 19%; LINZESS 145 mcg 22%; placebo 7%) 
+ *  Abdominal distension (LINZESS 72 mcg 2%; LINZESS 145 mcg 1%; placebo < 1%) 
+        Diarrhea  
+ 
+
+ This section summarizes information from Trials 3 and 4 (pooled) and Trial 5 regarding diarrhea, the most commonly reported adverse reaction reported in LINZESS-treated patients in CIC placebo-controlled studies.
+
+ In all trials, the majority of reported cases of diarrhea started within the first 2 weeks of LINZESS treatment.
+
+ Severe diarrhea was reported in less than 1% of the 72 mcg LINZESS-treated patients (Trial 5), in 2% of the 145 mcg LINZESS-treated patients (Trials 3 and 4; Trial 5), and less than 1% of the placebo-treated patients (Trials 3, 4, and 5)  [see Warnings and Precautions (  5.2  )]  .
+
+     Adverse Reactions Leading to Discontinuation  
+
+ In placebo-controlled trials in patients with CIC, 3% of patients treated with 72 mcg (Trial 5) and between 5% (Trial 5) and 8% (Trials 3 and 4) of patients treated with 145 mcg of LINZESS discontinued prematurely due to adverse reactions compared to between less than 1% (Trial 5) and 4% (Trials 3 and 4) of patients treated with placebo.
+
+ In patients treated with 72 mcg LINZESS the most common reason for discontinuation due to adverse reactions was diarrhea (2% in Trial 5) and in patients treated with 145 mcg LINZESS, the most common reasons for discontinuation due to adverse reactions were diarrhea (3% in Trial 5 and 5% in Trials 3 and 4) and abdominal pain (1% in Trials 3 and 4). In comparison, less than 1% of patients in the placebo group withdrew due to diarrhea or abdominal pain (Trials 3 and 4; Trial 5).
+
+     Adverse Reactions Leading to Dose Reductions  
+
+ In the open-label, long-term trials, 1129 patients with CIC received 290 mcg of LINZESS daily for up to 18 months. In these trials, 27% of patients had their dose reduced or suspended secondary to adverse reactions, the majority of which were diarrhea or other GI adverse reactions.
+
+     Less Common Adverse Reactions  
+
+ Defecation urgency, fecal incontinence, dyspepsia, and viral gastroenteritis, were reported in less than 2% of patients in the LINZESS treatment group and at an incidence greater than placebo treatment group.
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post approval use of LINZESS. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+ Hematochezia, rectal hemorrhage, nausea, and allergic reactions, urticaria or hives.
+

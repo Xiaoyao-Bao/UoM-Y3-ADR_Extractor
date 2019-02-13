@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="LACRISERT">
+  <Text>
+    <Section id="S1" name="adverse reactions">      ADVERSE REACTIONS  
+
+  The following adverse reactions have been reported in patients treated with LACRISERT, but were in most instances mild and transient:
+
+
+
+ Transient blurring of vision (See  PRECAUTIONS  )
+
+
+
+ Ocular discomfort or irritation
+
+
+
+ Matting or stickiness of eyelashes
+
+
+
+ Photophobia
+
+
+
+ Hypersensitivity
+
+
+
+ Edema of the eyelids
+
+
+
+ Hyperemia
+</Section>
+    <Section id="S2" name="precautions">     PRECAUTIONS  
+
+
+
+  
+
+
+
+     General  
+
+
+
+  If improperly placed, LACRISERT may result in corneal abrasion (see  DOSAGE AND ADMINISTRATION  ).
+
+
+
+     Information for Patients  
+
+
+
+  Patients should be advised to follow the instructions for using LACRISERT which accompany the package.
+
+
+
+ Because this product may produce transient blurring of vision, patients should be instructed to exercise caution when operating hazardous machinery or driving a motor vehicle.
+
+
+
+     Drug Interactions  
+
+
+
+  Application of hydroxypropyl cellulose ophthalmic inserts to the eyes of unanesthetized rabbits immediately prior to or two hours before instilling pilocarpine, proparacaine HCl (0.5%), or phenylephrine (5%) did not markedly alter the magnitude and/or duration of the miotic, local corneal anesthetic, or mydriatic activity, respectively, of these agents.
+
+
+
+ Under various treatment schedules, the anti-inflammatory effect of ocularly instilled dexamethasone (0.1%) in unanesthetized rabbits with primary uveitis was not affected by the presence of hydroxypropyl cellulose inserts.
+
+
+
+     Carcinogenesis, Mutagenesis, Impairment of Fertility  
+
+
+
+  Feeding of hydroxypropyl cellulose to rats at levels up to 5% of their diet produced no gross or histopathologic changes or other deleterious effects.
+
+
+
+     Pediatric Use  
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+
+
+
+     Geriatric Use  
+
+
+
+  No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+</Section>
+    <Section id="S3" name="warnings">     WARNINGS  
+
+
+
+  Instructions for inserting and removing LACRISERT should be carefully followed.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="21" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="10" name="heading" section="S2" start="32" />
+    <IgnoredRegion len="27" name="heading" section="S2" start="154" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="477" />
+    <IgnoredRegion len="55" name="heading" section="S2" start="1093" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="1312" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="1415" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

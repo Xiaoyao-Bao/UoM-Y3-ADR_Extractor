@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="MYTELASE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Adverse effects of anticholinesterase agents such as MYTELASE usually result from overdosage and include muscarinic effects such as excessive salivation, abdominal cramps, diarrhea, miosis, urinary urgency, sweating, nausea, increase in bronchial and lachrymal secretions, and vomiting, nicotinic effects such as muscle cramps, fasciculation of voluntary muscles, and rarely generalized malaise with anxiety and vertigo, and bradycardia and cardiac conduction disorders. (See  OVERDOSAGE  .)
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   Great care and supervision are required, since the warning of overdosage is minimal and the requirements of patients vary tremendously. It must be borne in mind constantly that a narrow margin exists between the first appearance of side effects and serious toxic effects. Caution in increasing the dosage is essential.  
+
+
+
+  The drug should be used with caution in patients with asthma, Parkinson's Disease or in patients with mechanical intestinal or urinary obstruction.  
+
+
+
+  The drug should be used with caution in patients with bradycardia or cardiac conduction disorders.  
+
+
+
+    Usage in Pregnancy
+
+
+
+  Safe use of this drug during pregnancy has not been established. Therefore, before use of MYTELASE in pregnant women or women of childbearing potential, the potential benefits should be weighed against possible risks to mother and fetus.
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from MYTELASE, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+
+
+
+    Geriatric Use
+
+
+
+  Clinical Studies of MYTELASE did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Because this drug has a more prolonged action than other antimyasthenic drugs, simultaneous administration with other cholinergics is contraindicated except under strict medical supervision. The overlap in duration of action of several drugs complicates dosage schedules. Therefore, when a patient is to be given the drug, the administration of all other cholinergics should be suspended until the patient has been stabilized. In most instances the myasthenic symptoms are effectively controlled by its use alone.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="18" name="heading" section="S2" start="611" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="880" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="1255" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="1355" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

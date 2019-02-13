@@ -1,0 +1,62 @@
+
+
+    BOXED WARNING: WARNING: ENDOMETRIAL CANCER, CARDIOVASCULAR DISORDERS, BREAST CANCER AND PROBABLE DEMENTIA
+
+    WARNING: ENDOMETRIAL CANCER, CARDIOVASCULAR DISORDERS, BREAST CANCER AND PROBABLE DEMENTIA  
+
+  EXCERPT:   WARNING: ENDOMETRIAL CANCER, CARDIOVASCULAR DISORDERS, BREAST CANCER AND PROBABLE DEMENTIA
+
+   See full prescribing information for complete boxed warning.  
+
+   Estrogen-Alone Therapy  
+
+ *  There is an increased risk of endometrial cancer in a woman with a uterus who uses unopposed estrogens (5.2) 
+ *  Estrogen-alone therapy should not be used for the prevention of cardiovascular disease or dementia (5.1, 5.3) 
+ *  Women's Health Initiative (WHI) estrogen-alone substudy reported increased risks of stroke and deep vein thrombosis (DVT) (5.1) 
+ *  The WHI Memory Study (WHIMS) estrogen-alone ancillary study of WHI reported an increased risk of probable dementia in postmenopausal women 65 years of age and older (5.3) 
+      Estrogen Plus Progestin Therapy  
+ 
+
+ *  Estrogen plus progestin therapy should not be used for the prevention of cardiovascular disease or dementia (5.1, 5.3) 
+ *  The WHI estrogen plus progestin substudy reported increased risks of stroke, DVT, pulmonary embolism (PE), and myocardial infarction (MI) (5.1) 
+ *  The WHI estrogen plus progestin substudy reported increased risks of invasive breast cancer (5.2) 
+ *  The WHIMS estrogen plus progestin ancillary study of WHI reported an increased risk of probable dementia in postmenopausal women 65 years of age and older (5.3) 
+    
+ 
+
+    Estrogen-Alone Therapy  
+
+     Endometrial Cancer  
+
+   There is an increased risk of  endometrial≠B-OSE_Labeled_AE   cancer≠I-OSE_Labeled_AE  in a woman with a uterus who uses unopposed estrogens. Adding a progestin to estrogen therapy has been shown to reduce the risk of  endometrial≠B-NonOSE_AE   hyperplasia≠I-NonOSE_AE , which may be a precursor to  endometrial≠B-NonOSE_AE   cancer≠I-NonOSE_AE . Adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out  malignancy≠B-Not_AE_Candidate  in  postmenopausal≠B-Not_AE_Candidate  women with undiagnosed persistent or recurring  abnormal≠B-Not_AE_Candidate   genital≠I-Not_AE_Candidate   bleeding≠I-Not_AE_Candidate    [see   Warnings and Precautions (5.2)  ].    
+
+     Cardiovascular Disorders and Probable Dementia  
+
+   Estrogen-alone therapy should not be used for the prevention of  cardiovascular≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  or  dementia≠B-Not_AE_Candidate    [see   Warnings and Precautions (5.1,     5.3)  , and   Clinical Studies (14.5,     14.6)  ]  .  
+
+   The Women's Health Initiative (WHI) estrogen-alone substudy reported increased risks of  stroke≠B-OSE_Labeled_AE  and  deep≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  DVT≠I-OSE_Labeled_AE ) in  postmenopausal≠B-Not_AE_Candidate  women (50 to 79 years of age) during 7.1 years of treatment with daily oral conjugated estrogens (CE) [0.625 mg]-alone, relative to placebo  [see   Warnings and Precautions (5.1)  , and   Clinical Studies (14.5)  ].    
+
+   The WHI Memory Study (WHIMS) estrogen-alone ancillary study of WHI reported an increased risk of developing probable  dementia≠B-OSE_Labeled_AE  in  postmenopausal≠B-Not_AE_Candidate  women 65 years of age or older during 5.2 years of treatment with daily CE (0.625 mg)-alone, relative to placebo. It is unknown whether this finding applies to younger  postmenopausal≠B-Not_AE_Candidate  women   [see   Warnings and Precautions (5.3)  ,   Use in Specific Populations (8.5)  , and   Clinical Studies (14.6)  ]  .  
+
+   In the absence of comparable data, these risks should be assumed to be similar for other doses of CE and other dosage forms of estrogens.  
+
+   Estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.  
+
+     Estrogen Plus Progestin Therapy  
+
+     Cardiovascular Disorders and Probable Dementia  
+
+   Estrogen plus progestin therapy should not be used for the prevention of  cardiovascular≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  or  dementia≠B-Not_AE_Candidate    [see   Warnings and Precautions (5.1,     5.3)  , and   Clinical Studies (14.5  ,   14.6)  ].    
+
+   The WHI estrogen plus progestin substudy reported increased risks of  DVT≠B-NonOSE_AE ,  pulmonary≠B-NonOSE_AE   embolism≠I-NonOSE_AE   (≠I-NonOSE_AE  PE≠I-NonOSE_AE ),  stroke≠B-NonOSE_AE  and  myocardial≠B-NonOSE_AE   infarction≠I-NonOSE_AE   (≠I-NonOSE_AE  MI≠I-NonOSE_AE ) in  postmenopausal≠B-Not_AE_Candidate  women (50 to 79 years of age) during 5.6 years of treatment with daily oral CE (0.625 mg) combined with medroxyprogesterone acetate (MPA) [2.5 mg], relative to placebo   [see   Warnings and Precautions (5.1),   and   Clinical Studies (14.5)  ]  .  
+
+   The WHIMS estrogen plus progestin ancillary study of the WHI, reported an increased risk of developing probable  dementia≠B-NonOSE_AE  in  postmenopausal≠B-Not_AE_Candidate  women 65 years of age or older during 4 years of treatment with daily CE (0.625 mg) combined with MPA (2.5 mg), relative to placebo. It is unknown whether this finding applies to younger  postmenopausal≠B-Not_AE_Candidate  women   [see   Warnings and Precautions (5.3)  ,   Use in Specific Populations (8.5)  , and   Clinical Studies (14.6)  ]  .  
+
+     Breast Cancer  
+
+   The WHI estrogen plus progestin substudy also demonstrated an increased risk of invasive  breast≠B-NonOSE_AE   cancer≠I-NonOSE_AE    [see   Warnings and Precautions (5.2)  , and   Clinical Studies (14.5)  ].    
+
+   In the absence of comparable data, these risks should be assumed to be similar for other doses of CE and MPA, and other combinations and dosage forms of estrogens and progestins.  
+
+   Estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.  
+

@@ -1,0 +1,89 @@
+    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions (>= 10%) across all studies with GATTEX are abdominal pain, injection site reactions, nausea, headaches, abdominal distension, upper respiratory tract infection. In addition, vomiting and fluid overload were reported in the SBS studies (1 and 3) at rates >= 10%. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact NPS Pharmaceuticals at 1-855-5GATTEX (1-855-542-8839) or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other clinical trials and may not reflect the rates observed in clinical practice.
+
+
+
+ Across all clinical studies, 566 subjects were exposed to at least one dose of GATTEX (190 patient-years of exposure; mean duration of exposure was 17 weeks). Of the 566 subjects, 173 subjects were treated in Phase 3  SBS≠B-Not_AE_Candidate  studies (134/173 [77%] at the dose of 0.05 mg/kg/day and 39/173 [23%] at the dose of 0.10 mg/kg/day).
+
+
+
+ The most commonly reported (>= 10%) adverse reactions in patients treated with GATTEX across all clinical studies (n = 566) were:  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (30.0%);  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (22.4%);  nausea≠B-OSE_Labeled_AE  (18.2%);  headaches≠B-OSE_Labeled_AE  (15.9%);  abdominal≠B-OSE_Labeled_AE   distension≠I-OSE_Labeled_AE  (13.8%);  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  (11.8%).
+
+
+
+ The rates of adverse reactions in subjects with  SBS≠B-Not_AE_Candidate  participating in two randomized, placebo-controlled, 24-week, double-blind clinical studies (Study 1 and Study 3) are summarized in Table 1. Only those reactions with a rate of at least 5% in the GATTEX group, and greater than placebo group, are summarized in Table 1. The majority of these reactions were mild or moderate. Of subjects receiving GATTEX at the recommended dose of 0.05 mg/kg/day, 88.3% (N=68/77) experienced an adverse reaction, as compared to 83.1% (49/59) for placebo. Many of these adverse reactions have been reported in association with the underlying disease and/or parenteral nutrition.
+
+
+
+ Table 1: Adverse reactions in >=5% of GATTEX-treated SBS subjects and more frequent than placebo: Studies 1 and 3 
+ Adverse Reaction                                               Placebo(N=59)n (%)   GATTEX0.05mg/kg/day(N=77)n (%)   
+  
+  Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                                      16 ( 27.1)            29 ( 37.7)        
+  Upper≠B-OSE_Labeled_AE   Respiratory≠I-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE                                   8 ( 13.6)             20 ( 26.0)        
+  Nausea≠B-OSE_Labeled_AE                                                              12 ( 20.3)            19 ( 24.7)        
+  Abdominal≠B-OSE_Labeled_AE   Distension≠I-OSE_Labeled_AE                                                 1 ( 1.7)             15 ( 19.5)        
+  Vomiting≠B-OSE_Labeled_AE                                                            6 ( 10.2)             9 ( 11.7)         
+  Fluid≠B-OSE_Labeled_AE   Overload≠I-OSE_Labeled_AE                                                       4 ( 6.8)             9 ( 11.7)         
+  Flatulence≠B-OSE_Labeled_AE                                                           4 ( 6.8)              7 ( 9.1)         
+  Hypersensitivity≠B-OSE_Labeled_AE                                                     3 ( 5.1)              6 ( 7.8)         
+  Appetite≠B-OSE_Labeled_AE   Disorders≠I-OSE_Labeled_AE                                                   2 ( 3.4)              5 ( 6.5)         
+  Sleep≠B-OSE_Labeled_AE   Disturbances≠I-OSE_Labeled_AE                                                      0                  4 ( 5.2)         
+  Cough≠B-OSE_Labeled_AE                                                                   0                  4 ( 5.2)         
+  Skin≠B-OSE_Labeled_AE   Hemorrhage≠I-OSE_Labeled_AE                                                      1 ( 1.7)              4 ( 5.2)         
+   Subjects with  Stoma≠B-Not_AE_Candidate                                            
+ Gastrointestin≠I-Not_AE_Candidate al Stoma Complication                                 3 (13.6)             13 (41.9)         
+         In placebo-controlled Studies 1 and 3, 12% of patients in each of the placebo and GATTEX study groups experienced an  injection≠B-NonOSE_AE   site≠I-NonOSE_AE   reaction≠I-NonOSE_AE .
+ 
+
+     Adverse Reactions of Special Interest  
+
+
+
+      Malignancy≠B-NonOSE_AE   . Three subjects were diagnosed with  malignancy≠B-OSE_Labeled_AE  in the clinical studies, all of whom were male and had received GATTEX 0.05 mg/kg/day in Study 2. One subject had a history of abdominal radiation for  Hodgkin≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  two decades prior to receiving GATTEX and prior  liver≠B-Not_AE_Candidate   lesion≠I-Not_AE_Candidate  on CT scan, and was diagnosed with  metastatic≠B-OSE_Labeled_AE   adenocarcinoma≠I-OSE_Labeled_AE  of unconfirmed origin after 11 months of exposure to GATTEX. Two subjects had extensive smoking histories, and were diagnosed with  lung≠B-OSE_Labeled_AE   cancers≠I-OSE_Labeled_AE  ( squamous≠I-OSE_Labeled_AE  and non-small  cell≠I-OSE_Labeled_AE ) after 12 months and 3 months of GATTEX exposure, respectively.
+
+
+
+      Colorectal≠B-OSE_Labeled_AE   Polyps≠I-OSE_Labeled_AE   . In the clinical studies, 6 subjects were diagnosed with  polyps≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   G≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  I≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE  after initiation of study treatment. In the  SBS≠B-Not_AE_Candidate  placebo-controlled studies, 1/59 (1.7%) of subjects on placebo and 1/109 (0.9%) of subjects on GATTEX 0.05 mg/kg/day were diagnosed with  intestinal≠B-NonOSE_AE   polyps≠I-NonOSE_AE   (≠I-NonOSE_AE  inflammatory≠I-NonOSE_AE   stomal≠I-NonOSE_AE  and hyperplastic sigmoidal after 3 and 5 months, respectively). The remaining 4  polyp≠B-NonOSE_AE  cases occurred in the extension studies - two  colorectal≠B-OSE_Labeled_AE   villous≠I-OSE_Labeled_AE   adenomas≠I-OSE_Labeled_AE  (onset at 6 and 7 months in GATTEX 0.10 and 0.05 mg/kg/day dose groups, respectively), one  hyperplastic≠B-OSE_Labeled_AE   polyp≠I-OSE_Labeled_AE  (onset 6 months in GATTEX 0.10 mg/kg/day dose group), and one small  duodenal≠B-OSE_Labeled_AE   polyp≠I-OSE_Labeled_AE  (onset at 3 months in GATTEX 0.05 mg/kg/day dose group).
+
+
+
+      Gastrointestinal≠B-OSE_Labeled_AE   Obstruction≠I-OSE_Labeled_AE   . Overall, 12 subjects experienced one or more episodes of  intestinal≠B-OSE_Labeled_AE   obstruction≠I-OSE_Labeled_AE /stenosis: 6 in  SBS≠B-Not_AE_Candidate  placebo-controlled studies and 6 in the extension studies. The 6 subjects in the placebo-controlled trials were all on GATTEX: 3/77 (3.9%) on GATTEX 0.05 mg/kg/day and 3/32 (9.4%) on GATTEX 0.10 mg/kg/day. No cases of  intestinal≠B-NonOSE_AE   obstruction≠I-NonOSE_AE  occurred in the placebo group. Onsets ranged from 1 day to 6 months. In the extension studies, 6 additional subjects (all on GATTEX 0.05 mg/kg/day) were diagnosed with  intestinal≠B-OSE_Labeled_AE  obstruction/ stenosis≠I-OSE_Labeled_AE  with onsets ranging from 6 days to 7 months. Two of the 6 subjects from the placebo-controlled trials experienced recurrence of obstruction in the extension studies. Of all 8 subjects with an episode of  intestinal≠B-OSE_Labeled_AE  obstruction/ stenosis≠I-OSE_Labeled_AE  in these extension studies, 1 subject required endoscopic dilation and none required surgical intervention.
+
+
+
+      Gallbladder≠B-NonOSE_AE , Biliary and Pancreatic  Disease≠I-NonOSE_AE   . For  gallbladder≠B-NonOSE_AE  and biliary  disease≠I-NonOSE_AE  in the placebo-controlled studies, 3 subjects were diagnosed with  cholecystitis≠B-OSE_Labeled_AE , all of whom had a prior history of  gallbladder≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  and were in the GATTEX 0.05 mg/kg/day dose group. No cases were reported in the placebo group. One of these 3 cases had  gallbladder≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  and underwent cholecystectomy the next day. The remaining 2 cases underwent elective cholecystectomy at a later date. In the extension studies, 3 subjects had an episode of  acute≠B-OSE_Labeled_AE   cholecystitis≠I-OSE_Labeled_AE ; 2 subjects had new-onset  cholelithiasis≠B-OSE_Labeled_AE ; and 1 subject experienced  cholestasis≠B-NonOSE_AE  secondary to an  obstructed≠B-Not_AE_Candidate   biliary≠I-Not_AE_Candidate   stent≠I-Not_AE_Candidate . For  pancreatic≠B-NonOSE_AE   disease≠I-NonOSE_AE  in the placebo-controlled studies, 1 subject (GATTEX 0.05 mg/kg/day dose group) had a  pancreatic≠B-OSE_Labeled_AE   pseudocyst≠I-OSE_Labeled_AE  diagnosed after 4 months of GATTEX. In the extension studies, 1 subject was diagnosed with  chronic≠B-OSE_Labeled_AE   pancreatitis≠I-OSE_Labeled_AE ; and 1 subject was diagnosed with  acute≠B-OSE_Labeled_AE   pancreatitis≠I-OSE_Labeled_AE .
+
+
+
+      Fluid≠B-NonOSE_AE   Overload≠I-NonOSE_AE   . In the placebo-controlled trials,  fluid≠B-OSE_Labeled_AE   overload≠I-OSE_Labeled_AE  was reported in 4/59 (6.8%) of subjects on placebo and 9/77 (11.7%) subjects on GATTEX 0.05 mg/kg/day. Of the 9 cases in the GATTEX group, there were 2 cases of  congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  (CHF), 1 of whom was reported as a serious adverse event and the other as non-serious. The serious case had onset at 6 months, and was possibly associated with previously undiagnosed  hypothyroidism≠B-Not_AE_Candidate  and/or  cardiac≠B-Not_AE_Candidate   dysfunction≠I-Not_AE_Candidate .
+
+
+
+     Concomitant Oral Medication  . GATTEX can increase the absorption of concomitant oral medications such as benzodiazepines and psychotropic agents. In the placebo-controlled trials, an analysis of episodes of  cognition≠B-NonOSE_AE  and attention  disturbances≠I-NonOSE_AE  was performed for subjects on benzodiazepines. One of the subjects in the GATTEX 0.05 mg/kg/day group (on prazepam) experienced dramatic  deterioration≠B-NonOSE_AE   in≠I-NonOSE_AE   mental≠I-NonOSE_AE   status≠I-NonOSE_AE  progressing to  coma≠B-NonOSE_AE  during her first week of GATTEX therapy. She was admitted to the ICU where her benzodiazepine level was >300 mcg/L. GATTEX and prazepam were discontinued, and  coma≠B-NonOSE_AE  resolved 5 days later.
+
+
+
+   6.2 Immunogenicity
+
+  Consistent with the potentially  immunogenic≠B-NonOSE_AE  properties of medicinal products containing peptides, administration of GATTEX may trigger the  development≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE . In a randomized, double-blind, placebo-controlled, parallel-group, multi-national, multi-center, clinical trial (Study 1) in adults with SBS, the incidence of  anti≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  GATTEX≠I-OSE_Labeled_AE   antibody≠I-OSE_Labeled_AE  was 0% (0/16) at Week 12 and 18% (6/34) at Week 24 in subjects who received subcutaneous administration of 0.05 mg/kg GATTEX once daily. The  anti≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  GATTEX≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE  were cross-reactive to native glucagon-like peptide (GLP-2) in five of the six subjects (83%) who had  anti≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  GATTEX≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE . In the extension study (Study 2), the  immunogenicity≠B-OSE_Labeled_AE  incidence rate increased over time to 27% (14/51) at 12 months and 38% (13/34) at 18 months.  Anti≠B-NonOSE_AE  -≠I-NonOSE_AE  GATTEX≠I-NonOSE_AE   antibodies≠I-NonOSE_AE  appear to have no impact on short term (up to 1.5 years) efficacy and safety although the long-term impact is unknown.
+
+
+
+ A total of 40 subjects were tested for  neutralizing≠B-NonOSE_AE   antibodies≠I-NonOSE_AE  - 20 of these subjects had no  neutralizing≠B-NonOSE_AE   antibodies≠I-NonOSE_AE , and the remaining 20 subjects had no detectable  neutralizing≠B-NonOSE_AE   antibodies≠I-NonOSE_AE  although, the presence of teduglutide at low levels in these study samples could have resulted in false negatives (no  neutralizing≠B-NonOSE_AE   antibody≠I-NonOSE_AE   detected≠I-NonOSE_AE  although present).
+
+
+
+  Immunogenicity≠B-NonOSE_AE  assay results are highly dependent on the sensitivity and specificity of the assay and may be influenced by several factors such as: assay methodology, sample handling, timing of sample collection, concomitant medication, and underlying diseases. For these reasons, comparison of the incidence of  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   GATTEX≠I-NonOSE_AE  with the incidence of  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   other≠I-NonOSE_AE   products≠I-NonOSE_AE  may be misleading.

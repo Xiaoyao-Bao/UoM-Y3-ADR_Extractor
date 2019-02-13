@@ -1,0 +1,38 @@
+
+
+    BOXED WARNING: WARNING:  SERIOUS INFECTIONS AND MALIGNANCY
+
+    WARNING:  SERIOUS INFECTIONS AND MALIGNANCY  
+
+    EXCERPT:   WARNING:  SERIOUS INFECTIONS AND MALIGNANCY
+
+   See full prescribing information for complete boxed warning.  
+
+ *  Serious infections leading to hospitalization or death including tuberculosis (TB), bacterial sepsis, invasive fungal (such as histoplasmosis), and other opportunistic infections have occurred in patients receiving SIMPONI (5.1) 
+ *  Discontinue SIMPONI if a patient develops a serious infection or sepsis (5.1) 
+ *  Perform test for latent TB; if positive, start treatment for TB prior to starting SIMPONI (5.1) 
+ *  Monitor all patients for active TB during treatment, even if initial latent TB test is negative (5.1) 
+ *  Lymphoma and other malignancies, some fatal, have been reported in children and adolescent patients treated with TNF blockers, of which SIMPONI is a member (5.2) 
+    
+ 
+
+    SERIOUS INFECTIONS  
+
+   Patients treated with SIMPONI  (r)   are at increased risk for developing serious  infections≠B-OSE_Labeled_AE  that may lead to hospitalization or  death≠B-NonOSE_AE    [see   Warnings and Precautions (5.1)  ]  . Most patients who developed these  infections≠B-NonOSE_AE  were taking concomitant  immunosuppressants≠B-NonOSE_AE  such as methotrexate or corticosteroids.   
+
+   Discontinue SIMPONI if a patient develops a serious  infection≠B-NonOSE_AE .  
+
+   Reported  infections≠B-OSE_Labeled_AE  with TNF blockers, of which SIMPONI is a member, include:    
+
+ *   Active≠B-OSE_Labeled_AE   tuberculosis≠I-OSE_Labeled_AE , including  reactivation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   latent≠I-OSE_Labeled_AE   tuberculosis≠I-OSE_Labeled_AE . Patients with  tuberculosis≠B-OSE_Labeled_AE  have frequently presented  with≠I-OSE_Labeled_AE  disseminated or  extrapulmonary≠I-OSE_ Labeled≠B-OSE_Labeled_AE  _≠I-OSE_Labeled_AE  AE≠I-OSE_Labeled_AE    disease≠I-OSE_Labeled_AE . Test patients for  latent≠B-NonOSE_AE   tuberculosis≠I-NonOSE_AE  before SIMPONI use and during therapy. Initiate treatment for  latent≠B-Not_AE_Candidate   TB≠I-Not_AE_Candidate  prior to SIMPONI use. 
+ *   Invasive≠B-OSE_Labeled_AE   fungal≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  including  histoplasmosis≠B-OSE_Labeled_AE ,  coccidioidomycosis≠B-OSE_Labeled_AE ,  candidiasis≠B-OSE_Labeled_AE ,  aspergillosis≠B-OSE_Labeled_AE ,  blastomycosis≠B-OSE_Labeled_AE , and  pneumocystosis≠B-OSE_Labeled_AE . Patients with  histoplasmosis≠B-OSE_Labeled_AE  or other  invasive≠B-OSE_Labeled_AE   fungal≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  may present with disseminated, rather than localized, disease.  Antigen≠B-NonOSE_AE  and antibody  testing≠I-NonOSE_AE   for≠I-NonOSE_AE   histoplasmosis≠I-NonOSE_AE   may≠I-NonOSE_AE   be≠I-NonOSE_AE   negative≠I-NonOSE_AE  in some patients with active  infection≠B-NonOSE_AE . Consider empiric antifungal therapy in patients at risk for  invasive≠B-NonOSE_AE   fungal≠I-NonOSE_AE   infections≠I-NonOSE_AE  who develop severe  systemic≠B-NonOSE_AE   illness≠I-NonOSE_AE . 
+ *   Bacterial≠B-OSE_Labeled_AE , viral, and other  infections≠I-OSE_Labeled_AE   due≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   opportunistic≠I-OSE_Labeled_AE   pathogens≠I-OSE_Labeled_AE , including  Legionella≠B-OSE_Labeled_AE  and  Listeria≠B-OSE_Labeled_AE . 
+      Consider the risks and benefits of treatment with SIMPONI prior to initiating therapy in patients with chronic or recurrent  infection≠B-NonOSE_AE .  
+ 
+
+   Monitor patients closely for the development of signs and symptoms of  infection≠B-NonOSE_AE  during and after treatment with SIMPONI, including the possible development of  tuberculosis≠B-NonOSE_AE  in patients who  tested≠B-Not_AE_Candidate   negative≠I-Not_AE_Candidate  for latent  tuberculosis≠I-Not_AE_Candidate   infection≠I-Not_AE_Candidate  prior to initiating therapy   [see   Warnings and Precautions (5.1)  ]  .  
+
+     MALIGNANCY  
+
+    Lymphoma≠B-OSE_Labeled_AE  and other  malignancies≠B-OSE_Labeled_AE , some  fatal≠B-NonOSE_AE , have been reported in children and adolescent patients treated with TNF blockers, of which SIMPONI is a member     [see       Warnings and Precautions (5.2)  ]    .  
+

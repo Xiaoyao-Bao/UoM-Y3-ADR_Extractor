@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="DIFICID">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions are nausea (11%), vomiting (7%), abdominal pain (6%), gastrointestinal hemorrhage (4%), anemia (2%), and neutropenia (2%). (  6  )  To report SUSPECTED ADVERSE REACTIONS, contact Merck Sharp &amp; Dohme Corp., a subsidiary of Merck &amp; Co., Inc., at 1-877-888-4231 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety of DIFICID 200 mg tablets taken twice a day for 10 days was evaluated in 564 patients with CDAD in two active- comparator controlled trials with 86.7% of patients receiving a full course of treatment.
+
+
+
+ Thirty-three patients receiving DIFICID (5.9%) withdrew from trials as a result of adverse reactions (AR). The types of AR resulting in withdrawal from the study varied considerably. Vomiting was the primary adverse reaction leading to discontinuation of dosing; this occurred at an incidence of 0.5% in both the fidaxomicin and vancomycin patients in Phase 3 studies.
+
+
+
+ Table 1: Selected Adverse Reactions with an Incidence of &gt;=2% Reported in DIFICID Patients in Controlled Trials 
+ System Organ Class                           DIFICID(N=564)                    Vancomycin(N=583)           
+   Preferred Term                                  n (%)                              n (%)                 
+  
+ Blood and Lymphatic System Disorders                                                                         
+   Anemia                                         14 (2%)                            12 (2%)                
+   Neutropenia                                    14 (2%)                            6 (1%)                 
+ Gastrointestinal Disorders                                                                                 
+   Nausea                                        62 (11%)                           66 (11%)                
+   Vomiting                                       41 (7%)                            37 (6%)                
+   Abdominal Pain                                 33 (6%)                            23 (4%)                
+   Gastrointestinal Hemorrhage                    20 (4%)                            12 (2%)                
+         The following adverse reactions were reported in &lt;2% of patients taking DIFICID tablets in controlled trials:
+ 
+
+   Gastrointestinal Disorders:  abdominal distension, abdominal tenderness, dyspepsia, dysphagia, flatulence, intestinal obstruction, megacolon
+
+
+
+   Investigations:  increased blood alkaline phosphatase, decreased blood bicarbonate, increased hepatic enzymes, decreased platelet count
+
+
+
+   Metabolism and Nutrition Disorders:  hyperglycemia, metabolic acidosis
+
+
+
+   Skin and Subcutaneous Tissue Disorders:  drug eruption, pruritus, rash
+
+
+
+   6.2 Post Marketing Experience
+
+  Adverse reactions reported in the post marketing setting arise from a population of unknown size and are voluntary in nature. As such, reliability in estimating their frequency or in establishing a causal relationship to drug exposure is not always possible.
+
+
+
+ Hypersensitivity reactions (dyspnea, angioedema, rash, and pruritus) have been reported.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  DIFICID should not be used for systemic infections. (  5.1  ) 
+ *  Acute hypersensitivity reactions (angioedema, dyspnea, pruritus, and rash) have been reported. In the event of a severe reaction, discontinue DIFICID. (  5.2  ) 
+ *  Development of drug-resistant bacteria: Only use DIFICID for infection proven or strongly suspected to be caused by C. difficile . (  5.3  ) 
+    
+ 
+
+   5.1 Not for Systemic Infections
+
+
+
+  Since there is minimal systemic absorption of fidaxomicin, DIFICID is not effective for treatment of systemic infections.
+
+
+
+    5.2 Hypersensitivity Reactions
+
+
+
+  Acute hypersensitivity reactions, including dyspnea, rash pruritus, and angioedema of the mouth, throat, and face have been reported with fidaxomicin. If a severe hypersensitivity reaction occurs, DIFICID  (r)  should be discontinued and appropriate therapy should be instituted.
+
+
+
+ Some patients with hypersensitivity reactions also reported a history of allergy to other macrolides. Physicians prescribing DIFICID to patients with a known macrolide allergy should be aware of the possibility of hypersensitivity reactions.
+
+
+
+    5.3 Development of Drug-Resistant Bacteria
+
+
+
+  Prescribing DIFICID in the absence of a proven or strongly suspected C. difficile  infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="361" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="395" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="391" />
+    <IgnoredRegion len="31" name="heading" section="S2" start="438" />
+    <IgnoredRegion len="30" name="heading" section="S2" start="604" />
+    <IgnoredRegion len="42" name="heading" section="S2" start="1173" />
+    <IgnoredRegion len="29" name="heading" section="S1" start="3058" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

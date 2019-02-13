@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="AURYXIA">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (incidence &gt;=5%) are discolored feces, diarrhea, constipation, nausea, vomiting, cough, abdominal pain, and hyperkalemia (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Keryx Biopharmaceuticals at 1-844-445-3799 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to adverse reaction rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+   Hyperphosphatemia in Chronic Kidney Disease on Dialysis  
+
+
+
+ A total of 289 patients were treated with Auryxia and 149 patients were treated with active control (sevelamer carbonate and/or calcium acetate) during the 52-week, randomized, open-label, active control phase of a trial in patients on dialysis. A total of 322 patients were treated with Auryxia for up to 28 days in three short-term trials. Across these trials, 557 unique patients were treated with Auryxia; dosage regimens in these trials ranged from 210 mg to 2,520 mg of ferric iron per day, equivalent to 1 to 12 tablets of Auryxia.
+
+
+
+ Adverse reactions reported in more than 5% of patients treated with Auryxia in these trials included diarrhea (21%), discolored feces (19%), nausea (11%), constipation (8%), vomiting (7%), and cough (6%).
+
+
+
+ During the 52-week, active-control period, 61 patients (21%) on Auryxia discontinued study drug because of an adverse reaction, as compared to 21 patients (14%) in the active control arm. Patients who were previously intolerant to any of the active control treatments (calcium acetate and sevelamer carbonate) were not eligible to enroll in the study. Gastrointestinal adverse reactions were the most common reason for discontinuing Auryxia (14%).
+
+
+
+   Iron Deficiency Anemia in Chronic Kidney Disease Not on Dialysis  
+
+
+
+ Across two trials, 190 patients with CKD-NDD were treated with Auryxia. This included a study of 117 patients treated with Auryxia and 116 patients treated with placebo in a 16-week, randomized, double-blind period and a study of 75 patients treated with Auryxia and 73 treated with placebo in a 12-week randomized double-blind period. Dosage regimens in these trials ranged from 210 mg to 2,520 mg of ferric iron per day, equivalent to 1 to 12 tablets of Auryxia.
+
+
+
+ Adverse reactions reported in at least 5% of patients treated with Auryxia in these trials are listed in  Table 1  .
+
+
+
+ Table 1: Adverse Events Reported in Two Clinical Trials in at least 5% of patients receiving Auryxia 
+   Body SystemAdverse Reaction                                   Auryxia %(N=190)      Placebo %(N=188)     
+ Any Adverse Reaction                                                   75                    62            
+ Metabolism and Nutrition Disorders                                                                         
+    Hyperkalemia                                                        5                     3             
+ Gastrointestinal Disorders                                                                                 
+    Discolored feces                                                    22                    0             
+    Diarrhea                                                            21                    12            
+    Constipation                                                        18                    10            
+    Nausea                                                              10                    4             
+    Abdominal Pain                                                      5                     2             
+         During the 16-week, placebo-control trial, 12 patients (10%) on Auryxia discontinued study drug because of an adverse reaction, as compared to 10 patients (9%) in the placebo control arm. Diarrhea was the most common adverse reaction leading to discontinuation of Auryxia (2.6%).
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Iron overload: Monitor ferritin and TSAT. Patients may require a reduction in dose or discontinuation of intravenous iron. (  5.1  ) 
+ *  Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6 years of age. Keep this product out of reach of children. In case of accidental overdose, call a doctor or poison control center immediately. (  5.2  ) 
+    
+ 
+
+   5.1 Iron Overload
+
+
+
+  Iron absorption from Auryxia may lead to excessive elevations in iron stores. Increases in serum ferritin and transferrin saturation (TSAT) levels were observed in clinical trials. In a 56-week safety and efficacy trial evaluating the control of serum phosphate levels in patients with chronic kidney disease on dialysis in which concomitant use of intravenous iron was permitted, 55 (19%) of patients treated with Auryxia had a ferritin level &gt;1500 ng/mL as compared with 13 (9%) of patients treated with active control.
+
+
+
+ Assess iron parameters (e.g., serum ferritin and TSAT) prior to initiating Auryxia and monitor iron parameters while on therapy [see Contraindications (  4  ), Overdosage (  10  ) and Clinical Pharmacology (  12.2  )]  . Patients receiving intravenous iron may require a reduction in dose or discontinuation of intravenous iron therapy.
+
+
+
+    5.2 Risk of Overdosage in Children Due to Accidental Ingestion
+
+
+
+  Accidental ingestion and resulting overdose of iron-containing products is a leading cause of fatal poisoning in children under 6 years of age [see Overdosage (  10  )]  . Advise patients of the risks to children and to keep Auryxia out of the reach of children.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="324" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="417" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="354" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="460" />
+    <IgnoredRegion len="62" name="heading" section="S2" start="1353" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ALAWAY">
+  <Text>
+    <Section id="S1" name="warnings">    Warnings
+
+
+
+   For external use only  
+
+
+
+  Do not use  
+
+
+
+ *    if you are sensitive to any ingredient in this product 
+ *    if solution changes color or becomes cloudy 
+ *    to treat contact lens related irritation 
+       When using this product
+ 
+
+    *    remove contact lenses before use 
+ *    wait at least 10 minutes before re-inserting contact lenses after use 
+ *    do not touch tip of container to any surface to avoid contamination 
+ *    replace cap after each use 
+       Stop use and ask doctor if you experience any of the following:
+ 
+
+    *    eye pain 
+ *    changes in vision 
+ *    redness of the eyes 
+ *    itching that worsens or lasts more than 72 hours 
+       Keep out of reach of children.
+ 
+
+  If swallowed, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="8" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="23" name="heading" section="S1" start="232" />
+    <IgnoredRegion len="63" name="heading" section="S1" start="495" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="696" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,255 @@
+    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in another section of the label:
+
+
+
+ *    New Primary Malignancies [see Warnings and Precautions (5.1)]  
+ *    Hemorrhage [see Warnings and Precautions (5.2)]  
+ *    Venous Thromboembolism [see Warnings and Precautions (5.3)]  
+ *    Cardiomyopathy [see Warnings and Precautions (5.4)]  
+ *    Ocular Toxicities [see Warnings and Precautions (5.5)]  
+ *    Interstitial Lung Disease [see Warnings and Precautions (5.6)]  
+ *    Serious Febrile Reactions [see Warnings and Precautions (5.7)]  
+ *    Serious Skin Toxicity [see Warnings and Precautions (5.8)]  
+ *    Hyperglycemia [see Warnings and Precautions (5.9)]  
+   *    Most common adverse reactions (>=20%) for MEKINIST as a single agent include rash, diarrhea, and lymphedema. (  6.1  ) 
+ *    Most common adverse reactions (>=20%) for MEKINIST in combination with dabrafenib include pyrexia, chills, fatigue, rash, nausea, vomiting, diarrhea, abdominal pain, peripheral edema, cough, headache, arthralgia, night sweats, decreased appetite, constipation, and myalgia. (  6.1   )  
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact GlaxoSmithKline at 1-888-825-5249 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The data described in the Warnings and Precautions section and below reflect exposure to MEKINIST as a single agent and in combination with dabrafenib. MEKINIST as a single agent was evaluated in 329 patients including 107 (33%) exposed for greater than or equal to 6 months and 30 (9%) exposed for greater than or equal to one year. MEKINIST as a single agent was studied in open-label, single-arm trials (N = 118) or in an open-label, randomized, active-controlled trial (N = 211). The median age was 54 years, 60% were male, >99% were white, and all patients had metastatic melanoma. All patients received 2 mg once-daily doses of MEKINIST. The incidence of RPED and RVO are obtained from the 1,749 patients from all clinical trials with MEKINIST.
+
+
+
+ The safety of MEKINIST in combination with dabrafenib was evaluated in Trial 2 and other trials consisting of 202 patients with BRAF V600 mutation-positive unresectable or metastatic melanoma who received MEKINIST 2 mg orally once daily in combination with dabrafenib 150 mg orally twice daily until disease progression or unacceptable toxicity. Among these 202 patients, 68 (34%) were exposed to MEKINIST and 66 (33%) were exposed to dabrafenib for greater than 6 to 12 months while 36 (18%) were exposed to MEKINIST and 40 (20%) were exposed to dabrafenib for greater than one year. The median age was 54 years, 57% were male and >99% were white.
+
+
+
+ Table 3 presents adverse reactions identified from analyses of Trial 1, a randomized, open-label trial of patients with BRAF V600E or V600K mutation-positive melanoma receiving MEKINIST (N = 211) 2 mg orally once daily or chemotherapy (N = 99) (either dacarbazine 1,000 mg/m  2  every 3 weeks or paclitaxel 175 mg/m  2  every 3 weeks)  [see Clinical Studies (14.1)]  . Patients with abnormal LVEF, history of acute coronary syndrome within 6 months, or current evidence of Class II or greater congestive heart failure (New York Heart Association) were excluded from Trial 1. The median duration of treatment with MEKINIST was 4.3 months. In Trial 1, 9% of patients receiving MEKINIST experienced adverse reactions resulting in permanent discontinuation of trial medication. The most common adverse reactions resulting in permanent discontinuation of MEKINIST were decreased left ventricular ejection fraction (LVEF), pneumonitis, renal failure, diarrhea, and rash. Adverse reactions led to dose reductions in 27% of patients treated with MEKINIST. Rash and decreased LVEF were the most common reasons cited for dose reductions of MEKINIST.
+
+
+
+   Table 3. Selected Adverse Reactions Occurring in >=10% of Patients Receiving MEKINIST and at a Higher Incidence (>=5%) Than in the Chemotherapy Arm or >=2% (Grades 3 or 4) Adverse Reactions  
+
+
+
+
+  Adverse Reactions                          MEKINIST         Chemotherapy     
+  N = 211                                    N = 99           
+  All  Gradesa                               Grades  3 and 4b    All  Gradesa     Grades  3 and 4b    
+  Skin and subcutaneous tissue disorders                                                                         
+     Rash                                    57               8                10               0                
+     Dermatitis acneiform                    19               <1               1                0                
+     Dry skin                                11               0                0                0                
+     Pruritus                                10               2                1                0                
+     Paronychia                              10               0                1                0                
+  Gastrointestinal disorders                                                                                     
+     Diarrhea                                43               0                16               2                
+     Stomatitisc                             15               2                2                0                
+     Abdominal paind                         13               1                5                1                
+  Vascular disorders                                                                                             
+     Lymphedemae                             32               1                4                0                
+     Hypertension                            15               12               7                3                
+     Hemorrhagef                             13               <1               0                0                
+             a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 4.0.
+ 
+
+   b  Grade 4 adverse reactions limited to rash (n = 1) in trametinib arm and diarrhea (n = 1) in chemotherapy arm.
+
+
+
+   c  Includes the following terms: stomatitis, aphthous stomatitis, mouth ulceration, and mucosal inflammation.
+
+
+
+   d  Includes the following terms: abdominal pain, abdominal pain lower, abdominal pain upper, and abdominal tenderness.
+
+
+
+   e  Includes the following terms: lymphedema, edema, and peripheral edema.
+
+
+
+   f  Includes the following terms: epistaxis, gingival bleeding, hematochezia, rectal hemorrhage, melena, vaginal hemorrhage, hemorrhoidal hemorrhage, hematuria, and conjunctival hemorrhage.
+
+
+
+ Other clinically important adverse reactions observed in <=10% of patients (N = 329) treated with MEKINIST were:
+
+
+
+   Cardiac Disorders:  Bradycardia.
+
+
+
+   Gastrointestinal Disorders:  Xerostomia.
+
+
+
+   Infections and Infestations:  Folliculitis, rash pustular, cellulitis.
+
+
+
+   Musculoskeletal and Connective Tissue Disorders:  Rhabdomyolysis.
+
+
+
+   Nervous System Disorders:  Dizziness, dysgeusia.
+
+
+
+   Ocular Disorders:  Vision blurred, dry eye.
+
+
+
+   Table 4. Percent-Patient Incidence of Laboratory Abnormalities Occurring at a Higher Incidence in Patients Treated With MEKINIST in Trial 1 (Between-Arm Difference of >=5% [All Grades] or >=2% [Grades 3 or 4]  a  )  
+
+
+
+
+  Test                                         MEKINIST    Chemotherapy    
+  N = 211                                      N = 99     
+  All  Grades                                  Grades  3 and 4    All  Grades    Grades  3 and 4    
+  Increased aspartate aminotransferase (AST)    60         2          16         1          
+  Increased alanine aminotransferase (ALT)     39         3          20         3          
+  Hypoalbuminemia                              42         2          23         1          
+  Anemia                                       38         2          26         3          
+  Increased alkaline phosphatase               24         2          18         3          
+          *       a  No Grade 4 events were reported in either treatment arm. 
+    Table 5 presents adverse reactions from Trial 2, a multicenter, open-label, randomized trial of 162 patients with BRAF V600E or V600K mutation-positive melanoma receiving MEKINIST 2 mg once daily in combination with dabrafenib 150 mg twice daily (N = 55), MEKINIST 1 mg once daily in combination with dabrafenib 150 mg twice daily (N = 54), and dabrafenib as a single agent 150 mg twice daily (N = 53)  [see Clinical Studies (14.1)]  . Patients with abnormal LVEF, history of acute coronary syndrome within 6 months, current evidence of Class II or greater congestive heart failure (New York Heart Association), history of RVO, or RPED, QTc interval >=480 msec, treatment refractory hypertension, uncontrolled arrhythmias, history of pneumonitis or interstitial lung disease, or a known history of G6PD deficiency were excluded. The median duration of treatment was 10.9 months for both MEKINIST (2-mg once-daily treatment group) and dabrafenib when used in combination, 10.6 months for both MEKINIST (1-mg once-daily treatment group) and dabrafenib when used in combination, and 6.1 months for dabrafenib as a single agent.
+ 
+
+ In Trial 2, 13% of patients receiving MEKINIST in combination with dabrafenib at the recommended dose experienced adverse reactions resulting in permanent discontinuation of trial medication(s). The most common adverse reaction resulting in permanent discontinuation was pyrexia (4%). Adverse reactions led to dose reductions in 49% and dose interruptions in 67% of patients treated with MEKINIST in combination with dabrafenib. Pyrexia, chills, and nausea were the most common reasons cited for dose reductions, and pyrexia, chills, and decreased ejection fraction were the most common reasons cited for dose interruptions of MEKINIST and dabrafenib when used in combination.
+
+
+
+   Table 5. Common Adverse Drug Reactions Occurring in >10% (All Grades) or >=5% (Grades 3 or 4) of Patients Treated With MEKINIST in Combination With Dabrafenib in Trial 2  
+
+
+
+
+   Adverse Reactions              MEKINIST 2 mg plus Dabrafenib    N = 55      MEKINIST 1 mg plus Dabrafenib    N = 54      Dabrafenib    N = 53     
+   All    Grades  a               Grades    3 and 4      All    Grades  a        Grades    3 and 4      All    Grades  a        Grades    3 and 4     
+  
+  General disorders and administrative site conditions    
+     Pyrexia                     71            5              69            9             26           0             
+     Chills                      58            2              50            2             17           0             
+     Fatigue                     53            4              57            2             40           6             
+     Edema peripheralb           31            0              28            0             17           0             
+  Skin and subcutaneous tissue disorders    
+     Rashc                       45            0              43            2             53           0             
+     Night sweats                24            0              15            0             6            0             
+     Dry skin                    18            0              9             0             6            0             
+     Dermatitis acneiform        16            0              11            0             4            0             
+     Actinic keratosis           15            0              7             0             9            0             
+     Erythema                    15            0              6             0             2            0             
+     Pruritus                    11            0              11            0             13           0             
+  Gastrointestinal disorders     
+     Nausea                      44            2              46            6             21           0             
+     Vomiting                    40            2              43            4             15           0             
+     Diarrhea                    36            2              26            0             28           0             
+     Abdominal paind             33            2              24            2             21           2             
+     Constipation                22            0              17            2             11           0             
+     Dry mouth                   11            0              11            0             6            0             
+  Nervous system disorders       
+     Headache                    29            0              37            2             28           0             
+     Dizziness                   16            0              13            0             9            0             
+  Respiratory, thoracic, and mediastinal disorders    
+     Cough                       29            0              11            0             21           0             
+     Oropharyngeal pain          13            0              7             0             0            0             
+  Musculoskeletal, connective tissue, and bone disorders    
+     Arthralgia                  27            0              44            0             34           0             
+     Myalgia                     22            2              24            0             23           2             
+     Back pain                   18            5              11            0             11           2             
+     Muscle spasms               16            0              2             0             4            0             
+     Pain in extremity           16            0              11            2             19           0             
+  Metabolism and nutritional disorders    
+     Decreased appetite          22            0              30            0             19           0             
+     Dehydration                 11            0              6             2             2            0             
+  Psychiatric disorders          
+     Insomnia                    18            0              11            0             8            2             
+  Vascular disorders             
+     Hemorrhagee                 16            5              11            0             2            0             
+  Infections and infestations    
+     Urinary tract infection     13            2              6             0             9            2             
+  Renal and urinary disorders    
+     Renal failuref              7             7              2             0             0            0             
+            *       a  National Cancer Institute Common Terminology Criteria for Adverse Events, version 4. 
+ *       b  Includes the following terms: peripheral edema, edema, and lymphedema. 
+ *       c  Includes the following terms: rash, rash generalized, rash pruritic, rash erythematous, rash papular, rash vesicular, rash macular, and rash maculo-papular. 
+ *       d  Includes the following terms: abdominal pain, abdominal pain upper, abdominal pain lower, and abdominal discomfort. 
+ *       e  Includes the following terms: brain stem hemorrhage, cerebral hemorrhage, gastric hemorrhage, epistaxis, gingival hemorrhage, hematuria, vaginal hemorrhage, hemorrhage intracranial, eye hemorrhage, and vitreous hemorrhage. 
+ *       f  Includes the following terms: renal failure and renal failure acute. 
+    Other clinically important adverse reactions (N = 202) observed in <10% of patients treated with MEKINIST in combination with dabrafenib were:
+ 
+
+   Eye Disorders:  Vision blurred, transient blindness.
+
+
+
+   Gastrointestinal Disorders:  Stomatitis, pancreatitis.
+
+
+
+   General Disorders and Administration Site Conditions:  Asthenia.
+
+
+
+   Infections and Infestations:  Cellulitis, folliculitis, paronychia, rash pustular.
+
+
+
+   Neoplasms Benign, Malignant, and Unspecified (including cysts and polyps):  Skin papilloma.
+
+
+
+   Skin and Subcutaneous Tissue Disorders:  Palmar-plantar erythrodysesthesia syndrome, hyperkeratosis, hyperhidrosis.
+
+
+
+   Vascular Disorders:  Hypertension.
+
+
+
+   Table 6. Treatment-Emergent Laboratory Abnormalities Occurring at >=10% (All Grades) or >=2% (Grades 3 or 4) of Patients Treated With MEKINIST in Combination With Dabrafenib in Trial 2  
+
+
+
+
+  Test                                MEKINIST 2 mg plus Dabrafenib  N = 55    MEKINIST 1 mg plus Dabrafenib  N = 54    Dabrafenib  N = 53    
+  All  Grades                         Grades  3 and 4    All  Grades    Grades  3 and 4    All  Grades    Grades  3 and 4a    
+  Hematology                          
+     Leukopenia                       62           5            46            4            21          0             
+     Lymphopenia                      55           22           59            19           40          6             
+     Neutropenia                      55           13           37            2            9           2             
+     Anemia                           55           4            46            7            28          0             
+     Thrombocytopenia                 31           4            31            2            8           0             
+  Liver Function Tests                
+     Increased AST                    60           5            54            0            15          0             
+     Increased alkaline phosphatase    60           2            67            6            26          2             
+     Increased ALT                    42           4            35            4            11          0             
+     Hyperbilirubinemia               15           0            7             4            0           0             
+  Chemistry                           
+     Hyperglycemia                    58           5            67            6            49          2             
+     Increased GGT                    56           11           54            17           38          2             
+     Hyponatremia                     55           11           48            15           36          2             
+     Hypoalbuminemia                  53           0            43            2            23          0             
+     Hypophosphatemia                 47           5            41            11           40          0             
+     Hypokalemia                      29           2            15            2            23          6             
+     Increased creatinine             24           5            20            2            9           0             
+     Hypomagnesemia                   18           2            2             0            6           0             
+     Hyperkalemia                     18           0            22            0            15          4             
+     Hypercalcemia                    15           0            19            2            4           0             
+     Hypocalcemia                     13           0            20            0            9           0             
+            *       a  No Grade 4 events were reported in dabrafenib arm. 
+ *     ALT = Alanine aminotransferase; AST = Aspartate aminotransferase; GGT = Gamma glutamyltransferase. 
+      QT Prolongation:  In Trial 2, QTcF prolongation to >500 msec occurred in 4% (2/55) of patients treated with MEKINIST in combination with dabrafenib and in 2% (1/53) of patients treated with dabrafenib as a single agent. The QTcF was increased more than 60 msec from baseline in 13% (7/55) of patients treated with MEKINIST in combination with dabrafenib and 2% (1/53) of patients treated with dabrafenib as a single agent.

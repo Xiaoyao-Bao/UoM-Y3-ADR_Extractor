@@ -1,0 +1,19 @@
+    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions (incidence < 1%) are injection site irritation and/or pain.  (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Navidea Biopharmaceuticals, Inc.  at 1-800-476-5270 or www.lymphoseek.com or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In open label, single arm clinical trials, 553 patients with either  breast≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate ,  malanoma≠B-Not_AE_Candidate , or  squamous≠B-Not_AE_Candidate   cell≠I-Not_AE_Candidate   carcinoma≠I-Not_AE_Candidate   of≠I-Not_AE_Candidate   the≠I-Not_AE_Candidate   oral≠I-Not_AE_Candidate   cavity≠I-Not_AE_Candidate , skin, and lip received Lymphoseek.  No patients experienced serious adverse reactions.   Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   irritation≠I-OSE_Labeled_AE  (4 patients; 0.7%) and pain (1 patient; 0.2%) were reported.

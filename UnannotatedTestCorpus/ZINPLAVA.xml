@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ZINPLAVA">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (reported in &gt;=4% of patients) included nausea, pyrexia, and headache. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Merck Sharp &amp; Dohme Corp., a subsidiary of Merck &amp; Co., Inc., at 1-877-888-4231 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety of ZINPLAVA was evaluated in two placebo-controlled, Phase 3 trials (Trial 1 n= 390 and Trial 2 n= 396). Patients received a single 10 mg/kg intravenous infusion of ZINPLAVA and concomitant standard of care antibacterial drugs (metronidazole, vancomycin or fidaxomicin) for CDI (SoC). Adverse reactions reported within the first 4 weeks after ZINPLAVA was administered are described for the pooled Phase 3 trial population of 786 patients. The median age of patients receiving ZINPLAVA was 65 years (range 18 to 100), 50% were age 65 years or older, 56% were female, and 83% were white.
+
+
+
+ The most common adverse reactions following treatment with ZINPLAVA (reported in &gt;=4% of patients within the first 4 weeks of infusion and with a frequency greater than placebo) were nausea, pyrexia, and headache (see  Table 1  ).
+
+
+
+ Table 1: Adverse Reactions Reported in &gt;=4% of ZINPLAVA-Treated Patients with CDI and at a Frequency Greater than Placebo in Trial 1 and Trial 2All patients as treated population, defined as all randomized patients who received a dose of study medication, by treatment received,Adverse reactions reported within 4 weeks of administration of ZINPLAVA or placebo 
+ Adverse Reaction                                     ZINPLAVA with SoCN=786%    Placebo with SoCN=781%     
+  
+   Gastrointestinal disorders                         
+   Nausea                                                       7%                         5%               
+   General disorders and administration site conditions     
+   Pyrexia                                                      5%                         3%               
+   Nervous system disorders                           
+   Headache                                                     4%                         3%               
+         Serious adverse reactions occurring within 12 weeks following infusion were reported in 29% of ZINPLAVA-treated patients and 33% of placebo-treated patients. Heart failure was reported as a serious adverse reaction in 2.3% of the ZINPLAVA-treated patients and 1.0% of the placebo-treated patients  [see  Warnings and Precautions (5.1)  ]  .
+ 
+
+ One patient discontinued the ZINPLAVA infusion due to ventricular tachyarrhythmia that occurred 30 minutes after the start of the infusion.
+
+
+
+ Mortality rates were 7.1% and 7.6% in ZINPLAVA-treated patients and placebo-treated patients, respectively, during the 12-week follow-up period.
+
+
+
+     Infusion Related Reactions  
+
+
+
+ Overall, 10% of ZINPLAVA-treated patients experienced one or more infusion specific adverse reactions on the day of, or the day after, the infusion compared to 8% of placebo-treated patients. Infusion specific adverse reactions reported in &gt;=0.5% of patients receiving ZINPLAVA and at a frequency greater than placebo were nausea (3%), fatigue (1%), pyrexia (1%), dizziness (1%), headache (2%), dyspnea (1%) and hypertension (1%). Of these patients, 78% and 20% of patients experienced mild and moderate adverse reactions, respectively. These reactions resolved within 24 hours following onset.
+
+
+
+   6.2 Immunogenicity
+
+  As with all therapeutic proteins, there is a potential for immunogenicity following administration of ZINPLAVA. The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of antibodies to bezlotoxumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
+
+
+
+ Following treatment with ZINPLAVA in Trial 1 and Trial 2, none of the 710 evaluable patients tested positive for treatment-emergent anti-bezlotoxumab antibodies.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:    Heart Failure  : Was reported more commonly in ZINPLAVA-treated patients with a history of congestive heart failure (CHF) in the two Phase 3 clinical trials. In patients with a history of CHF, ZINPLAVA should be reserved for use when the benefit outweighs the risk. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 Heart Failure
+
+
+
+  Heart failure was reported more commonly in the two Phase 3 clinical trials in ZINPLAVA-treated patients compared to placebo-treated patients. These adverse reactions occurred primarily in patients with underlying congestive heart failure (CHF). In patients with a history of CHF, 12.7% (15/118) of ZINPLAVA-treated patients and 4.8% (5/104) of placebo-treated patients had the serious adverse reaction of heart failure during the 12-week study period [see  Adverse Reactions (6.1)  ]  . Additionally, in patients with a history of CHF, there were more deaths in ZINPLAVA-treated patients, 19.5% (23/118) than in placebo-treated patients, 12.5% (13/104) during the 12-week study period. The causes of death varied and included cardiac failure, infections, and respiratory failure.
+
+
+
+ In patients with a history of CHF, ZINPLAVA should be reserved for use when the benefit outweighs the risk.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="312" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="293" name="excerpt" section="S2" start="35" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="335" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="342" />
+    <IgnoredRegion len="18" name="heading" section="S1" start="3738" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="DIANEAL_137">
+  <Text>
+    <Section id="S1" name="adverse reactions">  6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed elsewhere in the label:
+
+ Peritonitis and Encapsulating Peritoneal Sclerosis    [see  Warnings and Precautions (5.1)  ]
+
+ Electrolyte and Fluid Imbalances [see  Warnings and Precautions (5.4)  ]
+
+   EXCERPT:   
+
+ To report SUSPECTED ADVERSE REACTIONS, contact Baxter Healthcare Corporation at 1-866-888-2472 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.  
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  There are no data available on adverse reactions from controlled clinical trials conducted to evaluate the safety of DIANEAL.
+
+   6.2 Post-Marketing Experience
+
+  The following adverse experiences have been identified during post-approval use of DIANEAL or in conjunction with performing the peritoneal dialysis procedure. Because these experiences are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship during drug exposure. Most of these adverse experiences are believed to be consequences of peritoneal dialysis.
+
+ INFECTIONS AND INFESTATIONS: Fungal peritonitis, Peritonitis bacterial, Catheter related infection
+
+ METABOLISM AND NUTRITION DISORDERS: Hypovolemia, Hypervolemia, Fluid retention, Hypokalemia, Hyponatremia, Dehydration, Hypochloremia
+
+ VASCULAR DISORDERS: Hypotension, Hypertension
+
+ RESPIRATORY, THORACIC, AND MEDIASTINAL DISORDERS: Dyspnea
+
+ GASTROINTESTINAL DISORDERS: Sclerosing encapsulating peritonitis, Peritonitis, Peritoneal cloudy effluent, Vomiting, Diarrhea, Nausea, Constipation, Abdominal pain, Abdominal distension, Abdominal discomfort
+
+ SKIN AND SUBCUTANEOUS DISORDERS: Stevens-Johnson syndrome, Urticaria, Rash, (including pruritic, erythematous and generalized), Pruritus
+
+ MUSCULOSKELETAL, CONNECTIVE TISSUE DISORDERS: Myalgia, Muscle spasms, Musculoskeletal pain
+
+ GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS: Generalized edema, Pyrexia, Malaise, Infusion site pain, Catheter related complication
+
+</Section>
+    <Section id="S2" name="warnings and precautions">   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *    Encapsulating peritoneal sclerosis (  5.1  ) 
+ *    Peritonitis: Initiate appropriate antimicrobial therapy (  5.1  ) 
+ *    Monitor for lactic acidosis in patients at risk (  5.2  ) 
+ *    Monitor for electrolyte, fluid, and nutrition imbalances (  5.4  ) 
+    
+ 
+
+   5.1 Peritonitis and Encapsulating Peritoneal Sclerosis
+
+  Peritonitis has been associated with DIANEAL use. Following use, inspect the drained fluid for the presence of fibrin or cloudiness, which may indicate the presence of peritonitis. Improper clamping or priming sequence may result in infusion of air into the peritoneal cavity, which may result in abdominal pain and/or peritonitis. If peritonitis occurs, treat with appropriate therapy.
+
+ Encapsulating Peritoneal Sclerosis (EPS), sometimes fatal, is a complication of peritoneal dialysis therapy and has been reported in patients using DIANEAL.
+
+    5.2 Lactic Acidosis
+
+  Monitor patients with conditions known to increase the risk of lactic acidosis [e.g., severe hypotension or sepsis that can be associated with acute renal failure, hepatic failure, inborn errors of metabolism, and treatment with drugs such as nucleoside/nucleotide reverse transcriptase inhibitors (NRTIs)] before the start of treatment and during treatment with lactate-based peritoneal dialysis solutions. Use of DIANEAL in patients with severe lactic acidosis is contraindicated [see  Contraindications (4)  ] .  
+
+    5.3 Overinfusion
+
+  Overinfusion of peritoneal dialysis solution volume into the peritoneal cavity may be characterized by abdominal distention, feeling of fullness and/or shortness of breath. Drain the peritoneal dialysis solution from the peritoneal cavity to treat overinfusion.
+
+    5.4 Electrolyte, Fluid, and Nutrition Imbalances
+
+  Peritoneal dialysis may affect a patient's protein, water-soluble vitamin, potassium, bicarbonate, calcium, and magnesium levels and volume status. Monitor hematology, electrolytes, blood chemistry and fluid status periodically and take appropriate clinical action.
+
+ Potassium is omitted from DIANEAL solutions because dialysis may be performed to correct hyperkalemia. In situations where there is a normal serum potassium level or hypokalemia, addition of potassium chloride (up to a concentration of 4 mEq/L) to the solution may be necessary to prevent severe hypokalemia. Monitor fluid status to avoid hyper- or hypovolemia and potentially severe consequences including congestive heart failure, volume depletion and hypovolemic shock.
+
+    5.5 Hyperglycemia
+
+  DIANEAL contains dextrose and may increase the risk for hyperglycemia in patients with impaired glucose tolerance. Patients may require initiation or modification of antidiabetic therapy during treatment with DIANEAL. Monitor blood glucose.
+
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="2" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="3" />
+    <IgnoredRegion len="280" name="excerpt" section="S2" start="33" />
+    <IgnoredRegion len="165" name="excerpt" section="S1" start="269" />
+    <IgnoredRegion len="54" name="heading" section="S2" start="320" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="438" />
+    <IgnoredRegion len="29" name="heading" section="S1" start="602" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="929" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="1474" />
+    <IgnoredRegion len="48" name="heading" section="S2" start="1761" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="2559" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

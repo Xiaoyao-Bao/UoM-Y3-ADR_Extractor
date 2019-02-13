@@ -1,0 +1,63 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Interleukin-1 blockade may interfere with immune response to infections. Serious, life-threatening infections have been reported in patients taking ARCALYST. Discontinue treatment with ARCALYST if a patient develops a serious infection. Do not initiate treatment with ARCALYST in patients with active or chronic infections. (  5.1  ) 
+ *  Hypersensitivity reactions associated with ARCALYST administration have been rare. If a hypersensitivity reaction occurs, discontinue administration of ARCALYST and initiate appropriate therapy. (  5.5  ) 
+ *  Live vaccines should not be given concurrently with ARCALYST. Prior to initiation of therapy with ARCALYST, patients should receive all recommended vaccinations. (  5.3  ) 
+    
+ 
+
+   5.1 Infections
+
+
+
+  Interleukin -1 (IL-1) blockade may interfere with the immune response to  infections≠B-OSE_Labeled_AE . Treatment with another medication that works through inhibition of IL-1 has been associated with an increased risk of serious  infections≠B-NonOSE_AE , and serious  infections≠B-OSE_Labeled_AE  have been reported in patients taking ARCALYST [ see Clinical Studies (  14  )  ]. There was a greater incidence of  infections≠B-OSE_Labeled_AE  in patients on ARCALYST compared with placebo. In the controlled portion of the study, one  infection≠B-OSE_Labeled_AE  was reported as severe, which was  bronchitis≠B-OSE_Labeled_AE  in a patient on ARCALYST.
+
+
+
+ In an open-label extension study, one patient developed  bacterial≠B-OSE_Labeled_AE   meningitis≠I-OSE_Labeled_AE  and  died≠B-NonOSE_AE  [ see Adverse Reactions (  6.3  )  ]. ARCALYST should be discontinued if a patient develops a serious  infection≠B-NonOSE_AE . Treatment with ARCALYST should not be initiated in patients with an active or chronic  infection≠B-NonOSE_AE .
+
+
+
+ In clinical studies, ARCALYST has not been administered concomitantly with tumor necrosis factor (TNF) inhibitors. An increased incidence of serious  infections≠B-NonOSE_AE  has been associated with administration of an IL-1 blocker in combination with TNF inhibitors. Taking ARCALYST with TNF inhibitors is not recommended because this may increase the risk of serious  infections≠B-NonOSE_AE .  
+
+
+
+ Drugs that affect the immune system by blocking TNF have been associated with an increased risk of  reactivation≠B-NonOSE_AE   of≠I-NonOSE_AE   latent≠I-NonOSE_AE   tuberculosis≠I-NonOSE_AE   (≠I-NonOSE_AE  TB≠I-NonOSE_AE ). It is possible that taking drugs such as ARCALYST that block IL-1 increases the risk of  TB≠B-NonOSE_AE  or other atypical or  opportunistic≠B-NonOSE_AE   infections≠I-NonOSE_AE . Healthcare providers should follow current CDC guidelines both to evaluate for and to treat possible  latent≠B-Not_AE_Candidate   tuberculosis≠I-Not_AE_Candidate   infections≠I-Not_AE_Candidate  before initiating therapy with ARCALYST.
+
+
+
+    5.2 Immunosuppression
+
+
+
+  The impact of treatment with ARCALYST on  active≠B-Not_AE_Candidate  and/or chronic  infections≠I-Not_AE_Candidate  and the development of  malignancies≠B-NonOSE_AE  is not known [ see Adverse Reactions (  6.3  )]  . However, treatment with immunosuppressants, including ARCALYST, may result in an increase in the risk of  malignancies≠B-OSE_Labeled_AE .
+
+
+
+    5.3 Immunizations
+
+
+
+  Since no data are available on either the efficacy of live vaccines or on the risks of  secondary≠B-NonOSE_AE   transmission≠I-NonOSE_AE   of≠I-NonOSE_AE   infection≠I-NonOSE_AE  by live vaccines in patients receiving ARCALYST, live vaccines should not be given concurrently with ARCALYST. In addition, because ARCALYST may  interfere≠B-NonOSE_AE   with≠I-NonOSE_AE   normal≠I-NonOSE_AE   immune≠I-NonOSE_AE   response≠I-NonOSE_AE   to≠I-NonOSE_AE   new≠I-NonOSE_AE   antigens≠I-NonOSE_AE , vaccinations may not be effective in patients receiving ARCALYST. No data are available on the effectiveness of vaccination with inactivated (killed) antigens in patients receiving ARCALYST.
+
+
+
+ Because IL-1 blockade may  interfere≠B-NonOSE_AE   with≠I-NonOSE_AE   immune≠I-NonOSE_AE   response≠I-NonOSE_AE   to≠I-NonOSE_AE   infections≠I-NonOSE_AE , it is recommended that prior to initiation of therapy with ARCALYST adult and pediatric patients receive all recommended vaccinations, as appropriate, including pneumococcal vaccine and inactivated influenza vaccine. (See current Recommended Immunizations schedules at the website of the Centers for Disease Control. http://www.cdc.gov/vaccines/recs/schedules/).
+
+
+
+    5.4 Lipid Profile Changes
+
+
+
+  Patients should be monitored for  changes≠B-NonOSE_AE   in≠I-NonOSE_AE   their≠I-NonOSE_AE   lipid≠I-NonOSE_AE   profiles≠I-NonOSE_AE  and provided with medical treatment if warranted [see Adverse Reactions (  6.7  )]  .
+
+
+
+    5.5 Hypersensitivity
+
+
+
+   Hypersensitivity≠B-OSE_Labeled_AE  reactions associated with ARCALYST administration in the clinical studies were rare. If a  hypersensitivity≠B-NonOSE_AE   reaction≠I-NonOSE_AE  occurs, administration of ARCALYST should be discontinued and appropriate therapy initiated.

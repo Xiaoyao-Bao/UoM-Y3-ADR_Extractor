@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="BSS_PLUS">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Postoperative inflammatory reactions as well as incidents of corneal edema and corneal decompensation have been reported. Their relationship to the use of BSS PLUS solution has not been established.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   DO NOT USE BSS PLUS solution UNTIL PART I IS FULLY RECONSTITUTED WITH PART II. Discard unused contents. BSS PLUS does not contain a preservative; therefore, do not use this container for more than one patient. DISCARD ANY UNUSED PORTION SIX HOURS AFTER PREPARATION. Studies suggest that intraocular irrigating solutions which are iso-osmotic with normal aqueous fluids should be used with caution in diabetic patients undergoing vitrectomy since intraoperative lens changes have been observed.  There have been reports of corneal clouding or edema following ocular surgery in which BSS PLUS solution was used as an irrigating solution. As in all surgical procedures appropriate measures should be taken to minimize trauma to the cornea and other ocular tissues.
+ 
+
+    Preparation
+
+
+
+  Reconstitute BSS PLUS  Intraocular Irrigating Solution just prior to use in surgery. Follow the same strict aseptic procedures in the reconstitution of BSS PLUS  solution as is used for intravenous additives. Remove the BSS PLUS   solution  Part I (480 mL) bag from the clear overwrap. Remove the blue flip-off seal from the BSS PLUS solution  Part II (20 mL) vial. Clean and disinfect the rubber stoppers on both containers by using sterile alcohol wipes. Transfer the contents of the Part II vial to the Part I bag using a BSS PLUS solution  Dual-Spike Transfer Device (provided). An alternative method of solution transfer may be accomplished by using a 20 mL syringe to remove the Part II solution from the vial and transferring exactly 20 mL to the Part I container through the outer target area of the rubber stopper. An excess volume of Part II is provided in each vial. Gently agitate the contents to mix the solution. Place a sterile cap on the bag. Record the time and date of reconstitution and the patient's name on the bag label.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  For IRRIGATION during ophthalmic surgery only. Not for injection or intravenous infusion. Do not use unless product is clear, seal is intact and container is undamaged. Do not use if product is discolored or contains a precipitate.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="791" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CLARITIN_REDITABS">
+  <Text>
+    <Section id="S1" name="warnings">    Warnings
+
+
+
+   Do not use  if you have ever had an allergic reaction to this product or any of its ingredients.
+
+
+
+    Ask a doctor before use if you have  liver or kidney disease. Your doctor should determine if you need a different dose.
+
+
+
+    When using this product  do not take more than directed. Taking more than directed may cause drowsiness.
+
+
+
+    Stop use and ask a doctor if  an allergic reaction to this product occurs. Seek medical help right away.
+
+
+
+    If pregnant or breast-feeding,  ask a health professional before use.
+
+
+
+    Keep out of reach of children.  In case of overdose, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="8" name="heading" section="S1" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

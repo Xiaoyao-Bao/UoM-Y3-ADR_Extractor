@@ -1,0 +1,62 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Skeletal muscle effects (e.g., myopathy and rhabdomyolysis): Risks increase in a dose-dependent manner, with advanced age (>=65), renal impairment, and inadequately treated hypothyroidism. Advise patients to promptly report unexplained and/or persistent muscle pain, tenderness, or weakness, and discontinue LIVALO (  5.1  ) 
+ *   Liver enzyme abnormalities: Persistent elevations in hepatic transaminases can occur. Check liver enzyme tests before initiating therapy and as clinically indicated thereafter (  5.2  ) 
+    
+ 
+
+   5.1 Skeletal Muscle Effects
+
+
+
+   Cases of  myopathy≠B-OSE_Labeled_AE  and  rhabdomyolysis≠B-OSE_Labeled_AE  with  acute≠B-NonOSE_AE   renal≠I-NonOSE_AE   failure≠I-NonOSE_AE  secondary to  myoglobinuria≠B-OSE_Labeled_AE  have been reported with HMG-CoA reductase inhibitors, including LIVALO.  These risks can occur at any dose level, but increase in a dose-dependent manner.
+
+
+
+ LIVALO should be prescribed with caution in patients with predisposing factors for  myopathy≠B-NonOSE_AE . These factors include advanced age (>=65 years),  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate , and inadequately treated  hypothyroidism≠B-Not_AE_Candidate . The risk of  myopathy≠B-NonOSE_AE  may also be increased with concurrent administration of fibrates or lipid-modifying doses of niacin. LIVALO should be administered with caution in patients with  impaired≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate , in elderly patients, or when used concomitantly with fibrates or lipid-modifying doses of niacin [see Drug Interactions (  7.6  ), Use in Specific Populations (  8.5  ,  8.6  ) and Clinical Pharmacology (  12.3  )].  
+
+
+
+ Cases of  myopathy≠B-NonOSE_AE , including  rhabdomyolysis≠B-NonOSE_AE , have been reported with HMG-CoA reductase inhibitors coadministered with colchicine, and caution should be exercised when prescribing LIVALO with colchicine [see Drug Interactions  (  7.7  )].
+
+
+
+ There have been rare reports of  immune≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  mediated≠I-OSE_Labeled_AE   necrotizing≠I-OSE_Labeled_AE   myopathy≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  IMNM≠I-OSE_Labeled_AE ), an  autoimmune≠B-OSE_Labeled_AE   myopathy≠I-OSE_Labeled_AE , associated with statin use.   IMNM≠B-NonOSE_AE  is characterized by:  proximal≠B-NonOSE_AE   muscle≠I-NonOSE_AE   weakness≠I-NonOSE_AE  and  elevated≠B-NonOSE_AE   serum≠I-NonOSE_AE   creatine≠I-NonOSE_AE   kinase≠I-NonOSE_AE , which persist despite discontinuation of statin treatment; muscle biopsy showing  necrotizing≠B-NonOSE_AE   myopathy≠I-NonOSE_AE  without significant  inflammation≠B-NonOSE_AE ; improvement with  immunosuppressive≠B-NonOSE_AE   agents≠I-NonOSE_AE .
+
+
+
+ LIVALO therapy should be discontinued if markedly  elevated≠B-NonOSE_AE   creatine≠I-NonOSE_AE   kinase≠I-NonOSE_AE   (≠I-NonOSE_AE  CK≠I-NonOSE_AE ) levels occur or  myopathy≠B-NonOSE_AE  is diagnosed or suspected. LIVALO therapy should also be temporarily withheld in any patient with an acute, serious condition suggestive of  myopathy≠B-NonOSE_AE  or predisposing to the development of  renal≠B-NonOSE_AE   failure≠I-NonOSE_AE  secondary to  rhabdomyolysis≠B-NonOSE_AE  (e.g.,  sepsis≠B-Not_AE_Candidate ,  hypotension≠B-Not_AE_Candidate ,  dehydration≠B-Not_AE_Candidate , major surgery, trauma,  severe≠B-Not_AE_Candidate   metabolic≠I-Not_AE_Candidate , endocrine, and electrolyte  disorders≠I-Not_AE_Candidate , or uncontrolled  seizures≠B-Not_AE_Candidate ). All patients should be advised to promptly report unexplained  muscle≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  tenderness≠B-NonOSE_AE , or  weakness≠B-NonOSE_AE , particularly if accompanied by  malaise≠B-NonOSE_AE  or  fever≠B-NonOSE_AE  or if  muscle≠B-NonOSE_AE   signs≠I-NonOSE_AE   and≠I-NonOSE_AE   symptoms≠I-NonOSE_AE  persist after discontinuing LIVALO.
+
+
+
+    5.2 Liver Enzyme Abnormalities
+
+
+
+   Increases≠B-OSE_Labeled_AE  in  serum≠I-OSE_Labeled_AE   transaminases≠I-OSE_Labeled_AE  (aspartate aminotransferase [AST]/serum glutamic-oxaloacetic transaminase, or alanine aminotransferase [ALT]/serum glutamic-pyruvic transaminase) have been reported with HMG-CoA reductase inhibitors, including LIVALO. In most cases, the elevations were transient and resolved or improved on continued therapy or after a brief interruption in therapy.
+
+
+
+ In placebo-controlled Phase 2 studies,  ALT≠B-NonOSE_AE   >≠I-NonOSE_AE  3≠I-NonOSE_AE   times≠I-NonOSE_AE   the≠I-NonOSE_AE   upper≠I-NonOSE_AE   limit≠I-NonOSE_AE   of≠I-NonOSE_AE   normal≠I-NonOSE_AE  was not observed in the placebo, LIVALO 1 mg, or LIVALO 2 mg groups. One out of 202 patients (0.5%) administered LIVALO 4 mg had  ALT≠B-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  3≠I-OSE_Labeled_AE   times≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE   limit≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   normal≠I-OSE_Labeled_AE .
+
+
+
+ It is recommended that liver enzyme tests be performed before the initiation of LIVALO and if signs or symptoms of  liver≠B-NonOSE_AE   injury≠I-NonOSE_AE  occur.
+
+
+
+ There have been rare postmarketing reports of  fatal≠B-NonOSE_AE  and non-fatal  hepatic≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  in patients taking statins, including pitavastatin. If serious  liver≠B-NonOSE_AE   injury≠I-NonOSE_AE  with clinical symptoms and/or  hyperbilirubinemia≠B-NonOSE_AE  or  jaundice≠B-NonOSE_AE  occurs during treatment with LIVALO, promptly interrupt therapy. If an alternate etiology is not found do not restart LIVALO.
+
+
+
+ As with other HMG-CoA reductase inhibitors, LIVALO should be used with caution in patients who consume substantial quantities of alcohol. Active  liver≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate , which may include unexplained persistent  transaminase≠B-Not_AE_Candidate   elevations≠I-Not_AE_Candidate , is a contraindication to the use of LIVALO [see Contraindications (  4  )].  
+
+
+
+    5.3 Endocrine Function
+
+
+
+   Increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   HbA≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  c≠I-OSE_Labeled_AE  and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including LIVALO.

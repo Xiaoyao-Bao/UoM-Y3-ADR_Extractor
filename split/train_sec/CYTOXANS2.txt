@@ -1,0 +1,70 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *    Myelosuppression, Immunosuppression, Bone Marrow Failure and Infections - Severe immunosuppression may lead to serious and sometimes fatal infections. Close hematological monitoring is required. (  5.1  ) 
+ *    Urinary Tract and Renal Toxicity - Hemorrhagic cystitis, pyelitis, ureteritis, and hematuria can occur. Exclude or correct any urinary tract obstructions prior to treatment. (  5.2  ) 
+ *    Cardiotoxicity - Myocarditis, myopericarditis, pericardial effusion, arrythmias and congestive heart failure, which may be fatal, have been reported. Monitor patients, especially those with risk factors for cardiotoxicity or pre-existing cardiac disease. (  5.3  ) 
+ *    Pulmonary Toxicity - Pneumonitis, pulmonary fibrosis and pulmonary veno-occlusive disease leading to respiratory failure may occur. Monitor patients for signs and symptoms of pulmonary toxicity. (  5.4  ) 
+ *    Secondary malignancies(  5.5  ) 
+ *    Veno-occlusive Liver Disease - Fatal outcome can occur. (  5.6  ) 
+ *    Embryo-Fetal Toxicity - Can cause fetal harm. Advise female patients of reproductive potential to avoid pregnancy. (  5.7  ,  8.1  ,  8.6  ) 
+    
+ 
+
+   5.1 Myelosuppression, Immunosuppression, Bone Marrow Failure and Infections
+
+  Cyclophosphamide can cause  myelosuppression≠B-OSE_Labeled_AE  ( leukopenia≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE  and  anemia≠B-OSE_Labeled_AE ),  bone≠B-OSE_Labeled_AE   marrow≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE , and severe  immunosuppression≠B-OSE_Labeled_AE  which may lead to serious and sometimes  fatal≠B-NonOSE_AE   infections≠B-NonOSE_AE , including  sepsis≠B-NonOSE_AE  and  septic≠B-NonOSE_AE   shock≠I-NonOSE_AE .  Latent≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE   can≠I-OSE_Labeled_AE   be≠I-OSE_Labeled_AE   reactivated≠I-OSE_Labeled_AE  [see  Adverse Reactions (6.2)  ].
+
+ Antimicrobial prophylaxis may be indicated in certain cases of  neutropenia≠B-NonOSE_AE  at the discretion of the managing physician. In case of  neutropenic≠B-NonOSE_AE   fever≠I-NonOSE_AE , antibiotic therapy is indicated. Antimycotics and/or antivirals may also be indicated.
+
+ Monitoring of complete blood counts is essential during cyclophosphamide treatment so that the dose can be adjusted, if needed. Cyclophosphamide should not be administered to patients with  neutrophils≠B-Not_AE_Candidate   <≠I-Not_AE_Candidate  =≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  ,≠I-Not_AE_Candidate  5≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  mm≠I-Not_AE_Candidate    3≠I-Not_AE_Candidate   and  platelets≠B-Not_AE_Candidate   <≠I-Not_AE_Candidate   5≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate  ,≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  mm≠I-Not_AE_Candidate    3≠I-Not_AE_Candidate   . Cyclophosphamide treatment may not be indicated, or should be interrupted, or the dose reduced, in patients who have or who develop a serious  infection≠B-NonOSE_AE . G-CSF may be administered to reduce the risks of  neutropenia≠B-NonOSE_AE  complications associated with cyclophosphamide use. Primary and secondary prophylaxis with G-CSF should be considered in all patients considered to be at increased risk for  neutropenia≠B-NonOSE_AE  complications. The nadirs of the  reduction≠B-NonOSE_AE   in≠I-NonOSE_AE   leukocyte≠I-NonOSE_AE   count≠I-NonOSE_AE  and thrombocyte count are usually reached in weeks 1 and 2 of treatment. Peripheral blood cell counts are expected to normalize after approximately 20 days.  Bone≠B-OSE_Labeled_AE   marrow≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  has been reported. Severe  myelosuppression≠B-NonOSE_AE  may be expected particularly in patients pretreated with and/or receiving concomitant chemotherapy and/or radiation therapy.
+
+    5.2 Urinary Tract and Renal Toxicity
+
+   Hemorrhagic≠B-OSE_Labeled_AE   cystitis≠I-OSE_Labeled_AE ,  pyelitis≠B-OSE_Labeled_AE ,  ureteritis≠B-OSE_Labeled_AE , and  hematuria≠B-OSE_Labeled_AE  have been reported with cyclophosphamide. Medical and/or surgical supportive treatment may be required to treat protracted cases of severe  hemorrhagic≠B-NonOSE_AE   cystitis≠I-NonOSE_AE . Discontinue cyclophosphamide therapy in case of severe  hemorrhagic≠B-NonOSE_AE   cystitis≠I-NonOSE_AE .  Urotoxicity≠B-NonOSE_AE  ( bladder≠B-NonOSE_AE   ulceration≠I-NonOSE_AE , necrosis, fibrosis, contracture and secondary cancer) may require interruption of cyclophosphamide treatment or cystectomy.  Urotoxicity≠B-NonOSE_AE  can be  fatal≠B-NonOSE_AE .  Urotoxicity≠B-OSE_Labeled_AE  can occur with short-term or long-term use of cyclophosphamide.
+
+ Before starting treatment, exclude or correct any  urinary≠B-Not_AE_Candidate   tract≠I-Not_AE_Candidate   obstructions≠I-Not_AE_Candidate  [see  Contraindications (4)  ]. Urinary sediment should be checked regularly for the presence of erythrocytes and other signs of  urotoxicity≠B-NonOSE_AE  and/or  nephrotoxicity≠B-NonOSE_AE . Cyclophosphamide should be used with caution, if at all, in patients with active  urinary≠B-Not_AE_Candidate   tract≠I-Not_AE_Candidate   infections≠I-Not_AE_Candidate . Aggressive hydration with forced  diuresis≠B-NonOSE_AE  and frequent  bladder≠B-NonOSE_AE   emptying≠I-NonOSE_AE  can reduce the frequency and severity of  bladder≠B-NonOSE_AE   toxicity≠I-NonOSE_AE . Mesna has been used to prevent severe  bladder≠B-NonOSE_AE   toxicity≠I-NonOSE_AE .
+
+    5.3 Cardiotoxicity
+
+   Myocarditis≠B-OSE_Labeled_AE ,  myopericarditis≠B-OSE_Labeled_AE ,  pericardial≠B-OSE_Labeled_AE   effusion≠I-OSE_Labeled_AE  including  cardiac≠B-OSE_Labeled_AE   tamponade≠I-OSE_Labeled_AE , and  congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE , which may be  fatal≠B-NonOSE_AE , have been reported with cyclophosphamide therapy
+
+  Supraventricular≠B-OSE_Labeled_AE   arrhythmias≠I-OSE_Labeled_AE  (including  atrial≠B-OSE_Labeled_AE  fibrillation and  flutter≠I-OSE_Labeled_AE ) and  ventricular≠B-OSE_Labeled_AE   arrhythmias≠I-OSE_Labeled_AE  (including severe  QT≠B-OSE_Labeled_AE   prolongation≠I-OSE_Labeled_AE  associated with  ventricular≠B-OSE_Labeled_AE   tachyarrhythmia≠I-OSE_Labeled_AE ) have been reported after treatment with regimens that included cyclophosphamide.
+
+ The risk of  cardiotoxicity≠B-OSE_Labeled_AE  may be increased with high doses of cyclophosphamide, in patients with advanced age, and in patients with previous radiation treatment to the cardiac region and/or previous or concomitant treatment with other  cardiotoxic≠B-NonOSE_AE   agents≠I-NonOSE_AE .
+
+ Particular caution is necessary in patients with risk factors for  cardiotoxicity≠B-NonOSE_AE  and in patients with pre-existing  cardiac≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate .
+
+ Monitor patients with risk factors for  cardiotoxicity≠B-NonOSE_AE  and with pre-existing  cardiac≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate .
+
+    5.4 Pulmonary Toxicity
+
+   Pneumonitis≠B-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   fibrosis≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   veno≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  occlusive≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE  and other forms of  pulmonary≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  leading to  respiratory≠B-NonOSE_AE   failure≠I-NonOSE_AE  have been reported during and following treatment with cyclophosphamide. Late onset  pneumonitis≠B-NonOSE_AE  (greater than 6 months after start of cyclophosphamide) appears to be associated with increased  mortality≠B-NonOSE_AE .  Pneumonitis≠B-OSE_Labeled_AE  may develop years after treatment with cyclophosphamide.
+
+ Monitor patients for signs and symptoms of  pulmonary≠B-NonOSE_AE   toxicity≠I-NonOSE_AE .
+
+    5.5 Secondary Malignancies
+
+  Cyclophosphamide is  genotoxic≠B-OSE_Labeled_AE  [see  Nonclinical Toxicology (13.1)  ].  Secondary≠B-OSE_Labeled_AE   malignancies≠I-OSE_Labeled_AE  ( urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   cancer≠I-OSE_Labeled_AE ,  myelodysplasia≠B-OSE_Labeled_AE ,  acute≠B-OSE_Labeled_AE   leukemias≠I-OSE_Labeled_AE ,  lymphomas≠B-OSE_Labeled_AE ,  thyroid≠B-OSE_Labeled_AE   cancer≠I-OSE_Labeled_AE , and  sarcomas≠B-OSE_Labeled_AE ) have been reported in patients treated with cyclophosphamide-containing regimens .  The risk of  bladder≠B-NonOSE_AE   cancer≠I-NonOSE_AE  may be reduced by prevention of  hemorrhagic≠B-NonOSE_AE   cystitis≠I-NonOSE_AE .
+
+    5.6 Veno-occlusive Liver Disease
+
+   Veno≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  occlusive≠I-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  VOD≠I-OSE_Labeled_AE ) including  fatal≠B-NonOSE_AE  outcome has been reported in patients receiving cyclophosphamide-containing regimens. A cytoreductive regimen in preparation for  bone≠B-Not_AE_Candidate   marrow≠I-Not_AE_Candidate   transplantation≠I-Not_AE_Candidate  that consists of cyclophosphamide in combination with whole-body irradiation, busulfan, or other agents has been identified as a major risk factor.  VOD≠B-OSE_Labeled_AE  has also been reported to develop gradually in patients receiving long-term low-dose  immunosuppressive≠B-NonOSE_AE  doses of cyclophosphamide. Other risk factors predisposing to the development of  VOD≠B-NonOSE_AE  include preexisting  disturbances≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   hepatic≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate , previous radiation therapy of the abdomen, and a low performance status.
+
+    5.7  Embryo≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Fetal≠I-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE 
+
+  Cyclophosphamide can cause  fetal≠B-OSE_Labeled_AE   harm≠I-OSE_Labeled_AE  when administered to a  pregnant≠B-Not_AE_Candidate  woman [see  Use in Specific Populations (8.1)  ]. Exposure to cyclophosphamide during  pregnancy≠B-Not_AE_Candidate  may cause  birth≠B-OSE_Labeled_AE   defects≠I-OSE_Labeled_AE ,  miscarriage≠B-OSE_Labeled_AE ,  fetal≠B-OSE_Labeled_AE   growth≠I-OSE_Labeled_AE   retardation≠I-OSE_Labeled_AE , and  fetotoxic≠B-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE  in the newborn. Cyclophosphamide is  teratogenic≠B-NonOSE_AE  and  embryo≠B-NonOSE_AE  -≠I-NonOSE_AE  fetal≠I-NonOSE_AE   toxic≠I-NonOSE_AE  in mice, rats, rabbits and monkeys.
+
+ Advise female patients of reproductive potential to avoid becoming  pregnant≠B-NonOSE_AE  and to use highly effective contraception during treatment and for up to 1 year after completion of therapy [see  Use in Specific Populations (8.6)  ].
+
+    5.8 Infertility
+
+   Male≠B-OSE_Labeled_AE  and female  reproductive≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE  and fertility may be  impaired≠I-OSE_Labeled_AE  in patients being treated with cyclophosphamide. Cyclophosphamide  interferes≠B-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   oogenesis≠I-OSE_Labeled_AE  and spermatogenesis. It may cause  sterility≠B-OSE_Labeled_AE  in both sexes. Development of  sterility≠B-NonOSE_AE  appears to depend on the dose of cyclophosphamide, duration of therapy, and the state of gonadal function at the time of treatment.  Cyclophosphamide≠B-NonOSE_AE  -≠I-NonOSE_AE  induced≠I-NonOSE_AE   sterility≠I-NonOSE_AE  may be irreversible in some patients. Advise patients on the potential risks for  infertility≠B-NonOSE_AE  [see  Use in Specific Populations (8.4  and  8.6  )].
+
+    5.9 Impairment of Wound Healing
+
+  Cyclophosphamide may  interfere≠B-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   normal≠I-OSE_Labeled_AE   wound≠I-OSE_Labeled_AE   healing≠I-OSE_Labeled_AE .
+
+    5.10 Hyponatremia
+
+   Hyponatremia≠B-OSE_Labeled_AE  associated with  increased≠B-OSE_Labeled_AE   total≠I-OSE_Labeled_AE   body≠I-OSE_Labeled_AE   water≠I-OSE_Labeled_AE ,  acute≠B-OSE_Labeled_AE   water≠I-OSE_Labeled_AE   intoxication≠I-OSE_Labeled_AE , and a  syndrome≠B-OSE_Labeled_AE   resembling≠I-OSE_Labeled_AE   SIADH≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  syndrome≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   inappropriate≠I-OSE_Labeled_AE   secretion≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   antidiuretic≠I-OSE_Labeled_AE   hormone≠I-OSE_Labeled_AE ), which may be  fatal≠B-NonOSE_AE , has been reported.
+

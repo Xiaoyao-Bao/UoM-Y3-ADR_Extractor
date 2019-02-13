@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PRE_PEN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Occasionally, patients may develop an intense local inflammatory response at the skin test site. Rarely, patients will develop a systemic allergic reaction, manifested by generalized erythema, pruritus, angioedema, urticaria, dyspnea, hypotension, and anaphylaxis. The usual methods of treating a skin test antigen-induced reaction - the applications of a venous occlusion tourniquet proximal to the skin test site and administration of epinephrine are recommended. The patient should be kept under observation for several hours.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+    General  
+
+
+
+  No reagent, test, or combination of tests will completely assure that a reaction to penicillin therapy will not occur.
+
+
+
+ The value of the PRE-PEN skin test alone as a means of assessing the risk of administering therapeutic penicillin (when penicillin is the preferred drug of choice) in the following situations is not established:
+
+
+
+ *  1.  Adult patients who give no history of clinical penicillin hypersensitivity. 
+ *  2.  Pediatric patients. 
+    In addition, the clinical value of PRE-PEN where exposure to penicillin is suspected as a cause of a current drug reaction or in patients who are undergoing routine allergy evaluation is not known. Likewise, the clinical value of PRE-PEN skin tests alone in determining the risk of administering semi-synthetic penicillins (phenoxymethyl penicillin, ampicillin, carbenicillin, dicloxacillin, methicillin, nafcillin, oxacillin, amoxicillin), cephalosporin-derived antibiotics, and penem antibiotics is not known.
+ 
+
+ In addition to the results of the PRE-PEN skin test, the decision to administer or not administer penicillin should take into account individual patient factors. Healthcare professionals should keep in mind the following:
+
+
+
+ *  1.  A serious allergic reaction to therapeutic penicillin may occur in a patient with a negative skin test to PRE-PEN. 
+ *  2.  It is possible for a patient to have an anaphylactic reaction to therapeutic penicillin in the presence of a negative PRE-PEN skin test and a negative history of clinical penicillin hypersensitivity. 
+ *  3.  If penicillin is the drug of choice for a life-threatening infection, successful desensitization with therapeutic penicillin may be possible irrespective of a positive skin test and/or a positive history of clinical penicillin hypersensitivity. 
+        Pregnancy  - Pregnancy Category C
+ 
+
+  Animal reproduction studies have not been conducted with PRE-PEN. It is not known whether PRE-PEN can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. The hazards of skin testing in such patients should be weighed against the hazard of penicillin therapy without skin testing.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  The risk of sensitization to repeated skin testing with PRE-PEN is not established. Rarely, a systemic allergic reaction including anaphylaxis (see below) may follow a skin test with PRE-PEN. To decrease the risk of a systemic allergic reaction, puncture skin testing should be performed first. Intradermal skin testing should be performed only if the puncture test is entirely negative.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="10" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="34" name="heading" section="S2" start="1829" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

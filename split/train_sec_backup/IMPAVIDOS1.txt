@@ -1,0 +1,124 @@
+    6 ADVERSE REACTIONS
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+    EXCERPT:    *    Adverse reactions occurring in >=2% of patients include nausea, vomiting, diarrhea, headache, decreased appetite, dizziness, abdominal pain, pruritus, somnolence, elevated transaminases, and elevated creatinine (  6.1  ). 
+      To report SUSPECTED ADVERSE REACTIONS, contact    Paladin Therapeutics Inc. at 1-888-550-6060    or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+    Visceral Leishmaniasis  
+
+
+
+ One Phase 3 trial was conducted in patients >= 12 years of age in India. Two-hundred and ninety-nine (299) patients (211 men and 88 women) received oral IMPAVIDO at a target dose of 2.5 mg/kg/day for 28 days (50 mg capsule once daily if weight was less than 25 kg and 50 mg capsule twice daily if weight was 25 kg or greater). Patients ranged between 12 and 64 years of age. Weight ranged between 15 and 67 kg (mean weight 38.6 kg) and BMI ranged between 8.2 and 24 (mean 16.1). Ninety-nine (99) patients received 1 mg/kg/day amphotericin B deoxycholate intravenously every other day for 15 doses. A statistically significant higher percentage of men received IMPAVIDO compared to amphotericin B.
+
+
+
+  Less than 1% of patients who received IMPAVIDO died (2/299) and no patient who received amphotericin B died. Serious adverse reactions were reported in 2% of IMPAVIDO recipients (6/299) and 1% of amphotericin B recipients (1/99). Approximately 3% of patients discontinued treatment in each treatment arm due to an adverse reaction. Serious adverse reactions and adverse reactions leading to drug discontinuation that were thought to be related or possibly related to IMPAVIDO included Stevens-Johnson syndrome, melena and thrombocytopenia, arthritis and skin rash, CTCAE (Common Terminology Criteria for Adverse Events) Grade 4 diarrhea (>=10 stools per day) and CTCAE Grade 4 hyperbilirubinemia (>=10x upper limit of normal ULN).
+ 
+
+ Table 2: Treatment Emergent Adverse Reactions Occurring in >=2% of Visceral Leishmaniasis Patients Receiving IMPAVIDO 
+  System Organ ClassPreferred Term                       IMPAVIDON = 299               Amphotericin B DeoxycholateN = 99    
+  Gastrointestinal Disorders                                                                                                
+    Diarrhea                                             61 (20.4%)                    6 (6.1%)                             
+    Vomiting                                             113 (37.8%)                   20 (20.0%)                           
+  General Disorders                                                                                                         
+    Asthenia                                             19 (6.3%)                     4 (4.0%)                             
+  Metabolism and Nutrition Disorders                                                                                        
+    Decreased Appetite                                   69 (23.1%)                    22 (22.2%)                           
+         In this study, creatinine (Cr) elevations >= 1.5 times above baseline occurred in approximately 10% of IMPAVIDO recipients and in 40% of amphotericin B recipients at the end of therapy. Ten percent of subjects in each arm had Cr elevations >=1.5 times above baseline at 6 months follow up. No IMPAVIDO recipient discontinued therapy due to Cr elevation.
+ 
+
+ Elevations of transaminases during therapy occurred in up to half of IMPAVIDO recipients and up to a third of amphotericin B recipients. The elevations were mild (< 3x ULN) or moderate (3-5x ULN) in 94% and 6% respectively of IMPAVIDO-treated patients who experienced an elevation. No patient discontinued therapy due to elevations in transaminases.
+
+
+
+ At the end of therapy, 62% and 2.4% of IMPAVIDO recipients and 54% and 2% of amphotericin B recipients had platelet count < 150,000 and < 50,000 respectively.
+
+
+
+   Cutaneous Leishmaniasis  
+
+
+
+ The efficacy of IMPAVIDO in the treatment of cutaneous leishmaniasis was evaluated in one placebo-controlled trial conducted in Colombia and Guatemala and in two comparative trials conducted in Bolivia and Brazil respectively. In the placebo-controlled trial, eighty-nine (89) patients >=12 years of age received a target IMPAVIDO dose of 2.5 mg/kg/day for 28 days and forty-four (44) received placebo. In the comparative trials, one hundred and twenty (120) patients >=12 years of age received a target IMPAVIDO dose of 2.5 mg/kg/day for 28 days and fifty eight (58) patients received 20 mg/kg/day pentavalent antimony (meglumine) parenterally for 20 days.
+
+
+
+ Table 3: Adverse Reactions Occurring in >=2% of IMPAVIDO-Treated Patients >=12 Years of Age with Cutaneous Leishmaniasis in the Placebo-Controlled Trial 
+  System Organ ClassPreferred Term                           IMPAVIDON = 89                   PlaceboN = 44                 
+  Ear and Labyrinth Disorders                                                                                               
+    Motion Sickness                                          26 (29.2%)                       10 (22.7%)                    
+  Gastrointestinal Disorders                                                                                                
+    Abdominal Pain                                           10 (11.2%)                       3 (6.8%)                      
+    Diarrhea                                                 7 (7.9%)                         2 (4.5%)                      
+    Nausea                                                   32 (35.9%)                       5 (11.1%)                     
+    Vomiting                                                 4 (4.5%)                         0                             
+  General and Administration Site Disorders                                                                                 
+    Malaise                                                  3 (3.4%)                         1 (2.3%)                      
+    Pyrexia                                                  5 (5.6%)                         2 (4.5%)                      
+  Nervous System Disorders                                                                                                  
+    Dizziness                                                4 (4.5%)                         0                             
+    Headache                                                 25 (28.1%)                       10 (22.7%)                    
+    Somnolence                                               3 (3.4%)                         0                             
+  Skin and Subcutaneous Tissue Disorders                                                                                    
+    Pruritus                                                 4 (4.5%)                         0                             
+        Table 4: Adverse Reactions Occurring in >=2% of IMPAVIDO-Treated Patients >= 12 Years of Age with Cutaneous Leishmaniasis in Two Comparative Trials 
+  System Organ ClassPreferred Term                           IMPAVIDON = 120                  MeglumineN = 58               
+  Gastrointestinal Disorders                                                                                                
+    Abdominal Pain                                           9 (7.5%)                         3 (5.2%)                      
+    Diarrhea                                                 18 (15.0%)                       3 (5.2%)                      
+    Nausea                                                   50 (41.7%)                       3 (5.2%)                      
+    Vomiting                                                 33 (27.5%)                       0                             
+  Infections and Infestations                                                                                               
+    Lymphangitis                                             7 (5.8%)                         0                             
+  Metabolism and Nutrition Disorders                                                                                        
+    Decreased Appetite                                       13 (10.8%)                       4 (5.8%)                      
+  Nervous System Disorders                                                                                                  
+    Dizziness                                                15 (12.5%)                       4 (6.9%)                      
+  Skin and Subcutaneous Tissue Disorders                                                                                    
+    Pruritus                                                 7 (5.8%)                         0                             
+         In the placebo controlled trial, 12/89 (13.4%) IMPAVIDO subjects had Cr increases of 1.5-3 times above baseline, compared to 2/44 (4.5%) placebo subjects at end of therapy. In the comparative trial, a similar percentage of subjects who received IMPAVIDO or pentavalent antimony had Cr elevations above baseline at 3 and 6 months after therapy (approximately 5%). Approximately 25% of IMPAVIDO subjects and 11% of pentavalent antimony subjects had Cr elevations 1.5-3 times above baseline at the end of therapy in the two active controlled trials. The frequency of AST and ALT increase above upper limit of normal at end of therapy was similar in IMPAVIDO and placebo recipients (approximately 5%).
+ 
+
+ Other adverse events seen at <2% incidence in the IMPAVIDO group included anemia, lymphadenopathy, abdominal distension, constipation, dysphagia, flatulence, fatigue, malaise, abscess, cellulitis, ecthyma, paresthesia, testicular pain, testicular swelling, Stevens-Johnson syndrome, urticaria, rash, pyoderma.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during use of IMPAVIDO worldwide. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   Blood and Lymphatics Disorders  : thrombocytopenia, agranulocytosis
+
+
+
+   Gastrointestinal Disorders  : melena
+
+
+
+   General Disorders  : generalized edema, peripheral edema
+
+
+
+   Hepatobiliary Disorders  : jaundice
+
+
+
+   Nervous System Disorders  : seizure
+
+
+
+   Reproductive System and Breast Disorders  : scrotal pain, decreased ejaculate volume, absent ejaculation.
+
+
+
+   Vascular Disorders  : epistaxis

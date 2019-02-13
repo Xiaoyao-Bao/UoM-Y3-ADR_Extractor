@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PEDIOTIC">
+  <Text>
+    <Section id="S1" name="adverse reactions">    Adverse Reactions
+
+  Neomycin occasionally causes skin sensitization. Ototoxicity and nephrotoxicity have also been reported (see  WARNINGS  ). Adverse reactions have occurred with topical use of antibiotic combinations including neomycin and polymyxin B. Exact incidence figures are not available since no denominator of treated patients is available. The reaction occurring most often is allergic sensitization. In one clinical study, using a 20% neomycin patch, neomycin-induced allergic skin reactions occurred in two of 2,175 (0.09%) individuals in the general population.  2  In another study, the incidence was found to be approximately 1%.  3  
+
+
+
+ The following local adverse reactions have been reported with topical corticosteroids, especially under occlusive dressings: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria. Stinging and burning have been reported rarely when this drug has gained access to the middle ear.
+</Section>
+    <Section id="S2" name="precautions">    Precautions
+
+
+
+   General
+
+
+
+  As with other antibacterial preparations, prolonged use may result in overgrowth of non-susceptible organisms, including fungi.
+
+
+
+ If the infection is not improved after 1 week, cultures and susceptibility tests should be repeated to verify the identity of the organism and to determine whether therapy should be changed.
+
+
+
+ Treatment should not be continued for longer than 10 days.
+
+
+
+ Allergic cross-reactions may occur which could prevent the use of any or all of the following antibiotics for the treatment of future infections: kanamycin, paromomycin, streptomycin, and possibly gentamicin.
+
+
+
+    Information for Patients
+
+
+
+  Avoid contaminating the dropper with material from the ear, fingers, or other source. This caution is necessary if the sterility of the drops is to be preserved.
+
+
+
+ If sensitization or irritation occurs, discontinue use immediately and contact your physician.
+
+
+
+ Do not use in the eyes.
+
+
+
+ SHAKE WELL BEFORE USING.
+
+
+
+    Laboratory Tests
+
+
+
+  Systemic effects of excessive levels of hydrocortisone may include a reduction in the number of circulating eosinophils and a decrease in urinary excretion of 17-hydroxycorticosteroids.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Long-term studies in animals (rats, rabbits, mice) showed no evidence of carcinogenicity attributable to oral administration of corticosteroids.
+
+
+
+    Pregnancy
+
+
+
+   Teratogenic Effects
+
+
+
+  Pregnancy Category C. Corticosteroids have been shown to be teratogenic in rabbits when applied topically at concentrations of 0.5% on days 6 to 18 of gestation and in mice when applied topically at a concentration of 15% on days 10 to 13 of gestation. There are no adequate and well-controlled studies in pregnant women. Corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+    Nursing Mothers
+
+
+
+  Hydrocortisone appears in human milk following oral administration of the drug. Since systemic absorption of hydrocortisone may occur when applied topically, caution should be exercised when PEDIOTIC  (r)  is used by a nursing woman.
+
+
+
+    Pediatric Use
+
+
+
+  The safety and effectiveness of PEDIOTIC  (r)  in otitis externa have been established in the pediatric age group 2 years to 16 years of age. There is inadequate data to establish safety and effectiveness in otitis externa for pediatric patients under 2 years of age.  1  
+
+
+
+    Geriatric Use
+
+
+
+  Clinical studies of PEDIOTIC  (r)  did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+</Section>
+    <Section id="S3" name="warnings">    Warnings
+
+
+
+  Neomycin can induce permanent sensorineural hearing loss due to cochlear damage, mainly destruction of hair cells in the organ of Corti. The risk is greater with prolonged use. Therapy should be limited to 10 consecutive days (see PRECAUTIONS-General  ). Patients being treated with eardrops containing neomycin should be under close clinical observation. Pediotic  (r)  Suspension should not be used in any patient with a perforated tympanic membrane.
+
+
+
+ Discontinue promptly if sensitization or irritation occurs.
+
+
+
+ Neomycin sulfate may cause cutaneous sensitization. A precise incidence of hypersensitivity reactions (primarily skin rash) due to topical neomycin is not known.
+
+
+
+ When using neomycin-containing products to control secondary infection in the chronic dermatoses, such as chronic otitis externa or stasis dermatitis, it should be borne in mind that the skin in these conditions is more liable than is normal skin to become sensitized to many substances, including neomycin. The manifestation of sensitization to neomycin is usually a low-grade reddening with swelling, dry scaling, and itching; it may be manifest simply as a failure to heal. Periodic examination for such signs is advisable, and the patient should be told to discontinue the product if they are observed. These symptoms regress quickly on withdrawing the medication. Neomycin-containing applications should be avoided for the patient thereafter.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="641" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="996" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="1211" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="1421" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="1437" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1912" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2174" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2473" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

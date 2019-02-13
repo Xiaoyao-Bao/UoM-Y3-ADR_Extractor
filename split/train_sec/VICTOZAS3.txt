@@ -1,0 +1,56 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *     Thyroid C-cell Tumors : See Boxed Warning  (5.1)  . 
+ *     Pancreatitis : Postmarketing reports, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis. Discontinue promptly if pancreatitis is suspected. Do not restart if pancreatitis is confirmed (  5.2  ). 
+ *     Never share a VICTOZA pen between patients, even if the needle is changed  (5.3)  . 
+ *     Serious Hypoglycemia : When VICTOZA is used with an insulin secretagogue (e.g. a sulfonylurea) or insulin, consider lowering the dose of the insulin secretagogue or insulin to reduce the risk of hypoglycemia  (5.4)  . 
+ *     Renal Impairment : Postmarketing, usually in association with nausea, vomiting, diarrhea, or dehydration which may sometimes require hemodialysis. Use caution when initiating or escalating doses of VICTOZA in patients with renal impairment  (5.5)  . 
+ *     Hypersensitivity : Postmarketing reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema). Discontinue VICTOZA and promptly seek medical advice  (5.6)  . 
+ *     Acute Gallbladder Disease : If cholelithiasis or cholecystitis are suspected, gallbladder studies are indicated  (5.7)  . 
+    
+ 
+
+   5.1 Risk of Thyroid C-cell Tumors
+
+  Liraglutide causes dose-dependent and treatment-duration-dependent  thyroid≠B-NonOSE_AE   C≠I-NonOSE_AE  -≠I-NonOSE_AE  cell≠I-NonOSE_AE   tumors≠I-NonOSE_AE  (adenomas and/or carcinomas) at clinically relevant exposures in both genders of rats and mice [see   Nonclinical Toxicology (13.1)    ].  Malignant≠B-NonOSE_AE   thyroid≠I-NonOSE_AE   C≠I-NonOSE_AE  -≠I-NonOSE_AE  cell≠I-NonOSE_AE   carcinomas≠I-NonOSE_AE  were detected in rats and mice. It is unknown whether VICTOZA will cause  thyroid≠B-NonOSE_AE   C≠I-NonOSE_AE  -≠I-NonOSE_AE  cell≠I-NonOSE_AE   tumors≠I-NonOSE_AE , including  medullary≠B-NonOSE_AE   thyroid≠I-NonOSE_AE   carcinoma≠I-NonOSE_AE   (≠I-NonOSE_AE  MTC≠I-NonOSE_AE ), in humans, as the human relevance of liraglutide-induced rodent  thyroid≠B-NonOSE_AE   C≠I-NonOSE_AE  -≠I-NonOSE_AE  cell≠I-NonOSE_AE   tumors≠I-NonOSE_AE  has not been determined.
+
+ Cases of  MTC≠B-OSE_Labeled_AE  in patients treated with VICTOZA have been reported in the postmarketing period; the data in these reports are insufficient to establish or exclude a causal relationship between  MTC≠B-NonOSE_AE  and VICTOZA use in humans.
+
+ VICTOZA is contraindicated in patients with a personal or family history of  MTC≠B-Not_AE_Candidate  or in patients with  MEN≠B-Not_AE_Candidate   2≠I-Not_AE_Candidate . Counsel patients regarding the potential risk for  MTC≠B-NonOSE_AE  with the use of VICTOZA and inform them of symptoms of  thyroid≠B-NonOSE_AE   tumors≠I-NonOSE_AE  (e.g. a  mass≠B-NonOSE_AE   in≠I-NonOSE_AE   the≠I-NonOSE_AE   neck≠I-NonOSE_AE ,  dysphagia≠B-NonOSE_AE ,  dyspnea≠B-NonOSE_AE ,  persistent≠B-NonOSE_AE   hoarseness≠I-NonOSE_AE ).
+
+ Routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of  MTC≠B-NonOSE_AE  in patients treated with VICTOZA. Such monitoring may increase the risk of unnecessary procedures, due to low test specificity for serum calcitonin and a high background incidence of  thyroid≠B-NonOSE_AE   disease≠I-NonOSE_AE . Significantly  elevated≠B-NonOSE_AE   serum≠I-NonOSE_AE   calcitonin≠I-NonOSE_AE  may indicate  MTC≠B-NonOSE_AE  and patients with  MTC≠B-NonOSE_AE  usually have  calcitonin≠B-NonOSE_AE   values≠I-NonOSE_AE   >≠I-NonOSE_AE  5≠I-NonOSE_AE  0≠I-NonOSE_AE   ng≠I-NonOSE_AE  /≠I-NonOSE_AE  L≠I-NonOSE_AE . If serum calcitonin is measured and found to be elevated, the patient should be further evaluated. Patients with  thyroid≠B-NonOSE_AE   nodules≠I-NonOSE_AE  noted on physical examination or neck imaging should also be further evaluated.
+
+    
+
+    5.2 Pancreatitis
+
+   Based on spontaneous postmarketing reports,  acute≠B-OSE_Labeled_AE   pancreatitis≠I-OSE_Labeled_AE , including fatal and non-fatal  hemorrhagic≠B-OSE_Labeled_AE  or necrotizing  pancreatitis≠I-OSE_Labeled_AE , has been observed in patients treated with VICTOZA. After initiation of VICTOZA, observe patients carefully for signs and symptoms of  pancreatitis≠B-NonOSE_AE  (including persistent severe  abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE , sometimes radiating to the back and which may or may not be accompanied by  vomiting≠B-NonOSE_AE ). If  pancreatitis≠B-NonOSE_AE  is suspected, VICTOZA should promptly be discontinued and appropriate management should be initiated. If  pancreatitis≠B-NonOSE_AE  is confirmed, VICTOZA should not be restarted.  
+
+  In glycemic control trials of VICTOZA, there have been 13 cases of  pancreatitis≠B-OSE_Labeled_AE  among VICTOZA-treated patients and 1 case in a comparator (glimepiride) treated patient (2.7 vs. 0.5 cases per 1000 patient-years). Nine of the 13 cases with VICTOZA were reported as  acute≠B-OSE_Labeled_AE   pancreatitis≠I-OSE_Labeled_AE  and four were reported as  chronic≠B-OSE_Labeled_AE   pancreatitis≠I-OSE_Labeled_AE . In one case in a VICTOZA-treated patient,  pancreatitis≠B-OSE_Labeled_AE ,  with≠I-OSE_Labeled_AE   necrosis≠I-OSE_Labeled_AE , was observed and led to death; however clinical causality could not be established. Some patients had other risk factors for  pancreatitis≠B-NonOSE_AE , such as a history of  cholelithiasis≠B-Not_AE_Candidate  or  alcohol≠B-Not_AE_Candidate   abuse≠I-Not_AE_Candidate .  
+
+  VICTOZA has been studied in a limited number of patients with a history of  pancreatitis≠B-Not_AE_Candidate . It is unknown if patients with a history of  pancreatitis≠B-Not_AE_Candidate  are at higher risk for development of  pancreatitis≠B-NonOSE_AE  on VICTOZA  .
+
+    5.3 Never Share a VICTOZA Pen Between Patients
+
+  VICTOZA pens must never be shared between patients, even if the needle is changed. Pen-sharing poses a risk for  transmission≠B-NonOSE_AE   of≠I-NonOSE_AE   blood≠I-NonOSE_AE  -≠I-NonOSE_AE  borne≠I-NonOSE_AE   pathogens≠I-NonOSE_AE .
+
+    5.4 Use with Medications Known to Cause Hypoglycemia
+
+  Patients receiving VICTOZA in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin may have an increased risk of  hypoglycemia≠B-NonOSE_AE . The risk of  hypoglycemia≠B-NonOSE_AE  may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin [see  Dosage and Administration (2.2)  ,     Adverse Reactions (6.1)  ].  
+
+    5.5  Renal≠B-OSE_Labeled_AE   Impairment≠I-OSE_Labeled_AE 
+
+  VICTOZA has not been found to be directly  nephrotoxic≠B-NonOSE_AE  in animal studies or clinical trials.
+
+ There have been postmarketing reports of  acute≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  and worsening of  chronic≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE , which may sometimes require  hemodialysis≠B-NonOSE_AE  in VICTOZA-treated patients [see  Adverse Reactions (6.2)  ]  . Some of these events were reported in patients without known underlying  renal≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate . A majority of the reported events occurred in patients who had experienced  nausea≠B-NonOSE_AE ,  vomiting≠B-NonOSE_AE ,  diarrhea≠B-NonOSE_AE , or  dehydration≠B-NonOSE_AE  [see  Adverse Reactions (6.1)  ]  . Some of the reported events occurred in patients receiving one or more medications known to affect renal function or hydration status.  Altered≠B-NonOSE_AE   renal≠I-NonOSE_AE   function≠I-NonOSE_AE  has been reversed in many of the reported cases with supportive treatment and discontinuation of potentially causative agents, including VICTOZA. Use caution when initiating or escalating doses of VICTOZA in patients with  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  [see  Use in Specific Populations (8.6)  ]  .
+
+     5.6 Hypersensitivity Reactions  
+
+   There have been postmarketing reports of serious  hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (e.g.,  anaphylactic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  and  angioedema≠B-OSE_Labeled_AE ) in patients treated with VICTOZA. If a  hypersensitivity≠B-NonOSE_AE   reaction≠I-NonOSE_AE  occurs, discontinue VICTOZA; treat promptly per standard of care, and monitor until signs and symptoms resolve. Do not use in patients with a previous  hypersensitivity≠B-Not_AE_Candidate   reaction≠I-Not_AE_Candidate  to VICTOZA [see     Contraindications (4)     ].  
+
+   Anaphylaxis≠B-NonOSE_AE  and  angioedema≠B-NonOSE_AE  have been reported with other GLP-1 receptor agonists. Use caution in a patient with a history of  anaphylaxis≠B-Not_AE_Candidate  or  angioedema≠B-Not_AE_Candidate  with another GLP-receptor agonist because it is unknown whether such patients will be predisposed to these reactions with VICTOZA.  
+
+     5.7 Acute Gallbladder Disease  
+
+   In the LEADER trial [see  Clinical Studies (14.2)  ]  , 3.1% of Victoza-treated patients versus 1.9% of placebo-treated patients reported an  acute≠B-OSE_Labeled_AE   event≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   gallbladder≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE , such as  cholelithiasis≠B-OSE_Labeled_AE  or  cholecystitis≠B-OSE_Labeled_AE . The majority of events required hospitalization or cholecystectomy. If  cholelithiasis≠B-NonOSE_AE  is suspected, gallbladder studies and appropriate clinical follow-up are indicated.  
+

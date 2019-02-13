@@ -1,0 +1,29 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Bone Marrow Suppression: Measure blood counts prior to treatment initiation and before every dose of Xofigo. Discontinue Xofigo if hematologic values do not recover within 6 to 8 weeks after treatment. Monitor patients with compromised bone marrow reserve closely. Discontinue Xofigo in patients who experience life-threatening complications despite supportive care measures. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 Bone Marrow Suppression
+
+
+
+  In the randomized trial, 2% of patients on the Xofigo arm experienced  bone≠B-OSE_Labeled_AE   marrow≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  or ongoing  pancytopenia≠B-OSE_Labeled_AE  compared to no patients treated with placebo. There were two  deaths≠B-NonOSE_AE  due to  bone≠B-NonOSE_AE   marrow≠I-NonOSE_AE   failure≠I-NonOSE_AE  and for 7 of 13 patients treated with Xofigo,  bone≠B-NonOSE_AE   marrow≠I-NonOSE_AE   failure≠I-NonOSE_AE  was ongoing at the time of  death≠B-NonOSE_AE . Among the 13 patients who experienced  bone≠B-NonOSE_AE   marrow≠I-NonOSE_AE   failure≠I-NonOSE_AE , 54% required blood transfusions. Four percent (4%) of patients on the Xofigo arm and 2% on the placebo arm permanently discontinued therapy due to  bone≠B-OSE_Labeled_AE   marrow≠I-OSE_Labeled_AE   suppression≠I-OSE_Labeled_AE .
+
+
+
+ In the randomized trial,  deaths≠B-NonOSE_AE  related to  vascular≠B-NonOSE_AE   hemorrhage≠I-NonOSE_AE  in association with  myelosuppression≠B-NonOSE_AE  were observed in 1% of Xofigo-treated patients compared to 0.3% of patients treated with placebo. The incidence of  infection≠B-NonOSE_AE  -≠I-NonOSE_AE  related≠I-NonOSE_AE   deaths≠B-NonOSE_AE  (2%), serious  infections≠B-NonOSE_AE  (10%), and  febrile≠B-NonOSE_AE   neutropenia≠I-NonOSE_AE  (<1%) were similar for patients treated with Xofigo and placebo.  Myelosuppression≠B-OSE_Labeled_AE ; notably  thrombocytopenia≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE ,  pancytopenia≠B-OSE_Labeled_AE , and  leukopenia≠B-OSE_Labeled_AE ; has been reported in patients treated with Xofigo. In the randomized trial, complete blood counts (CBCs) were obtained every 4 weeks prior to each dose and the nadir CBCs and times of recovery were not well characterized. In a separate single-dose phase 1 study of Xofigo, neutrophil and platelet count nadirs occurred 2 to 3 weeks after Xofigo administration at doses that were up to 1 to 5 times the recommended dose, and most patients recovered approximately 6 to 8 weeks after administration [see Adverse Reactions (  6  )]  .
+
+
+
+ Hematologic evaluation of patients must be performed at baseline and prior to every dose of Xofigo. Before the first administration of Xofigo, the  absolute≠B-NonOSE_AE   neutrophil≠I-NonOSE_AE   count≠I-NonOSE_AE   (≠I-NonOSE_AE  ANC≠I-NonOSE_AE  )≠I-NonOSE_AE   should≠I-NonOSE_AE   be≠I-NonOSE_AE   >≠I-NonOSE_AE  =≠I-NonOSE_AE   1≠I-NonOSE_AE  .≠I-NonOSE_AE  5≠I-NonOSE_AE   x≠I-NonOSE_AE   1≠I-NonOSE_AE  0≠I-NonOSE_AE    9≠I-NonOSE_AE   /L, the  platelet≠B-NonOSE_AE   count≠I-NonOSE_AE   >≠I-NonOSE_AE  =≠I-NonOSE_AE   1≠I-NonOSE_AE  0≠I-NonOSE_AE  0≠I-NonOSE_AE   x≠I-NonOSE_AE   1≠I-NonOSE_AE  0≠I-NonOSE_AE    9≠I-NonOSE_AE    /≠I-NonOSE_AE  L≠I-NonOSE_AE  and  hemoglobin≠B-NonOSE_AE   >≠I-NonOSE_AE  =≠I-NonOSE_AE   1≠I-NonOSE_AE  0≠I-NonOSE_AE   g≠I-NonOSE_AE  /≠I-NonOSE_AE  dL≠I-NonOSE_AE . Before subsequent administrations of Xofigo, the  ANC≠B-NonOSE_AE   should≠I-NonOSE_AE   be≠I-NonOSE_AE   >≠I-NonOSE_AE  =≠I-NonOSE_AE   1≠I-NonOSE_AE   x≠I-NonOSE_AE   1≠I-NonOSE_AE  0≠I-NonOSE_AE    9≠I-NonOSE_AE    /≠I-NonOSE_AE  L≠I-NonOSE_AE  and the  platelet≠B-NonOSE_AE   count≠I-NonOSE_AE   >≠I-NonOSE_AE  =≠I-NonOSE_AE   5≠I-NonOSE_AE  0≠I-NonOSE_AE   x≠I-NonOSE_AE   1≠I-NonOSE_AE  0≠I-NonOSE_AE    9≠I-NonOSE_AE    /≠I-NonOSE_AE  L≠I-NonOSE_AE . If there is no recovery to these values within 6 to 8 weeks after the last administration of Xofigo, despite receiving supportive care, further treatment with Xofigo should be discontinued. Patients with evidence of  compromised≠B-NonOSE_AE   bone≠I-NonOSE_AE   marrow≠I-NonOSE_AE   reserve≠I-NonOSE_AE  should be monitored closely and provided with supportive care measures when clinically indicated. Discontinue Xofigo in patients who experience life-threatening complications despite supportive care for  bone≠B-NonOSE_AE   marrow≠I-NonOSE_AE   failure≠I-NonOSE_AE .
+
+
+
+ The safety and efficacy of concomitant chemotherapy with Xofigo have not been established. Outside of a clinical trial, concomitant use with chemotherapy is not recommended due to the potential for additive  myelosuppression≠B-NonOSE_AE . If chemotherapy, other systemic radioisotopes or hemibody external radiotherapy are administered during the treatment period, Xofigo should be discontinued.

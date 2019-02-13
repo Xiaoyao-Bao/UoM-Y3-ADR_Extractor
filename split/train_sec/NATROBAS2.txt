@@ -1,0 +1,13 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Benzyl alcohol toxicity: Not recommended in infants below the age of 6 months; potential for increased systemic absorption. (  5.1  ) 
+    
+ 
+
+   5.1  Benzyl≠B-OSE_Labeled_AE   Alcohol≠I-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE 
+
+
+
+  NATROBA Topical Suspension contains benzyl alcohol and is not recommended for use in neonates and infants below the age of 6 months. Systemic exposure to benzyl alcohol has been associated with serious adverse reactions and  death≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   neonates≠I-OSE_Labeled_AE  and  low≠B-OSE_Labeled_AE   birth≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  weight≠I-OSE_Labeled_AE   infants≠I-OSE_Labeled_AE   [See  Use in Specific Populations (8.4)  ]  .

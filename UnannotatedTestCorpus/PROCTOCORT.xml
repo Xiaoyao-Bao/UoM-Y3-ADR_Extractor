@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PROCTOCORT">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria.
+
+
+
+ To report SUSPECTED ADVERSE REACTIONS, contact Salix Pharmaceuticals at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General  
+
+
+
+ Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. 
+
+
+
+ Conditions which augment systemic absorption include the application of the more potent steroids, use over large surface areas, prolonged use, and the addition of occlusive dressings. 
+
+
+
+ Therefore, patients receiving a large dose of a potent topical steroid applied to a large surface area or under an occlusive dressing should be evaluated periodically for evidence of HPA axis suppression by using the urinary free cortisol and ACTH stimulation tests. If HPA axis suppression is noted, an attempt should be made to withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid. 
+
+
+
+ Recovery of HPA axis function is generally prompt and complete upon discontinuation of the drug. Infrequently, signs and symptoms of steroid withdrawal may occur, requiring supplemental systemic corticosteroids. 
+
+
+
+ Children may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity (see   PRECAUTIONS   -    Pediatric Use    ). 
+
+
+
+ If irritation develops, topical corticosteroids should be discontinued and appropriate therapy instituted. 
+
+
+
+ In the presence of dermatological infections, the use of an appropriate antifungal or antibacterial agent should be instituted. If a favorable response does not occur promptly, the corticosteroid should be discontinued until the infection has been adequately controlled.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,124 @@
+  6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed elsewhere in labeling:
+
+ *    Cardiovascular≠B-OSE_Labeled_AE   Disorders≠I-OSE_Labeled_AE   [see  Boxed Warning  ,  Warnings and Precautions (5.1)  ]  
+ *    Malignant≠B-OSE_Labeled_AE   Neoplasms≠I-OSE_Labeled_AE   [see  Boxed Warning  ,  Warnings and Precautions (5.2)  ]  
+      EXCERPT:   Most common adverse reactions (>= 5 percent) are: abdominal pain, asthenia, pain, back pain, headache, flatulence, nausea, depression, insomnia, breast pain, endometrial hyperplasia, leucorrhea, vaginal hemorrhage, and vaginitis. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Pfizer Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+
+ 
+
+  6.1 Clinical Study Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+ During the first year of a 2-year clinical trial with 2,333  postmenopausal≠B-Not_AE_Candidate  women with a uterus between 40 and 65 years of age (88 percent Caucasian), 1,012 women were treated with conjugated estrogens, and 332 were treated with placebo.
+
+ Table 1 summarizes treatment-related adverse reactions that occurred at a rate of >= 1 percent in any treatment group.
+
+ Table 1: TREATMENT RELATED ADVERSE REACTIONS AT A FREQUENCY >= 1 PERCENT 
+                                           PREMARIN0.625 mg(n=348)  PREMARIN0.45 mg (n=338)  PREMARIN0.3 mg(n=326)  Placebo(n=332)    
+  
+  Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   whole≠I-NonOSE_AE                                                                                                 
+    Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                           38 (11)          28 (8)           30 (9)           21 (6)            
+    Asthenia≠B-OSE_Labeled_AE                                 16 (5)           8 (2)            14 (4)           3 (1)             
+    Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                18 (5)           11 (3)           13 (4)           4 (1)             
+    Chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                               2 (1)            3 (1)            4 (1)            2 (1)             
+    Generalized≠B-NonOSE_AE   edema≠I-NonOSE_AE                        7 (2)            6 (2)            4 (1)            8 (2)             
+    Headache≠B-OSE_Labeled_AE                                 45 (13)          47 (14)          44 (13)          46 (14)           
+    Moniliasis≠B-OSE_Labeled_AE                               5 (1)            4 (1)            4 (1)            1 (0)             
+    Pain≠B-OSE_Labeled_AE                                     17 (5)           10 (3)           12 (4)           14 (4)            
+    Pelvic≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                              10 (3)           9 (3)            8 (2)            4 (1)             
+  Cardiovascular≠B-NonOSE_AE   system≠I-NonOSE_AE                                                                                           
+    Hypertension≠B-OSE_Labeled_AE                             4 (1)            4 (1)            7 (2)            5 (2)             
+    Migraine≠B-OSE_Labeled_AE                                 7 (2)            1 (0)            0                3 (1)             
+    Palpitation≠B-NonOSE_AE                              3 (1)            3 (1)            3 (1)            4 (1)             
+    Vasodilatation≠B-NonOSE_AE                           2 (1)            2 (1)            3 (1)            5 (2)             
+  Digestive≠B-NonOSE_AE   system≠I-NonOSE_AE                                                                                                
+    Constipation≠B-OSE_Labeled_AE                             7 (2)            6 (2)            4 (1)            3 (1)             
+    Diarrhea≠B-NonOSE_AE                                 4 (1)            5 (1)            5 (2)            8 (2)             
+    Dyspepsia≠B-NonOSE_AE                                7 (2)            5 (1)            6 (2)            14 (4)            
+    Eructation≠B-OSE_Labeled_AE                               1 (0)            1 (0)            4 (1)            1 (0)             
+    Flatulence≠B-OSE_Labeled_AE                               22 (6)           18 (5)           13 (4)           8 (2)             
+    Increased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE                       4 (1)            1 (0)            1 (0)            2 (1)             
+    Nausea≠B-NonOSE_AE                                   16 (5)           10 (3)           15 (5)           16 (5)            
+  Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   nutritional≠I-NonOSE_AE                                                                                       
+    Hyperlipidemia≠B-OSE_Labeled_AE                           2 (1)            4 (1)            3 (1)            2 (1)             
+    Peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE                         5 (1)            2 (1)            4 (1)            3 (1)             
+    Weight≠B-NonOSE_AE   gain≠I-NonOSE_AE                              11 (3)           10 (3)           8 (2)            14 (4)            
+  Musculoskeletal≠B-NonOSE_AE   system≠I-NonOSE_AE                                                                                          
+    Arthralgia≠B-OSE_Labeled_AE                               6 (2)            3 (1)            2 (1)            5 (2)             
+    Leg≠B-OSE_Labeled_AE   cramps≠I-OSE_Labeled_AE                               10 (3)           5 (1)            9 (3)            4 (1)             
+    Myalgia≠B-OSE_Labeled_AE                                  2 (1)            1 (0)            4 (1)            1 (0)             
+  Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE                                                                                                  
+    Anxiety≠B-OSE_Labeled_AE                                  6 (2)            4 (1)            2 (1)            4 (1)             
+    Depression≠B-NonOSE_AE                               17 (5)           15 (4)           10 (3)           17 (5)            
+    Dizziness≠B-OSE_Labeled_AE                                9 (3)            7 (2)            4 (1)            5 (2)             
+    Emotional≠B-NonOSE_AE   lability≠I-NonOSE_AE                       3 (1)            4 (1)            5 (2)            8 (2)             
+    Hypertonia≠B-OSE_Labeled_AE                               1 (0)            1 (0)            5 (2)            3 (1)             
+    Insomnia≠B-OSE_Labeled_AE                                 16 (5)           10 (3)           13 (4)           14 (4)            
+    Nervousness≠B-OSE_Labeled_AE                              9 (3)            12 (4)           2 (1)            6 (2)             
+  Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   appendages≠I-NonOSE_AE                                                                                             
+    Acne≠B-OSE_Labeled_AE                                     3 (1)            1 (0)            8 (2)            3 (1)             
+    Alopecia≠B-OSE_Labeled_AE                                 6 (2)            6 (2)            5 (2)            2 (1)             
+    Hirsutism≠B-OSE_Labeled_AE                                4 (1)            2 (1)            1 (0)            0                 
+    Pruritus≠B-OSE_Labeled_AE                                 11 (3)           11 (3)           10 (3)           3 (1)             
+    Rash≠B-OSE_Labeled_AE                                     6 (2)            3 (1)            1 (0)            2 (1)             
+    Skin≠B-OSE_Labeled_AE   discoloration≠I-OSE_Labeled_AE                       4 (1)            2 (1)            0                1 (0)             
+    Sweating≠B-NonOSE_AE                                 4 (1)            1 (0)            3 (1)            4 (1)             
+  Urogenital≠B-NonOSE_AE   system≠I-NonOSE_AE                                                                                               
+    Breast≠B-NonOSE_AE   disorder≠I-NonOSE_AE                          6 (2)            3 (1)            3 (1)            6 (2)             
+    Breast≠B-OSE_Labeled_AE   enlargement≠I-OSE_Labeled_AE                       3 (1)            4 (1)            7 (2)            3 (1)             
+    Breast≠B-NonOSE_AE   neoplasm≠I-NonOSE_AE                          4 (1)            4 (1)            7 (2)            7 (2)             
+    Breast≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                              37 (11)          39 (12)          24 (7)           26 (8)            
+    Cervix≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE                          8 (2)            4 (1)            5 (2)            0                 
+    Dysmenorrhea≠B-OSE_Labeled_AE                             12 (3)           10 (3)           4 (1)            2 (1)             
+    Endometrial≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE                     4 (1)            2 (1)            2 (1)            0                 
+    Endometrial≠B-OSE_Labeled_AE   hyperplasia≠I-OSE_Labeled_AE                  16 (5)           8 (2)            1 (0)            0                 
+    Leukorrhea≠B-OSE_Labeled_AE                               17 (5)           17 (5)           12 (4)           6 (2)             
+    Metrorrhagia≠B-OSE_Labeled_AE                             11 (3)           4 (1)            3 (1)            1 (0)             
+    Urinary≠B-NonOSE_AE   tract≠I-NonOSE_AE   infection≠I-NonOSE_AE                  1 (0)            2 (1)            1 (0)            4 (1)             
+    Uterine≠B-OSE_Labeled_AE   fibroids≠I-OSE_Labeled_AE   enlarged≠I-OSE_Labeled_AE                6 (2)            1 (0)            2 (1)            2 (1)             
+    Uterine≠B-OSE_Labeled_AE   spasm≠I-OSE_Labeled_AE                            11 (3)           5 (1)            3 (1)            2 (1)             
+    Vaginal≠B-NonOSE_AE   dryness≠I-NonOSE_AE                          1 (0)            2 (1)            1 (0)            6 (2)             
+    Vaginal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE                       46 (13)          13 (4)           6 (2)            0                 
+    Vaginal≠B-OSE_Labeled_AE   moniliasis≠I-OSE_Labeled_AE                       14 (4)           10 (3)           12 (4)           5 (2)             
+    Vaginitis≠B-OSE_Labeled_AE                                18 (5)           7 (2)            9 (3)            1 (0)             
+             6.2 Postmarketing Experience
+   The following additional adverse reactions have been identified during post-approval use of PREMARIN. Because these reactions are reported voluntarily from a population of uncertain size, it is not possible always to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+      Genitourinary≠B-NonOSE_AE   system≠I-NonOSE_AE   
+
+  Abnormal≠B-OSE_Labeled_AE   uterine≠I-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE ;  dysmenorrheal≠B-OSE_Labeled_AE  or pelvic  pain≠I-OSE_Labeled_AE ,  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   size≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   uterine≠I-OSE_Labeled_AE   leiomyomata≠I-OSE_Labeled_AE ,  vaginitis≠B-OSE_Labeled_AE , including  vaginal≠B-OSE_Labeled_AE   candidiasis≠I-OSE_Labeled_AE ,  change≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   cervical≠I-OSE_Labeled_AE   secretion≠I-OSE_Labeled_AE ,  ovarian≠B-OSE_Labeled_AE   cancer≠I-OSE_Labeled_AE ,  endometrial≠B-OSE_Labeled_AE   hyperplasia≠I-OSE_Labeled_AE ,  endometrial≠B-OSE_Labeled_AE   cancer≠I-OSE_Labeled_AE ,  leukorrhea≠B-OSE_Labeled_AE .
+
+      Breasts≠B-OSE_Labeled_AE    
+
+ Tendern≠I-OSE_Labeled_AE ess, enlargement, pain, discharge,  galactorrhea≠B-OSE_Labeled_AE ,  fibrocystic≠B-OSE_Labeled_AE   breast≠I-OSE_Labeled_AE   changes≠I-OSE_Labeled_AE ,  breast≠B-OSE_Labeled_AE   cancer≠I-OSE_Labeled_AE ,  gynecomastia≠B-OSE_Labeled_AE  in males.
+
+      Cardiovascular≠B-NonOSE_AE   
+
+  Deep≠B-OSE_Labeled_AE  and superficial  venous≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE ,  thrombophlebitis≠B-OSE_Labeled_AE ,  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE ,  stroke≠B-OSE_Labeled_AE ,  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE .
+
+      Gastrointestinal≠B-NonOSE_AE   
+
+  Nausea≠B-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  bloating≠B-OSE_Labeled_AE ,  cholestatic≠B-OSE_Labeled_AE   jaundice≠I-OSE_Labeled_AE , increased incidence of  gallbladder≠B-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE ,  pancreatitis≠B-OSE_Labeled_AE ,  enlargement≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   hepatic≠I-OSE_Labeled_AE   hemangiomas≠I-OSE_Labeled_AE ,  ischemic≠B-OSE_Labeled_AE   colitis≠I-OSE_Labeled_AE .
+
+      Skin≠B-NonOSE_AE   
+
+  Chloasma≠B-OSE_Labeled_AE  or  melasma≠B-OSE_Labeled_AE  that may persist when drug is discontinued,  erythema≠B-OSE_Labeled_AE   multiforme≠I-OSE_Labeled_AE ,  erythema≠B-OSE_Labeled_AE   nodosum≠I-OSE_Labeled_AE ,  loss≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   scalp≠I-OSE_Labeled_AE   hair≠I-OSE_Labeled_AE ,  hirsutism≠B-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE .
+
+      Eyes≠B-NonOSE_AE   
+
+  Retinal≠B-OSE_Labeled_AE   vascular≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE ,  intolerance≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   contact≠I-OSE_Labeled_AE   lenses≠I-OSE_Labeled_AE .
+
+      Central≠B-NonOSE_AE   nervous≠I-NonOSE_AE   system≠I-NonOSE_AE   
+
+  Headache≠B-OSE_Labeled_AE ,  migraine≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE  ,  mental≠B-OSE_Labeled_AE   depression≠I-OSE_Labeled_AE ,  nervousness≠B-OSE_Labeled_AE ,  mood≠B-OSE_Labeled_AE   disturbances≠I-OSE_Labeled_AE ,  irritability≠B-OSE_Labeled_AE ,  exacerbation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   epilepsy≠I-OSE_Labeled_AE ,  dementia≠B-OSE_Labeled_AE , possible  growth≠B-OSE_Labeled_AE   potentiation≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   benign≠I-OSE_Labeled_AE   meningioma≠I-OSE_Labeled_AE .
+
+     Miscellaneous  
+
+  Increase≠B-OSE_Labeled_AE  or decrease  in≠I-OSE_Labeled_AE   weight≠I-OSE_Labeled_AE ,  glucose≠B-OSE_Labeled_AE   intolerance≠I-OSE_Labeled_AE ,  aggravation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   porphyria≠I-OSE_Labeled_AE ,  edema≠B-OSE_Labeled_AE ,  arthralgias≠B-OSE_Labeled_AE ,  leg≠B-OSE_Labeled_AE   cramps≠I-OSE_Labeled_AE ,  changes≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   libido≠I-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE ,  exacerbation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   asthma≠I-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   triglycerides≠I-OSE_Labeled_AE ,  hypersensitivity≠B-OSE_Labeled_AE .
+

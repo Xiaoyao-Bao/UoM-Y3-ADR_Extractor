@@ -1,0 +1,17 @@
+
+
+    BOXED WARNING: WARNING:  RISK OF THYROID C-CELL TUMORS
+
+  WARNING:  RISK OF THYROID C-CELL TUMORS
+
+    *  Liraglutide causes dose-dependent and treatment-duration-dependent  thyroid≠B-NonOSE_AE   C≠I-NonOSE_AE  -≠I-NonOSE_AE  cell≠I-NonOSE_AE   tumors≠I-NonOSE_AE  at clinically relevant exposures in both genders of rats and mice. It is unknown whether VICTOZA causes  thyroid≠B-NonOSE_AE   C≠I-NonOSE_AE  -≠I-NonOSE_AE  cell≠I-NonOSE_AE   tumors≠I-NonOSE_AE , including  medullary≠B-NonOSE_AE   thyroid≠I-NonOSE_AE   carcinoma≠I-NonOSE_AE   (≠I-NonOSE_AE  MTC≠I-NonOSE_AE ), in humans, as the human relevance of liraglutide-induced rodent  thyroid≠B-NonOSE_AE   C≠I-NonOSE_AE  -≠I-NonOSE_AE  cell≠I-NonOSE_AE   tumors≠I-NonOSE_AE  has not been determined [see Warnings and Precautions (5.1) and Nonclinical Toxicology (13.1)]. 
+ *  VICTOZA is contraindicated in patients with a personal or family history of  MTC≠B-Not_AE_Candidate  and in patients with  Multiple≠B-Not_AE_Candidate   Endocrine≠I-Not_AE_Candidate   Neoplasia≠I-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate   type≠I-Not_AE_Candidate   2≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  MEN≠I-Not_AE_Candidate   2≠I-Not_AE_Candidate ). Counsel patients regarding the potential risk for  MTC≠B-NonOSE_AE  with the use of VICTOZA and inform them of symptoms of  thyroid≠B-NonOSE_AE   tumors≠I-NonOSE_AE  (e.g. a  mass≠B-NonOSE_AE   in≠I-NonOSE_AE   the≠I-NonOSE_AE   neck≠I-NonOSE_AE ,  dysphagia≠B-NonOSE_AE ,  dyspnea≠B-NonOSE_AE ,  persistent≠B-NonOSE_AE   hoarseness≠I-NonOSE_AE ). Routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of  MTC≠B-NonOSE_AE  in patients treated with VICTOZA [see Contraindications (4) and Warnings and Precautions (5.1)]. 
+      EXCERPT:   WARNING: RISK OF THYROID C-CELL TUMORS
+ 
+
+   See full prescribing information for complete boxed warning.  
+
+ *  Liraglutide causes thyroid C-cell tumors at clinically relevant exposures in both genders of rats and mice. It is unknown whether VICTOZA causes thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans, as the human relevance of liraglutide-induced rodent thyroid C-cell tumors has not been determined (5.1, 13.1). 
+ *  VICTOZA is contraindicated in patients with a personal or family history of MTC or in patients with Multiple Endocrine Neoplasia syndrome type 2 (MEN 2). Counsel patients regarding the potential risk of MTC and the symptoms of thyroid tumors (4, 5.1). 
+    
+

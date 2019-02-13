@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ABREVA">
+  <Text>
+    <Section id="S1" name="warnings">     Warnings  
+
+
+
+   For external use only  
+
+
+
+    Do not use
+
+
+
+    *    if you are allergic to any ingredient in this product 
+       When using this product
+ 
+
+    *    apply only to affected areas 
+ *    do not use in or near the eyes 
+ *    avoid applying directly inside your mouth 
+ *    do not share this product with anyone. This may spread infection. 
+       Stop use and ask a doctor if
+ 
+
+    *    your cold sore gets worse or the cold sore is not healed within 10 days 
+       Keep out of reach of children.
+ 
+
+  If swallowed, get medical help or contact a poison control center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="11" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="10" name="heading" section="S1" start="53" />
+    <IgnoredRegion len="23" name="heading" section="S1" start="138" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="371" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="492" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,112 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Serotonin Syndrome: Increased risk when co-administered with other serotonergic agents (e.g., SSRI, SNRI, triptans), but also when taken alone. If it occurs, discontinue VIIBRYD and initiate supportive treatment (  5.2  ) 
+ *  Increased Risk of Bleeding: Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), other antiplatelet drugs, warfarin, and other anticoagulants may increase this risk (  5.3  ) 
+ *  Activation of Mania/Hypomania: Screen patients for bipolar disorder (  5.4  ). 
+ *  Seizures: Can occur with treatment. Use with caution in patients with a seizure disorder (  5.6  ). 
+ *  Angle Closure Glaucoma: Avoid use of antidepressants, including VIIBRYD, in patients with untreated anatomically narrow angles. (  5.7  ) 
+    
+ 
+
+   5.1 Suicidal Thoughts and Behavior in Children, Adolescents and Young Adults
+
+
+
+  In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients, and over 4,400 pediatric patients, the incidence of  suicidal≠B-OSE_Labeled_AE  thoughts and  behaviors≠I-OSE_Labeled_AE  in patients age 24 years and younger was greater in antidepressant-treated patients than in placebo-treated patients. The drug-placebo differences in the number of cases of  suicidal≠B-NonOSE_AE  thoughts and  behaviors≠I-NonOSE_AE  per 1000 patients treated are provided in  Table 1  .
+
+
+
+ No  suicides≠B-NonOSE_AE  occurred in any of the pediatric studies. There were  suicides≠B-NonOSE_AE  in the adult studies, but the number was not sufficient to reach any conclusion about antidepressant drug effect on  suicide≠B-NonOSE_AE .
+
+
+
+ Table 1: Risk Differences of the Number of Patients with Suicidal Thoughts or Behaviors in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients 
+  Age Range (years)     Drug-Placebo Difference in Number of Patients with  Suicidal≠B-OSE_Labeled_AE   Thoughts≠I-OSE_Labeled_AE  or Behaviors per 1000 Patients Treated     
+                      Increases Compared to Placebo                                                      
+ <18                 14 additional patients                                                              
+ 18-24               5 additional patients                                                               
+                      Decreases Compared to Placebo                                                      
+ 25-64               1 fewer patient                                                                     
+ >=65                6 fewer patients                                                                    
+        It is unknown whether the risk of  suicidal≠B-NonOSE_AE  thoughts and  behaviors≠I-NonOSE_AE  in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months. However, there is substantial evidence from placebo-controlled maintenance studies in adults with  MDD≠B-Not_AE_Candidate  that antidepressants delay the recurrence of  depression≠B-NonOSE_AE .
+ 
+
+ Monitor all antidepressant-treated patients for clinical worsening and emergence of  suicidal≠B-NonOSE_AE  thoughts and  behaviors≠I-NonOSE_AE , especially during the initial few months of drug therapy and at times of dosage changes. Counsel family members or caregivers of patients to monitor for changes in behavior and to alert the healthcare provider. Consider changing the therapeutic regimen, including possibly discontinuing VIIBRYD, in patients whose  depression≠B-Not_AE_Candidate  is persistently worse, or who are experiencing emergent  suicidal≠B-NonOSE_AE  thoughts or  behaviors≠I-NonOSE_AE .
+
+
+
+       5.2 Serotonin Syndrome
+
+
+
+     SNRIs and SSRIs, including VIIBRYD, can precipitate  serotonin≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE , a potentially life-threatening condition. The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (  4  ) and Drug Interactions (  7  )].   Serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE  can also occur when these drugs are used alone. Symptoms of  serotonin≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  were noted in 0.1% of  MDD≠B-Not_AE_Candidate  patients treated with VIIBRYD in premarketing clinical trials.
+
+
+
+     Serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE  signs and symptoms may include  mental≠B-NonOSE_AE   status≠I-NonOSE_AE   changes≠I-NonOSE_AE  (e.g.,  agitation≠B-NonOSE_AE ,  hallucinations≠B-NonOSE_AE ,  delirium≠B-NonOSE_AE , and  coma≠B-NonOSE_AE ),  autonomic≠B-NonOSE_AE   instability≠I-NonOSE_AE  (e.g.,  tachycardia≠B-NonOSE_AE ,  labile≠B-NonOSE_AE   blood≠I-NonOSE_AE   pressure≠I-NonOSE_AE ,  dizziness≠B-NonOSE_AE ,  diaphoresis≠B-NonOSE_AE ,  flushing≠B-NonOSE_AE ,  hyperthermia≠B-NonOSE_AE ),  neuromuscular≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  (e.g.,  tremor≠B-NonOSE_AE ,  rigidity≠B-NonOSE_AE ,  myoclonus≠B-NonOSE_AE ,  hyperreflexia≠B-NonOSE_AE ,  incoordination≠B-NonOSE_AE ),  seizures≠B-NonOSE_AE , and  gastrointestinal≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  (e.g.,  nausea≠B-NonOSE_AE ,  vomiting≠B-NonOSE_AE ,  diarrhea≠B-NonOSE_AE ).
+
+
+
+    The concomitant use of VIIBRYD with MAOIs is contraindicated. In addition, do not initiate VIIBRYD in a patient being treated with MAOIs such as linezolid or intravenous methylene blue. No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection). If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking VIIBRYD, discontinue VIIBRYD before initiating treatment with the MAOI [see Contraindications (  4  ), Drug Interactions (  7.1  )].  
+
+
+
+    Monitor all patients taking VIIBRYD for the emergence of  serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE . Discontinue treatment with VIIBRYD and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment. If concomitant use of VIIBRYD with other serotonergic drugs is clinically warranted, inform patients of the increased risk for  serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE  and monitor for symptoms.
+
+
+
+    5.3 Increased Risk of Bleeding
+
+
+
+  Drugs that interfere with serotonin reuptake inhibition, including VIIBRYD, increase the risk of  bleeding≠B-OSE_Labeled_AE  events. Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDS), other antiplatelet drugs, warfarin, and other anticoagulants may add to this risk. Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of  gastrointestinal≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE .  Bleeding≠B-OSE_Labeled_AE  events related to drugs that interfere with serotonin reuptake have ranged from  ecchymosis≠B-OSE_Labeled_AE ,  hematoma≠B-OSE_Labeled_AE ,  epistaxis≠B-OSE_Labeled_AE , and  petechiae≠B-OSE_Labeled_AE  to life-threatening  hemorrhages≠B-OSE_Labeled_AE .
+
+
+
+ Inform patients about the risk of  bleeding≠B-NonOSE_AE  associated with the concomitant use of VIIBRYD and antiplatelet agents or anticoagulants. For patients taking warfarin, carefully monitor coagulation indices when initiating, titrating, or discontinuing VIIBRYD.
+
+
+
+    5.4 Activation of Mania or Hypomania
+
+
+
+  In patients with  bipolar≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate , treating a  depressive≠B-Not_AE_Candidate   episode≠I-Not_AE_Candidate  with VIIBRYD or another antidepressant may precipitate a  mixed≠B-OSE_Labeled_AE /manic  episode≠I-OSE_Labeled_AE . In controlled clinical trials, patients with  bipolar≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate  were excluded; however, symptoms of  mania≠B-OSE_Labeled_AE  or  hypomania≠B-OSE_Labeled_AE  were reported in 0.1% of undiagnosed patients treated with VIIBRYD. Prior to initiating treatment with VIIBRYD, screen patients for any personal or family history of  bipolar≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate ,  mania≠B-Not_AE_Candidate , or  hypomania≠B-Not_AE_Candidate  [see Dosage and Administration (  2.2  )]  .
+
+
+
+    5.5 Discontinuation Syndrome
+
+
+
+   Adverse≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE   after≠I-OSE_Labeled_AE   discontinuation≠I-OSE_Labeled_AE  of serotonergic antidepressants, particularly after abrupt discontinuation, include:  nausea≠B-NonOSE_AE ,  sweating≠B-NonOSE_AE ,  dysphoric≠B-NonOSE_AE   mood≠I-NonOSE_AE ,  irritability≠B-NonOSE_AE ,  agitation≠B-NonOSE_AE ,  dizziness≠B-NonOSE_AE ,  sensory≠B-NonOSE_AE   disturbances≠I-NonOSE_AE  (e.g.,  paresthesia≠B-NonOSE_AE , such as  electric≠B-NonOSE_AE   shock≠I-NonOSE_AE   sensations≠I-NonOSE_AE ),  tremor≠B-NonOSE_AE ,  anxiety≠B-NonOSE_AE ,  confusion≠B-NonOSE_AE ,  headache≠B-NonOSE_AE ,  lethargy≠B-NonOSE_AE ,  emotional≠B-NonOSE_AE   lability≠I-NonOSE_AE ,  insomnia≠B-NonOSE_AE ,  hypomania≠B-NonOSE_AE ,  tinnitus≠B-NonOSE_AE , and  seizures≠B-NonOSE_AE . A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see Dosage and Administration (  2.5  )]  .
+
+
+
+    5.6 Seizures
+
+
+
+  VIIBRYD has not been systematically evaluated in patients with a  seizure≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate . Patients with a history of  seizures≠B-Not_AE_Candidate  were excluded from clinical studies. VIIBRYD should be prescribed with caution in patients with a  seizure≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate .
+
+
+
+       5.7 Angle-Closure Glaucoma
+
+
+
+     The  pupillary≠B-OSE_Labeled_AE   dilation≠I-OSE_Labeled_AE  that occurs following use of many antidepressant drugs including VIIBRYD may trigger an  angle≠B-OSE_Labeled_AE   closure≠I-OSE_Labeled_AE   attack≠I-OSE_Labeled_AE  in a patient with  anatomically≠B-Not_AE_Candidate   narrow≠I-Not_AE_Candidate   angles≠I-Not_AE_Candidate  who does not have a patent iridectomy. Avoid use of antidepressants, including VIIBRYD, in patients with untreated  anatomically≠B-Not_AE_Candidate   narrow≠I-Not_AE_Candidate   angles≠I-Not_AE_Candidate .
+
+
+
+    5.8 Hyponatremia
+
+
+
+   Hyponatremia≠B-OSE_Labeled_AE  may occur as a result of treatment with SNRIs and SSRIs, including VIIBRYD. Cases of  serum≠B-OSE_Labeled_AE   sodium≠I-OSE_Labeled_AE   lower≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   mmol≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  L≠I-OSE_Labeled_AE  have been reported. Signs and symptoms of  hyponatremia≠B-NonOSE_AE  include  headache≠B-NonOSE_AE ,  difficulty≠B-NonOSE_AE   concentrating≠I-NonOSE_AE ,  memory≠B-NonOSE_AE   impairment≠I-NonOSE_AE ,  confusion≠B-NonOSE_AE ,  weakness≠B-NonOSE_AE , and  unsteadiness≠B-NonOSE_AE , which may lead to  falls≠B-NonOSE_AE . Signs and symptoms associated with more severe and/or acute cases have included  hallucination≠B-NonOSE_AE ,  syncope≠B-NonOSE_AE ,  seizure≠B-NonOSE_AE ,  coma≠B-NonOSE_AE ,  respiratory≠B-NonOSE_AE   arrest≠I-NonOSE_AE , and  death≠B-NonOSE_AE . In many cases, this  hyponatremia≠B-OSE_Labeled_AE  appears to be the result of the  syndrome≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   inappropriate≠I-OSE_Labeled_AE   antidiuretic≠I-OSE_Labeled_AE   hormone≠I-OSE_Labeled_AE   secretion≠I-OSE_Labeled_AE  (SIADH).
+
+
+
+ In patients with symptomatic  hyponatremia≠B-NonOSE_AE , discontinue VIIBRYD and institute appropriate medical intervention. Elderly patients, patients taking diuretics, and those who are  volume≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  depleted≠I-Not_AE_Candidate  may be at greater risk of developing  hyponatremia≠B-NonOSE_AE  with SSRIs and SNRIs [see Use in Specific Populations (  8.5  )]  .

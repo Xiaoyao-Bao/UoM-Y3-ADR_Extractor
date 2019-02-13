@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ARALEN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+    Special Senses: Ocular:  Maculopathy and macular degeneration have been reported and may be irreversible (see  WARNINGS  ); irreversible retinal damage in patients receiving long-term or high-dosage 4-aminoquinoline therapy; visual disturbances (blurring of vision and difficulty of focusing or accommodation); nyctalopia; scotomatous vision with field defects of paracentral, pericentral ring types, and typically temporal scotomas, e.g., difficulty in reading with words tending to disappear, seeing half an object, misty vision, and fog before the eyes. Reversible corneal opacities have also been reported.
+
+
+
+   Auditory:  Nerve type deafness; tinnitus, reduced hearing in patients with preexisting auditory damage.
+
+
+
+   Musculoskeletal system:  Skeletal muscle myopathy or neuromyopathy leading to progressive weakness and atrophy of proximal muscle groups, which may be associated with mild sensory changes, depression of tendon reflexes and abnormal nerve conduction, have been noted.
+
+
+
+   Gastrointestinal system:  Hepatitis, increased liver enzymes, anorexia, nausea, vomiting, diarrhea, abdominal cramps.
+
+
+
+   Skin and appendages:  Rare reports of erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, exfoliative dermatitis and similar desquamation-type events. Pleomorphic skin eruptions, skin and mucosal pigmentary changes; lichen planus-like eruptions, pruritus, urticaria, anaphylactic/anaphylactoid reaction including angioedema; drug rash with eosinophilia and systemic symptoms (DRESS syndrome); photosensitivity and hair loss and bleaching of hair pigment.
+
+
+
+   Hematologic system:  Rarely, pancytopenia, aplastic anemia, reversible agranulocytosis, thrombocytopenia and neutropenia.
+
+
+
+   Nervous system:  Convulsive seizures, mild and transient headache, polyneuropathy. Acute extrapyramidal disorders (such as dystonia, dyskinesia, tongue protrusion, torticollis) (see  WARNINGS  and  OVERDOSE  ). Neuropsychiatric changes including psychosis, delirium, anxiety, agitation, insomnia, confusion, hallucinations, personality changes, depression, and suicidal behavior.
+
+
+
+   Cardiac system:  Rarely, hypotension, electrocardiographic change (particularly, inversion or depression of the T-wave with widening of the QRS complex), and cardiomyopathy (which may result in cardiac failure and in some cases a fatal outcome (see  PRECAUTIONS, Cardiac Effects  )).
+
+
+
+ Cardiac arrhythmias, including QT interval prolongation, torsade de pointes, ventricular tachycardia and ventricular fibrillation have been reported with therapeutic doses of chloroquine as well as with overdose. The risk is greater if chloroquine is administered at high doses. Fatal cases have been reported. (see  PRECAUTIONS, Cardiac Effects  and  OVERDOSAGE  )
+
+
+
+   Metabolism and Nutrition disorders:  hypoglycemia (see  WARNINGS  ).
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   Cardiac Effects
+
+
+
+  Cases of cardiomyopathy resulting in cardiac failure, in some cases with fatal outcome, have been reported in patients treated with chloroquine (see  ADVERSE REACTIONS  and  OVERDOSAGE  ). Clinical monitoring for signs and symptoms of cardiomyopathy is advised and ARALEN should be discontinued if cardiomyopathy develops.
+
+
+
+ Chloroquine should be used with caution in patients with cardiac disease, a history of ventricular arrhythmias, uncorrected hypokalemia and/or hypomagnesemia, or bradycardia (&lt;50 bpm), and during concomitant administration with QT interval prolonging agents (see  PRECAUTIONS, Drug Interactions  ,  ADVERSE REACTIONS  and  OVERDOSAGE  ) (due to potential for QT interval prolongation).
+
+
+
+    Hematological Effects/Laboratory Tests
+
+
+
+  Complete blood cell counts should be made periodically if patients are given prolonged therapy. If any severe blood disorder appears which is not attributable to the disease under treatment, discontinuance of the drug should be considered.
+
+
+
+ The drug should be administered with caution to patients having G-6-PD (glucose-6 phosphate dehydrogenase) deficiency.
+
+
+
+    Auditory Effects
+
+
+
+  In patients with preexisting auditory damage, chloroquine should be administered with caution. In case of any defects in hearing, chloroquine should be immediately discontinued, and the patient closely observed (see  ADVERSE REACTIONS  ).
+
+
+
+    Hepatic Effects
+
+
+
+  Since this drug is known to concentrate in the liver, it should be used with caution in patients with hepatic disease or alcoholism or in conjunction with known hepatotoxic drugs.
+
+
+
+    Central Nervous System Effects
+
+
+
+  Patients with history of epilepsy should be advised about the risk of chloroquine provoking seizures.
+
+
+
+    Drug Interactions
+
+
+
+  Antacids and kaolin: Antacids and kaolin can reduce absorption of chloroquine; an interval of at least 4 hours between intake of these agents and chloroquine should be observed.
+
+
+
+ Cimetidine: Cimetidine can inhibit the metabolism of chloroquine, increasing its plasma level. Concomitant use of cimetidine should be avoided.
+
+
+
+ Insulin and other antidiabetic drugs: As chloroquine may enhance the effects of a hypoglycemic treatment, a decrease in doses of insulin or other antidiabetic drugs may be required.
+
+
+
+ Arrhythmogenic drugs: There may be an increased risk of inducing ventricular arrhythmias if chloroquine is used concomitantly with other arrhythmogenic drugs, such as amiodarone or moxifloxacin.
+
+
+
+ Ampicillin: In a study of healthy volunteers, chloroquine significantly reduced the bioavailability of ampicillin. An interval of at least two hours between intake of this agent and chloroquine should be observed.
+
+
+
+ Cyclosporine: After introduction of chloroquine (oral form), a sudden increase in serum cyclosporine level has been reported. Therefore, close monitoring of serum cyclosporine level is recommended and, if necessary, chloroquine should be discontinued.
+
+
+
+ Mefloquine: Co-administration of chloroquine and mefloquine may increase the risk of convulsions.
+
+
+
+ The blood concentrations of chloroquine and desethylchloroquine (the major metabolite of chloroquine, which also has antimalarial properties) were negatively associated with log antibody titers. Chloroquine taken in the dose recommended for malaria prophylaxis can reduce the antibody response to primary immunization with intradermal human diploid-cell rabies vaccine.
+
+
+
+ Praziquantel: In a single-dose interaction study, chloroquine has been reported to reduce the bioavailability of praziquantel.
+
+
+
+    Pregnancy
+
+
+
+  See  WARNINGS, Usage in Pregnancy  .
+
+
+
+    Nursing Mothers
+
+
+
+  Because of the potential for serious adverse reactions in nursing infants from chloroquine, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the potential clinical benefit of the drug to the mother.
+
+
+
+ The excretion of chloroquine and the major metabolite, desethylchloroquine, in breast milk was investigated in eleven lactating mothers following a single oral dose of chloroquine (600 mg base). The maximum daily dose of the drug that the infant can receive from breastfeeding was about 0.7% of the maternal start dose of the drug in malaria chemotherapy. Separate chemoprophylaxis for the infant is required. See  DOSAGE AND ADMINISTRATION  .
+
+
+
+    Pediatric Use
+
+
+
+  See  WARNINGS  and  DOSAGE AND ADMINISTRATION  .
+
+
+
+    Geriatric Use
+
+
+
+  Clinical studies of ARALEN did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. However, this drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  It has been found that certain strains of P. falciparum  have become resistant to 4-aminoquinoline compounds (including chloroquine and hydroxychloroquine). Chloroquine resistance is widespread and, at present, is particularly prominent in various parts of the world including sub-Saharan Africa, Southeast Asia, the Indian subcontinent, and over large portions of South America, including the Amazon basin  1  .
+
+
+
+ Before using chloroquine for prophylaxis, it should be ascertained whether chloroquine is appropriate for use in the region to be visited by the traveler. Chloroquine should not be used for treatment of P. falciparum  infections acquired in areas of chloroquine resistance or malaria occurring in patients where chloroquine prophylaxis has failed.
+
+
+
+ Patients infected with a resistant strain of plasmodia as shown by the fact that normally adequate doses have failed to prevent or cure clinical malaria or parasitemia should be treated with another form of antimalarial therapy.
+
+
+
+ Retinopathy/maculopathy, as well as macular degeneration have been reported (see  ADVERSE REACTIONS  ), and irreversible retinal damage has been observed in some patients who had received long-term or high-dosage 4-aminoquinoline therapy. Retinopathy has been reported to be dose related. Risk factors for the development of retinopathy include age, duration of treatment, high daily and/or cumulated doses.
+
+
+
+ When prolonged therapy with any antimalarial compound is contemplated, initial (base line) and periodic ophthalmologic examinations (including visual acuity, expert slit-lamp, funduscopic, and visual field tests) should be performed.
+
+
+
+ If there is any indication (past or present) of abnormality in the visual acuity, visual field, or retinal macular areas (such as pigmentary changes, loss of foveal reflex), or any visual symptoms (such as light flashes and streaks) which are not fully explainable by difficulties of accommodation or corneal opacities, the drug should be discontinued immediately and the patient closely observed for possible progression. Retinal changes (and visual disturbances) may progress even after cessation of therapy.
+
+
+
+ Acute extrapyramidal disorders may occur with chloroquine (see  ADVERSE REACTIONS  and  OVERDOSAGE  ). These adverse reactions usually resolve after treatment discontinuation and/or symptomatic treatment.
+
+
+
+ Chloroquine has been shown to cause severe hypoglycemia including loss of consciousness that could be life-threatening in patients treated with or without antidiabetic medications (see  PRECAUTIONS, Drug Interactions  ). Patients treated with chloroquine should be warned about the risk of hypoglycemia and the associated clinical signs and symptoms. Patients presenting with clinical symptoms suggestive of hypoglycemia during treatment with chloroquine should have their blood glucose level checked and treatment reviewed as necessary.
+
+
+
+ All patients on long-term therapy with this preparation should be questioned and examined periodically, including testing knee and ankle reflexes, to detect any evidence of muscular weakness. If weakness occurs, discontinue the drug.
+
+
+
+ A number of fatalities have been reported following the accidental ingestion of chloroquine, sometimes in relatively small doses (0.75 g or 1 g chloroquine phosphate in one 3-year-old child). Patients should be strongly warned to keep this drug out of the reach of children because they are especially sensitive to the 4-aminoquinoline compounds.
+
+
+
+ Use of ARALEN in patients with psoriasis may precipitate a severe attack of psoriasis. When used in patients with porphyria the condition may be exacerbated. The drug should not be used in these conditions unless in the judgment of the physician the benefit to the patient outweighs the potential risks.
+
+
+
+    Usage in Pregnancy
+
+
+
+  Radioactively tagged chloroquine administered intravenously to pregnant pigmented CBA mice passed rapidly across the placenta and accumulated selectively in the melanin structures of the fetal eyes. It was retained in the ocular tissues for five months after the drug had been eliminated from the rest of the body  2  . There are no adequate and well-controlled studies evaluating the safety and efficacy of chloroquine in pregnant women. Usage of chloroquine during pregnancy should be avoided except in the suppression or treatment of malaria when in the judgment of the physician the benefit outweighs the potential risk to the fetus.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="38" name="heading" section="S2" start="763" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="1177" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1445" />
+    <IgnoredRegion len="30" name="heading" section="S2" start="1653" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="1798" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="3620" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="3679" />
+    <IgnoredRegion len="18" name="heading" section="S3" start="3836" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="4410" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="4485" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

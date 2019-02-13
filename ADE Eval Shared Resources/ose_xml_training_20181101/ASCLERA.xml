@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoldLabel drug="ASCLERA">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions occurring at least 3% more frequently than on placebo are mild local reactions at the site of injection. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Merz North America, Inc. at 1-866-862-1211 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Study Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In 5 controlled randomized clinical trials, Asclera has been administered to 401 patients with small or very small varicose veins (reticular and spider veins) and compared with another sclerosing agent and with placebo. Patients were 18 to 70 years old. The patient population was predominately female and consisted of Caucasian and Asian patients.
+
+
+
+ Table 1 shows adverse events more common with Asclera or sodium tetradecyl sulfate (STS) 1% than with placebo by at least 3% in the placebo- controlled EASI study  (see  Clinical Studies [14]  )  . All of these were injection site reactions and most were mild.
+
+
+
+ Table 1: Adverse Reactions in EASI-study 
+                                  ASCLERA (180 patients)    STS 1% (105 patients)    Placebo (53 patients)    
+  
+ Injection site haematoma                  42%                       65%                      19%             
+ Injection site irritation                 41%                       73%                      30%             
+ Injection site discoloration              38%                       74%                      4%              
+ Injection site pain                       24%                       31%                      9%              
+ Injection site pruritus                   19%                       27%                      4%              
+ Injection site warmth                     16%                       21%                      6%              
+ Neovascularisation                         8%                       20%                      4%              
+ Injection site thrombosis                  6%                       1%                       0%              
+          Ultrasound examinations at one week (+/-3 days) and 12 weeks (+/-2 weeks) after treatment did not reveal deep vein thrombosis in any treatment group.
+ 
+
+   6.2 Post-marketing Safety Experience
+
+  The following adverse reactions have been reported during use of polidocanol in world-wide experience; in some of these cases these adverse events have been serious or troublesome. Because these reactions are reported voluntarily from a population of uncertain size and without a control group, it is not possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
+
+
+
+   Immune system disorders:  Anaphylactic shock, angioedema, urticaria generalized, asthma
+
+
+
+   Nervous system disorders:  Cerebrovascular accident, migraine, paresthesia (local), loss of consciousness, confusional state, dizziness
+
+
+
+   Cardiac disorders:  Cardiac arrest, palpitations
+
+
+
+   Vascular disorders:  Deep vein thrombosis, pulmonary embolism, syncope vasovagal, circulatory collapse, vasculitis
+
+
+
+   Respiratory, thoracic and mediastinal disorders:  Dyspnea
+
+
+
+   Skin and subcutaneous tissue disorders  : Skin hyperpigmentation, dermatitis allergic, hypertrichosis (in the area of sclerotherapy)
+
+
+
+   General disorders and injection site conditions  : Injection site necrosis, pyrexia, hot flush
+
+
+
+   Injury, poisoning and procedural complications  : Nerve injury
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Be prepared to treat anaphylaxis. (  5.1  ) 
+ *  Do not inject intra-arterially. (  5.2  ) 
+ *  Do not inject intra-perivascularily. (  5.3  ) 
+    
+ 
+
+   5.1 Anaphylaxis
+
+
+
+   Severe allergic reactions have been reported following polidocanol use, including anaphylactic reactions, some of them fatal. Severe reactions are more frequent with use of larger volumes (&gt; 3 mL). The dose of polidocanol should therefore be minimized. Be prepared to treat anaphylaxis appropriately.  
+
+
+
+ Severe adverse local effects, including tissue necrosis, may occur following extravasation; therefore, care should be taken in intravenous needle placement and the smallest effective volume at each injection site should be used.
+
+
+
+ After the injection session is completed, apply compression with a stocking or bandage, and have the patient walk for 15-20 minutes. Keep the patient under supervision during this period to treat any anaphylactic or allergic reaction (see  Dosage and Administration [2]  )  .
+
+
+
+    5.2 Accidental Intra-arterial Injection
+
+
+
+  Intra-arterial injection can cause severe necrosis, ischemia or gangrene. If this occurs consult a vascular surgeon immediately.
+
+
+
+    5.3 Inadvertent Perivascular Injection
+
+
+
+  Inadvertent perivascular injection of Asclera can cause pain. If pain is severe, a local anesthetic (without adrenaline) may be injected.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="311" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="164" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="207" />
+    <IgnoredRegion len="29" name="heading" section="S1" start="341" />
+    <IgnoredRegion len="39" name="heading" section="S2" start="1052" />
+    <IgnoredRegion len="38" name="heading" section="S2" start="1233" />
+    <IgnoredRegion len="36" name="heading" section="S1" start="2470" />
+  </IgnoredRegions>
+  <Mentions>
+    <Mention id="M1" len="14" reason="indication" section="S1" start="757" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Varicose veins" meddra_llt_id="10047001" meddra_pt="Varicose vein" meddra_pt_id="10046996" />
+    </Mention>
+    <Mention id="M2" len="9,5" reason="indication" section="S1" start="773,794" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Telangiectasia" meddra_llt_id="10043189" meddra_pt="Telangiectasia" meddra_pt_id="10043189" />
+    </Mention>
+    <Mention id="M3" len="12" reason="indication" section="S1" start="787" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Spider vein" meddra_llt_id="10062696" meddra_pt="Spider vein" meddra_pt_id="10062696" />
+    </Mention>
+    <Mention id="M13" len="24" reason="from_drug_use" section="S1" start="1211" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Injection site reaction" meddra_llt_id="10022095" meddra_pt="Injection site reaction" meddra_pt_id="10022095" />
+    </Mention>
+    <Mention id="M14" len="24" reason="from_drug_use" section="S1" start="1417" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Injection site haematoma" meddra_llt_id="10022066" meddra_pt="Injection site haematoma" meddra_pt_id="10022066" />
+    </Mention>
+    <Mention id="M15" len="25" reason="from_drug_use" section="S1" start="1528" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Injection site irritation" meddra_llt_id="10022079" meddra_pt="Injection site irritation" meddra_pt_id="10022079" />
+    </Mention>
+    <Mention id="M16" len="28" reason="from_drug_use" section="S1" start="1639" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Injection site discoloration" meddra_llt_id="10055530" meddra_pt="Injection site discolouration" meddra_pt_id="10051572" />
+    </Mention>
+    <Mention id="M17" len="19" reason="from_drug_use" section="S1" start="1750" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Injection site pain" meddra_llt_id="10022086" meddra_pt="Injection site pain" meddra_pt_id="10022086" />
+    </Mention>
+    <Mention id="M18" len="23" reason="from_drug_use" section="S1" start="1861" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Injection site pruritus" meddra_llt_id="10022093" meddra_pt="Injection site pruritus" meddra_pt_id="10022093" />
+    </Mention>
+    <Mention id="M19" len="21" reason="from_drug_use" section="S1" start="1972" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Injection site warmth" meddra_llt_id="10022112" meddra_pt="Injection site warmth" meddra_pt_id="10022112" />
+    </Mention>
+    <Mention id="M20" len="18" reason="from_drug_use" section="S1" start="2083" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Neovascularisation" meddra_llt_id="10029113" meddra_pt="Neovascularisation" meddra_pt_id="10029113" />
+    </Mention>
+    <Mention id="M21" len="25" reason="from_drug_use" section="S1" start="2194" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Injection site thrombosis" meddra_llt_id="10022104" meddra_pt="Injection site thrombosis" meddra_pt_id="10022104" />
+    </Mention>
+    <Mention id="M8" len="20" reason="negation" section="S1" start="2419" type="NonOSE_AE">
+      <Normalization meddra_llt="Deep vein thrombosis" meddra_llt_id="10051055" meddra_pt="Deep vein thrombosis" meddra_pt_id="10051055" />
+    </Mention>
+    <Mention id="M4" len="23" reason="general_term" section="S1" start="2923" type="NonOSE_AE">
+      <Normalization meddra_llt="Immune system disorder" meddra_llt_id="10021425" meddra_pt="Immune system disorder" meddra_pt_id="10021425" />
+    </Mention>
+    <Mention id="M22" len="18" reason="from_drug_use" section="S1" start="2949" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Anaphylactic shock" meddra_llt_id="10002199" meddra_pt="Anaphylactic shock" meddra_pt_id="10002199" />
+    </Mention>
+    <Mention id="M23" len="10" reason="from_drug_use" section="S1" start="2969" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Angioedema" meddra_llt_id="10002424" meddra_pt="Angioedema" meddra_pt_id="10002424" />
+    </Mention>
+    <Mention id="M24" len="9" reason="from_drug_use" section="S1" start="2981" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Urticaria" meddra_llt_id="10046735" meddra_pt="Urticaria" meddra_pt_id="10046735" />
+    </Mention>
+    <Mention id="M25" len="6" reason="from_drug_use" section="S1" start="3004" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Asthma" meddra_llt_id="10003553" meddra_pt="Asthma" meddra_pt_id="10003553" />
+    </Mention>
+    <Mention id="M5" len="24" reason="general_term" section="S1" start="3017" type="NonOSE_AE">
+      <Normalization meddra_llt="Nervous system disorder" meddra_llt_id="10029202" meddra_pt="Nervous system disorder" meddra_pt_id="10029202" />
+      <Normalization meddra_pt="Neurotoxicity" meddra_pt_id="10029350" />
+      <Normalization meddra_pt="Neurological symptom" meddra_pt_id="10060860" />
+    </Mention>
+    <Mention id="M26" len="24" reason="from_drug_use" section="S1" start="3044" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Accident cerebrovascular" meddra_llt_id="10000374" meddra_pt="Cerebrovascular accident" meddra_pt_id="10008190" />
+    </Mention>
+    <Mention id="M27" len="8" reason="from_drug_use" section="S1" start="3070" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Migraine" meddra_llt_id="10027599" meddra_pt="Migraine" meddra_pt_id="10027599" />
+    </Mention>
+    <Mention id="M28" len="11" reason="from_drug_use" section="S1" start="3080" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Paresthesia" meddra_llt_id="10033987" meddra_pt="Paraesthesia" meddra_pt_id="10033775" />
+    </Mention>
+    <Mention id="M29" len="21" reason="from_drug_use" section="S1" start="3101" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Consciousness loss of" meddra_llt_id="10010772" meddra_pt="Loss of consciousness" meddra_pt_id="10024855" />
+    </Mention>
+    <Mention id="M30" len="17" reason="from_drug_use" section="S1" start="3124" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Confusional state" meddra_llt_id="10010305" meddra_pt="Confusional state" meddra_pt_id="10010305" />
+    </Mention>
+    <Mention id="M31" len="9" reason="from_drug_use" section="S1" start="3143" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Dizziness" meddra_llt_id="10013573" meddra_pt="Dizziness" meddra_pt_id="10013573" />
+    </Mention>
+    <Mention id="M6" len="17" reason="general_term" section="S1" start="3159" type="NonOSE_AE">
+      <Normalization meddra_llt="Cardiac disorder" meddra_llt_id="10061024" meddra_pt="Cardiac disorder" meddra_pt_id="10061024" />
+    </Mention>
+    <Mention id="M32" len="14" reason="from_drug_use" section="S1" start="3179" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Arrest cardiac" meddra_llt_id="10003109" meddra_pt="Cardiac arrest" meddra_pt_id="10007515" />
+    </Mention>
+    <Mention id="M33" len="12" reason="from_drug_use" section="S1" start="3195" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Palpitation" meddra_llt_id="10033556" meddra_pt="Palpitations" meddra_pt_id="10033557" />
+    </Mention>
+    <Mention id="M7" len="18" reason="general_term" section="S1" start="3214" type="NonOSE_AE">
+      <Normalization meddra_llt="Disorder vascular" meddra_llt_id="10013282" meddra_pt="Angiopathy" meddra_pt_id="10059245" />
+    </Mention>
+    <Mention id="M34" len="20" reason="from_drug_use" section="S1" start="3235" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Deep vein thrombosis" meddra_llt_id="10051055" meddra_pt="Deep vein thrombosis" meddra_pt_id="10051055" />
+    </Mention>
+    <Mention id="M35" len="18" reason="from_drug_use" section="S1" start="3257" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Pulmonary embolism" meddra_llt_id="10037377" meddra_pt="Pulmonary embolism" meddra_pt_id="10037377" />
+    </Mention>
+    <Mention id="M36" len="17" reason="from_drug_use" section="S1" start="3277" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Syncope vasovagal" meddra_llt_id="10042777" meddra_pt="Syncope" meddra_pt_id="10042772" />
+    </Mention>
+    <Mention id="M37" len="20" reason="from_drug_use" section="S1" start="3296" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Collapse circulatory" meddra_llt_id="10009909" meddra_pt="Circulatory collapse" meddra_pt_id="10009192" />
+    </Mention>
+    <Mention id="M38" len="10" reason="from_drug_use" section="S1" start="3318" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Vasculitis" meddra_llt_id="10047115" meddra_pt="Vasculitis" meddra_pt_id="10047115" />
+    </Mention>
+    <Mention id="M9" len="47" reason="general_term" section="S1" start="3335" type="NonOSE_AE">
+      <Normalization meddra_llt="Respiratory disorder" meddra_llt_id="10038683" meddra_pt="Respiratory disorder" meddra_pt_id="10038683" />
+    </Mention>
+    <Mention id="M39" len="7" reason="from_drug_use" section="S1" start="3385" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Dyspnea" meddra_llt_id="10013963" meddra_pt="Dyspnoea" meddra_pt_id="10013968" />
+    </Mention>
+    <Mention id="M10" len="38" reason="general_term" section="S1" start="3399" type="NonOSE_AE">
+      <Normalization meddra_llt="Other disorders of skin and subcutaneous tissue" meddra_llt_id="10032001" meddra_pt="Skin disorder" meddra_pt_id="10040831" />
+    </Mention>
+    <Mention id="M40" len="22" reason="from_drug_use" section="S1" start="3441" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Skin hyperpigmentation" meddra_llt_id="10040865" meddra_pt="Skin hyperpigmentation" meddra_pt_id="10040865" />
+    </Mention>
+    <Mention id="M41" len="19" reason="from_drug_use" section="S1" start="3465" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Allergic dermatitis" meddra_llt_id="10001711" meddra_pt="Dermatitis allergic" meddra_pt_id="10012434" />
+    </Mention>
+    <Mention id="M42" len="14" reason="from_drug_use" section="S1" start="3486" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hypertrichosis" meddra_llt_id="10020864" meddra_pt="Hypertrichosis" meddra_pt_id="10020864" />
+    </Mention>
+    <Mention id="M11" len="47" reason="general_term" section="S1" start="3538" type="NonOSE_AE">
+      <Normalization meddra_llt="Ill-defined disorder" meddra_llt_id="10061520" meddra_pt="Ill-defined disorder" meddra_pt_id="10061520" />
+    </Mention>
+    <Mention id="M43" len="23" reason="from_drug_use" section="S1" start="3589" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Necrosis injection site" meddra_llt_id="10028860" meddra_pt="Injection site necrosis" meddra_pt_id="10022082" />
+    </Mention>
+    <Mention id="M44" len="7" reason="from_drug_use" section="S1" start="3614" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Pyrexia" meddra_llt_id="10037660" meddra_pt="Pyrexia" meddra_pt_id="10037660" />
+    </Mention>
+    <Mention id="M45" len="9" reason="from_drug_use" section="S1" start="3623" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Hot flush" meddra_llt_id="10060800" meddra_pt="Hot flush" meddra_pt_id="10060800" />
+    </Mention>
+    <Mention id="M12" len="46" reason="general_term" section="S1" start="3639" type="NonOSE_AE">
+      <Normalization meddra_llt="Injury" meddra_llt_id="10022116" meddra_pt="Injury" meddra_pt_id="10022116" />
+    </Mention>
+    <Mention id="M46" len="12" reason="from_drug_use" section="S1" start="3689" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Nerve injury" meddra_llt_id="10052897" meddra_pt="Nerve injury" meddra_pt_id="10052897" />
+    </Mention>
+    <Mention id="M60" len="18" reason="from_drug_use" section="S2" start="236" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Allergic reaction to analgesics" meddra_llt_id="10072246" meddra_pt="Drug hypersensitivity" meddra_pt_id="10013700" />
+      <Normalization meddra_pt="Hypersensitivity" meddra_pt_id="10020751" />
+    </Mention>
+    <Mention id="M59" len="22" reason="from_drug_use" section="S2" start="311" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Anaphylactic reaction" meddra_llt_id="10002198" meddra_pt="Anaphylactic reaction" meddra_pt_id="10002198" />
+    </Mention>
+    <Mention id="M48" len="5" reason="general_term" section="S2" start="348" type="NonOSE_AE">
+      <Normalization meddra_llt="Death" meddra_llt_id="10011906" meddra_pt="Death" meddra_pt_id="10011906" />
+    </Mention>
+    <Mention id="M49" len="11" reason="AE_only_as_instruction" section="S2" start="503" type="NonOSE_AE">
+      <Normalization meddra_llt="Anaphylaxis" meddra_llt_id="10002218" meddra_pt="Anaphylactic reaction" meddra_pt_id="10002198" />
+    </Mention>
+    <Mention id="M52" len="21" reason="AE_only_as_instruction" section="S2" start="543" type="NonOSE_AE">
+      <Normalization meddra_llt="Local reaction" meddra_llt_id="10024769" meddra_pt="Local reaction" meddra_pt_id="10024769" />
+    </Mention>
+    <Mention id="M50" len="15" reason="manifestation_or_complication" section="S2" start="576" type="NonOSE_AE">
+      <Normalization meddra_llt="Soft tissue necrosis" meddra_llt_id="10065769" meddra_pt="Soft tissue necrosis" meddra_pt_id="10065769" />
+      <Normalization meddra_pt="Skin necrosis" meddra_pt_id="10040893" />
+    </Mention>
+    <Mention id="M47" len="13" reason="AE_only_as_instruction" section="S2" start="613" type="NonOSE_AE">
+      <Normalization meddra_llt="Extravasation" meddra_llt_id="10015866" meddra_pt="Extravasation" meddra_pt_id="10015866" />
+    </Mention>
+    <Mention id="M51" len="12" reason="AE_only_as_instruction" section="S2" start="969" type="NonOSE_AE">
+      <Normalization meddra_llt="Anaphylactic reaction" meddra_llt_id="10002198" meddra_pt="Anaphylactic reaction" meddra_pt_id="10002198" />
+    </Mention>
+    <Mention id="M53" len="17" reason="AE_only_as_instruction" section="S2" start="985" type="NonOSE_AE">
+      <Normalization meddra_llt="Allergic reaction to analgesics" meddra_llt_id="10072246" meddra_pt="Drug hypersensitivity" meddra_pt_id="10013700" />
+      <Normalization meddra_pt="Hypersensitivity" meddra_pt_id="10020751" />
+    </Mention>
+    <Mention id="M62" len="24" reason="medication_error" section="S2" start="1097" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Intravenous formulation administered by other route" meddra_llt_id="10064315" meddra_pt="Incorrect route of drug administration" meddra_pt_id="10064304" />
+    </Mention>
+    <Mention id="M54" len="8" reason="manifestation_or_complication" section="S2" start="1139" type="NonOSE_AE">
+      <Normalization meddra_llt="Necrosis" meddra_llt_id="10028851" meddra_pt="Necrosis" meddra_pt_id="10028851" />
+    </Mention>
+    <Mention id="M55" len="8" reason="manifestation_or_complication" section="S2" start="1149" type="NonOSE_AE">
+      <Normalization meddra_llt="Ischemia" meddra_llt_id="10054438" meddra_pt="Ischaemia" meddra_pt_id="10061255" />
+    </Mention>
+    <Mention id="M56" len="8" reason="manifestation_or_complication" section="S2" start="1161" type="NonOSE_AE">
+      <Normalization meddra_llt="Gangrene" meddra_llt_id="10017711" meddra_pt="Gangrene" meddra_pt_id="10017711" />
+    </Mention>
+    <Mention id="M61" len="34" reason="medication_error" section="S2" start="1277" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Paravenous drug administration" meddra_llt_id="10075353" meddra_pt="Paravenous drug administration" meddra_pt_id="10075353" />
+    </Mention>
+    <Mention id="M57" len="4" reason="manifestation_or_complication" section="S2" start="1333" type="NonOSE_AE">
+      <Normalization meddra_llt="Pain" meddra_llt_id="10033371" meddra_pt="Pain" meddra_pt_id="10033371" />
+    </Mention>
+    <Mention id="M58" len="4" reason="AE_only_as_instruction" section="S2" start="1342" type="NonOSE_AE">
+      <Normalization meddra_llt="Pain" meddra_llt_id="10033371" meddra_pt="Pain" meddra_pt_id="10033371" />
+    </Mention>
+  </Mentions>
+</GoldLabel>

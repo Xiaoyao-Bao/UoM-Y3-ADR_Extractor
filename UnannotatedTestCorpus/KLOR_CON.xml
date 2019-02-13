@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="KLOR_CON">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following adverse reactions have been identified with use of oral potassium salts. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea.
+
+
+
+ There have been reports hyperkalemia and of upper and lower gastrointestinal condition including obstruction, bleeding, ulceration, perforation.
+
+
+
+ Skin rash has been reported rarely.
+
+
+
+    EXCERPT:    *  The most common adverse reactions are nausea, vomiting, flatulence, abdominal pain/discomfort and diarrhea. (  6  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Upsher-Smith Laboratories, LLC at 1-855-899-9180 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+ 
+
+ 
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Gastrointestinal Irritation: Take with meals. (  5.1  ) 
+    
+ 
+
+   5.1 Gastrointestinal Adverse Reactions
+
+
+
+  Solid oral dosage forms of potassium chloride can produce ulcerative and/or stenotic lesions of the gastrointestinal tract, particularly if the drug maintains contact with the gastrointestinal mucosa for prolonged periods. Consider the use of liquid potassium in patients with dysphagia, swallowing disorders, or severe gastrointestinal motility disorders.
+
+
+
+ If severe vomiting, abdominal pain, distention, or gastrointestinal bleeding occurs, discontinue Klor-Con extended-release tablets and consider possibility of ulceration, obstruction or perforation.
+
+
+
+ Klor-Con extended-release tablets should not be taken on an empty stomach because of its potential for gastric irritation [see  Dosage and Administration (2.1)  ]  .
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="77" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="38" name="heading" section="S2" start="120" />
+    <IgnoredRegion len="290" name="excerpt" section="S1" start="648" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

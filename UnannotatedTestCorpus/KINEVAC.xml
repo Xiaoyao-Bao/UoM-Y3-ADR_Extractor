@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="KINEVAC">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  The following adverse reactions associated with the use of sincalide were identified in clinical trials or postmarketing reports. Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency, reliably, or to establish a causal relationship to drug exposure.
+
+
+
+ Reactions to sincalide are generally mild and of short duration. The most frequent adverse reactions were abdominal discomfort or pain, and nausea; rapid intravenous injection of 0.04 mcg sincalide per kg expectably causes transient abdominal cramping. These phenomena are usually manifestations of the physiologic action of the drug, including delayed gastric emptying and increased intestinal motility. These reactions occurred in approximately 20 percent of patients; they are not to be construed as necessarily indicating an abnormality of the billiary tract unless there is other clinical or radiologic evidence of disease.
+
+
+
+ Less common adverse reactions include:
+
+
+
+   Hypersensitivity reactions  : anaphylaxis and anaphylactic shock, hypotension, throat tightness, bradycardia, shortness of breath, nausea, abdominal cramping, diaphoresis, hives, rash, itching; and numbness of face, lips and eye (see  CONTRAINDICATIONS  ,  WARNINGS  ).
+
+
+
+   Other  : vomiting, flushing, hypertension, urge to defecate, headache, diarrhea, sneezing, and numbness was less than 1 percent; dizziness was reported in approximately 2 percent of patients. These manifestations are usually lessened by slower injection rate.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  The possibility exists that stimulation of gallbladder contraction in patients with small gallbladder stones could lead to the evacuation of the stones from the gallbladder, resulting in their lodging in the cystic duct or in the common bile duct. The risk of such an event is considered to be minimal because sincalide, when given as directed, does not ordinarily cause complete contraction of the gallbladder.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Long-term studies in animals have not been performed to evaluate carcinogenic or mutagenic potential, or possible impairment of fertility in males or females.
+
+
+
+    Teratogenic Effects
+
+
+
+   Pregnancy Category B
+
+
+
+  Reproduction studies in rats in which sincalide was administered subcutaneously at doses up to 12.5 times the maximum recommended human dose revealed no evidence of harm to the fetus due to sincalide. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed (see  WARNINGS  ).
+
+
+
+    Labor and Delivery
+
+
+
+  Sincalide should not be administered to pregnant women near term because of its effect on smooth muscle; the possibility of inducing labor prematurely exists. The effects of sincalide on labor, delivery and lactation in animals has not been determined (see  WARNINGS  ).
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when sincalide is administered to a nursing woman.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in children have not been established.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+   Anaphylaxis, Anaphylactic Shock and Other Hypersensitivity Reactions
+
+
+
+  In postmarketing experience, anaphylaxis, anaphylactic shock and other serious hypersensitivity reactions have been reported during and within one hour following administration of Kinevac (see  ADVERSE REACTIONS  ).
+
+
+
+ Due to the potential for anaphylaxis, appropriate medical support should be readily available when Kinevac is administered. If anaphylaxis or other hypersensitivity reactions occur, immediately discontinue the infusion and initiate appropriate medical treatment. Observe patients closely during and after the infusion. Do not reinitiate Kinevac in patients who have experienced symptoms of hypersensitivity (see  CONTRAINDICATIONS  ).
+
+
+
+    Preterm Labor or Spontaneous Abortion
+
+
+
+  Because of Kinevac's effect on smooth muscle, pregnant patients should be advised that spontaneous abortion or premature induction of labor may occur (see   Pregnancy Category B  ).
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="68" name="heading" section="S3" start="19" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="454" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="678" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="704" />
+    <IgnoredRegion len="37" name="heading" section="S3" start="755" />
+    <IgnoredRegion len="18" name="heading" section="S2" start="1182" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1484" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="1699" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,29 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Bone Marrow Suppression: Measure blood counts prior to treatment initiation and before every dose of Xofigo. Discontinue Xofigo if hematologic values do not recover within 6 to 8 weeks after treatment. Monitor patients with compromised bone marrow reserve closely. Discontinue Xofigo in patients who experience life-threatening complications despite supportive care measures. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 Bone Marrow Suppression
+
+
+
+  In the randomized trial, 2% of patients on the Xofigo arm experienced bone marrow failure or ongoing pancytopenia compared to no patients treated with placebo. There were two deaths due to bone marrow failure and for 7 of 13 patients treated with Xofigo, bone marrow failure was ongoing at the time of death. Among the 13 patients who experienced bone marrow failure, 54% required blood transfusions. Four percent (4%) of patients on the Xofigo arm and 2% on the placebo arm permanently discontinued therapy due to bone marrow suppression.
+
+
+
+ In the randomized trial, deaths related to vascular hemorrhage in association with myelosuppression were observed in 1% of Xofigo-treated patients compared to 0.3% of patients treated with placebo. The incidence of infection-related deaths (2%), serious infections (10%), and febrile neutropenia (<1%) were similar for patients treated with Xofigo and placebo. Myelosuppression; notably thrombocytopenia, neutropenia, pancytopenia, and leukopenia; has been reported in patients treated with Xofigo. In the randomized trial, complete blood counts (CBCs) were obtained every 4 weeks prior to each dose and the nadir CBCs and times of recovery were not well characterized. In a separate single-dose phase 1 study of Xofigo, neutrophil and platelet count nadirs occurred 2 to 3 weeks after Xofigo administration at doses that were up to 1 to 5 times the recommended dose, and most patients recovered approximately 6 to 8 weeks after administration [see Adverse Reactions (  6  )]  .
+
+
+
+ Hematologic evaluation of patients must be performed at baseline and prior to every dose of Xofigo. Before the first administration of Xofigo, the absolute neutrophil count (ANC) should be >= 1.5 x 10  9  /L, the platelet count >= 100 x 10  9  /L and hemoglobin >= 10 g/dL. Before subsequent administrations of Xofigo, the ANC should be >= 1 x 10  9  /L and the platelet count >= 50 x 10  9  /L. If there is no recovery to these values within 6 to 8 weeks after the last administration of Xofigo, despite receiving supportive care, further treatment with Xofigo should be discontinued. Patients with evidence of compromised bone marrow reserve should be monitored closely and provided with supportive care measures when clinically indicated. Discontinue Xofigo in patients who experience life-threatening complications despite supportive care for bone marrow failure.
+
+
+
+ The safety and efficacy of concomitant chemotherapy with Xofigo have not been established. Outside of a clinical trial, concomitant use with chemotherapy is not recommended due to the potential for additive myelosuppression. If chemotherapy, other systemic radioisotopes or hemibody external radiotherapy are administered during the treatment period, Xofigo should be discontinued.

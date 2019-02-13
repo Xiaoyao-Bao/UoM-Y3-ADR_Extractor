@@ -1,0 +1,18 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  Serious cases of dysphagia, bowel obstruction, and perforation have been associated with sevelamer use, some requiring hospitalization and surgery. (  5.1  ) 
+    
+ 
+
+   5.1  Gastrointestinal≠B-OSE_Labeled_AE   Adverse≠I-OSE_Labeled_AE   Events≠I-OSE_Labeled_AE 
+
+  Cases of  dysphagia≠B-OSE_Labeled_AE  and  esophageal≠B-OSE_Labeled_AE   tablet≠I-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE  have been reported in association with use of the tablet formulation of sevelamer, some requiring hospitalization and intervention. Consider using sevelamer suspension in patients with a history of  swallowing≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate .
+
+ Cases of  bowel≠B-OSE_Labeled_AE  obstruction and  perforation≠I-OSE_Labeled_AE  have also been reported with sevelamer use.
+
+ Patients with  dysphagia≠B-Not_AE_Candidate ,  swallowing≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate , severe  gastrointestinal≠B-Not_AE_Candidate   (≠I-Not_AE_Candidate  GI≠I-Not_AE_Candidate  )≠I-Not_AE_Candidate   motility≠I-Not_AE_Candidate   disorders≠I-Not_AE_Candidate , including severe  constipation≠B-Not_AE_Candidate , or major GI tract surgery were not included in the Renvela clinical studies.
+
+    5.2 Reductions in Vitamins D, E, K (clotting factors) and Folic Acid Levels
+
+  In preclinical studies in rats and dogs, sevelamer hydrochloride, which contains the same active moiety as sevelamer carbonate,  reduced≠B-NonOSE_AE  vitamins D, E, and K (coagulation parameters) and  folic≠I-NonOSE_AE   acid≠I-NonOSE_AE   levels≠I-NonOSE_AE  at doses of 6-10 times the recommended human dose. In short-term clinical trials, there was no evidence of  reduction≠B-NonOSE_AE   in≠I-NonOSE_AE   serum≠I-NonOSE_AE   levels≠I-NonOSE_AE   of≠I-NonOSE_AE   vitamins≠I-NonOSE_AE . However, in a one-year clinical trial,  2≠B-OSE_Labeled_AE  5≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  hydroxyvitamin≠I-OSE_Labeled_AE   D≠I-OSE_Labeled_AE  (normal range 10 to 55 ng/mL)  fell≠I-OSE_Labeled_AE  from 39 +/- 22 ng/mL to 34 +/- 22 ng/mL (p<0.01) with sevelamer hydrochloride treatment. Most (approximately 75%) patients in sevelamer hydrochloride clinical trials were receiving vitamin supplements.
+

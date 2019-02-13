@@ -1,0 +1,108 @@
+  6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+ *   Cardiovascular≠B-OSE_Labeled_AE   Thrombotic≠I-OSE_Labeled_AE   Events≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.1)   ] 
+ *   GI≠B-OSE_Labeled_AE   Bleeding≠I-OSE_Labeled_AE , Ulceration and Perforation [ see  Warnings and Precautions (5.2)   ] 
+ *   Hepatotoxicity≠B-OSE_Labeled_AE  [ see  Warnings and Precautions (5.3)   ] 
+ *   Hypertension≠B-OSE_Labeled_AE  [ see  Warnings and Precautions (5.4)   ] 
+ *   Heart≠B-OSE_Labeled_AE   Failure≠I-OSE_Labeled_AE  and  Edema≠B-OSE_Labeled_AE  [ see  Warnings and Precautions (5.5)   ] 
+ *   Renal≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE  and  Hyperkalemia≠B-OSE_Labeled_AE  [ see  Warnings and Precautions (5.6)   ] 
+ *   Anaphylactic≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.7)   ] 
+ *  Serious  Skin≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.9)   ] 
+ *   Hematologic≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.11)   ] 
+      EXCERPT:   The most common adverse reactions with PENNSAID are application site reactions. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Horizon Pharma USA Inc. at 1-866-479-6742 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+ The data described below reflect exposure to PENNSAID of 130 patients treated for 4 weeks (mean duration of 28 days) in one Phase 2 controlled trial. This population's mean age was approximately 60 years, 85% of patients were Caucasian, 65% were females, and all patients had primary  osteoarthritis≠B-Not_AE_Candidate . The most common adverse events with PENNSAID were  application≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE . These events were the most common reason for withdrawing from the study.
+
+     Application Site Reactions:  
+
+ In this controlled trial,  application≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  were characterized by one or more of the following: dryness (22%), exfoliation (7%), erythema (4%), pruritus (2%), pain (2%), induration (2%), rash (2%), and scabbing (<1%).
+
+     Other Common Adverse Reactions:  
+
+ Table 1 lists all adverse reactions occurring in >1% of patients receiving PENNSAID, where the rate in the PENNSAID group exceeded vehicle, from a controlled study conducted in patients with  osteoarthritis≠B-Not_AE_Candidate .
+
+ Table 1: Incidence of Adverse Reactions Occurring in >1% of Subjects with Osteoarthritis Using PENNSAID and More Often than in Subjects with OA Using Vehicle Control (Pooled) 
+ Adverse Reaction                                       PENNSAIDN=130n (%)      Vehicle ControlN=129n (%)   
+  
+    Urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE                                     4 (3%)                     1 (<1%)            
+    Application≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   induration≠I-OSE_Labeled_AE                                 2 (2%)                     1 (<1%)            
+    Contusion≠B-OSE_Labeled_AE                                                   2 (2%)                     1 (<1%)            
+    Sinus≠B-OSE_Labeled_AE   congestion≠I-OSE_Labeled_AE                                            2 (2%)                     1 (<1%)            
+    Nausea≠B-OSE_Labeled_AE                                                      2 (2%)                        0               
+             PENNSAID 1.5%  
+ 
+
+ The safety of PENNSAID 2% is based in part, on prior experience with PENNSAID 1.5%. The data described below reflect exposure to PENNSAID 1.5% of 911 patients treated between 4 and 12 weeks (mean duration of 49 days) in seven Phase 3 controlled trials, as well as exposure of 793 patients treated in an open-label study, including 463 patients treated for at least 6 months, and 144 patients treated for at least 12 months. The population mean age was approximately 60 years, 89% of patients were Caucasian, 64% were females, and all patients had primary  osteoarthritis≠B-Not_AE_Candidate . The most common adverse events with PENNSAID 1.5% were  application≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE . These events were the most common reason for withdrawing from the studies.
+
+     Application Site Reactions:  
+
+ In controlled trials,  application≠B-NonOSE_AE   site≠I-NonOSE_AE   reactions≠I-NonOSE_AE  were characterized by one or more of the following: dryness, erythema, induration, vesicles, paresthesia, pruritus, vasodilation, acne, and urticaria. The most frequent of these reactions were  dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE  (32%),  contact≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE  characterized by  skin≠B-NonOSE_AE   erythema≠I-NonOSE_AE  and  induration≠B-NonOSE_AE  (9%),  contact≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   vesicles≠I-OSE_Labeled_AE  (2%) and pruritus (4%). In one controlled trial, a higher rate of  contact≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   vesicles≠I-OSE_Labeled_AE  (4%) was observed after treatment of 152 subjects with the combination of PENNSAID 1.5% and oral diclofenac. In the open-label uncontrolled long-term safety study,  contact≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE  occurred in 13% and  contact≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   vesicles≠I-OSE_Labeled_AE  in 10% of patients, generally within the first 6 months of exposure, leading to a withdrawal rate for an application site event of 14%.
+
+     Other Common Adverse Reactions:  
+
+ In controlled trials, subjects treated with PENNSAID 1.5% experienced some adverse events associated with the NSAID class more frequently than subjects using placebo ( constipation≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  flatulence≠B-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  edema≠B-OSE_Labeled_AE ; see  Table 2  ). The combination of PENNSAID 1.5% and oral diclofenac, compared to oral diclofenac alone, resulted in a higher rate of  rectal≠B-NonOSE_AE   hemorrhage≠I-NonOSE_AE  (3% vs. less than 1%), and more frequent  abnormal≠B-NonOSE_AE   creatinine≠I-NonOSE_AE  (12% vs. 7%), urea (20% vs. 12%), and hemoglobin (13% vs. 9%), but no difference in  elevation≠B-NonOSE_AE   of≠I-NonOSE_AE   liver≠I-NonOSE_AE   transaminases≠I-NonOSE_AE .
+
+ Table 2 lists all adverse reactions occurring in >=1% of patients receiving PENNSAID 1.5%, where the rate in the PENNSAID 1.5% group exceeded placebo, from seven controlled studies conducted in patients with  osteoarthritis≠B-Not_AE_Candidate . Since these trials were of different durations, these percentages do not capture cumulative rates of occurrence.
+
+ Table 2: Adverse Reactions Occurring in >=1% of Patients Treated with PENNSAID 1.5% Topical Solution in Placebo and Oral Diclofenac-Controlled Trials 
+ Treatment Group:                                       PENNSAID 1.5%N=911        Topical PlaceboN=332      
+ Adverse Reaction                                              N (%)                      N (%)             
+  
+  Dry≠B-OSE_Labeled_AE   Skin≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  Application≠I-OSE_Labeled_AE   Site≠I-OSE_Labeled_AE )                                 292 (32)                    17 (5)             
+  Contact≠B-OSE_Labeled_AE   Dermatitis≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  Application≠I-OSE_Labeled_AE   Site≠I-OSE_Labeled_AE )                        83 (9)                      6 (2)             
+  Dyspepsia≠B-OSE_Labeled_AE                                                     72 (8)                     13 (4)             
+  Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                                54 (6)                     10 (3)             
+  Flatulence≠B-OSE_Labeled_AE                                                    35 (4)                     1 (<1)             
+  Pruritus≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  Application≠I-OSE_Labeled_AE   Site≠I-OSE_Labeled_AE )                                  34 (4)                      7 (2)             
+  Diarrhea≠B-OSE_Labeled_AE                                                      33 (4)                      7 (2)             
+  Nausea≠B-OSE_Labeled_AE                                                        33 (4)                      3 (1)             
+  Pharyngitis≠B-OSE_Labeled_AE                                                   40 (4)                     13 (4)             
+  Constipation≠B-OSE_Labeled_AE                                                  29 (3)                     1 (<1)             
+  Edema≠B-OSE_Labeled_AE                                                         26 (3)                        0               
+  Rash≠B-OSE_Labeled_AE  (Non-Application Site)                                  25 (3)                      5 (2)             
+  Infection≠B-OSE_Labeled_AE                                                     25 (3)                      8 (2)             
+  Ecchymosis≠B-OSE_Labeled_AE                                                    19 (2)                     1 (<1)             
+  Dry≠B-OSE_Labeled_AE   Skin≠I-OSE_Labeled_AE  (Non-Application Site)                              19 (2)                     1 (<1)             
+  Contact≠B-OSE_Labeled_AE   Dermatitis≠I-OSE_Labeled_AE , vesicles  (≠I-OSE_Labeled_AE  Application≠I-OSE_Labeled_AE   Site≠I-OSE_Labeled_AE )              18 (2)                        0               
+  Paresthesia≠B-OSE_Labeled_AE  (Non-Application Site)                           14 (2)                     3 (<1)             
+  Accidental≠B-NonOSE_AE   Injury≠I-NonOSE_AE                                             22 (2)                      7 (2)             
+  Pruritus≠B-OSE_Labeled_AE  (Non-Application Site)                              15 (2)                     2 (<1)             
+  Sinusitis≠B-OSE_Labeled_AE                                                     10 (1)                     2 (<1)             
+  Halitosis≠B-OSE_Labeled_AE                                                     11 (1)                     1 (<1)             
+  Application≠B-OSE_Labeled_AE   Site≠I-OSE_Labeled_AE   Reaction≠I-OSE_Labeled_AE  (not otherwise specified)           11 (1)                     3 (<1)             
+           6.2 Postmarketing Experience
+   In postmarketing surveillance, the following adverse reactions have been reported during post- approval use of PENNSAID 1.5%. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+    Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE :   abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  accidental≠B-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE ,  allergic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE ,  asthenia≠B-OSE_Labeled_AE ,  back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  body≠B-OSE_Labeled_AE   odor≠I-OSE_Labeled_AE ,  chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  edema≠B-OSE_Labeled_AE ,  face≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  halitosis≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  neck≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  pain≠B-OSE_Labeled_AE 
+
+    Cardiovascular≠B-NonOSE_AE :   palpitation≠B-OSE_Labeled_AE ,  cardiovascular≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE 
+
+    Gastrointestinal≠B-NonOSE_AE :   diarrhea≠B-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE ,  gastroenteritis≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  lip≠B-OSE_Labeled_AE   swelling≠I-OSE_Labeled_AE ,  mouth≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  rectal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  ulcerative≠B-OSE_Labeled_AE   stomatitis≠I-OSE_Labeled_AE ,  swollen≠B-OSE_Labeled_AE   tongue≠I-OSE_Labeled_AE 
+
+    Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutritional≠I-NonOSE_AE :   creatinine≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE 
+
+    Musculoskeletal≠B-NonOSE_AE :   leg≠B-OSE_Labeled_AE   cramps≠I-OSE_Labeled_AE ,  myalgia≠B-OSE_Labeled_AE 
+
+    Nervous≠B-NonOSE_AE :   depression≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  drowsiness≠B-OSE_Labeled_AE ,  lethargy≠B-OSE_Labeled_AE ,  paresthesia≠B-OSE_Labeled_AE   at≠I-OSE_Labeled_AE   application≠I-OSE_Labeled_AE   site≠I-OSE_Labeled_AE 
+
+    Respiratory≠B-NonOSE_AE :   asthma≠B-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE ,  laryngismus≠B-OSE_Labeled_AE ,  laryngitis≠B-OSE_Labeled_AE ,  pharyngitis≠B-OSE_Labeled_AE ,  throat≠B-OSE_Labeled_AE   swelling≠I-OSE_Labeled_AE 
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Appendages≠I-NonOSE_AE : At the  Application≠B-OSE_Labeled_AE   Site≠I-OSE_Labeled_AE :   rash≠I-OSE_Labeled_AE , skin burning sensation;
+
+    Other≠B-NonOSE_AE   Skin≠I-NonOSE_AE   and≠I-NonOSE_AE   Appendages≠I-NonOSE_AE   Adverse≠I-NonOSE_AE   Reactions≠I-NonOSE_AE :   eczema≠B-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   discoloration≠I-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE 
+
+    Special≠B-NonOSE_AE   Senses≠I-NonOSE_AE :   abnormal≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE ,  blurred≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE ,  cataract≠B-OSE_Labeled_AE ,  ear≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  eye≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  eye≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  taste≠B-OSE_Labeled_AE   perversion≠I-OSE_Labeled_AE 
+
+    Vascular≠B-NonOSE_AE :   blood≠B-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE 
+

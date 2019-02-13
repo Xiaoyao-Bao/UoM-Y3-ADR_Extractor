@@ -1,0 +1,47 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Bradycardia with amiodarone coadministration: Serious symptomatic bradycardia may occur in patients taking amiodarone, particularly in patients also receiving beta blockers, or those with underlying cardiac comorbidities and/or advanced liver disease. Coadministration of amiodarone with HARVONI is not recommended. In patients without alternative, viable treatment options, cardiac monitoring is recommended. (  5.1  ,  6.2  ,  7.2  ) 
+ *  Use with other drugs containing sofosbuvir, including SOVALDI, is not recommended (  5.3  ) 
+    
+ 
+
+   5.1 Serious Symptomatic Bradycardia When Coadministered with Amiodarone
+
+
+
+   Postmarketing cases of symptomatic bradycardia, as well as fatal cardiac arrest and cases requiring pacemaker intervention, have been reported when amiodarone is coadministered with HARVONI. Bradycardia has generally occurred within hours to days, but cases have been observed up to 2 weeks after initiating HCV treatment. Patients also taking beta blockers, or those with underlying cardiac comorbidities and/or advanced liver disease may be at increased risk for symptomatic bradycardia with coadministration of amiodarone. Bradycardia generally resolved after discontinuation of HCV treatment. The mechanism for this effect is unknown.  
+
+
+
+  Coadministration of amiodarone with HARVONI is not recommended. For patients taking amiodarone who have no other alternative, viable treatment options and who will be coadministered HARVONI:  
+
+
+
+ *   Counsel patients about the risk of serious symptomatic bradycardia  
+ *   Cardiac monitoring in an in-patient setting for the first 48 hours of coadministration is recommended, after which outpatient or self-monitoring of the heart rate should occur on a daily basis through at least the first 2 weeks of treatment.  
+     Patients who are taking HARVONI who need to start amiodarone therapy due to no other alternative, viable treatment options should undergo similar cardiac monitoring as outlined above.  
+ 
+
+  Due to amiodarone's long half-life, patients discontinuing amiodarone just prior to starting HARVONI should also undergo similar cardiac monitoring as outlined above.  
+
+
+
+  Patients who develop signs or symptoms of bradycardia should seek medical evaluation immediately. Symptoms may include near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pains, confusion or memory problems [See  Adverse Reactions (6.2)  ,  Drug Interactions (7.2)  ]  .  
+
+
+
+    5.2 Risk of Reduced Therapeutic Effect Due to P-gp Inducers
+
+
+
+  The concomitant use of HARVONI and P-gp inducers (e.g., rifampin, St. John's wort) may significantly decrease ledipasvir and sofosbuvir plasma concentrations and may lead to a reduced therapeutic effect of HARVONI. Therefore, the use of HARVONI with P-gp inducers (e.g., rifampin or St. John's wort) is not recommended [see  Drug Interactions (7.2)  ]  .
+
+
+
+    5.3 Related Products Not Recommended
+
+
+
+  The use of HARVONI with other products containing sofosbuvir (SOVALDI  (r)  ) is not recommended.

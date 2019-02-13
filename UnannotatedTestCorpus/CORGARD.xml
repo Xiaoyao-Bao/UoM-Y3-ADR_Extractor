@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CORGARD">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Most adverse effects have been mild and transient and have rarely required withdrawal of therapy.
+
+
+
+   Cardiovascular
+
+  Bradycardia with heart rates of less than 60 beats per minute occurs commonly, and heart rates below 40 beats per minute and/or symptomatic bradycardia were seen in about 2 of 100 patients. Symptoms of peripheral vascular insufficiency, usually of the Raynaud type, have occurred in approximately 2 of 100 patients. Cardiac failure, hypotension, and rhythm/conduction disturbances have each occurred in about 1 of 100 patients. Single instances of first degree and third degree heart block have been reported; intensification of AV block is a known effect of beta-blockers (see also    CONTRAINDICATIONS    ,    WARNINGS    , and    PRECAUTIONS    ).
+
+
+
+   Central Nervous System
+
+  Dizziness or fatigue has been reported in approximately 2 of 100 patients; paresthesias, sedation, and change in behavior have each been reported in approximately 6 of 1000 patients.
+
+
+
+   Respiratory
+
+  Bronchospasm has been reported in approximately 1 of 1000 patients (see    CONTRAINDICATIONS    and    WARNINGS    ).
+
+
+
+   Gastrointestinal
+
+  Nausea, diarrhea, abdominal discomfort, constipation, vomiting, indigestion, anorexia, bloating, and flatulence have been reported in 1 to 5 of 1000 patients.
+
+
+
+   Miscellaneous
+
+  Each of the following has been reported in 1 to 5 of 1000 patients: rash; pruritus; headache; dry mouth, eyes, or skin; impotence or decreased libido; facial swelling; weight gain; slurred speech; cough; nasal stuffiness; sweating; tinnitus; blurred vision. Reversible alopecia has been reported infrequently.
+
+
+
+ The following adverse reactions have been reported in patients taking nadolol and/or other beta-adrenergic blocking agents, but no causal relationship to nadolol has been established.
+
+
+
+   Central Nervous System
+
+  Reversible mental depression progressing to catatonia; visual disturbances; hallucinations; an acute reversible syndrome characterized by disorientation for time and place, short-term memory loss, emotional lability with slightly clouded sensorium, and decreased performance on neuropsychometrics.
+
+
+
+   Gastrointestinal
+
+  Mesenteric arterial thrombosis; ischemic colitis; elevated liver enzymes.
+
+
+
+   Hematologic
+
+  Agranulocytosis; thrombocytopenic or nonthrombocytopenic purpura.
+
+
+
+   Allergic
+
+  Fever combined with aching and sore throat; laryngospasm; respiratory distress.
+
+
+
+   Miscellaneous
+
+  Pemphigoid rash; hypertensive reaction in patients with pheochromocytoma; sleep disturbances; Peyronie's disease.
+
+
+
+ The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with nadolol.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   Impaired Renal Function
+
+
+
+  Nadolol should be used with caution in patients with impaired renal function (see   DOSAGE AND ADMINISTRATION    ).
+
+
+
+    Information for Patients
+
+
+
+  Patients, especially those with evidence of coronary artery insufficiency, should be warned against interruption or discontinuation of nadolol therapy without the physician's advice. Although cardiac failure rarely occurs in properly selected patients, patients being treated with beta-adrenergic blocking agents should be advised to consult the physician at the first sign or symptom of impending failure. The patient should also be advised of a proper course in the event of an inadvertently missed dose.
+
+
+
+    Drug Interactions
+
+
+
+  When administered concurrently, the following drugs may interact with beta-adrenergic receptor blocking agents:
+
+
+
+  Anesthetics, general  -exaggeration of the hypotension induced by general anesthetics (see   WARNINGS    ,   Major Surgery)    .
+
+
+
+  Antidiabetic drugs (oral agents and insulin)  -hypoglycemia or hyperglycemia; adjust dosage of antidiabetic drug accordingly (see   WARNINGS    ,   Diabetes and Hypoglycemia    ).
+
+
+
+  Catecholamine-depleting drugs (e.g., reserpine)  -additive effect; monitor closely for evidence of hypotension and/or excessive bradycardia (e.g., vertigo, syncope, postural hypotension).
+
+
+
+  Digitalis glycosides  -Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia.
+
+
+
+  Response to Treatment for Anaphylactic Reaction  -While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  In chronic oral toxicologic studies (one to two years) in mice, rats, and dogs, nadolol did not produce any significant toxic effects. In two-year oral carcinogenic studies in rats and mice, nadolol did not produce any neoplastic, preneoplastic, or non-neoplastic pathologic lesions. In fertility and general reproductive performance studies in rats, nadolol caused no adverse effects.
+
+
+
+    Pregnancy
+
+
+
+    Category C  
+
+
+
+  In animal reproduction studies with nadolol, evidence of embryo- and fetotoxicity was found in rabbits, but not in rats or hamsters, at doses 5 to 10 times greater (on a mg/kg basis) than the maximum indicated human dose. No teratogenic potential was observed in any of these species.
+
+
+
+ There are no adequate and well-controlled studies in pregnant women. Nadolol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Neonates whose mothers are receiving nadolol at parturition have exhibited bradycardia, hypoglycemia, and associated symptoms.
+
+
+
+    Nursing Mothers
+
+
+
+  Nadolol is excreted in human milk. Because of the potential for adverse effects in nursing infants, a decision should be made whether to discontinue nursing or to discontinue therapy taking into account the importance of CORGARD (nadolol) to the mother.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="23" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="14" name="heading" section="S1" start="129" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="174" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="718" />
+    <IgnoredRegion len="22" name="heading" section="S1" start="804" />
+    <IgnoredRegion len="11" name="heading" section="S1" start="1019" />
+    <IgnoredRegion len="16" name="heading" section="S1" start="1158" />
+    <IgnoredRegion len="13" name="heading" section="S1" start="1343" />
+    <IgnoredRegion len="22" name="heading" section="S1" start="1864" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="1913" />
+    <IgnoredRegion len="16" name="heading" section="S1" start="2194" />
+    <IgnoredRegion len="11" name="heading" section="S1" start="2294" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="2364" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2380" />
+    <IgnoredRegion len="8" name="heading" section="S1" start="2381" />
+    <IgnoredRegion len="13" name="heading" section="S1" start="2479" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="3004" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="3286" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

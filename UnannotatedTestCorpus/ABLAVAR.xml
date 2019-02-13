@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ABLAVAR">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+    The following adverse reactions are discussed in greater detail in other sections of the label:  
+
+
+
+ *   Nephrogenic systemic fibrosis [ see Warnings and Precautions   (5.1)   ] 
+ *   Hypersensitivity reactions [ see Warnings and Precautions   (5.2)   ] 
+    Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+ 
+
+   EXCERPT:   The most common (&gt;2%) adverse reactions are pruritis, headache, nausea, vasodilatation, and paresthesia  (6.1  ,  6.2)  
+
+
+
+  
+
+
+
+     To report SUSPECTED ADVERSE REACTIONS, contact Lantheus Medical Imaging, Inc. at 1-978-667-9531/1-800-362-2668 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch    
+
+
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Anaphylaxis and anaphylactoid reactions were the most common serious reactions observed following ABLAVAR injection administration [    see Warnings and Precautions  (5.2)      ].
+
+
+
+ In all clinical trials evaluating ABLAVAR with MRA, a total of 1,676 (1379 patients and 297 healthy subjects) were exposed to various doses ABLAVAR. The mean age of the 1379 patients who received ABLAVAR was 63 years (range 18 to 91 years); 66% (903) were men and 34% (476) were women. In this population, there were 80% (1100) Caucasian, 8% (107) Black, 12% (159) Hispanic, 1% (7) Asian, and &lt; 1% (6) patients of other racial or ethnic groups. Table 2 shows the most common adverse reactions (&gt;=1%) experienced by subjects receiving ABLAVAR at a dose of 0.03 mmol/kg.
+
+
+
+ Table 2 Common Adverse Reactions in 802 Subjects Receiving Ablavar at 0.03 mmol/kg 
+   Preferred Term                                                                         n (%)           
+ Pruritis                                                                                 42 (5)          
+ Headache                                                                                 33 (4)          
+ Nausea                                                                                   33 (4)          
+ Vasodilatation                                                                           26 (3)          
+ Paresthesia                                                                              25 (3)          
+ Injection site bruising                                                                  19 (2)          
+ Dysgeusia                                                                                18 (2)          
+ Burning sensation                                                                        17 (2)          
+ Venipuncture site bruise                                                                 17 (2)          
+ Hypertension                                                                             11 (1)          
+ Dizziness (excluding vertigo)                                                            8 (1)           
+ Feeling cold                                                                             7 (1)           
+        6.2 Post-marketing Experience
+   Because post-marketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The profile of adverse reactions identified during the post-marketing experience outside the United States was similar to that observed during the clinical studies experience.
+</Section>
+    <Section id="S2" name="boxed warnings">
+
+    BOXED WARNING: WARNING: NEPHROGENIC SYSTEMIC FIBROSIS (NSF)
+
+  WARNING: NEPHROGENIC SYSTEMIC FIBROSIS (NSF)
+
+      Gadolinium-based contrast agents (GBCAs) increase the risk for NSF among patients with impaired elimination of the drugs. Avoid use of GBCAs in these patients unless the diagnostic information is essential and not available with non-contrasted MRI or other modalities. NSF may result in fatal or debilitating fibrosis affecting the skin, muscle and internal organs.    
+
+
+
+ *  The risk for NSF appears highest among patients with:chronic, severe kidney disease (GFR &lt; 30 mL/min/1.73m2), oracute kidney injury. 
+ *  Screen patients for acute kidney injury and other conditions that may reduce renal function. For patients at risk for chronically reduced renal function (e.g. age &gt; 60 years, hypertension or diabetes), estimate the glomerular filtration rate (GFR) through laboratory testing. 
+ *  For patients at highest risk for NSF, do not exceed the recommended ABLAVAR dose and allow a sufficient period of time for elimination of the drug from the body prior to re-administration [see Warnings and Precautions (5.1)]. 
+      EXCERPT:       WARNING: NEPHROGENIC SYSTEMIC FIBROSIS (NSF)    
+ 
+
+     See full prescribing information for complete boxed warning.    
+
+
+
+     Gadolinium-based contrast agents (GBCAs) increase the risk for NSF among patients with impaired elimination of the drugs. Avoid use of GBCAs in these patients unless the diagnostic information is essential and not available with non-contrasted MRI or other modalities.    
+
+
+
+ *  The risk for NSF appears highest among patients with:chronic, severe kidney disease (GFR &lt; 30 mL/min/1.73m2), oracute kidney injury. 
+ *  Screen patients for acute kidney injury and other conditions that may reduce renal function. For patients at risk for chronically reduced renal function (e.g. age &gt;60 years, hypertension or diabetes), estimate the glomerular filtration rate (GFR) through laboratory testing (5.1) 
+    
+</Section>
+    <Section id="S3" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Nephrogenic Systemic Fibrosis has occurred in patients with impaired elimination of GBCAs. Higher than recommended dosing or repeated dosing appears to increase the risk  (5.1)  . 
+ *  Hypersensitivity reactions, including anaphylactoid and/or anaphylactic reactions may result from ABLAVAR administration. Assess patients for a history of allergic reactions to gadolinium-based contrast agents and monitor patients closely for need of emergency cardiorespiratory support  (5.2)   
+ *  Gadolinium-based contrast agents, including ABLAVAR may increase the risk for acute renal failure in patients with a history of renal insufficiency  (5.3)  . 
+ *  QTc prolongation has been reported following ABLAVAR administration. Assess patients for a history of underlying conditions that may predispose to arrhythmias due to QTc prolongation  (5.4)  . 
+    
+ 
+
+   5.1 Nephrogenic Systemic Fibrosis (NSF)
+
+
+
+  Gadolinium-based contrast agents (GBCAs) increase the risk for nephrogenic systemic fibrosis (NSF) among patients with impaired elimination of the drugs. Avoid use of GBCAs among these patients unless the diagnostic information is essential and not available with non-contrast enhanced MRI or other modalities. The GBCA-associated NSF risk appears highest for patients with chronic, severe kidney disease (GFR &lt; 30 mL/min/1.73m  2  ) as well as patients with acute kidney injury. The risk appears lower for patients with chronic, moderate kidney disease (GFR 30-59 mL/min/1.73m  2  ) and little, if any, for patients with chronic, mild kidney disease (GFR 60 - 89 mL/min/1.73m  2  ). NSF may result in fatal or debilitating fibrosis affecting the skin, muscle and internal organs. Report any diagnosis of NSF following ABLAVAR administration to Lantheus Medical Imaging, Inc. (1-978-667-9531)/(1-800-362-2668) or FDA (1-800-FDA-1088 or www.fda.gov/medwatch).
+
+
+
+ Screen patients for acute kidney injury and other conditions that may reduce renal function. Features of acute kidney injury consist of rapid (over hours to days) and usually reversible decrease in kidney function, commonly in the setting of surgery, severe infection, injury or drug-induced kidney toxicity. Serum creatinine levels and estimated GFR may not reliably assess renal function in the setting of acute kidney injury. For patients at risk for chronically reduced renal function (e.g., age &gt; 60 years, diabetes mellitus or chronic hypertension), estimate the GFR through laboratory testing.
+
+
+
+ Among the factors that may increase the risk for NSF are repeated or higher than recommended doses of a GBCA and the degree of renal impairment at the time of exposure. Record the specific GBCA and the dose administered to a patient. For patients at highest risk for NSF, do not exceed the recommended ABLAVAR dose and allow a sufficient period of time for elimination of the drug prior to re-administration. For patients receiving hemodialysis, physicians may consider the prompt initiation of hemodialysis following the administration of a GBCA in order to enhance the contrast agent's elimination. The usefulness of hemodialysis in the prevention of NSF is unknown [  see Clinical Pharmacology  (12)  and Dosage and Administration  (2)      ].
+
+
+
+    5.2 Hypersensitivity Reactions
+
+
+
+   ABLAVAR may cause anaphylactoid and/or anaphylactic reactions, including life-threatening or fatal reactions. In clinical trials, anaphylactoid and/or anaphylactic reactions occurred in two of 1676 subjects. If anaphylactic or anaphylactoid reactions occur, stop ABLAVAR Injection and immediately begin appropriate therapy. Observe patients closely, particularly those with a history of drug reactions, asthma, allergy or other hypersensitivity disorders, during and up to several hours after ABLAVAR administration. Have trained personnel and emergency resuscitative equipment available prior to and during ABLAVAR administration. If such a reaction occurs stop ABLAVAR and immediately begin appropriate therapy.  
+
+
+
+    5.3 Acute Renal Failure
+
+
+
+  In patients with renal insufficiency, acute renal failure requiring dialysis or worsening renal function have occurred with the use of other gadolinium agents. The risk of renal failure may increase with increasing dose of gadolinium contrast. Screen all patients for renal dysfunction by obtaining a history and/or laboratory tests. Consider follow-up renal function assessments for patients with a history of renal dysfunction. No reports of acute renal failure were observed in clinical trials of ABLAVAR [  see Clinical Pharmacology  (12.3)      ].
+
+
+
+    5.4 QTc Prolongation and Risk for Arrhythmias
+
+
+
+  In clinical trials, a small increase (2.8 msec) in the average change from baseline in QTc was observed at 45 minutes following ABLAVAR administration; no increase was observed at 24 and 72 hours. A QTc change of 30 to 60 msec from baseline was observed in 39/702 (6%) patients at 45 min following ABLAVAR administration. At this time point, 3/702 (0.4%) patients experienced a QTc increase of &gt; 60 msec. These QTc prolongations were not associated with arrhythmias or symptoms. In patients at high risk for arrhythmias due to QTc prolongation (e.g., concomitant medications, underlying cardiac conditions) consider obtaining baseline electrocardiograms to help assess the risks for ABLAVAR administration. If ABLAVAR is administered to these patients, consider follow-up electrocardiograms and risk reduction measures (e.g., patient counseling or intensive electrocardiography monitoring) until most ABLAVAR has been eliminated from the blood. In patients with normal renal function, most ABLAVAR was eliminated from the blood by 72 hours following injection [  see Clinical Pharmacology  (12.3)      ].
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="863" name="excerpt" section="S3" start="36" />
+    <IgnoredRegion len="44" name="heading" section="S2" start="69" />
+    <IgnoredRegion len="315" name="excerpt" section="S1" start="561" />
+    <IgnoredRegion len="31" name="heading" section="S1" start="880" />
+    <IgnoredRegion len="39" name="heading" section="S3" start="906" />
+    <IgnoredRegion len="849" name="excerpt" section="S2" start="1149" />
+    <IgnoredRegion len="29" name="heading" section="S1" start="3155" />
+    <IgnoredRegion len="30" name="heading" section="S3" start="3273" />
+    <IgnoredRegion len="23" name="heading" section="S3" start="4033" />
+    <IgnoredRegion len="45" name="heading" section="S3" start="4622" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

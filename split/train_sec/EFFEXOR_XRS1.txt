@@ -1,0 +1,230 @@
+  6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the label:
+
+ *   Hypersensitivity≠B-OSE_Labeled_AE  [ see  Contraindications (4.1)   ] 
+ *   Suicidal≠B-OSE_Labeled_AE  Thoughts and  Behaviors≠I-OSE_Labeled_AE  in Children, Adolescents, and Adults [ see  Warnings and Precautions (5.1)   ] 
+ *   Serotonin≠B-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.2)   ] 
+ *   Elevations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Blood≠I-OSE_Labeled_AE   Pressure≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.3)   ] 
+ *   Abnormal≠B-OSE_Labeled_AE   Bleeding≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.4)   ] 
+ *   Angle≠B-OSE_Labeled_AE   Closure≠I-OSE_Labeled_AE   Glaucoma≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.5)   ] 
+ *  Activation of  Mania≠B-OSE_Labeled_AE / Hypomania≠B-OSE_Labeled_AE  [ see  Warnings and Precautions (5.6)   ] 
+ *   Discontinuation≠B-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.7)   ] 
+ *   Seizure≠B-OSE_Labeled_AE  [ see  Warnings and Precautions (5.8)   ] 
+ *   Hyponatremia≠B-OSE_Labeled_AE  [ see  Warnings and Precautions (5.9)   ] 
+ *   Weight≠B-OSE_Labeled_AE  and Height  changes≠I-OSE_Labeled_AE  in Pediatric Patients [ see  Warnings and Precautions (5.10)   ] 
+ *   Appetite≠B-OSE_Labeled_AE   Changes≠I-OSE_Labeled_AE  in Pediatric Patients [ see  Warnings and Precautions (5.11)   ] 
+ *   Interstitial≠B-OSE_Labeled_AE   Lung≠I-OSE_Labeled_AE   Disease≠I-OSE_Labeled_AE  and  Eosinophilic≠B-OSE_Labeled_AE   Pneumonia≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.12)  ]  
+      EXCERPT:   Most common adverse reactions (incidence >= 5% and at least twice the rate of placebo): nausea, somnolence, dry mouth, sweating, abnormal ejaculation, anorexia, constipation, erectile dysfunction, and libido decreased (  6.1  ).
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Wyeth Pharmaceuticals Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+     Most Common Adverse Reactions  
+
+ The most commonly observed adverse reactions in the clinical study database in Effexor XR treated patients in  MDD≠B-Not_AE_Candidate ,  GAD≠B-Not_AE_Candidate ,  SAD≠B-Not_AE_Candidate , and  PD≠B-Not_AE_Candidate  (incidence >= 5% and at least twice the rate of placebo) were:  nausea≠B-OSE_Labeled_AE  (30.0%),  somnolence≠B-OSE_Labeled_AE  (15.3%),  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE  (14.8%),  sweating≠B-OSE_Labeled_AE  (11.4%),  abnormal≠B-OSE_Labeled_AE   ejaculation≠I-OSE_Labeled_AE  (9.9%),  anorexia≠B-OSE_Labeled_AE  (9.8%),  constipation≠B-OSE_Labeled_AE  (9.3%),  impotence≠B-OSE_Labeled_AE  (5.3%) and  decreased≠B-OSE_Labeled_AE   libido≠I-OSE_Labeled_AE  (5.1%).
+
+     Adverse Reactions Reported as Reasons for Discontinuation of Treatment  
+
+ Combined across short-term, placebo-controlled premarketing studies for all indications, 12% of the 3,558 patients who received Effexor XR (37.5-225 mg) discontinued treatment due to an adverse experience, compared with 4% of the 2,197 placebo-treated patients in those studies.
+
+ The most common adverse reactions leading to discontinuation in >= 1% of the Effexor XR treated patients in the short-term studies (up to 12 weeks) across indications are shown in Table 7.
+
+ Table 7: Incidence (%) of Patients Reporting Adverse Reactions Leading to Discontinuation in Placebo-controlled Clinical Studies (up to 12 Weeks Duration) 
+ Body SystemAdverse Reaction       Effexor XRn = 3,558                   Placebon = 2,197                   
+  
+  Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   whole≠I-NonOSE_AE                                                                                             
+    Asthenia≠B-OSE_Labeled_AE                         1.7                                   0.5                                
+    Headache≠B-OSE_Labeled_AE                         1.5                                   0.8                                
+  Digestive≠B-NonOSE_AE   system≠I-NonOSE_AE                                                                                            
+    Nausea≠B-OSE_Labeled_AE                           4.3                                   0.4                                
+  Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE                                                                                              
+    Dizziness≠B-OSE_Labeled_AE                        2.2                                   0.8                                
+    Insomnia≠B-OSE_Labeled_AE                         2.1                                   0.6                                
+    Somnolence≠B-OSE_Labeled_AE                       1.7                                   0.3                                
+  Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   appendages≠I-NonOSE_AE                1.5                                   0.6                                
+    Sweating≠B-OSE_Labeled_AE                         1.0                                   0.2                                
+             Common Adverse Reactions in Placebo-controlled Studies  
+ 
+
+ The number of patients receiving multiple doses of Effexor XR during the premarketing assessment for each approved indication is shown in Table 8. The conditions and duration of exposure to venlafaxine in all development programs varied greatly, and included (in overlapping categories) open and double-blind studies, uncontrolled and controlled studies, inpatient (Effexor only) and outpatient studies, fixed-dose, and titration studies.
+
+ Table 8: Patients Receiving Effexor XR in Premarketing Clinical Studies 
+ Indication                                          Effexor XR                                           
+  
+  MDD≠B-Not_AE_Candidate                                                  705 [note: In addition, in the premarketing assessment of Effexor, multiple doses were administered to 2,897 patients in studies for  MDD≠B-Not_AE_Candidate .]    
+  GAD≠B-Not_AE_Candidate                                                  1,381                                                
+  SAD≠B-Not_AE_Candidate                                                  819                                                  
+  PD≠B-Not_AE_Candidate                                                   1,314                                                
+        The incidences of common adverse reactions (those that occurred in >= 2% of Effexor XR treated patients [357  MDD≠B-Not_AE_Candidate  patients, 1,381  GAD≠B-Not_AE_Candidate  patients, 819  SAD≠B-Not_AE_Candidate  patients, and 1,001  PD≠B-Not_AE_Candidate  patients] and more frequently than placebo) in Effexor XR treated patients in short-term, placebo-controlled, fixed- and flexible-dose clinical studies (doses 37.5 to 225 mg per day) are shown in Table 9.
+ 
+
+ The adverse reaction profile did not differ substantially between the different patient populations.
+
+ Table 9: Common Adverse Reactions: Percentage of Patients Reporting Adverse Reactions (>= 2% and > placebo) in Placebo-controlled Studies (up to 12 Weeks Duration) across All Indications 
+ Body SystemAdverse Reaction                    Effexor XRn = 3,558        Placebon = 2,197                 
+  
+  Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   whole≠I-NonOSE_AE                                                                                             
+    Asthenia≠B-OSE_Labeled_AE                                      12.6                       7.8                              
+  Cardiovascular≠B-NonOSE_AE   system≠I-NonOSE_AE                                                                                       
+    Hypertension≠B-OSE_Labeled_AE                                  3.4                        2.6                              
+    Palpitation≠B-OSE_Labeled_AE                                   2.2                        2.0                              
+    Vasodilatation≠B-OSE_Labeled_AE                                3.7                        1.9                              
+  Digestive≠B-NonOSE_AE   system≠I-NonOSE_AE                                                                                            
+    Anorexia≠B-OSE_Labeled_AE                                      9.8                        2.6                              
+    Constipation≠B-OSE_Labeled_AE                                  9.3                        3.4                              
+    Diarrhea≠B-OSE_Labeled_AE                                      7.7                        7.2                              
+    Dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE                                     14.8                       5.3                              
+    Nausea≠B-OSE_Labeled_AE                                        30.0                       11.8                             
+    Vomiting≠B-OSE_Labeled_AE                                      4.3                        2.7                              
+  Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE                                                                                              
+    Abnormal≠B-OSE_Labeled_AE   dreams≠I-OSE_Labeled_AE                               2.9                        1.4                              
+    Dizziness≠B-OSE_Labeled_AE                                     15.8                       9.5                              
+    Insomnia≠B-OSE_Labeled_AE                                      17.8                       9.5                              
+    Libido≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE                              5.1                        1.6                              
+    Nervousness≠B-OSE_Labeled_AE                                   7.1                        5.0                              
+    Paresthesia≠B-OSE_Labeled_AE                                   2.4                        1.4                              
+    Somnolence≠B-OSE_Labeled_AE                                    15.3                       7.5                              
+    Tremor≠B-OSE_Labeled_AE                                        4.7                        1.6                              
+  Respiratory≠B-NonOSE_AE   system≠I-NonOSE_AE                                                                                          
+    Yawn≠B-OSE_Labeled_AE                                          3.7                        0.2                              
+  Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   appendages≠I-NonOSE_AE                                                                                         
+    Sweating≠B-OSE_Labeled_AE  (including  night≠B-OSE_Labeled_AE   sweats≠I-OSE_Labeled_AE )            11.4                       2.9                              
+  Special≠B-NonOSE_AE   senses≠I-NonOSE_AE                                                                                              
+    Abnormal≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE                               4.2                        1.6                              
+  Urogenital≠B-NonOSE_AE   system≠I-NonOSE_AE                                                                                           
+    Abnormal≠B-OSE_Labeled_AE   ejaculation≠I-OSE_Labeled_AE /orgasm (men) [note: Percentages based on the number of men (Effexor XR, n = 1,440; placebo, n = 923)]   9.9                        0.5                              
+    Anorgasmia≠B-OSE_Labeled_AE  (men)                             3.6                        0.1                              
+    Anorgasmia≠B-OSE_Labeled_AE  (women) [note: Percentages based on the number of women (Effexor XR, n = 2,118; placebo, n = 1,274)]   2.0                        0.2                              
+   Impotence (men)                              5.3                        1.0                              
+             Other Adverse Reactions Observed in Clinical Studies  
+ 
+
+    Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   whole≠I-NonOSE_AE   -  Photosensitivity≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE 
+
+    Cardiovascular≠B-NonOSE_AE   system≠I-NonOSE_AE   -  Postural≠B-OSE_Labeled_AE   hypotension≠I-OSE_Labeled_AE ,  syncope≠B-OSE_Labeled_AE ,  hypotension≠B-OSE_Labeled_AE ,  tachycardia≠B-OSE_Labeled_AE 
+
+    Digestive≠B-NonOSE_AE   system≠I-NonOSE_AE   -  Gastrointestinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  [  see  Warnings and Precautions (5.4)    ],  bruxism≠B-OSE_Labeled_AE 
+
+    Hemic≠B-NonOSE_AE  /≠I-NonOSE_AE  Lymphatic≠I-NonOSE_AE   system≠I-NonOSE_AE   -  Ecchymosis≠B-OSE_Labeled_AE  [  see  Warnings and Precautions (5.4)    ]
+
+    Metabolic≠B-NonOSE_AE  /≠I-NonOSE_AE  Nutritional≠I-NonOSE_AE   -  Hypercholesterolemia≠B-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE  [  see  Warnings and Precautions (5.10)    ],  weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  [  see  Warnings and Precautions (5.10)    ]
+
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   -  Seizures≠B-OSE_Labeled_AE  [  see  Warnings and Precautions (5.8)    ],  manic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE  [  see  Warnings and Precautions (5.6)    ],  agitation≠B-OSE_Labeled_AE ,  confusion≠B-OSE_Labeled_AE ,  akathisia≠B-OSE_Labeled_AE ,  hallucinations≠B-OSE_Labeled_AE ,  hypertonia≠B-OSE_Labeled_AE ,  myoclonus≠B-OSE_Labeled_AE ,  depersonalization≠B-OSE_Labeled_AE ,  apathy≠B-OSE_Labeled_AE 
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   appendages≠I-NonOSE_AE   -  Urticaria≠B-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE ,  alopecia≠B-OSE_Labeled_AE 
+
+    Special≠B-NonOSE_AE   senses≠I-NonOSE_AE   -  Mydriasis≠B-OSE_Labeled_AE ,  abnormality≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   accommodation≠I-OSE_Labeled_AE ,  tinnitus≠B-OSE_Labeled_AE ,  taste≠B-OSE_Labeled_AE   perversion≠I-OSE_Labeled_AE 
+
+    Urogenital≠B-NonOSE_AE   system≠I-NonOSE_AE   -  Urinary≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE ,  urination≠B-OSE_Labeled_AE   impaired≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   incontinence≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   frequency≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  menstrual≠B-OSE_Labeled_AE  disorders associated with  increased≠I-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE  or increased irregular bleeding (e.g.,  menorrhagia≠B-OSE_Labeled_AE ,  metrorrhagia≠B-OSE_Labeled_AE )
+
+   6.2 Vital Sign Changes
+
+  In placebo-controlled premarketing studies, there were  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   mean≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE  (see  Table 10  ). Across most indications, a dose-related  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   mean≠I-OSE_Labeled_AE   supine≠I-OSE_Labeled_AE  systolic and  diastolic≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE  was evident in patients treated with Effexor XRs. Across all clinical studies in  MDD≠B-Not_AE_Candidate ,  GAD≠B-Not_AE_Candidate ,  SAD≠B-Not_AE_Candidate  and  PD≠B-Not_AE_Candidate , 1.4% of patients in the Effexor XR groups experienced an  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   SDBP≠I-OSE_Labeled_AE  of >=15 mm Hg along with a  blood≠B-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  =≠I-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  5≠I-OSE_Labeled_AE   mm≠I-OSE_Labeled_AE  Hg, compared to 0.9% of patients in the placebo groups. Similarly, 1% of patients in the Effexor XR groups experienced an  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   SSBP≠I-OSE_Labeled_AE  of >= 20 mm Hg with a  blood≠B-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  =≠I-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  8≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   mm≠I-OSE_Labeled_AE   Hg≠I-OSE_Labeled_AE , compared to 0.3% of patients in the placebo groups.
+
+ Table 10: Final On-therapy  Mean≠B-OSE_Labeled_AE   Changes≠I-OSE_Labeled_AE   From≠I-OSE_Labeled_AE   Baseline≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Supine≠I-OSE_Labeled_AE   Systolic≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  SSBP≠I-OSE_Labeled_AE ) and Diastolic (SDBP) Blood Pressure (mm Hg) in Placebo-controlled Studies 
+                             Effexor XR     Placebo     
+ Indication                  <= 75 mg per day  > 75 mg per day                             
+   (Duration)                   SSBP         SDBP         SSBP         SDBP           SSBP             SDBP         
+  
+  MDD≠B-Not_AE_Candidate                                                                                                                 
+   (8-12 weeks)                 -0.28        0.37         2.93         3.56           -1.08            -0.10        
+  GAD≠B-Not_AE_Candidate                                                                                                                 
+   (8 weeks)                    -0.28        0.02         2.40         1.68           -1.26            -0.92        
+   (6 months)                   1.27         -0.69        2.06         1.28           -1.29            -0.74        
+  SAD≠B-Not_AE_Candidate                                                                                                                 
+   (12 weeks)                   -0.29        -1.26        1.18         1.34           -1.96            -1.22        
+   (6 months)                   -0.98        -0.49        2.51         1.96           -1.84            -0.65        
+  PD≠B-Not_AE_Candidate                                                                                                                  
+   (10-12 weeks)                -1.15        0.97         -0.36        0.16           -1.29            -0.99        
+             Effexor XR treatment was associated with sustained  hypertension≠B-OSE_Labeled_AE  (defined as treatment-emergent  Supine≠B-NonOSE_AE   Diastolic≠I-NonOSE_AE   Blood≠I-NonOSE_AE   Pressure≠I-NonOSE_AE   [≠I-NonOSE_AE  SDBP≠I-NonOSE_AE  ]≠I-NonOSE_AE   >≠I-NonOSE_AE  =≠I-NonOSE_AE   9≠I-NonOSE_AE  0≠I-NonOSE_AE   mm≠I-NonOSE_AE   Hg≠I-NonOSE_AE  and >= 10 mm Hg above baseline for three consecutive on-therapy visits (see  Table 11  ). An insufficient number of patients received mean doses of Effexor XR over 300 mg per day in clinical studies to fully evaluate the incidence of sustained  increases≠B-NonOSE_AE   in≠I-NonOSE_AE   blood≠I-NonOSE_AE   pressure≠I-NonOSE_AE  at these higher doses.
+ 
+
+ Table 11: Sustained  Elevations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   SDBP≠I-OSE_Labeled_AE  in Effexor XR Premarketing Studies 
+ Indication                        Dose Range (mg per day)               Incidence (%)                      
+  
+  MDD≠B-Not_AE_Candidate                                75-375                                19/705 (3)                         
+  GAD≠B-Not_AE_Candidate                                37.5-225                              5/1011 (0.5)                       
+  SAD≠B-Not_AE_Candidate                                75-225                                5/771 (0.6)                        
+  PD≠B-Not_AE_Candidate                                 75-225                                9/973 (0.9)                        
+         Effexor XR was associated with mean  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   pulse≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  compared with placebo in premarketing placebo-controlled studies (see  Table 12  ) [  see  Warnings and Precautions (5.3  ,  5.4)    ].
+ 
+
+ Table 12: Approximate Mean Final On-therapy  Increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Pulse≠I-OSE_Labeled_AE   Rate≠I-OSE_Labeled_AE  (beats/min) in Effexor XR Premarketing Placebo-controlled Studies (up to 12 Weeks Duration) 
+ Indication  (Duration)            Effexor XR                            Placebo                            
+  
+  MDD≠B-Not_AE_Candidate   (12 weeks)                   2                                     1                                  
+  GAD≠B-Not_AE_Candidate   (8 weeks)                    2                                     < 1                                
+  SAD≠B-Not_AE_Candidate   (12 weeks)                   3                                     1                                  
+  PD≠B-Not_AE_Candidate   (12 weeks)                    1                                     < 1                                
+           6.3 Laboratory Changes
+     Serum Cholesterol  
+
+ Effexor XR was associated with mean final  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE   concentrations≠I-OSE_Labeled_AE  compared with mean final decreases for placebo in premarketing  MDD≠B-Not_AE_Candidate ,  GAD≠B-Not_AE_Candidate ,  SAD≠B-Not_AE_Candidate  and  PD≠B-Not_AE_Candidate  clinical studies (Table 13).
+
+ Table 13:  Mean≠B-OSE_Labeled_AE  Final On-therapy  Changes≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Cholesterol≠I-OSE_Labeled_AE  Concentrations (mg/dL) in Effexor XR Premarketing Studies 
+ Indication  (Duration)            Effexor XR                            Placebo                            
+  
+  MDD≠B-Not_AE_Candidate                                                                                                         
+   (12 weeks)                      +1.5                                  -7.4                               
+  GAD≠B-Not_AE_Candidate                                                                                                         
+   (8 weeks)                       +1.0                                  -4.9                               
+   (6 months)                      +2.3                                  -7.7                               
+  SAD≠B-Not_AE_Candidate                                                                                                         
+   (12 weeks)                      +7.9                                  -2.9                               
+   (6 months)                      +5.6                                  -4.2                               
+  PD≠B-Not_AE_Candidate                                                                                                          
+   (12 weeks)                      5.8                                   -3.7                               
+         Effexor XR (venlafaxine hydrochloride) extended-release capsules treatment for up to 12 weeks in premarketing placebo-controlled trials for  major≠B-Not_AE_Candidate   depressive≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate  was associated with a mean final on-therapy  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE  concentration of approximately 1.5 mg/dL compared with a mean final decrease of 7.4 mg/dL for placebo. Effexor XR treatment for up to 8 weeks and up to 6 months in premarketing placebo-controlled  GAD≠B-Not_AE_Candidate  trials was associated with mean final on-therapy  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE   concentration≠I-OSE_Labeled_AE  of approximately 1.0 mg/dL and 2.3 mg/dL, respectively while placebo subjects experienced mean final decreases of 4.9 mg/dL and 7.7 mg/dL, respectively. Effexor XR treatment for up to 12 weeks and up to 6 months in premarketing placebo-controlled  Social≠B-Not_AE_Candidate   Anxiety≠I-Not_AE_Candidate   Disorder≠I-Not_AE_Candidate  trials was associated with mean final on-therapy  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE   concentration≠I-OSE_Labeled_AE  of approximately 7.9 mg/dL and 5.6 mg/dL, respectively, compared with mean final decreases of 2.9 and 4.2 mg/dL, respectively, for placebo. Effexor XR treatment for up to 12 weeks in premarketing placebo-controlled  panic≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate  trials was associated with mean final on-therapy  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE   concentration≠I-OSE_Labeled_AE  of approximately 5.8 mg/dL compared with a mean final decrease of 3.7 mg/dL for placebo.
+ 
+
+ Patients treated with Effexor (immediate release) for at least 3 months in placebo-controlled 12-month extension trials had a mean final on-therapy  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   total≠I-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE  of 9.1 mg/dL compared with a decrease of 7.1 mg/dL among placebo-treated patients. This increase was duration dependent over the study period and tended to be greater with higher doses. Clinically relevant  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE , defined as 1) a final on-therapy  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE  >=50 mg/dL from baseline and to a value >=261 mg/dL, or 2) an average on-therapy  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE  >=50 mg/dL from baseline and to a value >=261 mg/dL, were recorded in 5.3% of venlafaxine-treated patients and 0.0% of placebo-treated patients.
+
+     Serum Triglycerides  
+
+ Effexor XR was associated with mean final on-therapy  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   fasting≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   triglycerides≠I-OSE_Labeled_AE  compared with placebo in premarketing clinical studies of  SAD≠B-Not_AE_Candidate  and  PD≠B-Not_AE_Candidate  up to 12 weeks (pooled data) and 6 months duration (Table 14).
+
+ Table 14: Mean Final On-therapy  Increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Triglyceride≠I-OSE_Labeled_AE  Concentrations (mg/dL) in Effexor XR Premarketing Studies 
+ Indication  (Duration)            Effexor XR                            Placebo                            
+  
+  SAD≠B-Not_AE_Candidate   (12 weeks)                   8.2                                   0.4                                
+  SAD≠B-Not_AE_Candidate   (6 months)                   11.8                                  1.8                                
+  PD≠B-Not_AE_Candidate   (12 weeks)                    5.9                                   0.9                                
+  PD≠B-Not_AE_Candidate   (6 months)                    9.3                                   0.3                                
+           6.4 Pediatric Patients
+   In general, the adverse reaction profile of venlafaxine (in placebo-controlled clinical studies) in children and adolescents (ages 6 to 17) was similar to that seen for adults. As with adults,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE , and  increased≠B-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE  were observed [  see  Warnings and Precautions (5.3  ,  5.10  ,  5.11)  and  Use in Specific Populations (8.4)    ].
+
+ In pediatric clinical studies, the adverse reaction,  suicidal≠B-OSE_Labeled_AE   ideation≠I-OSE_Labeled_AE , was observed.
+
+ Particularly, the following adverse reactions were observed in pediatric patients:  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  agitation≠B-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE ,  ecchymosis≠B-OSE_Labeled_AE ,  epistaxis≠B-OSE_Labeled_AE , and  myalgia≠B-OSE_Labeled_AE .
+
+   6.5 Adverse Reactions Identified During Postapproval Use
+
+  The following adverse reactions have been identified during postapproval use of Effexor XR. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
+
+    Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   whole≠I-NonOSE_AE   -  Anaphylaxis≠B-OSE_Labeled_AE ,  angioedema≠B-OSE_Labeled_AE 
+
+    Cardiovascular≠B-NonOSE_AE   system≠I-NonOSE_AE   -  QT≠B-OSE_Labeled_AE   prolongation≠I-OSE_Labeled_AE ,  ventricular≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE ,  ventricular≠B-OSE_Labeled_AE   tachycardia≠I-OSE_Labeled_AE  (including  torsade≠B-OSE_Labeled_AE   de≠I-OSE_Labeled_AE   pointes≠I-OSE_Labeled_AE ),  takotsubo≠B-OSE_Labeled_AE   cardiomyopathy≠I-OSE_Labeled_AE 
+
+    Digestive≠B-NonOSE_AE   system≠I-NonOSE_AE   -  Pancreatitis≠B-OSE_Labeled_AE 
+
+    Hemic≠B-NonOSE_AE  /≠I-NonOSE_AE  Lymphatic≠I-NonOSE_AE   system≠I-NonOSE_AE   -  Mucous≠B-OSE_Labeled_AE   membrane≠I-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE  [  see  Warnings and Precautions (5.4 )    ],  blood≠B-OSE_Labeled_AE   dyscrasias≠I-OSE_Labeled_AE  (including  agranulocytosis≠B-OSE_Labeled_AE ,  aplastic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE  and  pancytopenia≠B-OSE_Labeled_AE ),  prolonged≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE   time≠I-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE 
+
+    Metabolic≠B-NonOSE_AE  /≠I-NonOSE_AE  Nutritional≠I-NonOSE_AE   -  Hyponatremia≠B-OSE_Labeled_AE  [  see  Warnings and Precautions (5.9)    ],  Syndrome≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   Inappropriate≠I-OSE_Labeled_AE   Antidiuretic≠I-OSE_Labeled_AE   Hormone≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  SIADH≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   secretion≠I-OSE_Labeled_AE  [  see  Warnings and Precautions (5.9)    ],  abnormal≠B-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   tests≠I-OSE_Labeled_AE ,  hepatitis≠B-OSE_Labeled_AE ,  prolactin≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE 
+
+    Musculoskeletal≠B-NonOSE_AE   -  Rhabdomyolysis≠B-OSE_Labeled_AE 
+
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   -  Neuroleptic≠B-OSE_Labeled_AE   Malignant≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  NMS≠I-OSE_Labeled_AE ) [  see  Warnings and Precautions (5.2)    ],  serotonergic≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  [  see  Warnings and Precautions (5.2)    ],  delirium≠B-OSE_Labeled_AE ,  extrapyramidal≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (including  dystonia≠B-OSE_Labeled_AE  and  dyskinesia≠B-OSE_Labeled_AE ),  impaired≠B-OSE_Labeled_AE  coordination and  balance≠I-OSE_Labeled_AE ,  tardive≠B-OSE_Labeled_AE   dyskinesia≠I-OSE_Labeled_AE 
+
+    Respiratory≠B-NonOSE_AE   system≠I-NonOSE_AE   -  Dyspnea≠B-OSE_Labeled_AE ,  interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   eosinophilia≠I-OSE_Labeled_AE  [  see  Warnings and Precautions (5.12)    ]
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   appendages≠I-NonOSE_AE   -  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE ,  erythema≠B-OSE_Labeled_AE   multiforme≠I-OSE_Labeled_AE 
+
+    Special≠B-NonOSE_AE   senses≠I-NonOSE_AE   -  Angle≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  closure≠I-OSE_Labeled_AE   glaucoma≠I-OSE_Labeled_AE  [  see  Warnings and Precautions (5.5)    ]
+

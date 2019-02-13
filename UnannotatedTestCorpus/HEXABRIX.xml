@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="HEXABRIX">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+</Section>
+    <Section id="S2" name="boxed warnings">
+
+    BOXED WARNING: 
+
+    NOT FOR INTRATHECAL USE  
+</Section>
+    <Section id="S3" name="precautions">    PRECAUTIONS
+</Section>
+    <Section id="S4" name="warnings">    WARNINGS
+
+
+
+   SEVERE ADVERSE EVENTS  - INADVERTENT INTRATHECAL ADMINISTRATION:  Serious adverse reactions have been reported due to the inadvertent intrathecal administration of iodinated contrast media that are not indicated for intrathecal use. These serious adverse reactions include: death, convulsions, cerebral hemorrhage, coma, paralysis, arachnoiditis, acute renal failure, cardiac arrest, seizures, rhabdomyolysis, hyperthermia, and brain edema. Special attention must be given to insure that this drug product is not administered intrathecally.
+
+
+
+ Ionic iodinated contrast media inhibit blood coagulation, in vitro, more than nonionic contrast media. Nonetheless, it is prudent to avoid prolonged contact of blood with syringes containing ionic contrast media.
+
+
+
+ Serious, rarely fatal, thromboembolic events causing myocardial infarction and stroke have been reported during angiographic procedures with both ionic and nonionic contrast media. Therefore, meticulous intravascular administration technique is necessary, particularly during angiographic procedures, to minimize thromboembolic events. Numerous factors, including length of procedure, catheter and syringe material, underlying disease state and concomitant medications may contribute to the development of thromboembolic events. For these reasons, meticulous angiographic techniques are recommended including close attention to guidewire and catheter manipulation, use of manifold systems and/ or three-way stopcocks, frequent catheter flushing with heparinized saline solutions and minimizing the length of the procedure. The use of plastic syringes in place of glass syringes has been reported to decrease but not eliminate the likelihood of in vitro clotting.
+
+
+
+ Serious or fatal reactions have been associated with the administration of iodine containing radiopaque media. It is of utmost importance to be completely prepared to treat any contrast medium reaction.
+
+
+
+ As with any contrast medium, serious neurologic sequelae, including permanent paralysis, can occur following cerebral arteriography, selective spinal arteriography and arteriography of vessels supplying the spinal cord. The injection of a contrast medium should never be made following the administration of vasopressors since they strongly potentiate neurologic effects.
+
+
+
+ In patients with subarachnoid hemorrhage, a rare association between contrast administration and clinical deterioration, including convulsions and death, has been reported. Therefore, administration of intravascular iodinated contrast media in these patients should be undertaken with caution.
+
+
+
+  A definite risk exists in the use of intravascular contrast agents in patients who are known to have multiple myeloma. In such instances anuria has developed resulting in progressive uremia, renal failure and eventually death.  Although neither the contrast agent nor dehydration has separately proved to be the cause of anuria in myeloma, it has been speculated that the combination of both may be causative factors. The risk in myelomatous patients is not a contraindication to the procedure; however, partial dehydration in the preparation of these patients for the examination is not recommended since this may predispose to precipitation of myeloma protein in the renal tubules. No form of therapy, including dialysis, has been successful in reversing the effect. Myeloma, which occurs most commonly in persons over 40, should be considered before instituting intravascular administration of contrast agents.
+
+
+
+  Administration of radiopaque materials to patients known or suspected to have pheochromocytoma should be performed with extreme caution.  If, in the opinion of the physician, the possible benefits of such procedures outweigh the considered risks, the procedures may be performed; however, the amount of radiopaque medium injected should be kept to an absolute minimum. The blood pressure should be assessed throughout the procedure, and measures for treatment of a hypertensive crisis should be available.
+
+
+
+ Since intravascular administration of contrast media may promote sickling in individuals who are homozygous for sickle cell disease, fluid restriction is not advised.
+
+
+
+ In patients with advanced renal disease, iodinated contrast media should be used with caution and only when the need for the examination dictates, since excretion of the medium may be impaired. Patients with combined renal and hepatic disease, those with severe hypertension or congestive heart failure and recent renal transplant recipients present an additional risk.
+
+
+
+ Renal failure has been reported in patients with liver dysfunction who were given an oral cholecystographic agent followed by an intravascular iodinated radiopaque agent and also in patients with occult renal disease, notably diabetics and hypertensives. In these classes of patients there should be no fluid restriction and every attempt made to maintain normal hydration, prior to contrast medium administration, since dehydration is the single most important factor influencing further renal impairment.
+
+
+
+ Caution should be exercised in performing contrast medium studies in patients with endotoxemia and/or those with elevated body temperatures.
+
+
+
+ Reports of thyroid storm occurring following the intravascular use of iodinated radiopaque agents in patients with hyperthyroidism or with an autonomously functioning thyroid nodule, suggest that this additional risk be evaluated in such patients before use of this drug. Iodine containing contrast agents may alter the results of thyroid function tests which depend on iodine estimation, e.g., PBI, and may also affect results of radioactive iodine uptake studies. Such tests, if indicated, should be performed prior to the administration of this preparation.
+
+
+
+  Severe Cutaneous Adverse Reactions:  Severe cutaneous adverse reactions (SCAR) may develop from 1 hour to several weeks after intravascular contrast agent administration. These reactions include Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), acute generalized exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS). Reaction severity may increase and time to onset may decrease with repeat administration of contrast agent; prophylactic medications may not prevent or mitigate severe cutaneous adverse reactions. Avoid administering Hexabrix to patients with a history of severe cutaneous adverse reaction to Hexabrix.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S4" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

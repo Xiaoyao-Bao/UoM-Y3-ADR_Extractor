@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CHOLETEC">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Urticaria and rash have been rarely reported with the use of Technetium Tc 99m Mebrofenin since market introduction. Rare cases of chills and nausea have been reported with related compounds. Infrequently, death has been reported in association with the use of this class of agents.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  Contents of the reaction vial are intended only for use in the preparation of Technetium Tc 99m Mebrofenin and are not to be administered directly to the patient.
+
+
+
+ Delayed or non-visualization of the gallbladder may occur in the immediate post-prandial period or after prolonged fasting or parenteral feeding. Functional biliary obstruction may accompany chronic cholecystitis or pancreatitis. In addition, patients with hepatocellular disease may show non-visualization or delayed visualization of the gallbladder. Delayed intestinal transit may also be noted in such patients. Juvenile hepatitis may be associated with gallbladder non-visualization and the failure to visualize activity in the intestine. Administration of meperidine or morphine may delay intestinal transit of the imaging agent and may result in nonvisualization. Septic patients may show absent or delayed hepatobiliary clearance. Thus, a positive finding does not of itself permit a differential diagnosis of any of the above conditions and should be evaluated in the light of the total clinical picture and results of other diagnostic modalities.
+
+
+
+ The components of the kit are supplied sterile and nonpyrogenic. Aseptic procedures normally employed in making additions and withdrawals from sterile, nonpyrogenic containers should be used during the addition of the pertechnetate solution and the withdrawal of doses for patient administration.
+
+
+
+ The Technetium Tc 99m labeling reactions involved in preparing the agent depend on maintaining the stannous ion in the reduced state. Any oxidant present in the sodium pertechnetate Tc 99m supply may, thus, adversely affect the quality of the radiopharmaceutical. Hence, sodium pertechnetate Tc 99m containing oxidants should not be employed.
+
+
+
+ Radiopharmaceuticals should be used only by physicians who are qualified by training and experience in the safe use and handling of radionuclides.
+
+
+
+ As in the use of any radioactive material, care should be taken to minimize radiation exposure to the patient consistent with proper patient management and to ensure minimum radiation exposure to occupational workers.
+
+
+
+ Tc 99m Mebrofenin should be formulated no more than 18 hours prior to clinical use.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  No long term animal studies have been performed to evaluate carcinogenic potential or whether Technetium Tc 99m Mebrofenin may affect fertility in males or females.
+
+
+
+    Pregnancy
+
+
+
+  Animal reproduction studies have not been conducted with Technetium Tc 99m Mebrofenin. It is also not known whether Technetium Tc 99m Mebrofenin can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity. Technetium Tc 99m Mebrofenin should be given to a pregnant woman only if the expected benefits to be gained clearly outweigh the potential hazards.
+
+
+
+    Nursing Mothers
+
+
+
+  Technetium Tc 99m is excreted in human milk during lactation. Therefore, formula feedings should be substituted for breast feedings.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in children below the age of 18 have not be established.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  The theoretical possibility of allergic reactions should be considered in patients who receive multiple doses.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="2274" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="2504" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="2915" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="3076" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

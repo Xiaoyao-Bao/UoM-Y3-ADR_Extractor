@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="MIRALAX">
+  <Text>
+    <Section id="S1" name="warnings">    Warnings
+
+
+
+   Allergy alert
+
+
+
+  Do not use if you are allergic to polyethylene glycol
+
+
+
+    Do not use  if you have kidney disease, except under the advice and supervision of a doctor
+
+
+
+    Ask a doctor before use if you have
+
+
+
+    *  nausea, vomiting or abdominal pain 
+ *  a sudden change in bowel habits that lasts over 2 weeks 
+ *  irritable bowel syndrome 
+       Ask a doctor of pharmacist before use if you are  taking a prescription drug
+ 
+
+    When using this product  you may have loose, watery, more frequent stools
+
+
+
+    Stop use and ask a doctor if
+
+
+
+    *  you have rectal bleeding or you nausea, bloating or cramping or abdominal pain gets worse. These may be signs of a serious condition. 
+ *  you get diarrhea 
+ *  you need to use a laxative for longer than 1 week 
+       If pregnant or breast-feeding,  ask a health professional before use.
+ 
+
+    Keep out of the reach of children.  In case of overdose, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="8" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="13" name="heading" section="S1" start="19" />
+    <IgnoredRegion len="35" name="heading" section="S1" start="198" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="543" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

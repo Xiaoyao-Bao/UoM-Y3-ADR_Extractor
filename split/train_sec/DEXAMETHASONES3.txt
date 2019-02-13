@@ -1,0 +1,48 @@
+   WARNINGS
+
+   General
+
+  Rare instances of  anaphylactoid≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  have occurred in patients receiving corticosteroid therapy (see   ADVERSE REACTIONS    ).
+
+ Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy subjected to any unusual  stress≠B-Not_AE_Candidate  before, during, and after the  stressful≠B-Not_AE_Candidate  situation.
+
+    Cardio-Renal
+
+  Average and large doses of corticosteroids can cause  elevation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE ,  sodium≠B-OSE_Labeled_AE  and water  retention≠I-OSE_Labeled_AE , and  increased≠B-OSE_Labeled_AE   excretion≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   potassium≠I-OSE_Labeled_AE . These effects are less likely to occur with the synthetic derivatives except when used in large doses. Dietary salt restriction and potassium supplementation may be necessary. All corticosteroids  increase≠B-OSE_Labeled_AE   calcium≠I-OSE_Labeled_AE   excretion≠I-OSE_Labeled_AE .
+
+ Literature reports suggest an apparent association between use of corticosteroids and  left≠B-OSE_Labeled_AE   ventricular≠I-OSE_Labeled_AE   free≠I-OSE_Labeled_AE   wall≠I-OSE_Labeled_AE   rupture≠I-OSE_Labeled_AE  after a recent  myocardial≠B-Not_AE_Candidate   infarction≠I-Not_AE_Candidate ; therefore, therapy with corticosteroids should be used with great caution in these patients.
+
+    Endocrine
+
+  Corticosteroids can produce reversible  hypothalamic≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  pituitary≠I-OSE_Labeled_AE   adrenal≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  HPA≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   axis≠I-OSE_Labeled_AE   suppression≠I-OSE_Labeled_AE  with the potential for  corticosteroid≠B-NonOSE_AE   insufficiency≠I-NonOSE_AE  after withdrawal of treatment.  Adrenocortical≠B-NonOSE_AE   insufficiency≠I-NonOSE_AE  may result from too rapid withdrawal of corticosteroids and may be minimized by gradual reduction of dosage. This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of  stress≠B-Not_AE_Candidate  occurring during that period, hormone therapy should be reinstituted. If the patient is receiving steroids already, dosage may have to be increased.
+
+ Metabolic clearance of corticosteroids is decreased in  hypothyroid≠B-Not_AE_Candidate  patients and increased in  hyperthyroid≠B-Not_AE_Candidate  patients.  Changes≠B-NonOSE_AE   in≠I-NonOSE_AE   thyroid≠I-NonOSE_AE   status≠I-NonOSE_AE  of the patient may necessitate adjustment in dosage.
+
+    Infections
+
+   General  
+
+ Patients who are on corticosteroids are more  susceptible≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  than are healthy individuals. There may be decreased resistance and inability to localize  infection≠B-NonOSE_AE  when corticosteroids are used.  Infection≠B-OSE_Labeled_AE  with any pathogen (viral, bacterial, fungal, protozoan or helminthic) in any location of the body may be associated with the use of corticosteroids alone or in combination with other  immunosuppressive≠B-NonOSE_AE   agents≠I-NonOSE_AE . These  infections≠B-NonOSE_AE  may be mild to severe. With increasing doses of corticosteroids, the rate of occurrence of  infectious≠B-NonOSE_AE   complications≠I-NonOSE_AE   increases≠I-NonOSE_AE . Corticosteroids may also  mask≠B-OSE_Labeled_AE  some signs of current  infection≠I-OSE_Labeled_AE .
+
+   Fungal≠B-NonOSE_AE   Infections≠I-NonOSE_AE   :Corticosteroids may  exacerbate≠B-OSE_Labeled_AE   systemic≠I-OSE_Labeled_AE   fungal≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  and therefore should not be used in the presence of such  infections≠B-NonOSE_AE  unless they are needed to control  life≠B-NonOSE_AE  -≠I-NonOSE_AE  threatening≠I-NonOSE_AE   drug≠I-NonOSE_AE   reactions≠I-NonOSE_AE . There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by  cardiac≠B-NonOSE_AE   enlargement≠I-NonOSE_AE  and  congestive≠B-NonOSE_AE   heart≠I-NonOSE_AE   failure≠I-NonOSE_AE  (see   PRECAUTIONS  :  Drug Interactions  :  Amphotericin B injection and potassium-depleting agents    ).
+
+  Special Pathogens  : Latent disease may be activated or there may be an exacerbation of intercurrent  infections≠B-OSE_Labeled_AE  due to pathogens, including those caused by  Amoeba≠I-OSE_Labeled_AE   , Candida  , Cryptococcus  , Mycobacterium  , Nocardia  , Pneumocystis  , Toxoplasma  .
+
+ It is recommended that  latent≠B-Not_AE_Candidate   amebiasis≠I-Not_AE_Candidate  or  active≠B-Not_AE_Candidate   amebiasis≠I-Not_AE_Candidate  be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics or any patient with unexplained  diarrhea≠B-Not_AE_Candidate .
+
+ Similarly, corticosteroids should be used with great care in patients with known or suspected  Strongyloides≠B-Not_AE_Candidate   (≠I-Not_AE_Candidate  threadworm≠I-Not_AE_Candidate  )≠I-Not_AE_Candidate   infestation≠I-Not_AE_Candidate . In such patients,  corticosteroid≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  induced≠I-OSE_Labeled_AE   immunosuppression≠I-OSE_Labeled_AE  may lead to  Strongyloides≠B-OSE_Labeled_AE   hyperinfection≠I-OSE_Labeled_AE  and dissemination with widespread larval migration, often accompanied by severe  enterocolitis≠B-NonOSE_AE  and potentially  fatal≠B-NonOSE_AE   gram≠B-NonOSE_AE  -≠I-NonOSE_AE  negative≠I-NonOSE_AE   septicemia≠I-NonOSE_AE .
+
+ Corticosteroids should not be used in  cerebral≠B-Not_AE_Candidate   malaria≠I-Not_AE_Candidate .
+
+   Tuberculosis≠B-NonOSE_AE   : The use of corticosteroids in  active≠B-Not_AE_Candidate   tuberculosis≠I-Not_AE_Candidate  should be restricted to those cases of  fulminating≠B-Not_AE_Candidate  or disseminated  tuberculosis≠I-Not_AE_Candidate  in which the corticosteroid is used for the management of the disease in conjunction with an appropriate  antituberculous≠B-NonOSE_AE  regimen.
+
+ If corticosteroids are indicated in patients with  latent≠B-Not_AE_Candidate   tuberculosis≠I-Not_AE_Candidate  or  tuberculin≠B-Not_AE_Candidate   reactivity≠I-Not_AE_Candidate , close observation is necessary as reactivation of the disease may occur. During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
+
+  Vaccination  : Administration of live or live, attenuated vaccines is contraindicated in patients receiving  immunosuppressive≠B-NonOSE_AE  doses of corticosteroids. Killed or inactivated vaccines may be administered. However, the response to such vaccines cannot be predicted.  Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for  Addison≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate .
+
+   Viral≠B-NonOSE_AE   Infections≠I-NonOSE_AE   :  Chickenpox≠B-NonOSE_AE  and  measles≠B-NonOSE_AE  can have a more serious or even  fatal≠B-NonOSE_AE  course in pediatric and adult patients on corticosteroids. In pediatric and adult patients who have not had these diseases, particular care should be taken to avoid exposure. The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known. If exposed to  chickenpox≠B-NonOSE_AE , prophylaxis with  varicella≠B-NonOSE_AE   zoster≠I-NonOSE_AE   immune≠I-NonOSE_AE   globulin≠I-NonOSE_AE   (≠I-NonOSE_AE  VZIG≠I-NonOSE_AE ) may be indicated. If exposed to  measles≠B-NonOSE_AE , prophylaxis with immune globulin (IG) may be indicated. (See the respective package inserts for VZIG and IG for complete prescribing information.) If  chickenpox≠B-NonOSE_AE  develops, treatment with antiviral agents should be considered.
+
+    Ophthalmic
+
+  Use of corticosteroids may produce  posterior≠B-OSE_Labeled_AE   subcapsular≠I-OSE_Labeled_AE   cataracts≠I-OSE_Labeled_AE ,  glaucoma≠B-OSE_Labeled_AE  with possible  damage≠B-NonOSE_AE   to≠I-NonOSE_AE   the≠I-NonOSE_AE   optic≠I-NonOSE_AE   nerves≠I-NonOSE_AE , and may enhance the establishment of secondary  ocular≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  due to bacteria, fungi, or viruses. The use of oral corticosteroids is not recommended in the treatment of  optic≠B-Not_AE_Candidate   neuritis≠I-Not_AE_Candidate  and may lead to an increase in the risk of new episodes. Corticosteroids should not be used in active  ocular≠B-Not_AE_Candidate   herpes≠I-Not_AE_Candidate   simplex≠I-Not_AE_Candidate .
+

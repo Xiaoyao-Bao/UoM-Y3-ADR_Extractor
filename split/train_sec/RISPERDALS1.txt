@@ -1,0 +1,420 @@
+  6 ADVERSE REACTIONS
+
+  The following are discussed in more detail in other sections of the labeling:
+
+ *  Increased mortality in elderly patients with  dementia≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  related≠I-Not_AE_Candidate   psychosis≠I-Not_AE_Candidate  [see    Boxed Warning    and    Warnings and Precautions (5.1)  ]  
+ *   Cerebrovascular≠B-NonOSE_AE   adverse≠I-NonOSE_AE   events≠I-NonOSE_AE , including  stroke≠B-NonOSE_AE , in elderly patients with  dementia≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  related≠I-Not_AE_Candidate   psychosis≠I-Not_AE_Candidate  [see    Warnings and Precautions (5.2)  ]  
+ *   Neuroleptic≠B-OSE_Labeled_AE   malignant≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  [see    Warnings and Precautions (5.3)  ]  
+ *   Tardive≠B-OSE_Labeled_AE   dyskinesia≠I-OSE_Labeled_AE  [see    Warnings and Precautions (5.4)  ]  
+ *   Metabolic≠B-OSE_Labeled_AE   Changes≠I-OSE_Labeled_AE  ( Hyperglycemia≠B-OSE_Labeled_AE  and  diabetes≠B-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE ,  Dyslipidemia≠B-OSE_Labeled_AE , and  Weight≠B-OSE_Labeled_AE   Gain≠I-OSE_Labeled_AE ) [see    Warnings and Precautions (5.5)  ]  
+ *   Hyperprolactinemia≠B-OSE_Labeled_AE  [see    Warnings and Precautions (5.6)  ]  
+ *   Orthostatic≠B-OSE_Labeled_AE   hypotension≠I-OSE_Labeled_AE  [see    Warnings and Precautions (5.7)  ]  
+ *   Falls≠B-NonOSE_AE  [see  Warnings and Precautions (5.8)  ]  
+ *   Leukopenia≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE , and  agranulocytosis≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.9)  ]  
+ *  Potential for  cognitive≠B-OSE_Labeled_AE  and motor  impairment≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.10)  ]  
+ *   Seizures≠B-OSE_Labeled_AE  [see    Warnings and Precautions (5.11)  ]  
+ *   Dysphagia≠B-OSE_Labeled_AE  [see    Warnings and Precautions (5.12)  ]  
+ *   Priapism≠B-OSE_Labeled_AE  [see    Warnings and Precautions (5.13)  ]  
+ *   Disruption≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   body≠I-OSE_Labeled_AE   temperature≠I-OSE_Labeled_AE   regulation≠I-OSE_Labeled_AE  [see    Warnings and Precautions (5.14)  ]  
+ *  Patients with  Phenylketonuria≠B-Not_AE_Candidate  [see    Warnings and Precautions (5.15)  ].  
+    The most common adverse reactions in clinical trials (>5% and twice placebo) were  parkinsonism≠B-OSE_Labeled_AE ,  akathisia≠B-OSE_Labeled_AE ,  dystonia≠B-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  sedation≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  anxiety≠B-OSE_Labeled_AE ,  blurred≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE ,  upper≠B-OSE_Labeled_AE   abdominal≠I-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  stomach≠B-OSE_Labeled_AE   discomfort≠I-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  salivary≠B-OSE_Labeled_AE   hypersecretion≠I-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   weight≠I-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE ,  nasal≠B-OSE_Labeled_AE   congestion≠I-OSE_Labeled_AE ,  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  nasopharyngitis≠B-OSE_Labeled_AE , and  pharyngolaryngeal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE .
+ 
+
+ The most common adverse reactions that were associated with discontinuation from clinical trials (causing discontinuation in >1% of adults and/or >2% of pediatrics) were  nausea≠B-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE ,  sedation≠B-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE , and  akathisia≠B-OSE_Labeled_AE   [see      Adverse Reactions, Discontinuations Due to Adverse Reactions (6.1)  ]  .
+
+ The data described in this section are derived from a clinical trial database consisting of 9803 adult and pediatric patients exposed to one or more doses of RISPERDAL  (r)  for the treatment of  schizophrenia≠B-Not_AE_Candidate ,  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate ,  autistic≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate , and other  psychiatric≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate  in pediatrics and  elderly≠B-Not_AE_Candidate  patients with  dementia≠I-Not_AE_Candidate . Of these 9803 patients, 2687 were patients who received RISPERDAL  (r)  while participating in double-blind, placebo-controlled trials. The conditions and duration of treatment with RISPERDAL  (r)  varied greatly and included (in overlapping categories) double-blind, fixed- and flexible-dose, placebo- or active-controlled studies and open-label phases of studies, inpatients and outpatients, and short-term (up to 12 weeks) and longer-term (up to 3 years) exposures. Safety was assessed by collecting adverse events and performing physical examinations, vital signs, body weights, laboratory analyses, and ECGs.
+
+   EXCERPT:   The most common adverse reactions in clinical trials (>=5% and twice placebo) were parkinsonism, akathisia, dystonia, tremor, sedation, dizziness, anxiety, blurred vision, nausea, vomiting, upper abdominal pain, stomach discomfort, dyspepsia, diarrhea, salivary hypersecretion, constipation, dry mouth, increased appetite, increased weight, fatigue, rash, nasal congestion, upper respiratory tract infection, nasopharyngitis, and pharyngolaryngeal pain. (  6  )
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Janssen Pharmaceuticals, Inc.    at 1-800-JANSSEN (1-800-526-7736) or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch    
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+     Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials - Schizophrenia  
+
+     Adult Patients with Schizophrenia  
+
+ Table 8 lists the adverse reactions reported in 2% or more of RISPERDAL  (r)  -treated adult patients with  schizophrenia≠B-Not_AE_Candidate  in three 4- to 8-week, double-blind, placebo-controlled trials.
+
+ Table 8. Adverse Reactions in >=2% of RISPERDAL(r)-Treated Adult Patients (and greater than placebo) with Schizophrenia in Double-Blind, Placebo-Controlled Trials 
+                                           Percentage of Patients Reporting Reaction   
+                                             RISPERDAL  (r)                             
+ System/Organ Class  Adverse Reaction      2-8 mg per day(N=366)  >8-16 mg per day(N=198)     Placebo(N=225)      
+  
+    Cardiac≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                           
+    Tachycardia≠B-OSE_Labeled_AE                                       1                     3                     0             
+    Eye≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                               
+    Vision≠B-OSE_Labeled_AE   blurred≠I-OSE_Labeled_AE                                    3                     1                     1             
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                  
+    Nausea≠B-OSE_Labeled_AE                                            9                     4                     4             
+    Constipation≠B-OSE_Labeled_AE                                      8                     9                     6             
+    Dyspepsia≠B-OSE_Labeled_AE                                         8                     6                     5             
+    Dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE                                         4                     0                     1             
+    Abdominal≠B-OSE_Labeled_AE   discomfort≠I-OSE_Labeled_AE                              3                     1                     1             
+    Salivary≠B-OSE_Labeled_AE   hypersecretion≠I-OSE_Labeled_AE                           2                     1                     <1            
+    Diarrhea≠B-OSE_Labeled_AE                                          2                     1                     1             
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                           
+    Fatigue≠B-OSE_Labeled_AE                                           3                     1                     0             
+    Chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                        2                     2                     1             
+    Asthenia≠B-OSE_Labeled_AE                                          2                     1                     <1            
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE                                                                                 
+    Nasopharyngitis≠B-OSE_Labeled_AE                                   3                     4                     3             
+    Upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE                 2                     3                     1             
+    Sinusitis≠B-OSE_Labeled_AE                                         1                     2                     1             
+    Urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE                           1                     3                     0             
+    Investigations≠B-NonOSE_AE                                                                                              
+    Blood≠B-OSE_Labeled_AE   creatine≠I-OSE_Labeled_AE   phosphokinase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE            1                     2                     <1            
+    Heart≠B-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE                              <1                    2                     0             
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                        
+    Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                         4                     1                     1             
+    Arthralgia≠B-OSE_Labeled_AE                                        2                     3                     <1            
+    Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE                                 2                     1                     1             
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                    
+  Parkinsonism≠B-OSE_Labeled_AE  [note:  Parkinsonism≠B-OSE_Labeled_AE  includes  extrapyramidal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  musculoskeletal≠B-OSE_Labeled_AE   stiffness≠I-OSE_Labeled_AE ,  parkinsonism≠B-OSE_Labeled_AE ,  cogwheel≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  akinesia≠B-OSE_Labeled_AE ,  bradykinesia≠B-OSE_Labeled_AE ,  hypokinesia≠B-OSE_Labeled_AE ,  masked≠B-OSE_Labeled_AE   facies≠I-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE , and  Parkinson≠B-OSE_Labeled_AE  '≠I-OSE_Labeled_AE  s≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE .  Akathisia≠B-OSE_Labeled_AE  includes  akathisia≠B-OSE_Labeled_AE  and  restlessness≠B-OSE_Labeled_AE .  Dystonia≠B-OSE_Labeled_AE  includes  dystonia≠B-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   contractions≠I-OSE_Labeled_AE   involuntary≠I-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   contracture≠I-OSE_Labeled_AE ,  oculogyration≠B-OSE_Labeled_AE ,  tongue≠B-OSE_Labeled_AE   paralysis≠I-OSE_Labeled_AE .  Tremor≠B-OSE_Labeled_AE  includes  tremor≠B-OSE_Labeled_AE  and  parkinsonian≠B-OSE_Labeled_AE   rest≠I-OSE_Labeled_AE   tremor≠I-OSE_Labeled_AE .]            14                    17                    8             
+    Akathisia≠B-OSE_Labeled_AE                                         10                    10                    3             
+    Sedation≠B-OSE_Labeled_AE                                          10                    5                     2             
+    Dizziness≠B-OSE_Labeled_AE                                         7                     4                     2             
+    Dystonia≠B-OSE_Labeled_AE                                          3                     4                     2             
+    Tremor≠B-OSE_Labeled_AE                                            2                     3                     1             
+    Dizziness≠B-OSE_Labeled_AE   postural≠I-OSE_Labeled_AE                                2                     0                     0             
+    Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                       
+    Insomnia≠B-OSE_Labeled_AE                                          32                    25                    27            
+    Anxiety≠B-OSE_Labeled_AE                                           16                    11                    11            
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                        
+    Nasal≠B-OSE_Labeled_AE   congestion≠I-OSE_Labeled_AE                                  4                     6                     2             
+    Dyspnea≠B-OSE_Labeled_AE                                           1                     2                     0             
+    Epistaxis≠B-OSE_Labeled_AE                                         <1                    2                     0             
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                        
+    Rash≠B-OSE_Labeled_AE                                              1                     4                     1             
+    Dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE                                          1                     3                     0             
+    Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                          
+    Orthostatic≠B-OSE_Labeled_AE   hypotension≠I-OSE_Labeled_AE                           2                     1                     0             
+              Pediatric Patients with Schizophrenia  
+ 
+
+ Table 9 lists the adverse reactions reported in 5% or more of RISPERDAL  (r)  -treated pediatric patients with  schizophrenia≠B-Not_AE_Candidate  in a 6-week double-blind, placebo-controlled trial.
+
+ Table 9. Adverse Reactions in >=5% of RISPERDAL(r)-Treated Pediatric Patients (and greater than placebo) with Schizophrenia in a Double-Blind Trial 
+                                           Percentage of Patients Reporting Reaction   
+                                             RISPERDAL  (r)                             
+ System/Organ Class  Adverse Reaction      1-3 mg per day(N=55)  4-6 mg per day(N=51)     Placebo(N=54)       
+  
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                  
+    Salivary≠B-OSE_Labeled_AE   hypersecretion≠I-OSE_Labeled_AE                           0                     10                    2             
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                    
+    Sedation≠B-OSE_Labeled_AE                                          24                    12                    4             
+  Parkinsonism≠B-OSE_Labeled_AE  [note:  Parkinsonism≠B-OSE_Labeled_AE  includes  extrapyramidal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  musculoskeletal≠B-OSE_Labeled_AE   stiffness≠I-OSE_Labeled_AE , and  hypokinesia≠B-OSE_Labeled_AE .  Akathisia≠B-OSE_Labeled_AE  includes  akathisia≠B-OSE_Labeled_AE  and  restlessness≠B-OSE_Labeled_AE .  Dystonia≠B-OSE_Labeled_AE  includes  dystonia≠B-OSE_Labeled_AE  and  oculogyration≠B-OSE_Labeled_AE .]            16                    28                    11            
+    Tremor≠B-OSE_Labeled_AE                                            11                    10                    6             
+    Akathisia≠B-OSE_Labeled_AE                                         9                     10                    4             
+    Dizziness≠B-OSE_Labeled_AE                                         7                     14                    2             
+    Dystonia≠B-OSE_Labeled_AE                                          2                     6                     0             
+    Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                       
+    Anxiety≠B-OSE_Labeled_AE                                           7                     6                     0             
+              Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials -  Bipolar≠B-Not_AE_Candidate   Mania≠I-Not_AE_Candidate   
+ 
+
+     Adult Patients with Bipolar Mania  
+
+ Table 10 lists the adverse reactions reported in 2% or more of RISPERDAL  (r)  -treated adult patients with  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  in four 3-week, double-blind, placebo-controlled monotherapy trials.
+
+ Table 10. Adverse Reactions in >=2% of RISPERDAL(r)-Treated Adult Patients (and greater than placebo) with Bipolar Mania in Double-Blind, Placebo-Controlled Monotherapy Trials 
+                                                     Percentage of Patients Reporting Reaction   
+ System/Organ Class  Adverse Reaction                RISPERDAL  (r)  1-6 mg per day(N=448)       Placebo(N=424)         
+  
+    Eye≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                             
+    Vision≠B-OSE_Labeled_AE   blurred≠I-OSE_Labeled_AE                                                 2                          1               
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                
+    Nausea≠B-OSE_Labeled_AE                                                         5                          2               
+    Diarrhea≠B-OSE_Labeled_AE                                                       3                          2               
+    Salivary≠B-OSE_Labeled_AE   hypersecretion≠I-OSE_Labeled_AE                                        3                          1               
+    Stomach≠B-OSE_Labeled_AE   discomfort≠I-OSE_Labeled_AE                                             2                         <1               
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                         
+    Fatigue≠B-OSE_Labeled_AE                                                        2                          1               
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                  
+    Parkinsonism≠B-OSE_Labeled_AE  [note:  Parkinsonism≠B-OSE_Labeled_AE  includes  extrapyramidal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  parkinsonism≠B-OSE_Labeled_AE ,  musculoskeletal≠B-OSE_Labeled_AE   stiffness≠I-OSE_Labeled_AE ,  hypokinesia≠B-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   tightness≠I-OSE_Labeled_AE ,  bradykinesia≠B-OSE_Labeled_AE ,  cogwheel≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE .  Akathisia≠B-OSE_Labeled_AE  includes  akathisia≠B-OSE_Labeled_AE  and  restlessness≠B-OSE_Labeled_AE .  Tremor≠B-OSE_Labeled_AE  includes  tremor≠B-OSE_Labeled_AE  and  parkinsonian≠B-OSE_Labeled_AE   rest≠I-OSE_Labeled_AE   tremor≠I-OSE_Labeled_AE .  Dystonia≠B-OSE_Labeled_AE  includes  dystonia≠B-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE ,  oculogyration≠B-OSE_Labeled_AE ,  torticollis≠B-OSE_Labeled_AE .]              25                          9               
+    Sedation≠B-OSE_Labeled_AE                                                      11                          4               
+    Akathisia≠B-OSE_Labeled_AE                                                      9                          3               
+    Tremor≠B-OSE_Labeled_AE                                                         6                          3               
+    Dizziness≠B-OSE_Labeled_AE                                                      6                          5               
+    Dystonia≠B-OSE_Labeled_AE                                                       5                          1               
+    Lethargy≠B-OSE_Labeled_AE                                                       2                          1               
+         Table 11 lists the adverse reactions reported in 2% or more of RISPERDAL  (r)  -treated adult patients with  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  in two 3-week, double-blind, placebo-controlled adjuvant therapy trials.
+ 
+
+ Table 11. Adverse Reactions in >=2% of RISPERDAL(r)-Treated Adult Patients (and greater than placebo) with Bipolar Mania in Double-Blind, Placebo-Controlled Adjunctive Therapy Trials 
+                                           Percentage of Patients Reporting Reaction   
+ System/Organ Class                         RISPERDAL  (r)  + Mood Stabilizer   Placebo + Mood Stabilizer   
+   Adverse Reaction                                      (N=127)                         (N=126)            
+  
+    Cardiac≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                         
+    Palpitations≠B-OSE_Labeled_AE                                              2                               0               
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                
+    Dyspepsia≠B-OSE_Labeled_AE                                                 9                               8               
+    Nausea≠B-OSE_Labeled_AE                                                    6                               4               
+    Diarrhea≠B-OSE_Labeled_AE                                                  6                               4               
+    Salivary≠B-OSE_Labeled_AE   hypersecretion≠I-OSE_Labeled_AE                                   2                               0               
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                         
+    Chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                                2                               1               
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE                                                                               
+    Urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE                                   2                               1               
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                  
+    Parkinsonism≠B-OSE_Labeled_AE  [note:  Parkinsonism≠B-OSE_Labeled_AE  includes  extrapyramidal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  hypokinesia≠B-OSE_Labeled_AE  and  bradykinesia≠B-OSE_Labeled_AE .  Akathisia≠B-OSE_Labeled_AE  includes  hyperkinesia≠B-OSE_Labeled_AE  and  akathisia≠B-OSE_Labeled_AE .]                   14                               4               
+  Sedation≠B-OSE_Labeled_AE                                                    9                               4               
+    Akathisia≠B-OSE_Labeled_AE                                                 8                               0               
+    Dizziness≠B-OSE_Labeled_AE                                                 7                               2               
+    Tremor≠B-OSE_Labeled_AE                                                    6                               2               
+    Lethargy≠B-OSE_Labeled_AE                                                  2                               1               
+    Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                     
+    Anxiety≠B-OSE_Labeled_AE                                                   3                               2               
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                      
+    Pharyngolaryngeal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                    5                               2               
+    Cough≠B-OSE_Labeled_AE                                                     2                               0               
+             Pediatric Patients with  Bipolar≠B-Not_AE_Candidate   Mania≠I-Not_AE_Candidate   
+ 
+
+ Table 12 lists the adverse reactions reported in 5% or more of RISPERDAL  (r)  -treated pediatric patients with  bipolar≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  in a 3-week double-blind, placebo-controlled trial.
+
+ Table 12. Adverse Reactions in >=5% of RISPERDAL(r)-Treated Pediatric Patients (and greater than placebo) with Bipolar Mania in Double-Blind, Placebo-Controlled Trials 
+                                           Percentage of Patients Reporting Reaction   
+                                             RISPERDAL  (r)                             
+ System/Organ Class  Adverse Reaction      0.5-2.5 mg per day(N=50)  3-6 mg per day(N=61)     Placebo(N=58)       
+  
+    Eye≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                               
+    Vision≠B-OSE_Labeled_AE   blurred≠I-OSE_Labeled_AE                                    4                     7                     0             
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                  
+    Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE                              16                    13                    5             
+    Nausea≠B-OSE_Labeled_AE                                            16                    13                    7             
+    Vomiting≠B-OSE_Labeled_AE                                          10                    10                    5             
+    Diarrhea≠B-OSE_Labeled_AE                                          8                     7                     2             
+    Dyspepsia≠B-OSE_Labeled_AE                                         10                    3                     2             
+    Stomach≠B-OSE_Labeled_AE   discomfort≠I-OSE_Labeled_AE                                6                     0                     2             
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                           
+    Fatigue≠B-OSE_Labeled_AE                                           18                    30                    3             
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                          
+    Increased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE                                4                     7                     2             
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                    
+    Sedation≠B-OSE_Labeled_AE                                          42                    56                    19            
+    Dizziness≠B-OSE_Labeled_AE                                         16                    13                    5             
+  Parkinsonism≠B-OSE_Labeled_AE  [note:  Parkinsonism≠B-OSE_Labeled_AE  includes  musculoskeletal≠B-OSE_Labeled_AE   stiffness≠I-OSE_Labeled_AE ,  extrapyramidal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  bradykinesia≠B-OSE_Labeled_AE , and  nuchal≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE .  Dystonia≠B-OSE_Labeled_AE  includes  dystonia≠B-OSE_Labeled_AE ,  laryngospasm≠B-OSE_Labeled_AE , and  muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE .  Akathisia≠B-OSE_Labeled_AE  includes  restlessness≠B-OSE_Labeled_AE  and  akathisia≠B-OSE_Labeled_AE .]            6                     12                    3             
+    Dystonia≠B-OSE_Labeled_AE                                          6                     5                     0             
+    Akathisia≠B-OSE_Labeled_AE                                         0                     8                     2             
+    Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                       
+    Anxiety≠B-OSE_Labeled_AE                                           0                     8                     3             
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                        
+    Pharyngolaryngeal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                            10                    3                     5             
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                        
+    Rash≠B-OSE_Labeled_AE                                              0                     7                     2             
+              Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials - Autistic Disorder  
+ 
+
+ Table 13 lists the adverse reactions reported in 5% or more of RISPERDAL  (r)  -treated pediatric patients treated for  irritability≠B-Not_AE_Candidate   associated≠I-Not_AE_Candidate   with≠I-Not_AE_Candidate   autistic≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate  in two 8-week, double-blind, placebo-controlled trials and one 6-week double-blind, placebo-controlled study.
+
+ Table 13. Adverse Reactions in >=5% of RISPERDAL(r)-Treated Pediatric Patients (and greater than placebo) Treated for Irritability Associated with Autistic Disorder in Double-Blind, Placebo-Controlled Trials 
+                                                          Percentage of Patients Reporting Reaction   
+ System/Organ Class                                       RISPERDAL  (r)  0.5-4.0 mg/day  Placebo                
+   Adverse Reaction                                       (N=107)                    (N=115)                
+  
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                
+    Vomiting≠B-OSE_Labeled_AE                                                20                         17                     
+    Constipation≠B-OSE_Labeled_AE                                            17                         6                      
+    Dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE                                               10                         4                      
+    Nausea≠B-OSE_Labeled_AE                                                  8                          5                      
+    Salivary≠B-OSE_Labeled_AE   hypersecretion≠I-OSE_Labeled_AE                                 7                          1                      
+    General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   Administration≠I-NonOSE_AE   Site≠I-NonOSE_AE   Conditions≠I-NonOSE_AE                                                       
+    Fatigue≠B-OSE_Labeled_AE                                                 31                         9                      
+    Pyrexia≠B-OSE_Labeled_AE                                                 16                         13                     
+    Thirst≠B-OSE_Labeled_AE                                                  7                          4                      
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE                                                                               
+    Nasopharyngitis≠B-OSE_Labeled_AE                                         19                         9                      
+    Rhinitis≠B-OSE_Labeled_AE                                                9                          7                      
+    Upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE                       8                          3                      
+    Investigations≠B-NonOSE_AE                                                                                            
+    Weight≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE                                        8                          2                      
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                        
+    Increased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE                                      44                         15                     
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                  
+    Sedation≠B-OSE_Labeled_AE                                                63                         15                     
+    Drooling≠B-OSE_Labeled_AE                                                12                         4                      
+    Headache≠B-OSE_Labeled_AE                                                12                         10                     
+    Tremor≠B-OSE_Labeled_AE                                                  8                          1                      
+    Dizziness≠B-OSE_Labeled_AE                                               8                          2                      
+    Parkinsonism≠B-OSE_Labeled_AE  [note:  Parkinsonism≠B-OSE_Labeled_AE  includes  musculoskeletal≠B-OSE_Labeled_AE   stiffness≠I-OSE_Labeled_AE ,  extrapyramidal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  cogwheel≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE , and  muscle≠B-OSE_Labeled_AE   tightness≠I-OSE_Labeled_AE .]   8                          1                      
+    Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   Urinary≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                               
+    Enuresis≠B-OSE_Labeled_AE                                                16                         10                     
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                           
+    Cough≠B-OSE_Labeled_AE                                                   17                         12                     
+    Rhinorrhea≠B-OSE_Labeled_AE                                              12                         10                     
+    Nasal≠B-OSE_Labeled_AE   congestion≠I-OSE_Labeled_AE                                        10                         4                      
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                    
+    Rash≠B-OSE_Labeled_AE                                                    8                          5                      
+             Other Adverse Reactions Observed During the Clinical Trial Evaluation of Risperidone  
+ 
+
+ The following additional adverse reactions occurred across all placebo-controlled, active-controlled, and open-label studies of RISPERDAL  (r)  in adults and pediatric patients.
+
+  Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :  anemia≠B-OSE_Labeled_AE ,  granulocytopenia≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE 
+
+  Cardiac≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :  sinus≠B-OSE_Labeled_AE   bradycardia≠I-OSE_Labeled_AE ,  sinus≠B-OSE_Labeled_AE   tachycardia≠I-OSE_Labeled_AE ,  atrioventricular≠B-OSE_Labeled_AE   block≠I-OSE_Labeled_AE   first≠I-OSE_Labeled_AE   degree≠I-OSE_Labeled_AE ,  bundle≠B-OSE_Labeled_AE   branch≠I-OSE_Labeled_AE   block≠I-OSE_Labeled_AE   left≠I-OSE_Labeled_AE ,  bundle≠B-OSE_Labeled_AE   branch≠I-OSE_Labeled_AE   block≠I-OSE_Labeled_AE   right≠I-OSE_Labeled_AE ,  atrioventricular≠B-OSE_Labeled_AE   block≠I-OSE_Labeled_AE 
+
+  Ear≠B-NonOSE_AE   and≠I-NonOSE_AE   Labyrinth≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :  ear≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  tinnitus≠B-OSE_Labeled_AE 
+
+  Endocrine≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :  hyperprolactinemia≠B-OSE_Labeled_AE 
+
+  Eye≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :  ocular≠B-OSE_Labeled_AE   hyperemia≠I-OSE_Labeled_AE ,  eye≠B-OSE_Labeled_AE   discharge≠I-OSE_Labeled_AE ,  conjunctivitis≠B-OSE_Labeled_AE ,  eye≠B-OSE_Labeled_AE   rolling≠I-OSE_Labeled_AE ,  eyelid≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  eye≠B-OSE_Labeled_AE   swelling≠I-OSE_Labeled_AE ,  eyelid≠B-OSE_Labeled_AE   margin≠I-OSE_Labeled_AE   crusting≠I-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   eye≠I-OSE_Labeled_AE ,  lacrimation≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  photophobia≠B-OSE_Labeled_AE ,  glaucoma≠B-OSE_Labeled_AE ,  visual≠B-OSE_Labeled_AE   acuity≠I-OSE_Labeled_AE   reduced≠I-OSE_Labeled_AE 
+
+  Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :  dysphagia≠B-OSE_Labeled_AE ,  fecaloma≠B-OSE_Labeled_AE ,  fecal≠B-OSE_Labeled_AE   incontinence≠I-OSE_Labeled_AE ,  gastritis≠B-OSE_Labeled_AE ,  lip≠B-OSE_Labeled_AE   swelling≠I-OSE_Labeled_AE ,  cheilitis≠B-OSE_Labeled_AE ,  aptyalism≠B-OSE_Labeled_AE 
+
+  General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :  edema≠B-OSE_Labeled_AE   peripheral≠I-OSE_Labeled_AE ,  thirst≠B-OSE_Labeled_AE ,  gait≠B-OSE_Labeled_AE   disturbance≠I-OSE_Labeled_AE ,  influenza≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  like≠I-OSE_Labeled_AE   illness≠I-OSE_Labeled_AE ,  pitting≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  edema≠B-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE ,  sluggishness≠B-OSE_Labeled_AE ,  malaise≠B-OSE_Labeled_AE ,  chest≠B-OSE_Labeled_AE   discomfort≠I-OSE_Labeled_AE ,  face≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  discomfort≠B-OSE_Labeled_AE ,  generalized≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  drug≠B-OSE_Labeled_AE   withdrawal≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   coldness≠I-OSE_Labeled_AE ,  feeling≠B-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE 
+
+  Immune≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :  drug≠B-OSE_Labeled_AE   hypersensitivity≠I-OSE_Labeled_AE 
+
+  Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE :  pneumonia≠B-OSE_Labeled_AE ,  influenza≠B-OSE_Labeled_AE ,  ear≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  viral≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  pharyngitis≠B-OSE_Labeled_AE ,  tonsillitis≠B-OSE_Labeled_AE ,  bronchitis≠B-OSE_Labeled_AE ,  eye≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  localized≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  cystitis≠B-OSE_Labeled_AE ,  cellulitis≠B-OSE_Labeled_AE ,  otitis≠B-OSE_Labeled_AE   media≠I-OSE_Labeled_AE ,  onychomycosis≠B-OSE_Labeled_AE ,  acarodermatitis≠B-OSE_Labeled_AE ,  bronchopneumonia≠B-OSE_Labeled_AE ,  respiratory≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  tracheobronchitis≠B-OSE_Labeled_AE ,  otitis≠B-OSE_Labeled_AE   media≠I-OSE_Labeled_AE   chronic≠I-OSE_Labeled_AE 
+
+  Investigations≠B-NonOSE_AE :  body≠B-OSE_Labeled_AE   temperature≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  blood≠B-OSE_Labeled_AE   prolactin≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  alanine≠B-OSE_Labeled_AE   aminotransferase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  electrocardiogram≠B-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  eosinophil≠B-OSE_Labeled_AE   count≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  white≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  blood≠B-OSE_Labeled_AE   glucose≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  hemoglobin≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  hematocrit≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  body≠B-OSE_Labeled_AE   temperature≠I-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  blood≠B-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  transaminases≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE 
+
+  Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  polydipsia≠B-OSE_Labeled_AE ,  anorexia≠B-OSE_Labeled_AE 
+
+  Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :  joint≠B-OSE_Labeled_AE   stiffness≠I-OSE_Labeled_AE ,  joint≠B-OSE_Labeled_AE   swelling≠I-OSE_Labeled_AE ,  musculoskeletal≠B-OSE_Labeled_AE   chest≠I-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  posture≠B-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  myalgia≠B-OSE_Labeled_AE ,  neck≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  muscular≠B-OSE_Labeled_AE   weakness≠I-OSE_Labeled_AE ,  rhabdomyolysis≠B-OSE_Labeled_AE 
+
+  Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :  balance≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  disturbance≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   attention≠I-OSE_Labeled_AE ,  dysarthria≠B-OSE_Labeled_AE ,  unresponsive≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   stimuli≠I-OSE_Labeled_AE ,  depressed≠B-OSE_Labeled_AE   level≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   consciousness≠I-OSE_Labeled_AE ,  movement≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  transient≠B-OSE_Labeled_AE   ischemic≠I-OSE_Labeled_AE   attack≠I-OSE_Labeled_AE ,  coordination≠B-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE ,  speech≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  syncope≠B-OSE_Labeled_AE ,  loss≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   consciousness≠I-OSE_Labeled_AE ,  hypoesthesia≠B-OSE_Labeled_AE ,  tardive≠B-OSE_Labeled_AE   dyskinesia≠I-OSE_Labeled_AE ,  dyskinesia≠B-OSE_Labeled_AE ,  cerebral≠B-OSE_Labeled_AE   ischemia≠I-OSE_Labeled_AE ,  cerebrovascular≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  neuroleptic≠B-OSE_Labeled_AE   malignant≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  diabetic≠B-OSE_Labeled_AE   coma≠I-OSE_Labeled_AE ,  head≠B-OSE_Labeled_AE   titubation≠I-OSE_Labeled_AE 
+
+  Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :  agitation≠B-OSE_Labeled_AE ,  blunted≠B-OSE_Labeled_AE   affect≠I-OSE_Labeled_AE ,  confusional≠B-OSE_Labeled_AE   state≠I-OSE_Labeled_AE ,  middle≠B-OSE_Labeled_AE   insomnia≠I-OSE_Labeled_AE ,  nervousness≠B-OSE_Labeled_AE ,  sleep≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  listlessness≠B-OSE_Labeled_AE ,  libido≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE , and  anorgasmia≠B-OSE_Labeled_AE 
+
+  Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   Urinary≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :  enuresis≠B-OSE_Labeled_AE ,  dysuria≠B-OSE_Labeled_AE ,  pollakiuria≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   incontinence≠I-OSE_Labeled_AE 
+
+  Reproductive≠B-NonOSE_AE   System≠I-NonOSE_AE   and≠I-NonOSE_AE   Breast≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :  menstruation≠B-OSE_Labeled_AE   irregular≠I-OSE_Labeled_AE ,  amenorrhea≠B-OSE_Labeled_AE ,  gynecomastia≠B-OSE_Labeled_AE ,  galactorrhea≠B-OSE_Labeled_AE ,  vaginal≠B-OSE_Labeled_AE   discharge≠I-OSE_Labeled_AE ,  menstrual≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  erectile≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE ,  retrograde≠B-OSE_Labeled_AE   ejaculation≠I-OSE_Labeled_AE ,  ejaculation≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  sexual≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE ,  breast≠B-OSE_Labeled_AE   enlargement≠I-OSE_Labeled_AE 
+
+  Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   Thoracic≠I-NonOSE_AE  ,≠I-NonOSE_AE   and≠I-NonOSE_AE   Mediastinal≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :  wheezing≠B-OSE_Labeled_AE ,  pneumonia≠B-OSE_Labeled_AE   aspiration≠I-OSE_Labeled_AE ,  sinus≠B-OSE_Labeled_AE   congestion≠I-OSE_Labeled_AE ,  dysphonia≠B-OSE_Labeled_AE ,  productive≠B-OSE_Labeled_AE   cough≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   congestion≠I-OSE_Labeled_AE ,  respiratory≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   congestion≠I-OSE_Labeled_AE ,  rales≠B-OSE_Labeled_AE ,  respiratory≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  hyperventilation≠B-OSE_Labeled_AE ,  nasal≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE 
+
+  Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :  erythema≠B-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   discoloration≠I-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   lesion≠I-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   erythematous≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   papular≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   generalized≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   maculopapular≠I-OSE_Labeled_AE ,  acne≠B-OSE_Labeled_AE ,  hyperkeratosis≠B-OSE_Labeled_AE ,  seborrheic≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE 
+
+  Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :  hypotension≠B-OSE_Labeled_AE ,  flushing≠B-OSE_Labeled_AE 
+
+     Additional Adverse Reactions Reported with RISPERDAL CONSTA  (r)    
+
+ The following is a list of additional adverse reactions that have been reported during the premarketing evaluation of RISPERDAL CONSTA  (r)  , regardless of frequency of occurrence:
+
+  Cardiac≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :  bradycardia≠B-OSE_Labeled_AE 
+
+  Ear≠B-NonOSE_AE   and≠I-NonOSE_AE   Labyrinth≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :  vertigo≠B-OSE_Labeled_AE 
+
+  Eye≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :  blepharospasm≠B-OSE_Labeled_AE 
+
+  Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :  toothache≠B-OSE_Labeled_AE ,  tongue≠B-OSE_Labeled_AE   spasm≠I-OSE_Labeled_AE 
+
+  General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   Administration≠I-NonOSE_AE   Site≠I-NonOSE_AE   Conditions≠I-NonOSE_AE :  pain≠B-OSE_Labeled_AE 
+
+  Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE :  lower≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  infection≠B-OSE_Labeled_AE ,  gastroenteritis≠B-OSE_Labeled_AE ,  subcutaneous≠B-OSE_Labeled_AE   abscess≠I-OSE_Labeled_AE 
+
+  Injury≠B-NonOSE_AE   and≠I-NonOSE_AE   Poisoning≠I-NonOSE_AE :  fall≠B-OSE_Labeled_AE 
+
+  Investigations≠B-NonOSE_AE :  weight≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  gamma≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  glutamyltransferase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  hepatic≠B-OSE_Labeled_AE   enzyme≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE 
+
+  Musculoskeletal≠B-NonOSE_AE  ,≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE  ,≠I-NonOSE_AE   and≠I-NonOSE_AE   Bone≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :  buttock≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE 
+
+  Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :  convulsion≠B-OSE_Labeled_AE ,  paresthesia≠B-OSE_Labeled_AE 
+
+  Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :  depression≠B-OSE_Labeled_AE 
+
+  Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :  eczema≠B-OSE_Labeled_AE 
+
+  Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :  hypertension≠B-OSE_Labeled_AE 
+
+     Discontinuations Due to Adverse Reactions  
+
+      Schizophrenia≠B-Not_AE_Candidate  - Adults  
+
+ Approximately 7% (39/564) of RISPERDAL  (r)  -treated patients in double-blind, placebo-controlled trials discontinued treatment due to an adverse reaction, compared with 4% (10/225) who were receiving placebo. The adverse reactions associated with discontinuation in 2 or more RISPERDAL  (r)  -treated patients were:
+
+ Table 14. Adverse Reactions Associated With Discontinuation in 2 or More RISPERDAL(r)-Treated Adult Patients in Schizophrenia Trials 
+                                RISPERDAL  (r)                                     
+ Adverse Reaction               2-8 mg/day(N=366)         >8-16 mg/day(N=198)          Placebo(N=225)         
+  
+  Dizziness≠B-OSE_Labeled_AE                             1.4%                       1.0%                        0%               
+  Nausea≠B-OSE_Labeled_AE                                1.4%                        0%                         0%               
+  Vomiting≠B-OSE_Labeled_AE                              0.8%                        0%                         0%               
+  Parkinsonism≠B-OSE_Labeled_AE                          0.8%                        0%                         0%               
+  Somnolence≠B-OSE_Labeled_AE                            0.8%                        0%                         0%               
+  Dystonia≠B-OSE_Labeled_AE                              0.5%                        0%                         0%               
+  Agitation≠B-OSE_Labeled_AE                             0.5%                        0%                         0%               
+  Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                        0.5%                        0%                         0%               
+  Orthostatic≠B-OSE_Labeled_AE   hypotension≠I-OSE_Labeled_AE               0.3%                       0.5%                        0%               
+  Akathisia≠B-OSE_Labeled_AE                             0.3%                       2.0%                        0%               
+          Discontinuation for  extrapyramidal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  (including  Parkinsonism≠B-OSE_Labeled_AE ,  akathisia≠B-OSE_Labeled_AE ,  dystonia≠B-OSE_Labeled_AE , and  tardive≠B-OSE_Labeled_AE   dyskinesia≠I-OSE_Labeled_AE ) was 1% in placebo-treated patients, and 3.4% in active control-treated patients in a double-blind, placebo- and active-controlled trial.
+ 
+
+     Schizophrenia - Pediatrics  
+
+ Approximately 7% (7/106), of RISPERDAL  (r)  -treated patients discontinued treatment due to an adverse reaction in a double-blind, placebo-controlled trial, compared with 4% (2/54) placebo-treated patients. The adverse reactions associated with discontinuation for at least one RISPERDAL  (r)  -treated patient were  dizziness≠B-OSE_Labeled_AE  (2%),  somnolence≠B-OSE_Labeled_AE  (1%),  sedation≠B-OSE_Labeled_AE  (1%),  lethargy≠B-OSE_Labeled_AE  (1%),  anxiety≠B-OSE_Labeled_AE  (1%),  balance≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE  (1%),  hypotension≠B-OSE_Labeled_AE  (1%), and  palpitation≠B-OSE_Labeled_AE  (1%).
+
+     Bipolar Mania - Adults  
+
+ In double-blind, placebo-controlled trials with RISPERDAL  (r)  as monotherapy, approximately 6% (25/448) of RISPERDAL  (r)  -treated patients discontinued treatment due to an adverse event, compared with approximately 5% (19/424) of placebo-treated patients. The adverse reactions associated with discontinuation in RISPERDAL  (r)  -treated patients were:
+
+ Table 15. Adverse Reactions Associated With Discontinuation in 2 or More RISPERDAL(r)-Treated Adult Patients in Bipolar Mania Clinical Trials 
+ Adverse Reaction                                    RISPERDAL  (r)  1-6 mg/day(N=448)       Placebo(N=424)         
+  
+  Parkinsonism≠B-OSE_Labeled_AE                                                   0.4%                        0%               
+  Lethargy≠B-OSE_Labeled_AE                                                       0.2%                        0%               
+  Dizziness≠B-OSE_Labeled_AE                                                      0.2%                        0%               
+  Alanine≠B-OSE_Labeled_AE   aminotransferase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE                             0.2%                       0.2%              
+  Aspartate≠B-OSE_Labeled_AE   aminotransferase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE                           0.2%                       0.2%              
+             Bipolar Mania - Pediatrics  
+ 
+
+ In a double-blind, placebo-controlled trial 12% (13/111) of RISPERDAL  (r)  -treated patients discontinued due to an adverse reaction, compared with 7% (4/58) of placebo-treated patients. The adverse reactions associated with discontinuation in more than one RISPERDAL  (r)  -treated pediatric patient were  nausea≠B-OSE_Labeled_AE  (3%),  somnolence≠B-OSE_Labeled_AE  (2%),  sedation≠B-OSE_Labeled_AE  (2%), and  vomiting≠B-OSE_Labeled_AE  (2%).
+
+     Autistic Disorder - Pediatrics  
+
+ In the two 8-week, placebo-controlled trials in pediatric patients treated for  irritability≠B-Not_AE_Candidate   associated≠I-Not_AE_Candidate   with≠I-Not_AE_Candidate   autistic≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate  (n=156), one RISPERDAL  (r)  -treated patient discontinued due to an adverse reaction ( Parkinsonism≠B-OSE_Labeled_AE ), and one placebo-treated patient discontinued due to an adverse event.
+
+     Dose Dependency of Adverse Reactions in Clinical Trials  
+
+     Extrapyramidal Symptoms  
+
+ Data from two fixed-dose trials in adults with  schizophrenia≠B-Not_AE_Candidate  provided evidence of dose-relatedness for  extrapyramidal≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  associated with RISPERDAL  (r)  treatment.
+
+ Two methods were used to measure  extrapyramidal≠B-NonOSE_AE   symptoms≠I-NonOSE_AE   (≠I-NonOSE_AE  EPS≠I-NonOSE_AE ) in an 8-week trial comparing 4 fixed doses of RISPERDAL  (r)  (2, 6, 10, and 16 mg/day), including (1) a  Parkinsonism≠B-NonOSE_AE  score (mean change from baseline) from the  Extrapyramidal≠B-NonOSE_AE   Symptom≠I-NonOSE_AE  Rating Scale, and (2) incidence of spontaneous complaints of  EPS≠B-NonOSE_AE :
+
+ Table 16. 
+ Dose Groups             Placebo       RISPERDAL  (r)  2 mg  RISPERDAL  (r)  6 mg  RISPERDAL  (r)  10 mg  RISPERDAL  (r)  16 mg   
+  
+  Parkinsonism≠B-OSE_Labeled_AE               1.2                0.9                1.8               2.4               2.6          
+  EPS≠B-OSE_Labeled_AE  Incidence             13%                17%                21%               21%               35%          
+            Similar methods were used to measure  extrapyramidal≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  (EPS) in an 8-week trial comparing 5 fixed doses of RISPERDAL  (r)  (1, 4, 8, 12, and 16 mg/day):
+ 
+
+ Table 17. 
+ Dose Groups        RISPERDAL  (r)  1 mg  RISPERDAL  (r)  4 mg  RISPERDAL  (r)  8 mg  RISPERDAL  (r)  12 mg  RISPERDAL  (r)  16 mg   
+  
+  Parkinsonism≠B-OSE_Labeled_AE               0.6                1.7                2.4               2.9               4.1          
+  EPS≠B-OSE_Labeled_AE  Incidence             7%                 12%                17%               18%               20%          
+                Dystonia  
+ 
+
+     Class Effect:  Symptoms of  dystonia≠B-OSE_Labeled_AE ,  prolonged≠B-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE   contractions≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   muscle≠I-OSE_Labeled_AE   groups≠I-OSE_Labeled_AE , may occur in susceptible individuals during the first few days of treatment.  Dystonic≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  include:  spasm≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   neck≠I-NonOSE_AE   muscles≠I-NonOSE_AE , sometimes progressing to  tightness≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   throat≠I-NonOSE_AE ,  swallowing≠B-NonOSE_AE   difficulty≠I-NonOSE_AE ,  difficulty≠B-NonOSE_AE   breathing≠I-NonOSE_AE , and/or  protrusion≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   tongue≠I-NonOSE_AE . While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs. An elevated risk of  acute≠B-NonOSE_AE   dystonia≠I-NonOSE_AE  is observed in males and younger age groups.
+
+     Other Adverse Reactions  
+
+ Adverse event data elicited by a checklist for side effects from a large study comparing 5 fixed doses of RISPERDAL  (r)  (1, 4, 8, 12, and 16 mg/day) were explored for dose-relatedness of adverse events. A Cochran-Armitage Test for trend in these data revealed a positive trend (p<0.05) for the following adverse reactions:  somnolence≠B-OSE_Labeled_AE ,  vision≠B-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  palpitations≠B-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   increase≠I-OSE_Labeled_AE ,  erectile≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE ,  ejaculation≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  sexual≠B-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE , and  skin≠B-OSE_Labeled_AE   discoloration≠I-OSE_Labeled_AE .
+
+      Changes≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Body≠I-OSE_Labeled_AE   Weight≠I-OSE_Labeled_AE   
+
+  Weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE  was observed in short-term, controlled trials and longer-term uncontrolled studies in adult and pediatric patients  [see  Warnings and Precautions (5.5)  ,  Adverse Reactions (6)  , and  Use in Specific Populations (8.4)  ].  
+
+     Changes in ECG Parameters  
+
+ Between-group comparisons for pooled placebo-controlled trials in adults revealed no statistically significant differences between risperidone and placebo in mean  changes≠B-NonOSE_AE   from≠I-NonOSE_AE   baseline≠I-NonOSE_AE   in≠I-NonOSE_AE   ECG≠I-NonOSE_AE   parameters≠I-NonOSE_AE , including QT, QTc, and PR intervals, and heart rate. When all RISPERDAL  (r)  doses were pooled from randomized controlled trials in several indications, there was a mean  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  of 1 beat per minute compared to no change for placebo patients. In short-term  schizophrenia≠B-Not_AE_Candidate  trials, higher doses of risperidone (8-16 mg/day) were associated with a higher mean  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  compared to placebo (4-6 beats per minute). In pooled placebo-controlled  acute≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  trials in adults, there were small  decreases≠B-NonOSE_AE   in≠I-NonOSE_AE   mean≠I-NonOSE_AE   heart≠I-NonOSE_AE   rate≠I-NonOSE_AE , similar among all treatment groups.
+
+ In the two placebo-controlled trials in children and adolescents with  autistic≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate  (aged 5 - 16 years) mean changes in  heart≠B-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  were an  increase≠I-OSE_Labeled_AE  of 8.4 beats per minute in the RISPERDAL  (r)  groups and 6.5 beats per minute in the placebo group. There were no other notable  ECG≠B-NonOSE_AE   changes≠I-NonOSE_AE .
+
+ In a placebo-controlled  acute≠B-Not_AE_Candidate   mania≠I-Not_AE_Candidate  trial in children and adolescents (aged 10 - 17 years), there were no significant  changes≠B-NonOSE_AE   in≠I-NonOSE_AE   ECG≠I-NonOSE_AE   parameters≠I-NonOSE_AE , other than the effect of RISPERDAL  (r)  to transiently  increase≠B-OSE_Labeled_AE   pulse≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  (< 6 beats per minute). In two controlled  schizophrenia≠B-Not_AE_Candidate  trials in adolescents (aged 13 - 17 years), there were no clinically meaningful  changes≠B-NonOSE_AE   in≠I-NonOSE_AE   ECG≠I-NonOSE_AE   parameters≠I-NonOSE_AE  including corrected QT intervals between treatment groups or within treatment groups over time.
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during postapproval use of risperidone. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. These adverse reactions include:  alopecia≠B-OSE_Labeled_AE ,  anaphylactic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  angioedema≠B-OSE_Labeled_AE ,  atrial≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE ,  cardiopulmonary≠B-OSE_Labeled_AE   arrest≠I-OSE_Labeled_AE ,  diabetic≠B-OSE_Labeled_AE   ketoacidosis≠I-OSE_Labeled_AE  in patients with  impaired≠B-Not_AE_Candidate   glucose≠I-Not_AE_Candidate   metabolism≠I-Not_AE_Candidate ,  dysgeusia≠B-OSE_Labeled_AE ,  hypoglycemia≠B-OSE_Labeled_AE ,  hypothermia≠B-OSE_Labeled_AE ,  ileus≠B-OSE_Labeled_AE ,  inappropriate≠B-OSE_Labeled_AE   antidiuretic≠I-OSE_Labeled_AE   hormone≠I-OSE_Labeled_AE   secretion≠I-OSE_Labeled_AE ,  intestinal≠B-OSE_Labeled_AE   obstruction≠I-OSE_Labeled_AE ,  jaundice≠B-OSE_Labeled_AE ,  mania≠B-OSE_Labeled_AE ,  pancreatitis≠B-OSE_Labeled_AE ,  pituitary≠B-OSE_Labeled_AE   adenoma≠I-OSE_Labeled_AE ,  precocious≠B-OSE_Labeled_AE   puberty≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE ,  QT≠B-OSE_Labeled_AE   prolongation≠I-OSE_Labeled_AE ,  sleep≠B-OSE_Labeled_AE   apnea≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  sudden≠B-OSE_Labeled_AE   death≠I-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE ,  thrombotic≠B-OSE_Labeled_AE   thrombocytopenic≠I-OSE_Labeled_AE   purpura≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE , and  water≠B-OSE_Labeled_AE   intoxication≠I-OSE_Labeled_AE .
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="VISIONBLUE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    VisionBlue 0.06% - Adverse Reactions section
+
+  Adverse reactions reported following use of VisionBlue(r) 0.06% include discoloration of high water content hydrogen intraocular lenses (see contraindications) and inadvertent staining of the posterior lens capsule and vitreous face. Staining of the posterior lens capsule or staining of the vitreous face is generally self limited, lasting up to one week.
+
+
+
+   EXCERPT:   Inadvertent staining of the posterior lens capsule and vitreous face.
+
+
+
+ 
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS contact FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+</Section>
+    <Section id="S2" name="warnings and precautions">    VisionBlue 0.06% - Warnings and Precautions section
+
+
+
+  Excessive staining:
+
+
+
+ It is recommended that after injection all excess VisionBlue(r) 0.06% is immediately removed from the eye by thorough irrigation of the anterior chamber.
+
+
+
+   EXCERPT:   Excessive staining: Excess VisionBlue(r) 0.06% should be removed from the eye immediately after staining.
+
+
+
+ 
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="44" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="51" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="122" name="excerpt" section="S2" start="244" />
+    <IgnoredRegion len="191" name="excerpt" section="S1" start="414" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

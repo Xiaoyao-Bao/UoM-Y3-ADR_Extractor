@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="NORITATE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Safety data from 302 patients who used  NORITATE  (n=200) or vehicle control (n=102) once daily in clinical trials and experienced an adverse event considered to be treatment related include: application site reaction (  NORITATE  1, vehicle 1), condition aggravated (  NORITATE  1, vehicle 0), paresthesia (  NORITATE  0, vehicle 1), acne (  NORITATE  1, vehicle 0), dry skin (  NORITATE  0, vehicle 2). The majority of adverse reactions were mild to moderate in severity.
+
+
+
+ Two patients treated with  NORITATE  once daily discontinued treatment because of adverse events: one for a severe flare of comedonal acne and one for rosacea aggravated.
+
+
+
+ Additional clinical adverse effects reported spontaneously since the drug was marketed are uncommon and include tingling or numbness of extremities, allergic reactions, skin and eye irritation, rash, headache, nausea and dry mouth.
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  .
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+    General:  
+
+
+
+  If a reaction suggesting local skin irritation occurs, patients should be directed to discontinue use of the medication. Conjunctivitis associated with topical use of metronidazole on the face has been reported. Contact with the eyes should be avoided. Metronidazole is a nitroimidazole and should be used with care in patients with evidence of, or history of, blood dyscrasia.
+
+
+
+     Information for Patients:  
+
+
+
+  Patients using NORITATE  should receive the following information and instructions:
+
+
+
+ *  1.  This medication is to be used as directed. 
+ *  2.  It is for external use only. 
+ *  3.  Avoid contact with the eyes. 
+ *  4.  Cleanse affected area(s) before applying NORITATE . 
+ *  5.  This medication should not be used for any disorder other than that for which it is prescribed. 
+ *  6.  Patients should report any adverse reaction to their physician. 
+        Drug Interactions:  
+ 
+
+  Oral metronidazole has been reported to potentiate the anticoagulant effect of coumarin and warfarin resulting in a prolongation of prothrombin time. Drug interactions should be kept in mind when NORITATE  is prescribed for patients who are receiving anticoagulant treatment, although they are less likely to occur with topical metronidazole administration because of low absorption. (See   CLINICAL PHARMACOLOGY    ,   Pharmacokinetics  .  )
+
+
+
+     Carcinogenesis, Mutagenesis and Impairment of Fertility:  
+
+
+
+  Metronidazole has shown evidence of carcinogenic activity in a number of studies involving chronic, oral administration in mice and rats but not in studies involving hamsters.
+
+
+
+ In several-long term studies in mice, oral doses of approximately 225 mg/m  2  /day or greater (approximately 37 times the human topical dose on a mg/m  2  basis) were associated with an increase in pulmonary tumors and lymphomas. Several-long term oral studies in the rat have shown statistically significant increases in mammary and hepatic tumors at doses &gt;885 mg/m  2  /day (144 times the topical human dose).
+
+
+
+ Metronidazole has shown evidence of mutagenic activity in several in vitro  bacterial assay systems. In addition, a dose-related increase in the frequency of micronuclei was observed in mice after intraperitoneal injections. An increase in chromosomal aberrations in peripheral blood lymphocytes was reported in patients with Crohn's disease who were treated with 200 to 1200 mg/day of metronidazole for 1 to 24 months. However, in another study, no increase in chromosomal aberrations in circulating lymphocytes was observed in patients with Crohn's disease treated with the drug for 8 months.
+
+
+
+ In one published study, using albino hairless mice, intraperitoneal administration of metronidazole at a dose of 45 mg/m  2  /day (approximately 7 times the human topical dose on a mg/m  2  basis) was associated with an increase in ultraviolet radiation-induced skin carcinogenesis. Neither dermal carcinogenicity nor photocarcinogenicity studies have been performed with NORITATE  or any marketed metronidazole formulations.
+
+
+
+     Pregnancy:  
+
+
+
+    Teratogenic Effects:  
+
+
+
+  There are no adequate and well-controlled studies with the use of NORITATE  in pregnant women. Metronidazole crosses the placental barrier and enters the fetal circulation rapidly. No fetotoxicity was observed after oral administration of metronidazole to rats or mice at 200 and 20 times, respectively, the expected clinical dose. However, oral metronidazole has shown carcinogenic activity in rodents. Because animal reproduction studies are not always predictive of human response, NORITATE  should be used during pregnancy only if clearly needed.
+
+
+
+     Nursing Mothers:  
+
+
+
+  After oral administration, metronidazole is secreted in breast milk in concentrations similar to those found in the plasma. Even though blood levels taken after topical metronidazole application are significantly lower than those achieved after oral metronidazole, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother and the risk to the infant.
+
+
+
+     Pediatric Use:  
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="28" name="heading" section="S2" start="424" />
+    <IgnoredRegion len="21" name="heading" section="S2" start="919" />
+    <IgnoredRegion len="59" name="heading" section="S2" start="1396" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="3091" />
+    <IgnoredRegion len="23" name="heading" section="S2" start="3111" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="3698" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="4169" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

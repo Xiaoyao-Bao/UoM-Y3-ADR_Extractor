@@ -1,0 +1,41 @@
+
+
+    BOXED WARNING: WARNING: HEMORRHAGE, GASTROINTESTINAL PERFORATION, AND IMPAIRED WOUND HEALING
+
+
+
+  WARNING: HEMORRHAGE, GASTROINTESTINAL PERFORATION, AND IMPAIRED WOUND HEALING
+
+
+
+     Hemorrhage≠B-NonOSE_AE : CYRAMZA increased the risk of  hemorrhage≠B-OSE_Labeled_AE  and  gastrointestinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE , including severe and sometimes  fatal≠B-NonOSE_AE   hemorrhagic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE . Permanently discontinue CYRAMZA in patients who experience severe  bleeding≠B-NonOSE_AE  
+
+    [see Dosage and Administration (  2.3  ), Warnings and Precautions (  5.1  )]  .
+
+
+
+
+
+    Gastrointestinal≠B-NonOSE_AE   Perforation≠I-NonOSE_AE : CYRAMZA can increase the risk of  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE , a potentially  fatal≠B-NonOSE_AE  event. Permanently discontinue CYRAMZA in patients who experience a  gastrointestinal≠B-NonOSE_AE   perforation≠I-NonOSE_AE 
+
+    [see Dosage and Administration (  2.3  ), Warnings and Precautions (  5.5  )].  
+
+
+
+    Impaired≠B-NonOSE_AE   Wound≠I-NonOSE_AE   Healing≠I-NonOSE_AE :  Impaired≠B-OSE_Labeled_AE   wound≠I-OSE_Labeled_AE   healing≠I-OSE_Labeled_AE  can occur with antibodies inhibiting the VEGF pathway. Discontinue CYRAMZA therapy in patients with  impaired≠B-NonOSE_AE   wound≠I-NonOSE_AE   healing≠I-NonOSE_AE . Withhold CYRAMZA prior to surgery and discontinue CYRAMZA if a patient develops  wound≠B-NonOSE_AE   healing≠I-NonOSE_AE   complications≠I-NonOSE_AE  
+
+    [see Dosage and Administration (  2.3  ), Warnings and Precautions (  5.6  )].  
+
+
+
+   EXCERPT:     WARNING: HEMORRHAGE, GASTROINTESTINAL PERFORATION, AND IMPAIRED WOUND HEALING  
+
+
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+ *  Hemorrhage: CYRAMZA increased the risk of hemorrhage, and gastrointestinal hemorrhage, including severe and sometimes fatal hemorrhagic events. Permanently discontinue CYRAMZA in patients who experience severe bleeding. (2.3, 5.1) 
+ *  Gastrointestinal Perforation: Permanently discontinue CYRAMZA in patients who experience a gastrointestinal perforation. (2.3, 5.5) 
+ *  Impaired Wound Healing: Withhold CYRAMZA prior to surgery and discontinue CYRAMZA if a patient develops wound healing complications (2.3, 5.6) 

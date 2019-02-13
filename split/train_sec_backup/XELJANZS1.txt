@@ -1,0 +1,267 @@
+    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most commonly reported adverse reactions during the first 3 months in controlled clinical trials (occurring in greater than or equal to 2% of patients treated with XELJANZ monotherapy or in combination with DMARDs) were upper respiratory tract infections, headache, diarrhea and nasopharyngitis. (  6.1  )  To report SUSPECTED ADVERSE REACTIONS, contact Pfizer, Inc at 1-800-438-1985 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.
+
+
+
+ Although other doses have been studied, the recommended dose of XELJANZ is 5 mg twice daily.
+
+
+
+ The following data includes two Phase 2 and five Phase 3 double-blind, controlled, multicenter trials. In these trials, patients were randomized to doses of XELJANZ 5 mg twice daily (292 patients) and 10 mg twice daily (306 patients) monotherapy, XELJANZ 5 mg twice daily (1044 patients) and 10 mg twice daily (1043 patients) in combination with DMARDs (including methotrexate) and placebo (809 patients). All seven protocols included provisions for patients taking placebo to receive treatment with XELJANZ at Month 3 or Month 6 either by patient response (based on uncontrolled disease activity) or by design, so that adverse events cannot always be unambiguously attributed to a given treatment. Therefore some analyses that follow include patients who changed treatment by design or by patient response from placebo to XELJANZ in both the placebo and XELJANZ group of a given interval. Comparisons between placebo and XELJANZ were based on the first 3 months of exposure, and comparisons between XELJANZ 5 mg twice daily and XELJANZ 10 mg twice daily were based on the first 12 months of exposure.
+
+
+
+ The long-term safety population includes all patients who participated in a double-blind, controlled trial (including earlier development phase studies) and then participated in one of two long-term safety studies. The design of the long-term safety studies allowed for modification of XELJANZ doses according to clinical judgment. This limits the interpretation of the long-term safety data with respect to dose.
+
+
+
+ The most common serious adverse reactions were serious infections  [see  Warnings and Precautions (5.1)  ]  .
+
+
+
+ The proportion of patients who discontinued treatment due to any adverse reaction during the 0 to 3 months exposure in the double-blind, placebo-controlled trials was 4% for patients taking XELJANZ and 3% for placebo-treated patients.
+
+
+
+     Overall Infections  
+
+
+
+ In the seven controlled trials, during the 0 to 3 months exposure, the overall frequency of infections was 20% and 22% in the 5 mg twice daily and 10 mg twice daily groups, respectively, and 18% in the placebo group.
+
+
+
+ The most commonly reported infections with XELJANZ were upper respiratory tract infections, nasopharyngitis, and urinary tract infections (4%, 3%, and 2% of patients, respectively).
+
+
+
+     Serious Infections  
+
+
+
+ In the seven controlled trials, during the 0 to 3 months exposure, serious infections were reported in 1 patient (0.5 events per 100 patient-years) who received placebo and 11 patients (1.7 events per 100 patient-years) who received XELJANZ 5 mg or 10 mg twice daily. The rate difference between treatment groups (and the corresponding 95% confidence interval) was 1.1 (-0.4, 2.5) events per 100 patient-years for the combined 5 mg twice daily and 10 mg twice daily XELJANZ group minus placebo.
+
+
+
+ In the seven controlled trials, during the 0 to 12 months exposure, serious infections were reported in 34 patients (2.7 events per 100 patient-years) who received 5 mg twice daily of XELJANZ and 33 patients (2.7 events per 100 patient-years) who received 10 mg twice daily of XELJANZ. The rate difference between XELJANZ doses (and the corresponding 95% confidence interval) was -0.1 (-1.3, 1.2) events per 100 patient-years for 10 mg twice daily XELJANZ minus 5 mg twice daily XELJANZ.
+
+
+
+ The most common serious infections included pneumonia, cellulitis, herpes zoster, and urinary tract infection  [see  Warnings and Precautions (5.1)  ]  .
+
+
+
+     Tuberculosis  
+
+
+
+ In the seven controlled trials, during the 0 to 3 months exposure, tuberculosis was not reported in patients who received placebo, 5 mg twice daily of XELJANZ, or 10 mg twice daily of XELJANZ.
+
+
+
+ In the seven controlled trials, during the 0 to 12 months exposure, tuberculosis was reported in 0 patients who received 5 mg twice daily of XELJANZ and 6 patients (0.5 events per 100 patient-years) who received 10 mg twice daily of XELJANZ. The rate difference between XELJANZ doses (and the corresponding 95% confidence interval) was 0.5 (0.1, 0.9) events per 100 patient-years for 10 mg twice daily XELJANZ minus 5 mg twice daily XELJANZ.
+
+
+
+ Cases of disseminated tuberculosis were also reported. The median XELJANZ exposure prior to diagnosis of tuberculosis was 10 months (range from 152 to 960 days) [  see  Warnings and Precautions (5.1)  ].  
+
+
+
+     Opportunistic Infections (excluding tuberculosis)  
+
+
+
+ In the seven controlled trials, during the 0 to 3 months exposure, opportunistic infections were not reported in patients who received placebo, 5 mg twice daily of XELJANZ, or 10 mg twice daily of XELJANZ.
+
+
+
+ In the seven controlled trials, during the 0 to 12 months exposure, opportunistic infections were reported in 4 patients (0.3 events per 100 patient-years) who received 5 mg twice daily of XELJANZ and 4 patients (0.3 events per 100 patient-years) who received 10 mg twice daily of XELJANZ. The rate difference between XELJANZ doses (and the corresponding 95% confidence interval) was 0 (-0.5, 0.5) events per 100 patient-years for 10 mg twice daily XELJANZ minus 5 mg twice daily XELJANZ.
+
+
+
+ The median XELJANZ exposure prior to diagnosis of an opportunistic infection was 8 months (range from 41 to 698 days)  [see  Warnings and Precautions (5.1)  ].  
+
+
+
+     Malignancy  
+
+
+
+ In the seven controlled trials, during the 0 to 3 months exposure, malignancies excluding NMSC were reported in 0 patients who received placebo and 2 patients (0.3 events per 100 patient-years) who received either XELJANZ 5 mg or 10 mg twice daily. The rate difference between treatment groups (and the corresponding 95% confidence interval) was 0.3 (-0.1, 0.7) events per 100 patient-years for the combined 5 mg and 10 mg twice daily XELJANZ group minus placebo.
+
+
+
+ In the seven controlled trials, during the 0 to 12 months exposure, malignancies excluding NMSC were reported in 5 patients (0.4 events per 100 patient-years) who received 5 mg twice daily of XELJANZ and 7 patients (0.6 events per 100 patient-years) who received 10 mg twice daily of XELJANZ. The rate difference between XELJANZ doses (and the corresponding 95% confidence interval) was 0.2 (-0.4, 0.7) events per 100 patient-years for 10 mg twice daily XELJANZ minus 5 mg twice daily XELJANZ. One of these malignancies was a case of lymphoma that occurred during the 0 to 12 month period in a patient treated with XELJANZ 10 mg twice daily.
+
+
+
+ The most common types of malignancy, including malignancies observed during the long-term extension, were lung and breast cancer, followed by gastric, colorectal, renal cell, prostate cancer, lymphoma, and malignant melanoma  [see  Warnings and Precautions (5.2)  ].  
+
+
+
+     Laboratory Abnormalities  
+
+
+
+     Lymphopenia  
+
+
+
+ In the controlled clinical trials, confirmed decreases in absolute lymphocyte counts below 500 cells/mm  3  occurred in 0.04% of patients for the 5 mg twice daily and 10 mg twice daily XELJANZ groups combined during the first 3 months of exposure.
+
+
+
+ Confirmed lymphocyte counts less than 500 cells/mm  3  were associated with an increased incidence of treated and serious infections  [see  Warnings and Precautions (5.4)  ].  
+
+
+
+     Neutropenia  
+
+
+
+ In the controlled clinical trials, confirmed decreases in ANC below 1000 cells/mm  3  occurred in 0.07% of patients for the 5 mg twice daily and 10 mg twice daily XELJANZ groups combined during the first 3 months of exposure.
+
+
+
+ There were no confirmed decreases in ANC below 500 cells/mm  3  observed in any treatment group.
+
+
+
+ There was no clear relationship between neutropenia and the occurrence of serious infections.
+
+
+
+ In the long-term safety population, the pattern and incidence of confirmed decreases in ANC remained consistent with what was seen in the controlled clinical trials  [see  Warnings and Precautions (5.4)  ].  
+
+
+
+     Liver Enzyme Elevations  
+
+
+
+ Confirmed increases in liver enzymes greater than 3 times the upper limit of normal (3* ULN) were observed in patients treated with XELJANZ. In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of XELJANZ, or reduction in XELJANZ dose, resulted in decrease or normalization of liver enzymes.
+
+
+
+ In the controlled monotherapy trials (0-3 months), no differences in the incidence of ALT or AST elevations were observed between the placebo, and XELJANZ 5 mg, and 10 mg twice daily groups.
+
+
+
+ In the controlled background DMARD trials (0-3 months), ALT elevations greater than 3* ULN were observed in 1.0%, 1.3% and 1.2% of patients receiving placebo, 5 mg, and 10 mg twice daily, respectively. In these trials, AST elevations greater than 3* ULN were observed in 0.6%, 0.5% and 0.4% of patients receiving placebo, 5 mg, and 10 mg twice daily, respectively.
+
+
+
+ One case of drug-induced liver injury was reported in a patient treated with XELJANZ 10 mg twice daily for approximately 2.5 months. The patient developed symptomatic elevations of AST and ALT greater than 3* ULN and bilirubin elevations greater than 2* ULN, which required hospitalizations and a liver biopsy.
+
+
+
+     Lipid Elevations  
+
+
+
+ In the controlled clinical trials, dose-related elevations in lipid parameters (total cholesterol, LDL cholesterol, HDL cholesterol, triglycerides) were observed at one month of exposure and remained stable thereafter. Changes in lipid parameters during the first 3 months of exposure in the controlled clinical trials are summarized below:
+
+
+
+ *  Mean LDL cholesterol increased by 15% in the XELJANZ 5 mg twice daily arm and 19% in the XELJANZ 10 mg twice daily arm. 
+ *  Mean HDL cholesterol increased by 10% in the XELJANZ 5 mg twice daily arm and 12% in the XELJANZ 10 mg twice daily arm. 
+ *  Mean LDL/HDL ratios were essentially unchanged in XELJANZ-treated patients. 
+    In a controlled clinical trial, elevations in LDL cholesterol and ApoB decreased to pretreatment levels in response to statin therapy.
+ 
+
+ In the long-term safety population, elevations in lipid parameters remained consistent with what was seen in the controlled clinical trials.
+
+
+
+     Serum Creatinine Elevations  
+
+
+
+ In the controlled clinical trials, dose-related elevations in serum creatinine were observed with XELJANZ treatment. The mean increase in serum creatinine was <0.1 mg/dL in the 12-month pooled safety analysis; however with increasing duration of exposure in the long-term extensions, up to 2% of patients were discontinued from XELJANZ treatment due to the protocol-specified discontinuation criterion of an increase in creatinine by more than 50% of baseline. The clinical significance of the observed serum creatinine elevations is unknown.
+
+
+
+     Other Adverse Reactions  
+
+
+
+ Adverse reactions occurring in 2% or more of patients on 5 mg twice daily or 10 mg twice daily XELJANZ and at least 1% greater than that observed in patients on placebo with or without DMARD are summarized in Table 4.
+
+
+
+ Table 4: Adverse Reactions Occurring in at Least 2% or More of Patients on 5 or 10 mg Twice Daily XELJANZ With or Without DMARD (0-3 months) and at Least 1% Greater Than That Observed in Patients on Placebo 
+                                 XELJANZ5 mg Twice Daily  XELJANZ10 mg Twice Daily             Placebo               
+ Preferred Term                      N = 1336(%)           N = 1349(%)                 N = 809(%)             
+  
+ N reflects randomized and treated patients from the seven clinical trials   
+  
+ Diarrhea                                4.0                   2.9                        2.3                 
+ Nasopharyngitis                         3.8                   2.8                        2.8                 
+ Upper respiratory tract infection          4.5                   3.8                        3.3                 
+ Headache                                4.3                   3.4                        2.1                 
+ Hypertension                            1.6                   2.3                        1.1                 
+          Other adverse reactions occurring in controlled and open-label extension studies included:
+ 
+
+   Blood and lymphatic system disorders:  Anemia
+
+
+
+   Infections and infestations:  Diverticulitis
+
+
+
+   Metabolism and nutrition disorders:  Dehydration
+
+
+
+   Psychiatric disorders:  Insomnia
+
+
+
+   Nervous system disorders:  Paresthesia
+
+
+
+   Respiratory, thoracic and mediastinal disorders:  Dyspnea, cough, sinus congestion
+
+
+
+   Gastrointestinal disorders:  Abdominal pain, dyspepsia, vomiting, gastritis, nausea
+
+
+
+   Hepatobiliary disorders:  Hepatic steatosis
+
+
+
+   Skin and subcutaneous tissue disorders:  Rash, erythema, pruritus
+
+
+
+   Musculoskeletal, connective tissue and bone disorders:  Musculoskeletal pain, arthralgia, tendonitis, joint swelling
+
+
+
+   Neoplasms benign, malignant and unspecified (including cysts and polyps):  Non-melanoma skin cancers
+
+
+
+   General disorders and administration site conditions:  Pyrexia, fatigue, peripheral edema
+
+
+
+     Clinical Experience in Methotrexate-Naive Patients  
+
+
+
+ Study VI was an active-controlled clinical trial in methotrexate-naive patients [see  Clinical Studies (14)  ]. The safety experience in these patients was consistent with Studies I-V.

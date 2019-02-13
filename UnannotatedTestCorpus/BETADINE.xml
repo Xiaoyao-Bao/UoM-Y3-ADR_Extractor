@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="BETADINE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Local sensitivity has been exhibited by some individuals to povidone-iodine ophthalmic solution.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  No studies are available in patients with thyroid disorders; therefore, caution is advised in using BETADINE* 5% Sterile Ophthalmic Prep Solution in these patients due to the possibility of iodine absorption.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  No long term studies in animals have been performed to evaluate the carcinogenic or mutagenic potential of povidone-iodine. One report of the mutagenic potential of povidone-iodine indicated that it was positive in a modification of the Ames S. typhimurium  model, but these results could not be reproduced by another researcher. Another test using mouse lymphoma and Balb/3T3 cells showed that povidone-iodine has no significant mutagenic or transformation capabilities. Other data indicated that it does not produce mutagenic effects in mice or hamsters according to the dominant lethal test, micronucleus test, and chromosome analysis.
+
+
+
+    Pregnancy
+
+
+
+  Animal reproduction studies have not been conducted with BETADINE* 5% Sterile Ophthalmic Prep Solution. It is also not known whether BETADINE* 5% Sterile Ophthalmic Prep Solution can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity. BETADINE* 5% Sterile Ophthalmic Prep Solution should only be used on a pregnant woman if clearly needed.
+
+
+
+    Nursing Mothers
+
+
+
+  Because of the potential for serious adverse reactions in nursing infants from BETADINE* 5% Sterile Ophthalmic Prep Solution, a decision should be made to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  FOR EXTERNAL USE ONLY. NOT FOR INTRAOCULAR INJECTION OR IRRIGATION.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="251" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="955" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1357" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

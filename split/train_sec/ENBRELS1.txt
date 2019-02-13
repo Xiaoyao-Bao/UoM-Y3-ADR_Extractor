@@ -1,0 +1,141 @@
+    6         ADVERSE REACTIONS  
+
+  The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
+
+ *  Serious  Infections≠B-OSE_Labeled_AE  [see Boxed Warning and  Warnings and Precautions (    5.1    )]  
+ *   Neurologic≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [  see  Warnings and Precautions (    5.2    )]  
+ *   Malignancies≠B-OSE_Labeled_AE  [  see  Boxed Warning and Warnings and Precautions (    5.3    ) ] 
+ *  Patients with  Heart≠B-Not_AE_Candidate   Failure≠I-Not_AE_Candidate  [see  Warnings and Precautions (    5.4    )]  
+ *   Hematologic≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [see  Warnings and Precautions (    5.5    )]  
+ *   Hepatitis≠B-OSE_Labeled_AE   B≠I-OSE_Labeled_AE   Reactivation≠I-OSE_Labeled_AE  [see  Warnings and Precautions (    5.6    )]  
+ *   Allergic≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [see  Warnings and Precautions (    5.7    )]  
+ *   Autoimmunity≠B-OSE_Labeled_AE  [see  Warnings and Precautions (    5.9    )]  
+ *   Immunosuppression≠B-OSE_Labeled_AE  [see  Warnings and Precautions (    5.10    )]  
+      EXCERPT:   Most common adverse reactions (incidence > 5%):     infections and injection site reactions. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Amgen Inc. at 1-800-77-AMGEN (1-800-772-6436) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+ 
+
+  6.1       Clinical Trials Experience 
+
+  Across clinical studies and postmarketing experience, the most serious adverse reactions with Enbrel were  infections≠B-OSE_Labeled_AE ,  neurologic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE ,  CHF≠B-OSE_Labeled_AE , and  hematologic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE   [see Warnings and Precautions (      5      )]  . The most common adverse reactions with Enbrel were  infections≠B-OSE_Labeled_AE  and  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE .
+
+ Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not predict the rates observed in clinical practice.
+
+   Adverse Reactions in Adult Patients    w    ith R    heumatoid    A    rthritis    , Psoriatic Arthritis, Ankylosing Spondylitis, or Plaque Psoriasis  
+
+ The data described below reflect exposure to Enbrel in 2219 adult patients with  RA≠B-Not_AE_Candidate  followed for up to 80 months, in 182 patients with  PsA≠B-Not_AE_Candidate  for up to 24 months, in 138 patients with  AS≠B-Not_AE_Candidate  for up to 6 months, and in 1204 adult patients with  PsO≠B-Not_AE_Candidate  for up to 18 months.
+
+ In controlled trials, the proportion of Enbrel-treated patients who discontinued treatment due to adverse events was approximately 4% in the indications studied.
+
+   Adverse Reactions in Pediatric Patients  
+
+ In general, the adverse reactions in pediatric patients were similar in frequency and type as those seen in adult patients  [see    Warnings and Precautions (      5      ),    Use in Specific Populations (      8.4      ), and Clinical Studies (      14.2      and      14.6      )    ]  .
+
+ In a 48-week clinical study in 211 children aged 4 to 17 years with pediatric  PsO≠B-Not_AE_Candidate , the adverse reactions reported were similar to those seen in previous studies in adults with  PsO≠B-Not_AE_Candidate .  Long-term safety profile for up to 264 additional weeks was assessed in an open-label extension study and no new safety signals were identified.
+
+ In open-label clinical studies of children with  JIA≠B-Not_AE_Candidate , adverse reactions reported in those ages 2 to 4 years were similar to adverse reactions reported in older children.
+
+   Infections       
+
+  Infections≠B-OSE_Labeled_AE , including  viral≠B-OSE_Labeled_AE , bacterial, and fungal  infections≠I-OSE_Labeled_AE , have been observed in adult and pediatric patients.   Infections≠B-OSE_Labeled_AE  have been noted in all body systems and have been reported in patients receiving Enbrel alone or in combination with other  immunosuppressive≠B-NonOSE_AE   agents≠I-NonOSE_AE .
+
+ In controlled portions of trials, the types and severity of  infection≠B-OSE_Labeled_AE  were similar between Enbrel and the respective control group (placebo or MTX for  RA≠B-Not_AE_Candidate  and  PsA≠B-Not_AE_Candidate  patients) in  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate ,  AS≠B-Not_AE_Candidate  and  PsO≠B-Not_AE_Candidate  patients. Rates of  infections≠B-NonOSE_AE  in  RA≠B-Not_AE_Candidate  and adult  PsO≠B-Not_AE_Candidate  patients are provided in Table 3 and Table 4, respectively.   Infections≠B-OSE_Labeled_AE  consisted primarily of  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  sinusitis≠B-OSE_Labeled_AE  and  influenza≠B-OSE_Labeled_AE .
+
+ In controlled portions of trials in  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate ,  AS≠B-Not_AE_Candidate  and  PsO≠B-Not_AE_Candidate , the rates of serious  infection≠B-OSE_Labeled_AE  were similar (0.8% in placebo, 3.6% in MTX, and 1.4% in Enbrel/Enbrel + MTX-treated groups).  In clinical trials in rheumatologic indications, serious  infections≠B-OSE_Labeled_AE  experienced by patients have included, but are not limited to,  pneumonia≠B-OSE_Labeled_AE ,  cellulitis≠B-OSE_Labeled_AE ,  septic≠B-OSE_Labeled_AE   arthritis≠I-OSE_Labeled_AE ,  bronchitis≠B-OSE_Labeled_AE ,  gastroenteritis≠B-OSE_Labeled_AE ,  pyelonephritis≠B-OSE_Labeled_AE ,  sepsis≠B-OSE_Labeled_AE ,  abscess≠B-OSE_Labeled_AE  and  osteomyelitis≠B-OSE_Labeled_AE . In clinical trials in adult  PsO≠B-Not_AE_Candidate  patients, serious  infections≠B-OSE_Labeled_AE  experienced by patients have included, but are not limited to,  pneumonia≠B-OSE_Labeled_AE ,  cellulitis≠B-OSE_Labeled_AE ,  gastroenteritis≠B-OSE_Labeled_AE ,  abscess≠B-OSE_Labeled_AE  and  osteomyelitis≠B-OSE_Labeled_AE . The rate of serious  infections≠B-NonOSE_AE  was not increased in open-label extension trials and was similar to that observed in Enbrel- and placebo-treated patients from controlled trials.  
+
+ In 66 global clinical trials of 17,505 patients (21,015 patient-years of therapy),  tuberculosis≠B-OSE_Labeled_AE  was observed in approximately 0.02% of patients. In 17,696 patients (27,169 patient-years of therapy) from 38 clinical trials and 4 cohort studies in the U.S. and Canada,  tuberculosis≠B-OSE_Labeled_AE  was observed in approximately 0.006% of patients. These studies include reports of  pulmonary≠B-OSE_Labeled_AE  and extrapulmonary  tuberculosis≠I-OSE_Labeled_AE   [    see    Warnings and Precautions    (      5.1      )    ]  . 
+
+ The types of  infections≠B-OSE_Labeled_AE  reported in pediatric patients with  PsO≠B-Not_AE_Candidate  and  JIA≠B-Not_AE_Candidate  were generally mild and consistent with those commonly seen in the general pediatric population. Two  JIA≠B-Not_AE_Candidate  patients developed  varicella≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  and signs and symptoms of  aseptic≠B-OSE_Labeled_AE   meningitis≠I-OSE_Labeled_AE , which resolved without sequelae.
+
+   Injection Site Reactions  
+
+ In placebo-controlled trials in rheumatologic indications, approximately 37% of patients treated with Enbrel developed  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE . In controlled trials in patients with  PsO≠B-Not_AE_Candidate , 15% of adult patients and 7% of pediatric patients treated with Enbrel developed  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  during the first 3 months of treatment.  All  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  were described as mild to moderate (erythema, itching, pain, swelling, bleeding, bruising) and generally did not necessitate drug discontinuation.  Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  generally occurred in the first month and subsequently decreased in frequency. The mean duration of  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  was 3 to 5 days. Seven percent of patients experienced  redness≠B-OSE_Labeled_AE   at≠I-OSE_Labeled_AE   a≠I-OSE_Labeled_AE   previous≠I-OSE_Labeled_AE   injection≠I-OSE_Labeled_AE   site≠I-OSE_Labeled_AE  when subsequent injections were given.
+
+   Other Adverse Reactions  
+
+ Table 3 summarizes adverse reactions reported in adult  RA≠B-Not_AE_Candidate  patients. The types of adverse reactions seen in patients with  PsA≠B-Not_AE_Candidate  or  AS≠B-Not_AE_Candidate  were similar to the types of adverse reactions seen in patients with  RA≠B-Not_AE_Candidate .
+
+
+   Table 3    .    Percent of Adult RA Patients Experiencing Adverse Reactions in Controlled Clinical Trials     
+                    Placebo         Controlled      a      (Studies I, II, and a Phase 2    S    tudy)      Active Controlled      b      (Study III)     
+                    Placebo  (N = 152)    E    nbrel      c    (N = 349)    MTX  (N = 217)    E    nbrel      c    (N = 415)   
+        Reaction      Percent of Patients      Percent of Patients     
+                                                                                       
+   Infection≠B-OSE_Labeled_AE   d  (total)  39               50               86               81                
+   Upper≠B-OSE_Labeled_AE   Respiratory≠I-OSE_Labeled_AE   Infections≠I-OSE_Labeled_AE   e    30               38               70               65                
+   Non≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  upper≠I-OSE_Labeled_AE   Respiratory≠I-OSE_Labeled_AE   Infections≠I-OSE_Labeled_AE   15               21               59               54                
+   Injection≠B-OSE_Labeled_AE   Site≠I-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE   11               37               18               43                
+   Diarrhea≠B-OSE_Labeled_AE         9                8                16               16                
+   Rash≠B-OSE_Labeled_AE             2                3                19               13                
+   Pruritus≠B-OSE_Labeled_AE         1                2                5                5                 
+   Pyrexia≠B-OSE_Labeled_AE          -                3                4                2                 
+   Urticaria≠B-OSE_Labeled_AE        1                -                4                2                 
+   Hypersensitivity≠B-OSE_Labeled_AE   -                -                1                1                 
+                                                                                       
+   a    Includes data from the 6-month study in which patients received concurrent MTX therapy in both arms.  b    Study duration of 2 years.  c    Any dose.  d    Includes  bacterial≠B-OSE_Labeled_AE , viral and fungal  infections≠I-OSE_Labeled_AE .    e    Most frequent  Upper≠B-OSE_Labeled_AE   Respiratory≠I-OSE_Labeled_AE   Infections≠I-OSE_Labeled_AE  were  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  sinusitis≠B-OSE_Labeled_AE  and  influenza≠B-OSE_Labeled_AE .   
+           In placebo-controlled adult  PsO≠B-Not_AE_Candidate  trials, the percentages of patients reporting adverse reactions in the 50 mg twice a week dose group were similar to those observed in the 25 mg twice a week dose group or placebo group.
+ 
+
+ Table 4 summarizes adverse reactions reported in adult  PsO≠B-Not_AE_Candidate  patients from Studies I and II.
+
+
+   Table 4    .    Percent of Adult PsO Patients Experiencing Adverse Reactions    in Placebo-Controlled Portions of Clinical Trials    (Studies I & II)     
+                                              Placebo  (N = 359)    Enbrel      a    (N = 876)   
+   Reaction         Percent of Patients     
+                                                     
+  Infection≠B-NonOSE_AE   b       (total)  28               27                
+  Non≠B-NonOSE_AE  -≠I-NonOSE_AE  upper≠I-NonOSE_AE   Respiratory≠I-NonOSE_AE   Infections≠I-NonOSE_AE   14               12                
+  Upper≠B-NonOSE_AE   Respiratory≠I-NonOSE_AE   Infections≠I-NonOSE_AE   c    17               17                
+  Injection≠B-OSE_Labeled_AE   Site≠I-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE   6                15                
+  Diarrhea≠B-OSE_Labeled_AE          2                3                 
+  Rash≠B-NonOSE_AE              1                1                 
+  Pruritus≠B-NonOSE_AE          2                1                 
+  Urticaria≠B-OSE_Labeled_AE         -                1                 
+  Hypersensitivity≠B-OSE_Labeled_AE   -                1                 
+  Pyrexia≠B-NonOSE_AE           1                -                 
+                                                     
+   a    Includes 25 mg subcutaneous (SC) once weekly (QW), 25 mg SC twice weekly (BIW), 50 mg SC QW, and 50 mg SC BIW doses.  b    Includes  bacterial≠B-NonOSE_AE , viral and fungal  infections≠I-NonOSE_AE .  c    Most frequent  Upper≠B-NonOSE_AE   Respiratory≠I-NonOSE_AE   Infections≠I-NonOSE_AE  were  upper≠B-NonOSE_AE   respiratory≠I-NonOSE_AE   tract≠I-NonOSE_AE   infection≠I-NonOSE_AE ,  nasopharyngitis≠B-NonOSE_AE  and  sinusitis≠B-NonOSE_AE .   
+           6.2       Immunogenicity
+   As with all therapeutic proteins, there is potential for  immunogenicity≠B-OSE_Labeled_AE . The detection of  antibody≠B-NonOSE_AE   formation≠I-NonOSE_AE  is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of  antibody≠B-NonOSE_AE   (≠I-NonOSE_AE  including≠I-NonOSE_AE   neutralizing≠I-NonOSE_AE   antibody≠I-NonOSE_AE  )≠I-NonOSE_AE   positivity≠I-NonOSE_AE  in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   etanercept≠I-NonOSE_AE  in the studies described below with the incidence of  antibodies≠B-NonOSE_AE  in other studies or  to≠I-NonOSE_AE   other≠I-NonOSE_AE   products≠I-NonOSE_AE  may be misleading.
+
+   Immunogenicity  
+
+ Patients with  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate ,  AS≠B-Not_AE_Candidate  or  PsO≠B-Not_AE_Candidate  were tested at multiple time points for  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   etanercept≠I-NonOSE_AE .  Antibodies≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   TNF≠I-OSE_Labeled_AE   receptor≠I-OSE_Labeled_AE   portion≠I-OSE_Labeled_AE   or≠I-OSE_Labeled_AE   other≠I-OSE_Labeled_AE   protein≠I-OSE_Labeled_AE   components≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   Enbrel≠I-OSE_Labeled_AE  drug product were detected at least once in sera of approximately 6% of adult patients with  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate ,  AS≠B-Not_AE_Candidate  or  PsO≠B-Not_AE_Candidate . These  antibodies≠B-OSE_Labeled_AE   were≠I-OSE_Labeled_AE   all≠I-OSE_Labeled_AE   non≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  neutralizing≠I-OSE_Labeled_AE . Results from  JIA≠B-Not_AE_Candidate  patients were similar to those seen in adult  RA≠B-Not_AE_Candidate  patients treated with Enbrel.
+
+ In adult  PsO≠B-Not_AE_Candidate  studies that evaluated the exposure of etanercept for up to 120 weeks, the percentage of patients  testing≠B-OSE_Labeled_AE   positive≠I-OSE_Labeled_AE  at the assessed time points of 24, 48, 72 and 96 weeks ranged from 3.6%-8.7% and were all  non≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  neutralizing≠I-OSE_Labeled_AE . The percentage of patients testing positive increased with an increase in the duration of study; however, the clinical significance of this finding is unknown. No apparent correlation of  antibody≠B-NonOSE_AE   development≠I-NonOSE_AE  to clinical response or adverse events was observed. The  immunogenicity≠B-NonOSE_AE  data of Enbrel beyond 120 weeks of exposure are unknown.     
+
+ In pediatric  PsO≠B-Not_AE_Candidate  studies, approximately 10% of subjects developed  antibodies≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   etanercept≠I-OSE_Labeled_AE  by Week 48 and approximately 16% of subjects developed  antibodies≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   etanercept≠I-OSE_Labeled_AE  by Week 264.  All of these  antibodies≠B-OSE_Labeled_AE   were≠I-OSE_Labeled_AE   non≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  neutralizing≠I-OSE_Labeled_AE .  However, because of the limitations of the  immunogenicity≠B-NonOSE_AE  assays, the incidence of binding and  neutralizing≠B-NonOSE_AE   antibodies≠I-NonOSE_AE  may not have been reliably determined.
+
+ The data reflect the percentage of patients whose test results were considered  positive≠B-NonOSE_AE   for≠I-NonOSE_AE   antibodies≠I-NonOSE_AE   to≠I-NonOSE_AE   etanercept≠I-NonOSE_AE  in an ELISA assay, and are highly dependent on the sensitivity and specificity of the assay.
+
+   Autoantibodies  
+
+ Patients with  RA≠B-Not_AE_Candidate  had serum samples tested for  autoantibodies≠B-NonOSE_AE  at multiple time points. In  RA≠B-Not_AE_Candidate  Studies I and II, the percentage of patients evaluated for  antinuclear≠B-NonOSE_AE   antibodies≠I-NonOSE_AE   (≠I-NonOSE_AE  ANA≠I-NonOSE_AE ) who developed  new≠B-OSE_Labeled_AE   positive≠I-OSE_Labeled_AE   ANA≠I-OSE_Labeled_AE  (titer >= 1:40) was higher in patients treated with Enbrel (11%) than in placebo-treated patients (5%). The percentage of patients who developed new  positive≠B-OSE_Labeled_AE   anti≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  double≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  stranded≠I-OSE_Labeled_AE   DNA≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE  was also higher by radioimmunoassay (15% of patients treated with Enbrel compared to 4% of placebo-treated patients) and by  Crithidia luciliae  assay (3% of patients treated with Enbrel compared to none of placebo-treated patients). The proportion of patients treated with Enbrel who developed  anticardiolipin≠B-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE  was similarly increased compared to placebo-treated patients. In  RA≠B-Not_AE_Candidate  Study III, no pattern of increased  autoantibody≠B-NonOSE_AE  development was seen in Enbrel patients compared to MTX patients  [see Warnings and Precautions (      5.9      )]  .
+
+   6.3       Postmarketing Experience
+
+  Adverse reactions have been reported during post approval use of Enbrel in adults and pediatric patients. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to Enbrel exposure.
+
+ Adverse reactions are listed by body system below:
+
+
+  Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   pancytopenia≠B-OSE_Labeled_AE ,  anemia≠B-OSE_Labeled_AE ,  leukopenia≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE ,  lymphadenopathy≠B-OSE_Labeled_AE ,  aplastic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE   [see Warnings    and Precautions    (      5.5      )]     
+  Cardiac≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE   [see    Warnings and Precautions (      5.4      )]     
+  Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   inflammatory≠B-OSE_Labeled_AE   bowel≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE  (IBD)   
+  General≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   angioedema≠B-OSE_Labeled_AE ,  chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE    
+  Hepatobiliary≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   autoimmune≠B-OSE_Labeled_AE   hepatitis≠I-OSE_Labeled_AE ,  elevated≠B-OSE_Labeled_AE   transaminases≠I-OSE_Labeled_AE ,  hepatitis≠B-OSE_Labeled_AE   B≠I-OSE_Labeled_AE   reactivation≠I-OSE_Labeled_AE    
+  Immune≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   macrophage≠B-OSE_Labeled_AE   activation≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  systemic≠B-OSE_Labeled_AE   vasculitis≠I-OSE_Labeled_AE ,  sarcoidosis≠B-OSE_Labeled_AE    
+  Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   lupus≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  like≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE     
+  Neoplasms≠B-NonOSE_AE   benign≠I-NonOSE_AE  ,≠I-NonOSE_AE   malignant≠I-NonOSE_AE  ,≠I-NonOSE_AE   and≠I-NonOSE_AE   unspecified≠I-NonOSE_AE :   melanoma≠B-OSE_Labeled_AE  and  non≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  melanoma≠I-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE   cancers≠I-OSE_Labeled_AE ,  Merkel≠B-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   carcinoma≠I-OSE_Labeled_AE    [see Warnings and Precautions (      5.3      )]     
+  Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   convulsions≠B-OSE_Labeled_AE ,  multiple≠B-OSE_Labeled_AE   sclerosis≠I-OSE_Labeled_AE ,  demyelination≠B-OSE_Labeled_AE ,  optic≠B-OSE_Labeled_AE   neuritis≠I-OSE_Labeled_AE ,  transverse≠B-OSE_Labeled_AE   myelitis≠I-OSE_Labeled_AE ,  paresthesias≠B-OSE_Labeled_AE   [see Warning    s    and Precaution    s (      5.2      )]     
+  Ocular≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   uveitis≠B-OSE_Labeled_AE ,  scleritis≠B-OSE_Labeled_AE     
+  Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE    
+  Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   cutaneous≠B-OSE_Labeled_AE   lupus≠I-OSE_Labeled_AE   erythematosus≠I-OSE_Labeled_AE ,  cutaneous≠B-OSE_Labeled_AE   vasculitis≠I-OSE_Labeled_AE  (including  leukocytoclastic≠B-OSE_Labeled_AE   vasculitis≠I-OSE_Labeled_AE ),  erythema≠B-OSE_Labeled_AE   multiforme≠I-OSE_Labeled_AE ,  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE ,  subcutaneous≠B-OSE_Labeled_AE   nodule≠I-OSE_Labeled_AE , new or worsening  psoriasis≠B-OSE_Labeled_AE  (all sub-types including pustular and palmoplantar)   
+         Opportunistic≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE , including  atypical≠B-OSE_Labeled_AE   mycobacterial≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  herpes≠B-OSE_Labeled_AE   zoster≠I-OSE_Labeled_AE ,  aspergillosis≠B-OSE_Labeled_AE  and   Pneumocystis≠B-OSE_Labeled_AE   jiroveci≠I-OSE_Labeled_AE    pneumonia≠I-OSE_Labeled_AE , and  protozoal≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  have also been reported in postmarketing use.
+ 
+
+ Rare (< 0.1%) cases of  IBD≠B-OSE_Labeled_AE  have been reported in  JIA≠B-Not_AE_Candidate  patients receiving Enbrel, which is not effective for the treatment of  IBD≠B-Not_AE_Candidate .
+

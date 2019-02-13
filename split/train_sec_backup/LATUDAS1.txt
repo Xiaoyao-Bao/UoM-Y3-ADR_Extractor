@@ -1,0 +1,444 @@
+    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in more detail in other sections of the labeling:
+
+
+
+ *  Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see  Boxed Warning  and Warnings and Precautions (  5.1  )]  
+ *  Suicidal Thoughts and Behaviors [see  Boxed Warning  and Warnings and Precautions (  5.2  )]  
+ *  Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-related Psychosis [see Warnings and Precautions (5.23)]  
+ *  Neuroleptic Malignant Syndrome [see Warnings and Precautions (  5.4  )]  
+ *  Tardive Dyskinesia [see Warnings and Precautions (  5.5  )]  
+ *  Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (  5.6  )]  
+ *  Hyperprolactinemia [see Warnings and Precautions (  5.7  )]  
+ *  Leukopenia, Neutropenia, and Agranulocytosis [see Warnings and Precautions (  5.8  )]  
+ *  Orthostatic Hypotension and Syncope [see Warnings and Precautions (  5.9  )]  
+ *  Seizures [see Warnings and Precautions (  5.10  )]  
+ *  Potential for Cognitive and Motor Impairment [see Warnings and Precautions (  5.11  )]  
+ *  Body Temperature Dysregulation [see Warnings and Precautions (  5.12  )]  
+ *  Suicide [see Warnings and Precautions (  5.13  )]  
+ *  Activation of Mania/Hypomania [see Warnings and Precautions (  5.14  )]  
+ *  Dysphagia [see Warnings and Precautions (  5.15  )]  
+ *  Neurological Adverse Reactions in Patients with Parkinson's Disease or Dementia with Lewy Bodies [see Warnings and Precautions (  5.16  )]  
+      EXCERPT:   Commonly observed adverse reactions (incidence >= 5% and at least twice the rate for placebo) were (  6.1  ):
+ 
+
+ *  Schizophrenia: somnolence, akathisia, extrapyramidal symptoms, and nausea 
+ *  Bipolar depression: akathisia, extrapyramidal symptoms, and somnolence 
+      To report SUSPECTED ADVERSE REACTIONS, contact Sunovion Pharmaceuticals Inc. at 1-877-737-7226 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  .
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ The information below is derived from an integrated clinical study database for LATUDA consisting of 3799 patients exposed to one or more doses of LATUDA for the treatment of schizophrenia and bipolar depression in placebo-controlled studies. This experience corresponds with a total experience of 1250.9 patient-years. A total of 1106 LATUDA-treated patients had at least 24 weeks and 371 LATUDA-treated patients had at least 52 weeks of exposure.
+
+
+
+ Adverse events during exposure to study treatment were obtained by general inquiry and voluntarily reported adverse experiences, as well as results from physical examinations, vital signs, ECGs, weights and laboratory investigations. Adverse experiences were recorded by clinical investigators using their own terminology. In order to provide a meaningful estimate of the proportion of individuals experiencing adverse events, events were grouped in standardized categories using MedDRA terminology.
+
+
+
+     Schizophrenia  
+
+
+
+ The following findings are based on the short-term, placebo-controlled premarketing studies for schizophrenia in which LATUDA was administered at daily doses ranging from 20 to 160 mg (n=1508).
+
+
+
+     Commonly Observed Adverse Reactions:  The most common adverse reactions (incidence >= 5% and at least twice the rate of placebo) in patients treated with LATUDA were somnolence, akathisia, extrapyramidal symptoms, and nausea.
+
+
+
+     Adverse Reactions Associated with Discontinuation of Treatment:  A total of 9.5% (143/1508) LATUDA-treated patients and 9.3% (66/708) of placebo-treated patients discontinued due to adverse reactions. There were no adverse reactions associated with discontinuation in subjects treated with LATUDA that were at least 2% and at least twice the placebo rate.
+
+
+
+     Adverse Reactions Occurring at an Incidence of 2% or More in LATUDA-Treated Patients:  Adverse reactions associated with the use of LATUDA (incidence of 2% or greater, rounded to the nearest percent and LATUDA incidence greater than placebo) that occurred during acute therapy (up to 6 weeks in patients with schizophrenia) are shown in  Table 15  .
+
+
+
+ Table 15: Adverse Reactions in 2% or More of LATUDA-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in Short-term Schizophrenia Studies 
+  Note: Figures rounded to the nearest integer    
+  * Somnolence includes adverse event terms: hypersomnia, hypersomnolence, sedation, and somnolence    
+  ** Extrapyramidal symptoms includes adverse event terms: bradykinesia, cogwheel rigidity, drooling, dystonia, extrapyramidal disorder, hypokinesia, muscle rigidity, oculogyric crisis, oromandibular dystonia, parkinsonism, psychomotor retardation, tongue spasm, torticollis, tremor, and trismus    
+  
+                            Percentage of Patients Reporting Reaction     
+                            LATUDA      
+   Body System or    Organ Class      Placebo    (N=708)    (%)      20    mg/day    (N=71)    (%)      40    mg/day    (N=487)    (%)      80    mg/day    (N=538)    (%)      120    mg/day    (N=291)    (%)      160    mg/day    (N=121)    (%)      All    LATUDA    (N=1508)    (%)     
+   Gastrointestinal Disorders                                                                                            
+      Nausea              5            11          10          9           13          7           10             
+      Vomiting            6            7           6           9           9           7           8              
+      Dyspepsia           5            11          6           5           8           6           6              
+      Salivary     Hypersecretion  <1           1           1           2           4           2           2              
+   Musculoskeletal and Connective Tissue Disorders                                                                                            
+      Back Pain           2            0           4           3           4           0           3              
+   Nervous System Disorders                                                                                            
+      Somnolence*         7            15          16          15          26          8           17             
+      Akathisia           3            6           11          12          22          7           13             
+      Extrapyramidal     Disorder**  6            6           11          12          22          13          14             
+      Dizziness           2            6           4           4           5           6           4              
+   Psychiatric Disorders                                                                                            
+      Insomnia            8            8           10          11          9           7           10             
+      Agitation           4            10          7           3           6           5           5              
+      Anxiety             4            3           6           4           7           3           5              
+      Restlessness        1            1           3           1           3           2           2              
+                  Dose-Related Adverse Reactions in the Schizophrenia Studies  
+ 
+
+ Akathisia and extrapyramidal symptoms were dose-related. The frequency of akathisia increased with dose up to 120 mg/day (5.6% for LATUDA 20 mg, 10.7% for LATUDA 40 mg, 12.3% for LATUDA 80 mg, and 22.0% for LATUDA 120 mg). Akathisia was reported by 7.4% (9/121) of patients receiving 160 mg/day. Akathisia occurred in 3.0% of subjects receiving placebo. The frequency of extrapyramidal symptoms increased with dose up to 120 mg/day (5.6% for LATUDA 20 mg, 11.5% for LATUDA 40 mg, 11.9% for LATUDA 80 mg, and 22.0% for LATUDA 120 mg).
+
+
+
+     Bipolar Depression (Monotherapy)  
+
+
+
+ The following findings are based on the short-term, placebo-controlled premarketing study for bipolar depression in which LATUDA was administered at daily doses ranging from 20 to 120 mg (n=331).
+
+
+
+     Commonly Observed Adverse Reactions:  The most common adverse reactions (incidence >= 5%, in either dose group, and at least twice the rate of placebo) in patients treated with LATUDA were akathisia, extrapyramidal symptoms, somnolence, nausea, vomiting, diarrhea, and anxiety.
+
+
+
+     Adverse Reactions Associated with Discontinuation of Treatment:  A total of 6.0% (20/331) LATUDA-treated patients and 5.4% (9/168) of placebo-treated patients discontinued due to adverse reactions. There were no adverse reactions associated with discontinuation in subjects treated with LATUDA that were at least 2% and at least twice the placebo rate.
+
+
+
+     Adverse Reactions Occurring at an Incidence of 2% or More in LATUDA-Treated Patients:  Adverse reactions associated with the use of LATUDA (incidence of 2% or greater, rounded to the nearest percent and LATUDA incidence greater than placebo) that occurred during acute therapy (up to 6 weeks in patients with bipolar depression) are shown in  Table 16  .
+
+
+
+ Table 16: Adverse Reactions in 2% or More of LATUDA-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in a Short-term Monotherapy Bipolar Depression Study 
+  Note: Figures rounded to the nearest integer    
+  *Extrapyramidal symptoms includes adverse event terms: bradykinesia, cogwheel rigidity, drooling, dystonia, extrapyramidal disorder, glabellar reflex abnormal, hypokinesia, muscle rigidity, oculogyric crisis, oromandibular dystonia, parkinsonism, psychomotor retardation, tongue spasm, torticollis, tremor, and trismus    
+  ** Somnolence includes adverse event terms: hypersomnia, hypersomnolence, sedation, and somnolence    
+  
+                                                 Percentage of Patients Reporting Reaction     
+   Body System or Organ Class       Dictionary-derived Term    Placebo    (N=168)    (%)      LATUDA    20-60 mg/day    (N=164)    (%)      LATUDA    80-120 mg/day    (N=167)    (%)      All LATUDA(N=331)    (%)     
+   Gastrointestinal Disorders                   
+      Nausea                                   8              10             17          14             
+      Dry Mouth                                4              6              4           5              
+      Vomiting                                 2              2              6           4              
+      Diarrhea                                 2              5              3           4              
+   Infections and Infestations                  
+      Nasopharyngitis                          1              4              4           4              
+      Influenza                                1              <1             2           2              
+      Urinary Tract Infection                  <1             2              1           2              
+   Musculoskeletal and Connective Tissue    Disorders     
+      Back Pain                                <1             3              <1          2              
+   Nervous System Disorders                     
+      Extrapyramidal Symptoms*                 2              5              9           7              
+      Akathisia                                2              8              11          9              
+      Somnolence**                             7              7              14          11             
+   Psychiatric Disorders                        
+      Anxiety                                  1              4              5           4              
+                 Dose-Related Adverse Reactions in the Monotherapy Study:  
+ 
+
+ In the short-term, placebo-controlled study (involving lower and higher LATUDA dose ranges) [see Clinical Studies (  14.2  )] the adverse reactions that occurred with a greater than 5% incidence in the patients treated with LATUDA in any dose group and greater than placebo in both groups were nausea (10.4%, 17.4%), somnolence (7.3%, 13.8%), akathisia (7.9%, 10.8%), and extrapyramidal symptoms (4.9%, 9.0%) for LATUDA 20 to 60 mg/day and LATUDA 80 to 120 mg/day, respectively.
+
+
+
+     Bipolar Depression  
+
+
+
+     Adjunctive Therapy with Lithium or Valproate  
+
+
+
+ The following findings are based on two short-term, placebo-controlled premarketing studies for bipolar depression in which LATUDA was administered at daily doses ranging from 20 to 120 mg as adjunctive therapy with lithium or valproate (n=360).
+
+
+
+     Commonly Observed Adverse Reactions:  The most common adverse reactions (incidence >= 5% and at least twice the rate of placebo) in subjects treated with LATUDA were akathisia and somnolence.
+
+
+
+     Adverse Reactions Associated with Discontinuation of Treatment:  A total of 5.8% (21/360) LATUDA-treated patients and 4.8% (16/334) of placebo-treated patients discontinued due to adverse reactions. There were no adverse reactions associated with discontinuation in subjects treated with LATUDA that were at least 2% and at least twice the placebo rate.
+
+
+
+     Adverse Reactions Occurring at an Incidence of 2% or More in LATUDA-Treated Patients:  Adverse reactions associated with the use of LATUDA (incidence of 2% or greater, rounded to the nearest percent and LATUDA incidence greater than placebo) that occurred during acute therapy (up to 6 weeks in patients with bipolar depression) are shown in  Table 17  .
+
+
+
+ Table 17: Adverse Reactions in 2% or More of LATUDA-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in the Short-term Adjunctive Therapy Bipolar Depression Studies 
+  Note: Figures rounded to the nearest integer    
+  *Extrapyramidal symptoms includes adverse event terms: bradykinesia, cogwheel rigidity, drooling, dystonia, extrapyramidal disorder, glabellar reflex abnormal, hypokinesia, muscle rigidity, oculogyric crisis, oromandibular dystonia, parkinsonism, psychomotor retardation, tongue spasm, torticollis, tremor, and trismus    
+  ** Somnolence includes adverse event terms: hypersomnia, hypersomnolence, sedation, and somnolence    
+  
+                                              Percentage of Patients Reporting Reaction     
+   Body System or Organ Class       Dictionary-derived Term    Placebo    (N=334)    (%)      LATUDA        20 to 120 mg/day    (N=360)    (%)     
+   Gastrointestinal Disorders                
+      Nausea                                10          14                             
+      Vomiting                              1           4                              
+   General Disorders                         
+      Fatigue                               1           3                              
+   Infections and Infestations               
+      Nasopharyngitis                       2           4                              
+   Investigations                            
+      Weight Increased                      <1          3                              
+   Metabolism and Nutrition Disorders        
+      Increased Appetite                    1           3                              
+   Nervous System Disorders                  
+      Extrapyramidal Symptoms*              9           14                             
+      Somnolence**                          5           11                             
+      Akathisia                             5           11                             
+   Psychiatric Disorders                     
+      Restlessness                          <1          4                              
+               Extrapyramidal Symptoms  
+ 
+
+     Schizophrenia  
+
+
+
+ In the short-term, placebo-controlled schizophrenia studies, for LATUDA-treated patients, the incidence of reported events related to extrapyramidal symptoms (EPS), excluding akathisia and restlessness, was 13.5% versus 5.8% for placebo-treated patients. The incidence of akathisia for LATUDA-treated patients was 12.9% versus 3.0% for placebo-treated patients. Incidence of EPS by dose is provided in  Table 18  .
+
+
+
+ Table 18: Incidence of EPS Compared to Placebo in Schizophrenia Studies 
+  Note: Figures rounded to the nearest integer    
+  * Dystonia includes adverse event terms: dystonia, oculogyric crisis, oromandibular dystonia, tongue spasm, torticollis, and trismus    
+  ** Parkinsonism includes adverse event terms: bradykinesia, cogwheel rigidity, drooling, extrapyramidal disorder, hypokinesia, muscle rigidity, parkinsonism, psychomotor retardation, and tremor    
+  
+                                                         LATUDA                                   
+   Adverse Event Term        Placebo    (N=708)    (%)      20 mg/day    (N=71)    (%)      40 mg/day    (N=487)    (%)      80 mg/day    (N=538)    (%)      120 mg/day    (N=291)    (%)      160 mg/day    (N=121)    (%)     
+   All EPS events            9             10            21            23            39            20             
+   All EPS events, excluding Akathisia/Restlessness      6             6             11            12            22            13             
+      Akathisia            3             6             11            12            22            7                
+      Dystonia*            <1            0             4             5             7             2                
+      Parkinsonism**       5             6             9             8             17            11               
+      Restlessness         1             1             3             1             3             2                
+                 Bipolar Depression  
+ 
+
+     Monotherapy  
+
+
+
+ In the short-term, placebo-controlled monotherapy bipolar depression study, for LATUDA-treated patients, the incidence of reported events related to EPS, excluding akathisia and restlessness was 6.9% versus 2.4% for placebo-treated patients. The incidence of akathisia for LATUDA-treated patients was 9.4% versus 2.4% for placebo-treated patients. Incidence of EPS by dose groups is provided in  Table 19  .
+
+
+
+ Table 19: Incidence of EPS Compared to Placebo in the Monotherapy Bipolar Depression Study 
+                                                         LATUDA                    
+   Adverse Event Term        Placebo    (N=168)    (%)      20 to 60 mg/day    (N=164)    (%)      80 to 120 mg/day    (N=167)    (%)     
+   All EPS events            5             12            20                        
+   All EPS events, excluding Akathisia/Restlessness      2             5             9                         
+  
+  Note: Figures rounded to the nearest integer    
+  * Dystonia includes adverse event terms: dystonia, oculogyric crisis, oromandibular dystonia, tongue spasm, torticollis, and trismus    
+  ** Parkinsonism includes adverse event terms: bradykinesia, cogwheel rigidity, drooling, extrapyramidal disorder, glabellar reflex abnormal, hypokinesia, muscle rigidity, parkinsonism, psychomotor retardation, and tremor    
+  
+      Akathisia            2             8             11                          
+      Dystonia*            0             0             2                           
+      Parkinsonism**       2             5             8                           
+      Restlessness         <1            0             3                           
+               Adjunctive Therapy with Lithium or Valproate  
+ 
+
+ In the short-term, placebo-controlled adjunctive therapy bipolar depression studies, for LATUDA-treated patients, the incidence of EPS, excluding akathisia and restlessness, was 13.9% versus 8.7% for placebo. The incidence of akathisia for LATUDA-treated patients was 10.8% versus 4.8% for placebo-treated patients. Incidence of EPS is provided in  Table 20  .
+
+
+
+ Table 20: Incidence of EPS Compared to Placebo in the Adjunctive Therapy Bipolar Depression Studies 
+   Adverse Event Term        Placebo    (N=334)    (%)           LATUDA        20 to 120 mg/day(N=360)    (%)     
+   All EPS events            13                                  24                                       
+   All EPS events, excluding Akathisia/Restlessness      9                                   14                                       
+  
+  Note: Figures rounded to the nearest integer    
+  * Dystonia includes adverse event terms: dystonia, oculogyric crisis, oromandibular dystonia, tongue spasm, torticollis, and trismus    
+  ** Parkinsonism includes adverse event terms: bradykinesia, cogwheel rigidity, drooling, extrapyramidal disorder, glabellar reflex abnormal, hypokinesia, muscle rigidity, parkinsonism, psychomotor retardation, and tremor    
+  
+      Akathisia            5                                   11                                         
+      Dystonia*            <1                                  1                                          
+      Parkinsonism**       8                                   13                                         
+      Restlessness         <1                                  4                                          
+         In the short-term, placebo-controlled schizophrenia and bipolar depression studies, data was objectively collected on the Simpson Angus Rating Scale (SAS) for extrapyramidal symptoms (EPS), the Barnes Akathisia Scale (BAS) for akathisia and the Abnormal Involuntary Movement Scale (AIMS) for dyskinesias.
+ 
+
+     Schizophrenia  
+
+
+
+ The mean change from baseline for LATUDA-treated patients for the SAS, BAS and AIMS was comparable to placebo-treated patients, with the exception of the Barnes Akathisia Scale global score (LATUDA, 0.1; placebo, 0.0). The percentage of patients who shifted from normal to abnormal was greater in LATUDA-treated patients versus placebo for the BAS (LATUDA, 14.4%; placebo, 7.1%), the SAS (LATUDA, 5.0%; placebo, 2.3%) and the AIMS (LATUDA, 7.4%; placebo, 5.8%).
+
+
+
+     Bipolar Depression  
+
+
+
+     Monotherapy  
+
+
+
+ The mean change from baseline for LATUDA-treated patients for the SAS, BAS and AIMS was comparable to placebo-treated patients. The percentage of patients who shifted from normal to abnormal was greater in LATUDA-treated patients versus placebo for the BAS (LATUDA, 8.4%; placebo, 5.6%), the SAS (LATUDA, 3.7%; placebo, 1.9%) and the AIMS (LATUDA, 3.4%; placebo, 1.2%).
+
+
+
+   Adjunctive Therapy with Lithium or Valproate  
+
+
+
+ The mean change from baseline for LATUDA-treated patients for the SAS, BAS and AIMS was comparable to placebo-treated patients. The percentage of patients who shifted from normal to abnormal was greater in LATUDA-treated patients versus placebo for the BAS (LATUDA, 8.7%; placebo, 2.1%), the SAS (LATUDA, 2.8%; placebo, 2.1%) and the AIMS (LATUDA, 2.8%; placebo, 0.6%).
+
+
+
+     Dystonia  
+
+
+
+     Class Effect:  Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment. Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue. While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first-generation antipsychotic drugs. An elevated risk of acute dystonia is observed in males and younger age groups.
+
+
+
+     Schizophrenia  
+
+
+
+ In the short-term, placebo-controlled schizophrenia clinical studies, dystonia occurred in 4.2% of LATUDA-treated subjects (0.0% LATUDA 20 mg, 3.5% LATUDA 40 mg, 4.5% LATUDA 80 mg, 6.5% LATUDA 120 mg and 2.5% LATUDA 160 mg) compared to 0.8% of subjects receiving placebo. Seven subjects (0.5%, 7/1508) discontinued clinical trials due to dystonic events - four were receiving LATUDA 80 mg/day and three were receiving LATUDA 120 mg/day.
+
+
+
+     Bipolar Depression  
+
+
+
+     Monotherapy  
+
+
+
+ In the short-term, flexible-dose, placebo-controlled monotherapy bipolar depression study, dystonia occurred in 0.9% of LATUDA-treated subjects (0.0% and 1.8% for LATUDA 20 to 60 mg/day and LATUDA 80 to 120 mg/day, respectively) compared to 0.0% of subjects receiving placebo. No subject discontinued the clinical study due to dystonic events.
+
+
+
+     Adjunctive Therapy with Lithium or Valproate  
+
+
+
+ In the short-term, flexible-dose, placebo-controlled adjunctive therapy bipolar depression studies, dystonia occurred in 1.1% of LATUDA-treated subjects (20 to 120 mg) compared to 0.6% of subjects receiving placebo. No subject discontinued the clinical study due to dystonic events.
+
+
+
+     Other Adverse Reactions Observed During the Premarketing Evaluation of LATUDA  
+
+
+
+ Following is a list of adverse reactions reported by patients treated with LATUDA at multiple doses of >= 20 mg once daily within the premarketing database of 2905 patients with schizophrenia. The reactions listed are those that could be of clinical importance, as well as reactions that are plausibly drug-related on pharmacologic or other grounds. Reactions listed in  Table 15  or those that appear elsewhere in the LATUDA label are not included. Although the reactions reported occurred during treatment with LATUDA, they were not necessarily caused by it.
+
+
+
+ Reactions are further categorized by organ class and listed in order of decreasing frequency according to the following definitions: those occurring in at least 1/100 patients (frequent) (only those not already listed in the tabulated results from placebo-controlled studies appear in this listing); those occurring in 1/100 to 1/1000 patients (infrequent); and those occurring in fewer than 1/1000 patients (rare).
+
+
+
+   Blood and Lymphatic System Disorders:    Infrequent:    anemia  
+
+
+
+   Cardiac Disorders:    Frequent:    tachycardia;    Infrequent:    AV block 1st degree, angina pectoris, bradycardia  
+
+
+
+   Ear and Labyrinth Disorders:    Infrequent:    vertigo  
+
+
+
+   Eye Disorders:    Frequent:    blurred vision  
+
+
+
+   Gastrointestinal Disorders:    Frequent:    abdominal pain, diarrhea;    Infrequent:    gastritis  
+
+
+
+   General Disorders and Administrative Site Conditions:    Rare:    sudden death  
+
+
+
+   Investigations:    Frequent:    CPK increased  
+
+
+
+   Metabolism and Nutritional System Disorders:    Frequent:    decreased appetite  
+
+
+
+   Musculoskeletal and Connective Tissue Disorders:    Rare:    rhabdomyolysis  
+
+
+
+   Nervous System Disorders:    Infrequent:    cerebrovascular accident, dysarthria  
+
+
+
+   Psychiatric Disorders:    Infrequent:    abnormal dreams, panic attack, sleep disorder  
+
+
+
+   Renal and Urinary Disorders:    Infrequent:    dysuria;    Rare:    renal failure  
+
+
+
+   Reproductive System and Breast Disorders:    Infrequent:    amenorrhea, dysmenorrhea;    Rare:    breast enlargement, breast pain, galactorrhea, erectile dysfunction  
+
+
+
+   Skin and Subcutaneous Tissue Disorders:    Frequent:    rash, pruritus;    Rare:    angioedema  
+
+
+
+   Vascular Disorders:    Frequent:    hypertension  
+
+
+
+     Clinical Laboratory Changes  
+
+
+
+   Schizophrenia
+
+
+
+   Serum Creatinine  : In short-term, placebo-controlled trials, the mean change from Baseline in serum creatinine was +0.05 mg/dL for LATUDA-treated patients compared to +0.02 mg/dL for placebo-treated patients. A creatinine shift from normal to high occurred in 3.0% (43/1453) of LATUDA-treated patients and 1.6% (11/681) on placebo. The threshold for high creatinine value varied from > 0.79 to > 1.3 mg/dL based on the centralized laboratory definition for each study (  Table 21  ).
+
+
+
+ Table 21: Serum Creatinine Shifts from Normal at Baseline to High at Study End-Point in Schizophrenia Studies 
+   Laboratory Parameter      Placebo    (N=708)      LATUDA 20mg/day    (N=71)      LATUDA 40mg/day    (N=487)      LATUDA 80mg/day    (N=538)      LATUDA 120 mg/day    (N=291)      LATUDA 160mg/day    (N=121)     
+   Serum Creatinine Elevated    2%           1%             2%             2%             5%             7%              
+               Bipolar Depression
+ 
+
+     Monotherapy  
+
+
+
+     Serum Creatinine  : In the short-term, flexible-dose, placebo-controlled monotherapy bipolar depression study, the mean change from Baseline in serum creatinine was +0.01 mg/dL for LATUDA-treated patients compared to -0.02 mg/dL for placebo-treated patients. A creatinine shift from normal to high occurred in 2.8% (9/322) of LATUDA-treated patients and 0.6% (1/162) on placebo (  Table 22  ).
+
+
+
+ Table 22: Serum Creatinine Shifts from Normal at Baseline to High at Study End-Point in a Monotherapy Bipolar Depression Study 
+   Laboratory Parameter           Placebo    (N=168)      LATUDA20 to 60 mg/day    (N=164)      LATUDA80 to 120 mg/day    (N=167)     
+   Serum Creatinine Elevated    <1%                     2%                        4%                       
+              Adjunctive Therapy with Lithium or Valproate  
+ 
+
+     Serum Creatinine  : In short-term, placebo-controlled premarketing adjunctive studies for bipolar depression, the mean change from Baseline in serum creatinine was +0.04 mg/dL for LATUDA-treated patients compared to -0.01 mg/dL for placebo-treated patients. A creatinine shift from normal to high occurred in 4.3% (15/360) of LATUDA-treated patients and 1.6% (5/334) on placebo (  Table 23  ).
+
+
+
+ Table 23: Serum Creatinine Shifts from Normal at Baseline to High at Study End-Point in the Adjunctive Therapy Bipolar Depression Studies 
+   Laboratory Parameter           Placebo    (N=334)                 LATUDA    20 to 120 mg/day(N=360)     
+   Serum Creatinine Elevated    2%                                 4%                                     

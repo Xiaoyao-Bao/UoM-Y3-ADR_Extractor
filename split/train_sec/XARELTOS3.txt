@@ -1,0 +1,74 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  Risk of bleeding: XARELTO can cause serious and fatal bleeding. Promptly evaluate signs and symptoms of blood loss. (  5.2  ) 
+ *  Pregnancy-related hemorrhage: Use XARELTO with caution in pregnant women due to the potential for obstetric hemorrhage and/or emergent delivery. Promptly evaluate signs and symptoms of blood loss. (  5.7  ) 
+ *  Prosthetic heart valves: XARELTO use not recommended (  5.8  ) 
+    
+ 
+
+   5.1 Increased Risk of Thrombotic Events after Premature Discontinuation
+
+  Premature discontinuation of any oral anticoagulant, including XARELTO, in the absence of adequate alternative anticoagulation increases the risk of  thrombotic≠B-NonOSE_AE   events≠I-NonOSE_AE . An increased rate of  stroke≠B-NonOSE_AE  was observed during the transition from XARELTO to warfarin in clinical trials in  atrial≠B-Not_AE_Candidate   fibrillation≠I-Not_AE_Candidate  patients. If XARELTO is discontinued for a reason other than pathological  bleeding≠B-NonOSE_AE  or completion of a course of therapy, consider coverage with another anticoagulant [see  Dosage and Administration (2.3  ,  2.8)  and  Clinical Studies (14.1)  ]  .
+
+    5.2 Risk of Bleeding
+
+  XARELTO increases the risk of  bleeding≠B-OSE_Labeled_AE  and can cause serious or  fatal≠B-NonOSE_AE   bleeding≠B-OSE_Labeled_AE . In deciding whether to prescribe XARELTO to patients at increased risk of  bleeding≠B-NonOSE_AE , the risk of  thrombotic≠B-NonOSE_AE   events≠I-NonOSE_AE  should be weighed against the risk of  bleeding≠B-NonOSE_AE .
+
+ Promptly evaluate any signs or symptoms of  blood≠B-NonOSE_AE   loss≠I-NonOSE_AE  and consider the need for blood replacement. Discontinue XARELTO in patients with active pathological  hemorrhage≠B-Not_AE_Candidate . The terminal elimination half-life of rivaroxaban is 5 to 9 hours in healthy subjects aged 20 to 45 years.
+
+ Concomitant use of other drugs that  impair≠B-NonOSE_AE   hemostasis≠I-NonOSE_AE  increases the risk of  bleeding≠B-NonOSE_AE . These include aspirin, P2Y12platelet inhibitors, other antithrombotic agents, fibrinolytic therapy, non-steroidal anti-inflammatory drugs (NSAIDs) [see  Drug Interactions (7.4)  ]  , selective serotonin reuptake inhibitors, and serotonin norepinephrine reuptake inhibitors.
+
+ Concomitant use of drugs that are known combined P-gp and strong CYP3A4 inhibitors increases rivaroxaban exposure and may increase  bleeding≠B-NonOSE_AE  risk [see  Drug Interactions (7.2)  ]  .
+
+    Reversal of Anticoagulant Effect  
+
+ A specific antidote for rivaroxaban is not available. Because of high plasma protein binding, rivaroxaban is not expected to be dialyzable [see  Clinical Pharmacology (12.3)  ]  . Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of rivaroxaban. Partial reversal of prothrombin time prolongation has been seen after administration of prothrombin complex concentrates (PCCs) in healthy volunteers. The use of other procoagulant reversal agents like activated prothrombin complex concentrate (APCC) or recombinant factor VIIa (rFVIIa) has not been evaluated.
+
+    5.3 Spinal/Epidural Anesthesia or Puncture
+
+  When  neuraxial≠B-Not_AE_Candidate   anesthesia≠I-Not_AE_Candidate  ( spinal≠B-Not_AE_Candidate /epidural  anesthesia≠I-Not_AE_Candidate ) or spinal puncture is employed, patients treated with anticoagulant agents for  prevention≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   thromboembolic≠I-Not_AE_Candidate   complications≠I-Not_AE_Candidate  are at risk of developing an  epidural≠B-OSE_Labeled_AE  or spinal  hematoma≠I-OSE_Labeled_AE  which can result in long-term or permanent  paralysis≠B-NonOSE_AE  [see  Boxed Warning  ]  .
+
+ To reduce the potential risk of  bleeding≠B-NonOSE_AE  associated with the concurrent use of XARELTO and  epidural≠B-NonOSE_AE  or spinal anesthe sia≠B-NonOSE_AE  /≠I-NonOSE_AE   analgesia≠I-NonOSE_AE  ≠≠I-NonOSE_AE  I≠I-NonOSE_AE  -≠I-NonOSE_AE NonOSE_AE  or spinal puncture, consider the pharmacokinetic profile of XARELTO [see  Clinical Pharmacology (12.3)  ]  . Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of XARELTO is low; however, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known.
+
+ An indwelling epidural or intrathecal catheter should not be removed before at least 2 half-lives have elapsed (i.e., 18 hours in young patients aged 20 to 45 years and 26 hours in elderly patients aged 60 to 76 years), after the last administration of XARELTO [see  Clinical Pharmacology (12.3)  ]  . The next XARELTO dose should not be administered earlier than 6 hours after the removal of the catheter. If traumatic puncture occurs, delay the administration of XARELTO for 24 hours.
+
+ Should the physician decide to administer anticoagulation in the context of  epidural≠B-NonOSE_AE  or spinal  anesthesia≠I-NonOSE_AE /analgesia or lumbar puncture, monitor frequently to detect any signs or symptoms of  neurological≠B-NonOSE_AE   impairment≠I-NonOSE_AE , such as  midline≠B-NonOSE_AE   back≠I-NonOSE_AE   pain≠I-NonOSE_AE ,  sensory≠B-NonOSE_AE  and motor  deficits≠I-NonOSE_AE  ( numbness≠B-NonOSE_AE ,  tingling≠B-NonOSE_AE , or  weakness≠B-NonOSE_AE   in≠I-NonOSE_AE   lower≠I-NonOSE_AE   limbs≠I-NonOSE_AE ),  bowel≠B-NonOSE_AE  and/or bladder  dysfunction≠I-NonOSE_AE . Instruct patients to immediately report if they experience any of the above signs or symptoms. If signs or symptoms of  spinal≠B-NonOSE_AE   hematoma≠I-NonOSE_AE  are suspected, initiate urgent diagnosis and treatment including consideration for  spinal≠B-NonOSE_AE   cord≠I-NonOSE_AE   decompression≠I-NonOSE_AE  even though such treatment may not prevent or reverse  neurological≠B-NonOSE_AE   sequelae≠I-NonOSE_AE .
+
+    5.4 Use in Patients with Renal Impairment
+
+   Nonvalvular Atrial Fibrillation  
+
+ Periodically assess renal function as clinically indicated (i.e., more frequently in situations in which  renal≠B-NonOSE_AE   function≠I-NonOSE_AE   may≠I-NonOSE_AE   decline≠I-NonOSE_AE ) and adjust therapy accordingly [see  Dosage and Administration (2.4)  ]  . Consider dose adjustment or discontinuation of XARELTO in patients who develop  acute≠B-NonOSE_AE   renal≠I-NonOSE_AE   failure≠I-NonOSE_AE  while on XARELTO [see  Use in Specific Populations (8.6)  ].  
+
+    Treatment of Deep Vein Thrombosis (DVT), Pulmonary Embolism (PE), and Reduction in the Risk of Recurrence of DVT and of PE  
+
+ Avoid the use of XARELTO in patients with  CrCl≠B-Not_AE_Candidate   <≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate  due to an expected increase in rivaroxaban exposure and pharmacodynamic effects in this patient population [see  Use in Specific Populations (8.6)  ]  .
+
+    Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery  
+
+ Avoid the use of XARELTO in patients with  CrCl≠B-Not_AE_Candidate   <≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate  due to an expected increase in rivaroxaban exposure and pharmacodynamic effects in this patient population. Observe closely and promptly evaluate any signs or symptoms of  blood≠B-NonOSE_AE   loss≠I-NonOSE_AE  in patients with  CrCl≠B-Not_AE_Candidate   3≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   to≠I-Not_AE_Candidate   5≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate . Patients who develop  acute≠B-NonOSE_AE   renal≠I-NonOSE_AE   failure≠I-NonOSE_AE  while on XARELTO should discontinue the treatment [see  Use in Specific Populations (8.6)  ].  
+
+    5.5 Use in Patients with Hepatic Impairment
+
+  No clinical data are available for patients with severe  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate .
+
+ Avoid use of XARELTO in patients with moderate ( Child≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  Pugh≠I-Not_AE_Candidate   B≠I-Not_AE_Candidate ) and severe ( Child≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  Pugh≠I-Not_AE_Candidate   C≠I-Not_AE_Candidate )  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  or with any  hepatic≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate   associated≠I-Not_AE_Candidate   with≠I-Not_AE_Candidate   coagulopathy≠I-Not_AE_Candidate  since drug exposure and  bleeding≠B-NonOSE_AE  risk may be increased [see  Use in Specific Populations (8.7)  ]  .
+
+    5.6 Use with P-gp and Strong CYP3A4 Inhibitors or Inducers
+
+  Avoid concomitant use of XARELTO with known combined P-gp and strong CYP3A4 inhibitors [see  Drug Interactions (7.2)  ]  .
+
+ Avoid concomitant use of XARELTO with drugs that are known combined P-gp and strong CYP3A4 inducers [see  Drug Interactions (7.3)  ]  .
+
+    5.7 Risk of  Pregnancy≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Related≠I-OSE_Labeled_AE   Hemorrhage≠I-OSE_Labeled_AE 
+
+  In  pregnant≠B-Not_AE_Candidate  women, XARELTO should be used only if the potential benefit justifies the potential  risk≠B-NonOSE_AE   to≠I-NonOSE_AE  the mother and  fetus≠I-NonOSE_AE . XARELTO dosing in  pregnancy≠B-Not_AE_Candidate  has not been studied. The anticoagulant effect of XARELTO cannot be monitored with standard laboratory testing nor readily reversed. Promptly evaluate any signs or symptoms suggesting  blood≠B-NonOSE_AE   loss≠I-NonOSE_AE  (e.g., a  drop≠B-NonOSE_AE   in≠I-NonOSE_AE  hemoglobin and/or  hematocrit≠I-NonOSE_AE ,  hypotension≠B-NonOSE_AE , or  fetal≠B-NonOSE_AE   distress≠I-NonOSE_AE ).
+
+    5.8 Patients with Prosthetic Heart Valves
+
+  The safety and efficacy of XARELTO have not been studied in patients with prosthetic heart valves. Therefore, use of XARELTO is not recommended in these patients.
+
+    5.9 Acute PE in Hemodynamically Unstable Patients or Patients Who Require Thrombolysis or Pulmonary Embolectomy
+
+  Initiation of XARELTO is not recommended acutely as an alternative to unfractionated heparin in patients with  pulmonary≠B-Not_AE_Candidate   embolism≠I-Not_AE_Candidate  who present with  hemodynamic≠B-Not_AE_Candidate   instability≠I-Not_AE_Candidate  or who may receive  thrombolysis≠B-Not_AE_Candidate  or pulmonary embolectomy.
+

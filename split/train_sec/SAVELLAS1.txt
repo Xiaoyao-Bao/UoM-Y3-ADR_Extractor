@@ -1,0 +1,217 @@
+    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most frequently occurring adverse reactions (>= 5% and greater than placebo) were nausea, headache, constipation, dizziness, insomnia, hot flush, hyperhidrosis, vomiting, palpitations, heart rate increased, dry mouth, and hypertension (  6.1  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Forest Laboratories, LLC., at (800) 678-1605 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+     Patient Exposure  
+
+
+
+ Savella was evaluated in three double-blind placebo-controlled trials involving 2209  fibromyalgia≠B-Not_AE_Candidate  patients (1557 patients treated with Savella and 652 patients treated with placebo) for a treatment period up to 29 weeks.
+
+
+
+ The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed. A reaction was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
+
+
+
+     Adverse Reactions Leading to Discontinuation  
+
+
+
+ In placebo-controlled trials in patients with  fibromyalgia≠B-Not_AE_Candidate , 23% of patients treated with Savella
+
+
+
+ 100 mg/day, 26% of patients treated with Savella 200 mg/day discontinued prematurely due to adverse reactions, compared to 12% of patients treated with placebo. The adverse reactions that led to  withdrawal≠B-NonOSE_AE  in >= 1% of patients in the Savella treatment group and with an incidence rate greater than that in the placebo treatment group were  nausea≠B-OSE_Labeled_AE  (milnacipran 6%, placebo 1%),  palpitations≠B-OSE_Labeled_AE  (milnacipran 3%, placebo 1%),  headache≠B-OSE_Labeled_AE  (milnacipran 2%, placebo 0%),  constipation≠B-OSE_Labeled_AE  (milnacipran 1%, placebo 0%),  heart≠B-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  (milnacipran 1%, placebo 0%),  hyperhidrosis≠B-OSE_Labeled_AE  (milnacipran 1%, placebo 0%),  vomiting≠B-OSE_Labeled_AE  (milnacipran 1%, placebo 0%), and  dizziness≠B-OSE_Labeled_AE  (milnacipran 1% and placebo 0.5%). Discontinuation due to adverse reactions was generally more common among patients treated with Savella 200 mg/day compared to Savella 100 mg/day.
+
+
+
+     Most Common Adverse Reactions in Placebo Controlled Trials  
+
+
+
+ In the placebo-controlled fibromyalgia patient trials, the most frequently occurring adverse reaction in clinical trials was  nausea≠B-OSE_Labeled_AE . The most common adverse reactions (incidence >= 5% and twice placebo) in patients treated with Savella were  constipation≠B-OSE_Labeled_AE ,  hot≠B-OSE_Labeled_AE   flush≠I-OSE_Labeled_AE ,  hyperhidrosis≠B-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE ,  palpitations≠B-OSE_Labeled_AE ,  heart≠B-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE , and  hypertension≠B-OSE_Labeled_AE .
+
+
+
+     Table 4    lists all adverse reactions that occurred in at least 2% of patients treated with Savella at either 100 or 200 mg/day and at an incidence greater than that of placebo.
+
+
+
+ Table 4: Treatment-Emergent Adverse Reaction Incidence in Placebo Controlled Trials in Fibromyalgia Patients (Events Occurring in at Least 2% of All Savella-Treated Patients and Occurring More Frequently in Either Savella Treatment Group Than in the Placebo Treatment Group) 
+  System Organ Class-Preferred Term    Savella100 mg/day(n = 623) %    Savella200 mg/day(n = 934) %    All Savella(n = 1557) %    Placebo(n = 652) %    
+   Cardiac≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                               
+     Palpitations≠B-OSE_Labeled_AE                      8                  7                  7                  2                  
+     Tachycardia≠B-OSE_Labeled_AE                       3                  2                  2                  1                  
+   Eye≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                                   
+     Vision≠B-OSE_Labeled_AE   blurred≠I-OSE_Labeled_AE                    1                  2                  2                  1                  
+   Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                      
+     Nausea≠B-OSE_Labeled_AE                            35                 39                 37                 20                 
+     Constipation≠B-OSE_Labeled_AE                      16                 15                 16                 4                  
+     Vomiting≠B-OSE_Labeled_AE                          6                  7                  7                  2                  
+     Dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE                         5                  5                  5                  2                  
+     Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                    3                  3                  3                  2                  
+   General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                               
+     Chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                        3                  2                  2                  2                  
+     Chills≠B-OSE_Labeled_AE                            1                  2                  2                  0                  
+     Chest≠B-OSE_Labeled_AE   discomfort≠I-OSE_Labeled_AE                  2                  1                  1                  1                  
+   Infections≠B-NonOSE_AE                                                                                                      
+     Upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE     7                  6                  6                  6                  
+   Investigations≠B-NonOSE_AE                                                                                                  
+     Heart≠B-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE              5                  6                  6                  1                  
+     Blood≠B-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE          3                  3                  3                  1                  
+   Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                 
+     Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE                1                  2                  2                  0                  
+   Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                        
+     Headache≠B-OSE_Labeled_AE                          19                 17                 18                 14                 
+     Dizziness≠B-OSE_Labeled_AE                         11                 10                 10                 6                  
+     Migraine≠B-OSE_Labeled_AE                          6                  4                  5                  3                  
+     Paresthesia≠B-OSE_Labeled_AE                       2                  3                  2                  2                  
+     Tremor≠B-OSE_Labeled_AE                            2                  2                  2                  1                  
+     Hypoesthesia≠B-OSE_Labeled_AE                      1                  2                  1                  1                  
+     Tension≠B-OSE_Labeled_AE   headache≠I-OSE_Labeled_AE                  2                  1                  1                  1                  
+   Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                           
+     Insomnia≠B-OSE_Labeled_AE                          12                 12                 12                 10                 
+     Anxiety≠B-OSE_Labeled_AE                           5                  3                  4                  4                  
+   Respiratory≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                           
+   Dyspnea≠B-OSE_Labeled_AE                             2                  2                  2                  1                  
+   Skin≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                                  
+     Hyperhidrosis≠B-OSE_Labeled_AE                     8                  9                  9                  2                  
+     Rash≠B-OSE_Labeled_AE                              3                  4                  3                  2                  
+     Pruritus≠B-OSE_Labeled_AE                          3                  2                  2                  2                  
+   Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                              
+     Hot≠B-OSE_Labeled_AE   flush≠I-OSE_Labeled_AE                         11                 12                 12                 2                  
+     Hypertension≠B-OSE_Labeled_AE                      7                  4                  5                  2                  
+     Flushing≠B-OSE_Labeled_AE                          2                  3                  3                  1                  
+                Weight≠B-OSE_Labeled_AE   Changes≠I-OSE_Labeled_AE   
+ 
+
+ In placebo-controlled fibromyalgia clinical trials, patients treated with Savella for up to 3 months experienced a mean  weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  of approximately 0.8 kg in both the Savella 100 mg/day and the Savella 200 mg/day treatment groups, compared with a mean  weight≠B-NonOSE_AE   loss≠I-NonOSE_AE  of approximately 0.2 kg in placebo-treated patients.
+
+
+
+     Genitourinary Adverse Reactions in Males  
+
+
+
+ In the placebo-controlled  fibromyalgia≠B-Not_AE_Candidate  studies, the following treatment-emergent adverse reactions related to the genitourinary system were observed in at least 2% of male patients treated with Savella, and occurred at a rate greater than in placebo-treated male patients:  dysuria≠B-OSE_Labeled_AE ,  ejaculation≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  erectile≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE ,  ejaculation≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  libido≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  prostatitis≠B-OSE_Labeled_AE ,  scrotal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  testicular≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  testicular≠B-OSE_Labeled_AE   swelling≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   hesitation≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE ,  urethral≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE , and  urine≠B-OSE_Labeled_AE   flow≠I-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE .
+
+
+
+     Other Adverse Reactions Observed During Clinical Trials of Savella in Fibromyalgia  
+
+
+
+ Following is a list of frequent (those occurring on one or more occasions in at least 1/100 patients) treatment-emergent adverse reactions reported from 1824  fibromyalgia≠B-Not_AE_Candidate  patients treated with Savella for periods up to 68 weeks. The listing does not include those events already listed in    Table 4    , those events for which a drug cause was remote, those events which were so general as to be uninformative, and those events reported only once which did not have a substantial probability of being acutely life threatening.
+
+
+
+ Adverse reactions are categorized by body system and listed in order of decreasing frequency. Adverse reactions of major clinical importance are described in the  Warnings and Precautions section (  5  )  .
+
+
+
+  Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE  -  diarrhea≠B-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE ,  gastroesophageal≠B-OSE_Labeled_AE   reflux≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE ,  flatulence≠B-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   distension≠I-OSE_Labeled_AE 
+
+
+
+  General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE  -  fatigue≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  irritability≠B-OSE_Labeled_AE ,  pyrexia≠B-OSE_Labeled_AE 
+
+
+
+  Infections≠B-NonOSE_AE  -  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  cystitis≠B-OSE_Labeled_AE 
+
+
+
+  Injury≠B-NonOSE_AE  ,≠I-NonOSE_AE   Poisoning≠I-NonOSE_AE  ,≠I-NonOSE_AE   and≠I-NonOSE_AE   Procedural≠I-NonOSE_AE   Complications≠I-NonOSE_AE  -  contusion≠B-OSE_Labeled_AE ,  fall≠B-OSE_Labeled_AE 
+
+
+
+  Investigations≠B-NonOSE_AE  -  weight≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE  or increased
+
+
+
+  Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE  -  hypercholesterolemia≠B-OSE_Labeled_AE 
+
+
+
+  Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE  -  somnolence≠B-OSE_Labeled_AE ,  dysgeusia≠B-OSE_Labeled_AE 
+
+
+
+  Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE  -  depression≠B-OSE_Labeled_AE ,  stress≠B-OSE_Labeled_AE 
+
+
+
+  Skin≠B-NonOSE_AE   Disorders≠I-NonOSE_AE  -  night≠B-OSE_Labeled_AE   sweats≠I-OSE_Labeled_AE 
+
+
+
+   6.2 Postmarketing Experience
+
+  The following additional adverse reactions have been identified from spontaneous reports of Savella received worldwide. These adverse reactions have been chosen for inclusion because of a combination of seriousness, frequency of reporting, or potential causal connection to Savella. However, because these adverse reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. These events include:
+
+
+
+  Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE  -  leukopenia≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE 
+
+
+
+  Cardiac≠B-NonOSE_AE   Disorders≠I-NonOSE_AE  -  supraventricular≠B-OSE_Labeled_AE   tachycardia≠I-OSE_Labeled_AE 
+
+
+
+  Eye≠B-NonOSE_AE   Disorders≠I-NonOSE_AE  -  accommodation≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE 
+
+
+
+  Endocrine≠B-NonOSE_AE   Disorders≠I-NonOSE_AE  -  hyperprolactinemia≠B-OSE_Labeled_AE 
+
+
+
+  Hepatobiliary≠B-NonOSE_AE   Disorders≠I-NonOSE_AE  -  hepatitis≠B-OSE_Labeled_AE 
+
+
+
+  Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE  -  anorexia≠B-OSE_Labeled_AE ,  hyponatremia≠B-OSE_Labeled_AE 
+
+
+
+  Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE  -  rhabdomyolysis≠B-OSE_Labeled_AE 
+
+
+
+  Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE  -  convulsions≠B-OSE_Labeled_AE  (including grand mal),  loss≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   consciousness≠I-OSE_Labeled_AE ,  Parkinsonism≠B-OSE_Labeled_AE 
+
+
+
+  Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE  -  aggression≠B-OSE_Labeled_AE ,  anger≠B-OSE_Labeled_AE ,  delirium≠B-OSE_Labeled_AE ,  hallucination≠B-OSE_Labeled_AE ,  homicidal≠B-OSE_Labeled_AE   ideation≠I-OSE_Labeled_AE 
+
+
+
+  Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   Urinary≠I-NonOSE_AE   Disorders≠I-NonOSE_AE  -  acute≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE 
+
+
+
+  Reproductive≠B-NonOSE_AE   System≠I-NonOSE_AE   and≠I-NonOSE_AE   Breast≠I-NonOSE_AE   Disorders≠I-NonOSE_AE  -  galactorrhea≠B-OSE_Labeled_AE 
+
+
+
+  Skin≠B-NonOSE_AE   Disorders≠I-NonOSE_AE  -  erythema≠B-OSE_Labeled_AE   multiforme≠I-OSE_Labeled_AE ,  Stevens≠B-OSE_Labeled_AE   Johnson≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE 
+
+
+
+  Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE  -  hypertensive≠B-OSE_Labeled_AE   crisis≠I-OSE_Labeled_AE 

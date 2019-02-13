@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="KLARON">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  In controlled clinical trials for the management of  acne vulgaris  , the occurrence of adverse reactions associated with the use of Klaron Lotion was infrequent and restricted to local events. The total incidence of adverse reactions reported in these studies was less than 2%. Only one of 105 patients treated with Klaron Lotion had adverse reactions of erythema, itching, and edema. It has been reported that sodium sulfacetamide may cause local irritation, stinging, and burning. While the irritation may be transient, occasionally the use of medication has to be discontinued.
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  For external use only. Keep away from eyes. If irritation develops, use of the product should be discontinued and appropriate therapy instituted. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. Hypersensitivity reactions may occur when a sulfonamide is readministered irrespective of the route of administration, and cross-sensitivity between different sulfonamides may occur. Sodium sulfacetamide can cause reddening and scaling of the skin. Particular caution should be employed if areas of involved skin to be treated are denuded or abraded.
+
+
+
+  Keep out of reach of children.  
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Long-term studies in animals have not been performed to evaluate carcinogenic potential.
+
+
+
+ Animal reproduction studies have not been conducted with Klaron Lotion. It is also not known whether Klaron Lotion can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Klaron Lotion should be given to a pregnant woman only if clearly needed.
+
+
+
+ Kernicterus may occur in the newborn as a result of treatment of a pregnant woman at term with orally administered sulfonamide. There are no adequate and well-controlled studies of Klaron Lotion in pregnant women, and it is not known whether topically applied sulfonamides can cause fetal harm when administered to a pregnant woman.
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether sodium sulfacetamide is excreted in human milk following topical use of Klaron Lotion. Systemically administered sulfonamides are capable of producing kernicterus in the infants of lactating women. Small amounts of orally administered sulfonamides have been reported to be eliminated in human milk. Because many drugs are excreted in human milk, caution should be exercised in prescribing for nursing women.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in pediatric patients under the age of 12 have not been established.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias. Hypersensitivity reactions may occur when a sulfonamide is readministered, irrespective of the route of administration. Sensitivity reactions have been reported in individuals with no prior history of sulfonamide hypersensitivity. At the first sign of hypersensitivity, skin rash, or other reactions, discontinue use of this preparation (see   ADVERSE REACTIONS    ).
+
+
+
+ Klaron Lotion contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people. The overall prevalence of sulfite sensitivity in the general population is unknown and probably low. Sulfite sensitivity is seen more frequently in asthmatic than in non-asthmatic people (see   CONTRAINDICATIONS    ).
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="688" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1468" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="1928" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

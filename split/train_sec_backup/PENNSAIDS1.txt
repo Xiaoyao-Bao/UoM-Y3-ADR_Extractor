@@ -1,0 +1,108 @@
+  6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+ *  Cardiovascular Thrombotic Events [ see  Warnings and Precautions (5.1)   ] 
+ *  GI Bleeding, Ulceration and Perforation [ see  Warnings and Precautions (5.2)   ] 
+ *  Hepatotoxicity [ see  Warnings and Precautions (5.3)   ] 
+ *  Hypertension [ see  Warnings and Precautions (5.4)   ] 
+ *  Heart Failure and Edema [ see  Warnings and Precautions (5.5)   ] 
+ *  Renal Toxicity and Hyperkalemia [ see  Warnings and Precautions (5.6)   ] 
+ *  Anaphylactic Reactions [ see  Warnings and Precautions (5.7)   ] 
+ *  Serious Skin Reactions [ see  Warnings and Precautions (5.9)   ] 
+ *  Hematologic Toxicity [ see  Warnings and Precautions (5.11)   ] 
+      EXCERPT:   The most common adverse reactions with PENNSAID are application site reactions. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Horizon Pharma USA Inc. at 1-866-479-6742 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+ The data described below reflect exposure to PENNSAID of 130 patients treated for 4 weeks (mean duration of 28 days) in one Phase 2 controlled trial. This population's mean age was approximately 60 years, 85% of patients were Caucasian, 65% were females, and all patients had primary osteoarthritis. The most common adverse events with PENNSAID were application site skin reactions. These events were the most common reason for withdrawing from the study.
+
+     Application Site Reactions:  
+
+ In this controlled trial, application site reactions were characterized by one or more of the following: dryness (22%), exfoliation (7%), erythema (4%), pruritus (2%), pain (2%), induration (2%), rash (2%), and scabbing (<1%).
+
+     Other Common Adverse Reactions:  
+
+ Table 1 lists all adverse reactions occurring in >1% of patients receiving PENNSAID, where the rate in the PENNSAID group exceeded vehicle, from a controlled study conducted in patients with osteoarthritis.
+
+ Table 1: Incidence of Adverse Reactions Occurring in >1% of Subjects with Osteoarthritis Using PENNSAID and More Often than in Subjects with OA Using Vehicle Control (Pooled) 
+ Adverse Reaction                                       PENNSAIDN=130n (%)      Vehicle ControlN=129n (%)   
+  
+   Urinary tract infection                                    4 (3%)                     1 (<1%)            
+   Application site induration                                2 (2%)                     1 (<1%)            
+   Contusion                                                  2 (2%)                     1 (<1%)            
+   Sinus congestion                                           2 (2%)                     1 (<1%)            
+   Nausea                                                     2 (2%)                        0               
+             PENNSAID 1.5%  
+ 
+
+ The safety of PENNSAID 2% is based in part, on prior experience with PENNSAID 1.5%. The data described below reflect exposure to PENNSAID 1.5% of 911 patients treated between 4 and 12 weeks (mean duration of 49 days) in seven Phase 3 controlled trials, as well as exposure of 793 patients treated in an open-label study, including 463 patients treated for at least 6 months, and 144 patients treated for at least 12 months. The population mean age was approximately 60 years, 89% of patients were Caucasian, 64% were females, and all patients had primary osteoarthritis. The most common adverse events with PENNSAID 1.5% were application site skin reactions. These events were the most common reason for withdrawing from the studies.
+
+     Application Site Reactions:  
+
+ In controlled trials, application site reactions were characterized by one or more of the following: dryness, erythema, induration, vesicles, paresthesia, pruritus, vasodilation, acne, and urticaria. The most frequent of these reactions were dry skin (32%), contact dermatitis characterized by skin erythema and induration (9%), contact dermatitis with vesicles (2%) and pruritus (4%). In one controlled trial, a higher rate of contact dermatitis with vesicles (4%) was observed after treatment of 152 subjects with the combination of PENNSAID 1.5% and oral diclofenac. In the open-label uncontrolled long-term safety study, contact dermatitis occurred in 13% and contact dermatitis with vesicles in 10% of patients, generally within the first 6 months of exposure, leading to a withdrawal rate for an application site event of 14%.
+
+     Other Common Adverse Reactions:  
+
+ In controlled trials, subjects treated with PENNSAID 1.5% experienced some adverse events associated with the NSAID class more frequently than subjects using placebo (constipation, diarrhea, dyspepsia, nausea, flatulence, abdominal pain, edema; see  Table 2  ). The combination of PENNSAID 1.5% and oral diclofenac, compared to oral diclofenac alone, resulted in a higher rate of rectal hemorrhage (3% vs. less than 1%), and more frequent abnormal creatinine (12% vs. 7%), urea (20% vs. 12%), and hemoglobin (13% vs. 9%), but no difference in elevation of liver transaminases.
+
+ Table 2 lists all adverse reactions occurring in >=1% of patients receiving PENNSAID 1.5%, where the rate in the PENNSAID 1.5% group exceeded placebo, from seven controlled studies conducted in patients with osteoarthritis. Since these trials were of different durations, these percentages do not capture cumulative rates of occurrence.
+
+ Table 2: Adverse Reactions Occurring in >=1% of Patients Treated with PENNSAID 1.5% Topical Solution in Placebo and Oral Diclofenac-Controlled Trials 
+ Treatment Group:                                       PENNSAID 1.5%N=911        Topical PlaceboN=332      
+ Adverse Reaction                                              N (%)                      N (%)             
+  
+ Dry Skin (Application Site)                                 292 (32)                    17 (5)             
+ Contact Dermatitis (Application Site)                        83 (9)                      6 (2)             
+ Dyspepsia                                                    72 (8)                     13 (4)             
+ Abdominal Pain                                               54 (6)                     10 (3)             
+ Flatulence                                                   35 (4)                     1 (<1)             
+ Pruritus (Application Site)                                  34 (4)                      7 (2)             
+ Diarrhea                                                     33 (4)                      7 (2)             
+ Nausea                                                       33 (4)                      3 (1)             
+ Pharyngitis                                                  40 (4)                     13 (4)             
+ Constipation                                                 29 (3)                     1 (<1)             
+ Edema                                                        26 (3)                        0               
+ Rash (Non-Application Site)                                  25 (3)                      5 (2)             
+ Infection                                                    25 (3)                      8 (2)             
+ Ecchymosis                                                   19 (2)                     1 (<1)             
+ Dry Skin (Non-Application Site)                              19 (2)                     1 (<1)             
+ Contact Dermatitis, vesicles (Application Site)              18 (2)                        0               
+ Paresthesia (Non-Application Site)                           14 (2)                     3 (<1)             
+ Accidental Injury                                            22 (2)                      7 (2)             
+ Pruritus (Non-Application Site)                              15 (2)                     2 (<1)             
+ Sinusitis                                                    10 (1)                     2 (<1)             
+ Halitosis                                                    11 (1)                     1 (<1)             
+ Application Site Reaction (not otherwise specified)           11 (1)                     3 (<1)             
+           6.2 Postmarketing Experience
+   In postmarketing surveillance, the following adverse reactions have been reported during post- approval use of PENNSAID 1.5%. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+   Body as a Whole:  abdominal pain, accidental injury, allergic reactions, asthenia, back pain, body odor, chest pain, edema, face edema, halitosis, headache, neck rigidity, pain
+
+   Cardiovascular:  palpitation, cardiovascular disorder
+
+   Gastrointestinal:  diarrhea, dry mouth, dyspepsia, gastroenteritis, decreased appetite, lip swelling, mouth ulceration, nausea, rectal hemorrhage, ulcerative stomatitis, swollen tongue
+
+   Metabolic and Nutritional:  creatinine increased
+
+   Musculoskeletal:  leg cramps, myalgia
+
+   Nervous:  depression, dizziness, drowsiness, lethargy, paresthesia at application site
+
+   Respiratory:  asthma, dyspnea, laryngismus, laryngitis, pharyngitis, throat swelling
+
+   Skin and Appendages: At the Application Site:  rash, skin burning sensation;
+
+   Other Skin and Appendages Adverse Reactions:  eczema, skin discoloration, urticaria
+
+   Special Senses:  abnormal vision, blurred vision, cataract, ear pain, eye disorder, eye pain, taste perversion
+
+   Vascular:  blood pressure increased, hypertension
+

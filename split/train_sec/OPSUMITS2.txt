@@ -1,0 +1,19 @@
+
+
+    BOXED WARNING: WARNING:   EMBRYO≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  FETAL≠I-OSE_Labeled_AE   TOXICITY≠I-OSE_Labeled_AE 
+
+    WARNING:  EMBRYO-FETAL TOXICITY  
+
+    *  Do not administer OPSUMIT to a  pregnant≠B-Not_AE_Candidate  female because it may cause  fetal≠B-OSE_Labeled_AE   harm≠I-OSE_Labeled_AE  [see Contraindications (4.1), Warnings and Precautions (5.1), Use in Specific Populations (8.1)]. 
+ *  Females of reproductive potential: Exclude  pregnancy≠B-Not_AE_Candidate  before the start of treatment, monthly during treatment, and 1 month after stopping treatment. Prevent  pregnancy≠B-Not_AE_Candidate  during treatment and for one month after stopping treatment by using acceptable methods of contraception [see Use in Special Populations (8.6)]. 
+ *  For all female patients, OPSUMIT is available only through a restricted program called the OPSUMIT Risk Evaluation and Mitigation Strategy (REMS) [see Warnings and Precautions (5.2)]. 
+      EXCERPT:     WARNING:  EMBRYO-FETAL TOXICITY  
+ 
+
+   See full prescribing information for complete boxed warning  
+
+
+
+ *  Do not administer OPSUMIT to a pregnant female because it may cause fetal harm (4.1, 5.1, 8.1). 
+ *  Females of reproductive potential: exclude pregnancy before start of treatment, monthly during treatment, and 1 month after stopping treatment. Prevent pregnancy during treatment and for one month after treatment by using acceptable methods of contraception (2.2, 8.6). 
+ *  For all female patients, OPSUMIT is available only through a restricted program called the OPSUMIT Risk Evaluation and Mitigation Strategy (REMS) (5.2). 

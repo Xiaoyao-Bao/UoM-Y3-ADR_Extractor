@@ -1,0 +1,159 @@
+    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described below and elsewhere in the labeling:
+
+
+
+ *   Suicidal≠B-OSE_Labeled_AE   Behavior≠I-OSE_Labeled_AE  and Ideation [ see  Warnings and Precautions (5.1)   ] 
+ *   Dizziness≠B-OSE_Labeled_AE  and  Ataxia≠B-OSE_Labeled_AE  [ see  Warnings and Precautions (5.2)   ] 
+ *   Cardiac≠B-OSE_Labeled_AE   Rhythm≠I-OSE_Labeled_AE  and Conduction  Abnormalities≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.3)   ] 
+ *   Syncope≠B-OSE_Labeled_AE  [ see  Warnings and Precautions (5.4)   ] 
+ *   Multiorgan≠B-OSE_Labeled_AE   Hypersensitivity≠I-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.5)   ] 
+   *  Monotherapy: Most common adverse reactions are similar to those seen in adjunctive therapy studies (  6.1  ) 
+ *  Adjunctive therapy: Most common adverse reactions (>=10% and greater than placebo) are  diplopia≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE  (  6.1  ) 
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact UCB, Inc. at 1-844-599-2273 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In the premarketing development of adjunctive therapy for  partial≠B-Not_AE_Candidate -onset  seizures≠I-Not_AE_Candidate , 1327 patients received VIMPAT in controlled and uncontrolled trials, of whom 1000 were treated for longer than 6 months, and 852 for longer than 12 months. The monotherapy development program included 425 patients, 310 of whom were treated for longer than 6 months, and 254 for longer than 12 months.
+
+
+
+     VIMPAT Tablet and Oral Solution  
+
+
+
+     Monotherapy Historical-Control Trial (Study 1)  
+
+
+
+ *     In the monotherapy trial, 16% of patients randomized to receive VIMPAT at the recommended doses of 300 and 400 mg/day discontinued from the trial as a result of an adverse reaction. The adverse reaction most commonly (>=1% on VIMPAT) leading to discontinuation was  dizziness≠B-OSE_Labeled_AE . 
+   *     Adverse reactions that occurred in this study were generally similar to those that occurred in adjunctive placebo-controlled studies. One adverse reaction,  insomnia≠B-OSE_Labeled_AE , occurred at a rate of >=2% and was not reported at a similar rate in previous studies. This adverse reaction has also been observed in postmarketing experience [ see  Adverse Reactions (6.2)   ]. Because this study did not include a placebo control group, causality could not be established. 
+   *      Dizziness≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE , and  fatigue≠B-OSE_Labeled_AE  all occurred at lower incidences during the AED Withdrawal Phase and Monotherapy Phase, compared with the Titration Phase [ see  Clinical Studies (14.1)   ]. 
+        Adjunctive Therapy Controlled Trials (Studies 2, 3, and 4)  
+ 
+
+ *     In adjunctive therapy controlled clinical trials, the rate of discontinuation as a result of an adverse reaction was 8% and 17% in patients randomized to receive VIMPAT at the recommended doses of 200 and 400 mg/day, respectively, 29% at 600 mg/day, and 5% in patients randomized to receive placebo. The adverse reactions most commonly (>1% on VIMPAT and greater than placebo) leading to discontinuation were  dizziness≠B-OSE_Labeled_AE ,  ataxia≠B-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE ,  diplopia≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  vertigo≠B-OSE_Labeled_AE , and  blurred≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE . 
+   *     Table 2 gives the incidence of adverse reactions that occurred in >=2% of adult patients with  partial≠B-Not_AE_Candidate -onset  seizures≠I-Not_AE_Candidate  in the VIMPAT total group and for which the incidence was greater than placebo. 
+   Table 2: Adverse Reactions Incidence in Adjunctive Therapy Pooled, Placebo-Controlled Trials in Patients with Partial-Onset Seizures (Studies 2, 3, and 4) 
+ System Organ Class/Preferred Term   PlaceboN=364%    VIMPAT200 mg/dayN=270%  VIMPAT400 mg/dayN=471%  VIMPAT600 mg/dayN=203%  VIMPATTotalN=944%   
+  
+    Ear≠B-NonOSE_AE   and≠I-NonOSE_AE   labyrinth≠I-NonOSE_AE   disorder≠I-NonOSE_AE      
+    Vertigo≠B-OSE_Labeled_AE                     1                 5                 3                 4                 4           
+    Eye≠B-NonOSE_AE   disorders≠I-NonOSE_AE         
+    Diplopia≠B-OSE_Labeled_AE                    2                 6                 10                16                11          
+    Blurred≠B-OSE_Labeled_AE   Vision≠I-OSE_Labeled_AE              3                 2                 9                 16                8           
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Nausea≠B-OSE_Labeled_AE                      4                 7                 11                17                11          
+    Vomiting≠B-OSE_Labeled_AE                    3                 6                 9                 16                9           
+    Diarrhea≠B-OSE_Labeled_AE                    3                 3                 5                 4                 4           
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE      
+    Fatigue≠B-OSE_Labeled_AE                     6                 7                 7                 15                9           
+    Gait≠B-OSE_Labeled_AE   disturbance≠I-OSE_Labeled_AE            <1                <1                2                 4                 2           
+    Asthenia≠B-OSE_Labeled_AE                    1                 2                 2                 4                 2           
+    Injury≠B-NonOSE_AE  ,≠I-NonOSE_AE   poisoning≠I-NonOSE_AE   and≠I-NonOSE_AE   procedural≠I-NonOSE_AE   complications≠I-NonOSE_AE      
+    Contusion≠B-OSE_Labeled_AE                   3                 3                 4                 2                 3           
+    Skin≠B-OSE_Labeled_AE   laceration≠I-OSE_Labeled_AE             2                 2                 3                 3                 3           
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Dizziness≠B-OSE_Labeled_AE                   8                 16                30                53                31          
+    Headache≠B-OSE_Labeled_AE                    9                 11                14                12                13          
+    Ataxia≠B-OSE_Labeled_AE                      2                 4                 7                 15                8           
+    Somnolence≠B-OSE_Labeled_AE                  5                 5                 8                 8                 7           
+    Tremor≠B-OSE_Labeled_AE                      4                 4                 6                 12                7           
+    Nystagmus≠B-OSE_Labeled_AE                   4                 2                 5                 10                5           
+    Balance≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE            0                 1                 5                 6                 4           
+    Memory≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE           2                 1                 2                 6                 2           
+    Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Depression≠B-OSE_Labeled_AE                  1                 2                 2                 2                 2           
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+    Pruritus≠B-OSE_Labeled_AE                    1                 3                 2                 3                 2           
+            The overall adverse reaction rate was similar in male and female patients. Although there were few non-Caucasian patients, no differences in the incidences of adverse events compared to Caucasian patients were observed.
+ 
+
+     Laboratory Abnormalities  
+
+
+
+ *      Abnormalities≠B-OSE_Labeled_AE  in  liver≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   tests≠I-OSE_Labeled_AE  have occurred in controlled trials with VIMPAT in adult patients with  partial≠B-Not_AE_Candidate -onset  seizures≠I-Not_AE_Candidate  who were taking 1 to 3 concomitant anti-epileptic drugs.  Elevations≠B-OSE_Labeled_AE  of  ALT≠I-OSE_Labeled_AE  to >=3* ULN occurred in 0.7% (7/935) of VIMPAT patients and 0% (0/356) of placebo patients . One case of  hepatitis≠B-OSE_Labeled_AE  with  transaminases≠B-NonOSE_AE   >≠I-NonOSE_AE  2≠I-NonOSE_AE  0≠I-NonOSE_AE  *≠I-NonOSE_AE   ULN≠I-NonOSE_AE  occurred in one healthy subject 10 days after VIMPAT treatment completion, along with  nephritis≠B-OSE_Labeled_AE  ( proteinuria≠B-NonOSE_AE  and  urine≠B-NonOSE_AE   casts≠I-NonOSE_AE ). Serologic studies were negative for  viral≠B-NonOSE_AE   hepatitis≠I-NonOSE_AE . Transaminases returned to normal within one month without specific treatment. At the time of this event, bilirubin was normal. The  hepatitis≠B-NonOSE_AE / nephritis≠B-NonOSE_AE  was interpreted as a  delayed≠B-OSE_Labeled_AE   hypersensitivity≠I-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE  to VIMPAT. 
+        Other Adverse Reactions  
+ 
+
+ *     The following is a list of adverse reactions reported by patients treated with VIMPAT in all clinical trials in patients with  partial≠B-Not_AE_Candidate -onset  seizures≠I-Not_AE_Candidate , including controlled trials and long-term open-label extension trials. Adverse reactions addressed in other tables or sections are not listed here. 
+   *      Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  neutropenia≠B-OSE_Labeled_AE ,  anemia≠B-OSE_Labeled_AE  
+   *      Cardiac≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  palpitations≠B-OSE_Labeled_AE  
+   *      Ear≠B-NonOSE_AE   and≠I-NonOSE_AE   labyrinth≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  tinnitus≠B-OSE_Labeled_AE  
+   *      Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  constipation≠B-OSE_Labeled_AE ,  dyspepsia≠B-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE ,  oral≠B-OSE_Labeled_AE   hypoaesthesia≠I-OSE_Labeled_AE  
+   *      General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE :  irritability≠B-OSE_Labeled_AE ,  pyrexia≠B-OSE_Labeled_AE ,  feeling≠B-OSE_Labeled_AE   drunk≠I-OSE_Labeled_AE  
+   *      Injury≠B-NonOSE_AE  ,≠I-NonOSE_AE   poisoning≠I-NonOSE_AE  ,≠I-NonOSE_AE   and≠I-NonOSE_AE   procedural≠I-NonOSE_AE   complications≠I-NonOSE_AE :  fall≠B-OSE_Labeled_AE  
+   *      Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE  
+   *      Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  paresthesia≠B-OSE_Labeled_AE ,  cognitive≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  hypoaesthesia≠B-OSE_Labeled_AE ,  dysarthria≠B-OSE_Labeled_AE ,  disturbance≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   attention≠I-OSE_Labeled_AE ,  cerebellar≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  
+   *      Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  confusional≠B-OSE_Labeled_AE   state≠I-OSE_Labeled_AE ,  mood≠B-OSE_Labeled_AE   altered≠I-OSE_Labeled_AE ,  depressed≠B-OSE_Labeled_AE   mood≠I-OSE_Labeled_AE  
+        VIMPAT Injection  
+ 
+
+ Adverse reactions with intravenous administration generally were similar to those that occurred with the oral formulation, although intravenous administration was associated with local adverse reactions such as  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  or discomfort (2.5%), irritation (1%), and erythema (0.5%). One case of profound  bradycardia≠B-NonOSE_AE  (26 bpm: BP 100/60 mmHg) occurred in a patient during a 15-minute infusion of 150 mg VIMPAT. This patient was on a beta-blocker. Infusion was discontinued and the patient experienced a rapid recovery.
+
+
+
+ The safety of a 15-minute loading dose administration of VIMPAT Injection 200 mg to 400 mg followed by oral administration of VIMPAT given twice daily at the same total daily dose as the initial intravenous infusion was assessed in an open-label study in patients with  partial≠B-Not_AE_Candidate -onset  seizures≠I-Not_AE_Candidate . Patients had to have been maintained on a stable dose regimen of 1 to 2 marketed antiepileptics for at least 28 days prior to treatment assignment. Treatment groups were as follows:
+
+
+
+ *  Single dose of intravenous VIMPAT Injection 200 mg followed by oral VIMPAT 200 mg/day (100 mg every 12 hours) 
+ *  Single dose of intravenous VIMPAT Injection 300 mg followed by oral VIMPAT 300 mg/day (150 mg every 12 hours) 
+ *  Single dose of intravenous VIMPAT Injection 400 mg followed by oral VIMPAT 400 mg/day (200 mg every 12 hours). 
+    Table 3 gives the incidence of adverse reactions that occurred in >=5% of adult patients in any VIMPAT dosing group.
+ 
+
+ Table 3: Adverse Reactions in a 15-minute Infusion Study in Patients with Partial-Onset Seizures 
+ System Organ Class/Preferred Term                 VIMPAT 200 mgN=25%  VIMPAT 300 mgN=50%  VIMPAT 400 mgN=25%  VIMPAT TotalN=100%   
+  
+    Eye≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                                 
+    Diplopia≠B-OSE_Labeled_AE                                               4              6             20              9         
+    Blurred≠B-OSE_Labeled_AE   Vision≠I-OSE_Labeled_AE                                         0              4             12              5         
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                    
+    Nausea≠B-OSE_Labeled_AE                                                 0             16             24             14         
+    Dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE                                              0              6             12              6         
+    Vomiting≠B-OSE_Labeled_AE                                               0              4             12              5         
+    Oral≠B-OSE_Labeled_AE   Paresthesia≠I-OSE_Labeled_AE                                       4              4              8              5         
+    Oral≠B-OSE_Labeled_AE   Hypoesthesia≠I-OSE_Labeled_AE                                      0              6              8              5         
+    Diarrhea≠B-OSE_Labeled_AE                                               0              8              0              4         
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE  /≠I-NonOSE_AE  administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE                                                                  
+    Fatigue≠B-OSE_Labeled_AE                                                0             18             12             12         
+    Gait≠B-OSE_Labeled_AE   disturbance≠I-OSE_Labeled_AE                                       8              2              0              3         
+    Chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE                                             0              0             12              3         
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                      
+    Dizziness≠B-OSE_Labeled_AE                                             20             46             60             43         
+    Somnolence≠B-OSE_Labeled_AE                                             0             34             36             26         
+    Headache≠B-OSE_Labeled_AE                                               8              4             16              8         
+    Paresthesia≠B-OSE_Labeled_AE                                            8              6              4              6         
+    Tremor≠B-OSE_Labeled_AE                                                 0              6              4              4         
+    Abnormal≠B-OSE_Labeled_AE   Coordination≠I-OSE_Labeled_AE                                  0              6              0              3         
+    Skin≠B-NonOSE_AE   &≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                          
+    Pruritus≠B-OSE_Labeled_AE                                               0              6              4              4         
+    Hyperhidrosis≠B-OSE_Labeled_AE                                          0              0              8              2         
+           Adverse reactions that occurred with infusion of VIMPAT 200 mg over 15-minutes followed by VIMPAT 100 mg administered orally twice per day were similar in frequency to those that occurred in 3-month adjunctive therapy controlled trials. Considering the difference in period of observations (1 week vs. 3 months), the incidence of CNS adverse reactions, such as  dizziness≠B-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE , and  paresthesia≠B-OSE_Labeled_AE  may be higher with 15-minute administration of VIMPAT Injection than with administration over a 30-to 60-minute period.
+ 
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post-approval use of VIMPAT. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+  Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   lymphatic≠I-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  Agranulocytosis≠B-OSE_Labeled_AE 
+
+
+
+  Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  Aggression≠B-OSE_Labeled_AE ,  agitation≠B-OSE_Labeled_AE ,  hallucination≠B-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  psychotic≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE 
+
+
+
+  Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  Angioedema≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE ,  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE .

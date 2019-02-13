@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- Copyright (C) 2018 The MITRE Corporation. See the toplevel
+file LICENSE.txt for license terms. -->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html;
+      charset=windows-1252">
+    <title>ADE Eval: Overview</title>
+    <link href="css/doc.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <h1>Overview</h1>
+    <p>The Adverse Drug Event Evaluation (ADE Eval) is an evaluation of
+      tools to identify adverse events (AEs) mentioned in publicly
+      available drug labels. The FDA CDER Office of Surveillance and
+      Epidemiology (OSE) is sponsoring this ADE Eval.&nbsp; OSE is
+      interested in a tool that would enable pharmacovigilance safety
+      evaluators to automate the identification of labeled AEs which
+      could facilitate triage, review and processing of safety case
+      reports. <br>
+      &nbsp;<br>
+      This evaluation uses a definition of adverse drug reactions
+      specific to the business process in the Office of Surveillance and
+      Epidemiology. The task will consist of identifying OSE-defined
+      adverse drug reactions and mapping them to associated terms in the
+      Medical Dictionary for Regulatory Activities
+      (https://www.meddra.org) for specific sections of drug labels.<br>
+    </p>
+    <p>The metrics, data and data format are described in a separate
+      Word document entitled "Evaluation Data, Metrics and Software
+      Resources", available in the same location as this software.<br>
+    </p>
+    <p>This software package provides tools associated with the ADE
+      Eval. There are five utilities provided:<br>
+    </p>
+    <ul>
+      <li><a href="check_wfc.html">check_wfc.py</a> checks the
+        wellformedness of a directory of ADE Eval XML documents, both
+        gold and submission.</li>
+      <li><a href="evaluate.html">evaluate.py</a> scores submissions
+        against the gold standard.</li>
+      <li><a href="visualize.html">visualize.py</a> leverages the <a
+          href="http://brat.nlplab.org/index.html">brat annotation tool</a>
+        visualization capabilities to present visualizations of this
+        complex data set.</li>
+      <li><a href="convert_gold_to_submission.html">convert_gold_to_submission.py</a>
+        converts a gold corpus to an unannotated submission corpus
+        appropriate for adding submission annotations to.<br>
+      </li>
+      <li><a href="convert_tac_to_ose.html">convert_tac_to_ose.py</a>
+        converts appropriately-configured submissions to the NIST TAC
+        2017 ADR evaluation into ADE Eval submissions, for use as a
+        baseline if you previously participated in NIST TAC 2017.</li>
+    </ul>
+    <p>This package also documents the Python 2 API you can use to
+      programmatically create your submissions.<br>
+    </p>
+  </body>
+</html>

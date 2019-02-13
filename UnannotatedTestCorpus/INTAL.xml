@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="INTAL">
+  <Text>
+    <Section id="S1" name="adverse reactions">    Adverse Reactions
+
+  Clinical experience with the use of INTAL suggests that adverse reactions are rare events. The following adverse reactions have been associated with INTAL Nebulizer Solution: cough, nasal congestion, nausea, sneezing, and wheezing.
+
+
+
+ Other reactions have been reported in clinical trials; however, a causal relationship could not be established: drowsiness, nasal itching, nose bleed, nose burning, serum sickness, and stomachache.
+
+
+
+ In addition, adverse reactions have been reported with INTAL Capsules (cromolyn sodium for inhalation, USP). The most common side effects are associated with inhalation of the powder and include transient cough (1 in 5 patients) and mild wheezing (1 in 25 patients). These effects rarely require treatment or discontinuation of the drug.
+
+
+
+ Information on the incidence of adverse reactions to INTAL Capsules has been derived from U.S. postmarketing surveillance experience. The following adverse reactions attributed to INTAL, based upon recurrence following readministration, have been reported in less than 1 in 10,000 patients: laryngeal edema, swollen parotid gland, angioedema, bronchospasm, joint swelling and pain, dizziness, dysuria and urinary frequency, nausea, cough, wheezing, headache, nasal congestion, rash, urticaria, and lacrimation.
+
+
+
+ Other adverse reactions have been reported in less than 1 in 100,000 patients, and it is unclear whether these are attributable to the drug: anaphylaxis, nephrosis, periarteritic vasculitis, pericarditis, peripheral neuritis, pulmonary infiltrates with eosinophilia, polymyositis, exfoliative dermatitis, hemoptysis, anemia, myalgia, hoarseness, photodermatitis, and vertigo.
+</Section>
+    <Section id="S2" name="precautions">    Precautions
+
+
+
+   General
+
+
+
+  Occasionally, patients may experience cough and/or bronchospasm following INTAL inhalation. At times, patients who develop bronchospasm may not be able to continue INTAL administration despite prior bronchodilator administration. Rarely, very severe bronchospasm has been encountered.
+
+
+
+ Symptoms of asthma may recur if INTAL is reduced below the recommended dosage or discontinued.
+
+
+
+    Information for Patients
+
+
+
+  INTAL is to be taken as directed by the physician. Because it is preventive medication, it may take up to four weeks before the patient experiences maximum benefit.
+
+
+
+ INTAL Nebulizer Solution should be used in a power-driven nebulizer with an adequate airflow rate equipped with a suitable face mask or mouthpiece.
+
+
+
+ Drug stability and safety of INTAL Nebulizer Solution when mixed with other drugs in a nebulizer have not been established.
+
+
+
+ For additional information, see the accompanying leaflet entitled Living a Full Life with Asthma  .
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Long term studies of cromolyn sodium in mice (12 months intraperitoneal administration at doses up to 150 mg/kg three days per week), hamsters (intraperitoneal administration at doses up to 53 mg/kg three days per week for 15 weeks followed by 17.5 mg/kg three days per week for 37 weeks), and rats (18 months subcutaneous treatment at doses up to 75 mg/kg six days per week) showed no neoplastic effects. These doses correspond to approximately 1.0, 0.3, and 2 times, respectively, the maximum recommended human daily inhalation dose on a mg/m  2  basis.
+
+
+
+ Cromolyn sodium showed no mutagenic potential in Ames Salmonella/microsome plate assays, mitotic gene conversion in Saccharomyces cerevisiae  and in an in vitro  cytogenetic study in human peripheral lymphocytes.
+
+
+
+ No evidence of impaired fertility was shown in laboratory reproduction studies conducted subcutaneously in rats at the highest doses tested, 175 mg/kg/day in males and 100 mg/kg/day in females. These doses are approximately 18 and 10 times, respectively, the maximum recommended adult human daily inhalation dose on a mg/m  2  basis.
+
+
+
+    Pregnancy
+
+
+
+  Reproduction studies with cromolyn sodium administered subcutaneously to pregnant mice and rats at maximum daily doses of 540 mg/kg and 164 mg/kg, respectively, and intravenously to rabbits at a maximum daily dose of 485 mg/kg produced no evidence of fetal malformations. These doses represent approximately 27, 17, and 98 times, respectively, the maximum recommended adult human daily inhalation dose on a mg/m  2  basis. Adverse fetal effects (increased resorptions and decreased fetal weight) were noted only at the very high parenteral doses that produced maternal toxicity. There are, however, no adequate and well-controlled studies in pregnant women.
+
+
+
+ Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+
+
+    Drug Interaction During Pregnancy
+
+
+
+  Cromolyn sodium and isoproterenol were studied following subcutaneous injections in pregnant mice. Cromolyn sodium alone in doses up to 540 mg/kg (approximately 27 times the maximum recommended adult human daily inhalation dose on a mg/m  2  basis) did not cause significant increases in resorptions or major malformations. Isoproterenol alone at a dose of 2.7 mg/kg (approximately 7 times the maximum recommended adult human daily inhalation dose on a mg/m  2  basis) increased both resorptions and malformations. The addition of cromolyn sodium (approximately 27 times the maximum recommended adult human daily inhalation dose on a mg/m  2  basis) to isoproterenol (approximately 7 times the maximum recommended adult human daily inhalation dose on a mg/m  2  basis) appears to have increased the incidence of both resorptions and malformations.
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when INTAL is administered to a nursing woman.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in pediatric patients below the age of 2 years have not been established.
+
+
+
+    Geriatric Use
+
+
+
+  Clinical studies of INTAL did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+</Section>
+    <Section id="S3" name="warnings">    Warnings
+
+
+
+   INTAL has no role in the treatment of status asthmaticus.  
+
+
+
+ Anaphylactic reactions with cromolyn sodium administration have been reported rarely.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="426" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="1012" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="2188" />
+    <IgnoredRegion len="33" name="heading" section="S2" start="3019" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="3913" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="4124" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="4249" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

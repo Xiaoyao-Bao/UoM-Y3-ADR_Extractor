@@ -1,0 +1,94 @@
+    6 ADVERSE REACTIONS
+
+  The most commonly reported adverse reactions are  hypersensitivity≠B-OSE_Labeled_AE  (e.g.,  rash≠B-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE ) reactions due to the effect of GH (e.g.,  arthralgia≠B-OSE_Labeled_AE ,  extremity≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  carpal≠B-OSE_Labeled_AE   tunnel≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ),  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  ( injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   erythema≠I-OSE_Labeled_AE , pruritus, pain, urticaria, irritation, swelling, hemorrhage).
+
+
+
+ During the first 26 weeks of treatment (main phase), discontinuations as a result of adverse reactions occurred in 9.6% of patients receiving EGRIFTA  (r)  and 6.8% of patients receiving placebo. Apart from patients with  hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  identified during the studies and who were discontinued per protocol (2.2%), the most common reasons for discontinuation of EGRIFTA  (r)  treatment were adverse reactions due to the effect of GH (4.2%) and local  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (4.6%).
+
+
+
+ During the following 26 weeks of treatment (extension phase), discontinuations as a result of adverse events occurred in 2.4% of patients in the T-T group (patients treated with tesamorelin for Week 0-26 and with tesamorelin for Week 26-52) and 5.2% of patients in the T-P group (patients treated with tesamorelin for Week 0-26 and with placebo for Week 26-52).
+
+
+
+   EXCERPT:   Most commonly reported adverse reactions (>5% and more frequent than placebo): Arthralgia, injection site erythema, injection site pruritus, pain in extremity, peripheral edema, and myalgia. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    EGRIFTA ASSIST  TM  toll free at 1-844-EGRIFTA (1-844-347-4382) or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Seven hundred and forty  HIV≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  infected≠I-Not_AE_Candidate   patients≠I-Not_AE_Candidate   with≠I-Not_AE_Candidate   lipodystrophy≠I-Not_AE_Candidate  and  excess≠B-Not_AE_Candidate   abdominal≠I-Not_AE_Candidate   fat≠I-Not_AE_Candidate  were exposed to EGRIFTA  (r)  in the Phase 3 clinical trials; of these 543 received EGRIFTA  (r)  during the initial 26-week placebo-controlled phase  [see Clinical Studies (  14  )].  
+
+
+
+ Adverse reactions that occurred more frequently with EGRIFTA  (r)  relative to placebo and had an incidence >=1% during the first 26 weeks across all studies are presented in  Table 1  .
+
+
+
+ Table 1. Adverse Reactions Reported in >= 1% and More Frequent in EGRIFTA(r) -treated than Placebo Patients during the 26-Week Main Phase (Combined Studies) 
+                                              Incidence of patients (%) with adverse drug reactions   
+   System Organ Class  Preferred Term         EGRIFTA  (r)  (N=543)        Placebo(N=263)                  
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                  
+       Arthralgia≠B-OSE_Labeled_AE       Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE       Myalgia≠B-OSE_Labeled_AE       Musculoskeletal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE       Musculoskeletal≠B-OSE_Labeled_AE   stiffness≠I-OSE_Labeled_AE       Joint≠B-OSE_Labeled_AE   stiffness≠I-OSE_Labeled_AE       Muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE       Joint≠B-OSE_Labeled_AE   swelling≠I-OSE_Labeled_AE   13.36.15.51.81.71.51.11.1    11.04.61.90.80.40.80.80.0       
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE                                                                  
+       Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   erythema≠I-OSE_Labeled_AE       Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   pruritus≠I-OSE_Labeled_AE       Edema≠B-OSE_Labeled_AE   peripheral≠I-OSE_Labeled_AE       Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE       Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   irritation≠I-OSE_Labeled_AE       Pain≠B-OSE_Labeled_AE       Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE       Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   urticaria≠I-OSE_Labeled_AE       Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   swelling≠I-OSE_Labeled_AE       Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE       Chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE       Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE   8.57.66.14.12.91.71.71.71.51.31.11.1  2.70.82.33.01.11.10.40.40.40.80.80.0   
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE         Paresthesia≠B-OSE_Labeled_AE       Hypoesthesia≠B-OSE_Labeled_AE       Carpal≠B-OSE_Labeled_AE   tunnel≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE   4.84.21.5                    2.31.50.0                       
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE         Nausea≠B-OSE_Labeled_AE       Vomiting≠B-OSE_Labeled_AE       Dyspepsia≠B-OSE_Labeled_AE       Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE   4.42.61.71.1                 3.80.00.80.8                    
+    Cardiac≠B-NonOSE_AE   disorders≠I-NonOSE_AE         Palpitations≠B-OSE_Labeled_AE        1.1                          0.4                             
+    Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE         Depression≠B-OSE_Labeled_AE      2.0                          1.5                             
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                   
+       Rash≠B-OSE_Labeled_AE       Pruritus≠B-OSE_Labeled_AE       Night≠B-OSE_Labeled_AE   sweats≠I-OSE_Labeled_AE       3.72.41.1                    1.51.10.4                       
+    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE         Hypertension≠B-OSE_Labeled_AE       1.3                          0.8                             
+    Injury≠B-NonOSE_AE  ,≠I-NonOSE_AE   poisoning≠I-NonOSE_AE   and≠I-NonOSE_AE   procedural≠I-NonOSE_AE   complications≠I-NonOSE_AE                                                                  
+       Muscle≠B-OSE_Labeled_AE   strain≠I-OSE_Labeled_AE                            1.1                          0.0                             
+    Investigations≠B-NonOSE_AE                                                                                           
+        Blood≠B-OSE_Labeled_AE   creatine≠I-OSE_Labeled_AE   phosphokinase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   1.5                          0.4                             
+         Mean levels of fasting blood glucose and fasting insulin were not significantly different between EGRIFTA  (r)  -treated and placebo-treated patients after 26 weeks of treatment.
+ 
+
+ In the EGRIFTA  (r)  Phase 3 clinical trials, mean baseline (Week 0) HbA1cwas 5.26% among patients in the EGRIFTA  (r)  group and 5.28% among those in the placebo group. At Week 26, mean  HbA≠B-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  cwas≠I-OSE_Labeled_AE   higher≠I-OSE_Labeled_AE  among patients treated with EGRIFTA  (r)  compared with placebo (5.39% vs. 5.28% for the EGRIFTA  (r)  and placebo groups, respectively, mean treatment difference of 0.12%, p=0.0004). Patients receiving EGRIFTA  (r)  had an increased risk of developing  diabetes≠B-OSE_Labeled_AE  ( HbA≠B-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  clevel≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  =≠I-OSE_Labeled_AE   6≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  5≠I-OSE_Labeled_AE  %≠I-OSE_Labeled_AE ) compared with placebo (4.5% vs. 1.3%), with a hazard ratio of 3.3 (CI 1.4, 9.6).
+
+
+
+ Adverse reactions observed during Week 26 to 52 of the Phase 3 clinical trials which had an incidence of >=1% and were seen more frequently with EGRIFTA  (r)  relative to placebo are presented in  Table 2  :
+
+
+
+ Table 2. Adverse Reactions Reported in >= 1% and More Frequent in EGRIFTA(r)-treated than Placebo Patients during the 26-Week Extension Phase of the Combined Studies (Week 26 to Week 52 of the studies) 
+  1T-T = tesamorelin for Week 0-26 and tesamorelin for Week 26-52    
+  2T-P = tesamorelin for Week 0-26 and placebo for Week 26-52    
+  For patients who continued from Week 26-52, mean levels of  fasting≠B-NonOSE_AE   blood≠I-NonOSE_AE   glucose≠I-NonOSE_AE ,  fasting≠B-NonOSE_AE   insulin≠I-NonOSE_AE , and  HbA≠B-NonOSE_AE  1≠I-NonOSE_AE  c≠I-NonOSE_AE  were not different between the T-T and T-P groups.    
+  
+                                     Incidence of patients (%) with adverse drug reactions   
+   System Organ Class  Preferred Term  T-T  1  (Week 26-52)(N=246)              T-P  2  (Week 26-52)(N=135)   
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                          
+       Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE       Myalgia≠B-OSE_Labeled_AE   3.31.2                                   0.70.0                      
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE                                                                          
+       Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   pruritus≠I-OSE_Labeled_AE       Edema≠B-OSE_Labeled_AE   peripheral≠I-OSE_Labeled_AE       Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   erythema≠I-OSE_Labeled_AE   2.02.01.2                                0.00.00.0                   
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE         Paresthesia≠B-OSE_Labeled_AE       Hypoesthesia≠B-OSE_Labeled_AE       Neuropathy≠B-OSE_Labeled_AE   peripheral≠I-OSE_Labeled_AE   1.61.61.6                                1.50.71.5                   
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE         Vomiting≠B-OSE_Labeled_AE   2.0                                      0.7                         
+    Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE         Depression≠B-OSE_Labeled_AE       Insomnia≠B-OSE_Labeled_AE   1.61.2                                   0.70.0                      
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                          
+       Pruritus≠B-OSE_Labeled_AE       Urticaria≠B-OSE_Labeled_AE       Night≠B-OSE_Labeled_AE   sweats≠I-OSE_Labeled_AE   1.21.21.2                                0.70.00.0                   
+    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE         Hypertension≠B-OSE_Labeled_AE       Hot≠B-OSE_Labeled_AE   flush≠I-OSE_Labeled_AE   1.61.2                                   1.50.7                      
+           6.2 Immunogenicity
+   As with all therapeutic proteins and peptides, there is a potential for in vivo  development≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   anti≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE   EGRIFTA≠I-OSE_Labeled_AE    (≠I-OSE_Labeled_AE  r≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE    antibodies≠I-OSE_Labeled_AE . In the combined Phase 3 clinical trials  anti≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  tesamorelin≠I-OSE_Labeled_AE   IgG≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE  were detected in 49.5% of patients treated with EGRIFTA  (r)  for 26 weeks and 47.4% of patients who received EGRIFTA  (r)  for 52 weeks. In the subset of patients with  hypersensitivity≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE ,  anti≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  tesamorelin≠I-OSE_Labeled_AE   IgG≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE   were≠I-OSE_Labeled_AE   detected≠I-OSE_Labeled_AE  in 85.2%.  Cross≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  reactivity≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   endogenous≠I-OSE_Labeled_AE   growth≠I-OSE_Labeled_AE   hormone≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  releasing≠I-OSE_Labeled_AE   hormone≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  GHRH≠I-OSE_Labeled_AE ) was observed in approximately 60% of patients who developed  anti≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  tesamorelin≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE . Patients with and without  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  tesamorelin≠I-NonOSE_AE   IgG≠I-NonOSE_AE   antibodies≠I-NonOSE_AE  had similar mean  reductions≠B-NonOSE_AE   in≠I-NonOSE_AE   visceral≠I-NonOSE_AE   adipose≠I-NonOSE_AE   tissue≠I-NonOSE_AE   (≠I-NonOSE_AE  VAT≠I-NonOSE_AE ) and  IGF≠B-NonOSE_AE  -≠I-NonOSE_AE  1≠I-NonOSE_AE   response≠I-NonOSE_AE  suggesting that the  presence≠B-NonOSE_AE   of≠I-NonOSE_AE   antibodies≠I-NonOSE_AE  did not alter the efficacy of EGRIFTA  (r)  . In a group of patients who had  antibodies≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   tesamorelin≠I-OSE_Labeled_AE  after 26 weeks of treatment (56%) and were re-assessed 6 months later, after stopping EGRIFTA  (r)  treatment, 18% were still  antibody≠B-OSE_Labeled_AE   positive≠I-OSE_Labeled_AE .
+
+
+
+  Neutralizing≠B-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   tesamorelin≠I-OSE_Labeled_AE  and hGHRH were detected in vitro at Week 52 in 10% and 5% of EGRIFTA  (r)  -treated patients, respectively. They did not appear to have an impact on efficacy, as evidenced by comparable changes in VAT and IGF-1 level in patients with or without in vitro  neutralizing≠B-NonOSE_AE   antibodies≠I-NonOSE_AE .
+
+
+
+ The observed incidence of  antibody≠B-NonOSE_AE   positivity≠I-NonOSE_AE  in an assay is highly dependent on several factors including assay sensitivity and specificity, methodology, sample handling, timing of sample collection, concomitant medication and underlying disease. For these reasons, comparison of the incidence of  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   EGRIFTA≠I-NonOSE_AE   (r)  with the incidence of antibodies to other products may be misleading.

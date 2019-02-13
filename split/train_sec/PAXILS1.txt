@@ -1,0 +1,365 @@
+  ADVERSE REACTIONS
+
+  Associated With Discontinuation of Treatment:
+
+  Twenty percent (1,199/6,145) of patients treated with PAXIL in worldwide clinical trials in  major≠B-Not_AE_Candidate   depressive≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate  and 16.1% (84/522), 11.8% (64/542), 9.4% (44/469), 10.7% (79/735), and 11.7% (79/676) of patients treated with PAXIL in worldwide trials in  social≠B-Not_AE_Candidate   anxiety≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate ,  OCD≠B-Not_AE_Candidate ,  panic≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate ,  GAD≠B-Not_AE_Candidate , and  PTSD≠B-Not_AE_Candidate , respectively, discontinued treatment due to an adverse event. The most common events (>=1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate approximately twice or greater for PAXIL compared to placebo) included the following:
+
+
+                 Major Depressive Disorder    OCD      Panic Disorder    Social Anxiety Disorder    Generalized Anxiety Disorder    PTSD     
+  PAXIL          Placebo    PAXIL    Placebo    PAXIL    Placebo    PAXIL    Placebo    PAXIL    Placebo    PAXIL    Placebo    
+   CNS≠B-NonOSE_AE                                                                                                                         
+   Somnolence≠B-OSE_Labeled_AE      2.3%     0.7%     -                 1.9%     0.3%     3.4%     0.3%     2.0%     0.2%     2.8%     0.6%     
+   Insomnia≠B-OSE_Labeled_AE        -        -        1.7%     0%       1.3%     0.3%     3.1%     0%                         -        -        
+   Agitation≠B-OSE_Labeled_AE       1.1%     0.5%     -                                                                       -        -        
+   Tremor≠B-OSE_Labeled_AE          1.1%     0.3%     -                                   1.7%     0%                         1.0%     0.2%     
+   Anxiety≠B-OSE_Labeled_AE         -        -        -                                   1.1%     0%                         -        -        
+   Dizziness≠B-OSE_Labeled_AE       -        -        1.5%     0%                         1.9%     0%       1.0%     0.2%     -        -        
+   Gastrointestinal≠B-NonOSE_AE                                                                                                                 
+   Constipation≠B-OSE_Labeled_AE     -                 1.1%     0%                                                             -        -        
+   Nausea≠B-OSE_Labeled_AE          3.2%     1.1%     1.9%     0%       3.2%     1.2%     4.0%     0.3%     2.0%     0.2%     2.2%     0.6%     
+   Diarrhea≠B-OSE_Labeled_AE        1.0%     0.3%     -                                                                                         
+   Dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE       1.0%     0.3%     -                                                                       -        -        
+   Vomiting≠B-OSE_Labeled_AE        1.0%     0.3%     -                                   1.0%     0%                         -        -        
+   Flatulence≠B-OSE_Labeled_AE                                                            1.0%     0.3%                       -        -        
+  Other                                                                                                                      
+   Asthenia≠B-OSE_Labeled_AE        1.6%     0.4%     1.9%     0.4%                       2.5%     0.6%     1.8%     0.2%     1.6%     0.2%     
+   Abnormal≠B-OSE_Labeled_AE    Ejaculationa≠I-OSE_Labeled_AE     1.6%     0%       2.1%     0%                         4.9%     0.6%     2.5%     0.5%     -        -        
+   Sweating≠B-OSE_Labeled_AE        1.0%     0.3%     -                                   1.1%     0%       1.1%     0.2%     -        -        
+   Impotencea≠B-OSE_Labeled_AE      -                 1.5%     0%                                                             -        -        
+   Libido≠B-OSE_Labeled_AE    Decreased≠I-OSE_Labeled_AE                                                           1.0%     0%                         -        -        
+                   Where numbers are not provided the incidence of the adverse events in patients treated with PAXIL was not >1% or was not greater than or equal to 2 times the incidence of placebo.
+ 
+
+ a. Incidence corrected for gender.
+
+   Commonly Observed Adverse Events:
+
+    Major Depressive Disorder:  
+
+  The most commonly observed adverse events associated with the use of paroxetine (incidence of 5% or greater and incidence for PAXIL at least twice that for placebo, derived from Table 2) were:  Asthenia≠B-OSE_Labeled_AE ,  sweating≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  nervousness≠B-OSE_Labeled_AE ,  ejaculatory≠B-OSE_Labeled_AE   disturbance≠I-OSE_Labeled_AE , and other  male≠B-OSE_Labeled_AE   genital≠I-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE .
+
+     Obsessive Compulsive Disorder:  
+
+  The most commonly observed adverse events associated with the use of paroxetine (incidence of 5% or greater and incidence for PAXIL at least twice that of placebo, derived from Table 3) were:  Nausea≠B-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  sweating≠B-OSE_Labeled_AE ,  impotence≠B-OSE_Labeled_AE , and  abnormal≠B-OSE_Labeled_AE   ejaculation≠I-OSE_Labeled_AE .
+
+     Panic Disorder:  
+
+  The most commonly observed adverse events associated with the use of paroxetine (incidence of 5% or greater and incidence for PAXIL at least twice that for placebo, derived from Table 3) were:  Asthenia≠B-OSE_Labeled_AE ,  sweating≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  libido≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  abnormal≠B-OSE_Labeled_AE   ejaculation≠I-OSE_Labeled_AE ,  female≠B-OSE_Labeled_AE   genital≠I-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE , and  impotence≠B-OSE_Labeled_AE .
+
+     Social Anxiety Disorder:  
+
+  The most commonly observed adverse events associated with the use of paroxetine (incidence of 5% or greater and incidence for PAXIL at least twice that for placebo, derived from Table 3) were:  Sweating≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  libido≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  yawn≠B-OSE_Labeled_AE ,  abnormal≠B-OSE_Labeled_AE   ejaculation≠I-OSE_Labeled_AE ,  female≠B-OSE_Labeled_AE   genital≠I-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE , and  impotence≠B-OSE_Labeled_AE .
+
+     Generalized Anxiety Disorder:  
+
+  The most commonly observed adverse events associated with the use of paroxetine (incidence of 5% or greater and incidence for PAXIL at least twice that for placebo, derived from Table 4) were:  Asthenia≠B-OSE_Labeled_AE ,  infection≠B-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  libido≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  sweating≠B-OSE_Labeled_AE , and  abnormal≠B-OSE_Labeled_AE   ejaculation≠I-OSE_Labeled_AE .
+
+     Posttraumatic Stress Disorder:  
+
+  The most commonly observed adverse events associated with the use of paroxetine (incidence of 5% or greater and incidence for PAXIL at least twice that for placebo, derived from Table 4) were:  Asthenia≠B-OSE_Labeled_AE ,  sweating≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE ,  libido≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  abnormal≠B-OSE_Labeled_AE   ejaculation≠I-OSE_Labeled_AE ,  female≠B-OSE_Labeled_AE   genital≠I-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE , and  impotence≠B-OSE_Labeled_AE .
+
+   Incidence in Controlled Clinical Trials:
+
+  The prescriber should be aware that the figures in the tables following cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials. Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators. The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence rate in the populations studied.
+
+     Major Depressive Disorder:  
+
+  Table 2 enumerates adverse events that occurred at an incidence of 1% or more among paroxetine-treated patients who participated in short-term (6-week) placebo-controlled trials in which patients were dosed in a range of 20 mg to 50 mg/day. Reported adverse events were classified using a standard COSTART-based Dictionary terminology.
+
+ Table 2. Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for Major Depressive Disordera 
+  Body System          Preferred Term                   PAXIL  (n = 421)    Placebo  (n = 421)    
+   Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE        Headache≠B-OSE_Labeled_AE                          18%          17%          
+                        Asthenia≠B-OSE_Labeled_AE                          15%          6%           
+   Cardiovascular≠B-NonOSE_AE         Palpitation≠B-OSE_Labeled_AE                       3%           1%           
+                        Vasodilation≠B-OSE_Labeled_AE                      3%           1%           
+   Dermatologic≠B-NonOSE_AE           Sweating≠B-OSE_Labeled_AE                          11%          2%           
+                        Rash≠B-OSE_Labeled_AE                              2%           1%           
+   Gastrointestinal≠B-NonOSE_AE       Nausea≠B-OSE_Labeled_AE                            26%          9%           
+                        Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE                         18%          12%          
+                        Constipation≠B-OSE_Labeled_AE                      14%          9%           
+                        Diarrhea≠B-OSE_Labeled_AE                          12%          8%           
+                        Decreased≠B-OSE_Labeled_AE   Appetite≠I-OSE_Labeled_AE                6%           2%           
+                        Flatulence≠B-OSE_Labeled_AE                        4%           2%           
+                        Oropharynx≠B-OSE_Labeled_AE   Disorderb≠I-OSE_Labeled_AE              2%           0%           
+                        Dyspepsia≠B-OSE_Labeled_AE                         2%           1%           
+   Musculoskeletal≠B-NonOSE_AE        Myopathy≠B-OSE_Labeled_AE                          2%           1%           
+                        Myalgia≠B-OSE_Labeled_AE                           2%           1%           
+                        Myasthenia≠B-OSE_Labeled_AE                        1%           0%           
+   Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE         Somnolence≠B-OSE_Labeled_AE                        23%          9%           
+                        Dizziness≠B-OSE_Labeled_AE                         13%          6%           
+                        Insomnia≠B-OSE_Labeled_AE                          13%          6%           
+                        Tremor≠B-OSE_Labeled_AE                            8%           2%           
+                        Nervousness≠B-OSE_Labeled_AE                       5%           3%           
+                        Anxiety≠B-OSE_Labeled_AE                           5%           3%           
+                        Paresthesia≠B-OSE_Labeled_AE                       4%           2%           
+                        Libido≠B-OSE_Labeled_AE   Decreased≠I-OSE_Labeled_AE                  3%           0%           
+                        Drugged≠B-OSE_Labeled_AE   Feeling≠I-OSE_Labeled_AE                   2%           1%           
+                        Confusion≠B-OSE_Labeled_AE                         1%           0%           
+   Respiration≠B-NonOSE_AE            Yawn≠B-OSE_Labeled_AE                              4%           0%           
+   Special≠B-NonOSE_AE   Senses≠I-NonOSE_AE         Blurred≠B-OSE_Labeled_AE   Vision≠I-OSE_Labeled_AE                    4%           1%           
+                        Taste≠B-OSE_Labeled_AE   Perversion≠I-OSE_Labeled_AE                  2%           0%           
+   Urogenital≠B-NonOSE_AE   System≠I-NonOSE_AE      Ejaculatory≠B-OSE_Labeled_AE   Disturbancec≠I-OSE_Labeled_AE ,d       13%          0%           
+                       Other  Male≠B-OSE_Labeled_AE   Genital≠I-OSE_Labeled_AE   Disordersc≠I-OSE_Labeled_AE ,e    10%          0%           
+                        Urinary≠B-OSE_Labeled_AE   Frequency≠I-OSE_Labeled_AE                 3%           1%           
+                        Urination≠B-OSE_Labeled_AE   Disorderf≠I-OSE_Labeled_AE               3%           0%           
+                        Female≠B-OSE_Labeled_AE   Genital≠I-OSE_Labeled_AE   Disordersc≠I-OSE_Labeled_AE ,g      2%           0%           
+          a. Events reported by at least 1% of patients treated with PAXIL are included, except the following events which had an incidence on placebo >= PAXIL:  Abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  agitation≠B-NonOSE_AE ,  back≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  chest≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  CNS≠B-NonOSE_AE   stimulation≠I-NonOSE_AE ,  fever≠B-NonOSE_AE ,  increased≠B-NonOSE_AE   appetite≠I-NonOSE_AE ,  myoclonus≠B-NonOSE_AE ,  pharyngitis≠B-NonOSE_AE ,  postural≠B-NonOSE_AE   hypotension≠I-NonOSE_AE ,  respiratory≠B-NonOSE_AE   disorder≠I-NonOSE_AE  (includes mostly " cold≠B-NonOSE_AE   symptoms≠I-NonOSE_AE " or " URI≠B-NonOSE_AE "),  trauma≠B-NonOSE_AE , and  vomiting≠B-NonOSE_AE .
+ 
+
+ b. Includes mostly " lump≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   throat≠I-OSE_Labeled_AE " and " tightness≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   throat≠I-OSE_Labeled_AE ."
+
+ c. Percentage corrected for gender.
+
+ d. Mostly " ejaculatory≠B-OSE_Labeled_AE   delay≠I-OSE_Labeled_AE ."
+
+ e. Includes " anorgasmia≠B-OSE_Labeled_AE ," " erectile≠B-OSE_Labeled_AE   difficulties≠I-OSE_Labeled_AE ," " delayed≠B-OSE_Labeled_AE   ejaculation≠I-OSE_Labeled_AE /orgasm," and " sexual≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE ," and " impotence≠B-OSE_Labeled_AE ."
+
+ f. Includes mostly " difficulty≠B-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   micturition≠I-OSE_Labeled_AE " and " urinary≠B-OSE_Labeled_AE   hesitancy≠I-OSE_Labeled_AE ."
+
+ g. Includes mostly " anorgasmia≠B-OSE_Labeled_AE " and " difficulty≠B-OSE_Labeled_AE   reaching≠I-OSE_Labeled_AE   climax≠I-OSE_Labeled_AE /orgasm."
+
+     Obsessive Compulsive Disorder, Panic Disorder, and Social Anxiety Disorder:  
+
+  Table 3 enumerates adverse events that occurred at a frequency of 2% or more among  OCD≠B-Not_AE_Candidate  patients on PAXIL who participated in placebo-controlled trials of 12-weeks duration in which patients were dosed in a range of 20 mg to 60 mg/day or among patients with  panic≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate  on PAXIL who participated in placebo-controlled trials of 10- to 12-weeks duration in which patients were dosed in a range of 10 mg to 60 mg/day or among patients with  social≠B-Not_AE_Candidate   anxiety≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate  on PAXIL who participated in placebo-controlled trials of 12-weeks duration in which patients were dosed in a range of 20 mg to 50 mg/day.
+
+ Table 3. Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for Obsessive Compulsive Disorder, Panic Disorder, and Social Anxiety Disordera 
+  Body System        Preferred Term       Obsessive Compulsive Disorder    Panic Disorder    Social Anxiety Disorder    
+  PAXIL  (n = 542)    Placebo  (n = 265)    PAXIL  (n = 469)    Placebo  (n = 324)    PAXIL  (n = 425)    Placebo  (n = 339)    
+   Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE      Asthenia≠B-OSE_Labeled_AE              22%          14%          14%          5%           22%          14%          
+                      Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE        -            -            4%           3%           -            -            
+                      Chest≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE            3%           2%           -            -            -            -            
+                      Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE             -            -            3%           2%           -            -            
+                      Chills≠B-OSE_Labeled_AE                2%           1%           2%           1%           -            -            
+                      Trauma≠B-OSE_Labeled_AE                -            -            -            -            3%           1%           
+   Cardiovascular≠B-NonOSE_AE       Vasodilation≠B-OSE_Labeled_AE          4%           1%           -            -            -            -            
+                      Palpitation≠B-OSE_Labeled_AE           2%           0%           -            -            -            -            
+   Dermatologic≠B-NonOSE_AE         Sweating≠B-OSE_Labeled_AE              9%           3%           14%          6%           9%           2%           
+                      Rash≠B-OSE_Labeled_AE                  3%           2%           -            -            -            -            
+   Gastrointestinal≠B-NonOSE_AE      Nausea≠B-OSE_Labeled_AE                23%          10%          23%          17%          25%          7%           
+                      Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE             18%          9%           18%          11%          9%           3%           
+                      Constipation≠B-OSE_Labeled_AE          16%          6%           8%           5%           5%           2%           
+                      Diarrhea≠B-OSE_Labeled_AE              10%          10%          12%          7%           9%           6%           
+                      Decreased≠B-OSE_Labeled_AE   Appetite≠I-OSE_Labeled_AE     9%           3%           7%           3%           8%           2%           
+                      Dyspepsia≠B-OSE_Labeled_AE             -            -            -            -            4%           2%           
+                      Flatulence≠B-OSE_Labeled_AE            -            -            -            -            4%           2%           
+                      Increased≠B-OSE_Labeled_AE   Appetite≠I-OSE_Labeled_AE     4%           3%           2%           1%           -            -            
+                      Vomiting≠B-OSE_Labeled_AE              -            -            -            -            2%           1%           
+   Musculoskeletal≠B-NonOSE_AE      Myalgia≠B-OSE_Labeled_AE               -            -            -            -            4%           3%           
+   Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE       Insomnia≠B-OSE_Labeled_AE              24%          13%          18%          10%          21%          16%          
+                      Somnolence≠B-OSE_Labeled_AE            24%          7%           19%          11%          22%          5%           
+                      Dizziness≠B-OSE_Labeled_AE             12%          6%           14%          10%          11%          7%           
+                      Tremor≠B-OSE_Labeled_AE                11%          1%           9%           1%           9%           1%           
+                      Nervousness≠B-OSE_Labeled_AE           9%           8%           -            -            8%           7%           
+                      Libido≠B-OSE_Labeled_AE   Decreased≠I-OSE_Labeled_AE      7%           4%           9%           1%           12%          1%           
+                      Agitation≠B-OSE_Labeled_AE             -            -            5%           4%           3%           1%           
+                      Anxiety≠B-OSE_Labeled_AE               -            -            5%           4%           5%           4%           
+                      Abnormal≠B-OSE_Labeled_AE   Dreams≠I-OSE_Labeled_AE       4%           1%           -            -            -            -            
+                      ConcentrationImpaired≠B-OSE_Labeled_AE     3%           2%           -            -            4%           1%           
+                      Depersonalization≠B-OSE_Labeled_AE     3%           0%           -            -            -            -            
+                      Myoclonus≠B-OSE_Labeled_AE             3%           0%           3%           2%           2%           1%           
+                      Amnesia≠B-OSE_Labeled_AE               2%           1%           -            -            -            -            
+   Respiratory≠B-NonOSE_AE   System≠I-NonOSE_AE      Rhinitis≠B-OSE_Labeled_AE              -            -            3%           0%           -            -            
+                      Pharyngitis≠B-OSE_Labeled_AE           -            -            -            -            4%           2%           
+                      Yawn≠B-OSE_Labeled_AE                  -            -            -            -            5%           1%           
+   Special≠B-NonOSE_AE   Senses≠I-NonOSE_AE       Abnormal≠B-OSE_Labeled_AE   Vision≠I-OSE_Labeled_AE       4%           2%           -            -            4%           1%           
+                      Taste≠B-OSE_Labeled_AE   Perversion≠I-OSE_Labeled_AE      2%           0%           -            -            -            -            
+   Urogenital≠B-NonOSE_AE   System≠I-NonOSE_AE      Abnormal≠B-OSE_Labeled_AE   Ejaculationb≠I-OSE_Labeled_AE     23%          1%           21%          1%           28%          1%           
+                      Dysmenorrhea≠B-OSE_Labeled_AE          -            -            -            -            5%           4%           
+                      Female≠B-OSE_Labeled_AE   GenitalDisorderb≠I-OSE_Labeled_AE     3%           0%           9%           1%           9%           1%           
+                      Impotenceb≠B-OSE_Labeled_AE            8%           1%           5%           0%           5%           1%           
+                      Urinary≠B-OSE_Labeled_AE   Frequency≠I-OSE_Labeled_AE     3%           1%           2%           0%           -            -            
+                      Urination≠B-OSE_Labeled_AE   Impaired≠I-OSE_Labeled_AE     3%           0%           -            -            -            -            
+                      Urinary≠B-OSE_Labeled_AE   TractInfection≠I-OSE_Labeled_AE     2%           1%           2%           1%           -            -            
+              a. Events reported by at least 2% of  OCD≠B-Not_AE_Candidate ,  panic≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate , and  social≠B-Not_AE_Candidate   anxiety≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate  in patients treated with PAXIL are included, except the following events which had an incidence on placebo >= PAXIL: [ OCD≠B-Not_AE_Candidate ]:  Abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  agitation≠B-NonOSE_AE ,  anxiety≠B-NonOSE_AE ,  back≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  cough≠B-NonOSE_AE   increased≠I-NonOSE_AE ,  depression≠B-NonOSE_AE ,  headache≠B-NonOSE_AE ,  hyperkinesia≠B-NonOSE_AE ,  infection≠B-NonOSE_AE ,  paresthesia≠B-NonOSE_AE ,  pharyngitis≠B-NonOSE_AE ,  respiratory≠B-NonOSE_AE   disorder≠I-NonOSE_AE ,  rhinitis≠B-NonOSE_AE , and  sinusitis≠B-NonOSE_AE . [ panic≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate ]:  Abnormal≠B-NonOSE_AE   dreams≠I-NonOSE_AE ,  abnormal≠B-NonOSE_AE   vision≠I-NonOSE_AE ,  chest≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  cough≠B-NonOSE_AE   increased≠I-NonOSE_AE ,  depersonalization≠B-NonOSE_AE ,  depression≠B-NonOSE_AE ,  dysmenorrhea≠B-NonOSE_AE ,  dyspepsia≠B-NonOSE_AE ,  flu≠B-NonOSE_AE   syndrome≠I-NonOSE_AE ,  headache≠B-NonOSE_AE ,  infection≠B-NonOSE_AE ,  myalgia≠B-NonOSE_AE ,  nervousness≠B-NonOSE_AE ,  palpitation≠B-NonOSE_AE ,  paresthesia≠B-NonOSE_AE ,  pharyngitis≠B-NonOSE_AE ,  rash≠B-NonOSE_AE ,  respiratory≠B-NonOSE_AE   disorder≠I-NonOSE_AE ,  sinusitis≠B-NonOSE_AE ,  taste≠B-NonOSE_AE   perversion≠I-NonOSE_AE ,  trauma≠B-NonOSE_AE ,  urination≠B-NonOSE_AE   impaired≠I-NonOSE_AE , and  vasodilation≠B-NonOSE_AE . [ social≠B-Not_AE_Candidate   anxiety≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate ]:  Abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  depression≠B-NonOSE_AE ,  headache≠B-NonOSE_AE ,  infection≠B-NonOSE_AE ,  respiratory≠B-NonOSE_AE   disorder≠I-NonOSE_AE , and  sinusitis≠B-NonOSE_AE .
+ 
+
+ b. Percentage corrected for gender.
+
+     Generalized Anxiety Disorder and Posttraumatic Stress Disorder:  
+
+  Table 4 enumerates adverse events that occurred at a frequency of 2% or more among  GAD≠B-Not_AE_Candidate  patients on PAXIL who participated in placebo-controlled trials of 8-weeks duration in which patients were dosed in a range of 10 mg/day to 50 mg/day or among  PTSD≠B-Not_AE_Candidate  patients on PAXIL who participated in placebo-controlled trials of 12-weeks duration in which patients were dosed in a range of 20 mg/day to 50 mg/day.
+
+ Table 4. Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for Generalized Anxiety Disorder and Posttraumatic Stress Disordera 
+  Body System          Preferred Term           Generalized Anxiety Disorder    Posttraumatic Stress Disorder    
+  PAXIL  (n = 735)     Placebo  (n = 529)       PAXIL  (n = 676)    Placebo  (n = 504)    
+   Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE        Asthenia≠B-OSE_Labeled_AE                  14%              6%               12%              4%               
+   Headache≠B-OSE_Labeled_AE              17%                      14%              -                -                
+   Infection≠B-OSE_Labeled_AE             6%                       3%               5%               4%               
+   Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                                  4%               3%               
+   Trauma≠B-OSE_Labeled_AE                                                          6%               5%               
+   Cardiovascular≠B-NonOSE_AE         Vasodilation≠B-OSE_Labeled_AE              3%               1%               2%               1%               
+   Dermatologic≠B-NonOSE_AE           Sweating≠B-OSE_Labeled_AE                  6%               2%               5%               1%               
+   Gastrointestinal≠B-NonOSE_AE       Nausea≠B-OSE_Labeled_AE                    20%              5%               19%              8%               
+   Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE             11%                      5%               10%              5%               
+   Constipation≠B-OSE_Labeled_AE          10%                      2%               5%               3%               
+   Diarrhea≠B-OSE_Labeled_AE              9%                       7%               11%              5%               
+   Decreased≠B-OSE_Labeled_AE   Appetite≠I-OSE_Labeled_AE     5%                       1%               6%               3%               
+   Vomiting≠B-OSE_Labeled_AE              3%                       2%               3%               2%               
+   Dyspepsia≠B-OSE_Labeled_AE             -                        -                5%               3%               
+   Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE         Insomnia≠B-OSE_Labeled_AE                  11%              8%               12%              11%              
+   Somnolence≠B-OSE_Labeled_AE            15%                      5%               16%              5%               
+   Dizziness≠B-OSE_Labeled_AE             6%                       5%               6%               5%               
+   Tremor≠B-OSE_Labeled_AE                5%                       1%               4%               1%               
+   Nervousness≠B-OSE_Labeled_AE           4%                       3%               -                -                
+   Libido≠B-OSE_Labeled_AE   Decreased≠I-OSE_Labeled_AE      9%                       2%               5%               2%               
+   Abnormal≠B-OSE_Labeled_AE   Dreams≠I-OSE_Labeled_AE                                                 3%               2%               
+   Respiratory≠B-NonOSE_AE   System≠I-NonOSE_AE      Respiratory≠B-OSE_Labeled_AE   Disorder≠I-OSE_Labeled_AE      7%               5%               -                -                
+   Sinusitis≠B-OSE_Labeled_AE             4%                       3%               -                -                
+   Yawn≠B-OSE_Labeled_AE                  4%                       -                2%               <1%              
+   Special≠B-NonOSE_AE   Senses≠I-NonOSE_AE         Abnormal≠B-OSE_Labeled_AE   Vision≠I-OSE_Labeled_AE           2%               1%               3%               1%               
+   Urogenital≠B-NonOSE_AE   System≠I-NonOSE_AE      Abnormal≠B-OSE_Labeled_AE   Ejaculationb≠I-OSE_Labeled_AE     25%              2%               13%              2%               
+   Female≠B-OSE_Labeled_AE   Genital≠I-OSE_Labeled_AE   Disorderb≠I-OSE_Labeled_AE     4%                       1%               5%               1%               
+   Impotenceb≠B-OSE_Labeled_AE            4%                       3%               9%               1%               
+            a. Events reported by at least 2% of  GAD≠B-Not_AE_Candidate  and  PTSD≠B-Not_AE_Candidate  in patients treated with PAXIL are included, except the following events which had an incidence on placebo >= PAXIL [ GAD≠B-Not_AE_Candidate ]:  Abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  back≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  trauma≠B-NonOSE_AE ,  dyspepsia≠B-NonOSE_AE ,  myalgia≠B-NonOSE_AE , and  pharyngitis≠B-NonOSE_AE . [ PTSD≠B-Not_AE_Candidate ]:  Back≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  headache≠B-NonOSE_AE ,  anxiety≠B-NonOSE_AE ,  depression≠B-NonOSE_AE ,  nervousness≠B-NonOSE_AE ,  respiratory≠B-NonOSE_AE   disorder≠I-NonOSE_AE ,  pharyngitis≠B-NonOSE_AE , and  sinusitis≠B-NonOSE_AE .
+ 
+
+ b. Percentage corrected for gender.
+
+     Dose Dependency of Adverse Events:  
+
+  A comparison of adverse event rates in a fixed-dose study comparing 10, 20, 30, and 40 mg/day of PAXIL with placebo in the treatment of major depressive disorder revealed a clear dose dependency for some of the more common adverse events associated with use of PAXIL, as shown in Table 5:
+
+ Table 5. Treatment-Emergent Adverse Experience Incidence in a Dose-Comparison Trial in the Treatment of Major Depressive Disordera 
+   Body System/Preferred Term       Placebo      PAXIL     
+   n = 51                           10 mg    n = 102      20 mg    n = 104      30 mg    n = 101      40 mg    n = 102     
+  
+   Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE                                                                           
+   Asthenia≠B-OSE_Labeled_AE                          0.0%        2.9%       10.6%      13.9%      12.7%      
+   Dermatology≠B-NonOSE_AE                                                                               
+   Sweating≠B-OSE_Labeled_AE                          2.0%        1.0%       6.7%       8.9%       11.8%      
+   Gastrointestinal≠B-NonOSE_AE                                                                          
+   Constipation≠B-OSE_Labeled_AE                      5.9%        4.9%       7.7%       9.9%       12.7%      
+   Decreased≠B-OSE_Labeled_AE   Appetite≠I-OSE_Labeled_AE                2.0%        2.0%       5.8%       4.0%       4.9%       
+   Diarrhea≠B-OSE_Labeled_AE                          7.8%        9.8%       19.2%      7.9%       14.7%      
+   Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE                         2.0%        10.8%      18.3%      15.8%      20.6%      
+   Nausea≠B-OSE_Labeled_AE                            13.7%       14.7%      26.9%      34.7%      36.3%      
+   Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE                                                                            
+   Anxiety≠B-OSE_Labeled_AE                           0.0%        2.0%       5.8%       5.9%       5.9%       
+   Dizziness≠B-OSE_Labeled_AE                         3.9%        6.9%       6.7%       8.9%       12.7%      
+   Nervousness≠B-OSE_Labeled_AE                       0.0%        5.9%       5.8%       4.0%       2.9%       
+   Paresthesia≠B-OSE_Labeled_AE                       0.0%        2.9%       1.0%       5.0%       5.9%       
+   Somnolence≠B-OSE_Labeled_AE                        7.8%        12.7%      18.3%      20.8%      21.6%      
+   Tremor≠B-OSE_Labeled_AE                            0.0%        0.0%       7.7%       7.9%       14.7%      
+   Special≠B-NonOSE_AE   Senses≠I-NonOSE_AE                                                                            
+   Blurred≠B-OSE_Labeled_AE   Vision≠I-OSE_Labeled_AE                    2.0%        2.9%       2.9%       2.0%       7.8%       
+   Urogenital≠B-NonOSE_AE   System≠I-NonOSE_AE                                                                         
+   Abnormal≠B-OSE_Labeled_AE   Ejaculation≠I-OSE_Labeled_AE              0.0%        5.8%       6.5%       10.6%      13.0%      
+   Impotence≠B-OSE_Labeled_AE                         0.0%        1.9%       4.3%       6.4%       1.9%       
+   Male≠B-OSE_Labeled_AE   Genital≠I-OSE_Labeled_AE   Disorders≠I-OSE_Labeled_AE            0.0%        3.8%       8.7%       6.4%       3.7%       
+            a. Rule for including adverse events in table: Incidence at least 5% for 1 of paroxetine groups and >= twice the placebo incidence for at least 1 paroxetine group.
+ 
+
+ In a fixed-dose study comparing placebo and 20, 40, and 60 mg of PAXIL in the treatment of  OCD≠B-Not_AE_Candidate , there was no clear relationship between adverse events and the dose of PAXIL to which patients were assigned. No new adverse events were observed in the group treated with 60 mg of PAXIL compared to any of the other treatment groups.
+
+ In a fixed-dose study comparing placebo and 10, 20, and 40 mg of PAXIL in the treatment of  panic≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate , there was no clear relationship between adverse events and the dose of PAXIL to which patients were assigned, except for  asthenia≠B-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE ,  anxiety≠B-OSE_Labeled_AE ,  libido≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE , and  abnormal≠B-OSE_Labeled_AE   ejaculation≠I-OSE_Labeled_AE . In flexible-dose studies, no new adverse events were observed in patients receiving 60 mg of PAXIL compared to any of the other treatment groups.
+
+ In a fixed-dose study comparing placebo and 20, 40, and 60 mg of PAXIL in the treatment of social  anxiety≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate , for most of the adverse events, there was no clear relationship between adverse events and the dose of PAXIL to which patients were assigned.
+
+ In a fixed-dose study comparing placebo and 20 and 40 mg of PAXIL in the treatment of generalized  anxiety≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate , for most of the adverse events, there was no clear relationship between adverse events and the dose of PAXIL to which patients were assigned, except for the following adverse events:  Asthenia≠B-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE , and  abnormal≠B-OSE_Labeled_AE   ejaculation≠I-OSE_Labeled_AE .
+
+ In a fixed-dose study comparing placebo and 20 and 40 mg of PAXIL in the treatment of  posttraumatic≠B-Not_AE_Candidate   stress≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate , for most of the adverse events, there was no clear relationship between adverse events and the dose of PAXIL to which patients were assigned, except for  impotence≠B-OSE_Labeled_AE  and  abnormal≠B-OSE_Labeled_AE   ejaculation≠I-OSE_Labeled_AE .
+
+     Adaptation to Certain Adverse Events:  
+
+  Over a 4- to 6-week period, there was evidence of adaptation to some adverse events with continued therapy (e.g.,  nausea≠B-OSE_Labeled_AE  and  dizziness≠B-OSE_Labeled_AE ), but less to other effects (e.g.,  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE , and  asthenia≠B-OSE_Labeled_AE ).
+
+     Male and Female Sexual Dysfunction With SSRIs:  
+
+  Although  changes≠B-NonOSE_AE   in≠I-NonOSE_AE   sexual≠I-NonOSE_AE   desire≠I-NonOSE_AE , sexual performance, and sexual satisfaction often occur as manifestations of a  psychiatric≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate , they may also be a consequence of pharmacologic treatment. In particular, some evidence suggests that selective serotonin reuptake inhibitors (SSRIs) can cause such  untoward≠B-OSE_Labeled_AE   sexual≠I-OSE_Labeled_AE   experiences≠I-OSE_Labeled_AE .
+
+ Reliable estimates of the incidence and severity of  untoward≠B-NonOSE_AE   experiences≠I-NonOSE_AE   involving≠I-NonOSE_AE   sexual≠I-NonOSE_AE   desire≠I-NonOSE_AE , performance, and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them. Accordingly, estimates of the incidence of  untoward≠B-NonOSE_AE   sexual≠I-NonOSE_AE   experience≠I-NonOSE_AE  and performance cited in product labeling, are likely to underestimate their actual incidence.
+
+ In placebo-controlled clinical trials involving more than 3,200 patients, the ranges for the reported incidence of  sexual≠B-NonOSE_AE   side≠I-NonOSE_AE   effects≠I-NonOSE_AE  in males and females with  major≠B-Not_AE_Candidate   depressive≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate ,  OCD≠B-Not_AE_Candidate ,  panic≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate ,  social≠B-Not_AE_Candidate   anxiety≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate ,  GAD≠B-Not_AE_Candidate , and  PTSD≠B-Not_AE_Candidate  are displayed in Table 6.
+
+ Table 6. Incidence of Sexual Adverse Events in Controlled Clinical Trials 
+                             PAXIL       Placebo     
+  n (males)                  1446        1042        
+   Decreased≠B-OSE_Labeled_AE   Libido≠I-OSE_Labeled_AE            6-15%       0-5%        
+   Ejaculatory≠B-OSE_Labeled_AE   Disturbance≠I-OSE_Labeled_AE     13-28%      0-2%        
+   Impotence≠B-OSE_Labeled_AE                   2-9%        0-3%        
+  n (females)                1822        1340        
+   Decreased≠B-OSE_Labeled_AE   Libido≠I-OSE_Labeled_AE            0-9%        0-2%        
+   Orgasmic≠B-OSE_Labeled_AE   Disturbance≠I-OSE_Labeled_AE        2-9%        0-1%        
+         There are no adequate and well-controlled studies examining  sexual≠B-NonOSE_AE   dysfunction≠I-NonOSE_AE  with paroxetine treatment.
+ 
+
+ Paroxetine treatment has been associated with several cases of  priapism≠B-OSE_Labeled_AE . In those cases with a known outcome, patients recovered without sequelae.
+
+ While it is difficult to know the precise risk of  sexual≠B-NonOSE_AE   dysfunction≠I-NonOSE_AE  associated with the use of SSRIs, physicians should routinely inquire about such possible side effects.
+
+     Weight and Vital Sign Changes:  
+
+  Significant  weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  may be an undesirable result of treatment with PAXIL for some patients but, on average, patients in controlled trials had minimal (about 1 pound)  weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  versus smaller changes on placebo and active control. No significant  changes≠B-NonOSE_AE   in≠I-NonOSE_AE   vital≠I-NonOSE_AE   signs≠I-NonOSE_AE  (systolic and diastolic blood pressure, pulse and temperature) were observed in patients treated with PAXIL in controlled clinical trials.
+
+     ECG Changes:  
+
+  In an analysis of ECGs obtained in 682 patients treated with PAXIL and 415 patients treated with placebo in controlled clinical trials, no clinically significant  changes≠B-NonOSE_AE   were≠I-NonOSE_AE   seen≠I-NonOSE_AE   in≠I-NonOSE_AE   the≠I-NonOSE_AE   ECGs≠I-NonOSE_AE  of either group.
+
+     Liver Function Tests:  
+
+  In placebo-controlled clinical trials, patients treated with PAXIL exhibited  abnormal≠B-NonOSE_AE   values≠I-NonOSE_AE   on≠I-NonOSE_AE   liver≠I-NonOSE_AE   function≠I-NonOSE_AE   tests≠I-NonOSE_AE  at no greater rate than that seen in placebo-treated patients. In particular, the PAXIL-versus-placebo comparisons for  alkaline≠B-NonOSE_AE   phosphatase≠I-NonOSE_AE , SGOT, SGPT, and bilirubin revealed no differences in the percentage of patients with marked  abnormalities≠I-NonOSE_AE .
+
+     Hallucinations:  
+
+  In pooled clinical trials of immediate-release paroxetine hydrochloride,  hallucinations≠B-OSE_Labeled_AE  were observed in 22 of 9089 patients receiving drug and 4 of 3187 patients receiving placebo.
+
+   Other Events Observed During the Premarketing Evaluation of PAXIL:
+
+  During its premarketing assessment in  major≠B-Not_AE_Candidate   depressive≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate , multiple doses of PAXIL were administered to 6,145 patients in phase 2 and 3 studies. The conditions and duration of exposure to PAXIL varied greatly and included (in overlapping categories) open and double-blind studies, uncontrolled and controlled studies, inpatient and outpatient studies, and fixed-dose, and titration studies. During premarketing clinical trials in  OCD≠B-Not_AE_Candidate ,  panic≠B-Not_AE_Candidate   disorder≠I-Not_AE_Candidate ,  social≠B-Not_AE_Candidate   anxiety≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate ,  generalized≠B-Not_AE_Candidate   anxiety≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate , and  posttraumatic≠B-Not_AE_Candidate   stress≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate , 542, 469, 522, 735, and 676 patients, respectively, received multiple doses of PAXIL. Untoward events associated with this exposure were recorded by clinical investigators using terminology of their own choosing. Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of untoward events into a smaller number of standardized event categories.
+
+ In the tabulations that follow, reported adverse events were classified using a standard COSTART-based Dictionary terminology. The frequencies presented, therefore, represent the proportion of the 9,089 patients exposed to multiple doses of PAXIL who experienced an event of the type cited on at least 1 occasion while receiving PAXIL. All reported events are included except those already listed in Tables 2 to 5, those reported in terms so general as to be uninformative and those events where a drug cause was remote. It is important to emphasize that although the events reported occurred during treatment with paroxetine, they were not necessarily caused by it.
+
+ Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: Frequent adverse events are those occurring on 1 or more occasions in at least 1/100 patients (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing); infrequent adverse events are those occurring in 1/100 to 1/1,000 patients; rare events are those occurring in fewer than 1/1,000 patients. Events of major clinical importance are also described in the PRECAUTIONS section.
+
+     Body as a Whole:  
+
+    Infrequent:   Allergic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE ,  face≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  malaise≠B-OSE_Labeled_AE ,  neck≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ;  rare:   Adrenergic≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  cellulitis≠B-OSE_Labeled_AE ,  moniliasis≠B-OSE_Labeled_AE ,  neck≠B-OSE_Labeled_AE   rigidity≠I-OSE_Labeled_AE ,  pelvic≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  peritonitis≠B-OSE_Labeled_AE ,  sepsis≠B-OSE_Labeled_AE ,  ulcer≠B-OSE_Labeled_AE .
+
+     Cardiovascular System:  
+
+    Frequent:   Hypertension≠B-OSE_Labeled_AE ,  tachycardia≠B-OSE_Labeled_AE ;  infrequent:   Bradycardia≠B-OSE_Labeled_AE ,  hematoma≠B-OSE_Labeled_AE ,  hypotension≠B-OSE_Labeled_AE ,  migraine≠B-OSE_Labeled_AE ,  postural≠B-OSE_Labeled_AE   hypotension≠I-OSE_Labeled_AE ,  syncope≠B-OSE_Labeled_AE ;  rare:   Angina≠B-OSE_Labeled_AE   pectoris≠I-OSE_Labeled_AE ,  arrhythmia≠B-OSE_Labeled_AE   nodal≠I-OSE_Labeled_AE ,  atrial≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE ,  bundle≠B-OSE_Labeled_AE   branch≠I-OSE_Labeled_AE   block≠I-OSE_Labeled_AE ,  cerebral≠B-OSE_Labeled_AE   ischemia≠I-OSE_Labeled_AE ,  cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE ,  congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  heart≠B-OSE_Labeled_AE   block≠I-OSE_Labeled_AE ,  low≠B-OSE_Labeled_AE   cardiac≠I-OSE_Labeled_AE   output≠I-OSE_Labeled_AE ,  myocardial≠B-OSE_Labeled_AE   infarct≠I-OSE_Labeled_AE ,  myocardial≠B-OSE_Labeled_AE   ischemia≠I-OSE_Labeled_AE ,  pallor≠B-OSE_Labeled_AE ,  phlebitis≠B-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   embolus≠I-OSE_Labeled_AE ,  supraventricular≠B-OSE_Labeled_AE   extrasystoles≠I-OSE_Labeled_AE ,  thrombophlebitis≠B-OSE_Labeled_AE ,  thrombosis≠B-OSE_Labeled_AE ,  varicose≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE ,  vascular≠B-OSE_Labeled_AE   headache≠I-OSE_Labeled_AE ,  ventricular≠B-OSE_Labeled_AE   extrasystoles≠I-OSE_Labeled_AE .
+
+     Digestive System:  
+
+    Infrequent:   Bruxism≠B-OSE_Labeled_AE ,  colitis≠B-OSE_Labeled_AE ,  dysphagia≠B-OSE_Labeled_AE ,  eructation≠B-OSE_Labeled_AE ,  gastritis≠B-OSE_Labeled_AE ,  gastroenteritis≠B-OSE_Labeled_AE ,  gingivitis≠B-OSE_Labeled_AE ,  glossitis≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   salivation≠I-OSE_Labeled_AE ,  liver≠B-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   tests≠I-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  rectal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  ulcerative≠B-OSE_Labeled_AE   stomatitis≠I-OSE_Labeled_AE ;  rare:   Aphthous≠B-OSE_Labeled_AE   stomatitis≠I-OSE_Labeled_AE ,  bloody≠B-OSE_Labeled_AE   diarrhea≠I-OSE_Labeled_AE ,  bulimia≠B-OSE_Labeled_AE ,  cardiospasm≠B-OSE_Labeled_AE ,  cholelithiasis≠B-OSE_Labeled_AE ,  duodenitis≠B-OSE_Labeled_AE ,  enteritis≠B-OSE_Labeled_AE ,  esophagitis≠B-OSE_Labeled_AE ,  fecal≠B-OSE_Labeled_AE   impactions≠I-OSE_Labeled_AE ,  fecal≠B-OSE_Labeled_AE   incontinence≠I-OSE_Labeled_AE ,  gum≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  hematemesis≠B-OSE_Labeled_AE ,  hepatitis≠B-OSE_Labeled_AE ,  ileitis≠B-OSE_Labeled_AE ,  ileus≠B-OSE_Labeled_AE ,  intestinal≠B-OSE_Labeled_AE   obstruction≠I-OSE_Labeled_AE ,  jaundice≠B-OSE_Labeled_AE ,  melena≠B-OSE_Labeled_AE ,  mouth≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE ,  peptic≠B-OSE_Labeled_AE   ulcer≠I-OSE_Labeled_AE ,  salivary≠B-OSE_Labeled_AE   gland≠I-OSE_Labeled_AE   enlargement≠I-OSE_Labeled_AE ,  sialadenitis≠B-OSE_Labeled_AE ,  stomach≠B-OSE_Labeled_AE   ulcer≠I-OSE_Labeled_AE ,  stomatitis≠B-OSE_Labeled_AE ,  tongue≠B-OSE_Labeled_AE   discoloration≠I-OSE_Labeled_AE ,  tongue≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  tooth≠B-OSE_Labeled_AE   caries≠I-OSE_Labeled_AE .
+
+     Endocrine System:  
+
+    Rare:   Diabetes≠B-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE ,  goiter≠B-OSE_Labeled_AE ,  hyperthyroidism≠B-OSE_Labeled_AE ,  hypothyroidism≠B-OSE_Labeled_AE ,  thyroiditis≠B-OSE_Labeled_AE .
+
+     Hemic and Lymphatic Systems:  
+
+    Infrequent:   Anemia≠B-OSE_Labeled_AE ,  leukopenia≠B-OSE_Labeled_AE ,  lymphadenopathy≠B-OSE_Labeled_AE ,  purpura≠B-OSE_Labeled_AE ;  rare:   Abnormal≠B-OSE_Labeled_AE   erythrocytes≠I-OSE_Labeled_AE ,  basophilia≠B-OSE_Labeled_AE ,  bleeding≠B-OSE_Labeled_AE   time≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  eosinophilia≠B-OSE_Labeled_AE ,  hypochromic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE ,  iron≠B-OSE_Labeled_AE   deficiency≠I-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE ,  leukocytosis≠B-OSE_Labeled_AE ,  lymphedema≠B-OSE_Labeled_AE ,  abnormal≠B-OSE_Labeled_AE   lymphocytes≠I-OSE_Labeled_AE ,  lymphocytosis≠B-OSE_Labeled_AE ,  microcytic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE ,  monocytosis≠B-OSE_Labeled_AE ,  normocytic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE ,  thrombocythemia≠B-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE .
+
+     Metabolic and Nutritional:  
+
+    Frequent:   Weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE ;  infrequent:   Edema≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  SGOT≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  SGPT≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  thirst≠B-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE ;  rare:   Alkaline≠B-OSE_Labeled_AE   phosphatase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  bilirubinemia≠B-OSE_Labeled_AE ,  BUN≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  creatinine≠B-OSE_Labeled_AE   phosphokinase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  dehydration≠B-OSE_Labeled_AE ,  gamma≠B-OSE_Labeled_AE   globulins≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  gout≠B-OSE_Labeled_AE ,  hypercalcemia≠B-OSE_Labeled_AE ,  hypercholesteremia≠B-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  hyperkalemia≠B-OSE_Labeled_AE ,  hyperphosphatemia≠B-OSE_Labeled_AE ,  hypocalcemia≠B-OSE_Labeled_AE ,  hypoglycemia≠B-OSE_Labeled_AE ,  hypokalemia≠B-OSE_Labeled_AE ,  hyponatremia≠B-OSE_Labeled_AE ,  ketosis≠B-OSE_Labeled_AE ,  lactic≠B-OSE_Labeled_AE   dehydrogenase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  non≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  protein≠I-OSE_Labeled_AE   nitrogen≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  NPN≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE .
+
+     Musculoskeletal System:  
+
+    Frequent:   Arthralgia≠B-OSE_Labeled_AE ;  infrequent:   Arthritis≠B-OSE_Labeled_AE ,  arthrosis≠B-OSE_Labeled_AE ;  rare:   Bursitis≠B-OSE_Labeled_AE ,  myositis≠B-OSE_Labeled_AE ,  osteoporosis≠B-OSE_Labeled_AE ,  generalized≠B-OSE_Labeled_AE   spasm≠I-OSE_Labeled_AE ,  tenosynovitis≠B-OSE_Labeled_AE ,  tetany≠B-OSE_Labeled_AE .
+
+     Nervous System:  
+
+    Frequent:   Emotional≠B-OSE_Labeled_AE   lability≠I-OSE_Labeled_AE ,  vertigo≠B-OSE_Labeled_AE ;  infrequent:   Abnormal≠B-OSE_Labeled_AE   thinking≠I-OSE_Labeled_AE ,  alcohol≠B-OSE_Labeled_AE   abuse≠I-OSE_Labeled_AE ,  ataxia≠B-OSE_Labeled_AE ,  dystonia≠B-OSE_Labeled_AE ,  dyskinesia≠B-OSE_Labeled_AE ,  euphoria≠B-OSE_Labeled_AE ,  hallucinations≠B-OSE_Labeled_AE ,  hostility≠B-OSE_Labeled_AE ,  hypertonia≠B-OSE_Labeled_AE ,  hypesthesia≠B-OSE_Labeled_AE ,  hypokinesia≠B-OSE_Labeled_AE ,  incoordination≠B-OSE_Labeled_AE ,  lack≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   emotion≠I-OSE_Labeled_AE ,  libido≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  manic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  neurosis≠B-OSE_Labeled_AE ,  paralysis≠B-OSE_Labeled_AE ,  paranoid≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ;  rare:   Abnormal≠B-OSE_Labeled_AE   gait≠I-OSE_Labeled_AE ,  akinesia≠B-OSE_Labeled_AE ,  antisocial≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  aphasia≠B-OSE_Labeled_AE ,  choreoathetosis≠B-OSE_Labeled_AE ,  circumoral≠B-OSE_Labeled_AE   paresthesias≠I-OSE_Labeled_AE ,  convulsion≠B-OSE_Labeled_AE ,  delirium≠B-OSE_Labeled_AE ,  delusions≠B-OSE_Labeled_AE ,  diplopia≠B-OSE_Labeled_AE ,  drug≠B-OSE_Labeled_AE   dependence≠I-OSE_Labeled_AE ,  dysarthria≠B-OSE_Labeled_AE ,  extrapyramidal≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  fasciculations≠B-OSE_Labeled_AE ,  grand≠B-OSE_Labeled_AE   mal≠I-OSE_Labeled_AE   convulsion≠I-OSE_Labeled_AE ,  hyperalgesia≠B-OSE_Labeled_AE ,  hysteria≠B-OSE_Labeled_AE ,  manic≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  depressive≠I-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  meningitis≠B-OSE_Labeled_AE ,  myelitis≠B-OSE_Labeled_AE ,  neuralgia≠B-OSE_Labeled_AE ,  neuropathy≠B-OSE_Labeled_AE ,  nystagmus≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   neuritis≠I-OSE_Labeled_AE ,  psychotic≠B-OSE_Labeled_AE   depression≠I-OSE_Labeled_AE ,  psychosis≠B-OSE_Labeled_AE ,  reflexes≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  reflexes≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  stupor≠B-OSE_Labeled_AE ,  torticollis≠B-OSE_Labeled_AE ,  trismus≠B-OSE_Labeled_AE ,  withdrawal≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE .
+
+     Respiratory System:  
+
+    Infrequent:   Asthma≠B-OSE_Labeled_AE ,  bronchitis≠B-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE ,  epistaxis≠B-OSE_Labeled_AE ,  hyperventilation≠B-OSE_Labeled_AE ,  pneumonia≠B-OSE_Labeled_AE ,  respiratory≠B-OSE_Labeled_AE   flu≠I-OSE_Labeled_AE ;  rare:   Emphysema≠B-OSE_Labeled_AE ,  hemoptysis≠B-OSE_Labeled_AE ,  hiccups≠B-OSE_Labeled_AE ,  lung≠B-OSE_Labeled_AE   fibrosis≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  sputum≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  stridor≠B-OSE_Labeled_AE ,  voice≠B-OSE_Labeled_AE   alteration≠I-OSE_Labeled_AE .
+
+     Skin and Appendages:  
+
+    Frequent:   Pruritus≠B-OSE_Labeled_AE ;  infrequent:   Acne≠B-OSE_Labeled_AE ,  alopecia≠B-OSE_Labeled_AE ,  contact≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE ,  ecchymosis≠B-OSE_Labeled_AE ,  eczema≠B-OSE_Labeled_AE ,  herpes≠B-OSE_Labeled_AE   simplex≠I-OSE_Labeled_AE ,  photosensitivity≠B-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE ;  rare:   Angioedema≠B-OSE_Labeled_AE ,  erythema≠B-OSE_Labeled_AE   nodosum≠I-OSE_Labeled_AE ,  erythema≠B-OSE_Labeled_AE   multiforme≠I-OSE_Labeled_AE ,  exfoliative≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ,  fungal≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ,  furunculosis≠B-OSE_Labeled_AE ;  herpes≠B-OSE_Labeled_AE   zoster≠I-OSE_Labeled_AE ,  hirsutism≠B-OSE_Labeled_AE ,  maculopapular≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE ,  seborrhea≠B-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   discoloration≠I-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   hypertrophy≠I-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   ulcer≠I-OSE_Labeled_AE ,  sweating≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  vesiculobullous≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE .
+
+     Special Senses:  
+
+    Frequent    :   Tinnitus≠B-OSE_Labeled_AE ;  infrequent:   Abnormality≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   accommodation≠I-OSE_Labeled_AE ,  conjunctivitis≠B-OSE_Labeled_AE ,  ear≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  eye≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  keratoconjunctivitis≠B-OSE_Labeled_AE ,  mydriasis≠B-OSE_Labeled_AE ,  otitis≠B-OSE_Labeled_AE   media≠I-OSE_Labeled_AE ;  rare:   Amblyopia≠B-OSE_Labeled_AE ,  anisocoria≠B-OSE_Labeled_AE ,  blepharitis≠B-OSE_Labeled_AE ,  cataract≠B-OSE_Labeled_AE ,  conjunctival≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  corneal≠B-OSE_Labeled_AE   ulcer≠I-OSE_Labeled_AE ,  deafness≠B-OSE_Labeled_AE ,  exophthalmos≠B-OSE_Labeled_AE ,  eye≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  glaucoma≠B-OSE_Labeled_AE ,  hyperacusis≠B-OSE_Labeled_AE ,  night≠B-OSE_Labeled_AE   blindness≠I-OSE_Labeled_AE ,  otitis≠B-OSE_Labeled_AE   externa≠I-OSE_Labeled_AE ,  parosmia≠B-OSE_Labeled_AE ,  photophobia≠B-OSE_Labeled_AE ,  ptosis≠B-OSE_Labeled_AE ,  retinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  taste≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE ,  visual≠B-OSE_Labeled_AE   field≠I-OSE_Labeled_AE   defect≠I-OSE_Labeled_AE .
+
+     Urogenital System:  
+
+    Infrequent:   Amenorrhea≠B-OSE_Labeled_AE ,  breast≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  cystitis≠B-OSE_Labeled_AE ,  dysuria≠B-OSE_Labeled_AE ,  hematuria≠B-OSE_Labeled_AE ,  menorrhagia≠B-OSE_Labeled_AE ,  nocturia≠B-OSE_Labeled_AE ,  polyuria≠B-OSE_Labeled_AE ,  pyuria≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   incontinence≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   urgency≠I-OSE_Labeled_AE ,  vaginitis≠B-OSE_Labeled_AE ;  rare:   Abortion≠B-OSE_Labeled_AE ,  breast≠B-OSE_Labeled_AE   atrophy≠I-OSE_Labeled_AE ,  breast≠B-OSE_Labeled_AE   enlargement≠I-OSE_Labeled_AE ,  endometrial≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  epididymitis≠B-OSE_Labeled_AE ,  female≠B-OSE_Labeled_AE   lactation≠I-OSE_Labeled_AE ,  fibrocystic≠B-OSE_Labeled_AE   breast≠I-OSE_Labeled_AE ,  kidney≠B-OSE_Labeled_AE   calculus≠I-OSE_Labeled_AE ,  kidney≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  leukorrhea≠B-OSE_Labeled_AE ,  mastitis≠B-OSE_Labeled_AE ,  metrorrhagia≠B-OSE_Labeled_AE ,  nephritis≠B-OSE_Labeled_AE ,  oliguria≠B-OSE_Labeled_AE ,  salpingitis≠B-OSE_Labeled_AE ,  urethritis≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   casts≠I-OSE_Labeled_AE ,  uterine≠B-OSE_Labeled_AE   spasm≠I-OSE_Labeled_AE ,  urolith≠B-OSE_Labeled_AE ,  vaginal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  vaginal≠B-OSE_Labeled_AE   moniliasis≠I-OSE_Labeled_AE .
+
+   Postmarketing Reports:
+
+  Voluntary reports of adverse events in patients taking PAXIL that have been received since market introduction and not listed above that may have no causal relationship with the drug include  acute≠B-OSE_Labeled_AE   pancreatitis≠I-OSE_Labeled_AE ,  elevated≠B-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   tests≠I-OSE_Labeled_AE  (the most severe cases were  deaths≠B-NonOSE_AE  due to  liver≠B-OSE_Labeled_AE   necrosis≠I-OSE_Labeled_AE , and grossly  elevated≠B-OSE_Labeled_AE   transaminases≠I-OSE_Labeled_AE  associated with severe  liver≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE ),  Guillain≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Barre≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE ,  priapism≠B-OSE_Labeled_AE ,  syndrome≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   inappropriate≠I-OSE_Labeled_AE   ADH≠I-OSE_Labeled_AE   secretion≠I-OSE_Labeled_AE , symptoms suggestive of  prolactinemia≠B-OSE_Labeled_AE  and  galactorrhea≠B-OSE_Labeled_AE ;  extrapyramidal≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  which have included  akathisia≠B-NonOSE_AE ,  bradykinesia≠B-NonOSE_AE ,  cogwheel≠B-NonOSE_AE   rigidity≠I-NonOSE_AE ,  dystonia≠B-NonOSE_AE ,  hypertonia≠B-NonOSE_AE ,  oculogyric≠B-NonOSE_AE   crisis≠I-NonOSE_AE  which has been associated with concomitant use of pimozide;  tremor≠B-OSE_Labeled_AE  and  trismus≠B-OSE_Labeled_AE ;  status≠B-OSE_Labeled_AE   epilepticus≠I-OSE_Labeled_AE ,  acute≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   hypertension≠I-OSE_Labeled_AE ,  allergic≠B-OSE_Labeled_AE   alveolitis≠I-OSE_Labeled_AE ,  anaphylaxis≠B-OSE_Labeled_AE ,  eclampsia≠B-OSE_Labeled_AE ,  laryngismus≠B-OSE_Labeled_AE ,  optic≠B-OSE_Labeled_AE   neuritis≠I-OSE_Labeled_AE ,  porphyria≠B-OSE_Labeled_AE ,  restless≠B-OSE_Labeled_AE   legs≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  RLS≠I-OSE_Labeled_AE ),  ventricular≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE ,  ventricular≠B-OSE_Labeled_AE   tachycardia≠I-OSE_Labeled_AE  (including  torsade≠B-OSE_Labeled_AE   de≠I-OSE_Labeled_AE   pointes≠I-OSE_Labeled_AE ),  thrombocytopenia≠B-OSE_Labeled_AE ,  hemolytic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE , events related to  impaired≠B-OSE_Labeled_AE   hematopoiesis≠I-OSE_Labeled_AE  (including  aplastic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE ,  pancytopenia≠B-OSE_Labeled_AE ,  bone≠B-OSE_Labeled_AE   marrow≠I-OSE_Labeled_AE   aplasia≠I-OSE_Labeled_AE , and  agranulocytosis≠B-OSE_Labeled_AE ),  vasculitic≠B-OSE_Labeled_AE   syndromes≠I-OSE_Labeled_AE  (such as  Henoch≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Schonlein≠I-OSE_Labeled_AE   purpura≠I-OSE_Labeled_AE ), and  premature≠B-OSE_Labeled_AE   births≠I-OSE_Labeled_AE  in  pregnant≠B-Not_AE_Candidate  women. There has been a case report of an elevated phenytoin level after 4 weeks of PAXIL and phenytoin coadministration. There has been a case report of severe  hypotension≠B-NonOSE_AE  when PAXIL was added to chronic metoprolol treatment.
+

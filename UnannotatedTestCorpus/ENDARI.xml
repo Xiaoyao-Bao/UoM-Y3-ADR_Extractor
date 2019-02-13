@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ENDARI">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (incidence &gt; 10%) are constipation, nausea, headache, abdominal pain, cough, pain in extremity, back pain, and chest pain. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Emmaus Medical, Inc. at 1-877-420-6493 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The data described below reflect exposure to Endari in 187 patients, including 136 exposed for 6 months and 109 exposed for &gt;=1 year. Endari was studied in 2 placebo-controlled clinical trials (a phase 3 study, n=230 and a phase 2 study, n=70). In these trials, patients with sickle cell anemia or sickle beta  0  -thalassemia were randomized to receive Endari (n=187) or placebo (n=111) orally twice daily for 48 weeks followed by 3 weeks of tapering. Both studies included pediatric and adult patients (5-58 years of age) and 54% were female. The majority of patients were black (97.3%), had a diagnosis of sickle cell anemia (89.9%) and were receiving hydroxyurea at baseline (63.4%).
+
+
+
+ Treatment discontinuation due to adverse reactions was reported in 2.7% (n=5) of patients receiving Endari. These adverse reactions included one case each of hypersplenism, abdominal pain, dyspepsia, burning sensation, and hot flash.
+
+
+
+ Serious adverse reactions were reported in both treatment groups, more frequently in the placebo group, and were consistent with the underlying disease.
+
+
+
+ Three deaths (3/187=1.6%) occurred during the study in the Endari treatment group as compared to none in the placebo treatment group. None of the deaths were considered to be related to Endari treatment. Adverse reactions occurring in greater than 10% of patients treated with Endari are shown in Table 2 below.
+
+
+
+ Table 2. Adverse Reactions Occurring at an Incidence &gt; 10% in Clinical Studies of Endari 
+ Adverse reaction                                        EndariN = 187(%)           PlaceboN = 111(%)       
+  
+ Constipation                                                   21                         18               
+ Nausea                                                         19                         14               
+ Headache                                                       18                         15               
+ Abdominal Pain                                                 17                         16               
+ Cough                                                          16                         14               
+ Pain in extremity                                              13                          7               
+ Back pain                                                      12                          5               
+ Chest pain                                                     12                          8               
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="320" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="350" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

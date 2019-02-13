@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="JUNIOR_STRENGTH_ADVIL">
+  <Text>
+    <Section id="S1" name="warnings">    WARNINGS
+
+
+
+   Allergy alert:
+
+
+
+  Ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin. Symptoms may include:
+
+
+
+ *  hives 
+ *  facial swelling 
+ *  asthma (wheezing) 
+ *  shock 
+ *  skin reddening 
+ *  rash 
+ *  blisters 
+    If an allergic reaction occurs, stop use and seek medical help right away.
+ 
+
+    Stomach bleeding warning:
+
+
+
+  This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if the child
+
+
+
+ *  has had stomach ulcers or bleeding problems 
+ *  takes a blood thinning (anticoagulant) or steroid drug 
+ *  takes other drugs containing prescription or nonprescription NSAIDs [aspirin, ibuprofen, naproxen, or others] 
+ *  takes more or for a longer time than directed 
+       Heart attack and stroke warning
+ 
+
+  NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke. These can be fatal. The risk is higher if you use more than directed or for longer than directed.
+
+
+
+    Sore throat warning:
+
+
+
+  Severe or persistent sore throat or sore throat accompanied by high fever, headache, nausea, and vomiting may be serious. Consult doctor promptly. Do not use more than 2 days or administer to children under 3 years of age unless directed by doctor.
+
+
+
+    Do not use
+
+
+
+    *  if the child has ever had an allergic reaction to any other pain reliever/fever reducer 
+ *  right before or after heart surgery 
+       Ask a doctor before use if
+ 
+
+    *  stomach bleeding warning applies to the child 
+ *  child has problems or serious side effects from taking pain relievers or fever reducers 
+ *  child has a history of stomach problems, such as heartburn 
+ *  child has high blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke 
+ *  child has not been drinking fluids 
+ *  child has lost a lot of fluid due to vomiting or diarrhea 
+ *  child is taking a diuretic 
+       Ask a doctor or pharmacist before use if the child is
+ 
+
+    *  under a doctor's care for any serious condition 
+ *  taking any other drug 
+       When using this product
+ 
+
+    *  take with food or milk if stomach upset occurs 
+       Stop use and ask a doctor if
+ 
+
+    *  *  feels faint 
+ *  vomits blood 
+ *  has bloody or black stools 
+ *  has stomach pain that does not get better 
+   child experiences any of the following signs of stomach bleeding: 
+ *  *  chest pain 
+ *  trouble breathing 
+ *  weakness in one part or side of body 
+ *  slurred speech 
+ *  leg swelling 
+   child has symptoms of heart problems or stroke: 
+ *  child does not get any relief within first day (24 hours) of treatment 
+ *  fever or pain gets worse or lasts more than 3 days 
+ *  redness or swelling is present in the painful area 
+ *  any new symptoms appear 
+       Keep out of reach of children
+ 
+
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="8" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="14" name="heading" section="S1" start="19" />
+    <IgnoredRegion len="25" name="heading" section="S1" start="350" />
+    <IgnoredRegion len="31" name="heading" section="S1" start="773" />
+    <IgnoredRegion len="20" name="heading" section="S1" start="1001" />
+    <IgnoredRegion len="10" name="heading" section="S1" start="1283" />
+    <IgnoredRegion len="26" name="heading" section="S1" start="1441" />
+    <IgnoredRegion len="53" name="heading" section="S1" start="1932" />
+    <IgnoredRegion len="23" name="heading" section="S1" start="2079" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="2168" />
+    <IgnoredRegion len="29" name="heading" section="S1" start="2788" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

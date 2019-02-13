@@ -1,0 +1,157 @@
+      6         ADVERSE REACTIONS  
+
+  Clinically significant adverse reactions that appear in other sections of the labeling include:
+
+
+
+ *   Hypocortisolism≠B-OSE_Labeled_AE  [see Warnings and Precautions (5.1)]  
+ *   Hyperglycemia≠B-OSE_Labeled_AE  and  Diabetes≠B-OSE_Labeled_AE   [see Warnings and Precautions (5.2)]  
+ *   Bradycardia≠B-OSE_Labeled_AE  and  QT≠B-OSE_Labeled_AE   prolongation≠I-OSE_Labeled_AE   [see Warnings and Precautions (5.3)]  
+ *   Liver≠B-OSE_Labeled_AE   Test≠I-OSE_Labeled_AE   Elevations≠I-OSE_Labeled_AE  [see Warnings and Precautions (5.4)]  
+ *   Cholelithiasis≠B-OSE_Labeled_AE   [see Warnings and Precautions (5.5)]  
+ *   Pituitary≠B-OSE_Labeled_AE   Hormone≠I-OSE_Labeled_AE   Deficiency≠I-OSE_Labeled_AE  [see Warnings and Precautions (5.6)]  
+      EXCERPT:   Most common adverse reactions occurring in >= 20% of patients are diarrhea, nausea, hyperglycemia, cholelithiasis, headache, abdominal pain, fatigue, and diabetes mellitus (  6  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Novartis Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1       Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ A total of 162  Cushing≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  patients were exposed to SIGNIFOR in the Phase III study   [see Clinical Studies (14)]  . At study entry, patients were randomized to receive twice a day (b.i.d.) doses of either 0.6 mg or 0.9 mg of SIGNIFOR given subcutaneously. The mean age of patients was approximately 40 years old with a predominance of female patients (78%). The majority of the patients had persistent or recurrent  Cushing≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  (83%) and few patients (<= 5%) in either treatment group had received previous pituitary irradiation. The median exposure to the treatment was 10.4 months (0.03-37.8) with 68% of patients having at least six-months exposure.
+
+
+
+ In the Phase III trial, adverse reactions were reported in 98% of patients. The most common adverse reactions (frequency >= 20% in either group) were  diarrhea≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  cholelithiasis≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE , and  diabetes≠B-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE . There were no deaths during the study. Serious adverse events were reported in 25% of patients. Adverse events leading to study discontinuation were reported in 17% of patients.
+
+
+
+ Adverse reactions with an overall frequency higher than 5% are presented in Table 1 by randomized dose group and overall. Adverse reactions are ranked by frequency, with the most frequent reactions listed first.
+
+
+
+ Table 1 - Adverse reactions [n (%)] with an overall frequency of more than 5% in the combined dose group in the Phase III study in Cushing's disease patients 
+                  SIGNIFOR0.6 mg bidN=82  SIGNIFOR0.9 mg bidN=80  OverallN=162      
+  Diarrhea≠B-OSE_Labeled_AE          48 (59)          46 (58)          94 (58)           
+  Nausea≠B-OSE_Labeled_AE            38 (46)          46 (58)          84 (52)           
+  Hyperglycemia≠B-OSE_Labeled_AE     31 (38)          34 (43)          65 (40)           
+  Cholelithiasis≠B-OSE_Labeled_AE    25 (30)          24 (30)          49 (30)           
+  Headache≠B-OSE_Labeled_AE          23 (28)          23 (29)          46 (28)           
+  Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE    19 (23)          20 (25)          39 (24)           
+  Fatigue≠B-OSE_Labeled_AE           12 (15)          19(24)           31 (19)           
+  Diabetes≠B-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE   13 (16)          16 (20)          29 (18)           
+  Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE   14 (17)          14 (18)          28 (17)           
+  Nasopharyngitis≠B-OSE_Labeled_AE   10 (12)          11 (14)          21 (13)           
+  Alopecia≠B-OSE_Labeled_AE          10 (12)          10 (13)          20 (12)           
+  Asthenia≠B-OSE_Labeled_AE          13 (16)          5 (6)            18 (11)           
+  Glycosylated≠B-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   10 (12)          8 (10)           18 (11)           
+  Alanine≠B-OSE_Labeled_AE   aminotransferase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   11 (13)          6 (8)            17 (10)           
+  Gamma≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  glutamyl≠I-OSE_Labeled_AE   transferase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   10 (12)          7 (9)            17 (10)           
+  Edema≠B-OSE_Labeled_AE   peripheral≠I-OSE_Labeled_AE   9 (11)           8 (10)           17 (10)           
+  Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE   10 (12)          6 (8)            16 (10)           
+  Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE   7 (9)            9 (11)           16 (10)           
+  Hypercholesterolemia≠B-OSE_Labeled_AE   7 (9)            9 (11)           16 (10)           
+  Hypertension≠B-OSE_Labeled_AE      8 (10)           8 (10)           16 (10)           
+  Dizziness≠B-OSE_Labeled_AE         8 (10)           7 (9)            15 (9)            
+  Hypoglycemia≠B-OSE_Labeled_AE      12 (15)          3 (4)            15 (9)            
+  Type≠B-OSE_Labeled_AE   2≠I-OSE_Labeled_AE   diabetes≠I-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE   10 (12)          5 (6)            15 (9)            
+  Anxiety≠B-OSE_Labeled_AE           5 (6)            9 (11)           14 (9)            
+  Influenza≠B-OSE_Labeled_AE         9 (11)           5 (6)            14 (9)            
+  Insomnia≠B-OSE_Labeled_AE          3 (4)            11 (14)          14 (9)            
+  Myalgia≠B-OSE_Labeled_AE           10 (12)          4 (5)            14 (9)            
+  Arthralgia≠B-OSE_Labeled_AE        5 (6)            8 (10)           13 (8)            
+  Pruritus≠B-OSE_Labeled_AE          6 (7)            7 (9)            13 (8)            
+  Lipase≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   7 (9)            5 (6)            12 (7)            
+  Constipation≠B-OSE_Labeled_AE      7 (9)            4 (5)            11 (7)            
+  Hypotension≠B-OSE_Labeled_AE       5 (6)            6 (8)            11 (7)            
+  Vomiting≠B-OSE_Labeled_AE          3 (4)            8 (10)           11 (7)            
+  Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE         4 (5)            6 (8)            10 (6)            
+  Dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE          5 (6)            5 (6)            10 (6)            
+  Electrocardiogram≠B-OSE_Labeled_AE   QT≠I-OSE_Labeled_AE   prolonged≠I-OSE_Labeled_AE   5 (6)            5 (6)            10 (6)            
+  Hypokalemia≠B-OSE_Labeled_AE       6 (7)            4 (5)            10 (6)            
+  Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE   6 (7)            4 (5)            10 (6)            
+  Sinus≠B-OSE_Labeled_AE   bradycardia≠I-OSE_Labeled_AE   8 (10)           2 (3)            10 (6)            
+  Vertigo≠B-OSE_Labeled_AE           4 (5)            6 (8)            10 (6)            
+  Abdominal≠B-OSE_Labeled_AE   distension≠I-OSE_Labeled_AE   4 (5)            5 (6)            9 (6)             
+  Adrenal≠B-OSE_Labeled_AE   insufficiency≠I-OSE_Labeled_AE   4 (5)            5 (6)            9 (6)             
+  Aspartate≠B-OSE_Labeled_AE   aminotransferase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   6 (7)            3 (4)            9 (6)             
+  Blood≠B-OSE_Labeled_AE   glucose≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   6 (7)            3 (4)            9 (6)             
+          Other notable adverse reactions which occurred with a frequency less than 5% were:  anemia≠B-OSE_Labeled_AE  (4%);  blood≠B-OSE_Labeled_AE   amylase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  (2%) and  prothrombin≠B-OSE_Labeled_AE   time≠I-OSE_Labeled_AE   prolonged≠I-OSE_Labeled_AE  (2%).
+ 
+
+   Gastrointestinal Disorders  
+
+
+
+  Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE , predominantly  diarrhea≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  and  vomiting≠B-OSE_Labeled_AE  were reported frequently in the Phase III trial (see Table 1). These events began to develop primarily during the first month of treatment with SIGNIFOR and required no intervention.
+
+
+
+   Hyperglycemia and Diabetes  
+
+
+
+  Hyperglycemia≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   terms≠I-OSE_Labeled_AE  were reported frequently in the Phase III trial. For all patients, these terms included:  hyperglycemia≠B-OSE_Labeled_AE  (40%),  diabetes≠B-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE  (18%),  increased≠B-OSE_Labeled_AE   HbA≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  c≠I-OSE_Labeled_AE  (11%), and  type≠B-OSE_Labeled_AE   2≠I-OSE_Labeled_AE   diabetes≠I-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE  (9%). In general,  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   fasting≠I-OSE_Labeled_AE   plasma≠I-OSE_Labeled_AE   glucose≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  FPG≠I-OSE_Labeled_AE ) and hemoglobin A1c (HbA1c) were seen soon after initiation of SIGNIFOR and were sustained during the treatment period. In the SIGNIFOR 0.6 mg group, mean  fasting≠B-OSE_Labeled_AE   plasma≠I-OSE_Labeled_AE   glucose≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  FPG≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  from 98.6 mg/dL at baseline to 125.1 mg/dL at Month 6. In the SIGNIFOR 0.9 mg group, mean  fasting≠B-OSE_Labeled_AE   plasma≠I-OSE_Labeled_AE   glucose≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  FPG≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  from 97.0 mg/dL at baseline to 128.0 mg/dL at Month 6. In the SIGNIFOR 0.6 mg group,  HbA≠B-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  c≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  from 5.8% at baseline to 7.2% at Month 6. In the SIGNIFOR 0.9 mg group,  HbA≠B-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  c≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  from 5.8% at baseline to 7.3% at Month 6  [see Warning and Precautions (5.2)]  .
+
+
+
+ At one-month follow-up visits following discontinuation of SIGNIFOR,  mean≠B-NonOSE_AE   FPG≠I-NonOSE_AE  and HbA1c  levels≠I-NonOSE_AE   decreased≠I-NonOSE_AE  but remained above baseline values. Long-term follow-up data are not available.
+
+
+
+   Elevated Liver Tests  
+
+
+
+ In the Phase III trial, there were transient mean  elevations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   aminotransferase≠I-OSE_Labeled_AE  values in patients treated with SIGNIFOR. Mean values returned to baseline levels by Month 4 of treatment. The elevations were not associated with clinical symptoms of  hepatic≠B-NonOSE_AE   disease≠I-NonOSE_AE .
+
+
+
+ In the clinical development program of SIGNIFOR, there were 4 patients with concurrent  elevations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   ALT≠I-OSE_Labeled_AE  greater than 3 x ULN and bilirubin greater than 2 x ULN: one patient with  Cushing≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  and three healthy volunteers  [see Warnings and Precautions (5.4)]  . In all four cases, the elevations were noted within the first 10 days of treatment. In all of these cases,  total≠B-OSE_Labeled_AE   bilirubin≠I-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  were seen either concomitantly or preceding the  transaminase≠B-OSE_Labeled_AE   elevation≠I-OSE_Labeled_AE . The patient with  Cushing≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  developed  jaundice≠B-OSE_Labeled_AE . All four cases had resolution of the  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  with discontinuation of SIGNIFOR.
+
+
+
+   Hypocortisolism  
+
+
+
+ Cases of  hypocortisolism≠B-OSE_Labeled_AE  were reported in the Phase III study in  Cushing≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  patients  [see Adverse Reactions (6) and Clinical Studies (14)]  . The majority of cases were manageable by reducing the dose of SIGNIFOR and/or adding low-dose, short-term glucocorticoid therapy  [see Warnings and Precautions (5.1)]  .
+
+
+
+   Injection Site Reactions  
+
+
+
+  Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  were reported in 17% of patients enrolled in the Phase III trial in  Cushing≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate . The events were most frequently reported as  local≠B-OSE_Labeled_AE  pain,  erythema≠I-OSE_Labeled_AE , hematoma, hemorrhage, and pruritus. These events resolved spontaneously and required no intervention.
+
+
+
+   Thyroid Function  
+
+
+
+  Hypothyroidism≠B-OSE_Labeled_AE  with the use of SIGNIFOR was reported for seven patients participating in the Phase III study in  Cushing≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate . All seven patients presented with a  TSH≠B-Not_AE_Candidate   close≠I-Not_AE_Candidate   to≠I-Not_AE_Candidate   or≠I-Not_AE_Candidate   below≠I-Not_AE_Candidate   the≠I-Not_AE_Candidate   lower≠I-Not_AE_Candidate   limit≠I-Not_AE_Candidate  at study entry which precludes establishing a conclusive relationship between the adverse event and the use of SIGNIFOR.
+
+
+
+   Other Abnormal Laboratory Findings  
+
+
+
+ Asymptomatic and reversible  elevations≠B-OSE_Labeled_AE  in  lipase≠I-OSE_Labeled_AE  and amylase were observed in patients receiving SIGNIFOR in clinical studies.  Pancreatitis≠B-OSE_Labeled_AE  is a potential adverse reaction associated with the use of somatostatin analogs due to the association between  cholelithiasis≠B-NonOSE_AE  and  acute≠B-NonOSE_AE   pancreatitis≠I-NonOSE_AE .
+
+
+
+ For hemoglobin levels, mean decreases that remained within normal range were observed. Also, post-baseline  elevations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   PT≠I-OSE_Labeled_AE  and PTT were noted in 33% and 47% of patients, respectively. The  PT≠B-OSE_Labeled_AE  and PTT  elevations≠I-OSE_Labeled_AE  were minimal. 
+
+
+
+ These laboratory findings are of unclear clinical significance.

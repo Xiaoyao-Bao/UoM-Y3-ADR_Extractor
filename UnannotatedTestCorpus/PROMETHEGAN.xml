@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PROMETHEGAN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+    Central Nervous System  Drowsiness is the most prominent CNS effect of this drug. Sedation, somnolence, blurred vision, dizziness; confusion, disorientation, and extrapyramidal symptoms such as oculogyric crisis, torticollis, and tongue protrusion; lassitude, tinnitus, incoordination, fatigue, euphoria, nervousness, diplopia, insomnia, tremors, convulsive seizures, excitation, catatonic-like states, hysteria. Hallucinations have also been reported.  Cardiovascular -  Increased or decreased blood pressure, tachycardia, bradycardia, faintness.  Dermatologic -  Dermatitis, photosensitivity, urticaria.  Hematologic -  Leukopenia, thrombocytopenia, thrombocytopenic purpura, agranulocytosis.  Gastrointestinal -  Dry mouth, nausea, vomiting, jaundice.  Respiratory -  Asthma, nasal stuffiness, respiratory depression (potentially fatal) and apnea (potentially fatal). (See  WARNINGS-Respiratory Depression  ).  Other -  Angioneurotic edema. Neuroleptic malignant syndrome (potentially fatal) has also been reported (See  WARNINGS-Neuroleptic Malignant Syndrome  ).  Paradoxical Reactions  Hyperexcitability and abnormal movements have been reported in patients following a single administration of promethazine HCl. Consideration should be given to the discontinuation of promethazine HCl and to the use of other drugs if these reactions occur. Respiratory depression, nightmares, delirium, and agitated behavior have also been reported in some of these patients.  To report SUSPECTED ADVERSE REACTIONS, contact G&amp;W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    .  
+</Section>
+    <Section id="S2" name="boxed warnings">
+
+    BOXED WARNING: WARNINGS 
+
+  WARNINGS 
+
+            WARNING:         PROMETHAZINE HCL SUPPOSITORIES SHOULD NOT BE USED IN PEDIATRIC PATIENTS LESS THAN 2 YEARS OF AGE BECAUSE OF THE POTENTIAL FOR FATAL RESPIRATORY DEPRESSION.         POSTMARKETING CASES OF RESPIRATORY DEPRESSION, INCLUDING FATALITIES, HAVE BEEN REPORTED WITH USE OF PROMETHAZINE HCL SUPPOSITORIES IN PEDIATRIC PATIENTS LESS THAN 2 YEARS OF AGE. A WIDE RANGE OF WEIGHT-BASED DOSES OF PROMETHAZINE HCL SUPPOSITORIES HAVE RESULTED IN RESPIRATORY DEPRESSION IN THESE PATIENTS.         CAUTION SHOULD BE EXERCISED WHEN ADMINISTERING PROMETHAZINE HCL TO PEDIATRIC PATIENTS 2 YEARS OF AGE AND OLDER. IT IS RECOMMENDED THAT THE LOWEST EFFECTIVE DOSE OF PROMETHAZINE HCL BE USED IN PEDIATRIC PATIENTS 2 YEARS OF AGE AND OLDER AND CONCOMITANT ADMINISTRATION OF OTHER DRUGS WITH RESPIRATORY DEPRESSANT EFFECTS BE AVOIDED.          
+</Section>
+    <Section id="S3" name="precautions">    PRECAUTIONS
+
+
+
+   General  
+
+
+
+  Drugs having anticholinergic properties should be used with caution in patients with narrow-angle glaucoma, prostatic hypertrophy, stenosing peptic ulcer, pyloroduodenal obstruction, and bladder-neck obstruction.  Promethazine HCl Suppositories should be used cautiously in persons with cardiovascular disease or with impairment of liver function.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="34" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

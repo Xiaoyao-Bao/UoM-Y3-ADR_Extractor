@@ -1,0 +1,58 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   ALT Elevations : Discontinue ethinyl estradiol-containing medications prior to starting VIEKIRA PAK (alternative contraceptive methods are recommended). Perform hepatic laboratory testing on all patients during the first 4 weeks of treatment. For ALT elevations on VIEKIRA PAK, monitor closely and follow recommendations in full prescribing information. (  5.1  ) 
+ *   Risks Associated With Ribavirin Combination Treatment : If VIEKIRA PAK is administered with ribavirin, the warnings and precautions for ribavirin also apply to this combination regimen. (  5.2  ) 
+ *   Drug Interactions : The concomitant use of VIEKIRA PAK and certain other drugs may result in known or potentially significant drug interactions, some of which may lead to loss of therapeutic effect of VIEKIRA PAK. (  5.3  ) 
+    
+ 
+
+   5.1 Increased Risk of ALT Elevations
+
+
+
+  During clinical trials with VIEKIRA PAK with or without ribavirin,  elevations≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   ALT≠I-OSE_Labeled_AE  to greater than 5 times the upper limit of normal (ULN) occurred in approximately 1% of all subjects [see Adverse Reactions (  6.1  )]  .  ALT≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  were typically asymptomatic, occurred during the first 4 weeks of treatment, and declined within two to eight weeks of onset with continued dosing of VIEKIRA PAK with or without ribavirin.
+
+
+
+ These  ALT≠B-NonOSE_AE   elevations≠I-NonOSE_AE  were significantly more frequent in female subjects who were using ethinyl estradiol-containing medications such as combined oral contraceptives, contraceptive patches or contraceptive vaginal rings. Ethinyl estradiol-containing medications must be discontinued prior to starting therapy with VIEKIRA PAK [see Contraindications (  4  )]  . Alternative methods of contraception (e.g, progestin only contraception or non-hormonal methods) are recommended during VIEKIRA PAK therapy. Ethinyl estradiol-containing medications can be restarted approximately 2 weeks following completion of treatment with VIEKIRA PAK.
+
+
+
+ Women using estrogens other than ethinyl estradiol, such as estradiol and conjugated estrogens used in hormone replacement therapy had a rate of  ALT≠B-NonOSE_AE   elevation≠I-NonOSE_AE  similar to those not receiving any estrogens; however, due to the limited number of subjects taking these other estrogens, caution is warranted for co-administration with VIEKIRA PAK [see Adverse Reactions (  6.1  )]  .
+
+
+
+ Hepatic laboratory testing should be performed during the first 4 weeks of starting treatment and as clinically indicated thereafter. If  ALT≠B-NonOSE_AE   is≠I-NonOSE_AE   found≠I-NonOSE_AE   to≠I-NonOSE_AE   be≠I-NonOSE_AE   elevated≠I-NonOSE_AE  above baseline levels, it should be repeated and monitored closely:
+
+
+
+ *  Patients should be instructed to consult their health care professional without delay if they have onset of  fatigue≠B-NonOSE_AE ,  weakness≠B-NonOSE_AE ,  lack≠B-NonOSE_AE   of≠I-NonOSE_AE   appetite≠I-NonOSE_AE ,  nausea≠B-NonOSE_AE  and  vomiting≠B-NonOSE_AE ,  jaundice≠B-NonOSE_AE  or  discolored≠B-NonOSE_AE   feces≠I-NonOSE_AE . 
+ *  Consider discontinuing VIEKIRA PAK if  ALT≠B-NonOSE_AE   levels≠I-NonOSE_AE   remain≠I-NonOSE_AE   persistently≠I-NonOSE_AE   greater≠I-NonOSE_AE   than≠I-NonOSE_AE   1≠I-NonOSE_AE  0≠I-NonOSE_AE   times≠I-NonOSE_AE   the≠I-NonOSE_AE   ULN≠I-NonOSE_AE . 
+ *  Discontinue VIEKIRA PAK if  ALT≠B-NonOSE_AE   elevation≠I-NonOSE_AE  is accompanied by signs or symptoms of  liver≠B-NonOSE_AE   inflammation≠I-NonOSE_AE  or  increasing≠B-NonOSE_AE   conjugated≠I-NonOSE_AE   bilirubin≠I-NonOSE_AE , alkaline phosphatase, or INR. 
+       5.2 Risks Associated With Ribavirin Combination Treatment
+ 
+
+  If VIEKIRA PAK is administered with ribavirin, the warnings and precautions for ribavirin, in particular the  pregnancy≠B-NonOSE_AE  avoidance warning, apply to this combination regimen. Refer to the ribavirin prescribing information for a full list of the warnings and precautions for ribavirin.
+
+
+
+    5.3 Risk of Adverse Reactions or Reduced Therapeutic Effect Due to Drug Interactions
+
+
+
+  The concomitant use of VIEKIRA PAK and certain other drugs may result in known or potentially significant drug interactions, some of which may lead to:
+
+
+
+ *  Loss of therapeutic effect of VIEKIRA PAK and possible  development≠B-NonOSE_AE   of≠I-NonOSE_AE   resistance≠I-NonOSE_AE  
+ *  Possible clinically significant adverse reactions from greater exposures of concomitant drugs or components of VIEKIRA PAK. 
+    See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (  7  )]  . Consider the potential for drug interactions prior to and during VIEKIRA PAK therapy; review concomitant medications during VIEKIRA PAK therapy; and monitor for the adverse reactions associated with the concomitant drugs [see Contraindications (  4  ) and Drug Interactions (  7  )]  .
+ 
+
+    5.4 Risk of HIV-1 Protease Inhibitor Drug Resistance in HCV/HIV-1 Co-infected Patients
+
+
+
+  The ritonavir component of VIEKIRA PAK is also an HIV-1 protease inhibitor and can  select≠B-OSE_Labeled_AE   for≠I-OSE_Labeled_AE   HIV≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE   protease≠I-OSE_Labeled_AE   inhibitor≠I-OSE_Labeled_AE   resistance≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  associated≠I-OSE_Labeled_AE   substitutions≠I-OSE_Labeled_AE . Any  HCV≠B-Not_AE_Candidate / HIV≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  co-infected patients treated with VIEKIRA PAK should also be on a suppressive antiretroviral drug regimen to reduce the risk of  HIV≠B-NonOSE_AE  -≠I-NonOSE_AE  1≠I-NonOSE_AE   protease≠I-NonOSE_AE   inhibitor≠I-NonOSE_AE   drug≠I-NonOSE_AE   resistance≠I-NonOSE_AE .

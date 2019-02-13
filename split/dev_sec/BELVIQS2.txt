@@ -1,0 +1,131 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions: The safety of coadministration with other serotonergic or antidopaminergic agents has not been established. Manage with immediate BELVIQ discontinuation and provide supportive treatment. (  5.1  ) 
+ *  Valvular heart disease: If signs or symptoms develop consider BELVIQ discontinuation and evaluate the patient for possible valvulopathy. (  5.2  ) 
+ *  Cognitive Impairment: May cause disturbances in attention or memory. Caution with use of hazardous machinery when starting BELVIQ treatment. (  5.3  ) 
+ *  Psychiatric Disorders, including euphoria and dissociation: Do not exceed recommended dose of 10 mg twice daily. (  5.4  ) 
+ *  Monitor for depression or suicidal thoughts. Discontinue if symptoms develop. (  5.4  ) 
+ *  Use of Antidiabetic Medications: weight loss may cause hypoglycemia. Monitor blood glucose. BELVIQ has not been studied in patients taking insulin. (  5.5  ) 
+ *  Priapism: Patients should seek emergency treatment if an erection lasts >4 hours. Use BELVIQ with caution in patients predisposed to priapism. (  5.6  ) 
+    
+ 
+
+   5.1 Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+
+
+
+  BELVIQ is a serotonergic drug. The development of a potentially life-threatening  serotonin≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  or  Neuroleptic≠B-OSE_Labeled_AE   Malignant≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE  (NMS)-like reactions have been reported during use of serotonergic drugs, including, but not limited to, selective serotonin-norepinephrine reuptake inhibitors (SNRIs) and selective serotonin reuptake inhibitors (SSRIs), tricyclic antidepressants (TCAs), bupropion, triptans, dietary supplements such as St. John's Wort and tryptophan, drugs that impair metabolism of serotonin (including monoamine oxidase inhibitors [MAOIs]), dextromethorphan, lithium, tramadol, antipsychotics or other dopamine antagonists, particularly when used in combination [ see Drug Interactions (  7.1  )  ].
+
+
+
+  Serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE  symptoms may include  mental≠B-NonOSE_AE   status≠I-NonOSE_AE   changes≠I-NonOSE_AE  (e.g.,  agitation≠B-NonOSE_AE ,  hallucinations≠B-NonOSE_AE ,  coma≠B-NonOSE_AE ),  autonomic≠B-NonOSE_AE   instability≠I-NonOSE_AE  (e.g.,  tachycardia≠B-NonOSE_AE ,  labile≠B-NonOSE_AE   blood≠I-NonOSE_AE   pressure≠I-NonOSE_AE ,  hyperthermia≠B-NonOSE_AE ),  neuromuscular≠B-NonOSE_AE   aberrations≠I-NonOSE_AE  (e.g.,  hyperreflexia≠B-NonOSE_AE ,  incoordination≠B-NonOSE_AE ) and/or  gastrointestinal≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  (e.g.,  nausea≠B-NonOSE_AE ,  vomiting≠B-NonOSE_AE ,  diarrhea≠B-NonOSE_AE ).  Serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE , in its most severe form, can resemble  neuroleptic≠B-NonOSE_AE   malignant≠I-NonOSE_AE   syndrome≠I-NonOSE_AE , which includes  hyperthermia≠B-NonOSE_AE ,  muscle≠B-NonOSE_AE   rigidity≠I-NonOSE_AE ,  autonomic≠B-NonOSE_AE   instability≠I-NonOSE_AE  with possible  rapid≠B-NonOSE_AE   fluctuation≠I-NonOSE_AE   of≠I-NonOSE_AE   vital≠I-NonOSE_AE   signs≠I-NonOSE_AE , and  mental≠B-NonOSE_AE   status≠I-NonOSE_AE   changes≠I-NonOSE_AE . Patients should be monitored for the emergence of  serotonin≠B-NonOSE_AE   syndrome≠I-NonOSE_AE  or  NMS≠B-NonOSE_AE  -≠I-NonOSE_AE  like≠I-NonOSE_AE  signs and symptoms.
+
+
+
+ The safety of BELVIQ when coadministered with other serotonergic or antidopaminergic agents, including antipsychotics, or drugs that impair metabolism of serotonin, including MAOIs, has not been systematically evaluated and has not been established.
+
+
+
+ If concomitant administration of BELVIQ with an agent that affects the serotonergic neurotransmitter system is clinically warranted, extreme caution and careful observation of the patient is advised, particularly during treatment initiation and dose increases. Treatment with BELVIQ and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated [ see Adverse Reactions (  6.1  ) and Drug Interactions (  7.1  )  ].
+
+
+
+    5.2 Valvular Heart Disease
+
+
+
+   Regurgitant≠B-OSE_Labeled_AE   cardiac≠I-OSE_Labeled_AE   valvular≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE , primarily affecting the mitral and/or aortic valves, has been reported in patients who took serotonergic drugs with 5-HT2Breceptor agonist activity. The etiology of the  regurgitant≠B-NonOSE_AE   valvular≠I-NonOSE_AE   disease≠I-NonOSE_AE  is thought to be activation of 5-HT2Breceptors on cardiac interstitial cells. At therapeutic concentrations, BELVIQ is selective for 5-HT2Creceptors as compared to 5-HT2Breceptors. In clinical trials of 1-year duration, 2.4% of patients receiving BELVIQ and 2.0% of patients receiving placebo developed echocardiographic criteria for  valvular≠B-OSE_Labeled_AE   regurgitation≠I-OSE_Labeled_AE  at one year (mild or greater  aortic≠B-OSE_Labeled_AE   regurgitation≠I-OSE_Labeled_AE  and/or moderate or greater  mitral≠B-OSE_Labeled_AE   regurgitation≠I-OSE_Labeled_AE ): none of these patients was symptomatic [ see Adverse Reactions (  6.1  ) see Clinical Pharmacology (  12.1  )  ].
+
+
+
+ BELVIQ has not been studied in patients with  congestive≠B-Not_AE_Candidate   heart≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate  or hemodynamically-significant  valvular≠B-Not_AE_Candidate   heart≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate . Preliminary data suggest that 5HT2Breceptors may be overexpressed in  congestive≠B-NonOSE_AE   heart≠I-NonOSE_AE   failure≠I-NonOSE_AE , Therefore, BELVIQ should be used with caution in patients with  congestive≠B-NonOSE_AE   heart≠I-NonOSE_AE   failure≠I-NonOSE_AE .
+
+
+
+ BELVIQ should not be used in combination with serotonergic and dopaminergic drugs that are potent 5-HT2Breceptor agonists and are known to increase the risk for  cardiac≠B-NonOSE_AE   valvulopathy≠I-NonOSE_AE  (e.g., cabergoline).
+
+
+
+ Patients who develop signs or symptoms of  valvular≠B-NonOSE_AE   heart≠I-NonOSE_AE   disease≠I-NonOSE_AE , including  dyspnea≠B-NonOSE_AE ,  dependent≠B-NonOSE_AE   edema≠I-NonOSE_AE ,  congestive≠B-NonOSE_AE   heart≠I-NonOSE_AE   failure≠I-NonOSE_AE , or a new  cardiac≠B-NonOSE_AE   murmur≠I-NonOSE_AE  while being treated with BELVIQ should be evaluated and discontinuation of BELVIQ should be considered.
+
+
+
+    5.3 Cognitive Impairment
+
+
+
+  In clinical trials of at least one year in duration,  impairments≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   attention≠I-OSE_Labeled_AE  and memory were reported adverse reactions associated with 1.9% of patients treated with BELVIQ and 0.5% of patients treated with placebo, and led to discontinuation in 0.3% and 0.1% of these patients, respectively. Other reported adverse reactions associated with BELVIQ in clinical trials included  confusion≠B-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE , and  fatigue≠B-OSE_Labeled_AE  [ see Adverse Reactions (  6.1  )  ].
+
+
+
+ Since BELVIQ has the potential to  impair≠B-OSE_Labeled_AE   cognitive≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE , patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that BELVIQ therapy does not affect them adversely [ see Patient Counseling Information (  17  )  ].
+
+
+
+    5.4  Psychiatric≠B-OSE_Labeled_AE   Disorders≠I-OSE_Labeled_AE 
+
+
+
+  Events of  euphoria≠B-NonOSE_AE ,  hallucination≠B-NonOSE_AE , and  dissociation≠B-NonOSE_AE  were seen with BELVIQ at supratherapeutic doses in short-term studies [ see Adverse Reactions (  6.1  ), Drug Abuse and Dependence (  9.2  ), and Overdosage (  10  )  ]. In clinical trials of at least 1-year in duration, 6 patients (0.2%) treated with BELVIQ developed  euphoria≠B-OSE_Labeled_AE , as compared with 1 patient (<0.1%) treated with placebo. Doses of BELVIQ should not exceed 10 mg twice a day.
+
+
+
+ Some drugs that target the central nervous system have been associated with  depression≠B-NonOSE_AE  or  suicidal≠B-NonOSE_AE   ideation≠I-NonOSE_AE . Patients treated with BELVIQ should be monitored for the emergence or  worsening≠B-NonOSE_AE   of≠I-NonOSE_AE   depression≠I-NonOSE_AE ,  suicidal≠B-NonOSE_AE   thoughts≠I-NonOSE_AE  or behavior, and/or any unusual  changes≠B-NonOSE_AE   in≠I-NonOSE_AE   mood≠I-NonOSE_AE  or behavior. Discontinue BELVIQ in patients who experience  suicidal≠B-NonOSE_AE   thoughts≠I-NonOSE_AE  or behaviors [ see Adverse Reactions (  6.1  )  ].
+
+
+
+    5.5 Potential Risk of Hypoglycemia in Patients with Type 2 Diabetes Mellitus on Anti-diabetic Therapy
+
+
+
+   Weight≠B-NonOSE_AE   loss≠I-NonOSE_AE  may increase the risk of  hypoglycemia≠B-NonOSE_AE  in patients with  type≠B-Not_AE_Candidate   2≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate  treated with insulin and/or insulin secretagogues (e.g., sulfonylureas);  hypoglycemia≠B-OSE_Labeled_AE  was observed in clinical trials with BELVIQ. BELVIQ has not been studied in combination with insulin. Measurement of blood glucose levels prior to starting BELVIQ and during BELVIQ treatment is recommended in patients with  type≠B-Not_AE_Candidate   2≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate . Decreases in medication doses for anti-diabetic medications which are non-glucose-dependent should be considered to mitigate the risk of  hypoglycemia≠B-NonOSE_AE . If a patient develops  hypoglycemia≠B-NonOSE_AE  after starting BELVIQ, appropriate changes should be made to the anti-diabetic drug regimen [ see Adverse Reactions (  6.1  )  ].
+
+
+
+    5.6 Priapism
+
+
+
+   Priapism≠B-OSE_Labeled_AE  ( painful≠B-OSE_Labeled_AE   erections≠I-OSE_Labeled_AE  greater than 6 hours in duration) is a potential effect of 5-HT2Creceptor agonism.
+
+
+
+ If not treated promptly,  priapism≠B-NonOSE_AE  can result in irreversible  damage≠B-NonOSE_AE   to≠I-NonOSE_AE   the≠I-NonOSE_AE   erectile≠I-NonOSE_AE   tissue≠I-NonOSE_AE . Men who have an  erection≠B-NonOSE_AE   lasting≠I-NonOSE_AE   greater≠I-NonOSE_AE   than≠I-NonOSE_AE   4≠I-NonOSE_AE   hours≠I-NonOSE_AE , whether painful or not, should immediately discontinue the drug and seek emergency medical attention.
+
+
+
+ BELVIQ should be used with caution in men who have conditions that might predispose them to  priapism≠B-NonOSE_AE  (e.g.,  sickle≠B-NonOSE_AE   cell≠I-NonOSE_AE   anemia≠I-NonOSE_AE ,  multiple≠B-NonOSE_AE   myeloma≠I-NonOSE_AE , or  leukemia≠B-NonOSE_AE ), or in men with anatomical deformation of the  penis≠B-NonOSE_AE  (e.g.,  angulation≠I-NonOSE_AE ,  cavernosal≠B-NonOSE_AE   fibrosis≠I-NonOSE_AE , or  Peyronie≠B-NonOSE_AE  '≠I-NonOSE_AE  s≠I-NonOSE_AE   disease≠I-NonOSE_AE ). There is limited experience with the combination of BELVIQ and medication indicated for  erectile≠B-NonOSE_AE   dysfunction≠I-NonOSE_AE  (e.g., phosphodiesterase type 5 inhibitors). Therefore, the combination of BELVIQ and these medications should be used with caution.
+
+
+
+    5.7 Heart Rate Decreases
+
+
+
+  In clinical trials of at least 1-year in duration, the  mean≠B-NonOSE_AE   change≠I-NonOSE_AE   in≠I-NonOSE_AE   heart≠I-NonOSE_AE   rate≠I-NonOSE_AE  (HR) was  -≠I-NonOSE_AE 1. 2≠I-NonOSE_AE  beats per minute (bpm) in BELVIQ and -0 .≠I-NonOSE_AE 4 bpm in placebo-treated patients without diabetes and -2. 0≠I-NonOSE_AE   beats≠I-NonOSE_AE   per≠I-NonOSE_AE   minute≠I-NonOSE_AE   (≠I-NonOSE_AE  bpm≠I-NonOSE_AE ) in BELVIQ and -0.4 bpm in placebo-treated patients with  type≠B-Not_AE_Candidate   2≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate . The incidence of  HR≠B-OSE_Labeled_AE   less≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   5≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   bpm≠I-OSE_Labeled_AE  was 5.3% in BELVIQ and 3.2% in placebo-treated patients without diabetes and 3.6% in BELVIQ and 2.0% in placebo-treated patients with type 2 diabetes. In the combined population, adverse reactions of  bradycardia≠B-OSE_Labeled_AE  occurred in 0.3% of BELVIQ and 0.1% of placebo-treated patients. Use with caution in patients with  bradycardia≠B-NonOSE_AE  or a history of  heart≠B-NonOSE_AE   block≠I-NonOSE_AE   greater≠I-NonOSE_AE   than≠I-NonOSE_AE   first≠I-NonOSE_AE   degree≠I-NonOSE_AE .
+
+
+
+    5.8  Hematological≠B-OSE_Labeled_AE   Changes≠I-OSE_Labeled_AE 
+
+
+
+  In clinical trials of at least one year in duration, adverse reactions of  decreases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   white≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE  (including  leukopenia≠B-OSE_Labeled_AE ,  lymphopenia≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE , and  decreased≠B-OSE_Labeled_AE   white≠I-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE ) were reported in 0.4% of patients treated with BELVIQ as compared to 0.2% of patients treated with placebo. Adverse reactions of  decreases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   red≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE  (including  anemia≠B-OSE_Labeled_AE  and  decreases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE  and hematocrit) were reported by 1.3% of patients treated with BELVIQ as compared to 1.2% treated with placebo [ see Adverse Reactions (  6.1  )  ]. Consider periodic monitoring of complete blood count during treatment with BELVIQ.
+
+
+
+    5.9 Prolactin Elevation
+
+
+
+  Lorcaserin moderately  elevates≠B-OSE_Labeled_AE   prolactin≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE . In a subset of placebo-controlled clinical trials of at least one year in duration,  elevations≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   prolactin≠I-OSE_Labeled_AE  greater than the upper limit of normal, two times the upper limit of normal, and five times the upper limit of normal, measured both before and 2 hours after dosing, occurred in 6.7%, 1.7%, and 0.1% of BELVIQ-treated patients and 4.8%, 0.8%, and 0.0% of placebo-treated patients, respectively [ see Adverse Reactions (  6.1  )  ]. Prolactin should be measured when symptoms and signs of  prolactin≠B-NonOSE_AE   excess≠I-NonOSE_AE  are suspected (e.g.,  galactorrhea≠B-NonOSE_AE ,  gynecomastia≠B-NonOSE_AE ). There was one patient treated with BELVIQ who developed a  prolactinoma≠B-OSE_Labeled_AE  during the trial. The relationship of BELVIQ to the  prolactinoma≠B-NonOSE_AE  in this patient is unknown.
+
+
+
+    5.10 Pulmonary Hypertension
+
+
+
+  Certain centrally-acting weight loss agents that act on the serotonin system have been associated with  pulmonary≠B-OSE_Labeled_AE   hypertension≠I-OSE_Labeled_AE , a rare but lethal disease. Because of the low incidence of this disease, the clinical trial experience with BELVIQ is inadequate to determine if BELVIQ increases the risk for  pulmonary≠B-NonOSE_AE   hypertension≠I-NonOSE_AE .

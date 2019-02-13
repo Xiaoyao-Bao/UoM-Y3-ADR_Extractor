@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CONDYLOX">
+  <Text>
+    <Section id="S1" name="adverse reactions">      ADVERSE REACTIONS  
+
+  In clinical trials, the following local adverse reactions were reported at some point during treatment.
+
+
+
+
+    Adverse Experience       Males            Females        
+  Burning          64%              78%              
+  Pain             50%              72%              
+  Inflammation     71%              63%              
+  Erosion          67%              67%              
+  Itching          50%              65%              
+         Reports of burning and pain were more frequent and of greater severity in women than in men.
+ 
+
+ Adverse effects reported in less than 5% of the patients included pain with intercourse, insomnia, tingling, bleeding, tenderness, chafing, malodor, dizziness, scarring, vesicle formation, crusting edema, dryness/peeling, foreskin irretraction, hematuria, vomiting and ulceration.
+</Section>
+    <Section id="S2" name="precautions">     PRECAUTIONS  
+
+
+
+    General  
+
+
+
+  Data are not available on the safe and effective use of this product for treatment of warts occurring in the perianal area or on mucous membranes of the genital area (including the urethra, rectum and vagina). The recommended method of application, frequency of application, and duration of usage should not be exceeded (see   DOSAGE AND ADMINISTRATION    ).
+
+
+
+     Information for Patients  
+
+
+
+  The patient should be provided with a Patient Information leaflet when a Condylox prescription is filled.
+
+
+
+     Carcinogenesis, Mutagenesi   s and   Impairment of Fertility  
+
+
+
+  Reports of lifetime carcinogenicity studies in mice are not available. Published animal studies, in general, have not shown the drug substance, podofilox, to be carcinogenic.  1,2,3,4,5  There are published reports that, in mouse studies, crude podophyllin resin (containing podofilox) applied topically to the cervix produced changes resembling carcinoma in situ.    6  These changes were reversible at 5 weeks after cessation of treatment. In one reported experiment, epidermal carcinoma of the vagina and cervix was found in 1 out of 18 mice after 120 applications of podophyllin  7  (the drug was applied twice weekly over a 15-month period).
+
+
+
+ Podofilox was not mutagenic in the Ames plate reverse mutation assay at concentrations up to 5 mg/plate, with and without metabolic activation. No cell transformation related to potential oncogenicity was observed in BALB/3T3 cells after exposure to podofilox at concentrations up to 0.008 mug/mL without metabolic activation and 12 mug/mL podofilox with metabolic activation. Results from the mouse micronucleus in vivo  assay using podofilox 0.5% solution in concentrations up to 25 mg/kg, indicate that podofilox should be considered a potential clastogen (a chemical that induces disruption and breakage of chromosomes).
+
+
+
+ Daily topical application of Condylox 0.5% Solution at doses up to the equivalent of 0.2 mg/kg (5 times the recommended maximum human dose) to rats throughout gametogenesis, mating, gestation, parturition and lactation for two generations demonstrated no impairment of fertility.
+
+
+
+     Pregnancy  
+
+
+
+  Pregnancy Category C: Podofilox was not teratogenic in the rabbit following topical application of up to 0.21 mg/kg (5 times the maximum human dose) once daily for 13 days. The scientific literature contains references that podofilox is embryotoxic in rats when administered systemically in a dose approximately 250 times the recommended maximum human dose.  8,9  Teratogenicity and embryotoxicity have not been studied with intravaginal application. Many antimitotic drug products are known to be embryotoxic. There are no adequate and well-controlled studies in pregnant women. Podofilox should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+     Nursing Mothers  
+
+
+
+  It is not known whether this drug is excreted in human milk. Because of the potential for serious adverse reactions in nursing infants from podofilox, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+
+
+     Pediatric Use  
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+</Section>
+    <Section id="S3" name="warnings">     WARNINGS  
+
+
+
+  Correct diagnosis of the lesions to be treated is essential. See the " Diagnosis  " subsection of the   INDICATIONS AND USAGE    statement.
+
+
+
+ Condylox 0.5% Solution is intended for cutaneous use only. Avoid contact with the eye. If eye contact occurs, patients should immediately flush the eye with copious quantities of water and seek medical advice.  
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="21" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="10" name="heading" section="S2" start="25" />
+    <IgnoredRegion len="27" name="heading" section="S2" start="407" />
+    <IgnoredRegion len="63" name="heading" section="S2" start="553" />
+    <IgnoredRegion len="12" name="heading" section="S2" start="2189" />
+    <IgnoredRegion len="18" name="heading" section="S2" start="2905" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="3234" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

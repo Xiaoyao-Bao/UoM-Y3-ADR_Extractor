@@ -1,0 +1,76 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Neoplastic growth. There is a risk for acceleration of neoplastic growth. Colonoscopy of the entire colon with removal of polyps should be done before initiating treatment with GATTEX and is recommended after 1 year. Subsequent colonoscopies should be done as needed, but no less frequently than every 5 years. In case of intestinal malignancy discontinue GATTEX. The clinical decision to continue GATTEX in patients with non-gastrointestinal malignancy should be made based on risk and benefit considerations. (  5.1  ) 
+ *  Intestinal obstruction. In patients who develop obstruction, GATTEX should be temporarily discontinued pending further clinical evaluation and management. (  5.2  ) 
+ *  Biliary and pancreatic disease. Patients should undergo laboratory assessment (bilirubin, alkaline phosphatase, lipase, amylase) before starting GATTEX. Subsequent laboratory tests should be done every 6 months. If clinically meaningful changes are seen, further evaluation is recommended including imaging, and continued treatment with GATTEX should be reassessed. (  5.3  ) 
+ *  Fluid overload. There is a potential for fluid overload while on GATTEX. If fluid overload occurs, especially in patients with cardiovascular disease, parenteral support should be appropriately adjusted, and GATTEX treatment reassessed. (  5.4  ) 
+    
+ 
+
+   5.1 Acceleration of Neoplastic Growth
+
+
+
+  Based on the pharmacologic activity and findings in animals, GATTEX has the potential to cause  hyperplastic≠B-OSE_Labeled_AE   changes≠I-OSE_Labeled_AE  including  neoplasia≠B-OSE_Labeled_AE . In patients at increased risk for  malignancy≠B-NonOSE_AE , the clinical decision to use GATTEX should be considered only if the benefits outweigh the risks. In patients with active  gastrointestinal≠B-Not_AE_Candidate   malignancy≠I-Not_AE_Candidate  (GI tract, hepatobiliary, pancreatic), GATTEX therapy should be discontinued. In patients with active  non≠B-NonOSE_AE  -≠I-NonOSE_AE  gastrointestinal≠I-NonOSE_AE   malignancy≠I-NonOSE_AE , the clinical decision to continue GATTEX should be made based on risk-benefit considerations. [see  Clinical Pharmacology (12.1)  and  Nonclinical Toxicology (13.1)  ]  
+
+
+
+    Colorectal Polyps  
+
+
+
+  Colorectal≠B-OSE_Labeled_AE   polyps≠I-OSE_Labeled_AE  were identified during the clinical trials. Colonoscopy of the entire colon with removal of  polyps≠B-NonOSE_AE  should be done within 6 months prior to starting treatment with GATTEX. A follow-up colonoscopy (or alternate imaging) is recommended at the end of 1 year of GATTEX. Subsequent colonoscopies should be done every 5 years or more often as needed. If a  polyp≠B-NonOSE_AE  is found, adherence to current  polyp≠B-NonOSE_AE  follow-up guidelines is recommended. In case of diagnosis of  colorectal≠B-NonOSE_AE   cancer≠I-NonOSE_AE , GATTEX therapy should be discontinued . [see  Adverse Reactions (6.1)  ]  
+
+
+
+     Small≠B-OSE_Labeled_AE   Bowel≠I-OSE_Labeled_AE   Neoplasia≠I-OSE_Labeled_AE   
+
+
+
+ Based on  benign≠B-NonOSE_AE   tumor≠I-NonOSE_AE  findings in the rat  carcinogenicity≠B-NonOSE_AE  study, patients should be monitored clinically for  small≠B-NonOSE_AE   bowel≠I-NonOSE_AE   neoplasia≠I-NonOSE_AE . If a  benign≠B-NonOSE_AE   neoplasm≠I-NonOSE_AE  is found, it should be removed. In case of  small≠B-NonOSE_AE   bowel≠I-NonOSE_AE   cancer≠I-NonOSE_AE , GATTEX therapy should be discontinued. [see  Nonclinical Toxicology (13.1)  ]  
+
+
+
+    5.2 Intestinal Obstruction
+
+
+
+   Intestinal≠B-OSE_Labeled_AE   obstruction≠I-OSE_Labeled_AE  has been reported in clinical trials. In patients who develop  intestinal≠B-NonOSE_AE  or stomal  obstruction≠I-NonOSE_AE , GATTEX should be temporarily discontinued while the patient is clinically managed. GATTEX may be restarted when the obstructive presentation resolves, if clinically indicated. [see  Adverse Reactions (6.1)  ]  
+
+
+
+    5.3 Biliary and Pancreatic Disease
+
+
+
+   Gallbladder and Biliary Tract Disease  
+
+
+
+  Cholecystitis≠B-OSE_Labeled_AE ,  cholangitis≠B-OSE_Labeled_AE , and  cholelithiasis≠B-OSE_Labeled_AE , have been reported in clinical studies. For identification of the onset or worsening of  gallbladder≠B-NonOSE_AE /biliary  disease≠I-NonOSE_AE , patients should undergo laboratory assessment of bilirubin and alkaline phosphatase within 6 months prior to starting GATTEX, and at least every 6 months while on GATTEX; or more frequently if needed. If clinically meaningful changes are seen, further evaluation including imaging of the gallbladder and/or biliary tract is recommended; and the need for continued GATTEX treatment should be reassessed. [see  Adverse Reactions (6.1)  ]  
+
+
+
+    Pancreatic Disease  
+
+
+
+  Pancreatitis≠B-OSE_Labeled_AE  has been reported in clinical studies. For identification of onset or worsening of  pancreatic≠B-NonOSE_AE   disease≠I-NonOSE_AE , patients should undergo laboratory assessment of lipase and amylase within 6 months prior to starting GATTEX, and at least every 6 months while on GATTEX; or more frequently if needed. If clinically meaningful changes are seen, further evaluation such as imaging of the pancreas is recommended; and the need for continued GATTEX treatment should be reassessed. [see  Adverse Reactions (6.1)  and  Nonclinical Toxicology (13.1)  ]  
+
+
+
+    5.4 Fluid Overload
+
+
+
+   Fluid≠B-OSE_Labeled_AE   overload≠I-OSE_Labeled_AE  and  congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  have been observed in clinical trials, which were felt to be related to enhanced fluid absorption associated with GATTEX. If  fluid≠B-NonOSE_AE   overload≠I-NonOSE_AE  occurs, parenteral support should be adjusted and GATTEX treatment should be reassessed, especially in patients with underlying  cardiovascular≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate . If significant  cardiac≠B-NonOSE_AE   deterioration≠I-NonOSE_AE  develops while on GATTEX, the need for continued GATTEX treatment should be reassessed. [ see  Adverse Reactions (6.1)  ]  
+
+
+
+    5.5 Increased Absorption of Concomitant Oral Medication
+
+
+
+   Altered≠B-NonOSE_AE   mental≠I-NonOSE_AE   status≠I-NonOSE_AE  in association with GATTEX has been observed in patients on benzodiazepines in clinical trials. Patients on concomitant oral drugs (e.g., benzodiazepines, phenothiazines) requiring titration or with a narrow therapeutic index may require dose adjustment while on GATTEX. [ see  Adverse Reactions (6.2)     ]  

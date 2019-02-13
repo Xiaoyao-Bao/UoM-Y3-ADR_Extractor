@@ -1,0 +1,64 @@
+    6 ADVERSE REACTIONS
+
+  Serious and important adverse reactions described elsewhere in labeling include:
+
+
+
+ *     Gastrointestinal≠B-NonOSE_AE   perforation≠I-NonOSE_AE  [ see  Warnings and Precautions (5.1)   ] 
+ *     Opioid≠B-OSE_Labeled_AE   withdrawal≠I-OSE_Labeled_AE  [ see    Warnings and Precautions (5.2)   ] 
+      EXCERPT:   The most common adverse reactions in clinical trials (>= 3%) are: abdominal pain, diarrhea, nausea, flatulence, vomiting, and headache  (6.1)  
+ 
+
+ To report SUSPECTED ADVERSE REACTIONS, contact AstraZeneca at 1-800-236-9933 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The data described below reflect exposure to MOVANTIK in 1497 patients in clinical trials, including 537 patients exposed for greater than six months, and 320 patients exposed for 12 months.
+
+
+
+ The safety data described in Table 1 are derived from two double-blind, placebo-controlled trials (Studies 1 and 2) in patients with  OIC≠B-Not_AE_Candidate  and  non≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  cancer≠I-Not_AE_Candidate   related≠I-Not_AE_Candidate   pain≠I-Not_AE_Candidate  [  see      Clinical Studies (14)    ].
+
+
+
+ Study 3 (n=302) was a safety extension study that allowed patients from Study 1 to continue the same blinded treatment for an additional 12 weeks. Safety data for patients in Study 3 are similar to those listed in Table 1.
+
+
+
+ Study 4 (n=844) was a Phase 3, 52-week, multi-center, open-label, randomized, parallel group, safety and tolerability study of naloxegol versus usual care treatment for OIC (as determined by the investigator and excluding peripheral opioid antagonists) in patients with  non≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  cancer≠I-Not_AE_Candidate   related≠I-Not_AE_Candidate   pain≠I-Not_AE_Candidate . The population enrolled in Study 4 was similar to that of the other studies. Eligible patients were randomized in a 2:1 ratio to receive either naloxegol 25 mg once daily or usual care treatment for  OIC≠B-Not_AE_Candidate . The most commonly used laxatives in the usual care group were rectal stimulants (e.g., bisacodyl), oral stimulants (e.g., senna), and oral osmotics (e.g., macrogol, magnesium). Safety data for patients in Study 4 are similar to those listed in Table 1.
+
+
+
+ Table 1 lists adverse reactions in pooled Studies 1 and 2 occurring in >= 3% of patients receiving MOVANTIK 12.5 mg or 25 mg and at an incidence greater than placebo.
+
+
+
+ Table 1. Adverse ReactionsAdverse reactions occurring in >=3% of patients receiving MOVANTIK 12.5 mg or 25 mg and at an incidence greater than placebo. in Patients with  OIC≠B-Not_AE_Candidate  and  Non≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  Cancer≠I-Not_AE_Candidate   Pain≠I-Not_AE_Candidate  (Studies 1 and 2) 
+                                Adverse Reaction            
+                                                              MOVANTIK 25 mg  (n=446)    MOVANTIK 12.5 mg  (n=441)    Placebo  (n=444)         
+                                Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                
+                                                              21%                      12%                      7%                       
+                                Diarrhea≠B-OSE_Labeled_AE                      
+                                                              9%                       6%                       5%                       
+                                Nausea≠B-OSE_Labeled_AE                        
+                                                              8%                       7%                       5%                       
+                                Flatulence≠B-OSE_Labeled_AE                    
+                                                              6%                       3%                       3%                       
+                                Vomiting≠B-OSE_Labeled_AE                      
+                                                              5%                       3%                       4%                       
+                                Headache≠B-OSE_Labeled_AE                      
+                                                              4%                       4%                       3%                       
+                                Hyperhidrosis≠B-OSE_Labeled_AE                 
+                                                              3%                       <1%                      <1%                      
+             Opioid≠B-OSE_Labeled_AE   Withdrawal≠I-OSE_Labeled_AE   
+ 
+
+ Possible  opioid≠B-OSE_Labeled_AE   withdrawal≠I-OSE_Labeled_AE , defined as at least three adverse reactions potentially related to  opioid≠B-OSE_Labeled_AE   withdrawal≠I-OSE_Labeled_AE  that occurred on the same day and were not all related to the gastrointestinal system, occurred in less than 1% (1/444) of placebo subjects, 1% (5/441) receiving MOVANTIK 12.5 mg, and 3% (14/446) receiving MOVANTIK 25 mg in Studies 1 and 2 regardless of maintenance opioid treatment. Symptoms included but were not limited to  hyperhidrosis≠B-NonOSE_AE ,  chills≠B-NonOSE_AE ,  diarrhea≠B-NonOSE_AE ,  abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE ,  anxiety≠B-NonOSE_AE ,  irritability≠B-NonOSE_AE , and  yawning≠B-NonOSE_AE . Patients receiving methadone as therapy for their pain condition were observed in Studies 1 and 2 to have a higher frequency of  gastrointestinal≠B-NonOSE_AE   adverse≠I-NonOSE_AE   reactions≠I-NonOSE_AE  than patients receiving other opioids [39% (7/18) vs. 26% (110/423) in the 12.5 mg group; 75% (24/32) vs. 34% (142/414) in the 25 mg group].

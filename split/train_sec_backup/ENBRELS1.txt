@@ -1,0 +1,141 @@
+    6         ADVERSE REACTIONS  
+
+  The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
+
+ *  Serious Infections [see Boxed Warning and  Warnings and Precautions (    5.1    )]  
+ *  Neurologic Reactions [  see  Warnings and Precautions (    5.2    )]  
+ *  Malignancies [  see  Boxed Warning and Warnings and Precautions (    5.3    ) ] 
+ *  Patients with Heart Failure [see  Warnings and Precautions (    5.4    )]  
+ *  Hematologic Reactions [see  Warnings and Precautions (    5.5    )]  
+ *  Hepatitis B Reactivation [see  Warnings and Precautions (    5.6    )]  
+ *  Allergic Reactions [see  Warnings and Precautions (    5.7    )]  
+ *  Autoimmunity [see  Warnings and Precautions (    5.9    )]  
+ *  Immunosuppression [see  Warnings and Precautions (    5.10    )]  
+      EXCERPT:   Most common adverse reactions (incidence > 5%):     infections and injection site reactions. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Amgen Inc. at 1-800-77-AMGEN (1-800-772-6436) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+ 
+
+  6.1       Clinical Trials Experience 
+
+  Across clinical studies and postmarketing experience, the most serious adverse reactions with Enbrel were infections, neurologic events, CHF, and hematologic events  [see Warnings and Precautions (      5      )]  . The most common adverse reactions with Enbrel were infections and injection site reactions.
+
+ Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not predict the rates observed in clinical practice.
+
+   Adverse Reactions in Adult Patients    w    ith R    heumatoid    A    rthritis    , Psoriatic Arthritis, Ankylosing Spondylitis, or Plaque Psoriasis  
+
+ The data described below reflect exposure to Enbrel in 2219 adult patients with RA followed for up to 80 months, in 182 patients with PsA for up to 24 months, in 138 patients with AS for up to 6 months, and in 1204 adult patients with PsO for up to 18 months.
+
+ In controlled trials, the proportion of Enbrel-treated patients who discontinued treatment due to adverse events was approximately 4% in the indications studied.
+
+   Adverse Reactions in Pediatric Patients  
+
+ In general, the adverse reactions in pediatric patients were similar in frequency and type as those seen in adult patients  [see    Warnings and Precautions (      5      ),    Use in Specific Populations (      8.4      ), and Clinical Studies (      14.2      and      14.6      )    ]  .
+
+ In a 48-week clinical study in 211 children aged 4 to 17 years with pediatric PsO, the adverse reactions reported were similar to those seen in previous studies in adults with PsO.  Long-term safety profile for up to 264 additional weeks was assessed in an open-label extension study and no new safety signals were identified.
+
+ In open-label clinical studies of children with JIA, adverse reactions reported in those ages 2 to 4 years were similar to adverse reactions reported in older children.
+
+   Infections       
+
+ Infections, including viral, bacterial, and fungal infections, have been observed in adult and pediatric patients.  Infections have been noted in all body systems and have been reported in patients receiving Enbrel alone or in combination with other immunosuppressive agents.
+
+ In controlled portions of trials, the types and severity of infection were similar between Enbrel and the respective control group (placebo or MTX for RA and PsA patients) in RA, PsA, AS and PsO patients. Rates of infections in RA and adult PsO patients are provided in Table 3 and Table 4, respectively.  Infections consisted primarily of upper respiratory tract infection, sinusitis and influenza.
+
+ In controlled portions of trials in RA, PsA, AS and PsO, the rates of serious infection were similar (0.8% in placebo, 3.6% in MTX, and 1.4% in Enbrel/Enbrel + MTX-treated groups).  In clinical trials in rheumatologic indications, serious infections experienced by patients have included, but are not limited to, pneumonia, cellulitis, septic arthritis, bronchitis, gastroenteritis, pyelonephritis, sepsis, abscess and osteomyelitis. In clinical trials in adult PsO patients, serious infections experienced by patients have included, but are not limited to, pneumonia, cellulitis, gastroenteritis, abscess and osteomyelitis. The rate of serious infections was not increased in open-label extension trials and was similar to that observed in Enbrel- and placebo-treated patients from controlled trials.  
+
+ In 66 global clinical trials of 17,505 patients (21,015 patient-years of therapy), tuberculosis was observed in approximately 0.02% of patients. In 17,696 patients (27,169 patient-years of therapy) from 38 clinical trials and 4 cohort studies in the U.S. and Canada, tuberculosis was observed in approximately 0.006% of patients. These studies include reports of pulmonary and extrapulmonary tuberculosis  [    see    Warnings and Precautions    (      5.1      )    ]  . 
+
+ The types of infections reported in pediatric patients with PsO and JIA were generally mild and consistent with those commonly seen in the general pediatric population. Two JIA patients developed varicella infection and signs and symptoms of aseptic meningitis, which resolved without sequelae.
+
+   Injection Site Reactions  
+
+ In placebo-controlled trials in rheumatologic indications, approximately 37% of patients treated with Enbrel developed injection site reactions. In controlled trials in patients with PsO, 15% of adult patients and 7% of pediatric patients treated with Enbrel developed injection site reactions during the first 3 months of treatment.  All injection site reactions were described as mild to moderate (erythema, itching, pain, swelling, bleeding, bruising) and generally did not necessitate drug discontinuation. Injection site reactions generally occurred in the first month and subsequently decreased in frequency. The mean duration of injection site reactions was 3 to 5 days. Seven percent of patients experienced redness at a previous injection site when subsequent injections were given.
+
+   Other Adverse Reactions  
+
+ Table 3 summarizes adverse reactions reported in adult RA patients. The types of adverse reactions seen in patients with PsA or AS were similar to the types of adverse reactions seen in patients with RA.
+
+
+   Table 3    .    Percent of Adult RA Patients Experiencing Adverse Reactions in Controlled Clinical Trials     
+                    Placebo         Controlled      a      (Studies I, II, and a Phase 2    S    tudy)      Active Controlled      b      (Study III)     
+                    Placebo  (N = 152)    E    nbrel      c    (N = 349)    MTX  (N = 217)    E    nbrel      c    (N = 415)   
+        Reaction      Percent of Patients      Percent of Patients     
+                                                                                       
+  Infection  d  (total)  39               50               86               81                
+  Upper Respiratory Infections  e    30               38               70               65                
+  Non-upper Respiratory Infections  15               21               59               54                
+  Injection Site Reactions  11               37               18               43                
+  Diarrhea        9                8                16               16                
+  Rash            2                3                19               13                
+  Pruritus        1                2                5                5                 
+  Pyrexia         -                3                4                2                 
+  Urticaria       1                -                4                2                 
+  Hypersensitivity  -                -                1                1                 
+                                                                                       
+   a    Includes data from the 6-month study in which patients received concurrent MTX therapy in both arms.  b    Study duration of 2 years.  c    Any dose.  d    Includes bacterial, viral and fungal infections.    e    Most frequent Upper Respiratory Infections were upper respiratory tract infection, sinusitis and influenza.   
+           In placebo-controlled adult PsO trials, the percentages of patients reporting adverse reactions in the 50 mg twice a week dose group were similar to those observed in the 25 mg twice a week dose group or placebo group.
+ 
+
+ Table 4 summarizes adverse reactions reported in adult PsO patients from Studies I and II.
+
+
+   Table 4    .    Percent of Adult PsO Patients Experiencing Adverse Reactions    in Placebo-Controlled Portions of Clinical Trials    (Studies I & II)     
+                                              Placebo  (N = 359)    Enbrel      a    (N = 876)   
+   Reaction         Percent of Patients     
+                                                     
+ Infection  b       (total)  28               27                
+ Non-upper Respiratory Infections  14               12                
+ Upper Respiratory Infections  c    17               17                
+ Injection Site Reactions  6                15                
+ Diarrhea         2                3                 
+ Rash             1                1                 
+ Pruritus         2                1                 
+ Urticaria        -                1                 
+ Hypersensitivity  -                1                 
+ Pyrexia          1                -                 
+                                                     
+   a    Includes 25 mg subcutaneous (SC) once weekly (QW), 25 mg SC twice weekly (BIW), 50 mg SC QW, and 50 mg SC BIW doses.  b    Includes bacterial, viral and fungal infections.  c    Most frequent Upper Respiratory Infections were upper respiratory tract infection, nasopharyngitis and sinusitis.   
+           6.2       Immunogenicity
+   As with all therapeutic proteins, there is potential for immunogenicity. The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of antibodies to etanercept in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
+
+   Immunogenicity  
+
+ Patients with RA, PsA, AS or PsO were tested at multiple time points for antibodies to etanercept. Antibodies to the TNF receptor portion or other protein components of the Enbrel drug product were detected at least once in sera of approximately 6% of adult patients with RA, PsA, AS or PsO. These antibodies were all non-neutralizing. Results from JIA patients were similar to those seen in adult RA patients treated with Enbrel.
+
+ In adult PsO studies that evaluated the exposure of etanercept for up to 120 weeks, the percentage of patients testing positive at the assessed time points of 24, 48, 72 and 96 weeks ranged from 3.6%-8.7% and were all non-neutralizing. The percentage of patients testing positive increased with an increase in the duration of study; however, the clinical significance of this finding is unknown. No apparent correlation of antibody development to clinical response or adverse events was observed. The immunogenicity data of Enbrel beyond 120 weeks of exposure are unknown.     
+
+ In pediatric PsO studies, approximately 10% of subjects developed antibodies to etanercept by Week 48 and approximately 16% of subjects developed antibodies to etanercept by Week 264.  All of these antibodies were non-neutralizing.  However, because of the limitations of the immunogenicity assays, the incidence of binding and neutralizing antibodies may not have been reliably determined.
+
+ The data reflect the percentage of patients whose test results were considered positive for antibodies to etanercept in an ELISA assay, and are highly dependent on the sensitivity and specificity of the assay.
+
+   Autoantibodies  
+
+ Patients with RA had serum samples tested for autoantibodies at multiple time points. In RA Studies I and II, the percentage of patients evaluated for antinuclear antibodies (ANA) who developed new positive ANA (titer >= 1:40) was higher in patients treated with Enbrel (11%) than in placebo-treated patients (5%). The percentage of patients who developed new positive anti-double-stranded DNA antibodies was also higher by radioimmunoassay (15% of patients treated with Enbrel compared to 4% of placebo-treated patients) and by  Crithidia luciliae  assay (3% of patients treated with Enbrel compared to none of placebo-treated patients). The proportion of patients treated with Enbrel who developed anticardiolipin antibodies was similarly increased compared to placebo-treated patients. In RA Study III, no pattern of increased autoantibody development was seen in Enbrel patients compared to MTX patients  [see Warnings and Precautions (      5.9      )]  .
+
+   6.3       Postmarketing Experience
+
+  Adverse reactions have been reported during post approval use of Enbrel in adults and pediatric patients. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to Enbrel exposure.
+
+ Adverse reactions are listed by body system below:
+
+
+ Blood and lymphatic system disorders:  pancytopenia, anemia, leukopenia, neutropenia, thrombocytopenia, lymphadenopathy, aplastic anemia  [see Warnings    and Precautions    (      5.5      )]     
+ Cardiac disorders:  congestive heart failure  [see    Warnings and Precautions (      5.4      )]     
+ Gastrointestinal disorders:  inflammatory bowel disease (IBD)   
+ General disorders:  angioedema, chest pain   
+ Hepatobiliary disorders:  autoimmune hepatitis, elevated transaminases, hepatitis B reactivation   
+ Immune disorders:  macrophage activation syndrome, systemic vasculitis, sarcoidosis   
+ Musculoskeletal and connective tissue disorders:  lupus-like syndrome    
+ Neoplasms benign, malignant, and unspecified:  melanoma and non-melanoma skin cancers, Merkel cell carcinoma   [see Warnings and Precautions (      5.3      )]     
+ Nervous system disorders:  convulsions, multiple sclerosis, demyelination, optic neuritis, transverse myelitis, paresthesias  [see Warning    s    and Precaution    s (      5.2      )]     
+ Ocular disorders:  uveitis, scleritis    
+ Respiratory, thoracic and mediastinal disorders:  interstitial lung disease   
+ Skin and subcutaneous tissue disorders:  cutaneous lupus erythematosus, cutaneous vasculitis (including leukocytoclastic vasculitis), erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, subcutaneous nodule, new or worsening psoriasis (all sub-types including pustular and palmoplantar)   
+        Opportunistic infections, including atypical mycobacterial infection, herpes zoster, aspergillosis and  Pneumocystis jiroveci  pneumonia, and protozoal infections have also been reported in postmarketing use.
+ 
+
+ Rare (< 0.1%) cases of IBD have been reported in JIA patients receiving Enbrel, which is not effective for the treatment of IBD.
+

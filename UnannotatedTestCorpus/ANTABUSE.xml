@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ANTABUSE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  See  CONTRAINDICATIONS  ,  WARNINGS  , and  PRECAUTIONS  .
+
+
+
+ OPTIC NEURITIS, PERIPHERAL NEURITIS, POLYNEURITIS, AND PERIPHERAL NEUROPATHY MAY OCCUR FOLLOWING ADMINISTRATION OF DISULFIRAM.
+
+
+
+ Multiple cases of hepatitis, including both cholestatic and fulminant hepatitis, as well as hepatic failure resulting in transplantation or death, have been reported with administration of disulfiram.
+
+
+
+ Occasional skin eruptions are, as a rule, readily controlled by concomitant administration of an antihistaminic drug.
+
+
+
+ In a small number of patients, a transient mild drowsiness, fatigability, impotence, headache, acneform eruptions, allergic dermatitis, or a metallic or garlic-like aftertaste may be experienced during the first two weeks of therapy. These complaints usually disappear spontaneously with the continuation of therapy, or with reduced dosage.
+
+
+
+ Psychotic reactions have been noted, attributable in most cases to high dosage, combined toxicity (with metronidazole or isoniazid), or to the unmasking of underlying psychoses in patients stressed by the withdrawal of alcohol.
+</Section>
+    <Section id="S2" name="boxed warnings">
+
+    BOXED WARNING: 
+
+  
+
+    523    524  
+
+
+
+   Rx only  
+
+
+
+   WARNING
+
+  Disulfiram should   never   be administered to a patient when he is in a state of alcohol intoxication, or without his full knowledge.
+
+
+
+ The physician should instruct relatives accordingly.
+</Section>
+    <Section id="S3" name="precautions">    PRECAUTIONS
+
+
+
+  Patients with a history of rubber contact dermatitis should be evaluated for hypersensitivity to thiuram derivatives before receiving disulfiram (see  CONTRAINDICATIONS  ).
+
+
+
+ Alcoholism may accompany or be followed by dependence on narcotics or sedatives. Barbiturates and disulfiram have been administered concurrently without untoward effects; the possibility of initiating a new abuse should be considered.
+
+
+
+ Hepatic toxicity including hepatic failure resulting in transplantation or death have been reported. Severe and sometimes fatal hepatitis associated with disulfiram therapy may develop even after many months of therapy. Hepatic toxicity has occurred in patients with or without prior history of abnormal liver function. Patients should be advised to immediately notify their physician of any early symptoms of hepatitis, such as fatigue, weakness, malaise, anorexia, nausea, vomiting, jaundice, or dark urine.
+
+
+
+ Baseline and follow-up liver function tests (10 to 14 days) are suggested to detect any hepatic dysfunction that may result with disulfiram therapy. In addition, a complete blood count and serum chemistries, including liver function tests, should be monitored.
+
+
+
+ Patients taking disulfiram tablets should not be exposed to ethylene dibromide or its vapors. This precaution is based on preliminary results of animal research currently in progress that suggest a toxic interaction between inhaled ethylene dibromide and ingested disulfiram resulting in a higher incidence of tumors and mortality in rats. A correlation between this finding and humans, however, has not been demonstrated.
+
+
+
+    Drug Interactions
+
+
+
+  Disulfiram appears to decrease the rate at which certain drugs are metabolized and therefore may increase the blood levels and the possibility of clinical toxicity of drugs given concomitantly.
+
+
+
+ DISULFIRAM SHOULD BE USED WITH CAUTION IN THOSE PATIENTS RECEIVING PHENYTOIN AND ITS CONGENERS, SINCE THE CONCOMITANT ADMINISTRATION OF THESE TWO DRUGS CAN LEAD TO PHENYTOIN INTOXICATION. PRIOR TO ADMINISTERING DISULFIRAM TO A PATIENT ON PHENYTOIN THERAPY, A BASELINE PHENYTOIN SERUM LEVEL SHOULD BE OBTAINED. SUBSEQUENT TO INITIATION OF DISULFIRAM THERAPY, SERUM LEVELS OF PHENYTOIN SHOULD BE DETERMINED ON DIFFERENT DAYS FOR EVIDENCE OF AN INCREASE OR FOR A CONTINUING RISE IN LEVELS. INCREASED PHENYTOIN LEVELS SHOULD BE TREATED WITH APPROPRIATE DOSAGE ADJUSTMENT.
+
+
+
+ It may be necessary to adjust the dosage of oral anticoagulants upon beginning or stopping disulfiram, since disulfiram may prolong prothrombin time.
+
+
+
+ Patients taking isoniazid when disulfiram is given should be observed for the appearance of unsteady gait or marked changes in mental status, the disulfiram should be discontinued if such signs appear.
+
+
+
+ In rats, simultaneous ingestion of disulfiram and nitrite in the diet for 78 weeks has been reported to cause tumors, and it has been suggested that disulfiram may react with nitrites in the rat stomach to form a nitrosamine, which is tumorigenic. Disulfiram alone in the rat's diet did not lead to such tumors. The relevance of this finding to humans is not known at this time.
+
+
+
+    Usage in Pregnancy
+
+
+
+  The safe use of this drug in pregnancy has not been established. Therefore, disulfiram should be used during pregnancy only when, in the judgement of the physician, the probable benefits outweigh the possible risks.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, disulfiram should not be given to nursing mothers.
+
+
+
+    Geriatric Use
+
+
+
+  A determination has not been made whether controlled clinical studies of disulfiram included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="25" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="66" />
+    <IgnoredRegion len="17" name="heading" section="S3" start="1646" />
+    <IgnoredRegion len="18" name="heading" section="S3" start="3185" />
+    <IgnoredRegion len="13" name="heading" section="S3" start="3432" />
+    <IgnoredRegion len="15" name="heading" section="S3" start="3532" />
+    <IgnoredRegion len="13" name="heading" section="S3" start="3706" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

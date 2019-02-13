@@ -1,0 +1,18 @@
+
+
+    BOXED WARNING: 
+
+  
+
+    WARNING:  DRUG≠B-OSE_Labeled_AE   DEPENDENCE≠I-OSE_Labeled_AE   
+
+   Daytrana should be given cautiously to patients with a history of  drug≠B-Not_AE_Candidate   dependence≠I-Not_AE_Candidate  or alcoholism.  Chronic  abusive≠B-OSE_Labeled_AE   use≠I-OSE_Labeled_AE  can lead to marked  tolerance≠B-NonOSE_AE  and  psychological≠B-NonOSE_AE   dependence≠I-NonOSE_AE  with varying degrees of  abnormal≠B-NonOSE_AE   behavior≠I-NonOSE_AE .  Frank  psychotic≠B-NonOSE_AE   episodes≠I-NonOSE_AE  can occur, especially with parenteral  abuse≠B-NonOSE_AE .  Careful supervision is required during withdrawal from  abusive≠B-NonOSE_AE   use≠I-NonOSE_AE , since severe  depression≠B-NonOSE_AE  may occur.  Withdrawal following chronic therapeutic use may unmask symptoms of the underlying disorder that may require follow-up.  
+
+   EXCERPT:     WARNING: DRUG DEPENDENCE  
+
+   See full prescribing information for complete boxed warning  
+
+   Daytrana should be given cautiously to patients with a history of drug dependence or alcoholism.  Chronic abusive use can lead to marked tolerance and psychological dependence with varying degrees of abnormal behavior.  
+
+ 
+

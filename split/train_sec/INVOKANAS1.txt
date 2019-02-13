@@ -1,0 +1,212 @@
+  6 ADVERSE REACTIONS
+
+  The following important adverse reactions are described below and elsewhere in the labeling:
+
+ *   Lower≠B-OSE_Labeled_AE   Limb≠I-OSE_Labeled_AE   Amputation≠I-OSE_Labeled_AE  [see  Boxed Warning  and  Warnings and Precautions (5.1)  ]  
+ *   Hypotension≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.2)  ]  
+ *   Ketoacidosis≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.3)  ]  
+ *   Acute≠B-OSE_Labeled_AE   Kidney≠I-OSE_Labeled_AE   Injury≠I-OSE_Labeled_AE  and  Impairment≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Renal≠I-OSE_Labeled_AE   Function≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.4)  ]  
+ *   Hyperkalemia≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.5)  ]  
+ *   Urosepsis≠B-OSE_Labeled_AE  and  Pyelonephritis≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.6)  ]  
+ *   Hypoglycemia≠B-NonOSE_AE  with Concomitant Use with Insulin and Insulin Secretagogues [see  Warnings and Precautions (5.7)  ]  
+ *   Genital≠B-OSE_Labeled_AE   Mycotic≠I-OSE_Labeled_AE   Infections≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.8)  ]  
+ *   Hypersensitivity≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.9)  ]  
+ *   Bone≠B-OSE_Labeled_AE   Fracture≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.10)  ]  
+ *   Increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Low≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Density≠I-OSE_Labeled_AE   Lipoprotein≠I-OSE_Labeled_AE  (LDL-C) [see  Warnings and Precautions (5.11)  ]  
+   *  Most common adverse reactions associated with INVOKANA (5% or greater incidence):  female≠B-OSE_Labeled_AE   genital≠I-OSE_Labeled_AE   mycotic≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE , and  increased≠B-OSE_Labeled_AE   urination≠I-OSE_Labeled_AE  (  6.1  ) 
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact Janssen Pharmaceuticals, Inc. at 1-800-526-7736 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+ 
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+     Pool of Placebo-Controlled Trials  
+
+ The data in Table 1 is derived from four 26-week placebo-controlled trials. In one trial INVOKANA was used as monotherapy and in three trials INVOKANA was used as add-on therapy  [see  Clinical Studies (14)  ]  . These data reflect exposure of 1667 patients to INVOKANA and a mean duration of exposure to INVOKANA of 24 weeks. Patients received INVOKANA 100 mg (N=833), INVOKANA 300 mg (N=834) or placebo (N=646) once daily. The mean age of the population was 56 years and 2% were older than 75 years of age. Fifty percent (50%) of the population was male and 72% were Caucasian, 12% were Asian, and 5% were Black or African American. At baseline the population had  diabetes≠B-Not_AE_Candidate  for an average of 7.3 years, had a mean HbA1Cof 8.0% and 20% had established  microvascular≠B-Not_AE_Candidate   complications≠I-Not_AE_Candidate   of≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate . Baseline  renal≠B-Not_AE_Candidate   function≠I-Not_AE_Candidate  was normal or  mildly≠I-Not_AE_Candidate   impaired≠I-Not_AE_Candidate  (mean  eGFR≠B-Not_AE_Candidate   8≠I-Not_AE_Candidate  8≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  .≠I-Not_AE_Candidate  7≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate   m≠I-Not_AE_Candidate    2≠I-Not_AE_Candidate   ).
+
+ Table 1 shows common adverse reactions associated with the use of INVOKANA. These adverse reactions were not present at baseline, occurred more commonly on INVOKANA than on placebo, and occurred in at least 2% of patients treated with either INVOKANA 100 mg or INVOKANA 300 mg.
+
+ Table 1: Adverse Reactions From Pool of Four 26-Week Placebo-Controlled Studies Reported in >= 2% of INVOKANA-Treated PatientsThe four placebo-controlled trials included one monotherapy trial and three add-on combination trials with metformin, metformin and sulfonylurea, or metformin and pioglitazone. 
+ Note: Percentages were weighted by studies. Study weights were proportional to the harmonic mean of the three treatment sample sizes.   
+  
+   Adverse Reaction                            PlaceboN=646        INVOKANA 100 mgN=833      INVOKANA 300 mgN=834     
+  Urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  [note:  Urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  include the following adverse reactions:  Urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  Cystitis≠B-OSE_Labeled_AE ,  Kidney≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE , and  Urosepsis≠B-OSE_Labeled_AE .]           3.8%                  5.9%                  4.4%           
+  Increased≠B-OSE_Labeled_AE   urination≠I-OSE_Labeled_AE  [note:  Increased≠B-OSE_Labeled_AE   urination≠I-OSE_Labeled_AE  includes the following adverse reactions:  Polyuria≠B-OSE_Labeled_AE ,  Pollakiuria≠B-OSE_Labeled_AE ,  Urine≠B-OSE_Labeled_AE   output≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  Micturition≠B-OSE_Labeled_AE   urgency≠I-OSE_Labeled_AE , and  Nocturia≠B-OSE_Labeled_AE .]           0.7%                  5.1%                  4.6%           
+  Thirst≠B-OSE_Labeled_AE  [note: Thirst includes the following adverse reactions:  Thirst≠B-OSE_Labeled_AE ,  Dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE , and  Polydipsia≠B-OSE_Labeled_AE .]           0.1%                  2.8%                  2.4%           
+  Constipation≠B-OSE_Labeled_AE                                       0.9%                  1.8%                  2.4%           
+  Nausea≠B-OSE_Labeled_AE                                             1.6%                  2.1%                  2.3%           
+                                                  N=312                 N=425                 N=430           
+  Female≠B-OSE_Labeled_AE   genital≠I-OSE_Labeled_AE   mycotic≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  [note:  Female≠B-OSE_Labeled_AE   genital≠I-OSE_Labeled_AE   mycotic≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  include the following adverse reactions:  Vulvovaginal≠B-OSE_Labeled_AE   candidiasis≠I-OSE_Labeled_AE ,  Vulvovaginal≠B-OSE_Labeled_AE   mycotic≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  Vulvovaginitis≠B-OSE_Labeled_AE ,  Vaginal≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  Vulvitis≠B-OSE_Labeled_AE , and  Genital≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE   fungal≠I-OSE_Labeled_AE .]           2.8%                 10.6%                 11.6%           
+  Vulvovaginal≠B-OSE_Labeled_AE   pruritus≠I-OSE_Labeled_AE                              0.0%                  1.6%                  3.2%           
+                                                  N=334                 N=408                 N=404           
+  Male≠B-OSE_Labeled_AE   genital≠I-OSE_Labeled_AE   mycotic≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  [note:  Male≠B-OSE_Labeled_AE   genital≠I-OSE_Labeled_AE   mycotic≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE s include the following adverse reactions:  Balanitis≠B-OSE_Labeled_AE  or  Balanoposthitis≠B-OSE_Labeled_AE ,  Balanitis≠B-OSE_Labeled_AE   candida≠I-OSE_Labeled_AE , and  Genital≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE   fungal≠I-OSE_Labeled_AE .]           0.7%                  4.2%                  3.8%           
+           Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  was also more commonly reported in patients taking INVOKANA 100 mg (1.8%), 300 mg (1.7%) than in patients taking placebo (0.8%).
+ 
+
+     Pool of Placebo- and Active-Controlled Trials  
+
+ The occurrence of adverse reactions for canagliflozin was evaluated in a larger pool of patients participating in placebo- and active-controlled trials.
+
+ The data combined eight clinical trials  [see  Clinical Studies (14)  ]  and reflect exposure of 6177 patients to INVOKANA. The mean duration of exposure to INVOKANA was 38 weeks with 1832 individuals exposed to INVOKANA for greater than 50 weeks. Patients received INVOKANA 100 mg (N=3092), INVOKANA 300 mg (N=3085) or comparator (N=3262) once daily. The mean age of the population was 60 years and 5% were older than 75 years of age. Fifty-eight percent (58%) of the population was male and 73% were Caucasian, 16% were Asian, and 4% were Black or African American. At baseline, the population had  diabetes≠B-Not_AE_Candidate  for an average of 11 years, had a mean HbA1Cof 8.0% and 33% had established  microvascular≠B-Not_AE_Candidate   complications≠I-Not_AE_Candidate   of≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate . Baseline  renal≠B-Not_AE_Candidate   function≠I-Not_AE_Candidate   was≠I-Not_AE_Candidate   normal≠I-Not_AE_Candidate   or≠I-Not_AE_Candidate   mildly≠I-Not_AE_Candidate   impaired≠I-Not_AE_Candidate  (mean  eGFR≠B-Not_AE_Candidate   8≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  .≠I-Not_AE_Candidate  7≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate   m≠I-Not_AE_Candidate    2≠I-Not_AE_Candidate   ).
+
+ The types and frequency of common adverse reactions observed in the pool of eight clinical trials were consistent with those listed in Table 1. Percentages were weighted by studies. Study weights were proportional to the harmonic mean of the three treatment sample sizes. In this pool, INVOKANA was also associated with the adverse reactions of  fatigue≠B-OSE_Labeled_AE  (1.8% with comparator, 2.2% with INVOKANA 100 mg, and 2.0% with INVOKANA 300 mg) and  loss≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   strength≠I-OSE_Labeled_AE   or≠I-OSE_Labeled_AE   energy≠I-OSE_Labeled_AE  (i.e.,  asthenia≠B-OSE_Labeled_AE ) (0.6% with comparator, 0.7% with INVOKANA 100 mg, and 1.1% with INVOKANA 300 mg).
+
+ In the pool of eight clinical trials, the incidence rate of  pancreatitis≠B-OSE_Labeled_AE  (acute or  chronic≠I-OSE_Labeled_AE ) was 0.1%, 0.2%, and 0.1% receiving comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
+
+ In the pool of eight clinical trials,  hypersensitivity≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (including  erythema≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE , and  angioedema≠B-OSE_Labeled_AE ) occurred in 3.0%, 3.8%, and 4.2% of patients receiving comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively. Five patients experienced serious adverse reactions of  hypersensitivity≠B-OSE_Labeled_AE  with INVOKANA, which included 4 patients with  urticaria≠B-OSE_Labeled_AE  and 1 patient with a  diffuse≠B-OSE_Labeled_AE   rash≠I-OSE_Labeled_AE  and  urticaria≠B-OSE_Labeled_AE  occurring within hours of exposure to INVOKANA. Among these patients, 2 patients discontinued INVOKANA. One patient with  urticaria≠B-OSE_Labeled_AE  had recurrence when INVOKANA was re-initiated.
+
+  Photosensitivity≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (including  photosensitivity≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  polymorphic≠B-OSE_Labeled_AE   light≠I-OSE_Labeled_AE   eruption≠I-OSE_Labeled_AE , and  sunburn≠B-OSE_Labeled_AE ) occurred in 0.1%, 0.2%, and 0.2% of patients receiving comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
+
+ Other adverse reactions occurring more frequently on INVOKANA than on comparator were:
+
+     Lower Limb Amputation  
+
+ An approximately 2-fold increased risk of  lower≠B-OSE_Labeled_AE   limb≠I-OSE_Labeled_AE   amputations≠I-OSE_Labeled_AE  associated with INVOKANA use was observed in CANVAS and CANVAS-R, two large, randomized, placebo-controlled trials evaluating patients with  type≠B-Not_AE_Candidate   2≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate  who had either established  cardiovascular≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  or were at risk for  cardiovascular≠B-NonOSE_AE   disease≠I-NonOSE_AE . Patients in CANVAS and CANVAS-R were followed for an average of 5.7 and 2.1 years, respectively. The  amputation≠B-NonOSE_AE  data for CANVAS and CANVAS-R are shown in Tables 2 and 3, respectively  [see  Warnings and Precautions (5.1)  ].  
+
+ Table 2: CANVAS Amputations 
+                                  PlaceboN=1441    INVOKANA 100 mgN=1445  INVOKANA 300 mgN=1441  INVOKANA (Pooled)N=2886   
+  
+ Note: Incidence is based on the number of patients with at least one  amputation≠B-NonOSE_AE , and not the total number of  amputation≠B-NonOSE_AE  events. A patient's follow-up is calculated from Day 1 to the first  amputation≠B-NonOSE_AE  event date. Some patients had more than one  amputation≠B-NonOSE_AE .   
+  
+ Patients with an  amputation≠B-OSE_Labeled_AE , n (%)      22 (1.5)           50 (3.5)            45 (3.1)            95 (3.3)        
+ Total  amputations≠B-OSE_Labeled_AE                       33                 83                  79                 162           
+  Amputation≠B-OSE_Labeled_AE  incidence rate(per 1000 patient-years)        2.8                6.2                 5.5                 5.9           
+ Hazard Ratio (95% CI)                  --         2.24 (1.36, 3.69)   2.01 (1.20, 3.34)   2.12 (1.34, 3.38)    
+          Table 3: CANVAS-R Amputations 
+                                                   PlaceboN=2903           INVOKANA 100 mg (with up-titration to 300 mg)N=2904   
+  
+ Note: Incidence is based on the number of patients with at least one  amputation≠B-NonOSE_AE , and not the total number of  amputation≠B-NonOSE_AE   events≠I-NonOSE_AE . A patient's follow-up is calculated from Day 1 to the first  amputation≠B-NonOSE_AE  event date. Some patients had more than one  amputation≠B-NonOSE_AE .   
+  
+ Patients with an  amputation≠B-OSE_Labeled_AE , n (%)                   25 (0.9)                        45 (1.5)              
+ Total  amputations≠B-OSE_Labeled_AE                                        36                              59                 
+  Amputation≠B-OSE_Labeled_AE  incidence rate(per 1000 patient-years)               4.2                             7.5                 
+ Hazard Ratio (95% CI)                                   --                      1.80 (1.10, 2.93)          
+             Volume Depletion-Related Adverse Reactions  
+ 
+
+ INVOKANA results in an osmotic diuresis, which may lead to  reductions≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   intravascular≠I-OSE_Labeled_AE   volume≠I-OSE_Labeled_AE . In clinical studies, treatment with INVOKANA was associated with a dose-dependent increase in the incidence of  volume≠B-OSE_Labeled_AE   depletion≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (e.g.,  hypotension≠B-OSE_Labeled_AE ,  postural≠B-OSE_Labeled_AE   dizziness≠I-OSE_Labeled_AE ,  orthostatic≠B-OSE_Labeled_AE   hypotension≠I-OSE_Labeled_AE ,  syncope≠B-OSE_Labeled_AE , and  dehydration≠B-OSE_Labeled_AE ). An increased incidence was observed in patients on the 300 mg dose. The three factors associated with the largest increase in  volume≠B-NonOSE_AE   depletion≠I-NonOSE_AE  -≠I-NonOSE_AE  related≠I-NonOSE_AE   adverse≠I-NonOSE_AE   reactions≠I-NonOSE_AE  were the use of loop diuretics,  moderate≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  ( eGFR≠B-Not_AE_Candidate   3≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   to≠I-Not_AE_Candidate   less≠I-Not_AE_Candidate   than≠I-Not_AE_Candidate   6≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  .≠I-Not_AE_Candidate  7≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate   m≠I-Not_AE_Candidate    2≠I-Not_AE_Candidate   ), and age 75 years and older (Table 4)  [see  Dosage and Administration (2.2)  ,  Warnings and Precautions (5.2)  , and  Use in Specific Populations (8.5  and  8.6)  ]  .
+
+ Table 4: Proportion of Patients With at Least One  Volume≠B-OSE_Labeled_AE   Depletion≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Related≠I-OSE_Labeled_AE   Adverse≠I-OSE_Labeled_AE   Reaction≠I-OSE_Labeled_AE  (Pooled Results from 8 Clinical Trials) 
+ Baseline Characteristic                   Comparator Group [note: Includes placebo and active-comparator groups] %    INVOKANA 100 mg%      INVOKANA 300 mg%     
+  
+ Overall population                                1.5%                  2.3%                  3.4%           
+ 75 years of age and older [note: Patients could have more than 1 of the listed risk factors]           2.6%                  4.9%                  8.7%           
+  eGFR≠B-Not_AE_Candidate   less≠I-Not_AE_Candidate   than≠I-Not_AE_Candidate   6≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  .≠I-Not_AE_Candidate  7≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate   m≠I-Not_AE_Candidate    2≠I-Not_AE_Candidate                 2.5%                  4.7%                  8.1%           
+ Use of loop diuretic                              4.7%                  3.2%                  8.8%           
+              Falls  
+ 
+
+ In a pool of nine clinical trials with mean duration of exposure to INVOKANA of 85 weeks, the proportion of patients who experienced  falls≠B-OSE_Labeled_AE  was 1.3%, 1.5%, and 2.1% with comparator, INVOKANA 100 mg, and INVOKANA 300 mg, respectively. The higher risk of  falls≠B-OSE_Labeled_AE  for patients treated with INVOKANA was observed within the first few weeks of treatment.
+
+     Impairment in Renal Function  
+
+ INVOKANA is associated with a dose-dependent  increase≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE  and a concomitant  fall≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   estimated≠I-OSE_Labeled_AE   GFR≠I-OSE_Labeled_AE  (Table 5). Patients with moderate  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  at baseline had larger mean changes.
+
+ Table 5:  Changes≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE  Serum Creatinine and  eGFR≠I-OSE_Labeled_AE  Associated with INVOKANA in the Pool of Four Placebo-Controlled Trials and Moderate Renal Impairment Trial 
+                        PlaceboN=646       INVOKANA 100 mgN=833      INVOKANA 300 mgN=834     
+ Pool of Four Placebo-Controlled Trials  Baseline           Creatinine (mg/dL)          0.84           0.82             0.82         
+ eGFR (mL/min/1.73 m  2  )  87.0               88.3                        88.8       
+ Week 6 Change        Creatinine (mg/dL)  0.01                        0.03           0.05         
+ eGFR (mL/min/1.73 m  2  )  -1.6               -3.8                        -5.0       
+ End of Treatment Change [note: Week 26 in mITT LOCF population]   Creatinine (mg/dL)  0.01                        0.02           0.03         
+ eGFR (mL/min/1.73 m  2  )  -1.6               -2.3                        -3.4       
+                        PlaceboN=90        INVOKANA 100 mgN=90      INVOKANA 300 mgN=89     
+  Moderate≠B-Not_AE_Candidate   Renal≠I-Not_AE_Candidate   Impairment≠I-Not_AE_Candidate  Trial  Baseline           Creatinine (mg/dL)          1.61           1.62             1.63         
+ eGFR (mL/min/1.73 m  2  )  40.1               39.7                        38.5       
+ Week 3 Change        Creatinine (mg/dL)  0.03                        0.18           0.28         
+ eGFR (mL/min/1.73 m  2  )  -0.7               -4.6                        -6.2       
+ End of Treatment Change  Creatinine (mg/dL)  0.07                        0.16           0.18         
+ eGFR (mL/min/1.73 m  2  )  -1.5               -3.6                        -4.0       
+            In the pool of four placebo-controlled trials where patients had normal or mildly  impaired≠B-Not_AE_Candidate   baseline≠I-Not_AE_Candidate   renal≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate , the proportion of patients who experienced at least one event of significant  renal≠B-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   decline≠I-OSE_Labeled_AE , defined as an  eGFR≠B-NonOSE_AE   below≠I-NonOSE_AE   8≠I-NonOSE_AE  0≠I-NonOSE_AE   mL≠I-NonOSE_AE  /≠I-NonOSE_AE  min≠I-NonOSE_AE  /≠I-NonOSE_AE  1≠I-NonOSE_AE  .≠I-NonOSE_AE  7≠I-NonOSE_AE  3≠I-NonOSE_AE   m≠I-NonOSE_AE    2≠I-NonOSE_AE   and 30% lower than baseline, was 2.1% with placebo, 2.0% with INVOKANA 100 mg, and 4.1% with INVOKANA 300 mg. At the end of treatment, 0.5% with placebo, 0.7% with INVOKANA 100 mg, and 1.4% with INVOKANA 300 mg had a significant  renal≠B-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   decline≠I-OSE_Labeled_AE .
+ 
+
+ In a trial carried out in patients with moderate  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  with a baseline  eGFR≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   3≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   to≠I-Not_AE_Candidate   less≠I-Not_AE_Candidate   than≠I-Not_AE_Candidate   5≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  .≠I-Not_AE_Candidate  7≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate   m≠I-Not_AE_Candidate    2≠I-Not_AE_Candidate   (mean baseline  eGFR≠B-Not_AE_Candidate   3≠I-Not_AE_Candidate  9≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  .≠I-Not_AE_Candidate  7≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate   m≠I-Not_AE_Candidate    2≠I-Not_AE_Candidate   )  [see  Clinical Studies (14.3)  ]  , the proportion of patients who experienced at least one event of significant  renal≠B-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   decline≠I-OSE_Labeled_AE , defined as an  eGFR≠B-OSE_Labeled_AE   3≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  %≠I-OSE_Labeled_AE   lower≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   baseline≠I-OSE_Labeled_AE , was 6.9% with placebo, 18% with INVOKANA 100 mg, and 22.5% with INVOKANA 300 mg. At the end of treatment, 4.6% with placebo, 3.4% with INVOKANA 100 mg, and 2.2% with INVOKANA 300 mg had a significant  renal≠B-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   decline≠I-OSE_Labeled_AE .
+
+ In a pooled population of patients with moderate  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  (N=1085) with baseline  eGFR≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   3≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   to≠I-Not_AE_Candidate   less≠I-Not_AE_Candidate   than≠I-Not_AE_Candidate   6≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  .≠I-Not_AE_Candidate  7≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate   m≠I-Not_AE_Candidate   2  (mean baseline  eGFR≠B-Not_AE_Candidate   4≠I-Not_AE_Candidate  8≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  .≠I-Not_AE_Candidate  7≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate   m≠I-Not_AE_Candidate    2≠I-Not_AE_Candidate   ), the overall incidence of these events was lower than in the dedicated trial but a dose-dependent increase in incident episodes of significant  renal≠B-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   decline≠I-OSE_Labeled_AE  compared to placebo was still observed.
+
+ Use of INVOKANA has been associated with an increased incidence of  renal≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (e.g.,  increased≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   glomerular≠I-OSE_Labeled_AE   filtration≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE ,  renal≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE , and  acute≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ), particularly in patients with moderate  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate .
+
+ In the pooled analysis of patients with moderate  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate , the incidence of  renal≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  was 3.7% with placebo, 8.9% with INVOKANA 100 mg, and 9.3% with INVOKANA 300 mg. Discontinuations due to  renal≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  occurred in 1.0% with placebo, 1.2% with INVOKANA 100 mg, and 1.6% with INVOKANA 300 mg  [see  Warnings and Precautions (5.4)  ]  .
+
+     Genital Mycotic Infections  
+
+ In the pool of four placebo-controlled clinical trials,  female≠B-OSE_Labeled_AE   genital≠I-OSE_Labeled_AE   mycotic≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  (e.g.,  vulvovaginal≠B-OSE_Labeled_AE   mycotic≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  vulvovaginal≠B-OSE_Labeled_AE   candidiasis≠I-OSE_Labeled_AE , and  vulvovaginitis≠B-OSE_Labeled_AE ) occurred in 2.8%, 10.6%, and 11.6% of females treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively. Patients with a history of  genital≠B-Not_AE_Candidate   mycotic≠I-Not_AE_Candidate   infections≠I-Not_AE_Candidate  were more likely to develop  genital≠B-OSE_Labeled_AE   mycotic≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  on INVOKANA.  Female≠B-NonOSE_AE  patients who developed  genital≠I-NonOSE_AE   mycotic≠I-NonOSE_AE   infections≠I-NonOSE_AE  on INVOKANA were more likely to experience recurrence and require treatment with oral or topical antifungal agents and anti-microbial agents. In  females≠B-OSE_Labeled_AE , discontinuation due to  genital≠I-OSE_Labeled_AE   mycotic≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  occurred in 0% and 0.7% of patients treated with placebo and INVOKANA, respectively  [see  Warnings and Precautions (5.8)  ]  .
+
+ In the pool of four placebo-controlled clinical trials,  male≠B-OSE_Labeled_AE   genital≠I-OSE_Labeled_AE   mycotic≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  (e.g.,  candidal≠B-OSE_Labeled_AE   balanitis≠I-OSE_Labeled_AE ,  balanoposthitis≠B-OSE_Labeled_AE ) occurred in 0.7%, 4.2%, and 3.8% of males treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.  Male≠B-OSE_Labeled_AE   genital≠I-OSE_Labeled_AE   mycotic≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  occurred more commonly in uncircumcised males and in males with a prior history of  balanitis≠B-Not_AE_Candidate  or  balanoposthitis≠B-Not_AE_Candidate . Male patients who developed  genital≠B-NonOSE_AE   mycotic≠I-NonOSE_AE   infections≠I-NonOSE_AE  on INVOKANA were more likely to experience recurrent infections (22% on INVOKANA versus none on placebo), and require treatment with oral or topical antifungal agents and anti-microbial agents than patients on comparators. In males, discontinuations due to  genital≠B-OSE_Labeled_AE   mycotic≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  occurred in 0% and 0.5% of patients treated with placebo and INVOKANA, respectively. In the pooled analysis of 8 controlled trials,  phimosis≠B-OSE_Labeled_AE  was reported in 0.3% of uncircumcised male patients treated with INVOKANA and 0.2% required circumcision to treat the  phimosis≠B-OSE_Labeled_AE   [see  Warnings and Precautions (5.8)  ]  .
+
+     Hypoglycemia  
+
+ In all clinical trials,  hypoglycemia≠B-NonOSE_AE  was defined as any event regardless of symptoms, where biochemical  hypoglycemia≠B-NonOSE_AE  was documented (any  glucose≠B-NonOSE_AE   value≠I-NonOSE_AE   below≠I-NonOSE_AE   or≠I-NonOSE_AE   equal≠I-NonOSE_AE   to≠I-NonOSE_AE   7≠I-NonOSE_AE  0≠I-NonOSE_AE   mg≠I-NonOSE_AE  /≠I-NonOSE_AE  dL≠I-NonOSE_AE ). Severe  hypoglycemia≠B-NonOSE_AE  was defined as an event consistent with  hypoglycemia≠B-NonOSE_AE  where the patient required the assistance of another person to recover,  lost≠B-NonOSE_AE   consciousness≠I-NonOSE_AE , or experienced a  seizure≠B-NonOSE_AE  (regardless of whether biochemical documentation of a  low≠B-NonOSE_AE   glucose≠I-NonOSE_AE   value≠I-NonOSE_AE  was obtained). In individual clinical trials  [see  Clinical Studies (14)  ]  , episodes of  hypoglycemia≠B-NonOSE_AE  occurred at a higher rate when INVOKANA was co-administered with insulin or sulfonylureas (Table 6)  [see  Warnings and Precautions (5.7)  ]  .
+
+ Table 6: Incidence of  Hypoglycemia≠B-OSE_Labeled_AE Number of patients experiencing at least one event of  hypoglycemia≠B-OSE_Labeled_AE  based on either biochemically documented episodes or severe  hypoglycemic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  in the intent-to-treat population in Controlled Clinical Studies 
+   Monotherapy(26 weeks)            Placebo(N=192)       INVOKANA 100 mg(N=195)      INVOKANA 300 mg(N=197)     
+ Overall [N (%)]                       5 (2.6)                  7 (3.6)                    6 (3.0)            
+   In Combination with Metformin(26 weeks)      Placebo + Metformin(N=183)      INVOKANA 100 mg + Metformin(N=368)      INVOKANA 300 mg + Metformin(N=367)     
+ Overall [N (%)]                       3 (1.6)                 16 (4.3)                   17 (4.6)            
+ Severe [N (%)] [note: Severe episodes of  hypoglycemia≠B-NonOSE_AE  were defined as those where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained)]          0 (0)                   1 (0.3)                    1 (0.3)            
+   In Combination with Metformin(52 weeks)      Glimepiride + Metformin(N=482)      INVOKANA 100 mg + Metformin(N=483)      INVOKANA 300 mg + Metformin(N=485)     
+ Overall [N (%)]                      165 (34.2)               27 (5.6)                   24 (4.9)            
+ Severe [N (%)]                        15 (3.1)                 2 (0.4)                    3 (0.6)            
+   In Combination with Sulfonylurea(18 weeks)      Placebo + Sulfonylurea(N=69)      INVOKANA 100 mg + Sulfonylurea(N=74)      INVOKANA 300 mg + Sulfonylurea(N=72)     
+ Overall [N (%)]                       4 (5.8)                  3 (4.1)                   9 (12.5)            
+   In Combination with Metformin + Sulfonylurea(26 weeks)      Placebo + Metformin + Sulfonylurea(N=156)      INVOKANA 100 mg + Metformin + Sulfonylurea(N=157)      INVOKANA 300 mg + Metformin + Sulfonylurea(N=156)     
+ Overall [N (%)]                      24 (15.4)                43 (27.4)                  47 (30.1)           
+ Severe [N (%)]                        1 (0.6)                  1 (0.6)                       0               
+   In Combination with Metformin + Sulfonylurea(52 weeks)      Sitagliptin + Metformin + Sulfonylurea(N=378)                                 INVOKANA 300 mg + Metformin + Sulfonylurea(N=377)     
+ Overall [N (%)]                      154 (40.7)                                         163 (43.2)           
+ Severe [N (%)]                        13 (3.4)                                           15 (4.0)            
+   In Combination with Metformin + Pioglitazone(26 weeks)      Placebo + Metformin + Pioglitazone(N=115)      INVOKANA 100 mg + Metformin + Pioglitazone(N=113)      INVOKANA 300 mg + Metformin + Pioglitazone(N=114)     
+ Overall [N (%)]                       3 (2.6)                  3 (2.7)                    6 (5.3)            
+   In Combination with Insulin(18 weeks)       Placebo(N=565)       INVOKANA 100 mg(N=566)      INVOKANA 300 mg(N=587)     
+ Overall [N (%)]                      208 (36.8)              279 (49.3)                 285 (48.6)           
+ Severe [N (%)]                        14 (2.5)                10 (1.8)                   16 (2.7)            
+              Bone Fracture  
+ 
+
+ The occurrence of  bone≠B-NonOSE_AE   fractures≠I-NonOSE_AE  was evaluated in a pool of nine clinical trials with a mean duration of exposure to INVOKANA of 85 weeks. The incidence rates of adjudicated  bone≠B-OSE_Labeled_AE   fractures≠I-OSE_Labeled_AE  were 1.1, 1.4, and 1.5 per 100 patient-years of exposure in the comparator, INVOKANA 100 mg, and INVOKANA 300 mg groups, respectively.  Fractures≠B-OSE_Labeled_AE  were observed as early as 12 weeks after treatment initiation and were more likely to be low trauma (e.g.,  fall≠B-NonOSE_AE  from no more than standing height), and affect the upper extremities  [see  Warnings and Precautions (5.10)  ]  .
+
+     Laboratory and Imaging Tests  
+
+     Increases in Serum Potassium  
+
+ In a pooled population of patients (N=723) with moderate  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate  ( eGFR≠B-Not_AE_Candidate   4≠I-Not_AE_Candidate  5≠I-Not_AE_Candidate   to≠I-Not_AE_Candidate   less≠I-Not_AE_Candidate   than≠I-Not_AE_Candidate   6≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   mL≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  min≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  .≠I-Not_AE_Candidate  7≠I-Not_AE_Candidate  3≠I-Not_AE_Candidate   m≠I-Not_AE_Candidate    2≠I-Not_AE_Candidate   ),  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   potassium≠I-OSE_Labeled_AE  to greater than 5.4 mEq/L and 15% above baseline occurred in 5.3%, 5.0%, and 8.8% of patients treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively. Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 0.4% of patients treated with placebo, no patients treated with INVOKANA 100 mg, and 1.3% of patients treated with INVOKANA 300 mg.
+
+ In these patients,  increases≠B-NonOSE_AE   in≠I-NonOSE_AE   potassium≠I-NonOSE_AE  were more commonly seen in those with  elevated≠B-Not_AE_Candidate   potassium≠I-Not_AE_Candidate  at baseline. Among patients with moderate  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate , approximately 84% were taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, angiotensin-converting-enzyme inhibitors, and angiotensin-receptor blockers  [see  Warnings and Precautions (5.4  and  5.5)  and  Use in Specific Populations (8.6)  ]  .
+
+     Increases in Serum Magnesium  
+
+ Dose-related  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   magnesium≠I-OSE_Labeled_AE  were observed early after initiation of INVOKANA (within 6 weeks) and remained elevated throughout treatment. In the pool of four placebo-controlled trials, the  mean≠B-OSE_Labeled_AE   percent≠I-OSE_Labeled_AE   change≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   magnesium≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE  was 8.1% and 9.3% with INVOKANA 100 mg and INVOKANA 300 mg, respectively, compared to -0.6% with placebo. In a trial of patients with moderate  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate   [see  Clinical Studies (14.3)  ]  ,  serum≠B-OSE_Labeled_AE   magnesium≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  by 0.2%, 9.2%, and 14.8% with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
+
+     Increases in Serum Phosphate  
+
+ Dose-related  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   phosphate≠I-OSE_Labeled_AE  levels were observed with INVOKANA. In the pool of four placebo controlled trials, the mean percent  change≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   phosphate≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE  were 3.6% and 5.1% with INVOKANA 100 mg and INVOKANA 300 mg, respectively, compared to 1.5% with placebo. In a trial of patients with moderate  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate   [see  Clinical Studies (14.3)  ]  , the mean  serum≠B-OSE_Labeled_AE   phosphate≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  by 1.2%, 5.0%, and 9.3% with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively.
+
+     Increases in Low-Density Lipoprotein Cholesterol (LDL-C) and non-High-Density Lipoprotein Cholesterol (non-HDL-C)  
+
+ In the pool of four placebo-controlled trials, dose-related  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   LDL≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  C≠I-OSE_Labeled_AE  with INVOKANA were observed.  Mean≠B-OSE_Labeled_AE   changes≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  percent≠I-OSE_Labeled_AE   changes≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   from≠I-OSE_Labeled_AE   baseline≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   LDL≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  C≠I-OSE_Labeled_AE  relative to placebo were 4.4 mg/dL (4.5%) and 8.2 mg/dL (8.0%) with INVOKANA 100 mg and INVOKANA 300 mg, respectively. The mean baseline LDL-C levels were 104 to 110 mg/dL across treatment groups  [see  Warnings and Precautions (5.11)  ]  .
+
+ Dose-related  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   non≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  HDL≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  C≠I-OSE_Labeled_AE  with INVOKANA were observed. Mean  changes≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  percent≠I-OSE_Labeled_AE   changes≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   from≠I-OSE_Labeled_AE   baseline≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   non≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  HDL≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  C≠I-OSE_Labeled_AE  relative to placebo were 2.1 mg/dL (1.5%) and 5.1 mg/dL (3.6%) with INVOKANA 100 mg and 300 mg, respectively. The mean baseline non-HDL-C levels were 140 to 147 mg/dL across treatment groups.
+
+     Increases in Hemoglobin  
+
+ In the pool of four placebo-controlled trials, mean  changes≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  percent≠I-OSE_Labeled_AE   changes≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   from≠I-OSE_Labeled_AE   baseline≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE  were -0.18 g/dL (-1.1%) with placebo, 0.47 g/dL (3.5%) with INVOKANA 100 mg, and 0.51 g/dL (3.8%) with INVOKANA 300 mg. The mean baseline hemoglobin value was approximately 14.1 g/dL across treatment groups. At the end of treatment, 0.8%, 4.0%, and 2.7% of patients treated with placebo, INVOKANA 100 mg, and INVOKANA 300 mg, respectively, had  hemoglobin≠B-OSE_Labeled_AE   above≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE   limit≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   normal≠I-OSE_Labeled_AE .
+
+     Decreases in Bone Mineral Density  
+
+ Bone mineral density (BMD) was measured by dual-energy X-ray absorptiometry in a clinical trial of 714 older adults (mean age 64 years)  [see  Clinical Studies (14.3)  ]  . At 2 years, patients randomized to INVOKANA 100 mg and INVOKANA 300 mg had placebo-corrected  declines≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   BMD≠I-OSE_Labeled_AE   at≠I-OSE_Labeled_AE  the total hip of 0.9% and 1.2%, respectively, and at the  lumbar≠I-OSE_Labeled_AE   spine≠I-OSE_Labeled_AE  of 0.3% and 0.7%, respectively. Additionally, placebo-adjusted  BMD≠B-OSE_Labeled_AE   declines≠I-OSE_Labeled_AE  were 0.1%  at≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE  femoral neck for both INVOKANA doses and 0.4% at the  distal≠I-OSE_Labeled_AE   forearm≠I-OSE_Labeled_AE  for patients randomized to INVOKANA 300 mg. The placebo-adjusted change at the distal forearm for patients randomized to INVOKANA 100 mg was 0%.
+
+   6.2 Postmarketing Experience
+
+  Additional adverse reactions have been identified during postapproval use of INVOKANA. Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+  Ketoacidosis≠B-OSE_Labeled_AE   [see  Warnings and Precautions (5.3)  ]  
+
+  Acute≠B-OSE_Labeled_AE   Kidney≠I-OSE_Labeled_AE   Injury≠I-OSE_Labeled_AE  and  Impairment≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Renal≠I-OSE_Labeled_AE   Function≠I-OSE_Labeled_AE   [see  Warnings and Precautions (5.4)  ]  
+
+  Anaphylaxis≠B-OSE_Labeled_AE ,  Angioedema≠B-OSE_Labeled_AE   [see  Warnings and Precautions (5.9)  ]  
+
+  Urosepsis≠B-OSE_Labeled_AE  and  Pyelonephritis≠B-OSE_Labeled_AE   [see  Warnings and Precautions (5.6)  ]  
+

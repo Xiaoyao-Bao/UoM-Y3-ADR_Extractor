@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CYCLOMYDRIL">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+    Ocular  
+
+
+
+ The following ocular adverse experiences have been associated with the use of CYCLOMYDRIL  (r)  (cyclopentolate hydrochloride and phenylephrine hydrochloride ophthalmic solution): increased intraocular pressure, burning/irritation upon instillation, photophobia, blurred vision and superficial punctate keratitis.
+
+
+
+   Nonocular  
+
+
+
+ Use of cyclopentolate hydrochloride has been associated with psychotic reactions and behavioral disturbances in children. These disturbances include ataxia, incoherent speech, restlessness, hallucinations, hyperactivity, seizures, disorientation as to time and place, and failure to recognize people. This drug produces reactions similar to those of other adrenergic and anticholinergic drugs; however, the central nervous system manifestations as noted above are most common. Other manifestations of adrenergic and anticholinergic topical ophthalmic drugs include tachycardia, hyperpyrexia, hypertension, vasodilation, urinary retention, diminished gastrointestinal motility, and decreased secretion in salivary and sweat glands, pharynx, bronchi and nasal passages. Severe manifestations of toxicity include coma, medullary paralysis and death.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  The lacrimal sac should be compressed by digital pressure for two to three minutes after instillation to reduce excessive systemic absorption. Caution should be observed when considering use of this medication in the presence of Down's syndrome and in those predisposed to angle-closure glaucoma. The effect of long-term use of this preparation has not been established, therefore, it should be restricted to short-term use.
+
+
+
+    Information for Patients
+
+
+
+  Do not touch dropper tip to any surface, as this may contaminate the solution. Patient should be advised not to drive or engage in hazardous activities while pupils are dilated. Patient may experience sensitivity to light and should protect eyes in bright illumination during dilation. Parents should be warned not to get this preparation in their child's mouth and to wash their own hands and the child's hands following administration. Feeding intolerance may follow ophthalmic use of this product in infants. It is recommended that feeding be withheld for four (4) hours after examination.
+
+
+
+    Drug Interactions
+
+
+
+  Cyclopentolate may interfere with the ocular anti-hypertensive action of carbachol, pilocarpine, or ophthalmic cholinesterase inhibitors.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  There have been no long-term studies done using cyclopentolate hydrochloride and/or phenylephrine hydrochloride in animals to evaluate carcinogenic potential.
+
+
+
+    Pregnancy
+
+
+
+  Animal reproduction studies have not been conducted with cyclopentolate hydrochloride and/or phenylephrine hydrochloride. It is also not known whether cyclopentolate hydrochloride and/or phenylephrine hydrochloride can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. CYCLOMYDRIL  (r)  (cyclopentolate hydrochloride and phenylephrine hydrochloride ophthalmic solution) should be given to a pregnant woman only if clearly needed.
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether these drugs are excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when CYCLOMYDRIL  (r)  (cyclopentolate hydrochloride and phenylephrine hydrochloride ophthalmic solution) is administered to a nursing woman.
+
+
+
+    Pediatric Use
+
+
+
+  Use of cyclopentolate has been associated with psychotic reactions and behavioral disturbances in pediatric patients. Increased susceptibility to cyclopentolate has been reported in infants, young children, and in children with spastic paralysis or brain damage. These disturbances include ataxia, incoherent speech, restlessness, hallucinations, hyperactivity, seizures, disorientation as to time and place, and failure to recognize people. Feeding intolerance may follow ophthalmic use of this product in infants. It is recommended that feeding be withheld for 4 hours after examination. Observe infants closely for at least 30 minutes (see PRECAUTIONS  ).
+
+
+
+    Geriatric Use
+
+
+
+  No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+   FOR TOPICAL OPHTHALMIC USE ONLY. NOT FOR INJECTION.  The use of this combination may have an adverse effect on individuals suffering from cardiovascular disease, hypertension, and hyperthyroidism, and it may cause CNS disturbances. Infants are especially prone to CNS and cardiopulmonary side effects from cyclopentolate. Observe infants closely for at least 30 minutes.
+
+
+
+ Mydriatics may produce a transient elevation of intraocular pressure.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="467" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="1097" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="1265" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="1489" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1983" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2292" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2977" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

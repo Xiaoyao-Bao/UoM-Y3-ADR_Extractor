@@ -1,0 +1,29 @@
+
+
+    BOXED WARNING: WARNING: HEMORRHAGE, GASTROINTESTINAL PERFORATION, COMPROMISED WOUND HEALING
+
+    WARNING: HEMORRHAGE, GASTROINTESTINAL PERFORATION, COMPROMISED WOUND HEALING  
+
+     Hemorrhage≠B-NonOSE_AE :  Severe and sometimes  fatal≠B-NonOSE_AE   hemorrhage≠B-OSE_Labeled_AE , including  gastrointestinal≠B-OSE_Labeled_AE  (GI)  hemorrhage≠I-OSE_Labeled_AE , has been reported in the patients who have received ZALTRAP in combination with FOLFIRI.  Monitor patients for signs and symptoms of  GI≠B-NonOSE_AE   bleeding≠I-NonOSE_AE  and other severe  bleeding≠B-NonOSE_AE .  Do not administer ZALTRAP to patients with severe  hemorrhage≠B-Not_AE_Candidate  [  see   Dosage and Administration (2.2)  ,   Warnings and Precautions (5.1)    ].  
+
+
+
+    Gastrointestinal≠B-NonOSE_AE   Perforation≠I-NonOSE_AE :   Gastrointestinal≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  GI≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  including  fatal≠B-NonOSE_AE   GI≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  can occur in patients receiving ZALTRAP.  Discontinue ZALTRAP therapy in patients who experience  GI≠B-NonOSE_AE   perforation≠I-NonOSE_AE  [  see   Dosage and Administration (2.2)  ,   Warnings and Precautions (5.2)    ].  
+
+
+
+    Compromised≠B-NonOSE_AE   Wound≠I-NonOSE_AE   Healing≠I-NonOSE_AE :  Severe  compromised≠B-OSE_Labeled_AE   wound≠I-OSE_Labeled_AE   healing≠I-OSE_Labeled_AE  can occur in patients receiving ZALTRAP/FOLFIRI.  Discontinue ZALTRAP in patients with  compromised≠B-NonOSE_AE   wound≠I-NonOSE_AE   healing≠I-NonOSE_AE .  Suspend ZALTRAP for at least 4 weeks prior to elective surgery, and do not resume ZALTRAP for at least 4 weeks following major surgery and until the surgical wound is fully healed [  see   Dosage and Administration (2.2)  ,   Warnings and Precautions (5.3)    ].  
+
+
+
+   EXCERPT:   WARNING:  HEMORRHAGE, GASTROINTESTINAL PERFORATION, COMPROMISED WOUND HEALING
+
+
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+ *  Hemorrhage: Severe and sometimes fatal hemorrhage, including gastrointestinal (GI) hemorrhage, has been reported in patients who have received ZALTRAP. Do not administer ZALTRAP to patients with severe hemorrhage. (5.1) 
+ *  Gastrointestinal Perforation: Discontinue ZALTRAP therapy in patients who experience GI perforation. (5.2) 
+ *  Compromised Wound Healing: Discontinue ZALTRAP in patients with compromised wound healing. Suspend ZALTRAP for at least 4 weeks prior to elective surgery, and do not resume for at least 4 weeks following major surgery and until the surgical wound is fully healed. (5.3) 

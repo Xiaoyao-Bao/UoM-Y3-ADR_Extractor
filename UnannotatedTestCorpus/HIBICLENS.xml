@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="HIBICLENS">
+  <Text>
+    <Section id="S1" name="warnings">    Warnings
+
+
+
+  For external use only
+
+
+
+ 
+
+
+
+ 
+
+
+
+       Allergy alert:
+
+
+
+  This product may cuase a severe allergic reaction. Symptoms may include:
+
+
+
+ 
+
+
+
+ *  wheezing/difficulty breathing 
+ *  shock 
+ *  facial swelling 
+ *  hives 
+ *  rash 
+    
+ 
+
+ If an allergic reaction occurs, stop use and seek medical help right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="8" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="14" name="heading" section="S1" start="60" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="IDHIFA">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described elsewhere in the labeling:
+
+
+
+ *  Differentiation Syndrome [see Warnings and Precautions (  5.1  )]  
+      EXCERPT:   The most common adverse reactions (&gt;=20%) included nausea, vomiting, diarrhea, elevated bilirubin, and decreased appetite (  6.1  ).
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Celgene Corporation at 1-888-423-5436 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety evaluation of single-agent IDHIFA is based on 214 patients with relapsed or refractory AML who were assigned to receive 100 mg daily  [see Clinical Studies (  14.1  )]  . The median duration of exposure to IDHIFA was 4.3 months (range 0.3 to 23.6). The 30-day and 60-day mortality rates observed with IDHIFA were 4.2% (9/214) and 11.7% (25/214), respectively.
+
+
+
+ The most common adverse reactions (&gt;=20%) of any grade were nausea, vomiting, diarrhea, elevated bilirubin and decreased appetite.
+
+
+
+ Serious adverse reactions were reported in 77.1% of patients. The most frequent serious adverse reactions (&gt;=2%) were leukocytosis (10%), diarrhea (6%), nausea (5%), vomiting (3%), decreased appetite (3%), tumor lysis syndrome (5%), and differentiation syndrome (8%). Differentiation syndrome events characterized as serious included pyrexia, renal failure acute, hypoxia, respiratory failure, and multi-organ failure.
+
+
+
+ Overall, 92 of 214 patients (43%) required a dose interruption due to an adverse reaction; the most common adverse reactions leading to dose interruption were differentiation syndrome (4%) and leukocytosis (3%). Ten of 214 patients (5%) required a dose reduction due to an adverse reaction; no adverse reaction required dose reduction in more than 2 patients. Thirty-six of 214 patients (17%) permanently discontinued IDHIFA due to an adverse reaction; the most common adverse reaction leading to permanent discontinuation was leukocytosis (1%).
+
+
+
+ Adverse reactions reported in the trial are shown in  Table 2  .
+
+
+
+ Table 2: Adverse Reactions Reported in &gt;=10% (Any Grade) or &gt;=3% (Grade 3-5) of Patients with Relapsed or Refractory AML 
+   a  Gastrointestinal disorders observed with IDHIFA treatment can be associated with other commonly reported events such as abdominal pain, and weight decreased.  b  Tumor lysis syndrome observed with IDHIFA treatment can be associated with commonly reported uric acid increased.  c  Differentiation syndrome can be associated with other commonly reported events such as respiratory failure, dyspnea, hypoxia, pyrexia, peripheral edema, rash, or renal insufficiency.   
+  
+                                                       IDHIFA (100 mg daily)N=214     
+   Body System  Adverse Reaction                       All GradesN=214n (%)        &gt;=Grade 3N=214n (%)      
+   Gastrointestinal Disorders  a                      
+ Nausea                                                      107 (50)                    11 (5)             
+ Diarrhea                                                     91 (43)                    17 (8)             
+ Vomiting                                                     73 (34)                     4 (2)             
+   Metabolism and Nutrition Disorders                 
+ Decreased appetite                                           73 (34)                     9 (4)             
+ Tumor lysis syndrome  b                                      13 (6)                     12 (6)             
+   Blood and Lymphatic System Disorders               
+ Differentiation syndrome  c                                  29 (14)                    15 (7)             
+ Noninfectious leukocytosis                                   26 (12)                    12 (6)             
+   Nervous System Disorders                           
+ Dysgeusia                                                    25 (12)                     0 (0)             
+         Other clinically significant adverse reactions occurring in &lt;=10% of patients included:  Respiratory, Thoracic, and Mediastinal Disorders:  Pulmonary edema, acute respiratory distress syndrome
+ 
+
+ Changes in selected post-baseline laboratory values that were observed in patients with relapsed or refractory AML are shown in  Table 3  .
+
+
+
+ Table 3: Most Common (&gt;=20%) New or Worsening Laboratory Abnormalities Reported in Patients with Relapsed or Refractory AML 
+   a  Includes abnormalities occurring up to 28 days after last IDHIFA dose, if new or worsened by at least one grade from baseline, or if baseline was unknown. The denominator varies based on data collected for each parameter (N=213 except phosphorous N=209).   
+  
+                                                       IDHIFA (100 mg daily)N=214     
+   Parameter  a                                            All Grades(%)              Grade &gt;=3(%)          
+ Total bilirubin increased                                      81                         15               
+ Calcium decreased                                              74                          8               
+ Potassium decreased                                            41                         15               
+ Phosphorus decreased                                           27                          8               
+           Elevated Bilirubin  
+ 
+
+ IDHIFA may interfere with bilirubin metabolism through inhibition of UGT1A1  [see Clinical Pharmacology (  12.3  )]  . Thirty-seven percent of patients (80/214) experienced total bilirubin elevations &gt;=2 x ULN at least one time. Of those patients who experienced total bilirubin elevations &gt;=2 x ULN, 35% had elevations within the first month of treatment, and 89% had no concomitant elevation of transaminases or other severe adverse events related to liver disorders. No patients required a dose reduction for hyperbilirubinemia; treatment was interrupted in 3.7% of patients, for a median of 6 days. Three patients (1.4%) discontinued IDHIFA permanently due to hyperbilirubinemia.
+
+
+
+   Noninfectious Leukocytosis  
+
+
+
+ IDHIFA can induce myeloid proliferation resulting in a rapid increase in white blood cell count.
+
+
+
+   Tumor Lysis Syndrome  
+
+
+
+ IDHIFA can induce myeloid proliferation resulting in a rapid reduction in tumor cells which may pose a risk for tumor lysis syndrome.
+</Section>
+    <Section id="S2" name="boxed warnings">
+
+    BOXED WARNING: WARNING: DIFFERENTIATION SYNDROME
+
+  WARNING: DIFFERENTIATION SYNDROME
+
+    Patients treated with IDHIFA have experienced symptoms of differentiation syndrome, which can be fatal if not treated. Symptoms may include fever, dyspnea, acute respiratory distress, pulmonary infiltrates, pleural or pericardial effusions, rapid weight gain or peripheral edema, lymphadenopathy, bone pain, and hepatic, renal, or multi-organ dysfunction. If differentiation syndrome is suspected, initiate corticosteroid therapy and hemodynamic monitoring until symptom resolution    [see Warnings and Precautions (  5.1  ) and Adverse Reactions (  6.1  )]  .  
+
+
+
+   EXCERPT:     WARNING: DIFFERENTIATION SYNDROME  
+
+
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+   Patients treated with IDHIFA have experienced symptoms of differentiation syndrome, which can be fatal if not treated. If differentiation syndrome is suspected, initiate corticosteroid therapy and hemodynamic monitoring until symptom resolution (  5.1  ,   6.1  ).  
+
+
+
+ 
+</Section>
+    <Section id="S3" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Embryo-Fetal Toxicity: IDHIFA can cause fetal harm when administered to a pregnant woman. Advise of the potential risk to a fetus (  5.2  ,  8.1  ,  8.3  ).
+
+
+
+  
+ 
+
+   5.1 Differentiation Syndrome
+
+
+
+  In the clinical trial, 14% of patients treated with IDHIFA experienced differentiation syndrome, which may be life-threatening or fatal if not treated. Differentiation syndrome is associated with rapid proliferation and differentiation of myeloid cells. While there is no diagnostic test for differentiation syndrome, symptoms in patients treated with IDHIFA included acute respiratory distress represented by dyspnea and/or hypoxia (68%) and need for supplemental oxygen (76%); pulmonary infiltrates (73%) and pleural effusion (45%); renal impairment (70%); fever (36%); lymphadenopathy (33%); bone pain (27%); peripheral edema with rapid weight gain (21%); and pericardial effusion (18%). Hepatic, renal, and multi-organ dysfunction have also been observed. Differentiation syndrome has been observed with and without concomitant hyperleukocytosis, and as early as 10 days and at up to 5 months after IDHIFA initiation.
+
+
+
+ If differentiation syndrome is suspected, initiate oral or intravenous corticosteroids (e.g., dexamethasone 10 mg every 12 hours) and hemodynamic monitoring until improvement. Taper corticosteroids only after resolution of symptoms. Symptoms of differentiation syndrome may recur with premature discontinuation of corticosteroid treatment. If severe pulmonary symptoms requiring intubation or ventilator support, and/or renal dysfunction persist for more than 48 hours after initiation of corticosteroids, interrupt IDHIFA until signs and symptoms are no longer severe [see Dosage and Administration (  2.3  )]  . Hospitalization for close observation and monitoring of patients with pulmonary and/or renal manifestation is recommended.
+
+
+
+    5.2 Embryo-Fetal Toxicity
+
+
+
+  Based on animal embryo-fetal toxicity studies, IDHIFA can cause embryo-fetal harm when administered to a pregnant woman. In animal embryo-fetal toxicity studies, enasidenib caused embryo-fetal toxicities starting at 0.1 times the steady state clinical exposure based on the area under the concentration-time curve (AUC) at the recommended human dose. Advise females of reproductive potential to use effective contraception during treatment with IDHIFA and for at least 1 month after the last dose of IDHIFA. Advise males with female partners of reproductive potential to use effective contraception during treatment with IDHIFA and for at least 1 month after the last dose of IDHIFA. Pregnant women, patients becoming pregnant while receiving IDHIFA, or male patients with pregnant female partners should be apprised of the potential risk to the fetus [see Use in Specific Populations (  8.1  ,  8.3  )]  .
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="174" name="excerpt" section="S3" start="35" />
+    <IgnoredRegion len="33" name="heading" section="S2" start="58" />
+    <IgnoredRegion len="295" name="excerpt" section="S1" start="188" />
+    <IgnoredRegion len="28" name="heading" section="S3" start="216" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="487" />
+    <IgnoredRegion len="396" name="excerpt" section="S2" start="665" />
+    <IgnoredRegion len="25" name="heading" section="S3" start="1920" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

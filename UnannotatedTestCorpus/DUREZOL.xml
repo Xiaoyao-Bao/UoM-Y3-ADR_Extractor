@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="DUREZOL">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following serious reactions are found elsewhere in the labeling:
+
+
+
+ *  Elevated IOP [see Warnings and Precautions (5.1)]  
+ *  Posterior subcapsular cataract formation [see Warnings and Precautions (5.2)]  
+ *  Secondary ocular infection [see Warnings and Precautions (5.4)]  
+ *  Perforation of the globe [see Warnings and Precautions (5.3)]  
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact Alcon Laboratories, Inc. at 1-800-757-9195 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+ 
+
+ 
+
+  6.1 Ocular Surgery
+
+  Ocular adverse reactions occurring in 5% to 15% of subjects in clinical studies with DUREZOL included corneal edema, ciliary and conjunctival hyperemia, eye pain, photophobia, posterior capsule opacification, anterior chamber cells, anterior chamber flare, conjunctival edema, and blepharitis.  Other ocular adverse reactions occurring in 1% to 5% of subjects included reduced visual acuity, punctate keratitis, eye inflammation, and iritis.  Ocular adverse reactions occurring in less than 1% of subjects included application site discomfort or irritation, corneal pigmentation and striae, episcleritis, eye pruritis, eyelid irritation and crusting, foreign body sensation, increased lacrimation, macular edema, sclera hyperemia, and uveitis.  Most of these reactions may have been the consequence of the surgical procedure.
+
+
+
+   6.2 Endogenous Anterior Uveitis
+
+  A total of 200 subjects participated in the clinical trials for endogenous anterior uveitis, of which 106 were exposed to DUREZOL.  The most common adverse reactions of those exposed to DUREZOL occurring in 5% to 10% of subjects included blurred vision, eye irritation, eye pain, headache, increased IOP, iritis, limbal and conjunctival hyperemia, punctate keratitis, and uveitis.  Adverse reactions occurring in 2% to 5% of subjects included anterior chamber flare, corneal edema, dry eye, iridocyclitis, photophobia, and reduced visual acuity.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Intraocular pressure (IOP) increase: Prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision. If this product is used for 10 days or longer, IOP should be monitored.  (  5.1  )
+ 
+    
+
+ item{ Cataracts: Use of corticosteroids may result in posterior subcapsular cataract formation. (  5.2  )
+ 
+
+ item{ Delayed healing: The use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation. In those diseases causing thinning of the cornea or sclera, perforations have been known to occur with the use of topical steroids. The initial prescription and renewal of the medication order beyond 28 days should be made by a physician only after examination of the patient with the aid of magnification such as slit lamp biomicroscopy and, where appropriate, fluorescein staining. (  5.3  )
+ 
+
+ item{ Bacterial infections: Prolonged use of corticosteroids may suppress the host response and thus increase the hazard of secondary ocular infections. In acute purulent conditions, steroids may mask infection or enhance existing infection. If signs and symptoms fail to improve after 2 days, the patient should be reevaluated. (  5.4  )
+ 
+
+ item{ Viral infections: Employment of a corticosteroid medication in the treatment of patients with a history of herpes simplex requires great caution. Use of ocular steroids may prolong the course and may exacerbate the severity of many viral infections of the eye (including herpes simplex). (  5.5  )
+ 
+
+ item{ Fungal infections: Fungal infections of the cornea are particularly prone to develop coincidentally with long-term local steroid application. Fungus invasion must be considered in any persistent corneal ulceration where a steroid has been used or is in use. (  5.6  )
+ 
+
+}} 
+
+
+
+   5.1 Intraocular pressure (IOP) Increase
+
+
+
+  Prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision. Steroids should be used with caution in the presence of glaucoma. If this product is used for 10 days or longer, IOP should be monitored.
+
+
+
+    5.2 Cataracts
+
+
+
+  Use of corticosteroids may result in posterior subcapsular cataract formation.
+
+
+
+    5.3 Delayed Healing
+
+
+
+  The use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation. In those diseases causing thinning of the cornea or sclera, perforations have been known to occur with the use of topical steroids. The initial prescription and renewal of the medication order beyond 28 days should be made by a physician only after examination of the patient with the aid of magnification such as slit lamp biomicroscopy and, where appropriate, fluorescein staining.
+
+
+
+    5.4 Bacterial Infections
+
+
+
+  Prolonged use of corticosteroids may suppress the host response and thus increase the hazard of secondary ocular infections. In acute purulent conditions, steroids may mask infection or enhance existing infection. If signs and symptoms fail to improve after 2 days, the patient should be reevaluated.
+
+
+
+    5.5 Viral Infections
+
+
+
+  Employment of a corticosteroid medication in the treatment of patients with a history of herpes simplex requires great caution. Use of ocular steroids may prolong the course and may exacerbate the severity of many viral infections of the eye (including herpes simplex).
+
+
+
+    5.6 Fungal Infections
+
+
+
+  Fungal infections of the cornea are particularly prone to develop coincidentally with long-term local steroid application. Fungus invasion must be considered in any persistent corneal ulceration where a steroid has been used or is in use. Fungal culture should be taken when appropriate.
+
+
+
+    5.7 Topical Ophthalmic Use Only
+
+
+
+  DUREZOL is not indicated for intraocular administration.
+
+
+
+    5.8 Contact Lens Wear
+
+
+
+  DUREZOL should not be instilled while wearing contact lenses. Remove contact lenses prior to instillation of DUREZOL. The preservative in DUREZOL may be absorbed by soft contact lenses.  Lenses may be reinserted after 10 minutes following administration of DUREZOL.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="1850" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="160" name="excerpt" section="S1" start="382" />
+    <IgnoredRegion len="18" name="heading" section="S1" start="546" />
+    <IgnoredRegion len="31" name="heading" section="S1" start="1400" />
+    <IgnoredRegion len="39" name="heading" section="S2" start="1893" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2218" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="2323" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="2846" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="3184" />
+    <IgnoredRegion len="21" name="heading" section="S2" start="3487" />
+    <IgnoredRegion len="31" name="heading" section="S2" start="3809" />
+    <IgnoredRegion len="21" name="heading" section="S2" start="3910" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

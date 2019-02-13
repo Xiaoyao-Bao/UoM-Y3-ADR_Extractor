@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="MUCINEX">
+  <Text>
+    <Section id="S1" name="warnings">    Warnings
+
+
+
+   Do not use
+
+
+
+    *  for children under 12 years of age 
+       Ask a doctor before use if you have
+ 
+
+    *  persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema 
+ *  cough accompanied by too much phlegm (mucus) 
+       Stop use and ask a doctor if
+ 
+
+    *  cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness. 
+       If pregnant or breast-feeding,  ask a health professional before use.
+ 
+
+    Keep out of reach of children.  In case of overdose, get medical help or contact a Poison Control Center right away.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="8" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="10" name="heading" section="S1" start="19" />
+    <IgnoredRegion len="35" name="heading" section="S1" start="83" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="285" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

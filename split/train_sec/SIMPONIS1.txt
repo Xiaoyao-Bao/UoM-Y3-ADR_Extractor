@@ -1,0 +1,115 @@
+  6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (incidence > 5%) are upper respiratory tract infection, nasopharyngitis, injection site reactions (  6.1  )
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Janssen Biotech, Inc. at 1-800-JANSSEN (1-800-526-7736) or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+ The safety data described below are based on 5 pooled, randomized, double-blind, controlled Phase 3 trials in patients with  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate , and  AS≠B-Not_AE_Candidate  (Trials RA-1, RA-2, RA-3,  PsA≠B-Not_AE_Candidate , and  AS≠B-Not_AE_Candidate )  [see  Clinical Studies (14.1  ,  14.2  , and  14.3)  ]  . These 5 trials included 639 control-treated patients and 1659 SIMPONI-treated patients including 1089 with  RA≠B-Not_AE_Candidate , 292 with  PsA≠B-Not_AE_Candidate , and 278 with  AS≠B-Not_AE_Candidate . The safety data in 1233 SIMPONI-treated patients with  ulcerative≠B-Not_AE_Candidate   colitis≠I-Not_AE_Candidate  from 3 pooled, randomized, double-blind, controlled Phase 2/3 trials are also described below (Trials UC-1, UC-2, and UC-3)  [see  Clinical Studies (14.4)  ].  The proportion of patients who discontinued treatment due to adverse reactions in the controlled Phase 3 trials through Week 16 in  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate  and  AS≠B-Not_AE_Candidate  was 2% for SIMPONI-treated patients and 3% for placebo-treated patients. The most common adverse reactions leading to discontinuation of SIMPONI in the controlled Phase 3 trials in  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate  and  AS≠B-Not_AE_Candidate  through Week 16 were  sepsis≠B-OSE_Labeled_AE  (0.2%),  alanine≠B-OSE_Labeled_AE   aminotransferase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  (0.2%), and  aspartate≠B-OSE_Labeled_AE   aminotransferase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  (0.2%). The most common adverse drug reactions leading to discontinuation through Week 60 of the  UC≠B-Not_AE_Candidate  trials in patients who received SIMPONI induction and 100 mg during maintenance compared with patients who received SIMPONI induction and placebo during maintenance were  tuberculosis≠B-OSE_Labeled_AE  (0.3% vs 0.6%) and  anemia≠B-OSE_Labeled_AE  (0.3% vs 0%), respectively.
+
+ The most serious adverse reactions were:
+
+ *  Serious  Infections≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.1)  ]  
+ *   Malignancies≠B-OSE_Labeled_AE  [see  Warnings and Precautions (5.2)  ]  
+     Upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  and  nasopharyngitis≠B-OSE_Labeled_AE  were the most common adverse reactions reported in the combined Phase 3  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate  and  AS≠B-Not_AE_Candidate  trials through Week 16, occurring in 7% and 6% of SIMPONI-treated patients as compared with 6% and 5% of control-treated patients, respectively.
+ 
+
+     Infections  
+
+ In controlled Phase 3 trials through Week 16 in  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate , and  AS≠B-Not_AE_Candidate ,  infections≠B-OSE_Labeled_AE  were observed in 28% of SIMPONI-treated patients compared to 25% of control-treated patients. For serious  infections≠B-OSE_Labeled_AE , see the Warnings and Precautions section  [see  Warnings and Precautions (5.1)  ]  . In the controlled Phase 2/3 trial of SIMPONI induction through Week 6 in  UC≠B-Not_AE_Candidate , the rates of  infections≠B-OSE_Labeled_AE  were similar in SIMPONI 200/100 mg-treated patients and placebo-treated patients, or approximately 12%. Through Week 60, the incidence per patient year of  infections≠B-OSE_Labeled_AE  was similar in patients who received SIMPONI induction and 100 mg during maintenance compared with patients who received SIMPONI induction and placebo during the maintenance portion of the  UC≠B-Not_AE_Candidate  trial.
+
+      Demyelinating≠B-OSE_Labeled_AE   Disorders≠I-OSE_Labeled_AE   
+
+ In the controlled Phase 2/3 trial of SIMPONI induction through Week 6, no cases of  demyelination≠B-NonOSE_AE  were observed in SIMPONI 200/100 mg-treated patients or placebo-treated patients. Through Week 60, there were no cases of  demyelination≠B-NonOSE_AE  in the SIMPONI 100-mg group during maintenance. One case of  CNS≠B-OSE_Labeled_AE   demyelination≠I-OSE_Labeled_AE  was observed in the placebo maintenance group in a patient who received SIMPONI 400/200 mg during induction.
+
+      Liver≠B-OSE_Labeled_AE   Enzyme≠I-OSE_Labeled_AE   Elevations≠I-OSE_Labeled_AE   
+
+ There have been reports of severe  hepatic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  including  acute≠B-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  in patients receiving TNF blockers. In controlled Phase 3 trials of SIMPONI in patients with  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate , and  AS≠B-Not_AE_Candidate  through Week 16,  ALT≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  >= 5 * ULN occurred in 0.2% of control-treated patients and 0.7% of SIMPONI-treated patients and  ALT≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  >= 3 * ULN occurred in 2% of control-treated patients and 2% of SIMPONI-treated patients. Since many of the patients in the Phase 3 trials for  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate , and  AS≠B-Not_AE_Candidate  were also taking medications that cause  liver≠B-NonOSE_AE   enzyme≠I-NonOSE_AE   elevations≠I-NonOSE_AE  (e.g., NSAIDs, MTX), the relationship between SIMPONI and  liver≠B-NonOSE_AE   enzyme≠I-NonOSE_AE   elevation≠I-NonOSE_AE  is not clear.
+
+ In Phase 2/3  UC≠B-Not_AE_Candidate  trials, the incidence of  ALT≠B-NonOSE_AE   elevations≠I-NonOSE_AE  >= 5 * ULN was similar in SIMPONI-treated patients and placebo-treated patients, or approximately 1%, with an average duration of follow-up of 46 weeks and 18 weeks, respectively.  ALT≠B-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  >= 3 * ULN occurred in 2.0% of SIMPONI-treated patients compared with 1.5% of placebo-treated patients with an average duration of follow-up of 46 weeks and 18 weeks, respectively.
+
+     Autoimmune Disorders and Autoantibodies  
+
+ In the controlled Phase 3 trials in patients with  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate , and  AS≠B-Not_AE_Candidate  through Week 14, there was no association of SIMPONI treatment and the development of newly  positive≠B-NonOSE_AE   anti≠I-NonOSE_AE  -≠I-NonOSE_AE  dsDNA≠I-NonOSE_AE   antibodies≠I-NonOSE_AE . In Phase 3 trials in  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate , and  AS≠B-Not_AE_Candidate  through 1 year of follow-up, 4.0% of SIMPONI-treated patients and 2.6% of control patients were newly  antinuclear≠B-OSE_Labeled_AE   antibody≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  ANA≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  positive≠I-OSE_Labeled_AE  (at titers of 1:160 or greater). The frequency of  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  dsDNA≠I-NonOSE_AE   antibodies≠I-NonOSE_AE  at 1 year of follow-up was uncommon in patients who were  anti≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  dsDNA≠I-Not_AE_Candidate   negative≠I-Not_AE_Candidate  at baseline. Through Week 60 of the  UC≠B-Not_AE_Candidate  trials, 3.5% of patients who received SIMPONI induction and 100 mg during maintenance were newly  ANA≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  positive≠I-OSE_Labeled_AE  (at titers of 1:160 or greater) compared with 3.5% of patients who received SIMPONI induction and placebo during the maintenance portion of the  UC≠B-Not_AE_Candidate  trial. The frequency of  anti≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  dsDNA≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE  at 1 year of follow-up in patients who were  anti≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  dsDNA≠I-Not_AE_Candidate   negative≠I-Not_AE_Candidate  at baseline was 0.5% in patients receiving SIMPONI induction and 100 mg during maintenance compared with 0% in patients who received SIMPONI induction and placebo during maintenance  [see  Warnings and Precautions (5.5)  ]  .
+
+     Injection Site Reactions  
+
+ In controlled Phase 3 trials through Week 16 in  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate  and  AS≠B-Not_AE_Candidate , 6% of SIMPONI-treated patients had  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  compared with 2% of control-treated patients. The majority of the  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  were mild and the most frequent manifestation was  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   erythema≠I-OSE_Labeled_AE .
+
+ In the controlled Phase 2/3 trial through Week 6 in  UC≠B-Not_AE_Candidate , 3.4% of SIMPONI-treated patients had  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  compared with 1.5% in control-treated patients. The majority of the  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  were mild and moderate and the most frequent manifestation was  injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   erythema≠I-OSE_Labeled_AE .
+
+ In controlled Phase 2 and 3 trials in  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate ,  AS≠B-Not_AE_Candidate , and Phase 2/3  UC≠B-Not_AE_Candidate  trials, no patients treated with SIMPONI developed  anaphylactic≠B-NonOSE_AE   reactions≠I-NonOSE_AE .
+
+     Immunogenicity  
+
+  Antibodies≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   SIMPONI≠I-OSE_Labeled_AE  were detected in 57 (4%) of SIMPONI-treated patients across the Phase 3  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate , and  AS≠B-Not_AE_Candidate  trials through Week 24. Similar rates were observed in each of the 3 indications. Patients who received SIMPONI with concomitant MTX had a lower proportion of  antibodies≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   SIMPONI≠I-OSE_Labeled_AE  than patients who received SIMPONI without MTX (approximately 2% vs. 7%, respectively).
+
+ The presence of serum concentrations of golimumab can interfere with the detection of  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   SIMPONI≠I-NonOSE_AE  leading to inconclusive results. In  UC≠B-Not_AE_Candidate  trials, 34 (3%), 341 (28%) and 823 (69%) of SIMPONI-treated subjects were  positive≠B-OSE_Labeled_AE  ,≠I-OSE_Labeled_AE   negative≠I-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   inconclusive≠I-OSE_Labeled_AE   for≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   SIMPONI≠I-OSE_Labeled_AE , respectively. Treatment with concomitant immunomodulators (AZA, 6-MP and MTX) resulted in a lower proportion of patients with  antibodies≠B-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   SIMPONI≠I-OSE_Labeled_AE  than patients receiving SIMPONI without immunomodulators (2% vs. 4%, respectively).
+
+ Of the patients with a  positive≠B-OSE_Labeled_AE   antibody≠I-OSE_Labeled_AE   response≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   SIMPONI≠I-OSE_Labeled_AE  in the Phase 2 and 3 trials, most were determined to have  neutralizing≠B-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   golimumab≠I-OSE_Labeled_AE  as measured by a cell-based functional assay.
+
+ The small number of patients  positive≠B-OSE_Labeled_AE   for≠I-OSE_Labeled_AE   antibodies≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   SIMPONI≠I-OSE_Labeled_AE  limits the ability to draw definitive conclusions regarding the relationship between  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   golimumab≠I-NonOSE_AE  and clinical efficacy or safety measures.
+
+ The data above reflect the percentage of patients whose test results were considered  positive≠B-NonOSE_AE   for≠I-NonOSE_AE   antibodies≠I-NonOSE_AE   to≠I-NonOSE_AE   SIMPONI≠I-NonOSE_AE  in an ELISA assay, and are highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of  antibody≠B-NonOSE_AE   positivity≠I-NonOSE_AE  in an assay may be influenced by several factors including sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   SIMPONI≠I-NonOSE_AE  with the incidence of  antibodies≠B-NonOSE_AE  to other products or results from different assays may be misleading.
+
+     Other Adverse Reactions  
+
+ Table 1 summarizes the adverse drug reactions that occurred at a rate of at least 1% in the SIMPONI +/- DMARD group and with a higher incidence than in the placebo +/- DMARD group during the controlled period of the 5 pooled Phase 3 trials through Week 16 in patients with  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate , and  AS≠B-Not_AE_Candidate .
+
+ Table 1: Adverse Drug Reactions Reported by >= 1% of SIMPONI-Treated Patients and With a Higher Incidence Than Placebo-Treated Patients in the Phase 3 Trials of RA, PsA, and AS through Week 16Patients may have taken concomitant MTX, sulfasalazine, hydroxychloroquine, low dose corticosteroids (<= 10 mg of prednisone/day or equivalent), and/or NSAIDs during the trials). 
+                                                 SIMPONI +/- DMARDs              Placebo +/- DMARDs         
+  
+ Patients treated                                       1659                            639                 
+ Adverse Reaction                                                                                           
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE                                                                               
+    Upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  ( nasopharyngitis≠B-OSE_Labeled_AE ,  pharyngitis≠B-OSE_Labeled_AE ,  laryngitis≠B-OSE_Labeled_AE , and  rhinitis≠B-OSE_Labeled_AE )               16%                             13%                 
+    Viral≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  (such as influenza and herpes)                5%                              3%                 
+    Bronchitis≠B-OSE_Labeled_AE                                             2%                              1%                 
+    Superficial≠B-OSE_Labeled_AE   fungal≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE                          2%                              1%                 
+    Sinusitis≠B-OSE_Labeled_AE                                              2%                              1%                 
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE                                                                      
+    Injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE  ( injection≠B-OSE_Labeled_AE   site≠I-OSE_Labeled_AE   erythema≠I-OSE_Labeled_AE , urticaria, induration, pain, bruising, pruritus, irritation, paresthesia)                6%                              2%                 
+    Investigations≠B-NonOSE_AE                                                                                            
+    Alanine≠B-OSE_Labeled_AE   aminotransferase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE                     4%                              3%                 
+    Aspartate≠B-OSE_Labeled_AE   aminotransferase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE                   3%                              2%                 
+    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                        
+    Hypertension≠B-OSE_Labeled_AE                                           3%                              2%                 
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                  
+    Dizziness≠B-OSE_Labeled_AE                                              2%                              1%                 
+    Paresthesia≠B-OSE_Labeled_AE                                            2%                              1%                 
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                
+    Constipation≠B-OSE_Labeled_AE                                           1%                             <1%                 
+             Less Common Clinical Trial Adverse Drug Reactions  
+ 
+
+ Adverse drug reactions that occurred <1% in SIMPONI-treated patients during the SIMPONI clinical trials that do not appear in the Warnings and Precautions section included the following events listed by system organ class:
+
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE :   Septic≠B-OSE_Labeled_AE   shock≠I-OSE_Labeled_AE ,  atypical≠B-OSE_Labeled_AE   mycobacterial≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  pyelonephritis≠B-OSE_Labeled_AE ,  arthritis≠B-OSE_Labeled_AE   bacterial≠I-OSE_Labeled_AE ,  bursitis≠B-OSE_Labeled_AE   infective≠I-OSE_Labeled_AE 
+
+    Neoplasms≠B-NonOSE_AE   benign≠I-NonOSE_AE  ,≠I-NonOSE_AE   malignant≠I-NonOSE_AE   and≠I-NonOSE_AE   unspecified≠I-NonOSE_AE :   Leukemia≠B-OSE_Labeled_AE 
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   Psoriasis≠B-OSE_Labeled_AE  (new onset or worsening, palmar/plantar and pustular),  vasculitis≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  cutaneous≠I-OSE_Labeled_AE )
+
+    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   Vasculitis≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  systemic≠I-OSE_Labeled_AE )
+
+     Other Clinical Trial Adverse Drug Reactions in Ulcerative Colitis Clinical Trials  
+
+ In the Phase 2/3 trials in  UC≠B-Not_AE_Candidate  evaluating 1233 SIMPONI-treated patients, no new adverse drug reactions were identified and the frequency of adverse drug reactions was similar to the safety profile observed in patients with  RA≠B-Not_AE_Candidate ,  PsA≠B-Not_AE_Candidate  and  AS≠B-Not_AE_Candidate .
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post-approval use of golimumab. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to SIMPONI exposure.
+
+    Immune≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  Serious  systemic≠B-OSE_Labeled_AE   hypersensitivity≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (including  anaphylactic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE )  [see  Warnings and Precautions (5.11)  ]  ,  sarcoidosis≠B-OSE_Labeled_AE 
+
+    Neoplasms≠B-NonOSE_AE   benign≠I-NonOSE_AE  ,≠I-NonOSE_AE   malignant≠I-NonOSE_AE   and≠I-NonOSE_AE   unspecified≠I-NonOSE_AE :   Melanoma≠B-OSE_Labeled_AE ,  Merkel≠B-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   carcinoma≠I-OSE_Labeled_AE   [see  Warnings and Precautions (5.2)  ]  
+
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   Interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE 
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE   :  Skin≠B-OSE_Labeled_AE   exfoliation≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE ,  bullous≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE 
+

@@ -1,0 +1,118 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *    Lymphoma and Other Malignancies: Risk of lymphomas, including post transplant lymphoproliferative disorder (PLTD); appears related to intensity and duration of use. Avoid prolonged exposure to UV light and sunlight (  5.2  ) 
+ *    Serious infections: Increased risk of bacterial, viral, fungal and protozoal infections, including opportunistic infections: combination immunosuppression should be used with caution (  5.3  ) 
+ *    Polyoma Virus Infections: Serious, sometimes fatal outcomes, including polyoma virus-associated nephropathy (PVAN), mostly due to BK virus, and JC virus-associated progressive multifocal leukoencephalopathy (PML); consider reducing immunosuppression (  5.4  ) 
+ *    Cytomegalovirus (CMV) Infections: Increased risk of CMV viremia and disease; consider reducing immunosuppression (  5.5  ) 
+ *    New Onset Diabetes After Transplant: Monitor blood glucose (  5.6  ) 
+ *    Nephrotoxicity: Acute and/or chronic; reduce the dose; use caution with other nephrotoxic drugs (  5.7  ) 
+ *    Neurotoxicity: Risk of Posterior Reversible Encephalopathy Syndrome, monitor for neurologic abnormalities; reduce or discontinue Prograf and other immunosuppressants (  5.8  ) 
+ *    Hyperkalemia: Monitor serum potassium levels. Careful consideration should be given prior to use of other agents also associated with hyperkalemia (  5.9  ) 
+ *    Hypertension: May require antihypertensive therapy. Monitor relevant drug-drug interactions (  5.10  ) 
+ *    Anaphylactic Reactions with IV formulation: Observe patients receiving Prograf injection for signs and symptoms of anaphylaxis (  5.11  ) 
+ *    Use with Sirolimus: Not recommended in liver and heart transplant due to increased risk of serious adverse reactions (  5.12  ) 
+ *    Myocardial Hypertrophy: Consider dosage reduction or discontinuation (  5.15  ) 
+ *    Immunizations: Use of live vaccines should be avoided (  5.16  ) 
+ *    Pure Red Cell Aplasia: Discontinuation should be considered (  5.17  ) 
+    
+ 
+
+   5.1 Management of Immunosuppression
+
+  Only physicians experienced in  immunosuppressive≠B-NonOSE_AE   therapy≠I-NonOSE_AE  and management of  organ≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients should use Prograf. Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources. The physicians responsible for maintenance therapy should have complete information requisite for the follow up of the patient [see  Boxed Warning  ]  .
+
+    5.2 Lymphoma and Other Malignancies
+
+  Patients receiving immunosuppressants, including Prograf, are at increased risk of developing  lymphomas≠B-OSE_Labeled_AE  and other  malignancies≠B-OSE_Labeled_AE , particularly of the  skin≠I-OSE_Labeled_AE  [see  Boxed Warning  ].  The risk appears to be related to the intensity and duration of  immunosuppression≠B-NonOSE_AE  rather than to the use of any specific agent.
+
+ As usual for patients with increased risk for  skin≠B-NonOSE_AE   cancer≠I-NonOSE_AE , exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+
+  Post≠B-OSE_Labeled_AE   transplant≠I-OSE_Labeled_AE   lymphoproliferative≠I-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PTLD≠I-OSE_Labeled_AE ) has been reported in  immunosuppressed≠B-Not_AE_Candidate   organ≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  recipients. The majority of  PTLD≠B-OSE_Labeled_AE  events appear related to  Epstein≠B-OSE_Labeled_AE   Barr≠I-OSE_Labeled_AE   Virus≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  EBV≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE . The risk of  PTLD≠B-NonOSE_AE  appears greatest in those individuals who are  EBV≠B-Not_AE_Candidate   seronegative≠I-Not_AE_Candidate , a population which includes many young children.
+
+    5.3 Serious Infections
+
+  Patients receiving immunosuppressants, including Prograf, are at increased risk of developing  bacterial≠B-OSE_Labeled_AE , viral, fungal, and protozoal  infections≠I-OSE_Labeled_AE , including  opportunistic≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  [see  Boxed Warning  and  Warnings and Precautions  (  5.4  ,  5.5  )]  . These  infections≠B-OSE_Labeled_AE  may lead to serious, including  fatal≠B-NonOSE_AE , outcomes. Because of the danger of  oversuppression≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   immune≠I-NonOSE_AE   system≠I-NonOSE_AE  which can increase  susceptibility≠B-NonOSE_AE   to≠I-NonOSE_AE   infection≠I-NonOSE_AE , combination  immunosuppressant≠B-NonOSE_AE   therapy≠I-NonOSE_AE  should be used with caution.
+
+    5.4 Polyoma Virus Infections
+
+  Patients receiving immunosuppressants, including Prograf, are at increased risk for  opportunistic≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE , including  polyoma≠B-OSE_Labeled_AE   virus≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE .  Polyoma≠B-NonOSE_AE   virus≠I-NonOSE_AE   infections≠I-NonOSE_AE  in  transplant≠B-Not_AE_Candidate  patients may have serious, and sometimes  fatal≠B-NonOSE_AE , outcomes. These include  polyoma≠B-OSE_Labeled_AE   virus≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  associated≠I-OSE_Labeled_AE   nephropathy≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PVAN≠I-OSE_Labeled_AE ), mostly due to  BK≠B-OSE_Labeled_AE   virus≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE , and  JC≠B-OSE_Labeled_AE   virus≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  associated≠I-OSE_Labeled_AE   progressive≠I-OSE_Labeled_AE   multifocal≠I-OSE_Labeled_AE   leukoencephalopathy≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PML≠I-OSE_Labeled_AE ) which have been observed in patients receiving tacrolimus [see  Adverse Reactions  (  6.2  )]  .
+
+  PVAN≠B-NonOSE_AE  is associated with serious outcomes, including  deteriorating≠B-NonOSE_AE   renal≠I-NonOSE_AE   function≠I-NonOSE_AE  and  kidney≠B-NonOSE_AE   graft≠I-NonOSE_AE   loss≠I-NonOSE_AE  [see  Adverse Reactions  (  6.2  )]  . Patient monitoring may help detect patients at risk for  PVAN≠B-NonOSE_AE .
+
+ Cases of  PML≠B-OSE_Labeled_AE  have been reported in patients treated with Prograf.  PML≠B-NonOSE_AE , which is sometimes  fatal≠B-NonOSE_AE , commonly presents with  hemiparesis≠B-NonOSE_AE ,  apathy≠B-NonOSE_AE ,  confusion≠B-NonOSE_AE ,  cognitive≠B-NonOSE_AE   deficiencies≠I-NonOSE_AE  and  ataxia≠B-NonOSE_AE . Risk factors for  PML≠B-NonOSE_AE  include treatment with  immunosuppressant≠B-NonOSE_AE   therapies≠I-NonOSE_AE  and  impairment≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   immune≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate . In  immunosuppressed≠B-Not_AE_Candidate  patients, physicians should consider  PML≠B-NonOSE_AE  in the differential diagnosis in patients reporting  neurological≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  and consultation with a neurologist should be considered as clinically indicated.
+
+ Reductions in  immunosuppression≠B-NonOSE_AE  should be considered for patients who develop evidence of  PVAN≠B-NonOSE_AE  or  PML≠B-NonOSE_AE . Physicians should also consider the risk that reduced  immunosuppression≠B-NonOSE_AE  represents to the functioning allograft.
+
+    5.5 Cytomegalovirus (CMV) Infections
+
+  Patients receiving immunosuppressants, including Prograf, are at increased risk of developing  CMV≠B-OSE_Labeled_AE   viremia≠I-OSE_Labeled_AE  and  CMV≠B-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE . The risk of  CMV≠B-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE  is highest among  transplant≠B-Not_AE_Candidate  recipients  seronegative≠B-Not_AE_Candidate   for≠I-Not_AE_Candidate   CMV≠I-Not_AE_Candidate  at time of  transplant≠B-NonOSE_AE  who receive a graft from a  CMV≠B-Not_AE_Candidate   seropositive≠I-Not_AE_Candidate   donor≠I-Not_AE_Candidate . Therapeutic approaches to limiting  CMV≠B-NonOSE_AE   disease≠I-NonOSE_AE  exist and should be routinely provided. Patient monitoring may help detect patients at risk for  CMV≠B-NonOSE_AE   disease≠I-NonOSE_AE . Consideration should be given to reducing the amount of  immunosuppression≠B-NonOSE_AE  in patients who develop  CMV≠B-NonOSE_AE   viremia≠I-NonOSE_AE  and/or  CMV≠B-NonOSE_AE   disease≠I-NonOSE_AE .
+
+    5.6 New Onset Diabetes After Transplant
+
+  Prograf was shown to cause new onset  diabetes≠B-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE  in clinical trials of  kidney≠B-Not_AE_Candidate , liver, and heart  transplantation≠I-Not_AE_Candidate . New onset  diabetes≠B-OSE_Labeled_AE  after  transplantation≠B-Not_AE_Candidate  may be reversible in some patients. Black and Hispanic  kidney≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients are at an increased risk. Blood glucose concentrations should be monitored closely in patients using Prograf [see  Adverse Reactions  (  6.1  )]  .
+
+    5.7 Nephrotoxicity
+
+  Prograf, like other calcineurin-inhibitors, can cause acute or chronic  nephrotoxicity≠B-OSE_Labeled_AE , particularly when used in high doses. Acute  nephrotoxicity≠B-OSE_Labeled_AE  is most often related to  vasoconstriction≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   afferent≠I-NonOSE_AE   renal≠I-NonOSE_AE   arteriole≠I-NonOSE_AE , is characterized by  increasing≠B-NonOSE_AE   serum≠I-NonOSE_AE   creatinine≠I-NonOSE_AE ,  hyperkalemia≠B-NonOSE_AE , and/or a  decrease≠B-NonOSE_AE   in≠I-NonOSE_AE   urine≠I-NonOSE_AE   output≠I-NonOSE_AE , and is typically reversible. Chronic  calcineurin≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  inhibitor≠I-OSE_Labeled_AE   nephrotoxicity≠I-OSE_Labeled_AE  is associated with  increased≠B-NonOSE_AE   serum≠I-NonOSE_AE   creatinine≠I-NonOSE_AE ,  decreased≠B-NonOSE_AE   kidney≠I-NonOSE_AE   graft≠I-NonOSE_AE   life≠I-NonOSE_AE , and characteristic histologic  changes≠B-NonOSE_AE   observed≠I-NonOSE_AE   on≠I-NonOSE_AE   renal≠I-NonOSE_AE   biopsy≠I-NonOSE_AE ; the changes associated with chronic  calcineurin≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  inhibitor≠I-OSE_Labeled_AE   nephrotoxicity≠I-OSE_Labeled_AE  are typically progressive. Patients with  impaired≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate  should be monitored closely as the dosage of Prograf may need to be reduced. In patients with persistent  elevations≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   serum≠I-Not_AE_Candidate   creatinine≠I-Not_AE_Candidate  who are unresponsive to dosage adjustments, consideration should be given to changing to another  immunosuppressive≠B-NonOSE_AE   therapy≠I-NonOSE_AE .
+
+ Based on reported adverse reactions terms related to  decreased≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE ,  nephrotoxicity≠B-OSE_Labeled_AE  was reported in approximately 52% of  kidney≠B-Not_AE_Candidate   transplantation≠I-Not_AE_Candidate  patients and in 40% and 36% of  liver≠B-Not_AE_Candidate   transplantation≠I-Not_AE_Candidate  patients receiving Prograf in the U.S. and European randomized trials, respectively, and in 59% of  heart≠B-Not_AE_Candidate   transplantation≠I-Not_AE_Candidate  patients in a European randomized trial [see  Adverse Reactions  (  6.1  )].  
+
+ Due to the potential for additive or synergistic  impairment≠B-NonOSE_AE   of≠I-NonOSE_AE   renal≠I-NonOSE_AE   function≠I-NonOSE_AE , care should be taken when administering Prograf with drugs that may be associated with  renal≠B-NonOSE_AE   dysfunction≠I-NonOSE_AE . These include, but are not limited to, aminoglycosides, ganciclovir, amphotericin B, cisplatin, nucleotide reverse transcriptase inhibitors (e.g., tenofovir) and protease inhibitors (e.g., ritonavir, indinavir). Similarly, care should be exercised when administering with CYP3A4 inhibitors such as antifungal drugs (e.g., ketoconazole), calcium channel blockers (e.g., diltiazem, verapamil), and macrolide antibiotics (e.g., clarithromycin, erythromycin, troleandomycin) which will result in increased tacrolimus whole blood concentrations due to inhibition of tacrolimus metabolism [see  Drug Interactions  (  7.3  ,  7.4  ,  7.5  ,  7.6  )]  .
+
+    5.8 Neurotoxicity
+
+   Prograf may cause a spectrum of  neurotoxicities≠B-OSE_Labeled_AE , particularly when used in high doses. The most severe  neurotoxicities≠B-OSE_Labeled_AE  include  posterior≠B-OSE_Labeled_AE   reversible≠I-OSE_Labeled_AE   encephalopathy≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PRES≠I-OSE_Labeled_AE ),  delirium≠B-OSE_Labeled_AE , and  coma≠B-OSE_Labeled_AE . Patients treated with tacrolimus have been reported to develop  PRES≠B-OSE_Labeled_AE . Symptoms indicating  PRES≠B-NonOSE_AE  include  headache≠B-NonOSE_AE ,  altered≠B-NonOSE_AE   mental≠I-NonOSE_AE   status≠I-NonOSE_AE ,  seizures≠B-NonOSE_AE ,  visual≠B-NonOSE_AE   disturbances≠I-NonOSE_AE  and  hypertension≠B-NonOSE_AE . Diagnosis may be confirmed by radiological procedure. If  PRES≠B-NonOSE_AE  is suspected or diagnosed, blood pressure control should be maintained and immediate reduction of  immunosuppression≠B-NonOSE_AE  is advised. This syndrome is characterized by reversal of symptoms upon reduction or discontinuation of  immunosuppression≠B-NonOSE_AE .  
+ 
+
+  Coma≠B-OSE_Labeled_AE  and  delirium≠B-OSE_Labeled_AE , in the absence of  PRES≠B-NonOSE_AE , have also been associated with high plasma concentrations of tacrolimus.  Seizures≠B-OSE_Labeled_AE  have occurred in adult and pediatric patients receiving Prograf [see  Adverse Reactions  (  6.1  )]  .
+
+ Less severe  neurotoxicities≠B-OSE_Labeled_AE , include  tremors≠B-OSE_Labeled_AE ,  paresthesias≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE , and other  changes≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   motor≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE , mental status, and sensory function [see  Adverse Reactions  (  6.1  )].   Tremor≠B-OSE_Labeled_AE  and  headache≠B-OSE_Labeled_AE  have been associated with high whole-blood concentrations of tacrolimus and may respond to dosage adjustment.
+
+    5.9 Hyperkalemia
+
+   Hyperkalemia≠B-OSE_Labeled_AE  has been reported with Prograf use. Serum potassium levels should be monitored. Careful consideration should be given prior to use of other agents also associated with  hyperkalemia≠B-NonOSE_AE  (e.g., potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers) during Prograf therapy [see  Adverse Reactions  (  6.1  )]  .
+
+    5.10 Hypertension
+
+   Hypertension≠B-OSE_Labeled_AE  is a common adverse effect of Prograf therapy and may require antihypertensive therapy [see  Adverse Reactions  (  6.1  )].  The control of blood pressure can be accomplished with any of the common antihypertensive agents, though careful consideration should be given prior to use of antihypertensive agents associated with  hyperkalemia≠B-NonOSE_AE  (e.g., potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers) [see  Warnings and Precautions  (  5.9  )]  . Calcium-channel blocking agents may increase tacrolimus blood concentrations and therefore require dosage reduction of Prograf [see  Drug Interactions  (  7.5  )].  
+
+    5.11 Anaphylactic Reactions with Prograf Injection
+
+   Anaphylactic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  have occurred with injectables containing castor oil derivatives, including Prograf, in a small percentage of patients (0.6%). The exact cause of these reactions is not known. Prograf injection should be reserved for patients who are unable to take Prograf capsules [see  Indications and Usage  (  1.4  )]  .
+
+ Patients receiving Prograf injection should be under continuous observation for at least the first 30 minutes following the start of the infusion and at frequent intervals thereafter. If signs or symptoms of  anaphylaxis≠B-NonOSE_AE  occur, the infusion should be stopped. An aqueous solution of epinephrine should be available at the bedside as well as a source of oxygen.
+
+    5.12 Use with Sirolimus
+
+  The safety and efficacy of Prograf with sirolimus has not been established in  kidney≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients.
+
+ Use of sirolimus with Prograf in studies of de novo   liver≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients was associated with an excess  mortality≠B-NonOSE_AE ,  graft≠B-NonOSE_AE   loss≠I-NonOSE_AE , and  hepatic≠B-NonOSE_AE   artery≠I-NonOSE_AE   thrombosis≠I-NonOSE_AE   (≠I-NonOSE_AE  HAT≠I-NonOSE_AE ) and is not recommended [see  Indications and Usage  (  1.4  )]  .
+
+ Use of sirolimus (2 mg per day) with Prograf in  heart≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients in a U.S. trial was associated with increased risk of  renal≠B-NonOSE_AE   function≠I-NonOSE_AE   impairment≠I-NonOSE_AE ,  wound≠B-NonOSE_AE   healing≠I-NonOSE_AE   complications≠I-NonOSE_AE , and  insulin≠B-NonOSE_AE  -≠I-NonOSE_AE  dependent≠I-NonOSE_AE   post≠I-NonOSE_AE  -≠I-NonOSE_AE  transplant≠I-NonOSE_AE   diabetes≠I-NonOSE_AE   mellitus≠I-NonOSE_AE , and is not recommended [see  Clinical Studies  (  14.3  )]  .
+
+    5.13 Use with CYP3A4 Inhibitors and Inducers
+
+  When coadministering Prograf with strong CYP3A4-inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) adjustments in the dosing regimen of Prograf and subsequent frequent monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions are recommended [see  Drug Interactions  (  7  )].  
+
+    5.14 QT Prolongation
+
+  Prograf may  prolong≠B-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   QT≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  QTc≠I-OSE_Labeled_AE   interval≠I-OSE_Labeled_AE  and may cause  Torsade≠B-OSE_Labeled_AE   de≠I-OSE_Labeled_AE   Pointes≠I-OSE_Labeled_AE . Avoid Prograf in patients with  congenital≠B-Not_AE_Candidate   long≠I-Not_AE_Candidate   QT≠I-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate . In patients with  congestive≠B-Not_AE_Candidate   heart≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate ,  bradyarrhythmias≠B-Not_AE_Candidate , those taking certain antiarrhythmic medications or other medicinal products that lead to  QT≠B-NonOSE_AE   prolongation≠I-NonOSE_AE , and those with  electrolyte≠B-Not_AE_Candidate   disturbances≠I-Not_AE_Candidate  such as  hypokalemia≠B-Not_AE_Candidate ,  hypocalcemia≠B-Not_AE_Candidate , or  hypomagnesemia≠B-Not_AE_Candidate , consider obtaining electrocardiograms and monitoring electrolytes (magnesium, potassium, calcium) periodically during treatment.
+
+ When coadministering Prograf with other substrates and/or inhibitors of CYP3A4 that also have the potential to  prolong≠B-NonOSE_AE   the≠I-NonOSE_AE   QT≠I-NonOSE_AE   interval≠I-NonOSE_AE , a reduction in Prograf dose, frequent monitoring of tacrolimus whole blood concentrations, and monitoring for  QT≠B-NonOSE_AE   prolongation≠I-NonOSE_AE  is recommended. Use of Prograf with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent  QT≠B-NonOSE_AE   prolongation≠I-NonOSE_AE  [see  Drug Interactions  (  7  )].  
+
+    5.15 Myocardial Hypertrophy
+
+   Myocardial≠B-OSE_Labeled_AE   hypertrophy≠I-OSE_Labeled_AE  has been reported in infants, children, and adults, particularly those with high tacrolimus trough concentrations, and is generally manifested by echocardiographically demonstrated concentric  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   left≠I-OSE_Labeled_AE   ventricular≠I-OSE_Labeled_AE   posterior≠I-OSE_Labeled_AE   wall≠I-OSE_Labeled_AE  and interventricular septum  thickness≠I-OSE_Labeled_AE . This condition appears reversible in most cases following dose reduction or discontinuance of therapy. In patients who develop  renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  or clinical manifestations of  ventricular≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE  while receiving Prograf therapy, echocardiographic evaluation should be considered. If  myocardial≠B-NonOSE_AE   hypertrophy≠I-NonOSE_AE  is diagnosed, dosage reduction or discontinuation of Prograf should be considered [see  Adverse Reactions  (  6.2  )]  .
+
+    5.16 Immunizations
+
+  The use of live vaccines should be avoided during treatment with tacrolimus; examples include (not limited to) the following: intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines.
+
+    5.17 Pure Red Cell Aplasia
+
+  Cases of  pure≠B-OSE_Labeled_AE   red≠I-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   aplasia≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PRCA≠I-OSE_Labeled_AE ) have been reported in patients treated with tacrolimus. A mechanism for  tacrolimus≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  induced≠I-OSE_Labeled_AE   PRCA≠I-OSE_Labeled_AE  has not been elucidated. All patients reported risk factors for  PRCA≠B-NonOSE_AE  such as  parvovirus≠B-Not_AE_Candidate   B≠I-Not_AE_Candidate  1≠I-Not_AE_Candidate  9≠I-Not_AE_Candidate   infection≠I-Not_AE_Candidate , underlying disease, or concomitant medications associated with  PRCA≠B-NonOSE_AE . If  PRCA≠B-NonOSE_AE  is diagnosed, discontinuation of Prograf should be considered [see  Adverse Reactions  (  6.2  )]  .
+
+    5.18 Gastrointestinal Perforation
+
+   Gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  has been reported in patients treated with Prograf; all reported cases were considered to be a complication of  transplant≠B-Not_AE_Candidate  surgery or accompanied by  infection≠B-Not_AE_Candidate ,  diverticulum≠B-Not_AE_Candidate , or  malignant≠B-Not_AE_Candidate   neoplasm≠I-Not_AE_Candidate . As  gastrointestinal≠B-NonOSE_AE   perforation≠I-NonOSE_AE  may be serious or life-threatening, appropriate medical/surgical management should be instituted promptly [see  Adverse Reactions  (  6.1  )].   
+

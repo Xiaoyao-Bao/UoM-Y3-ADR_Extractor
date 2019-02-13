@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PAZEO">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+    EXCERPT:   The most common adverse reactions (2-5%) were blurred vision, superficial punctate keratitis, dry eye, abnormal sensation in eye, and dysgeusia.  (6)         To report SUSPECTED ADVERSE REACTIONS, contact Alcon Laboratories, Inc. at 1-800-757-9195 or FDA at1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 CLINICAL TRIALS EXPERIENCE
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.In a randomized, double-masked, vehicle-controlled trial, patients at risk for developing allergic conjunctivitis received one drop of either PAZEO (N=330) or vehicle (N=169) in both eyes for 6 weeks.  The mean age of the population was 32 years (range 2 to 74 years).  Thirty-five percent were male.  Fifty-three percent had brown iris color and 23% had blue iris color.  The most commonly reported adverse reactions occurred in 2-5% of patients treated with either PAZEO or vehicle. These events were blurred vision, dry eye, superficial punctate keratitis, dysgeusia and abnormal sensation in eye.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+    EXCERPT:   Contamination of Tip and Solution.  To prevent contaminating the dropper tip and solution, do not touch the eyelids or surrounding areas with the dropper tip of the bottle.  (5.1)  
+
+
+
+ 
+
+
+
+   5.1 CONTAMINATION OF TIP AND SOLUTION
+
+
+
+  As with any eye drop, care should be taken not to touch the eyelids or surrounding areas with the dropper tip of the bottle to prevent contaminating the tip and solution. Keep bottle tightly closed when not in use.
+
+
+
+    5.2 CONTACT LENS USE
+
+
+
+  Patients should not wear a contact lens if their eye is red. The preservative in PAZEO solution, benzalkonium chloride, may be absorbed by soft contact lenses. Patients who wear soft contact lenses and whose eyes are not red, should be instructed to wait at least five minutes after instilling PAZEO before they insert their contact lenses.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="318" name="excerpt" section="S1" start="28" />
+    <IgnoredRegion len="198" name="excerpt" section="S2" start="37" />
+    <IgnoredRegion len="37" name="heading" section="S2" start="242" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="350" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="507" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

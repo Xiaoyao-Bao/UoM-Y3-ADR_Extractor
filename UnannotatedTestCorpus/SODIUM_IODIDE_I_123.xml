@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="SODIUM_IODIDE_I_123">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Although rare, reactions associated with the administration of sodium iodide isotopes for diagnostic use include, in decreasing order of frequency, nausea, vomiting, chest pain, tachycardia, itching skin, rash and hives.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  The contents of the capsule are radioactive. Adequate shielding of the preparation must be maintained at all times.
+
+
+
+ Do not use after the expiration time and date stated on the label.
+
+
+
+ The prescribed Sodium Iodide I 123 dose should be administered as soon as practical from the time of receipt of product (i.e., as close to calibration time as possible), in order to minimize the fraction of radiation exposure due to the relative increase of radionuclidic contaminants with time.
+
+
+
+ Sodium iodide I-123, as well as other radioactive drugs, must be handled with care and appropriate safety measures should be used to minimize radiation exposure to clinical personnel. Care should also be taken to minimize radiation exposure to the patient consistent with proper patient management.
+
+
+
+ Radiopharmaceuticals should be used only by physicians who are qualified by training and experience in the safe use and handling of radionuclides, and whose experience and training have been approved by the appropriate government agency authorized to license the use of radionuclides.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  No long-term animal studies have been performed to evaluate carcinogenic potential, mutagenic potential, or whether sodium iodide I-123 affects fertility in males or females.
+
+
+
+    Pregnancy Category C
+
+
+
+  Animal reproduction studies have not been conducted with this drug. It is also not known whether sodium iodide I-123 can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity. Sodium iodide I-123 should be given to a pregnant woman only if clearly needed.
+
+
+
+ Ideally, examinations using radiopharmaceuticals, especially those elective in nature, in women of child-bearing capability should be performed during the first few (approximately ten) days following the onset of menses.
+
+
+
+    Nursing Mothers
+
+
+
+  Since I-123 is excreted in human milk, formula-feeding should be substituted for breast-feeding if the agent must be administered to the mother during lactation.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Females of childbearing age and pediatric patients should not be studied unless the benefits anticipated from the performance of the test outweigh the possible risk of exposure to the amount of ionizing radiation associated with the test.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="1121" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="1361" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1912" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2102" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

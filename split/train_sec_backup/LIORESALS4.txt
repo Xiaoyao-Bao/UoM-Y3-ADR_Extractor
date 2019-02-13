@@ -1,0 +1,46 @@
+   WARNINGS
+
+  LIORESAL INTRATHECAL is for use in single bolus intrathecal injections (via a catheter placed in the lumbar intrathecal space or injection by lumbar puncture) and in implantable pumps approved by the FDA specifically for the intrathecal administration of baclofen. Because of the possibility of potentially life-threatening CNS depression, cardiovascular collapse, and/or respiratory failure, physicians must be adequately trained and educated in chronic intrathecal infusion therapy.
+
+ The pump system should not be implanted until the patient's response to bolus LIORESAL INTRATHECAL injection is adequately evaluated. Evaluation (consisting of a screening procedure: see  Dosage and Administration  ) requires that LIORESAL INTRATHECAL be administered into the intrathecal space via a catheter or lumbar puncture. Because of the risks associated with the screening procedure and the adjustment of dosage following pump implantation, these phases must be conducted in a medically supervised and adequately equipped environment following the instructions outlined in the Dosage and Administration section.
+
+  Resuscitative equipment should be available.  
+
+ Following surgical implantation of the pump, particularly during the initial phases of pump use, the patient should be monitored closely until it is certain that the patient's response to the infusion is acceptable and reasonably stable.
+
+ On each occasion that the dosing rate of the pump and/or the concentration of LIORESAL INTRATHECAL (baclofen injection) in the reservoir is adjusted, close medical monitoring is required until it is certain that the patient's response to the infusion is acceptable and reasonably stable.
+
+ It is mandatory that the patient, all patient caregivers, and the physicians responsible for the patient receive adequate information regarding the risks of this mode of treatment. All medical personnel and caregivers should be instructed in 1) the signs and symptoms of overdose, 2) procedures to be followed in the event of overdose and 3) proper home care of the pump and insertion site.
+
+    Overdose
+
+  Signs of overdose may appear suddenly or insidiously. Acute massive overdose may present as coma. Less sudden and/or less severe forms of overdose may present with signs of drowsiness, lightheadedness, dizziness, somnolence, respiratory depression, seizures, rostral progression of hypotonia and loss of consciousness progressing to coma. Should overdose appear likely, the patient should be taken immediately to a hospital for assessment and emptying of the pump reservoir. In cases reported to date, overdose has generally been related to pump malfunction, inadvertent subcutaneous injection, or dosing error. (See  Drug Overdose Symptoms  and  Treatment.  )
+
+ Extreme caution must be used when filling an FDA approved implantable pump. Such pumps should only be refilled through the reservoir refill septum. Inadvertent injection into the subcutaneous tissue can occur if the reservoir refill septum is not properly accessed. Some pumps are also equipped with a catheter access port that allows direct access to the intrathecal catheter. Direct injection into this catheter access port or inadvertent injection into the subcutaneous tissue may cause a life-threatening overdose.
+
+    Withdrawal
+
+  Abrupt withdrawal of intrathecal baclofen, regardless of the cause, has resulted in sequelae that included high fever, altered mental status, exaggerated rebound spasticity and muscle rigidity that in rare cases progressed to rhabdomyolysis, multiple organ-system failure, and death. In the first 9 years of post-marketing experience, 27 cases of withdrawal temporally related to the cessation of baclofen therapy were reported; six patients died. In most cases, symptoms of withdrawal appeared within hours to a few days following interruption of baclofen therapy. Common reasons for abrupt interruption of intrathecal baclofen therapy included malfunction of the catheter (especially disconnection), low volume in the pump reservoir, and end of pump battery life; human error may have played a causal or contributing role in some cases. Cases of intrathecal mass at the tip of the implanted catheter leading to withdrawal symptoms have also been reported, most of them involving pharmacy compounded analgesic admixtures (see  PRECAUTIONS  ).
+
+ Prevention of abrupt discontinuation of intrathecal baclofen requires careful attention to programming and monitoring of the infusion system, refill scheduling and procedures, and pump alarms. Patients and caregivers should be advised of the importance of keeping scheduled refill visits and should be educated on the early symptoms of baclofen withdrawal.
+
+ All patients receiving intrathecal baclofen therapy are potentially at risk for withdrawal. Early symptoms of baclofen withdrawal may include return of baseline spasticity, pruritus, hypotension, and paresthesias. Priapism may develop or recur if treatment with intrathecal baclofen is interrupted. Some clinical characteristics of the advanced intrathecal baclofen withdrawal syndrome may resemble autonomic dysreflexia, infection (sepsis), malignant hyperthermia, neuroleptic-malignant syndrome, or other conditions associated with a hypermetabolic state or widespread rhabdomyolysis.
+
+ Rapid, accurate diagnosis and treatment in an emergency-room or intensive-care setting are important in order to prevent the potentially life-threatening central nervous system and systemic effects of intrathecal baclofen withdrawal. The suggested treatment for intrathecal baclofen withdrawal is the restoration of intrathecal baclofen at or near the same dosage as before therapy was interrupted. However, if restoration of intrathecal delivery is delayed, treatment with GABA-ergic agonist drugs such as oral or enteral baclofen, or oral, enteral, or intravenous benzodiazepines may prevent potentially fatal sequelae. Oral or enteral baclofen alone should not be relied upon to halt the progression of intrathecal baclofen withdrawal.
+
+ Seizures have been reported during overdose and with withdrawal from LIORESAL INTRATHECAL as well as in patients maintained on therapeutic doses of LIORESAL INTRATHECAL.
+
+    Fatalities
+
+   Spasticity of Spinal Cord Origin
+
+  There were 16 deaths reported among the 576 U.S. patients treated with LIORESAL INTRATHECAL (baclofen injection) in pre- and post- marketing studies evaluated as of December 1992. Because these patients were treated under uncontrolled clinical settings, it is impossible to determine definitively what role, if any, LIORESAL INTRATHECAL played in their deaths.
+
+ As a group, the patients who died were relatively young (mean age was 47 with a range from 25 to 63), but the majority suffered from severe spasticity of many years duration, were nonambulatory, had various medical complications such as pneumonia, urinary tract infections, and decubiti, and/or had received multiple concomitant medications. A case-by-case review of the clinical course of the 16 patients who died failed to reveal any unique signs, symptoms, or laboratory results that would suggest that treatment with LIORESAL INTRATHECAL caused their deaths. Two patients, however, did suffer sudden and unexpected death within 2 weeks of pump implantation and one patient died unexpectedly after screening.
+
+ One patient, a 44 year old male with MS, died in hospital on the second day following pump implantation. An autopsy demonstrated severe fibrosis of the coronary conduction system. A second patient, a 52 year old woman with MS and a history of an inferior wall myocardial infarction, was found dead in bed 12 days after pump implantation, 2 hours after having had documented normal vital signs. An autopsy revealed pulmonary congestion and bilateral pleural effusions. It is impossible to determine whether LIORESAL INTRATHECAL contributed to these deaths. The third patient underwent three baclofen screening trials. His medical history included SCI, aspiration pneumonia, septic shock, disseminated intravascular coagulopathy, severe metabolic acidosis, hepatic toxicity, and status epilepticus. Twelve days after screening (he was not implanted), he again experienced status epilepticus with subsequent significant neurological deterioration. Based upon prior instruction, extraordinary resuscitative measures were not pursued and the patient died.
+
+    Spasticity of Cerebral Origin
+
+  There were three deaths occurring among the 211 patients treated with LIORESAL INTRATHECAL in pre- marketing studies as of March 1996. These deaths were not attributed to the therapy.
+

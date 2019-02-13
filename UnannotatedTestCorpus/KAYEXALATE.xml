@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="KAYEXALATE">
+  <Text>
+    <Section id="S1" name="adverse reactions">         6 ADVERSE REACTIONS    
+
+  The following adverse reactions are discussed elsewhere in the labeling:
+
+
+
+ *  Intestinal Necrosis [see  Warnings and Precautions (5.1)  ]  
+ *  Electrolyte Disturbances [see  Warnings and Precautions (5.2  ,  5.3)  ]  
+ *  Aspiration [see  Warnings and Precautions (5.4)  ]  
+    The following adverse reactions have been identified during post-approval use of KAYEXALATE. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or establish a causal relationship to drug exposure.
+ 
+
+   Gastrointestinal:  anorexia, constipation, diarrhea, fecal impaction, gastrointestinal concretions (bezoars), ischemic colitis, nausea, ulcerations, vomiting, gastric irritation, intestinal obstruction (due to  concentration of aluminium hydroxide)
+
+
+
+   Metabolic:   systemic alkalosis
+
+
+
+   EXCERPT:   Adverse reactions reported include: anorexia, constipation, diarrhea, fecal impaction, gastrointestinal concretions (bezoars), ischemic colitis, nausea, vomiting (  6  ).  To report SUSPECTED ADVERSE REACTIONS, contact Concordia Pharmaceutical Inc. at 1-877-370-1142 or FDA at 1-800-FDA-1088 or       www.fda.gov/medwatch  .  
+
+
+
+ 
+</Section>
+    <Section id="S2" name="warnings and precautions">       5 WARNINGS AND PRECAUTIONS    
+
+
+
+     EXCERPT:    *   Intestinal Necrosis: cases of intestinal necrosis and other serious gastrointestinal events have been reported (  5.1  ). 
+ *   Electrolyte Disturbances: Severe hypokalemia can occur. (  5.2  ). 
+ *   Fluid overload in patient sensitive to high sodium intake: Monitor patients who are sensitive to sodium intake for signs of fluid overload. (  5.3  ). 
+ *   Risk of aspiration:  Acute bronchitis or bronchopneumonia caused by inhalation of sodium polystyrene sulfonate particles has been reported. (  5.4  ). 
+    
+ 
+
+      5.1 Intestinal Necrosis    
+
+
+
+  Cases of intestinal necrosis, some fatal, and other serious gastrointestinal adverse events (bleeding, ischemic colitis, perforation) have been reported in association with KAYEXALATE use. The majority of these cases reported the concomitant use of sorbitol. Risk factors for gastrointestinal adverse events were present in many of the cases including prematurity, history of intestinal disease or surgery, hypovolemia, and renal insufficiency and failure. Concomitant administration of sorbitol is not recommended.
+
+
+
+ *  Use only in patients who have normal bowel function. Avoid use in patients who have not had a bowel movement post-surgery. 
+ *  Avoid use in patients who are at risk for developing constipation or impaction (including those with history of impaction, chronic constipation, inflammatory bowel disease, ischemic colitis, vascular intestinal atherosclerosis, previous bowel resection, or bowel obstruction).Discontinue use in patients who develop constipation. 
+        5.2 Electrolyte Disturbances  
+ 
+
+  Monitor serum potassium during therapy because severe hypokalemia may occur.
+
+
+
+ KAYEXALATE is not totally selective for potassium, and small amounts of other cations such as magnesium and calcium can also be lost during treatment.  Monitor calcium and magnesium in patients receiving KAYEXALATE.
+
+
+
+       5.3 Fluid Overload in Patients Sensitive to High Sodium Intake    
+
+
+
+  Each 15 g dose of KAYEXALATE contains 1500 mg (60 mEq) of sodium. Monitor patients who are sensitive to sodium intake (heart failure, hypertension, edema) for signs of fluid overload. Adjustment of other sources of sodium may be required. 
+
+
+
+     5.4 Risk of Aspiration  
+
+
+
+  Cases of acute bronchitis or bronchopneumonia caused by inhalation of sodium polystyrene sulfonate particles have been reported. Patients with impaired gag reflex, altered level of consciousness, or patients prone to regurgitation may be at increased risk. Administer KAYEXALATE with the patient in an upright position. 
+
+
+
+     5.5 Binding to Other Orally Administered Medications  
+
+
+
+  KAYEXALATE may bind orally administered medications, which could decrease their gastrointestinal absorption and lead to reduced efficacy. Administer other oral medications at least 3 hours before or 3 hours after KAYEXALATE. Patients with gastroparesis may require a 6 hour separation. [see  Dosage and Administration (2.1)  and  Drug Interactions (7)  ]  .
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="28" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="33" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="531" name="excerpt" section="S2" start="45" />
+    <IgnoredRegion len="30" name="heading" section="S2" start="583" />
+    <IgnoredRegion len="343" name="excerpt" section="S1" start="911" />
+    <IgnoredRegion len="31" name="heading" section="S2" start="1608" />
+    <IgnoredRegion len="69" name="heading" section="S2" start="1949" />
+    <IgnoredRegion len="25" name="heading" section="S2" start="2271" />
+    <IgnoredRegion len="55" name="heading" section="S2" start="2630" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

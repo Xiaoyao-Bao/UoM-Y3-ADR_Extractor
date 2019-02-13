@@ -1,0 +1,24 @@
+    WARNINGS  
+
+  Caution should be exercised when prescribing TOBI to patients with known or suspected renal, auditory, vestibular, or neuromuscular dysfunction. Patients receiving concomitant parenteral aminoglycoside therapy should be monitored as clinically appropriate.
+
+ Aminoglycosides can cause fetal harm when administered to a pregnant woman. Aminoglycosides cross the placenta, and streptomycin has been associated with several reports of total, irreversible, bilateral congenital deafness in pediatric patients exposed in utero. Patients who use TOBI during pregnancy, or become pregnant while taking TOBI should be apprised of the potential hazard to the fetus.
+
+     Ototoxicity  
+
+  Ototoxicity, as measured by complaints of hearing loss or by audiometric evaluations, did not occur with TOBI therapy during clinical studies. However, transient tinnitus occurred in eight TOBI-treated patients versus no placebo patients in the clinical studies. Tinnitus may be a sentinel symptom of ototoxicity, and therefore the onset of this symptom warrants caution (see ADVERSE REACTIONS). Ototoxicity, manifested as both auditory and vestibular toxicity, has been reported with parenteral aminoglycosides. Vestibular toxicity may be manifested by vertigo, ataxia or dizziness.
+
+  In postmarketing experience, patients receiving TOBI have reported hearing loss.  Some of these reports occurred in patients with previous or concomitant treatment with systemic aminoglycosides. Patients with hearing loss frequently reported tinnitus.
+
+     Nephrotoxicity  
+
+  Nephrotoxicity was not seen during TOBI clinical studies but has been associated with aminoglycosides as a class. If nephrotoxicity occurs in a patient receiving TOBI, tobramycin therapy should be discontinued until serum concentrations fall below 2 mcg/mL.
+
+     Muscular Disorders  
+
+  TOBI should be used cautiously in patients with neuromuscular disorders, such as myasthenia gravis or Parkinson's disease, since aminoglycosides may aggravate muscle weakness because of a potential curare-like effect on neuromuscular function.
+
+     Bronchospasm  
+
+  Bronchospasm has been reported with inhalation of TOBI. In clinical studies of TOBI, changes in FEV1 measured after the inhaled dose were similar in the TOBI and placebo groups. Bronchospasm should be treated as medically appropriate.
+

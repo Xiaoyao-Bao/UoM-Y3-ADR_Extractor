@@ -1,0 +1,31 @@
+
+
+    BOXED WARNING: WARNING: SERIOUS ADVERSE REACTIONS INCLUDING TENDINITIS, TENDON RUPTURE, PERIPHERAL NEUROPATHY, CENTRAL NERVOUS SYSTEM EFFECTS AND EXACERBATION OF MYASTHENIA GRAVIS
+
+    WARNING: SERIOUS ADVERSE REACTIONS INCLUDING TENDINITIS, TENDON RUPTURE, PERIPHERAL NEUROPATHY, CENTRAL NERVOUS SYSTEM EFFECTS AND  EXACERBATION≠B-OSE_Labeled_AE   OF≠I-OSE_Labeled_AE   MYASTHENIA≠I-OSE_Labeled_AE   GRAVIS≠I-OSE_Labeled_AE   
+
+    *  Fluoroquinolones, including LEVAQUIN(r), have been associated with disabling and potentially irreversible serious adverse reactions that have occurred together [see Warnings and Precautions (5.1)], including: Tendinitis≠B-OSE_Labeled_AE  and  tendon≠B-OSE_Labeled_AE   rupture≠I-OSE_Labeled_AE  [see Warnings and Precautions (5.2)] Peripheral≠B-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  [see Warnings and Precautions (5.3)] Central≠B-OSE_Labeled_AE   nervous≠I-OSE_Labeled_AE   system≠I-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE  [see Warnings and Precautions (5.4)]Discontinue LEVAQUIN immediately and avoid the use of fluoroquinolones, including LEVAQUIN, in patients who experience any of these serious adverse reactions [see Warnings and Precautions (5.1)] 
+ *  Fluoroquinolones, including LEVAQUIN(r), may  exacerbate≠B-OSE_Labeled_AE   muscle≠I-OSE_Labeled_AE   weakness≠I-OSE_Labeled_AE  in patients with  myasthenia≠B-Not_AE_Candidate   gravis≠I-Not_AE_Candidate . Avoid LEVAQUIN(r) in patients with a known history of  myasthenia≠B-Not_AE_Candidate   gravis≠I-Not_AE_Candidate  [see Warnings and Precautions (5.5)]. 
+ *  Because fluoroquinolones, including LEVAQUIN, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.14)], reserve LEVAQUIN for use in patients who have no alternative treatment options for the following indications:Uncomplicated  urinary≠B-Not_AE_Candidate   tract≠I-Not_AE_Candidate   infection≠I-Not_AE_Candidate  [see Indications and Usage (1.12)] Acute≠B-Not_AE_Candidate   bacterial≠I-Not_AE_Candidate   exacerbation≠I-Not_AE_Candidate   of≠I-Not_AE_Candidate   chronic≠I-Not_AE_Candidate   bronchitis≠I-Not_AE_Candidate  [see Indications and Usage (1.13)] Acute≠B-Not_AE_Candidate   bacterial≠I-Not_AE_Candidate   sinusitis≠I-Not_AE_Candidate  [see Indications and Usage (1.14)]. 
+      EXCERPT:     WARNING: SERIOUS ADVERSE REACTIONS INCLUDING TENDINITIS, TENDON RUPTURE, PERIPHERAL NEUROPATHY, CENTRAL NERVOUS SYSTEM EFFECTS AND EXACERBATION OF MYASTHENIA GRAVIS  
+ 
+
+   See full prescribing information for complete boxed warning.  
+
+   Fluoroquinolones, including LEVAQUIN  (r)  , have been associated with disabling and potentially irreversible serious adverse reactions that have occurred together (  5.1  ), including:  
+
+ *  Tendinitis and tendon rupture (5.2) 
+ *  Peripheral neuropathy (5.3) 
+ *  Central nervous system effects (5.4) 
+      Discontinue LEVAQUIN immediately and avoid the use of fluoroquinolones, including LEVAQUIN, in patients who experience any of these serious adverse reactions (  5.1  )  
+ 
+
+   Fluoroquinolones, including LEVAQUIN  (r)  , may exacerbate muscle weakness in patients with myasthenia gravis. Avoid LEVAQUIN  (r)   in patients with a known history of myasthenia gravis   [see   Warnings and Precautions (5.5)  ]  .  
+
+   Because fluoroquinolones, including LEVAQUIN, have been associated with serious adverse reactions (5.1-5.14), reserve LEVAQUIN for use in patients who have no alternative treatment options for the following indications:  
+
+ *  Uncomplicated urinary tract infection (1.12) 
+ *  Acute bacterial exacerbation of chronic bronchitis (1.13) 
+ *  Acute bacterial sinusitis (1.14) 
+    
+

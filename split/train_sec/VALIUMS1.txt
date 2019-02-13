@@ -1,0 +1,52 @@
+    ADVERSE REACTIONS  
+
+  Side effects most commonly reported were  drowsiness≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   weakness≠I-OSE_Labeled_AE , and  ataxia≠B-OSE_Labeled_AE . The following have also been reported:
+
+     Central Nervous System:  
+
+   confusion≠B-OSE_Labeled_AE ,  depression≠B-OSE_Labeled_AE ,  dysarthria≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  slurred≠B-OSE_Labeled_AE   speech≠I-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  vertigo≠B-OSE_Labeled_AE 
+
+     Gastrointestinal System:  
+
+   constipation≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  gastrointestinal≠B-OSE_Labeled_AE   disturbances≠I-OSE_Labeled_AE 
+
+     Special Senses:  
+
+   blurred≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE ,  diplopia≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE 
+
+     Cardiovascular System:  
+
+   hypotension≠B-OSE_Labeled_AE 
+
+     Psychiatric and Paradoxical Reactions:  
+
+   stimulation≠B-OSE_Labeled_AE ,  restlessness≠B-OSE_Labeled_AE ,  acute≠B-OSE_Labeled_AE   hyperexcited≠I-OSE_Labeled_AE   states≠I-OSE_Labeled_AE ,  anxiety≠B-OSE_Labeled_AE ,  agitation≠B-OSE_Labeled_AE ,  aggressiveness≠B-OSE_Labeled_AE ,  irritability≠B-OSE_Labeled_AE ,  rage≠B-OSE_Labeled_AE ,  hallucinations≠B-OSE_Labeled_AE ,  psychoses≠B-OSE_Labeled_AE ,  delusions≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   muscle≠I-OSE_Labeled_AE   spasticity≠I-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  sleep≠B-OSE_Labeled_AE   disturbances≠I-OSE_Labeled_AE , and  nightmares≠B-OSE_Labeled_AE .  Inappropriate≠B-OSE_Labeled_AE   behavior≠I-OSE_Labeled_AE  and other  adverse≠B-OSE_Labeled_AE   behavioral≠I-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE  have been reported when using benzodiazepines. Should these occur, use of the drug should be discontinued. They are more likely to occur in children and in the elderly.
+
+     Urogenital System:  
+
+   incontinence≠B-OSE_Labeled_AE ,  changes≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   libido≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE 
+
+     Skin and Appendages:  
+
+   skin≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE 
+
+     Laboratories:  
+
+   elevated≠B-OSE_Labeled_AE   transaminases≠I-OSE_Labeled_AE  and alkaline phosphatase
+
+     Other:  
+
+   changes≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   salivation≠I-OSE_Labeled_AE , including  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE ,  hypersalivation≠B-OSE_Labeled_AE 
+
+  Antegrade≠B-OSE_Labeled_AE   amnesia≠I-OSE_Labeled_AE  may occur using therapeutic dosages, the risk increasing at higher dosages.  Amnestic≠B-OSE_Labeled_AE   effects≠I-OSE_Labeled_AE  may be associated with  inappropriate≠B-OSE_Labeled_AE   behavior≠I-OSE_Labeled_AE .
+
+ Minor  changes≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   EEG≠I-OSE_Labeled_AE  patterns, usually low-voltage fast activity, have been observed in patients during and after Valium therapy and are of no known significance.
+
+ Because of isolated reports of  neutropenia≠B-OSE_Labeled_AE  and  jaundice≠B-OSE_Labeled_AE , periodic blood counts and liver function tests are advisable during long-term therapy.
+
+   Postmarketing Experience
+
+  Injury, Poisoning and Procedural Complications
+
+  There have been reports of  falls≠B-OSE_Labeled_AE  and  fractures≠B-OSE_Labeled_AE  in benzodiazepine users. The risk is increased in those taking concomitant sedatives (including alcohol), and in the elderly.
+

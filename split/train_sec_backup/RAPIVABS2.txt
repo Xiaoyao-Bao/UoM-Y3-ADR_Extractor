@@ -1,0 +1,38 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Serious skin/hypersensitivity reactions such as Stevens-Johnson syndrome and erythema multiforme have occurred with RAPIVAB. (  5.1  ) 
+ *  Neuropsychiatric events: Patients with influenza may be at an increased risk of hallucinations, delirium and abnormal behavior early in their illness. Monitor for signs of abnormal behavior. (  5.2  ) 
+    
+ 
+
+   5.1 Serious Skin/Hypersensitivity Reactions
+
+
+
+  Rare cases of serious skin reactions, including erythema multiforme, have been reported with RAPIVAB in clinical studies and in postmarketing experience; Stevens-Johnson syndrome has been reported with RAPIVAB in postmarketing experience. Appropriate treatment should be instituted if a serious skin reaction occurs or is suspected.
+
+
+
+    5.2 Neuropsychiatric Events
+
+
+
+  Influenza can be associated with a variety of neurologic and behavioral symptoms that can include events such as hallucinations, delirium, and abnormal behavior, in some cases resulting in fatal outcomes. These events may occur in the setting of encephalitis or encephalopathy but can occur in uncomplicated influenza as well.
+
+
+
+ There have been postmarketing reports (from Japan) of delirium and abnormal behavior leading to injury in patients with influenza who were receiving neuraminidase inhibitors, including RAPIVAB. Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made, but they appear to be uncommon. These events were reported primarily among pediatric patients and often had an abrupt onset and rapid resolution. The contribution of RAPIVAB to these events has not been established. Patients with influenza should be closely monitored for signs of abnormal behavior.
+
+
+
+    5.3 Risk of Bacterial Infections
+
+
+
+  There is no evidence for efficacy of RAPIVAB in any illness caused by agents other than influenza viruses. Serious bacterial infections may begin with influenza-like symptoms or may coexist with or occur as complications during the course of influenza. RAPIVAB has not been shown to prevent such complications.
+
+
+
+ Prescribers should be alert to the potential for secondary bacterial infections and treat with antibiotics as appropriate.

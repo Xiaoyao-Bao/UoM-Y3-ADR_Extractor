@@ -1,0 +1,7 @@
+30 558 NonOSE_AE
+8 596 NonOSE_AE
+5 616 NonOSE_AE
+29 814 NonOSE_AE
+16 1151 Not_AE_Candidate
+6 1208 Not_AE_Candidate
+12 1273 NonOSE_AE

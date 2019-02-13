@@ -1,0 +1,42 @@
+    5  WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Cardiopulmonary reactions, including fatalities. Always have resuscitation equipment and trained personnel readily available (  5.1  ) 
+ *  Anaphylactoid reactions (  5.2  ) 
+    
+ 
+
+   5.1  Cardiopulmonary Reactions
+
+
+
+  Serious  cardiopulmonary≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE , including  fatalities≠B-NonOSE_AE  have occurred uncommonly during or shortly following administration of ultrasound contrast agents, including Lumason. These reactions typically occurred within 30 minutes of administration. The risk for these reactions may be increased among patients with unstable  cardiopulmonary≠B-Not_AE_Candidate   conditions≠I-Not_AE_Candidate  ( acute≠B-Not_AE_Candidate   myocardial≠I-Not_AE_Candidate   infarction≠I-Not_AE_Candidate ,  acute≠B-Not_AE_Candidate   coronary≠I-Not_AE_Candidate  artery  syndromes≠I-Not_AE_Candidate ,  worsening≠B-Not_AE_Candidate  or unstable  congestive≠I-Not_AE_Candidate   heart≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate , or serious  ventricular≠B-Not_AE_Candidate   arrhythmias≠I-Not_AE_Candidate ). Always have cardiopulmonary resuscitation personnel and equipment readily available prior to Lumason administration and monitor all patients for acute reactions.
+
+
+
+ The reported reactions that may follow the administration of ultrasound contrast agents include: fatal  cardiac≠B-OSE_Labeled_AE  or respiratory  arrest≠I-OSE_Labeled_AE ,  shock≠B-OSE_Labeled_AE ,  syncope≠B-OSE_Labeled_AE ,  symptomatic≠B-OSE_Labeled_AE   arrhythmias≠I-OSE_Labeled_AE  ( atrial≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE ,  tachycardia≠B-OSE_Labeled_AE ,  bradycardia≠B-OSE_Labeled_AE ,  supraventricular≠B-OSE_Labeled_AE   tachycardia≠I-OSE_Labeled_AE ,  ventricular≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE , and  ventricular≠B-OSE_Labeled_AE   tachycardia≠I-OSE_Labeled_AE ),  hypertension≠B-OSE_Labeled_AE ,  hypotension≠B-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE ,  hypoxia≠B-OSE_Labeled_AE ,  chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  respiratory≠B-OSE_Labeled_AE   distress≠I-OSE_Labeled_AE ,  stridor≠B-OSE_Labeled_AE ,  wheezing≠B-OSE_Labeled_AE ,  loss≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   consciousness≠I-OSE_Labeled_AE , and  convulsions≠B-OSE_Labeled_AE .
+
+
+
+    5.2  Anaphylactoid Reactions
+
+
+
+   Anaphylactoid≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  such as  skin≠B-OSE_Labeled_AE   erythema≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE ,  flushing≠B-OSE_Labeled_AE ,  throat≠B-OSE_Labeled_AE   tightness≠I-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE , or  anaphylactic≠B-OSE_Labeled_AE   shock≠I-OSE_Labeled_AE  have uncommonly been observed following the injection of Lumason. These reactions may occur in patients with no history of prior exposure to sulfur hexafluoride lipid containing microspheres.
+
+
+
+    5.3   Systemic≠B-OSE_Labeled_AE   Embolization≠I-OSE_Labeled_AE 
+
+
+
+  In patients with  right≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  to≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  left≠I-Not_AE_Candidate , bi-directional, or transient right-to-left  cardiac≠I-Not_AE_Candidate   shunts≠I-Not_AE_Candidate , some intravenously injected sulfur hexafluoride lipid containing microspheres may bypass filtering by the lung and directly enter the arterial circulation.  Occlusion≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   microcirculation≠I-OSE_Labeled_AE  by these microspheres may result in  tissue≠B-NonOSE_AE   ischemia≠I-NonOSE_AE . Lumason is only for intravenous administration; do not administer Lumason by intra-arterial injection.
+
+
+
+    5.4  High Mechanical Index
+
+
+
+  High  ultrasound≠B-NonOSE_AE   mechanical≠I-NonOSE_AE   index≠I-NonOSE_AE   values≠I-NonOSE_AE   may≠I-NonOSE_AE   cause≠I-NonOSE_AE   microsphere≠I-NonOSE_AE   cavitation≠I-NonOSE_AE   or≠I-NonOSE_AE   rupture≠I-NonOSE_AE  and lead to  ventricular≠B-OSE_Labeled_AE   arrhythmias≠I-OSE_Labeled_AE . Additionally, end-systolic triggering with high mechanical indices has been reported to cause  ventricular≠B-NonOSE_AE   arrhythmias≠I-NonOSE_AE .

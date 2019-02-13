@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CYSTADANE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described elsewhere in labeling:
+
+
+
+ *  Hypermethioninemia and cerebral edema in patients with CBS deficiency [ see Warnings and Precautions (  5.1  ) ]. 
+      EXCERPT:   Most common adverse reactions (&gt; 2%) are: nausea and gastrointestinal distress, based on physician survey (  6.1  ).
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    Recordati Rare Diseases Inc. at 1-888-575-8344,    or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+
+
+ 
+
+
+
+   See 17 for PATIENT COUNSELING INFORMATION.  
+
+
+
+   Revised 10/2018  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ 
+
+
+
+ The assessment of clinical adverse reactions is based on a survey study of 41 physicians, who treated a total of 111 homocystinuria patients with CYSTADANE. Adverse reactions were retrospectively recalled and were not collected systematically in this open-label, uncontrolled, physician survey. Thus, this list may not encompass all types of potential adverse reactions, reliably estimate their frequency, or establish a causal relationship to drug exposure. The following adverse reactions were reported (Table 1):
+
+
+
+ Table 1: Number of Patients with Adverse Reactions to CYSTADANE by Physician Survey 
+   Adverse Reactions          Number of Patients        
+ Nausea                     2                           
+ Gastrointestinal distress  2                           
+ Diarrhea                   1                           
+ "Bad Taste"                1                           
+ "Caused Odor"              1                           
+ Questionable psychological changes  1                           
+ "Aspirated the powder"     1                           
+      
+ 
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post approval use of CYSTADANE. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ 
+
+
+
+ Severe cerebral edema and hypermethioninemia have been reported within 2 weeks to 6 months of starting CYSTADANE therapy, with complete recovery after discontinuation of CYSTADANE. All patients who developed cerebral edema had homocystinuria due to CBS deficiency and had severe elevation in plasma methionine concentrations (range 1,000 to 3,000 microM). As cerebral edema has also been reported in patients with hypermethioninemia, secondary hypermethioninemia due to betaine therapy has been postulated as a possible mechanism of action [  see Warnings and Precautions (  5.1  )  ].
+
+
+
+ 
+
+
+
+ Other adverse reactions include: anorexia, agitation, depression, irritability, personality disorder, sleep disturbed, dental disorders, diarrhea, glossitis, nausea, stomach discomfort, vomiting, hair loss, hives, skin odor abnormalities, and urinary incontinence.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *   Hypermethioninemia in Patients with CBS Deficiency:  
+    CYSTADANE may worsen elevated plasma methionine concentrations and cerebral edema has been reported. Monitor plasma methionine concentrations in patients with CBS deficiency. Keep plasma methionine concentrations below 1,000 micromol/L through dietary modification and, if necessary, a reduction of CYSTADANE dosage. (  5.1  )
+ 
+
+ 
+
+
+
+    5.1 Hypermethioninemia in Patients with CBS Deficiency  
+
+
+
+  Patients with homocystinuria due to cystathionine beta-synthase (CBS) deficiency may also have elevated plasma methionine concentrations. Treatment with CYSTADANE may further increase methionine concentrations due to the remethylation of homocysteine to methionine. Cerebral edema has been reported in patients with hypermethioninemia, including patients treated with CYSTADANE [ see Adverse Reactions (  6.2  )  ]. Monitor plasma methionine concentrations in patients with CBS deficiency. Plasma methionine concentrations should be kept below 1,000 micromol/L through dietary modification and, if necessary, a reduction of CYSTADANE dosage.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="406" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="390" name="excerpt" section="S1" start="231" />
+    <IgnoredRegion len="57" name="heading" section="S2" start="449" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="625" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="2011" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

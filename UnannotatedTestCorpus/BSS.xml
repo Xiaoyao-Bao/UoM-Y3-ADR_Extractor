@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="BSS">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+   Irrigation or any other trauma may result in corneal swelling or bullous keratopathy.
+
+
+
+ Post-operative inflammatory reactions as well as incidents of corneal edema and corneal decompensation have been reported.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS:
+
+
+
+  Open under aseptic conditions only.
+
+
+
+ Studies suggest that intraocular irrigating solutions which are iso-osmotic with normal aqueous fluids should be used with caution in diabetic patients undergoing vitrectomy since intraoperative lens changes have been observed.
+
+
+
+ There have been reports of corneal clouding and edema following ocular surgery in which BSS Sterile Irrigating Solution was used as an irrigating solution.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS:
+
+
+
+    *  NOT FOR INJECTION OR INTRAVENOUS INFUSION. 
+ *  Do not use unless outer overwrap is intact, product is clear, seal is intact and bag is undamaged. 
+ *  Do not use if product is discolored or contains a precipitate. 
+ *  SINGLE patient use only. The contents of this bag should not be used in more than one patient. 
+ *  This solution contains no preservative, unused contents should be discarded. 
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="12" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="9" name="heading" section="S3" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

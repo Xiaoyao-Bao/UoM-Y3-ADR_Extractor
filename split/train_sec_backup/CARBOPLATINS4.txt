@@ -1,0 +1,22 @@
+   WARNINGS
+
+  Bone marrow suppression (leukopenia, neutropenia, and thrombocytopenia) is dose-dependent and is also the dose-limiting toxicity. Peripheral blood counts should be frequently monitored during carboplatin injection treatment and, when appropriate, until recovery is achieved. Median nadir occurs at day 21 in patients receiving single agent carboplatin. In general, single intermittent courses of carboplatin should not be repeated until leukocyte, neutrophil, and platelet counts have recovered.
+
+ Since anemia is cumulative, transfusions may be needed during treatment with carboplatin, particularly in patients receiving prolonged therapy.
+
+ Bone marrow suppression is increased in patients who have received prior therapy, especially regimens including cisplatin. Marrow suppression is also increased in patients with impaired kidney function. Initial carboplatin injection dosages in these patients should be appropriately reduced (see   DOSAGE AND ADMINISTRATION    ) and blood counts should be carefully monitored between courses. The use of carboplatin in combination with other bone marrow suppressing therapies must be carefully managed with respect to dosage and timing in order to minimize additive effects.
+
+ Carboplatin has limited nephrotoxic potential, but concomitant treatment with aminoglycosides has resulted in increased renal and/or audiologic toxicity, and caution must be exercised when a patient receives both drugs. Clinically significant hearing loss has been reported to occur in pediatric patients when carboplatin was administered at higher than recommended doses in combination with other ototoxic agents.
+
+ Carboplatin can induce emesis, which can be more severe in patients previously receiving emetogenic therapy. The incidence and intensity of emesis have been reduced by using premedication with antiemetics. Although no conclusive efficacy data exist with the following schedules of carboplatin, lengthening the duration of single intravenous administration to 24 hours or dividing the total dose over five consecutive daily pulse doses has resulted in reduced emesis.
+
+ Although peripheral neurotoxicity is infrequent, its incidence is increased in patients older than 65 years and in patients previously treated with cisplatin. Pre-existing cisplatin-induced neurotoxicity does not worsen in about 70% of the patients receiving carboplatin as secondary treatment.
+
+ Loss of vision, which can be complete for light and colors, has been reported after the use of carboplatin with doses higher than those recommended in the package insert. Vision appears to recover totally or to a significant extent within weeks of stopping these high doses.
+
+ As in the case of other platinum-coordination compounds, allergic reactions to carboplatin have been reported. These may occur within minutes of administration and should be managed with appropriate supportive therapy. There is increased risk of allergic reactions including anaphylaxis in patients previously exposed to platinum therapy (see   CONTRAINDICATIONS    and   ADVERSE REACTIONS, Allergic Reactions    ).
+
+ High dosages of carboplatin (more than 4 times the recommended dose) have resulted in severe abnormalities of liver function tests.
+
+ Carboplatin injection may cause fetal harm when administered to a pregnant woman. Carboplatin has been shown to be embryotoxic and teratogenic in rats. There are no adequate and well-controlled studies in pregnant women. If this drug is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus. Women of childbearing potential should be advised to avoid becoming pregnant.
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="OCTREOSCAN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  The following adverse effects were observed in clinical trials at a frequency of less than 1% of 538 patients: dizziness, fever, flush, headache, hypotension, changes in liver enzymes, joint pain, nausea, sweating, and weakness. These adverse effects were transient. Also in clinical trials, there was one reported case of bradycardia and one case of decreased hematocrit and hemoglobin.
+
+
+
+ Pentetreotide is derived from octreotide which is used as a therapeutic agent to control symptoms from certain tumors. The usual dose for indium In-111 pentetreotide is approximately 5 to 20 times less than for octreotide and is subtherapeutic. The following adverse reactions have been associated with octreotide in 3% to 10% of patients: nausea, injection site pain, diarrhea, abdominal pain/discomfort, loose stools, and vomiting. Hypertension and hyper- and hypoglycemia have also been reported with the use of octreotide.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+    *   Therapy with octreotide acetate can produce severe hypoglycemia in patients with insulinomas. Since pentetreotide is an analog of octreotide, an intravenous line is recommended in any patient suspected of having an insulinoma. An intravenous solution containing glucose should be administered just before and during administration of indium In-111 pentetreotide.  
+ *   The contents of the two vials supplied with the kit are intended only for use in the preparation of indium In-111 pentetreotide and are NOT to be administered separately to the patient.  
+ *   Since indium In-111 pentetreotide is eliminated primarily by renal excretion, use in patients with impaired renal function should be carefully considered.  
+ *   To help reduce the radiation dose to the thyroid, kidneys, bladder, and other target organs, patients should be well hydrated before the administration of indium In-111 pentetreotide. They should increase fluid intake and void frequently for one day after administration of this drug. In addition, it is recommended that patients be given a mild laxative (e.g., bisacodyl or lactulose) before and after administration of indium In-111 pentetreotide ( see     DOSAGE AND ADMINISTRATION    section).  
+ *   Indium In-111 pentetreotide should be tested for labeling yield of radioactivity prior to administration. The product must be used within six hours of preparation.  
+ *   Components of the kit are sterile and nonpyrogenic. To maintain sterility, it is essential that directions are followed carefully. Aseptic technique must be used during the preparation and administration of indium In-111 pentetreotide.  
+ *   Octreotide acetate and the natural somatostatin hormone may be associated with cholelithiasis, presumably by altering fat absorption and possibly by decreasing motility of the gallbladder. A single dose of indium In-111 pentetreotide is not expected to cause cholelithiasis.  
+ *   As with any other radioactive material, appropriate shielding should be used to avoid unnecessary radiation exposure to the patient, occupational workers, and other persons.  
+ *   Radiopharmaceuticals should be used only by physicians who are qualified by specific training in the safe use and handling of radionuclides.  
+       Carcinogenesis, Mutagenesis, Impairment of Fertility
+ 
+
+  Studies have not been performed with indium In-111 pentetreotide to evaluate carcinogenic potential or effects on fertility. Pentetreotide was evaluated for mutagenic potential in an in vitro mouse lymphoma forward mutation assay and an in vivo mouse micronucleus assay; evidence of mutagenicity was not found.
+
+
+
+    Pregnancy Category C
+
+
+
+  Animal reproduction studies have not been conducted with indium In-111 pentetreotide. It is not known whether indium In-111 pentetreotide can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Therefore, indium In-111 pentetreotide should not be administered to a pregnant woman unless the potential benefit justifies the potential risk to the fetus.
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when indium In-111 pentetreotide is administered to a nursing woman.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  DO NOT ADMINISTER IN TOTAL PARENTERAL NUTRITION (TPN) ADMIXTURES OR INJECT INTO TPN INTRAVENOUS ADMINISTRATION LINES; IN THESE SOLUTIONS, A COMPLEX GLYCOSYL OCTREOTIDE CONJUGATE MAY FORM.
+
+
+
+ The sensitivity of scintigraphy with indium In-111 pentetreotide may be reduced in patients concurrently receiving therapeutic doses of octreotide acetate. Consideration should be given to temporarily suspending octreotide acetate therapy before the administration of indium In-111 pentetreotide and to monitoring the patient for any signs of withdrawal.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="2298" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="2674" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="3099" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="3332" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

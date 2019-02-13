@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ERTACZO">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions observed in clinical trials (incidence &gt;2%) were contact dermatitis, dry skin, burning skin, application site skin tenderness. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice.
+
+
+
+ In clinical trials, cutaneous adverse events occurred in 7 of 297 (2%) subjects (2 of them severe) receiving ERTACZO cream, 2%, and in 7 of 291 (2%) subjects (2 of them severe) receiving vehicle. These reported cutaneous adverse events included contact dermatitis, dry skin, burning skin, and application site skin tenderness.
+
+
+
+ In a dermal sensitization trial, 8 of 202 evaluable subjects tested with ERTACZO cream, 2%, and 4 of 202 evaluable subjects tested with vehicle exhibited a slight erythematous reaction in the challenge phase. There was no evidence of cumulative irritation or contact sensitization in a repeated insult patch test involving 202 healthy volunteers.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post-approval use of ERTACZO cream, 2%. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ In postmarketing surveillance for ERTACZO cream, 2%, the following were reported:
+
+
+
+ Cutaneous adverse events: erythema, pruritus, vesiculation, desquamation, and hyperpigmentation.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   5.1 Local Adverse Reactions
+
+
+
+  If irritation develops, treatment should be discontinued and appropriate therapy instituted.
+
+
+
+ Physicians should exercise caution when prescribing ERTACZO cream, 2%, to patients known to be sensitive to azole antifungals since cross-reactivity may occur.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="348" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="27" name="heading" section="S2" start="37" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="378" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="1365" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

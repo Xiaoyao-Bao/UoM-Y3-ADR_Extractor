@@ -1,0 +1,22 @@
+
+
+    BOXED WARNING: WARNING: GASTROINTESTINAL PERFORATIONS, SURGERY AND WOUND HEALING COMPLICATIONS, and HEMORRHAGE
+
+    WARNING: GASTROINTESTINAL PERFORATIONS, SURGERY AND WOUND HEALING COMPLICATIONS, and HEMORRHAGE  
+
+  EXCERPT:   WARNING: GASTROINTESTINAL PERFORATIONS, SURGERY AND WOUND HEALING COMPLICATIONS, and HEMORRHAGE
+
+   See full prescribing information for complete boxed warning.  
+
+ *  Gastrointestinal Perforations: Discontinue for gastrointestinal perforation. (5.1) 
+ *  Surgery and Wound Healing Complications: Discontinue in patients who develop wound healing complications that require medical intervention. Withhold for at least 28 days prior to elective surgery. Do not administer Avastin for at least 28 days after surgery and until the wound is fully healed. (5.2) 
+ *  Hemorrhage: Severe or fatal hemorrhages have occurred. Do not administer for recent hemoptysis. Discontinue for Grade 3-4 hemorrhage (5.3) 
+    
+ 
+
+     Gastrointestinal≠B-OSE_Labeled_AE   Perforations≠I-OSE_Labeled_AE : The incidence of  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE , some  fatal≠B-NonOSE_AE , in patients receiving Avastin ranges from 0.3% to 3%. Discontinue Avastin in patients who develop  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE    [see   Warnings and Precautions (5.1)  ]  .  
+
+     Surgery and  Wound≠B-OSE_Labeled_AE   Healing≠I-OSE_Labeled_AE   Complications≠I-OSE_Labeled_AE : The incidence of  wound≠B-OSE_Labeled_AE   healing≠I-OSE_Labeled_AE  and surgical  complications≠I-OSE_Labeled_AE , including serious and  fatal≠B-NonOSE_AE  complications, is increased in patients receiving Avastin. Discontinue Avastin in patients who develop  wound≠B-NonOSE_AE   healing≠I-NonOSE_AE   complications≠I-NonOSE_AE  that require medical intervention. Withhold Avastin at least 28 days prior to elective surgery. Do not administer Avastin for at least 28 days after surgery, and until the wound is fully healed   [see   Warnings and Precautions (5.2)  ]  .  
+
+      Hemorrhages≠B-NonOSE_AE : Severe or  fatal≠B-NonOSE_AE   hemorrhage≠B-OSE_Labeled_AE , including  hemoptysis≠B-OSE_Labeled_AE ,  gastrointestinal≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE ,  hematemesis≠B-OSE_Labeled_AE ,  CNS≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  epistaxis≠B-OSE_Labeled_AE , and  vaginal≠B-OSE_Labeled_AE   bleeding≠I-OSE_Labeled_AE  occur up to 5-fold more frequently in patients receiving Avastin. Do not administer Avastin to patients with a recent history of  hemoptysis≠B-Not_AE_Candidate . Discontinue in patients who develop Grade 3-4  hemorrhage≠B-NonOSE_AE    [see   Warnings and Precautions (5.3)  ].    
+

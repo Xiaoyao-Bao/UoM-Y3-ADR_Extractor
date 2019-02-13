@@ -1,0 +1,8 @@
+
+
+    BOXED WARNING: 
+
+  Abrupt discontinuation of intrathecal baclofen, regardless of the cause, has resulted in sequelae that include high fever, altered mental status, exaggerated rebound spasticity, and muscle rigidity, that in rare cases has advanced to rhabdomyolysis, multiple organ-system failure and death. 
+
+ Prevention of abrupt discontinuation of intrathecal baclofen requires careful attention to programming and monitoring of the infusion system, refill scheduling and procedures, and pump alarms. Patients and caregivers should be advised of the importance of keeping scheduled refill visits and should be educated on the early symptoms of baclofen withdrawal. Special attention should be given to patients at apparent risk (e.g. spinal cord injuries at T-6 or above, communication difficulties, history of withdrawal symptoms from oral or intrathecal baclofen). Consult the technical manual of the implantable infusion system for additional postimplant clinician and patient information (see   WARNINGS  ).
+

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="FOSRENOL">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *  Gastrointestinal Adverse Effects [see  Warnings and Precautions (5.1)  ]  
+    Overall, the safety profile of FOSRENOL has been studied in over 5200 subjects in completed clinical trials. The most common adverse reactions for FOSRENOL were gastrointestinal events, such as nausea, vomiting, and abdominal pain and they generally abated over time with continued dosing.
+ 
+
+    EXCERPT:    *  In controlled trials, the most common adverse reactions that were more frequent (&gt;= 5% difference vs. placebo) in FOSRENOL were nausea, vomiting and abdominal pain. (  6.1  ) 
+ *  The following adverse reactions have been identified during post-approval use of FOSRENOL: constipation, dyspepsia, allergic skin reactions, and tooth injury while chewing the tablet. (  6.2  ) 
+      To report SUSPECTED ADVERSE REACTIONS, contact Shire US Inc. at 1-800-828-2088 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In double-blind, placebo-controlled studies where a total of 180 and 95 ESRD patients were randomized to FOSRENOL chewable tablet and placebo, respectively, for 4-6 weeks of treatment, the most common reactions that were more frequent (&gt;=5% difference) in the FOSRENOL group were nausea, vomiting, and abdominal pain (Table 1).
+
+
+
+ Table 1. Adverse Reactionsexpressed as the event rate for each term That Were More Common on FOSRENOL in Placebo-Controlled, Double-Blind Studies With Treatment Periods of 4-6 Weeks 
+                                             FOSRENOL%(N=180)                    Placebo%(N=95)             
+  
+ Nausea                                             11                                  5                   
+ Vomiting                                           9                                   4                   
+ Abdominal pain                                     5                                   0                   
+         In an open-label long-term 2 year extension study in 93 patients who had transitioned from other studies, resulting in a total of up to 6 years treatment, mean baseline values and changes in transaminases were similar to those observed in the earlier comparative studies, with little change during treatment.
+ 
+
+ The safety of FOSRENOL was studied in two long-term, open-labeled clinical trials, which included 1215 patients treated with FOSRENOL and 944 with alternative therapy. Fourteen percent (14%) of FOSRENOL treated patients discontinued treatment due to adverse events. Gastrointestinal adverse reactions, such as nausea, diarrhea and vomiting were the most common types of event leading to discontinuation.
+
+
+
+ In pooled active comparator controlled clinical trials, hypocalcemia was noted with an incidence of approximately 5% in both lanthanum and active comparator groups. A nonclinical study and a phase 1 study have shown reduced absorption of calcium in the intestine with lanthanum carbonate treatment.
+
+
+
+ In a crossover study in 72 healthy individuals comparing Fosrenol chewable tablets to Fosrenol oral powder, gastrointestinal adverse reactions such as nausea, diarrhea and vomiting were more common for the oral powder formulation (18%) than for the chewable tablets (7%).
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post-approval use of FOSRENOL. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: constipation, intestinal perforation, intestinal obstruction, ileus, subileus, dyspepsia, allergic skin reactions, hypophosphatemia, and tooth injury while chewing the tablet.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Serious cases of gastrointestinal obstruction, ileus, subileus, gastrointestinal perforation, and fecal impaction. Risks include altered gastrointestinal anatomy, hypomotility disorders, and concomitant medications. Advise patients to chew or crush the tablet completely. (  5.1  ) 
+ *  FOSRENOL has radio-opaque properties and therefore may give the appearance typical of an imaging agent during abdominal X-ray procedures. (  5.2  ) 
+    
+ 
+
+   5.1 Gastrointestinal Adverse Effects
+
+
+
+   Serious cases of gastrointestinal obstruction, ileus, subileus, gastrointestinal perforation and fecal impaction have been reported in patients taking lanthanum, some requiring surgery or hospitalization. Consider discontinuing FOSRENOL in patients without another explanation for severe gastrointestinal symptoms.  
+
+
+
+  Risk factors for gastrointestinal obstruction and gastrointestinal perforation identified from post-marketing reports in patients taking FOSRENOL Chewable Tablets include altered gastrointestinal anatomy (e.g., diverticular disease, peritonitis, history of gastrointestinal surgery, gastrointestinal cancer, gastrointestinal ulceration), hypomotility disorders (e.g., constipation, ileus, subileus, diabetic gastroparesis), and the use of medications known to potentiate these effects. Some cases were reported in patients with no history of gastrointestinal disease.  
+
+
+
+  Patients with acute peptic ulcer, ulcerative colitis, Crohn's disease or bowel obstruction were not included in FOSRENOL clinical studies [see  Contraindications (4)  ].    
+
+
+
+  Advise patients who are prescribed FOSRENOL Chewable Tablets to chew the tablet completely and not to swallow them whole. Serious gastrointestinal complications have been reported in association with unchewed or incompletely chewed tablets [see  Adverse Reactions (6.2)  ]  .  
+
+
+
+    5.2 Diagnostic Tests
+
+
+
+  FOSRENOL has radio-opaque properties and therefore may give the appearance typical of an imaging agent during abdominal X-ray procedures.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="456" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="36" name="heading" section="S2" start="499" />
+    <IgnoredRegion len="531" name="excerpt" section="S1" start="508" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="1043" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="1903" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="3606" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

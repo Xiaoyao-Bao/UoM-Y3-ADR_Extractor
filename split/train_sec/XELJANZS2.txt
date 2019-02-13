@@ -1,0 +1,53 @@
+
+
+    BOXED WARNING: WARNING: SERIOUS INFECTIONS AND MALIGNANCY
+
+    WARNING: SERIOUS INFECTIONS AND MALIGNANCY  
+
+  EXCERPT:   WARNING: SERIOUS INFECTIONS AND MALIGNANCY
+
+
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+ *  Serious infections leading to hospitalization or death, including tuberculosis and bacterial, invasive fungal, viral, and other opportunistic infections, have occurred in patients receiving XELJANZ. (5.1) 
+ *  If a serious infection develops, interrupt XELJANZ until the infection is controlled. (5.1) 
+ *  Prior to starting XELJANZ, perform a test for latent tuberculosis; if it is positive, start treatment for tuberculosis prior to starting XELJANZ. (5.1) 
+ *  Monitor all patients for active tuberculosis during treatment, even if the initial latent tuberculosis test is negative. (5.1) 
+ *  Lymphoma and other malignancies have been observed in patients treated with XELJANZ. Epstein Barr Virus-associated post-transplant lymphoproliferative disorder has been observed at an increased rate in renal transplant patients treated with XELJANZ and concomitant immunosuppressive medications. (5.2) 
+    
+ 
+
+    SERIOUS INFECTIONS  
+
+
+
+   Patients treated with XELJANZ are at increased risk for developing serious  infections≠B-OSE_Labeled_AE  that may lead to hospitalization or  death≠B-NonOSE_AE    [see   Warnings and Precautions (5.1)   and   Adverse Reactions (6.1)  ]  . Most patients who developed these  infections≠B-NonOSE_AE  were taking concomitant  immunosuppressants≠B-NonOSE_AE  such as methotrexate or corticosteroids.  
+
+
+
+   If a serious  infection≠B-NonOSE_AE  develops, interrupt XELJANZ until the  infection≠B-NonOSE_AE  is controlled.   
+
+
+
+   Reported  infections≠B-OSE_Labeled_AE  include:   
+
+
+
+ *   Active≠B-OSE_Labeled_AE   tuberculosis≠I-OSE_Labeled_AE , which may present with  pulmonary≠B-OSE_Labeled_AE  or extrapulmonary  disease≠I-OSE_Labeled_AE . Patients should be tested for  latent≠B-NonOSE_AE   tuberculosis≠I-NonOSE_AE  before XELJANZ use and during therapy. Treatment for  latent≠B-Not_AE_Candidate   infection≠I-Not_AE_Candidate  should be initiated prior to XELJANZ use. 
+ *   Invasive≠B-OSE_Labeled_AE   fungal≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE , including  cryptococcosis≠B-OSE_Labeled_AE  and  pneumocystosis≠B-OSE_Labeled_AE . Patients with  invasive≠B-OSE_Labeled_AE   fungal≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  may present with disseminated, rather than localized, disease. 
+ *   Bacterial≠B-OSE_Labeled_AE , viral, and other  infections≠I-OSE_Labeled_AE  due to  opportunistic≠I-OSE_Labeled_AE  pathogens. 
+      The risks and benefits of treatment with XELJANZ should be carefully considered prior to initiating therapy in patients with chronic or recurrent  infection≠B-Not_AE_Candidate .   
+ 
+
+   Patients should be closely monitored for the development of signs and symptoms of  infection≠B-NonOSE_AE  during and after treatment with XELJANZ, including the possible development of  tuberculosis≠B-NonOSE_AE  in patients who  tested≠B-Not_AE_Candidate   negative≠I-Not_AE_Candidate   for≠I-Not_AE_Candidate   latent≠I-Not_AE_Candidate   tuberculosis≠I-Not_AE_Candidate   infection≠I-Not_AE_Candidate  prior to initiating therapy   [see   Warnings and Precautions (5.1)  ]  .  
+
+
+
+     MALIGNANCIES  
+
+
+
+    Lymphoma≠B-OSE_Labeled_AE  and other  malignancies≠B-OSE_Labeled_AE  have been observed in patients treated with XELJANZ.  Epstein≠B-NonOSE_AE   Barr≠I-NonOSE_AE   Virus≠I-NonOSE_AE  -≠I-NonOSE_AE  associated≠I-NonOSE_AE   post≠I-NonOSE_AE  -≠I-NonOSE_AE  transplant≠I-NonOSE_AE   lymphoproliferative≠I-NonOSE_AE   disorder≠I-NonOSE_AE  has been observed at an increased rate in  renal≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients treated with XELJANZ and concomitant immunosuppressive medications   [see   Warnings and Precautions (5.2)  ]  .  

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PRED_G">
+  <Text>
+    <Section id="S1" name="adverse reactions">      ADVERSE REACTIONS  
+
+  Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available.
+
+
+
+ Reactions reported with  PRED-G      (r)    include eye burning, eye stinging, eye irritation, ocular hyperemia, eye pain, eye discharge, lacrimation increased, eye edema, visual impairment, blurry vision, foreign body sensation in eyes, and dysgeusia. Hypersensitivity including signs and symptoms related to ocular allergy (e.g. conjunctivitis), angioedema (e.g. tongue edema) and allergic skin reactions (e.g. rash and contact allergy) has also been reported. Superficial punctate keratitis has been reported occasionally with onset occurring typically after several days of use.
+
+
+
+ Reactions occurring most often from the presence of the anti-infective ingredient are allergic sensitizations. The reactions due to the steroid component in decreasing order of frequency are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing.
+
+
+
+   Secondary Infection  
+
+
+
+ The development of secondary ocular infection has occurred after use of combinations containing steroids and antimicrobials. Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion should be considered in any persistent corneal ulceration where steroid treatment has been used (see  WARNINGS  ).
+
+
+
+ Secondary bacterial ocular infection following suppression of host responses also occurs.
+</Section>
+    <Section id="S2" name="precautions">     PRECAUTIONS  
+
+
+
+    General  
+
+
+
+  Ocular irritation and punctate keratitis have been associated with the use of PRED-G    (r)  suspension. The initial prescription and renewal of the medication order beyond 20 milliliters should be made by a physician only after examination of the patient's intraocular pressure, examination of the patient with the aid of magnification such as slit lamp biomicroscopy and, where appropriate, fluorescein staining.
+
+
+
+ As fungal infections of the cornea are particularly prone to develop coincidentally with long-term corticosteroid applications, fungal invasion should be suspected in any persistent corneal ulceration where a corticosteroid has been used or is in use. Fungal cultures should be taken when appropriate.
+
+
+
+     Information for Patients  
+
+
+
+  If inflammation or pain persists longer than 48 hours or becomes aggravated, the patient should be advised to discontinue use of the medication and consult a physician.
+
+
+
+ This product is sterile when packaged. To prevent contamination, care should be taken to avoid touching the bottle tip to eyelids or to any other surface. The use of this bottle by more than one person may spread infection. Store at 15 degrees -25 degrees C (59 degrees -77 degrees F). Protect from freezing and from heat of 40 degrees C (104 degrees F) and above. Keep out of the reach of children. Shake well before using.
+
+
+
+     Carcinogenesis,   M   utagenesis,   I   mpairment of   Fertility  
+
+
+
+  There are no published carcinogenicity or impairment of fertility studies on gentamicin. Aminoglycoside antibiotics have been found to be non-mutagenic.
+
+
+
+ There are no published mutagenicity or impairment of fertility studies on prednisolone. Prednisolone has been reported to be non-carcinogenic.
+
+
+
+     Pregnancy   
+
+
+
+  Gentamicin has been shown to depress body weight, kidney weight, and median glomerular counts in newborn rats when administered systemically to pregnant rats in daily doses approximately 500 times the maximum recommended ophthalmic human dose. There are no adequate and well-controlled studies in pregnant women. Gentamicin should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+ Prednisolone has been shown to be teratogenic in mice when given in doses 1-10 times the human ocular dose. Dexamethasone, hydrocortisone and prednisolone were applied to both eyes of pregnant mice five times per day on days 10 through 13 of gestation. A significant increase in the incidence of cleft palate was observed in the fetuses of the treated mice. There are no adequate well-controlled studies in pregnant women. PRED-G    (r)  suspension should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+     Nursing Mothers  
+
+
+
+  It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk. Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause untoward effects. Because of the potential for serious adverse reactions in nursing infants from PRED-G    (r)  suspension, a decision should be made whether to discontinue nursing while the drug is being administered or to discontinue the medication.
+
+
+
+     Pediatric Use  
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+
+
+
+     Geriatric Use  
+
+
+
+  No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+</Section>
+    <Section id="S3" name="warnings">     WARNINGS  
+
+
+
+  Prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision, and in posterior subcapsular cataract formation.
+
+
+
+ Prolonged use of corticosteroids may suppress the host response and thus increase the hazard of secondary ocular infections.
+
+
+
+ Various ocular diseases and long-term use of topical corticosteroids have been known to cause corneal and scleral thinning. Use of topical corticosteroids in the presence of thin corneal or scleral tissue may lead to perforation.
+
+
+
+ Acute purulent infections of the eye may be masked or enhanced by the presence of corticosteroid medication.
+
+
+
+ If this product is used for 10 days or longer, intraocular pressure should be routinely monitored even though it may be difficult in children and uncooperative patients. Steroids should be used with caution in the presence of glaucoma. Intraocular pressure should be checked frequently.
+
+
+
+ The use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation.
+
+
+
+ Use of ocular steroids may prolong the course and may exacerbate the severity of many viral infections of the eye (including herpes simplex). Employment of a corticosteroid medication in the treatment of patients with a history of herpes simplex requires great caution; frequent slit lamp microscopy is recommended.
+
+
+
+  PRED-G    (r)  sterile ophthalmic suspension is not for injection. It should never be injected subconjunctivally, nor should it be directly introduced into the anterior chamber of the eye.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="21" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="10" name="heading" section="S2" start="25" />
+    <IgnoredRegion len="27" name="heading" section="S2" start="769" />
+    <IgnoredRegion len="67" name="heading" section="S2" start="1407" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="1787" />
+    <IgnoredRegion len="18" name="heading" section="S2" start="2800" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="3396" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="3499" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,18 @@
+
+
+    BOXED WARNING: WARNING: XELODA-WARFARIN INTERACTION
+
+    WARNING: XELODA-WARFARIN INTERACTION  
+
+    XELODA Warfarin Interaction: Patients receiving concomitant capecitabine and oral coumarin-derivative anticoagulant therapy should have their anticoagulant response (INR or prothrombin time) monitored frequently in order to adjust the anticoagulant dose accordingly. A clinically important XELODA-Warfarin drug interaction was demonstrated in a clinical pharmacology trial   [see   Warnings and Precautions (5.2)   and   Drug Interactions (7.1)  ]  .  Altered≠B-NonOSE_AE   coagulation≠I-NonOSE_AE   parameters≠I-NonOSE_AE  and/or  bleeding≠B-NonOSE_AE , including  death≠B-NonOSE_AE , have been reported in patients taking XELODA concomitantly with coumarin-derivative anticoagulants such as warfarin and phenprocoumon. Postmarketing reports have shown clinically significant  increases≠B-NonOSE_AE   in≠I-NonOSE_AE   prothrombin≠I-NonOSE_AE   time≠I-NonOSE_AE  (PT) and INR in patients who were stabilized on anticoagulants at the time XELODA was introduced. These events occurred within several days and up to several months after initiating XELODA therapy and, in a few cases, within 1 month after stopping XELODA. These events occurred in patients with and without  liver≠B-Not_AE_Candidate   metastases≠I-Not_AE_Candidate . Age greater than 60 and a diagnosis of  cancer≠B-Not_AE_Candidate  independently predispose patients to an increased risk of  coagulopathy≠B-NonOSE_AE .  
+
+   EXCERPT:     WARNING: XELODA-WARFARIN INTERACTION  
+
+   See full prescribing information for complete boxed warning.  
+
+   Patients receiving concomitant XELODA and oral coumarin-derivative anticoagulants such as warfarin and phenprocoumon should have their anticoagulant response (INR or prothrombin time) monitored frequently in order to adjust the anticoagulant dose accordingly. Altered coagulation parameters and/or bleeding, including death, have been reported during concomitant use.  
+
+ *  Occurrence: Within several days and up to several months after initiating XELODA therapy; may also be seen within 1 month after stopping XELODA 
+ *  Predisposing factors: age>60 and diagnosis of cancer 
+    
+

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="REGRANEX">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Erythematous rashes occurred in 2% of patients treated with REGRANEX Gel (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS contact FDA at 1-800-FDA-1088 or www.fda.gov/medwatch, or Ortho-McNeil at 1-888-734-7263 (1-888-REGRANEX).  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In a follow-up study from two randomized, controlled trials, an increased rate of cancer remote from the becaplermin treatment site was observed in subjects treated with REGRANEX Gel. [  see  Warnings and Precautions (5.1)    ]
+
+
+
+ In clinical trials, erythematous rashes occurred in 2% of patients treated with REGRANEX Gel (and good ulcer care) or placebo (and good ulcer care), and none in patients receiving good ulcer care alone. Patients treated with REGRANEX Gel did not develop neutralizing antibodies against becaplermin.
+
+
+
+   6.2 Postmarketing Experience
+
+  An increased rate of mortality secondary to malignancy was observed in patients treated with 3 or more tubes of REGRANEX Gel in a postmarketing retrospective cohort study. [  see  Boxed Warning  and  Warnings and Precautions (5.1)    ]
+
+
+
+ Burning sensation at the site of application and erythema have been reported during post-approval use of REGRANEX Gel. Because post approval adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to the drug.
+</Section>
+    <Section id="S2" name="boxed warnings">
+
+    BOXED WARNING: WARNING: INCREASED RATE OF MORTALITY SECONDARY TO MALIGNANCY
+
+    WARNING: INCREASED RATE OF MORTALITY SECONDARY TO MALIGNANCY  
+
+    An increased rate of mortality secondary to malignancy was observed in patients treated with 3 or more tubes of REGRANEX Gel in a postmarketing retrospective cohort study. REGRANEX Gel should only be used when the benefits can be expected to outweigh the risks. REGRANEX Gel should be used with caution in patients with known malignancy. [  see   Warnings and Precautions (5.1)    ]  
+
+
+
+   EXCERPT:   
+
+
+
+   WARNING: INCREASED RATE OF MORTALITY SECONDARY TO MALIGNANCY  
+
+
+
+   An increased rate of mortality secondary to malignancy was observed in patients treated with 3 or more tubes of REGRANEX Gel in a postmarketing retrospective cohort study. REGRANEX Gel should only be used when the benefits can be expected to outweigh the risks. REGRANEX Gel should be used with caution in patients with known malignancy. (  5.1  )  
+
+
+
+ 
+</Section>
+    <Section id="S3" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Malignancies distant from the site of application have been reported in both a clinical study and in postmarketing use. REGRANEX Gel should be used with caution in patients with a known malignancy. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 Cancer and Cancer Mortality
+
+
+
+  REGRANEX Gel contains becaplermin, a recombinant human platelet-derived growth factor, which promotes cellular proliferation and angiogenesis. [ see  Clinical Pharmacology (12.1)    ] The benefits and risks of becaplermin treatment should be carefully evaluated before prescribing. Becaplermin should be used with caution in patients with a known malignancy.
+
+
+
+ Malignancies distant from the site of application have occurred in becaplermin users in both a clinical study and postmarketing use, and an increased rate of death from systemic malignancies was seen in patients who have received 3 or more tubes of REGRANEX Gel.
+
+
+
+ In a follow-up study, 491 (75%) of 651 subjects from two randomized, controlled trials of becaplermin gel 0.01% were followed for a median of approximately 20 months to identify malignancies diagnosed after the end of the trials. Eight of 291 subjects (3%) from the becaplermin group and two of 200 subjects (1%) from the vehicle/standard of care group were diagnosed with cancers during the follow-up period, a relative risk of 2.7 (95% confidence interval 0.6-12.8). The types of cancers varied and all were remote from the treatment site.
+
+
+
+ In a retrospective study of a medical claims database, cancer rates and overall cancer mortality were compared between 1,622 patients who used REGRANEX Gel and 2,809 matched comparators. Estimates of the incidence rates reported below may be under-reported due to limited follow-up for each individual.
+
+
+
+ *  The incidence rate for all cancers was 10.2 per 1,000 person years for patients treated with REGRANEX Gel and 9.1 per 1,000 person years for the comparators. Adjusted for several possible confounders, the rate ratio was 1.2 (95% confidence interval 0.7-1.9). Types of cancers varied and were remote from the site of treatment. 
+ *  The incidence rate for mortality from all cancers was 1.6 per 1,000 person years for those who received REGRANEX Gel and 0.9 per 1,000 person years for the comparators. The adjusted rate ratio was 1.8 (95% confidence interval 0.7-4.9). 
+ *  The incidence rate for mortality from all cancers among patients who received 3 or more tubes of REGRANEX Gel was 3.9 per 1,000 person years and 0.9 per 1,000 person years in the comparators. The adjusted rate ratio for cancer mortality among those who received 3 or more tubes relative to those who received none was 5.2 (95% confidence interval 1.6-17.6). [ see  Boxed Warning   ] 
+       5.2 Application Site Reactions
+ 
+
+  If application site reactions occur, the possibility of sensitization or irritation caused by parabens or m-cresol should be considered. Consider interruption or discontinuation and further evaluation (e.g. patch testing) as dictated by clinical circumstances.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="252" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="224" name="excerpt" section="S3" start="35" />
+    <IgnoredRegion len="64" name="heading" section="S2" start="85" />
+    <IgnoredRegion len="31" name="heading" section="S3" start="266" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="282" />
+    <IgnoredRegion len="442" name="excerpt" section="S2" start="545" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="1121" />
+    <IgnoredRegion len="30" name="heading" section="S3" start="2753" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

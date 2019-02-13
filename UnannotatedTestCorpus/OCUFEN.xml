@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="OCUFEN">
+  <Text>
+    <Section id="S1" name="adverse reactions">      ADVERSE REACTIONS  
+
+  Transient burning and stinging upon instillation and other minor symptoms of ocular irritation have been reported with the use of  OCUFEN      (r)    ophthalmic solution. Other adverse reactions reported with the use of  OCUFEN      (r)     ophthalmic solution include: fibrosis, hyphema, miosis, mydriasis, and ocular hyperemia.
+
+
+
+ Increased bleeding tendency of ocular tissues in conjunction with ocular surgery has also been reported (see Warnings).
+</Section>
+    <Section id="S2" name="precautions">     PRECAUTIONS  
+
+
+
+    General  
+
+
+
+  Topical non-steroidal anti-inflammatory drugs (NSAIDs) may slow or delay healing. Topical corticosteroids are
+
+
+
+ also known to slow or delay healing. Concomitant use of topical NSAIDs and topical steroids may increase the
+
+
+
+ potential for healing problems.
+
+
+
+ It is recommended that OCUFEN     (r)     ophthalmic solution be used with caution in surgical patients with known bleeding tendencies or who are receiving other medications which may prolong bleeding time.
+
+
+
+     Information for Patients  
+
+
+
+  Patients should be instructed to avoid allowing the tip of the bottle to contact the eye or surrounding structures because this could cause the tip to become contaminated by common bacteria known to cause ocular infections. Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions.
+
+
+
+ To avoid the potential for cross-contamination, the patient should be advised to use one bottle for each eye with bilateral ocular surgery. The use of the same bottle of eye drops for both eyes is not recommended with ocular surgery.
+
+
+
+     Drug   I   nteractions  
+
+
+
+  Interaction of OCUFEN     (r)    ophthalmic solution with other topical ophthalmic medications has not been fully investigated.
+
+
+
+ Although clinical studies with acetylcholine chloride and animal studies with acetylcholine chloride or carbachol revealed no interference, and there is no known pharmacological basis for an interaction, there have been reports that acetylcholine chloride and carbachol have been ineffective when used in patients treated with OCUFEN     (r)         ophthalmic solution.
+
+
+
+     Carcinogenesis, Mutagenesis, Impairment of   F   ertility  
+
+
+
+  Long-term studies in mice and/or rats have shown no evidence of carcinogenicity with flurbiprofen. Long-term mutagenicity studies in animals have not been performed.
+
+
+
+     Pregnancy  
+
+
+
+   Pregnancy   C   ategory C   
+
+
+
+ Flurbiprofen has been shown to be embryocidal, delay parturition, prolong gestation, reduce weight, and/or slightly retard growth of fetuses when given to rats in daily oral doses of 0.4 mg/kg (approximately 300 times the human daily topical dose) and above.
+
+
+
+ There are no adequate and well-controlled studies in pregnant women. OCUFEN     (r)    ophthalmic solution should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+     Nursing   M   others  
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from flurbiprofen sodium, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+
+
+     Pediatric   U   se  
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+
+
+
+     Geriatric   U   se  
+
+
+
+  No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+</Section>
+    <Section id="S3" name="warnings">     WARNINGS  
+
+
+
+  With some non-steroidal anti-inflammatory drugs, there exists the potential for increased bleeding time due to interference with thrombocyte aggregation. There have been reports that OCUFEN     (r)    ophthalmic solution may cause increased bleeding of ocular tissues (including hyphemas) in conjunction with ocular surgery.
+
+
+
+ There is the potential for cross-sensitivity to acetylsalicylic acid and other non-steroidal anti-inflammatory drugs. Therefore, caution should be used when treating individuals who have previously exhibited sensitivities to these drugs.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="21" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="10" name="heading" section="S2" start="25" />
+    <IgnoredRegion len="27" name="heading" section="S2" start="518" />
+    <IgnoredRegion len="25" name="heading" section="S2" start="1122" />
+    <IgnoredRegion len="60" name="heading" section="S2" start="1663" />
+    <IgnoredRegion len="12" name="heading" section="S2" start="1902" />
+    <IgnoredRegion len="23" name="heading" section="S2" start="2436" />
+    <IgnoredRegion len="21" name="heading" section="S2" start="2830" />
+    <IgnoredRegion len="21" name="heading" section="S2" start="2938" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

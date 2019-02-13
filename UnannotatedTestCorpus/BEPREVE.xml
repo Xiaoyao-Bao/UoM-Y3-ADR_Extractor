@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="BEPREVE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:    The most common adverse reaction occurring in approximately 25% of patients was a mild taste following instillation. Other adverse reactions which occurred in 2-5% of subjects were eye irritation, headache, and nasopharyngitis. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.   
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ The most common reported adverse reaction occurring in approximately 25% of subjects was a mild taste following instillation. Other adverse reactions occurring in 2-5% of subjects were eye irritation, headache, and nasopharyngitis.
+
+
+
+   6.2 Post-Marketing Experience
+
+  Hypersensitivity reactions have been reported rarely during the post-marketing use of BEPREVE. Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The hypersensitivity reactions may include itching, body rash, and swelling of lips, tongue and/or throat.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    Contamination of Solution: Do not touch the dropper tip to any surface. Keep bottle tightly closed when not in use. (  5.1  ) 
+ *    Contact Lens Wear: BEPREVE should not be used to treat contact lens-related irritation. (  5.2  ) 
+    
+ 
+
+   5.1 Contamination of Tip and Solution
+
+
+
+  To minimize contaminating the dropper tip and solution, advise the patient not to touch the eyelids or surrounding areas with the dropper tip of the bottle and to keep the bottle tightly closed when not in use.
+
+
+
+    5.2 Contact Lens Wear
+
+
+
+  BEPREVE should not be used to treat contact lens-related irritation.
+
+
+
+ BEPREVE should not be instilled while wearing contact lenses. Patient should remove contact lenses prior to instillation of BEPREVE, because benzalkonium chloride may be absorbed by soft contact lenses. Lenses may be reinserted after 10 minutes following administration of BEPREVE.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="451" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="254" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="37" name="heading" section="S2" start="297" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="481" />
+    <IgnoredRegion len="21" name="heading" section="S2" start="558" />
+    <IgnoredRegion len="29" name="heading" section="S1" start="1030" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

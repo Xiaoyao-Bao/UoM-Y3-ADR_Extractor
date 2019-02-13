@@ -1,0 +1,92 @@
+     5        WARNINGS AND PRECAUTIONS  
+
+
+
+   EXCERPT:    *   Hypocortisolism:  Decreases in circulating levels of cortisol may occur resulting in biochemical and/or clinical hypocortisolism. SIGNIFOR dose reduction or interruption and/or adding a low-dose short-term glucocorticoid may be necessary (  5.1  ) 
+ *   Hyperglycemia and Diabetes  (occurs with initiation): Intensive glucose monitoring is recommended and may require initiation or adjustment of anti-diabetic treatment per standard of care (  5.2  ) 
+ *   Bradycardia and QT Prolongation:  Use with caution in at-risk patients; ECG testing prior to dosing and on treatment (  5.3  ,  7.1  ) 
+ *   Liver Test Elevations:  Evaluate liver tests prior to and during treatment (  5.4  ) 
+ *   Cholelithiasis:  Perform gallbladder ultrasounds before starting treatment and at 6-month intervals (  5.5  ) 
+    
+ 
+
+   5.1       Hypocortisolism
+
+
+
+  Treatment with SIGNIFOR leads to  suppression≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   adrenocorticotropic≠I-Not_AE_Candidate   hormone≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  ACTH≠I-Not_AE_Candidate  )≠I-Not_AE_Candidate   secretion≠I-Not_AE_Candidate   in≠I-Not_AE_Candidate   Cushing≠I-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate .  Suppression≠B-Not_AE_Candidate   of≠I-Not_AE_Candidate   ACTH≠I-Not_AE_Candidate  may lead to a  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   circulating≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   cortisol≠I-OSE_Labeled_AE  and potentially  hypocortisolism≠B-OSE_Labeled_AE .
+
+
+
+ Monitor and instruct patients on the signs and symptoms associated with  hypocortisolism≠B-NonOSE_AE  (e.g.,  weakness≠B-NonOSE_AE ,  fatigue≠B-NonOSE_AE ,  anorexia≠B-NonOSE_AE ,  nausea≠B-NonOSE_AE ,  vomiting≠B-NonOSE_AE ,  hypotension≠B-NonOSE_AE ,  hyponatremia≠B-NonOSE_AE  or  hypoglycemia≠B-NonOSE_AE ). If  hypocortisolism≠B-NonOSE_AE  occurs, consider temporary dose reduction or interruption of treatment with SIGNIFOR, as well as temporary, exogenous glucocorticoid replacement therapy.
+
+
+
+    5.2        Hyperglycemia≠B-OSE_Labeled_AE  and Diabetes 
+
+
+
+   Elevations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   glucose≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE  have been seen in healthy volunteers and patients treated with SIGNIFOR. In the Phase III trial, the development of  pre≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  diabetes≠I-OSE_Labeled_AE  and  diabetes≠B-OSE_Labeled_AE  was observed  [see Clinical Studies (14)]  . In this trial, nearly all patients-including those with normal glucose status at baseline,  pre≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  diabetes≠I-Not_AE_Candidate , and  diabetes≠B-Not_AE_Candidate -developed  worsening≠B-OSE_Labeled_AE   glycemia≠I-OSE_Labeled_AE  in the first two weeks of treatment.  Cushing≠B-Not_AE_Candidate  '≠I-Not_AE_Candidate  s≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  patients with  poor≠B-Not_AE_Candidate   glycemic≠I-Not_AE_Candidate   control≠I-Not_AE_Candidate  (as defined by  HbA≠B-NonOSE_AE  1≠I-NonOSE_AE  c≠I-NonOSE_AE   values≠I-NonOSE_AE   >≠I-NonOSE_AE  8≠I-NonOSE_AE  %≠I-NonOSE_AE  while receiving anti-diabetic therapy) may be at a higher risk of developing severe  hyperglycemia≠B-NonOSE_AE  and associated complications, e.g.,  ketoacidosis≠B-NonOSE_AE . 
+
+
+
+ Because of this predictable adverse reaction, the glycemic status [fasting plasma glucose (FPG) or hemoglobin A1c (HbA1c)] should be assessed prior to starting treatment with SIGNIFOR. In patients with  uncontrolled≠B-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate  intensive anti-diabetic therapy should be optimized prior to treatment with SIGNIFOR. Self-monitoring of blood glucose and/or FPG assessments should be done every week for the first two to three months and periodically thereafter, as clinically appropriate, as well as over the first two to four weeks after any dose increase. After treatment discontinuation, glycemic monitoring (e.g., FPG or HbA1c) should be done according to clinical practice. Patients who were initiated on anti-diabetic therapy as a result of SIGNIFOR may require closer monitoring after discontinuation of SIGNIFOR, especially if the anti-diabetic therapy has a risk of causing  hypoglycemia≠B-NonOSE_AE .
+
+
+
+ If  hyperglycemia≠B-NonOSE_AE  develops in a patient treated with SIGNIFOR, the initiation or adjustment of anti-diabetic treatment per standard of care is recommended. The optimal treatment for the management of SIGNIFOR-induced  hyperglycemia≠B-NonOSE_AE  is not known. If uncontrolled  hyperglycemia≠B-NonOSE_AE  persists, despite appropriate medical management, the dose of SIGNIFOR should be reduced or discontinued.
+
+
+
+    5.3       Bradycardia and QT Prolongation
+
+
+
+   Bradycardia  
+
+
+
+  Bradycardia≠B-OSE_Labeled_AE  has been reported with the use of SIGNIFOR  [see Adverse Reactions (6)]  . Patients with  cardiac≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  and/or risk factors for  bradycardia≠B-Not_AE_Candidate , such as history of clinically significant  bradycardia≠B-Not_AE_Candidate , high-grade  heart≠B-Not_AE_Candidate   block≠I-Not_AE_Candidate , or concomitant use of drugs associated with  bradycardia≠B-Not_AE_Candidate , should be carefully monitored. Dose adjustments of beta-blockers, calcium channel blockers, or correction of  electrolyte≠B-NonOSE_AE   disturbances≠I-NonOSE_AE  may be necessary.
+
+
+
+  QT Prolongation  
+
+
+
+ SIGNIFOR is associated with  QT≠B-OSE_Labeled_AE   prolongation≠I-OSE_Labeled_AE . In two thorough QT studies with SIGNIFOR,  QT≠B-OSE_Labeled_AE   prolongation≠I-OSE_Labeled_AE  occurred at therapeutic and supra-therapeutic doses. SIGNIFOR should be used with caution in patients who are at significant risk of developing  prolongation≠B-NonOSE_AE   of≠I-NonOSE_AE   QTc≠I-NonOSE_AE , such as those:
+
+
+
+ *  with  congenital≠B-Not_AE_Candidate   long≠I-Not_AE_Candidate   QT≠I-Not_AE_Candidate   prolongation≠I-Not_AE_Candidate . 
+ *  with uncontrolled or significant  cardiac≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  including  recent≠B-Not_AE_Candidate   myocardial≠I-Not_AE_Candidate   infarction≠I-Not_AE_Candidate ,  congestive≠B-Not_AE_Candidate   heart≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate ,  unstable≠B-Not_AE_Candidate   angina≠I-Not_AE_Candidate  or clinically significant  bradycardia≠B-Not_AE_Candidate . 
+ *  on anti-arrhythmic therapy or other substances that are known to lead to  QT≠B-Not_AE_Candidate   prolongation≠I-Not_AE_Candidate . 
+ *  with  hypokalemia≠B-Not_AE_Candidate  and/or  hypomagnesemia≠B-Not_AE_Candidate . 
+    A baseline ECG is recommended prior to initiating therapy with SIGNIFOR and monitoring for an effect on the QTc interval is advisable.  Hypokalemia≠B-NonOSE_AE  and  hypomagnesemia≠B-NonOSE_AE  must be corrected prior to SIGNIFOR administration and should be monitored periodically during therapy. 
+ 
+
+    5.4       Liver Test Elevations
+
+
+
+  In the Phase III trial, 5% of patients had an  ALT≠B-OSE_Labeled_AE  or AST level  greater≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   3≠I-OSE_Labeled_AE   times≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE   limit≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   normal≠I-OSE_Labeled_AE  (ULN). In the entire clinical development program of SIGNIFOR, there were 4 cases of concurrent  elevations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   ALT≠I-OSE_Labeled_AE  (alanine aminotransferase) greater than 3 x ULN and  bilirubin≠B-OSE_Labeled_AE   greater≠I-OSE_Labeled_AE  than 2 x ULN: one patient with Cushing's disease and three healthy volunteers [see Adverse Reactions (6   )]  . In these cases,  total≠B-OSE_Labeled_AE   bilirubin≠I-OSE_Labeled_AE   elevations≠I-OSE_Labeled_AE  were seen either concomitantly or preceding the  transaminase≠B-OSE_Labeled_AE   elevation≠I-OSE_Labeled_AE .
+
+
+
+ Monitoring of liver tests should be done after 1 to 2 weeks on treatment, then monthly for 3 months, and every 6 months thereafter. If ALT is normal at baseline and  elevations≠B-NonOSE_AE   of≠I-NonOSE_AE   ALT≠I-NonOSE_AE  of 3-5 times the ULN are observed on treatment, repeat the test within a week or within 48 hours if exceeding 5 times ULN. If  ALT≠B-NonOSE_AE   is≠I-NonOSE_AE   abnormal≠I-NonOSE_AE  at baseline and  elevations≠B-NonOSE_AE   of≠I-NonOSE_AE   ALT≠I-NonOSE_AE  of 3-5 times the baseline values are observed on treatment, repeat the test within a week or sooner if exceeding 5 times ULN. Tests should be done in a laboratory that can provide same-day results. If the values are confirmed or rising, interrupt SIGNIFOR treatment and investigate for probable cause of the findings, which may or may not be SIGNIFOR-related. Serial measures of ALT, aspartate aminotransferase, alkaline phosphatase, and total bilirubin, should be done weekly, or more frequently, if any value exceeds 5 times the baseline value in case of abnormal baselines or 5 times the ULN in case of normal baselines. If resolution of abnormalities to normal or near normal occurs, resuming treatment with SIGNIFOR may be done cautiously, with close observation, and only if some other likely cause has been found.
+
+
+
+    5.5       Cholelithiasis 
+
+
+
+   Cholelithiasis≠B-OSE_Labeled_AE  has been frequently reported in clinical studies with SIGNIFOR  [see Adverse Reactions (6)]  . Ultrasonic examination of the gallbladder before, and at 6- to 12-month intervals during SIGNIFOR therapy is recommended.
+
+
+
+    5.6       Monitoring for Deficiency of Pituitary Hormones
+
+
+
+  As the pharmacological activity of SIGNIFOR mimics that of somatostatin,  inhibition≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   pituitary≠I-OSE_Labeled_AE   hormones≠I-OSE_Labeled_AE , other than ACTH, may occur. Monitoring of pituitary function (e.g., TSH/free T4, GH/IGF-1) should occur prior to initiation of therapy with SIGNIFOR and periodically during treatment should be considered as clinically appropriate. Patients who have undergone  transsphenoidal≠B-Not_AE_Candidate   surgery≠I-Not_AE_Candidate  and  pituitary≠B-Not_AE_Candidate   irradiation≠I-Not_AE_Candidate  are particularly at increased risk for  deficiency≠B-NonOSE_AE  of  pituitary≠I-NonOSE_AE   hormones≠I-NonOSE_AE . 

@@ -1,0 +1,104 @@
+    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most commonly reported adverse reactions (> 2% and > placebo) were hypertension, nasopharyngitis, urinary tract infection and headache (  6.1  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Astellas Pharma US, Inc. at 1-800-727-7003 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In three, 12 week, double-blind, placebo-controlled, safety and efficacy studies in patients with  overactive≠B-Not_AE_Candidate   bladder≠I-Not_AE_Candidate  (Studies 1, 2, and 3), MYRBETRIQ  (r)  was evaluated for safety in 2736 patients  [see  Clinical Studies  (  14  )]  . Study 1 also included an active control. For the combined Studies 1, 2, and 3, 432 patients received MYRBETRIQ  (r)  25 mg, 1375 received MYRBETRIQ  (r)  50 mg, and 929 received MYRBETRIQ  (r)  100 mg once daily. In these studies, the majority of the patients were Caucasian (94%), and female (72%) with a mean age of 59 years (range 18 to 95 years).
+
+
+
+ MYRBETRIQ  (r)  was also evaluated for safety in 1632 patients who received MYRBETRIQ  (r)  50 mg once daily (n=812 patients) or MYRBETRIQ  (r)  100 mg (n=820 patients) in a 1 year, randomized, fixed dose, double-blind, active controlled, safety study in patients with  overactive≠B-Not_AE_Candidate   bladder≠I-Not_AE_Candidate  (Study 4). Of these patients, 731 received MYRBETRIQ  (r)  in a previous 12 week study. In Study 4, 1385 patients received MYRBETRIQ  (r)  continuously for at least 6 months, 1311 patients received MYRBETRIQ  (r)  for at least 9 months, and 564 patients received MYRBETRIQ  (r)  for at least 1 year.
+
+
+
+ The most frequent adverse events (0.2%) leading to discontinuation in Studies 1, 2 and 3 for the 25 mg or 50 mg dose were  nausea≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE  and  tachycardia≠B-OSE_Labeled_AE .
+
+
+
+  Atrial≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE  (0.2%) and  prostate≠B-OSE_Labeled_AE   cancer≠I-OSE_Labeled_AE  (0.1%) were reported as serious adverse events by more than 1 patient and at a rate greater than placebo.
+
+
+
+   Table 1  lists adverse reactions, derived from all adverse events, that were reported in Studies 1, 2 and 3 at an incidence greater than placebo and in 1% or more of patients treated with MYRBETRIQ  (r)  25 mg or 50 mg once daily for up to 12 weeks. The most commonly reported adverse reactions (greater than 2% of MYRBETRIQ  (r)  patients and greater than placebo) were  hypertension≠B-OSE_Labeled_AE ,  nasopharyngitis≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  and  headache≠B-OSE_Labeled_AE .
+
+
+
+ Table 1: Percentages of Patients with Adverse Reactions, Derived from All Adverse Events, Exceeding Placebo Rate and Reported by 1% or More Patients Treated With MYRBETRIQ(r) 25 mg or 50 mg Once Daily in Studies 1, 2, and 3 
+                                 Placebo  (%)           MYRBETRIQ(r) 25 mg  (%)    MYRBETRIQ(r) 50 mg  (%)    
+  Number of Patients             1380                   432                        1375                       
+   Hypertension≠B-OSE_Labeled_AE Includes reports of  blood≠B-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   above≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   normal≠I-OSE_Labeled_AE   range≠I-OSE_Labeled_AE , and  BP≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   from≠I-OSE_Labeled_AE   baseline≠I-OSE_Labeled_AE , occurring predominantly in subjects with baseline  hypertension≠B-Not_AE_Candidate .    7.6                    11.3                       7.5                        
+   Nasopharyngitis≠B-OSE_Labeled_AE                 2.5                    3.5                        3.9                        
+   Urinary≠B-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE         1.8                    4.2                        2.9                        
+   Headache≠B-OSE_Labeled_AE                        3.0                    2.1                        3.2                        
+   Constipation≠B-OSE_Labeled_AE                    1.4                    1.6                        1.6                        
+   Upper≠B-OSE_Labeled_AE   Respiratory≠I-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE     1.7                    2.1                        1.5                        
+   Arthralgia≠B-OSE_Labeled_AE                      1.1                    1.6                        1.3                        
+   Diarrhea≠B-OSE_Labeled_AE                        1.3                    1.2                        1.5                        
+   Tachycardia≠B-OSE_Labeled_AE                     0.6                    1.6                        1.2                        
+   Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                  0.7                    1.4                        0.6                        
+   Fatigue≠B-OSE_Labeled_AE                         1.0                    1.4                        1.2                        
+          Other adverse reactions reported by less than 1% of patients treated with MYRBETRIQ  (r)  in Studies 1, 2, or 3 included:
+ 
+
+    Cardiac≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   palpitations≠B-OSE_Labeled_AE ,  blood≠B-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   [see  Clinical Pharmacology  (  12.2  )] Eye≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   glaucoma≠B-OSE_Labeled_AE   [see  Clinical Pharmacology  (  12.2  )] Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE :   dyspepsia≠B-OSE_Labeled_AE ,  gastritis≠B-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   distension≠I-OSE_Labeled_AE    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   Infestations≠I-NonOSE_AE :   sinusitis≠B-OSE_Labeled_AE ,  rhinitis≠B-OSE_Labeled_AE    Investigations≠B-NonOSE_AE :   GGT≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  AST≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  ALT≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  LDH≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE    Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   urinary≠I-NonOSE_AE   disorders≠I-NonOSE_AE   :  nephrolithiasis≠B-OSE_Labeled_AE ,  bladder≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE    Reproductive≠B-NonOSE_AE   system≠I-NonOSE_AE   and≠I-NonOSE_AE   breast≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   vulvovaginal≠B-OSE_Labeled_AE   pruritus≠I-OSE_Labeled_AE ,  vaginal≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :   urticaria≠B-OSE_Labeled_AE ,  leukocytoclastic≠B-OSE_Labeled_AE   vasculitis≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE ,  purpura≠B-OSE_Labeled_AE ,  lip≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE 
+
+
+
+   Table 2  lists the rates of the most commonly reported adverse reactions, derived from all adverse events in patients treated with MYRBETRIQ  (r)  50 mg for up to 52 weeks in Study 4. The most commonly reported adverse reactions (>3% of MYRBETRIQ  (r)  patients) were  hypertension≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE , and  nasopharyngitis≠B-OSE_Labeled_AE .
+
+
+
+ Table 2: Percentages of Patients with Adverse Reactions, Derived from all Adverse Events, Reported by Greater Than 2% of Patients Treated With MYRBETRIQ(r) 50 mg Once Daily in Study 4 
+                                     MYRBETRIQ(r) 50 mg  (%)            Active Control  (%)                
+  Number of Patients                 812                                812                                
+   Hypertension≠B-OSE_Labeled_AE                        9.2                                9.6                                
+   Urinary≠B-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE             5.9                                6.4                                
+   Headache≠B-OSE_Labeled_AE                            4.1                                2.5                                
+   Nasopharyngitis≠B-OSE_Labeled_AE                     3.9                                3.1                                
+   Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                           2.8                                1.6                                
+   Constipation≠B-OSE_Labeled_AE                        2.8                                2.7                                
+   Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE                           2.8                                8.6                                
+   Dizziness≠B-OSE_Labeled_AE                           2.7                                2.6                                
+   Sinusitis≠B-OSE_Labeled_AE                           2.7                                1.5                                
+   Influenza≠B-OSE_Labeled_AE                           2.6                                3.4                                
+   Arthralgia≠B-OSE_Labeled_AE                          2.1                                2.0                                
+   Cystitis≠B-OSE_Labeled_AE                            2.1                                2.3                                
+         In Study 4, in patients treated with MYRBETRIQ  (r)  50 mg once daily, adverse reactions leading to discontinuation reported by more than 2 patients and at a rate greater than active control included:  constipation≠B-OSE_Labeled_AE  (0.9%),  headache≠B-OSE_Labeled_AE  (0.6%),  dizziness≠B-OSE_Labeled_AE  (0.5%),  hypertension≠B-OSE_Labeled_AE  (0.5%),  dry≠B-OSE_Labeled_AE   eyes≠I-OSE_Labeled_AE  (0.4%),  nausea≠B-OSE_Labeled_AE  (0.4%),  vision≠B-OSE_Labeled_AE   blurred≠I-OSE_Labeled_AE  (0.4%), and  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  (0.4%). Serious adverse events reported by at least 2 patients and exceeding active control included  cerebrovascular≠B-OSE_Labeled_AE   accident≠I-OSE_Labeled_AE  (0.4%) and  osteoarthritis≠B-OSE_Labeled_AE  (0.2%). Serum  ALT≠B-OSE_Labeled_AE /AST  increased≠I-OSE_Labeled_AE  from baseline by greater than 10-fold in 2 patients (0.3%) taking MYRBETRIQ  (r)  50 mg, and these markers subsequently returned to baseline while both patients continued MYRBETRIQ  (r)  .
+ 
+
+ In Study 4, serious adverse events of neoplasm were reported by 0.1%, 1.3%, and 0.5% of patients treated with MYRBETRIQ  (r)  50 mg, MYRBETRIQ  (r)  100 mg and active control once daily, respectively.  Neoplasms≠B-OSE_Labeled_AE  reported by 2 patients treated with MYRBETRIQ  (r)  100 mg included  breast≠B-OSE_Labeled_AE   cancer≠I-OSE_Labeled_AE ,  lung≠B-OSE_Labeled_AE   neoplasm≠I-OSE_Labeled_AE   malignant≠I-OSE_Labeled_AE  and  prostate≠B-OSE_Labeled_AE   cancer≠I-OSE_Labeled_AE .
+
+
+
+ In a separate clinical study in Japan, a single case was reported as  Stevens≠B-NonOSE_AE  -≠I-NonOSE_AE  Johnson≠I-NonOSE_AE   syndrome≠I-NonOSE_AE  with  increased≠B-NonOSE_AE   serum≠I-NonOSE_AE   ALT≠I-NonOSE_AE , AST and bilirubin in a patient taking MYRBETRIQ  (r)  100 mg as well as an herbal medication (Kyufu Gold).
+
+
+
+   6.2 Postmarketing Experience
+
+  Because these spontaneously reported events are from the worldwide postmarketing experience, from a population of uncertain size, the frequency of events and the role of mirabegron in their causation cannot be reliably determined.
+
+
+
+ The following events have been reported in association with mirabegron use in worldwide postmarketing experience:
+
+
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE :   angioedema≠B-OSE_Labeled_AE  of the face, lips, tongue, and larynx, with or without  respiratory≠B-NonOSE_AE   symptoms≠I-NonOSE_AE   [see  Warnings and Precautions  (  5.3  )]  
+
+
+
+    Urologic≠B-NonOSE_AE :   urinary≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE   [see  Warnings and Precautions  (  5.2  )]  

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PROVOCHOLINE">
+  <Text>
+    <Section id="S1" name="adverse reactions">      ADVERSE REACTIONS:  
+
+  Adverse reactions associated with 153 inhaled methacholine chloride challenges include one occurrence each of headache, throat irritation, light headedness and itching.
+
+
+
+ Provocholine is to be administered only by inhalation. When administered orally or by injection, methacholine chloride is reported to be associated with nausea and vomiting, substernal pain or pressure, hypotension,fainting and transient complete heart block. (See OVERDOSAGE.)
+</Section>
+    <Section id="S2" name="precautions">     PRECAUTIONS:  
+
+
+
+  
+
+
+
+    
+
+
+
+    General:    
+
+
+
+ Administration of Provocholine to patients with epilepsy, cardiovascular disease accompanied by bradycardia, vagotonia, peptic ulcer disease, thyroid disease, urinary tract obstruction or other condition that could be adversely affected by a cholinergic agent should be undertaken only if the physician feels benefit to the individual outweighs the potential risks.
+
+
+
+ 
+
+
+
+    
+
+
+
+    Information for Patients:    
+
+
+
+ To assure the safe and effective use of Provocholine inhalation challenge, the following instructions and information should be given to patients:
+
+
+
+ *  Patients should be instructed regarding symptoms that may occur as a result of the test and how such symptoms can be managed. 
+ *  A female patient should inform her physician if she is pregnant, or the date of her last onset of menses, or the date and result of her last pregnancy test. (See PRECAUTIONS: Pregnancy. ) 
+       
+ 
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility:    
+
+
+
+ There have been no studies with methacholine chloride that would permit an evaluation of its carcinogenic or mutagenic potential or of its effect on fertility.
+
+
+
+    
+
+
+
+     Pregnancy:    
+
+
+
+ Teratogenic Effects: Pregnancy Category C. Animal reproduction studies have not been conducted with methacholine chloride. It is not known whether methacholine chloride can cause fetal harm when administered to a pregnant patient or affect reproductive capacity. Methacholine chloride should be given to a pregnant woman only if clearly needed.
+
+
+
+     IN FEMALES OF CHILDBEARING POTENTIAL, PROVOCHOLlNE INHALATION CHALLENGE SHOULD BE PERFORMED EITHER WITHIN TEN DAYS FOLLOWING THE ONSET OF MENSES OR WITHIN 2 WEEKS OF A NEGATIVE PREGNANCY TEST.  
+ 
+
+ 
+
+
+
+    
+
+
+
+     Nursing Mothers:    
+
+
+
+ Provocholine inhalation challenge should not be administered to a nursing mother since it is not known whether methacholine chloride when inhaled is excreted in breast milk.
+
+
+
+    
+
+
+
+    Pediatric Use:    
+
+
+
+ The safety and efficacy of Provocholine inhalation challenge have not been established in children below the age of 5 years.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="22" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="33" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="436" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="959" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="1196" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="1784" />
+    <IgnoredRegion len="0" name="heading" section="S2" start="1999" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

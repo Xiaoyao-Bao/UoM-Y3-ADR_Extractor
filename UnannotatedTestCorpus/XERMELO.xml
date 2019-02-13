@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="XERMELO">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (&gt;=5%) are nausea, headache, increased GGT, depression, flatulence, decreased appetite, peripheral edema, and pyrexia. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Lexicon Pharmaceuticals, Inc. at 1-844-539-7427 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Xermelo was studied in a double-blind, placebo-controlled clinical trial of 90 patients with metastatic neuroendocrine tumors and carcinoid syndrome diarrhea. Patients reported between 4 to 12 bowel movements daily despite the use of SSA therapy at a stable dose for at least 3 months  [see Clinical Studies (  14  )]  . Placebo or Xermelo 250 mg was administered three times daily for 12 weeks. Concomitant anti-diarrheal medications (e.g., loperamide) were used by 43% (36% and 51% in the placebo and Xermelo group, respectively), pancreatic enzyme replacement medications by 39% (36% and 42% in the placebo and Xermelo group, respectively), and opioid analgesics by 29% (24% and 33% in the placebo and Xermelo group, respectively) of patients during the 12-week double-blind period of the trial.
+
+
+
+   Table 1  below lists adverse reactions occurring at an incidence of at least 5% in the Xermelo group (N=45) and at an incidence greater than placebo (N=45) during the 12-week placebo-controlled period of the trial.
+
+
+
+ Table 1: Percent Common Adverse Reactionsa by Treatment Group at 12-Weeks in a Double-Blind Placebo-Controlled Clinical Trial of Patients with Carcinoid Syndrome Diarrhea 
+  a incidence of at least 5% in the Xermelo group and at an incidence greater than placebo    
+  b including depression, depressed mood and decreased interest    
+  
+   Adverse Reaction                Xermelo    250 mg Three Times Daily, N=45    (%)      Placebo,    N=45    (%)         
+ Nausea                          13                                      11                                
+ Headache                        11                                      4                                 
+ Increased gamma-glutamyl-transferase (GGT)  9                                       0                                 
+ Depression  b                   9                                       7                                 
+ Peripheral edema                7                                       2                                 
+ Flatulence                      7                                       2                                 
+ Decreased appetite              7                                       4                                 
+ Pyrexia                         7                                       4                                 
+         In another placebo-controlled clinical trial of patients with carcinoid syndrome diarrhea and less than 4 bowel movements per day, the following additional adverse reactions, not listed in  Table 1  , of abdominal pain (including upper and lower abdominal pain, abdominal distention and gastrointestinal pain) and constipation were reported in at least 5% of patients in the Xermelo treated group and at an incidence greater than placebo  [see Warnings and Precautions (  5.1  )]  .
+ 
+
+     Less Common Adverse Reactions  :
+
+
+
+ The following is a list of adverse reactions occurring in less than 5% of patients receiving Xermelo during the 12-week placebo-controlled period of the clinical trial:
+
+
+
+   Investigations  : increased alkaline phosphatase, increased alanine aminotransferase, and increased aspartate aminotransferase.
+
+
+
+ Fecaloma was reported in one patient treated with Xermelo during the 36-week open-label extension period following the 12-week double-blind period of the trial.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Constipation: Xermelo reduces bowel movement frequency; monitor patients for constipation and/or severe persistent or worsening abdominal pain. Discontinue Xermelo if severe constipation or abdominal pain develops. (  5.1  )
+
+
+
+ 
+
+
+
+   5.1 Constipation
+
+
+
+  Xermelo reduces bowel movement frequency. In a 12-week, placebo-controlled trial, in which patients had 4 or greater bowel movements per day, 2 out of 45 patients treated with a higher than recommended dosage of Xermelo reported constipation. In one patient the constipation was serious, resulting in hospitalization. During the 36-week extension period with higher than the recommended dosage, 10 of 115 patients reported constipation: one developed intestinal perforation and one developed obstruction. In another 12-week, placebo-controlled trial in which patients had less than 4 bowel movements per day, 4 out of 25 patients treated with the recommended dosage of Xermelo reported constipation. Given that patients with metastatic carcinoid tumors may have impaired integrity of the gastrointestinal tract wall, monitor for the development of constipation and/or severe, persistent, or worsening abdominal pain in patients taking Xermelo. Discontinue Xermelo if severe constipation or severe persistent or worsening abdominal pain develops [see Dosage and Administration (  2  ), Adverse Reactions (  6.1  )]  .
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="327" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="241" name="excerpt" section="S2" start="35" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="283" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="357" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

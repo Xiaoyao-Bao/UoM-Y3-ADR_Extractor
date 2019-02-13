@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="HEMLIBRA">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are described elsewhere in the labeling:
+
+
+
+ *  Thrombotic Microangiopathy Associated with HEMLIBRA and aPCC [see  Warnings and Precautions (5.1)  ]  
+ *  Thromboembolism Associated with HEMLIBRA and aPCC [see  Warnings and Precautions (5.2)  ]  
+      EXCERPT:   Most common adverse reactions (incidence &gt;= 10%) are injection site reactions, headache, and arthralgia. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Genentech at 1-888-835-2555 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The following adverse reactions are based on pooled data from two randomized trials in adult and adolescent patients (HAVEN 1 and HAVEN 3), one single-arm trial in adult and adolescent patients (HAVEN 4), one single-arm trial in pediatric patients (HAVEN 2), and one dose-finding trial, in which a total of 391 male patients with hemophilia A received at least one dose of HEMLIBRA as routine prophylaxis. Two hundred eighty-one patients (72%) were adults (18 years and older), 50 (13%) were adolescents (12 years up to less than 18 years), 55 (14%) were children (2 years up to less than 12 years), and five (1%) were infants (1 month up to less than 2 years). The median duration of exposure across the studies was 34.1 weeks (0.1 to 224.4 weeks).
+
+
+
+ The most frequently reported adverse reactions observed in &gt;= 10% of patients treated with HEMLIBRA were injection site reactions, headache, and arthralgia.
+
+
+
+ Four patients (1%) in the clinical trials receiving HEMLIBRA prophylaxis withdrew from treatment due to adverse reactions, which were thrombotic microangiopathy, skin necrosis and superficial thrombophlebitis, headache, and injection site reaction.
+
+
+
+ One patient withdrew from treatment after developing an anti-emicizumab-kxwh neutralizing antibody associated with loss of efficacy  [see  Adverse Reactions (6.2)  ]  .
+
+
+
+ Adverse reactions observed in patients who received HEMLIBRA are shown in  Table 2  .
+
+
+
+ Table 2 Adverse Reactions Reported in &gt;= 5% of Patients from Pooled Clinical Trials with HEMLIBRA 
+ Body System                         Adverse Reaction                   Number of Patientsn (%)(N = 391)    
+  
+ General Disorders and Administration Site Conditions  Injection site reaction                        85 (22%)                
+ Pyrexia                             23 (6%)                             
+ Nervous System Disorders            Headache                                       57 (15%)                
+ Gastrointestinal Disorders          Diarrhea                                        22 (6%)                
+ Musculoskeletal and Connective Tissue Disorders  Arthralgia                                     59 (15%)                
+             Characterization of aPCC treatment in pooled clinical trials  
+ 
+
+ There were 130 instances of aPCC treatment in 37 patients, of which 13 instances (10%) consisted of on average a cumulative amount of &gt;100 U/kg/24 hours of aPCC for 24 hours or more; two of the 13 were associated with thrombotic events and three of the 13 were associated with TMA (  Table 3  ). No TMA or thrombotic events were associated with the remaining instances of aPCC treatment.
+
+
+
+ Table 3 Characterization of aPCC TreatmentAn instance of aPCC treatment is defined as all doses of aPCC received by a patient, for any reason, until there was a 36-hour treatment-free break. in Pooled Clinical Trials 
+ Duration of aPCC treatment  Average cumulative amount of aPCC over 24 hours (U/kg/24 hours)   
+           &lt; 50                     50 - 100                     &gt; 100             
+  
+        &lt; 24 hours                     11                         76                         18               
+       24 - 48 hours                    0                          6                          3               
+        &gt; 48 hours                      1                          5                  10  ,    ,    ,         
+              Injection Site Reactions  
+ 
+
+ In total, 85 patients (22%) reported injection site reactions (ISRs). All ISRs observed in HEMLIBRA clinical trials were reported as mild to moderate intensity and 93% resolved without treatment. The commonly reported ISR symptoms were injection site erythema (11%), injection site pain (4%), and injection site pruritus (4%).
+
+
+
+     Other Less Common (&lt;1%) Reactions  
+
+
+
+ *  Rhabdomyolysis 
+    Rhabdomyolysis was reported in two adult patients with asymptomatic elevations in serum creatine kinase without associated renal or musculoskeletal symptoms. In both instances, the event occurred following an increase in physical activity.
+ 
+
+   6.2 Immunogenicity
+
+  As with all therapeutic proteins, there is a potential for immunogenicity. The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medication, and underlying disease. For these reasons, comparison of the incidence of antibodies to emicizumab-kxwh in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
+
+
+
+ The immunogenicity of HEMLIBRA was evaluated using an enzyme-linked immunosorbent assay (ELISA) or an electrochemiluminescence (ECL) assay. In the dose-finding trial (n = 18), four patients tested positive for anti-emicizumab-kxwh antibodies. In the pooled HAVEN clinical trials, 3.5% of patients (14/398) tested positive for anti-emicizumab-kxwh antibodies and &lt;1% of patients (3/398) developed anti-emicizumab-kxwh antibodies with neutralizing potential (based on declining pharmacokinetics). One patient from HAVEN 2, who developed an anti-emicizumab-kxwh neutralizing antibody, experienced loss of efficacy after 5 weeks of treatment.
+
+
+
+ There was no clinically apparent impact of the presence of anti-emicizumab-kxwh antibodies on safety.
+</Section>
+    <Section id="S2" name="boxed warnings">
+
+    BOXED WARNING: WARNING: THROMBOTIC MICROANGIOPATHY AND THROMBOEMBOLISM
+
+    WARNING: THROMBOTIC MICROANGIOPATHY AND THROMBOEMBOLISM  
+
+  Cases of thrombotic microangiopathy and thrombotic events were reported when on average a cumulative amount of &gt;100 U/kg/24 hours of activated prothrombin complex concentrate was administered for 24 hours or more to patients receiving HEMLIBRA prophylaxis. Monitor for the development of thrombotic microangiopathy and thrombotic events if aPCC is administered. Discontinue aPCC and suspend dosing of HEMLIBRA if symptoms occur.
+
+
+
+   EXCERPT:   WARNING: THROMBOTIC MICROANGIOPATHY and THROMBOEMBOLISM
+
+
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+   Cases of thrombotic microangiopathy and thrombotic events were reported when on average a cumulative amount of &gt;100 U/kg/24 hours of activated prothrombin complex concentrate (aPCC) was administered for 24 hours or more to patients receiving HEMLIBRA prophylaxis. Monitor for the development of thrombotic microangiopathy and thrombotic events if aPCC is administered. Discontinue aPCC and suspend dosing of HEMLIBRA if symptoms occur.  
+
+
+
+ 
+</Section>
+    <Section id="S3" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Laboratory Coagulation Test Interference: HEMLIBRA interferes with activated clotting time (ACT), activated partial thromboplastin time (aPTT), and coagulation laboratory tests based on aPTT, including one-stage aPTT-based single-factor assays, aPTT-based Activated Protein C Resistance (APC-R), and Bethesda assays (clotting-based) for factor VIII (FVIII) inhibitor titers. Intrinsic pathway clotting-based laboratory tests should not be used. (  5.3  ,  7.2  ) 
+    
+ 
+
+   5.1 Thrombotic Microangiopathy Associated with HEMLIBRA and aPCC
+
+
+
+  Cases of thrombotic microangiopathy (TMA) were reported from clinical trials when on average a cumulative amount of &gt;100 U/kg/24 hours of activated prothrombin complex concentrate (aPCC) was administered for 24 hours or more to patients receiving HEMLIBRA prophylaxis. In clinical trials, thrombotic microangiopathy was reported in 0.8% of patients (3/391) and in 8.1% of patients (3/37) who received at least one dose of aPCC. Patients presented with thrombocytopenia, microangiopathic hemolytic anemia, and acute kidney injury, without severe deficiencies in ADAMTS13 activity.
+
+
+
+ Evidence of improvement was seen within one week following discontinuation of aPCC. One patient resumed HEMLIBRA following resolution of TMA.
+
+
+
+ Consider the benefits and risks if aPCC must be used in a patient receiving HEMLIBRA prophylaxis. Monitor for the development of TMA when administering aPCC. Immediately discontinue aPCC and interrupt HEMLIBRA prophylaxis if clinical symptoms and/or laboratory findings consistent with TMA occur, and manage as clinically indicated. Consider the benefits and risks of resuming HEMLIBRA prophylaxis following complete resolution of TMA on a case-by-case basis.
+
+
+
+    5.2 Thromboembolism Associated with HEMLIBRA and aPCC
+
+
+
+  Thrombotic events were reported from clinical trials when on average a cumulative amount of &gt;100 U/kg/24 hours of aPCC was administered for 24 hours or more to patients receiving HEMLIBRA prophylaxis. In clinical trials, thrombotic events were reported in 0.5% of patients (2/391) and in 5.4% of patients (2/37) who received at least one dose of aPCC.
+
+
+
+ No thrombotic event required anticoagulation therapy. Evidence of improvement or resolution was seen within one month following discontinuation of aPCC. One patient resumed HEMLIBRA following resolution of thrombotic event.
+
+
+
+ Consider the benefits and risks if aPCC must be used in a patient receiving HEMLIBRA prophylaxis. Monitor for the development of thromboembolism when administering aPCC. Immediately discontinue aPCC and interrupt HEMLIBRA prophylaxis if clinical symptoms, imaging, or laboratory findings consistent with thromboembolism occur, and manage as clinically indicated. Consider the benefits and risks of resuming HEMLIBRA prophylaxis following complete resolution of thrombotic events on a case-by-case basis.
+
+
+
+    5.3 Laboratory Coagulation Test Interference
+
+
+
+  HEMLIBRA affects intrinsic pathway clotting-based laboratory tests, including activated clotting time (ACT), activated partial thromboplastin time (aPTT), and all assays based on aPTT, such as one-stage factor VIII (FVIII) activity (  Table 1  ). Therefore, intrinsic pathway clotting-based laboratory test results in patients treated with HEMLIBRA should not be used to monitor HEMLIBRA activity, determine dosing for factor replacement or anti-coagulation, or measure FVIII inhibitor titers [see  Drug Interactions (7.2)  ].  Laboratory tests affected and unaffected by HEMLIBRA are shown in  Table 1  .
+
+
+
+ Table 1 Coagulation Test Results Affected and Unaffected by HEMLIBRA 
+ Results Affected by HEMLIBRA                        Results Unaffected by HEMLIBRA                       
+  
+ Activated partial thromboplastin time (aPTT)Bethesda assays (clotting-based) for FVIII inhibitor titersOne-stage, aPTT-based, single-factor assaysaPTT-based Activated Protein C Resistance (APC-R)Activated clotting time (ACT)  Bethesda assays (bovine chromogenic) for FVIII inhibitor titersThrombin time (TT)One-stage, prothrombin time (PT)-based, single-factor assaysChromogenic-based single-factor assays other than FVIIIImmuno-based assays (i.e., ELISA, turbidimetric methods)Genetic tests of coagulation factors (e.g., Factor V Leiden, Prothrombin 20210)   
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="484" name="excerpt" section="S3" start="36" />
+    <IgnoredRegion len="59" name="heading" section="S2" start="80" />
+    <IgnoredRegion len="264" name="excerpt" section="S1" start="319" />
+    <IgnoredRegion len="64" name="heading" section="S3" start="527" />
+    <IgnoredRegion len="585" name="excerpt" section="S2" start="577" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="587" />
+    <IgnoredRegion len="53" name="heading" section="S3" start="1794" />
+    <IgnoredRegion len="44" name="heading" section="S3" start="2948" />
+    <IgnoredRegion len="18" name="heading" section="S1" start="4967" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

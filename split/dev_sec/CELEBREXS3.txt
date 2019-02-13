@@ -1,0 +1,139 @@
+   5. WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *   Hepatotoxicity : Inform patients of warning signs and symptoms of hepatotoxicity. Discontinue if abnormal liver tests persist or worsen or if clinical signs and symptoms of liver disease develop (  5.3  ) 
+ *   Hypertension : Patients taking some antihypertensive medications may have impaired response to these therapies when taking NSAIDs. Monitor blood pressure (  5.4  ,  7  ) 
+ *   Heart Failure and Edema : Avoid use of CELEBREX in patients with severe heart failure unless benefits are expected to outweigh risk of worsening heart failure (  5.5  ) 
+ *   Renal Toxicity : Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia. Avoid use of CELEBREX in patients with advanced renal disease unless benefits are expected to outweigh risk of worsening renal function (  5.6  ) 
+ *   Anaphylactic Reactions : Seek emergency help if an anaphylactic reaction occurs (  5.7  ) 
+ *   Exacerbation of Asthma Related to Aspirin Sensitivity : CELEBREX is contraindicated in patients with aspirin-sensitive asthma. Monitor patients with preexisting asthma (without aspirin sensitivity) (  5.8  ) 
+ *   Serious Skin Reactions : Discontinue CELEBREX at first appearance of skin rash or other signs of hypersensitivity (  5.9  ) 
+ *   Premature Closure of Fetal Ductus Arteriosus : Avoid use in pregnant women starting at 30 weeks of gestation (  5.10  ,  8.1  ) 
+ *   Hematologic Toxicity : Monitor hemoglobin or hematocrit in patients with any signs or symptoms of anemia (  5.11  ,  7  ) 
+    
+ 
+
+   5.1 Cardiovascular Thrombotic Events
+
+   Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious  cardiovascular≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  CV≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   thrombotic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE , including  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  MI≠I-OSE_Labeled_AE ) and  stroke≠B-OSE_Labeled_AE , which can be  fatal≠B-NonOSE_AE . Based on available data, it is unclear that the risk for  CV≠B-NonOSE_AE   thrombotic≠I-NonOSE_AE   events≠I-NonOSE_AE  is similar for all NSAIDs. The relative increase in serious  CV≠B-NonOSE_AE   thrombotic≠I-NonOSE_AE   events≠I-NonOSE_AE  over baseline conferred by NSAID use appears to be similar in those with and without known  CV≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  or risk factors for  CV≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate . However, patients with known  CV≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  or risk factors had a higher absolute incidence of excess serious  CV≠B-NonOSE_AE   thrombotic≠I-NonOSE_AE   events≠I-NonOSE_AE , due to their increased baseline rate. Some observational studies found that this increased risk of serious  CV≠B-OSE_Labeled_AE   thrombotic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  began as early as the first weeks of treatment. The increase in  CV≠B-NonOSE_AE   thrombotic≠I-NonOSE_AE   risk≠I-NonOSE_AE  has been observed most consistently at higher doses.  
+
+  In the APC ( Adenoma≠B-Not_AE_Candidate  Prevention with Celecoxib) trial, the hazard ratio for the composite endpoint of  cardiovascular≠B-OSE_Labeled_AE   death≠I-OSE_Labeled_AE ,  MI≠B-OSE_Labeled_AE , or  stroke≠B-OSE_Labeled_AE  was 3.4 (95% CI 1.4 - 8.5) for CELEBREX 400 mg twice daily and 2.8 (95% CI 1.1 - 7.2) with CELEBREX 200 mg twice daily compared to placebo. Cumulative rates for this composite endpoint over 3 years were 3.0% (20/671 subjects) and 2.5% (17/685 subjects), respectively, compared to 0.9% (6/679 subjects) with placebo treatment. The increases in both celecoxib dose groups versus placebo-treated patients were mainly due to an increased incidence of  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE  [ see  Clinical Studies (14.6)    ].  
+
+  To minimize the potential risk for an  adverse≠B-NonOSE_AE   CV≠I-NonOSE_AE   event≠I-NonOSE_AE  in NSAID-treated patients, use the lowest effective dose for the shortest duration possible. Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous  CV≠B-NonOSE_AE   symptoms≠I-NonOSE_AE . Patients should be informed about the symptoms of serious  CV≠B-NonOSE_AE   events≠I-NonOSE_AE  and the steps to take if they occur.  
+
+  There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious  CV≠B-NonOSE_AE   thrombotic≠I-NonOSE_AE   events≠I-NonOSE_AE  associated with NSAID use. The concurrent use of aspirin and an NSAID, such as celecoxib, increases the risk of serious  gastrointestinal≠B-NonOSE_AE   (≠I-NonOSE_AE  GI≠I-NonOSE_AE  )≠I-NonOSE_AE   events≠I-NonOSE_AE  [ see  Warnings and Precautions (5.2)    ].  
+
+    Status Post Coronary Artery Bypass Graft (CABG) Surgery  
+
+  Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of  pain≠B-Not_AE_Candidate  in the first 10-14 days following CABG surgery found an increased incidence of  myocardial≠B-NonOSE_AE   infarction≠I-NonOSE_AE  and  stroke≠B-NonOSE_AE . NSAIDs are contraindicated in the setting of CABG [ see  Contraindications (4)    ].  
+
+    Post-MI Patients  
+
+  Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post- MI≠B-Not_AE_Candidate  period were at increased risk of  reinfarction≠B-OSE_Labeled_AE ,  CV≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   death≠I-OSE_Labeled_AE , and all-cause  mortality≠B-NonOSE_AE  beginning in the first week of treatment. In this same cohort, the incidence of  death≠B-NonOSE_AE  in the first year post- MI≠B-Not_AE_Candidate  was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients. Although the absolute rate of  death≠B-NonOSE_AE  declined somewhat after the first year post- MI≠B-Not_AE_Candidate , the increased relative risk of  death≠B-NonOSE_AE  in NSAID users persisted over at least the next four years of follow-up.  
+
+  Avoid the use of Celebrex in patients with a recent  MI≠B-Not_AE_Candidate  unless the benefits are expected to outweigh the risk of recurrent  CV≠B-NonOSE_AE   thrombotic≠I-NonOSE_AE   events≠I-NonOSE_AE . If Celebrex is used in patients with a recent  MI≠B-Not_AE_Candidate , monitor patients for signs of  cardiac≠B-NonOSE_AE   ischemia≠I-NonOSE_AE .  
+
+    5.2 Gastrointestinal Bleeding, Ulceration, and Perforation
+
+  NSAIDs, including celecoxib cause serious  gastrointestinal≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  GI≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   adverse≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  including  inflammation≠B-OSE_Labeled_AE ,  bleeding≠B-OSE_Labeled_AE ,  ulceration≠B-OSE_Labeled_AE , and  perforation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE  esophagus, stomach,  small≠I-OSE_Labeled_AE   intestine≠I-OSE_Labeled_AE , or large intestine, which can be  fatal≠B-NonOSE_AE . These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with CELEBREX. Only one in five patients who develop a serious  upper≠B-NonOSE_AE   GI≠I-NonOSE_AE   adverse≠I-NonOSE_AE   event≠I-NonOSE_AE  on NSAID therapy is symptomatic.  Upper≠B-OSE_Labeled_AE   GI≠I-OSE_Labeled_AE   ulcers≠I-OSE_Labeled_AE , gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3-6 months, and in about 2%-4% of patients treated for one year. However, even short-term NSAID therapy is not without risk.
+
+    Risk Factors for GI Bleeding, Ulceration, and Perforation  
+
+ Patients with a prior history of  peptic≠B-Not_AE_Candidate   ulcer≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  and/or  GI≠B-Not_AE_Candidate   bleeding≠I-Not_AE_Candidate  who used NSAIDs had a greater than 10-fold increased risk for developing a  GI≠B-OSE_Labeled_AE   bleed≠I-OSE_Labeled_AE  compared to patients without these risk factors. Other factors that increase the risk of  GI≠B-NonOSE_AE   bleeding≠I-NonOSE_AE  in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants; or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status. Most postmarketing reports of  fatal≠B-NonOSE_AE   GI≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  occurred in elderly or debilitated patients. Additionally, patients with advanced  liver≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  and/or  coagulopathy≠B-Not_AE_Candidate  are at increased risk for  GI≠B-NonOSE_AE   bleeding≠I-NonOSE_AE .
+
+ Complicated and symptomatic  ulcer≠B-OSE_Labeled_AE  rates were 0.78% at nine months for all patients in the CLASS trial, and 2.19% for the subgroup on low-dose ASA. Patients 65 years of age and older had an incidence of 1.40% at nine months, 3.06% when also taking ASA [see  Clinical Studies (14.6)  ].
+
+    Strategies to Minimize the GI Risks in NSAID-treated patients:  
+
+ *  Use the lowest effective dosage for the shortest possible duration. 
+ *  Avoid administration of more than one NSAID at a time. 
+ *  Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of  bleeding≠B-NonOSE_AE . For such patients, as well as those with active  GI≠B-Not_AE_Candidate   bleeding≠I-Not_AE_Candidate , consider alternate therapies other than NSAIDs. 
+ *  Remain alert for signs and symptoms of  GI≠B-NonOSE_AE   ulceration≠I-NonOSE_AE  and bleeding during NSAID therapy. 
+ *  If a serious  GI≠B-NonOSE_AE   adverse≠I-NonOSE_AE   event≠I-NonOSE_AE  is suspected, promptly initiate evaluation and treatment, and discontinue CELEBREX until a serious  GI≠B-NonOSE_AE   adverse≠I-NonOSE_AE   event≠I-NonOSE_AE  is ruled out. 
+ *  In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of  GI≠B-NonOSE_AE   bleeding≠I-NonOSE_AE  [ see  Drug Interactions (7)   ]. 
+       5.3  Hepatotoxicity≠B-OSE_Labeled_AE 
+ 
+
+   Elevations≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE  ALT or  AST≠I-OSE_Labeled_AE  (three or more times the upper limit of normal [ULN]) have been reported in approximately 1% of NSAID-treated patients in clinical trials. In addition, rare, sometimes  fatal≠B-NonOSE_AE , cases of severe  hepatic≠B-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE , including  fulminant≠B-OSE_Labeled_AE   hepatitis≠I-OSE_Labeled_AE ,  liver≠B-OSE_Labeled_AE   necrosis≠I-OSE_Labeled_AE , and  hepatic≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  have been reported.
+
+  Elevations≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   ALT≠I-OSE_Labeled_AE  or AST (less than three times ULN) may occur in up to 15% of patients treated with NSAIDs including celecoxib.
+
+ In controlled clinical trials of CELEBREX, the incidence of borderline  elevations≠B-OSE_Labeled_AE  (greater than or equal to 1.2 times and less than 3 times the upper limit  of≠I-OSE_Labeled_AE  normal) of  liver≠I-OSE_Labeled_AE   associated≠I-OSE_Labeled_AE   enzymes≠I-OSE_Labeled_AE  was 6% for CELEBREX and 5% for placebo, and approximately 0.2% of patients taking CELEBREX and 0.3% of patients taking placebo had notable  elevations≠B-NonOSE_AE  of ALT and  AST≠I-NonOSE_AE .
+
+ Inform patients of the warning signs and symptoms of  hepatotoxicity≠B-NonOSE_AE  (e.g.,  nausea≠B-NonOSE_AE ,  fatigue≠B-NonOSE_AE ,  lethargy≠B-NonOSE_AE ,  diarrhea≠B-NonOSE_AE ,  pruritus≠B-NonOSE_AE ,  jaundice≠B-NonOSE_AE ,  right≠B-NonOSE_AE   upper≠I-NonOSE_AE   quadrant≠I-NonOSE_AE   tenderness≠I-NonOSE_AE , and  "≠B-NonOSE_AE  flu≠I-NonOSE_AE  -≠I-NonOSE_AE  like≠I-NonOSE_AE  "≠I-NonOSE_AE   symptoms≠I-NonOSE_AE ). If clinical signs and symptoms consistent with  liver≠B-NonOSE_AE   disease≠I-NonOSE_AE  develop, or if systemic manifestations occur (e.g.,  eosinophilia≠B-NonOSE_AE ,  rash≠B-NonOSE_AE , etc.), discontinue CELEBREX immediately, and perform a clinical evaluation of the patient.
+
+    5.4 Hypertension
+
+  NSAIDs, including CELEBREX can lead to new onset of  hypertension≠B-OSE_Labeled_AE  or  worsening≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   preexisting≠I-OSE_Labeled_AE   hypertension≠I-OSE_Labeled_AE , either of which may contribute to the increased incidence of  CV≠B-NonOSE_AE   events≠I-NonOSE_AE . Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics or loop diuretics may have impaired response to these therapies when taking NSAIDs [ see  Drug Interactions (7)    ].
+
+ The rates of  hypertension≠B-OSE_Labeled_AE  from the CLASS trial in the CELEBREX, ibuprofen and diclofenac-treated patients were 2.4%, 4.2% and 2.5%, respectively [see   Clinical Studies (14.6)    ].
+
+ Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.
+
+    5.5 Heart Failure and Edema
+
+   The Coxib and traditional NSAID Trialists' Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for  heart≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients. In a Danish National Registry study of patients with  heart≠B-Not_AE_Candidate   failure≠I-Not_AE_Candidate , NSAID use increased the risk of  MI≠B-OSE_Labeled_AE , hospitalization for  heart≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE , and  death≠B-NonOSE_AE .  
+
+  Additionally,  fluid≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE  and  edema≠B-OSE_Labeled_AE  have been observed in some patients treated with NSAIDs. Use of celecoxib may blunt the  CV≠B-NonOSE_AE   effects≠I-NonOSE_AE  of several therapeutic agents used to treat these medical conditions (e.g., diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]) [ see  Drug Interactions (7)    ].  
+
+  In the CLASS study [ see  Clinical Studies (14.6)    ], the Kaplan-Meier cumulative rates at 9 months of  peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE  in patients on CELEBREX 400 mg twice daily (4-fold and 2-fold the recommended  OA≠B-Not_AE_Candidate  and  RA≠B-Not_AE_Candidate  doses, respectively), ibuprofen 800 mg three times daily and diclofenac 75 mg twice daily were 4.5%, 6.9% and 4.7%, respectively.  
+
+  Avoid the use of CELEBREX in patients with severe  heart≠B-Not_AE_Candidate   failure≠I-Not_AE_Candidate  unless the benefits are expected to outweigh the risk of  worsening≠B-NonOSE_AE   heart≠I-NonOSE_AE   failure≠I-NonOSE_AE . If CELEBREX is used in patients with severe  heart≠B-Not_AE_Candidate   failure≠I-Not_AE_Candidate , monitor patients for signs of  worsening≠B-NonOSE_AE   heart≠I-NonOSE_AE   failure≠I-NonOSE_AE .  
+
+    5.6 Renal Toxicity and Hyperkalemia
+
+   Renal Toxicity  
+
+ Long-term administration of NSAIDs has resulted in  renal≠B-OSE_Labeled_AE   papillary≠I-OSE_Labeled_AE   necrosis≠I-OSE_Labeled_AE  and other  renal≠B-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE .
+
+  Renal≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion. In these patients, administration of an NSAID may cause a dose-dependent  reduction≠B-NonOSE_AE   in≠I-NonOSE_AE  prostaglandin formation and, secondarily, in  renal≠I-NonOSE_AE   blood≠I-NonOSE_AE   flow≠I-NonOSE_AE , which may precipitate overt  renal≠B-NonOSE_AE   decompensation≠I-NonOSE_AE . Patients at greatest risk of this reaction are those with  impaired≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate ,  dehydration≠B-Not_AE_Candidate ,  hypovolemia≠B-Not_AE_Candidate  ,   heart≠B-Not_AE_Candidate   failure≠I-Not_AE_Candidate ,  liver≠B-Not_AE_Candidate   dysfunction≠I-Not_AE_Candidate , those taking diuretics, ACE-inhibitors or the ARBs, and the elderly. Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
+
+ No information is available from controlled clinical studies regarding the use of CELEBREX in patients with advanced  renal≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate . The  renal≠B-NonOSE_AE   effects≠I-NonOSE_AE  of CELEBREX may hasten the  progression≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE  in patients with preexisting  renal≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate .
+
+ Correct volume status in  dehydrated≠B-Not_AE_Candidate  or  hypovolemic≠B-Not_AE_Candidate  patients prior to initiating CELEBREX. Monitor renal function in patients with  renal≠B-Not_AE_Candidate  or hepatic  impairment≠I-Not_AE_Candidate ,  heart≠B-Not_AE_Candidate   failure≠I-Not_AE_Candidate ,  dehydration≠B-Not_AE_Candidate , or  hypovolemia≠B-Not_AE_Candidate  during use of CELEBREX [ see  Drug Interactions (7)    ] .  Avoid the use of CELEBREX in patients with advanced  renal≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  unless the benefits are expected to outweigh the risk of  worsening≠B-NonOSE_AE   renal≠I-NonOSE_AE   function≠I-NonOSE_AE . If CELEBREX is used in patients with advanced  renal≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate , monitor patients for signs of  worsening≠B-NonOSE_AE   renal≠I-NonOSE_AE   function≠I-NonOSE_AE .
+
+    Hyperkalemia  
+
+  Increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   potassium≠I-OSE_Labeled_AE   concentration≠I-OSE_Labeled_AE , including  hyperkalemia≠B-OSE_Labeled_AE , have been reported with use of NSAIDs, even in some patients without  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate . In patients with normal renal function, these effects have been attributed to a  hyporeninemic≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate   hypoadosteronism≠I-Not_AE_Candidate   state≠I-Not_AE_Candidate .
+
+    5.7 Anaphylactic Reactions
+
+  Celecoxib has been associated with  anaphylactic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  in patients with and without known  hypersensitivity≠B-Not_AE_Candidate   to≠I-Not_AE_Candidate   celecoxib≠I-Not_AE_Candidate  and in patients with  aspirin≠B-Not_AE_Candidate   sensitive≠I-Not_AE_Candidate   asthma≠I-Not_AE_Candidate . Celebrex is a sulfonamide and both NSAIDs and sulfonamides may cause  allergic≠B-OSE_Labeled_AE   type≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  including  anaphylactic≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE  and life-threatening or less severe  asthmatic≠B-OSE_Labeled_AE   episodes≠I-OSE_Labeled_AE  in certain susceptible people [see   Contraindications (4)  and  Warnings and Precautions (5.8)    ].
+
+ Seek emergency help if any  anaphylactic≠B-NonOSE_AE   reaction≠I-NonOSE_AE  occurs.
+
+    5.8 Exacerbation of Asthma Related to Aspirin Sensitivity
+
+  A subpopulation of patients with  asthma≠B-Not_AE_Candidate  may have  aspirin≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  sensitive≠I-Not_AE_Candidate   asthma≠I-Not_AE_Candidate  which may include chronic  rhinosinusitis≠B-Not_AE_Candidate  complicated by  nasal≠B-Not_AE_Candidate   polyps≠I-Not_AE_Candidate ; severe, potentially  fatal≠B-NonOSE_AE   bronchospasm≠B-Not_AE_Candidate ; and/or  intolerance≠B-Not_AE_Candidate   to≠I-Not_AE_Candidate   aspirin≠I-Not_AE_Candidate  and other NSAIDs. Because  cross≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  reactivity≠I-Not_AE_Candidate  between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, CELEBREX is contraindicated in patients with this form of aspirin sensitivity [ see  Contraindications (4)    ]. When CELEBREX is used in patients with preexisting  asthma≠B-Not_AE_Candidate  (without known  aspirin≠B-NonOSE_AE   sensitivity≠I-NonOSE_AE ), monitor patients for changes in the signs and symptoms of  asthma≠B-NonOSE_AE .
+
+    5.9 Serious Skin Reactions
+
+  Serious  skin≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  have occurred following treatment with Celebrex, including  erythema≠B-OSE_Labeled_AE   multiforme≠I-OSE_Labeled_AE ,  exfoliative≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ,  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  SJS≠I-OSE_Labeled_AE ),  toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  TEN≠I-OSE_Labeled_AE ),  drug≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   eosinophilia≠I-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   systemic≠I-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  DRESS≠I-OSE_Labeled_AE ), and  acute≠B-OSE_Labeled_AE   generalized≠I-OSE_Labeled_AE   exanthematous≠I-OSE_Labeled_AE   pustulosis≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  AGEP≠I-OSE_Labeled_AE ). These serious events may occur without warning and can be  fatal≠B-NonOSE_AE .
+
+ Inform patients about the signs and symptoms of serious  skin≠B-NonOSE_AE   reactions≠I-NonOSE_AE , and to discontinue the use of CELEBREX at the first appearance of  skin≠B-NonOSE_AE   rash≠I-NonOSE_AE  or any other sign of  hypersensitivity≠B-NonOSE_AE . CELEBREX is contraindicated in patients with previous serious  skin≠B-Not_AE_Candidate   reactions≠I-Not_AE_Candidate   to≠I-Not_AE_Candidate   NSAIDs≠I-Not_AE_Candidate  [ see  Contraindications (4)    ].
+
+    5.10 Premature Closure of Fetal Ductus Arteriosus
+
+  Celecoxib may cause  premature≠B-OSE_Labeled_AE   closure≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   ductus≠I-OSE_Labeled_AE   arteriosus≠I-OSE_Labeled_AE . Avoid use of NSAIDs, including CELEBREX, in  pregnant≠B-Not_AE_Candidate  women starting at 30 weeks of gestation (third trimester) [ see  Use in Specific Populations (8.1)    ].
+
+    5.11  Hematological≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE 
+
+   Anemia≠B-OSE_Labeled_AE  has occurred in NSAID-treated patients. This may be due to occult or gross  blood≠B-Not_AE_Candidate   loss≠I-Not_AE_Candidate ,  fluid≠B-Not_AE_Candidate   retention≠I-Not_AE_Candidate , or an incompletely described  effect≠B-Not_AE_Candidate   on≠I-Not_AE_Candidate   erythropoiesis≠I-Not_AE_Candidate . If a patient treated with CELEBREX has any signs or symptoms of  anemia≠B-NonOSE_AE , monitor hemoglobin or hematocrit.
+
+ In controlled clinical trials the incidence of  anemia≠B-OSE_Labeled_AE  was 0.6% with CELEBREX and 0.4% with placebo. Patients on long-term treatment with CELEBREX should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of  anemia≠B-NonOSE_AE  or  blood≠B-NonOSE_AE   loss≠I-NonOSE_AE .
+
+ NSAIDs, including CELEBREX, may increase the risk of  bleeding≠B-OSE_Labeled_AE  events. Co-morbid conditions such as  coagulation≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate  or concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk. Monitor these patients for signs of  bleeding≠B-NonOSE_AE  [ see  Drug Interactions (7)    ].
+
+    5.12 Masking of Inflammation and Fever
+
+  The pharmacological activity of CELEBREX in  reducing≠B-NonOSE_AE   inflammation≠I-NonOSE_AE , and possibly fever, may diminish the utility of diagnostic signs in detecting  infections≠B-NonOSE_AE .
+
+    5.13 Laboratory Monitoring
+
+  Because serious  GI≠B-NonOSE_AE   bleeding≠I-NonOSE_AE ,  hepatotoxicity≠B-NonOSE_AE , and  renal≠B-NonOSE_AE   injury≠I-NonOSE_AE  can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [ see  Warnings and Precautions (5.2  ,  5.3  ,  5.6)    ].
+
+ In controlled clinical trials,  elevated≠B-OSE_Labeled_AE   BUN≠I-OSE_Labeled_AE  occurred more frequently in patients receiving CELEBREX compared with patients on placebo. This  laboratory≠B-NonOSE_AE   abnormality≠I-NonOSE_AE  was also seen in patients who received comparator NSAIDs in these studies. The clinical significance of this abnormality has not been established.
+
+    5.14 Disseminated Intravascular Coagulation (DIC)
+
+  Because of the risk of  disseminated≠B-OSE_Labeled_AE   intravascular≠I-OSE_Labeled_AE   coagulation≠I-OSE_Labeled_AE  with use of CELEBREX in pediatric patients with systemic onset  JRA≠B-Not_AE_Candidate , monitor patients for signs and symptoms of  abnormal≠B-NonOSE_AE   clotting≠I-NonOSE_AE  or  bleeding≠B-NonOSE_AE , and inform patients and their caregivers to report symptoms as soon as possible.
+

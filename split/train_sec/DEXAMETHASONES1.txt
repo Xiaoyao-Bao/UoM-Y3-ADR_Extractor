@@ -1,0 +1,50 @@
+  ADVERSE REACTIONS
+
+    (Listed alphabetically, under each subsection)  
+
+ The following adverse reactions have been reported with dexamethasone or other corticosteroids:
+
+   Allergic Reactions
+
+   Anaphylactoid≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  anaphylaxis≠B-OSE_Labeled_AE ,  angioedema≠B-OSE_Labeled_AE .
+
+   Cardiovascular
+
+   Bradycardia≠B-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   arrest≠I-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   arrhythmias≠I-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   enlargement≠I-OSE_Labeled_AE ,  circulatory≠B-OSE_Labeled_AE   collapse≠I-OSE_Labeled_AE ,  congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  fat≠B-OSE_Labeled_AE   embolism≠I-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE ,  hypertrophic≠B-OSE_Labeled_AE   cardiomyopathy≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   premature≠I-OSE_Labeled_AE   infants≠I-OSE_Labeled_AE ,  myocardial≠B-OSE_Labeled_AE   rupture≠I-OSE_Labeled_AE  following recent  myocardial≠B-Not_AE_Candidate   infarction≠I-Not_AE_Candidate  (see    WARNINGS  :  Cardio-Renal    ),  edema≠B-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  syncope≠B-OSE_Labeled_AE ,  tachycardia≠B-OSE_Labeled_AE ,  thromboembolism≠B-OSE_Labeled_AE ,  thrombophlebitis≠B-OSE_Labeled_AE ,  vasculitis≠B-OSE_Labeled_AE .
+
+   Dermatologic
+
+   Acne≠B-OSE_Labeled_AE ,  allergic≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE  scaly  skin≠I-OSE_Labeled_AE ,  ecchymoses≠B-OSE_Labeled_AE  and  petechiae≠B-OSE_Labeled_AE ,  erythema≠B-OSE_Labeled_AE ,  impaired≠B-OSE_Labeled_AE   wound≠I-OSE_Labeled_AE   healing≠I-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   sweating≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE ,  striae≠B-OSE_Labeled_AE ,  suppression≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE   tests≠I-OSE_Labeled_AE ,  thin≠B-OSE_Labeled_AE   fragile≠I-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE ,  thinning≠B-OSE_Labeled_AE   scalp≠I-OSE_Labeled_AE   hair≠I-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE .
+
+   Endocrine
+
+   Decreased≠B-OSE_Labeled_AE   carbohydrate≠I-OSE_Labeled_AE  and glucose  tolerance≠I-OSE_Labeled_AE , development of  cushingoid≠B-OSE_Labeled_AE   state≠I-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  glycosuria≠B-OSE_Labeled_AE ,  hirsutism≠B-OSE_Labeled_AE ,  hypertrichosis≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   requirements≠I-OSE_Labeled_AE   for≠I-OSE_Labeled_AE   insulin≠I-OSE_Labeled_AE  or oral hypoglycemic agents  in≠I-OSE_Labeled_AE   diabetes≠I-OSE_Labeled_AE , manifestations of  latent≠B-OSE_Labeled_AE   diabetes≠I-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE ,  menstrual≠B-OSE_Labeled_AE   irregularities≠I-OSE_Labeled_AE ,  secondary≠B-OSE_Labeled_AE   adrenocortical≠I-OSE_Labeled_AE  and pituitary  unresponsiveness≠I-OSE_Labeled_AE  (particularly in times of  stress≠B-Not_AE_Candidate , as in trauma, surgery, or  illness≠B-Not_AE_Candidate ),  suppression≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   growth≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   pediatric≠I-OSE_Labeled_AE   patients≠I-OSE_Labeled_AE .
+
+   Fluid and Electrolyte Disturbances
+
+   Congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  in susceptible patients,  fluid≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE ,  hypokalemic≠B-OSE_Labeled_AE   alkalosis≠I-OSE_Labeled_AE ,  potassium≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE ,  sodium≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE .
+
+   Gastrointestinal
+
+   Abdominal≠B-OSE_Labeled_AE   distention≠I-OSE_Labeled_AE ,  elevation≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   enzyme≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE  (usually reversible upon discontinuation),  hepatomegaly≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  pancreatitis≠B-OSE_Labeled_AE ,  peptic≠B-OSE_Labeled_AE   ulcer≠I-OSE_Labeled_AE  with possible perforation and hemorrhage,  perforation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   small≠I-OSE_Labeled_AE  and large  intestine≠I-OSE_Labeled_AE  (particularly in patients with  inflammatory≠B-Not_AE_Candidate   bowel≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate ),  ulcerative≠B-OSE_Labeled_AE   esophagitis≠I-OSE_Labeled_AE .
+
+   Metabolic
+
+   Negative≠B-NonOSE_AE   nitrogen≠I-NonOSE_AE   balance≠I-NonOSE_AE  due to  protein≠B-OSE_Labeled_AE   catabolism≠I-OSE_Labeled_AE .
+
+   Musculoskeletal
+
+   Aseptic≠B-OSE_Labeled_AE   necrosis≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   femoral≠I-OSE_Labeled_AE  and humeral  heads≠I-OSE_Labeled_AE ,  loss≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   muscle≠I-OSE_Labeled_AE   mass≠I-OSE_Labeled_AE ,  muscle≠B-OSE_Labeled_AE   weakness≠I-OSE_Labeled_AE ,  osteoporosis≠B-OSE_Labeled_AE ,  pathologic≠B-OSE_Labeled_AE   fracture≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   long≠I-OSE_Labeled_AE   bones≠I-OSE_Labeled_AE ,  steroid≠B-OSE_Labeled_AE   myopathy≠I-OSE_Labeled_AE ,  tendon≠B-OSE_Labeled_AE   rupture≠I-OSE_Labeled_AE ,  vertebral≠B-OSE_Labeled_AE   compression≠I-OSE_Labeled_AE   fractures≠I-OSE_Labeled_AE .
+
+   Neurological/Psychiatric
+
+   Convulsions≠B-OSE_Labeled_AE ,  depression≠B-OSE_Labeled_AE ,  emotional≠B-OSE_Labeled_AE   instability≠I-OSE_Labeled_AE ,  euphoria≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   intracranial≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE  with  papilledema≠B-OSE_Labeled_AE  ( pseudotumor≠B-OSE_Labeled_AE   cerebri≠I-OSE_Labeled_AE ) usually following discontinuation of treatment,  insomnia≠B-OSE_Labeled_AE ,  mood≠B-OSE_Labeled_AE   swings≠I-OSE_Labeled_AE ,  neuritis≠B-OSE_Labeled_AE ,  neuropathy≠B-OSE_Labeled_AE ,  paresthesia≠B-OSE_Labeled_AE ,  personality≠B-OSE_Labeled_AE   changes≠I-OSE_Labeled_AE ,  psychic≠B-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE ,  vertigo≠B-OSE_Labeled_AE .
+
+   Ophthalmic
+
+   Exophthalmos≠B-OSE_Labeled_AE ,  glaucoma≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   intraocular≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE ,  posterior≠B-OSE_Labeled_AE   subcapsular≠I-OSE_Labeled_AE   cataracts≠I-OSE_Labeled_AE .
+
+   Other
+
+   Abnormal≠B-OSE_Labeled_AE   fat≠I-OSE_Labeled_AE   deposits≠I-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   resistance≠I-OSE_Labeled_AE   to≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  hiccups≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE  or decreased  motility≠I-OSE_Labeled_AE  and number  of≠I-OSE_Labeled_AE   spermatozoa≠I-OSE_Labeled_AE ,  malaise≠B-OSE_Labeled_AE ,  moon≠B-OSE_Labeled_AE   face≠I-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE .
+

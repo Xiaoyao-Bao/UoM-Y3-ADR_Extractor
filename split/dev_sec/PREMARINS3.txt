@@ -1,0 +1,154 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  Estrogens increase the risk of gallbladder disease (  5.4  ) 
+ *  Discontinue estrogen if severe hypercalcemia, loss of vision, severe hypertriglyceridemia or cholestatic jaundice occurs (  5.5  ,  5.6  ,  5.11  ,  5.12  ) 
+ *  Monitor thyroid function in women on thyroid replacement therapy (  5.13  ,  5.18  ) 
+    
+ 
+
+   5.1  Cardiovascular≠B-OSE_Labeled_AE   Disorders≠I-OSE_Labeled_AE 
+
+  An increased risk of  stroke≠B-OSE_Labeled_AE  and  DVT≠B-OSE_Labeled_AE  has been reported with estrogen-alone therapy. An increased risk of  PE≠B-NonOSE_AE ,  DVT≠B-NonOSE_AE ,  stroke≠B-NonOSE_AE  and  MI≠B-NonOSE_AE  has been reported with estrogen plus progestin therapy. Should any of these events occur or be suspected, estrogen with or without progestin therapy should be discontinued immediately.
+
+ Risk factors for  arterial≠B-Not_AE_Candidate   vascular≠I-Not_AE_Candidate   disease≠I-Not_AE_Candidate  (for example,  hypertension≠B-Not_AE_Candidate ,  diabetes≠B-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate ,  tobacco≠B-Not_AE_Candidate   use≠I-Not_AE_Candidate ,  hypercholesterolemia≠B-Not_AE_Candidate , and  obesity≠B-Not_AE_Candidate ) and/or  venous≠B-Not_AE_Candidate   thromboembolism≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  VTE≠I-Not_AE_Candidate ) (for example, personal or family history of  VTE≠B-Not_AE_Candidate ,  obesity≠B-Not_AE_Candidate , and  systemic≠B-Not_AE_Candidate   lupus≠I-Not_AE_Candidate   erythematosus≠I-Not_AE_Candidate ) should be managed appropriately.
+
+    Stroke  
+
+ In the WHI estrogen-alone substudy, a statistically significant increased risk of  stroke≠B-OSE_Labeled_AE  was reported in women 50 to 79 years of age receiving daily CE (0.625 mg)-alone compared to women in the same age group receiving placebo (45 versus 33 per 10,000 women-years). The increase in risk was demonstrated in year 1 and persisted [see  Clinical Studies (14.5)  ]  . Should a  stroke≠B-NonOSE_AE  occur or be suspected, estrogen-alone therapy should be discontinued immediately.
+
+ Subgroup analyses of women 50 to 59 years of age suggest no increased risk of  stroke≠B-NonOSE_AE  for those women receiving CE (0.625 mg)-alone versus those receiving placebo (18 versus 21 per 10,000 women-years).  1  
+
+ In the WHI estrogen plus progestin substudy, a statistically significant increased risk of  stroke≠B-NonOSE_AE  was reported in women 50 to 79 years of age receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women in the same age group receiving placebo (33 versus 25 per 10,000 women-years) [see  Clinical Studies (14.5)  ]  . The increase in risk was demonstrated after the first year and persisted.  1  Should a  stroke≠B-NonOSE_AE  occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
+
+    Coronary Heart Disease  
+
+ In the WHI estrogen-alone substudy, no overall effect on  coronary≠B-NonOSE_AE   heart≠I-NonOSE_AE   disease≠I-NonOSE_AE   (≠I-NonOSE_AE  CHD≠I-NonOSE_AE ) events (defined as nonfatal  MI≠B-NonOSE_AE ,  silent≠B-NonOSE_AE   MI≠I-NonOSE_AE , or  CHD≠B-NonOSE_AE   death≠I-NonOSE_AE ) was reported in women receiving estrogen-alone compared to placebo  2     [see Clinical Studies (14.5)]    .
+
+ Subgroup analyses of women 50 to 59 years of age suggest a statistically non-significant reduction in  CHD≠B-NonOSE_AE  events (CE [0.625 mg]-alone compared to placebo) in women with less than 10 years since  menopause≠B-Not_AE_Candidate  (8 versus 16 per 10,000 women-years).  1  
+
+ In the WHI estrogen plus progestin substudy, there was a statistically non-significant increased risk of  CHD≠B-NonOSE_AE  events reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (41 versus 34 per 10,000 women-years).  1  An increase in relative risk was demonstrated in year 1, and a trend toward decreasing relative risk was reported in years 2 through 5 [see  Clinical Studies (14.5)  ]  .
+
+ In  postmenopausal≠B-Not_AE_Candidate  women with documented  heart≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  (n = 2,763, average 66.7 years of age), in a controlled clinical trial of secondary prevention of  cardiovascular≠B-Not_AE_Candidate   disease≠I-Not_AE_Candidate  (Heart and Estrogen/Progestin Replacement Study; HERS), treatment with daily CE (0.625 mg) plus MPA (2.5 mg) demonstrated no cardiovascular benefit. During an average follow-up of 4.1 years, treatment with CE plus MPA did not reduce the overall rate of  CHD≠B-NonOSE_AE  events in  postmenopausal≠B-Not_AE_Candidate  women with established  CHD≠B-Not_AE_Candidate . There were more  CHD≠B-NonOSE_AE  events in the CE plus MPA-treated group than in the placebo group in year 1, but not during the subsequent years. Two thousand, three hundred and twenty-one (2,321) women from the original HERS trial agreed to participate in an open label extension of HERS, HERS II. Average follow-up in HERS II was an additional 2.7 years, for a total of 6.8 years overall. Rates of  CHD≠B-NonOSE_AE   events≠I-NonOSE_AE  were comparable among women in the CE (0.625 mg) plus MPA (2.5 mg) group and the placebo group in HERS, HERS II, and overall.
+
+    Venous Thromboembolism (VTE)  
+
+ In the WHI estrogen-alone substudy, the risk of  VTE≠B-OSE_Labeled_AE  ( DVT≠B-OSE_Labeled_AE  and  PE≠B-OSE_Labeled_AE ), was increased for women receiving daily CE (0.625 mg)-alone compared to placebo (30 versus 22 per 10,000 women-years), although only the increased risk of  DVT≠B-OSE_Labeled_AE  reached statistical significance (23 versus 15 per 10,000 women-years). The increase in  VTE≠B-OSE_Labeled_AE  risk was demonstrated during the first 2 years  3   [see  Clinical Studies (14.5)  ]  . Should a  VTE≠B-NonOSE_AE  occur or be suspected, estrogen-alone therapy should be discontinued immediately.
+
+ In the WHI estrogen plus progestin substudy, a statistically significant 2-fold greater rate of  VTE≠B-NonOSE_AE  was reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (35 versus 17 per 10,000 women-years). Statistically significant increases in risk for both  DVT≠B-NonOSE_AE  (26 versus 13 per 10,000 women-years) and  PE≠B-NonOSE_AE  (18 versus 8 per 10,000 women-years) were also demonstrated. The increase in  VTE≠B-NonOSE_AE  risk was demonstrated during the first year and persisted  4   [see  Clinical Studies (14.5)  ]  . Should a  VTE≠B-NonOSE_AE  occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
+
+ If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of  thromboembolism≠B-NonOSE_AE , or during periods of prolonged immobilization.
+
+    5.2  Malignant≠B-OSE_Labeled_AE   Neoplasms≠I-OSE_Labeled_AE 
+
+   Endometrial Cancer  
+
+ An increased risk of  endometrial≠B-OSE_Labeled_AE   cancer≠I-OSE_Labeled_AE  has been reported with the use of unopposed estrogen therapy in a woman with a uterus. The reported  endometrial≠B-OSE_Labeled_AE   cancer≠I-OSE_Labeled_AE  risk among unopposed estrogen users is about 2 to 12 times greater than in non-users, and appears dependent on duration of treatment and on estrogen dose. Most studies show no significant increased risk associated with use of estrogens for less than 1 year. The greatest risk appears associated with prolonged use, with increased risks of 15- to 24-fold for 5 to 10 years or more, and this risk has been shown to persist for at least 8 to 15 years after estrogen therapy is discontinued.
+
+ Clinical surveillance of all women using estrogen-alone or estrogen plus progestin therapy is important. Adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out  malignancy≠B-NonOSE_AE  in  postmenopausal≠B-Not_AE_Candidate  women with undiagnosed persistent or recurring abnormal  genital≠B-Not_AE_Candidate   bleeding≠I-Not_AE_Candidate . There is no evidence that the use of natural estrogens results in a different endometrial risk profile than synthetic estrogens of equivalent estrogen dose. Adding a progestin to  postmenopausal≠B-NonOSE_AE  estrogen therapy has been shown to reduce the risk of  endometrial≠B-NonOSE_AE   hyperplasia≠I-NonOSE_AE , which may be a precursor to  endometrial≠B-NonOSE_AE   cancer≠I-NonOSE_AE .
+
+    Breast Cancer  
+
+ The most important randomized clinical trial providing information about  breast≠B-NonOSE_AE   cancer≠I-NonOSE_AE  in estrogen-alone users is the WHI substudy of daily CE (0.625 mg)-alone. In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE (0.625 mg)-alone was not associated with an increased risk of  invasive≠B-NonOSE_AE   breast≠I-NonOSE_AE   cancer≠I-NonOSE_AE  [relative risk (RR) 0.80]    5   [see  Clinical Studies (14.5)  ]  .
+
+ The most important randomized clinical trial providing information about  breast≠B-NonOSE_AE   cancer≠I-NonOSE_AE  in estrogen plus progestin users is the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg). After a mean follow-up of 5.6 years, the estrogen plus progestin substudy reported an increased risk of  invasive≠B-NonOSE_AE   breast≠I-NonOSE_AE   cancer≠I-NonOSE_AE  in women who took daily CE plus MPA. In this substudy, prior use of estrogen-alone or estrogen plus progestin therapy was reported by 26 percent of the women. The relative risk of  invasive≠B-NonOSE_AE   breast≠I-NonOSE_AE   cancer≠I-NonOSE_AE  was 1.24, and the absolute risk was 41 versus 33 cases per 10,000 women-years, for CE plus MPA compared with placebo.  6  Among women who reported prior use of hormone therapy, the relative risk of  invasive≠B-NonOSE_AE   breast≠I-NonOSE_AE   cancer≠I-NonOSE_AE  was 1.86, and the absolute risk was 46 versus 25 cases per 10,000 women-years for CE plus MPA compared with placebo. Among women who reported no prior use of hormone therapy, the relative risk of  invasive≠B-NonOSE_AE   breast≠I-NonOSE_AE   cancer≠I-NonOSE_AE  was 1.09, and the absolute risk was 40 versus 36 cases per 10,000 women-years for CE plus MPA compared with placebo. In the same substudy,  invasive≠B-NonOSE_AE   breast≠I-NonOSE_AE   cancers≠I-NonOSE_AE  were larger, were more likely to be node positive, and were diagnosed at a more advanced stage in the CE (0.625 mg) plus MPA (2.5 mg) group compared with the placebo group. Metastatic disease was rare, with no apparent difference between the two groups. Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups [see  Clinical Studies (14.5)  ]  .
+
+ Consistent with the WHI clinical trial, observational studies have also reported an increased risk of  breast≠B-OSE_Labeled_AE   cancer≠I-OSE_Labeled_AE  for estrogen plus progestin therapy, and a smaller increased risk for estrogen-alone therapy, after several years of use. The risk increased with duration of use, and appeared to return to baseline over about 5 years after stopping treatment (only the observational studies have substantial data on risk after stopping). Observational studies also suggest that the risk of  breast≠B-NonOSE_AE   cancer≠I-NonOSE_AE  was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy. However, these studies have not found significant variation in the risk of  breast≠B-NonOSE_AE   cancer≠I-NonOSE_AE  among different estrogen plus progestin combinations, doses, or routes of administration.
+
+ The use of estrogen-alone and estrogen plus progestin has been reported to result in an increase in  abnormal≠B-OSE_Labeled_AE   mammograms≠I-OSE_Labeled_AE , requiring further evaluation.
+
+ All women should receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations. In addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.
+
+    Ovarian Cancer  
+
+  The WHI estrogen plus progestin substudy reported a statistically non-significant increased risk of  ovarian≠B-NonOSE_AE   cancer≠I-NonOSE_AE . After an average follow-up of 5.6 years, the relative risk for  ovarian≠B-NonOSE_AE   cancer≠I-NonOSE_AE  for CE plus MPA versus placebo was 1.58 (95 percent CI 0.77-3.24). The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.  7    
+
+  A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for  menopausal≠B-Not_AE_Candidate   symptoms≠I-Not_AE_Candidate  had an increased risk for  ovarian≠B-OSE_Labeled_AE   cancer≠I-OSE_Labeled_AE . The primary analysis, using case-control comparisons, included 12,110  cancer≠B-NonOSE_AE  cases from the 17 prospective studies. The relative risks associated with current use of hormonal therapy was 1.41 (95% confidence interval [CI] 1.32 to 1.50); there was no difference in the risk estimates by duration of the exposure (less than 5 years [median of 3 years] vs. greater than 5 years [median of 10 years] of use before the  cancer≠B-NonOSE_AE  diagnosis). The relative risk associated with combined current and recent use (discontinued use within 5 years before  cancer≠B-NonOSE_AE  diagnosis) was 1.37 (95% CI 1.27-1.48), and the elevated risk was significant for both estrogen-alone and estrogen plus progestin products. The exact duration of hormone therapy use associated with an increased risk of  ovarian≠B-NonOSE_AE   cancer≠I-NonOSE_AE , however, is unknown.  
+
+    5.3 Probable Dementia
+
+  In the WHIMS estrogen-alone ancillary study of WHI, a population of 2,947 hysterectomized women 65 to 79 years of age was randomized to daily CE (0.625 mg)-alone or placebo.
+
+ After an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable  dementia≠B-OSE_Labeled_AE . The relative risk of probable  dementia≠B-OSE_Labeled_AE  for CE-alone versus placebo was 1.49 (95 percent CI 0.83-2.66). The absolute risk of probable  dementia≠B-OSE_Labeled_AE  for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years  8   [see  Use in Specific Populations (8.5)  , and  Clinical Studies (14.6)  ]  .
+
+ In the WHIMS estrogen plus progestin ancillary study of WHI, a population of 4,532  postmenopausal≠B-Not_AE_Candidate  women 65 to 79 years of age was randomized to daily CE (0.625 mg) plus MPA (2.5 mg) or placebo. After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable  dementia≠B-NonOSE_AE . The relative risk of probable  dementia≠B-NonOSE_AE  for CE plus MPA versus placebo was 2.05 (95 percent CI 1.21-3.48). The absolute risk of probable  dementia≠B-NonOSE_AE  for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years  8   [see  Use in Specific Populations (8.5)  , and  Clinical Studies (14.6)  ].  
+
+ When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable  dementia≠B-OSE_Labeled_AE  was 1.76 (95 percent CI 1.19-2.60). Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger  postmenopausal≠B-Not_AE_Candidate  women  8   [see  Use in Specific Populations (8.5)  , and  Clinical Studies (14.6)  ]  .
+
+    5.4 Gallbladder Disease
+
+  A 2- to 4-fold increase in the risk of  gallbladder≠B-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE  requiring surgery in  postmenopausal≠B-Not_AE_Candidate  women receiving estrogens has been reported.
+
+    5.5 Hypercalcemia
+
+  Estrogen administration may lead to severe  hypercalcemia≠B-OSE_Labeled_AE  in patients with  breast≠B-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  and  bone≠B-Not_AE_Candidate   metastases≠I-Not_AE_Candidate . If  hypercalcemia≠B-NonOSE_AE  occurs, use of the drug should be stopped and appropriate measures taken to  reduce≠B-NonOSE_AE   the≠I-NonOSE_AE   serum≠I-NonOSE_AE   calcium≠I-NonOSE_AE   level≠I-NonOSE_AE .
+
+    5.6  Visual≠B-OSE_Labeled_AE   Abnormalities≠I-OSE_Labeled_AE 
+
+   Retinal≠B-OSE_Labeled_AE   vascular≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE  has been reported in patients receiving estrogens. Discontinue medication pending examination if there is sudden  partial≠B-NonOSE_AE  or complete  loss≠I-NonOSE_AE   of≠I-NonOSE_AE   vision≠I-NonOSE_AE , or a sudden onset of  proptosis≠B-NonOSE_AE ,  diplopia≠B-NonOSE_AE , or  migraine≠B-NonOSE_AE . If examination reveals  papilledema≠B-NonOSE_AE  or  retinal≠B-NonOSE_AE   vascular≠I-NonOSE_AE   lesions≠I-NonOSE_AE , estrogens should be permanently discontinued.
+
+    5.7 Anaphylactic Reaction and Angioedema
+
+  Cases of  anaphylaxis≠B-OSE_Labeled_AE , which developed within minutes to hours after taking PREMARIN and require emergency medical management, have been reported in the postmarketing setting.  Skin≠B-OSE_Labeled_AE  (hives, pruritis, sw ollen≠B-OSE_Labeled_AE  l ips≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  tong≠I-OSE_Labeled_AE ue -≠B-OSE_Labeled_AE  face≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   and≠I-OSE_Labeled_AE   e≠I-OSE_Labeled_AE ither respiratory tract ( respiratory≠B-OSE_Labeled_AE   compr≠I-OSE_Labeled_AE omise) or gastrointestinal tract (abdominal pain, vomiting)   involveme≠B-OSE_Labeled_AE  n≠I-OSE_Labeled_AE  t≠I-OSE_Labeled_AE  ≠≠I-OSE_Labeled_AE  I-O≠I-OSE_Labeled_AE  S≠I-OSE_Labeled_AE  E≠I-OSE_Labeled_AE _ Labele d≠B-OSE_Labeled_AE  ≠≠I-OSE_Labeled_AE  I≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  OSE≠I-OSE_Labeled_AE  _≠I-OSE_Labeled_AE  Labeled≠I-OSE_Labeled_AE  _≠I-OSE_Labeled_AE  AE≠I-OSE_Labeled_AE    _≠I-OSE_Labeled_AE  ≠≠I-OSE_Labeled_AE I-OSE_Labeled_AE  AE≠I-OSE_L abeled≠I-OSE_Labeled_AE  _≠I-O SE≠B-OSE_Labeled_AE  _≠I-OSE_Labeled_AE  Labeled≠I-OSE_Labeled_AE  _≠I-OSE_Labeled_AE  AE≠I-OSE_Labeled_AE   A E≠B-OSE_Labeled_AE  ≠≠I-OSE_Labeled_AE  I≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  OSE≠I-OSE_Labeled_AE  _≠I-OSE_Labeled_AE Labeled_AE    has been noted.
+
+  Angioedema≠B-OSE_Labeled_AE  involving the tongue, larynx, face, hands, and feet requiring medical intervention has occurred postmarketing in patients taking PREMARIN. If  angioedema≠B-NonOSE_AE  involves the tongue, glottis, or larynx,  airway≠B-NonOSE_AE   obstruction≠I-NonOSE_AE  may occur. Patients who develop an  anaphylactic≠B-NonOSE_AE   reaction≠I-NonOSE_AE  with or without  angioedema≠B-NonOSE_AE  after treatment with PREMARIN should not receive PREMARIN again.
+
+    5.8 Addition of a Progestin When a Woman Has Not Had a Hysterectomy
+
+  Studies of the addition of a progestin for 10 or more days of a cycle of estrogen administration or daily with estrogen in a continuous regimen, have reported a lowered incidence of  endometrial≠B-NonOSE_AE   hyperplasia≠I-NonOSE_AE  than would be induced by estrogen treatment alone.  Endometrial≠B-NonOSE_AE   hyperplasia≠I-NonOSE_AE  may be a precursor to  endometrial≠B-NonOSE_AE   cancer≠I-NonOSE_AE .
+
+ There are, however, possible risks that may be associated with the use of progestins with estrogens compared to estrogen-alone regimens. These include an increased risk of  breast≠B-NonOSE_AE   cancer≠I-NonOSE_AE .
+
+    5.9 Elevated Blood Pressure
+
+  In a small number of case reports, substantial  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   pressure≠I-OSE_Labeled_AE  have been attributed to idiosyncratic reactions to estrogens. In a large, randomized, placebo-controlled clinical trial, a generalized effect of estrogen therapy on blood pressure was not seen.
+
+    5.10 Hypertriglyceridemia
+
+  In women with pre-existing  hypertriglyceridemia≠B-Not_AE_Candidate , estrogen therapy may be associated with  elevations≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   plasma≠I-OSE_Labeled_AE   triglycerides≠I-OSE_Labeled_AE  leading to  pancreatitis≠B-NonOSE_AE . Consider discontinuation of treatment if  pancreatitis≠B-NonOSE_AE  occurs.
+
+    5.11 Hepatic Impairment and/or Past History of Cholestatic Jaundice
+
+  Estrogens may be poorly metabolized in patients with  impaired≠B-Not_AE_Candidate   liver≠I-Not_AE_Candidate   function≠I-Not_AE_Candidate . For women with a history of  cholestatic≠B-Not_AE_Candidate   jaundice≠I-Not_AE_Candidate  associated with past estrogen use or with  pregnancy≠B-Not_AE_Candidate , caution should be exercised, and in the case of recurrence, medication should be discontinued.
+
+    5.12 Hypothyroidism
+
+  Estrogen administration leads to  increased≠B-OSE_Labeled_AE   thyroid≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  binding≠I-OSE_Labeled_AE   globulin≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  TBG≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE . Women with normal thyroid function can compensate for the  increased≠B-NonOSE_AE   TBG≠I-NonOSE_AE  by making more thyroid hormone, thus maintaining free T4and T3serum concentrations in the normal range. Women dependent on thyroid hormone replacement therapy who are also receiving estrogens may require increased doses of their thyroid replacement therapy. These women should have their thyroid function monitored in order to maintain their free thyroid hormone levels in an acceptable range.
+
+    5.13 Fluid Retention
+
+  Estrogens may cause some degree of  fluid≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE . Women with conditions that might be influenced by this factor, such as  cardiac≠B-Not_AE_Candidate  or renal  dysfunction≠I-Not_AE_Candidate , warrant careful observation when estrogen alone is prescribed.
+
+    5.14 Hypocalcemia
+
+  Estrogen therapy should be used with caution in individuals with  hypoparathyroidism≠B-Not_AE_Candidate  as estrogen-induced  hypocalcemia≠B-OSE_Labeled_AE  may occur.
+
+    5.15 Hereditary Angioedema
+
+  Exogenous estrogens may  exacerbate≠B-OSE_Labeled_AE   symptoms≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   angioedema≠I-OSE_Labeled_AE  in women with  hereditary≠B-Not_AE_Candidate   angioedema≠I-Not_AE_Candidate .
+
+    5.16  Exacerbation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   Endometriosis≠I-OSE_Labeled_AE 
+
+  A few cases of  malignant≠B-OSE_Labeled_AE   transformation≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   residual≠I-OSE_Labeled_AE   endometrial≠I-OSE_Labeled_AE   implants≠I-OSE_Labeled_AE  have been reported in women treated post-hysterectomy with estrogen-alone therapy. For women known to have residual  endometriosis≠B-Not_AE_Candidate  post-hysterectomy, the addition of progestin should be considered.
+
+    5.17 Exacerbation of Other Conditions
+
+  Estrogen therapy may cause an  exacerbation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   asthma≠I-OSE_Labeled_AE , diabetes mellitus, epilepsy, migraine, porphyria, systemic lupus erythematosus, and hepatic hemangiomas and should be used with caution in women with these conditions.
+
+    5.18 Laboratory Tests
+
+  Serum follicle stimulating hormone (FSH) and estradiol levels have not been shown to be useful in the management of moderate to severe  vasomotor≠B-Not_AE_Candidate   symptoms≠I-Not_AE_Candidate  and moderate to severe symptoms of  vulvar≠B-Not_AE_Candidate  and vaginal  atrophy≠I-Not_AE_Candidate .
+
+ Laboratory parameters may be useful in guiding dosage for the treatment of  hypoestrogenism≠B-Not_AE_Candidate  due to  hypogonadism≠B-Not_AE_Candidate , castration and  primary≠B-Not_AE_Candidate   ovarian≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate .
+
+    5.19 Drug-Laboratory Test Interactions
+
+   Accelerated≠B-OSE_Labeled_AE  prothrombin time, partial thromboplastin time, and  platelet≠I-OSE_Labeled_AE   aggregation≠I-OSE_Labeled_AE   time≠I-OSE_Labeled_AE ;  increased≠B-OSE_Labeled_AE   platelet≠I-OSE_Labeled_AE   count≠I-OSE_Labeled_AE ;  increased≠B-OSE_Labeled_AE  factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and  beta≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  thromboglobulin≠I-OSE_Labeled_AE ;  decreased≠B-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE  antifactor Xa and  antithrombin≠I-OSE_Labeled_AE   III≠I-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   antithrombin≠I-OSE_Labeled_AE   III≠I-OSE_Labeled_AE   activity≠I-OSE_Labeled_AE ;  increased≠B-OSE_Labeled_AE  levels of  fibrinogen≠I-OSE_Labeled_AE  and fibrinogen  activity≠I-OSE_Labeled_AE ;  increased≠B-OSE_Labeled_AE   plasminogen≠I-OSE_Labeled_AE  antigen and  activity≠I-OSE_Labeled_AE .
+
+  Increased≠B-OSE_Labeled_AE   thyroid≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  binding≠I-OSE_Labeled_AE   globulin≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  TBG≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE  leading to  increased≠B-NonOSE_AE   circulating≠I-NonOSE_AE   total≠I-NonOSE_AE   thyroid≠I-NonOSE_AE   hormone≠I-NonOSE_AE   levels≠I-NonOSE_AE  as measured by protein-bound iodine (PBI), T4levels (by column or by radioimmunoassay) or T3levels by radioimmunoassay.  T≠B-OSE_Labeled_AE  3≠I-OSE_Labeled_AE  resin≠I-OSE_Labeled_AE   uptake≠I-OSE_Labeled_AE   is≠I-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE , reflecting the  elevated≠B-NonOSE_AE   TBG≠I-NonOSE_AE . Free T4and free T3concentrations are unaltered. Women on thyroid replacement therapy may require higher doses of thyroid hormone.
+
+ Other binding proteins may be  elevated≠B-OSE_Labeled_AE  in serum, for example,  corticosteroid≠I-OSE_Labeled_AE   binding≠I-OSE_Labeled_AE   globulin≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  CBG≠I-OSE_Labeled_AE ), sex hormone-binding globulin (SHBG), leading to  increased≠B-NonOSE_AE   total≠I-NonOSE_AE   circulating≠I-NonOSE_AE   corticosteroids≠I-NonOSE_AE   and≠I-NonOSE_AE   sex≠I-NonOSE_AE   steroids≠I-NonOSE_AE , respectively. Free hormone concentrations, such as  testosterone≠B-OSE_Labeled_AE  and estradiol, may be  decreased≠I-OSE_Labeled_AE . Other plasma proteins may be  increased≠B-OSE_Labeled_AE  (angiotensinogen/renin substrate, alpha-1-antitrypsin,  ceruloplasmin≠I-OSE_Labeled_AE ).
+
+  Increased≠B-OSE_Labeled_AE   plasma≠I-OSE_Labeled_AE   high≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  density≠I-OSE_Labeled_AE   lipoprotein≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  HDL≠I-OSE_Labeled_AE ) and HDL2cholesterol subfraction concentrations,  reduced≠B-OSE_Labeled_AE   low≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  density≠I-OSE_Labeled_AE   lipoprotein≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  LDL≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE   concentrations≠I-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   triglyceride≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE .
+
+  Impaired≠B-OSE_Labeled_AE   glucose≠I-OSE_Labeled_AE   tolerance≠I-OSE_Labeled_AE .
+

@@ -1,0 +1,16 @@
+22 140 OSE_Labeled_AE
+15 295 Not_AE_Candidate
+27 331 Not_AE_Candidate
+3 380 Not_AE_Candidate
+22 390 OSE_Labeled_AE
+29 454 OSE_Labeled_AE
+11 531 OSE_Labeled_AE
+10 642 NonOSE_AE
+10 681 Not_AE_Candidate
+27 693 Not_AE_Candidate
+10 722 Not_AE_Candidate
+20 738 Not_AE_Candidate
+9 805 NonOSE_AE
+4 820 NonOSE_AE
+10 828 NonOSE_AE
+5,25 840,856 NonOSE_AE

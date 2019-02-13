@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="GALZIN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Clinical experience with zinc acetate has been limited. The following adverse reactions have been reported in patients with Wilson's disease on zinc therapy: a death following overdosage with zinc sulfate (See    OVERDOSAGE    ) and a death in a patient with advanced liver disease and hemolytic crisis where zinc sulfate was used as initial treatment; gastric irritation; elevations of serum alkaline phosphatase, amylase and lipase lasting from weeks to months suggesting pancreatitis. The levels usually return to high normal within the first one or two years of zinc therapy.
+
+
+
+   Drug Abuse and Dependence
+
+  Zinc acetate has no potential for abuse, and it is not related pharmacologically or structurally to any other drug known to have abuse potential.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  Zinc acetate is not recommended for the initial therapy of symptomatic patients because of the delay required for zinc-induced increase in enterocytic metallothionein and blockade of copper uptake. Symptomatic patients should be treated initially, using chelating agents. During initial therapy, neurological deterioration may occur as stores of copper are mobilized. Once initial therapy has been completed, and the patient is clinically stable, maintenance treatment with zinc acetate can be considered, but patients may be continued on initial therapy as clinically indicated.
+
+
+
+    Information for Patients
+
+
+
+  Patients should take GALZIN  (r)  on an empty stomach, at least one hour before or two to three hours after meals. Capsules should be swallowed whole, not opened or chewed. In the rare event of gastric intolerance of zinc, generally occurring with the morning dose, this dose may be taken between breakfast and lunch. Patients must be clinically monitored to determine the adequacy of zinc acetate therapy. Since strict adherence to the zinc regimen is essential for optimal control of copper distribution and metabolism, the physician must reinforce the need for compliance at each contact with the patient.
+
+
+
+    Monitoring Patients
+
+
+
+  Patients should be monitored primarily by assessment of existing signs and symptoms of Wilson's disease and 24-hour urine copper. Neuropsychiatric evaluations including speech as well as liver function tests including bilirubin and aminotransferases, should be done as appropriate.
+
+
+
+ The urinary excretion of copper is an accurate reflection of the body status of copper when patients are not on chelation therapy. The clinician should be aware that urinary copper levels are usually increased with chelation therapy such as penicillamine or trientine. Adequate zinc therapy will eventually decrease urinary copper excretion to 125 mug per 24 hours or less. A significant trend upward indicates impending loss of copper control. The non-ceruloplasmin plasma copper (also known as free copper) is obtained by subtracting the ceruloplasmin-bound copper from the total plasma copper. Each mg of ceruloplasmin contains 3 mug of copper. In the United States study, non-ceruloplasmin plasma copper concentration was kept below 20 mug/dL. Urine and plasma for copper determinations should be collected in copper-free containers and assayed with equipment capable of accurately measuring copper at levels as low as 0.01 mug/mL.
+
+
+
+ An additional monitoring tool, if available, is the amount of radioactivity measured in the plasma 1 or 2 hours after orally administered  64  copper. In adequately controlled patients, the amount is less than 1.2% of the administered dose. The level of hepatic copper should not be used to manage therapy since it does not differentiate between potentially toxic free copper and safely bound copper.
+
+
+
+ In all treated patients, 24-hour urinary zinc levels may be a useful measure of compliance with the zinc acetate regimen.
+
+
+
+    Drug Interactions
+
+
+
+  Pharmacodynamic studies in Wilson's disease patients failed to demonstrate drug interactions between zinc acetate (50 mg t.i.d.) and ascorbic acid (1 g daily), penicillamine (1 g daily), and trientine (1 g daily). Therefore, precautions for zinc acetate effects do not seem necessary when Wilson's disease patients are taking vitamin C or approved chelating agents. However, no data are available to demonstrate that zinc acetate should be added to other drugs used for the treatment of Wilson's disease patients or is safe.
+
+
+
+    Nursing Mothers
+
+
+
+  Zinc does appear in breast milk and zinc-induced copper deficiency in the nursing baby may occur. Therefore, it is recommended that women on zinc therapy not nurse their babies.
+
+
+
+    Pediatric Use
+
+
+
+  Results of observations in a small number of patients in the two clinical trials suggest that pediatric patients aged 10 years and above can be adequately maintained at doses between 75 to 150 mg elemental zinc daily in divided doses. No patients below the age of 10 years have been studied.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Zinc acetate has not been tested for its carcinogenic potential in long-term animal studies, for its mutagenic potential or for its effect on fertility in animals.
+
+
+
+ However, testing with other salts of zinc (zinc oxide, zinc stearate, zinc sulfate) did not reveal a mutagenicity potential in in vitro  Ames assays, and human embryonic lung cell chromosomal aberration assay, and in in vivo  rat dominant lethal assay, and rat bone marrow cell chromosomal aberration assay.
+
+
+
+ Other salts of zinc (zinc oxide, zinc chloride, zinc citrate, zinc maleate, zinc carbonate, zinc sulfate) and pure zinc dust at oral doses up to 326 mg/Kg/day (18 times the recommended human dose based on body surface area) were found to have no effect on fertility and reproductive performance of male and female rats.
+
+
+
+    Pregnancy:
+
+
+
+     Teratogenic Effects.    
+
+
+
+  Studies in pregnant women have not shown that zinc acetate or zinc sulfate increases the risk of fetal abnormalities if administered during all trimesters of pregnancy. If this drug is used during pregnancy, the possibility of fetal harm appears remote. Because studies cannot rule out the possibility of harm, however, zinc acetate should be used during pregnancy only if clearly needed. While zinc acetate should be used during pregnancy only if clearly needed, copper toxicosis can develop during pregnancy if anti-copper therapy is stopped.
+
+
+
+ Oral teratology studies have been performed with zinc sulfate in pregnant rats at doses up to 42.5 mg/Kg/day (2 times the recommended human dose based on body surface area), mice at doses up to 30 mg/Kg/day (1 time the recommended human dose based on body surface area), rabbits at doses up to 60 mg/Kg/day (6 times the recommended human dose based on body surface area) and hamsters at doses up to 88 mg/Kg/day (5 times the recommended human dose based on body surface area) and have revealed no evidence of impaired fertility or harm to the fetus due to zinc sulfate. (See   CLINICAL TRIALS    ).
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="25" name="heading" section="S1" start="611" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="622" />
+    <IgnoredRegion len="19" name="heading" section="S2" start="1268" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="3053" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="3608" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="3814" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="4132" />
+    <IgnoredRegion len="10" name="heading" section="S2" start="4997" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="5014" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="STERILE_WATER">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following adverse reactions have been identified during post approval use of Sterile Water for Irrigation. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+   Metabolism and Nutrition disorders  : Hyponatremia, fluid overload, fluid absorption, electrolyte imbalance  Nervous System Disorders  : Cerebral edema  General Disorders and Administration Site Conditions  : Burning sensation (with irrigation of eyes and skin wounds)  Musculoskeletal and Connective Tissue Disorders  : Rhabdomyolysis (myoglobinuria)  Renal and Urinary Disorders  : Renal failure
+
+
+
+ Other Adverse reactions which may occur in association with absorption of water for irrigation include:
+
+
+
+   Blood and Lymphatic System Disorders  : Hemolysis (hemoglobinemia, hemoglobinuria)  Metabolism and Nutrition Disorders  : Hypervolemia, hypoosmolality, hyperkalemia, acid/base balance disorder  Nervous System Disorders  : Encephalopathy (seizure, loss of vision, lethargy, disorientation, irritability, vomiting, nausea, headache)  Cardiac Disorders  : Cardiac arrest, cardiac failure, bradycardia, electrocardiogram abnormal  Vascular Disorders  : Hypertension, postoperative hypotension  Respiratory, Thoracic and Mediastinal Disorders:  Respiratory arrest, respiratory failure, pulmonary edema
+
+
+
+   EXCERPT:   Most common adverse reactions are: hyponatremia, fluid overload, fluid absorption, electrolyte imbalance. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    Baxter Healthcare Corporation at 1-866-888-2472    or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+
+
+
+ 
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *     Hypotonicity : Administration by parenteral routes can result in serious adverse reactions. For irrigation use only. (  5.1  ) 
+ *     Excessive Water Absorption : May result in hyponatremia, hypoosmolality and fluid overload. Monitor patients for absorption of clinically relevant amounts of fluid during and after the procedure. Additional monitoring is recommended for patients at increased risk of developing complications of fluid overload syndrome (e.g., patients with renal or cardiac impairment) or hyponatremic encephalopathy (e.g., pediatric patients; women, in particular premenopausal women; patients with hypoxemia; and patients with central nervous system disease). Avoid use in procedures that require longer irrigation times or an irrigation fluid pressure that promotes absorption. (  5.2  ,  8.4  ) 
+ *     Use with Electrosurgery/Cautery : Ensure compatibility with equipment used with electrosurgery or cautery. (  5.2  ) 
+    
+ 
+
+   5.1 Hypotonicity
+
+
+
+  Sterile Water for Irrigation is hypotonic with an osmolarity of zero mOsmol/L. It is intended for use as irrigation fluid and not for intravenous administration or administration by other, usual parenteral routes, such as intravascular administration in general, subcutaneous administration, or intramuscular administration.
+
+
+
+ Serious adverse reactions, including cerebral or pulmonary edema, massive hemolysis, and acute renal failure can result from the hypotonicity of Sterile Water for Irrigation [see  Warnings and Precautions (5.2)  ].
+
+
+
+    5.2 Excessive Water Absorption
+
+
+
+  Due to the hypotonicity, absorption of Sterile Water for Irrigation can result in serious adverse reactions of hyponatremia, hypoosmolality and fluid overload, resulting in fatality or permanent morbidity. Complications include cerebral edema, encephalopathy, pulmonary edema, massive hemolysis, rhabdomyolysis, renal failure, and hyperkalemia [see  Adverse Reactions (6)  ]. In addition, excessive volume or pressure of the irrigation fluid may also cause undue distension of body cavities and may cause tissue disruption (e.g., tears or perforation). These complications can manifest after irrigation has ended and immediate intervention may be required.
+
+
+
+ Monitor patients closely for absorption of clinically relevant amounts of fluid during and for an appropriate period after the procedure. If absorption occurs, discontinue Sterile Water for Irrigation.
+
+
+
+ Additional close monitoring during and/or after the procedure is recommended for patients at increased risk for developing complications related to hypotonicity, such as:
+
+
+
+ *    fluid overload syndrome, including patients with severe renal impairment, impaired cardiac function, or other clinical conditions associated with edematous states. 
+ *    hyponatremic encephalopathy, including pediatric patients; women, in particular premenopausal women; patients with hypoxemia; and patients with underlying central nervous system disease. 
+    Avoid use of Sterile Water for Irrigation in patients with wounds where significant absorption may occur, such as procedures that require irrigation over a longer period of time or an irrigation fluid pressure that promotes absorption (e.g., transurethral resection of prostate). Sterile Water for Irrigation should only be used by clinicians familiar with the treatment of possible complications.
+ 
+
+    5.3 Use with Electrosurgery/Cautery
+
+
+
+  In contrast to other irrigation fluids containing electrolytes, Sterile Water for Irrigation is non-conductive. Therefore, when choosing the distension solution/fluid used with electrosurgery or cautery, ensure compatibility with the equipment.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="966" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="1009" />
+    <IgnoredRegion len="292" name="excerpt" section="S1" start="1460" />
+    <IgnoredRegion len="30" name="heading" section="S2" start="1582" />
+    <IgnoredRegion len="35" name="heading" section="S2" start="3433" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,149 @@
+    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *  Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see Warnings and Precautions (  5.1  )].  
+ *  Serotonin Syndrome [see Warnings and Precautions (  5.2  )].  
+ *  Increased Risk of Bleeding [see Warnings and Precautions (  5.3  )].  
+ *  Activation of Mania or Hypomania [see Warnings and Precautions (  5.4  )].  
+ *  Discontinuation Syndrome [see Warnings and Precautions (  5.5  )].  
+ *  Seizures [see Warnings and Precautions (  5.6  )]  
+ *  Angle-Closure Glaucoma [see Warnings and Precautions (  5.7  )].  
+ *  Hyponatremia [see Warnings and Precautions (  5.8  )].  
+      EXCERPT:   Most common adverse reactions (incidence >= 5% and at least twice the rate of placebo): diarrhea, nausea, vomiting, and insomnia (  6  ).
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Forest Laboratories, LLC. at 1-800-678-1605 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch    .  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions and varying lengths of time, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect rates observed in practice.
+
+
+
+ The most commonly observed adverse reactions in VIIBRYD-treated patients with major depressive disorder (MDD) in placebo-controlled studies (incidence >= 5% and at least twice the rate of placebo) were diarrhea, nausea, vomiting, and insomnia.
+
+
+
+     Patient Exposure  
+
+
+
+ The safety of VIIBRYD was evaluated in 3,007 patients (18-70 years of age) diagnosed with MDD who participated in clinical studies, representing 676 patient-years of exposure. In an open-label 52 week study at 40 mg daily, 599 patients were exposed to VIIBRYD for a total of 348 patient-years.
+
+
+
+ The adverse reaction information presented below was derived from studies of VIIBRYD 20 mg and 40 mg daily in patients with MDD including:
+
+
+
+ *  Four placebo-controlled 8 to 10-week studies in 2,233 patients, including 1,266 VIIBRYD-treated patients; and 
+ *  An open-label 52-week study of 599 VIIBRYD-treated patients. 
+    These studies included a titration period of 10 mg daily for 7 days, followed by 20 mg daily for 7 days or to 40 mg daily over 2 weeks. In these clinical trials, VIIBRYD was administered with food.
+ 
+
+     Adverse reactions reported as reasons for discontinuation of treatment  
+
+
+
+ In these studies, 7.3% of the VIIBRYD-treated patients discontinued treatment due to an adverse reaction, compared with 3.5% of placebo-treated patients. The most common adverse reaction leading to discontinuation in at least 1% of the VIIBRYD-treated patients in the placebo-controlled studies was nausea (1.4%).
+
+
+
+     Common adverse reactions in placebo-controlled MDD studies  
+
+
+
+   Table 2  shows the incidence of common adverse reactions occuring in >= 2% of VIIBRYD-treated patients and greater than the rate of placebo-treated patients in MDD Studies. There were no dose-related adverse reactions between 20 mg and 40 mg reported.
+
+
+
+ Table 2: Common Adverse Reactions Occurring in >= 2% of VIIBRYD-treated Patients and Greater than the Rate of Placebo-Treated Patients 
+   System Organ Class    Preferred Term                 Placebo    N=967      VIIBRYD    20 mg/day    N=288      VIIBRYD    40 mg/day    N=978     
+  
+  1 Includes abdominal discomfort, abdominal pain upper, and abdominal pain.    
+  2 Includes headache and tension headache             
+  3 Includes restlessness, akathisia, and restless legs syndrome    
+  Sexual adverse reactions are presented in Table 3    
+  
+   Gastrointestinal disorders                                                                              
+       Diarrhea                                       10%              26%               29%               
+       Nausea                                         7%               22%               24%               
+       Dry mouth                                      5%               8%                7%                
+       Vomiting                                       2%               4%                5%                
+       Abdominal pain  1                              3%               7%                4%                
+       Dyspepsia                                      2%               2%                3%                
+       Flatulence                                     1%               3%                3%                
+       Gastroenteritis                                1%               1%                2%                
+       Abdominal distension                           1%               2%                1%                
+   Nervous system disorders                                                                                
+       Headache  2                                    14%              15%               14%               
+       Dizziness                                      5%               6%                8%                
+       Somnolence                                     2%               4%                5%                
+       Paresthesia                                    1%               1%                2%                
+   Psychiatric disorders                                                                                   
+       Insomnia                                       2%               7%                6%                
+       Abnormal dreams                                2%               2%                3%                
+       Restlessness  3                                1%               2%                3%                
+   General disorders                                                                                       
+       Fatigue                                        3%               4%                3%                
+   Cardiac disorders                                                                                       
+       Palpitations                                   <1%              1%                2%                
+   Metabolism and nutrition disorders                                                                      
+       Increased appetite                             1%               1%                3%                
+   Musculoskeletal and connective tissue disorders                                                         
+       Arthralgia                                     1%               2%                1%                
+   Investigations                                                                                          
+       Increased weight                               1%               1%                2%                
+              Sexual adverse reactions  
+ 
+
+   Table 3  displays the most common sexual adverse reactions in the placebo-controlled MDD studies.
+
+
+
+ Table 3: Common Sexual Adverse Reactions Occurring in >= 2% of VIIBRYD-treated Patients and Greater than the Rate of Placebo-Treated Patients 
+  - Not applicable*Includes abnormal orgasm and anorgasmia    
+  
+   Preferred Term               Males       Females      
+   Placebo    N=416             VIIBRYD 20 mg/day    N=122      VIIBRYD    40 mg/day    N=417      Placebo    N=551      VIIBRYD 20 mg/day    N=166      VIIBRYD    40 mg/day    N=561     
+ Abnormal Orgasm*             <1%         2%            2%            0%         1%            1%             
+ Erectile dysfunction         1%          0%            3%            -          -             -              
+ Libido decreased             <1%         3%            4%            <1%        2%            2%             
+ Ejaculation disorder         0%          1%            2%            -          -             -              
+                 Other adverse reactions observed in clinical studies  
+ 
+
+ The following list does not include reactions: 1) already listed in previous tables or elsewhere in labeling, 2) for which a drug cause was remote, 3) which were so general as to be uninformative, 4) which were not considered to have significant clinical implications, or 5) which occurred at a rate equal to or less than placebo.
+
+
+
+ Reactions are categorized by body system according to the following definitions:  frequent  adverse reactions are those occurring in at least 1/100 patients;  infrequent  adverse reactions are those occurring in 1/100 to 1/1000 patients;  rare  reactions are those occurring in fewer than 1/1000 patients:
+
+
+
+ *     Cardiac disorders: infrequent : ventricular extrasystoles 
+ *     Eye disorders: infrequent: dry eye, vision blurred, rare: cataracts 
+ *     Nervous System: frequent : sedation, tremor; infrequent : migraine 
+ *     Psychiatric disorders: infrequent : panic attack 
+ *     Skin and subcutaneous tissue disorders: infrequent : hyperhidrosis, night sweats 
+      6.2 Post-marketing Experience
+   The following adverse reactions have been identified during post-approval use of VIIBRYD. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency or establish a causal relationship to drug exposure. Reports of adverse reactions temporally associated with VIIBRYD that have been received since market introduction and that are not listed above include the following:
+
+
+
+ General Disorders and Administration Site Conditions: irritability
+
+
+
+ Psychiatric Disorders: hallucinations, suicide attempt, suicidal ideation
+
+
+
+ Skin and subcutaneous tissue disorders: rash, generalized rash, urticaria, drug eruption

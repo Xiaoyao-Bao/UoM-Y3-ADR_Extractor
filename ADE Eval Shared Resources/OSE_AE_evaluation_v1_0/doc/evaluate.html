@@ -1,0 +1,173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- Copyright (C) 2018 The MITRE Corporation. See the toplevel
+file LICENSE.txt for license terms. -->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html;
+      charset=windows-1252">
+    <title>ADE Eval: Evaluation Script</title>
+    <link href="css/doc.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <h1>Evaluation Script</h1>
+    <p>You can use this script to score your submission against a gold
+      standard.<br>
+    </p>
+    <h2>Usage</h2>
+    <pre>$ python scripts/evaluate.py --help<br>usage: evaluate.py [-h] [--medascii_dir MEDASCII_DIR] [--metrics METRICS] [--csv_outdir CSV_OUTDIR] [--suppress_score_output]<br>                   [--detail_spreadsheets] [--significant_digits SIGNIFICANT_DIGITS] [--compute_confidence_data]<br>                   GOLD RUN GUESSDIR [RUN GUESSDIR ...]<br><br>positional arguments:<br>  GOLD                  path to directory containing gold labels<br>  RUN GUESSDIR          run name and path to directory containing system output<br><br>optional arguments:<br>  -h, --help            show this help message and exit<br>  --medascii_dir MEDASCII_DIR<br>                        the MedAscii directory of your MedDRA 20.1 data distribution. When provided, the corpus reader will<br>                        perform MedDRA wellformedness checking.<br>  --metrics METRICS     comma-separated list of metric names to restrict the evaluation to. Legal names are: Exact mention<br>                        match - unweighted, Front office quality - label scope, MedDRA retrieval - macro-averaged by label,<br>                        MedDRA retrieval - macro-averaged by section, Overlap mention match - unweighted, Exact mention match<br>                        - weighted, Front office quality - section scope, Exact mention match, continuous - weighted<br>  --csv_outdir CSV_OUTDIR<br>                        when present, write all data to the CSV directory. The directory will be created if it doesn't exist.<br>  --suppress_score_output<br>                        if specified, results will not be printed to standard output<br>  --detail_spreadsheets<br>                        if specified, detail spreadsheets will be saved<br>  --significant_digits SIGNIFICANT_DIGITS<br>                        if specified, changes the number of significant digits presented in the CSV output (default is 2). 0<br>                        will eliminate any limitation. The standard output is not affected.<br>  --compute_confidence_data<br>                        if specified, use thousandfold bootstrapping to compute mean, variance, standard deviation. Currently<br>                        unimplemented (hopefully in a future update).<br></pre>
+    <p>This script can score multiple submissions simultaneously. The
+      gold directory is a directory of XML files in ADE Eval XML format,
+      as are all the guess directories. The run is an uninterpreted name
+      which you can use to distinguish among your runs in the output.<br>
+    </p>
+    <p>If you're participating in this evaluation, you'll likely have a
+      subscription to <a href="https://www.meddra.org">MedDRA</a>. If
+      you want the scorer to check the MedDRA normalizations in the
+      files in the XML document directories, download the MedDRA 20.1
+      English data distribution, unzip it, and provide the path to the
+      MedAscii subdirectory to the scorer as described above.</p>
+    <h2>Metrics</h2>
+    <p>As of version 1.0, the following primary metrics are reported by
+      the scorer. These metrics are described in detail in the document
+      "Evaluation Data, Metrics and Software Resources".<br>
+    </p>
+    <ul>
+      <li><b>Exact mention match - weighted</b>: this is the primary
+        "back office" metric</li>
+      <li><b>MedDRA retrieval - macro-averaged by section</b>: the first
+        "front office" metric, evaluating the presence of MedDRA codes<br>
+      </li>
+      <li><b>Front office quality - section scope</b>: the second "front
+        office" metric, evaluating the quality of the evidence
+        associated with the MedDRA codes<br>
+      </li>
+    </ul>
+    <p>In addition, the following informational metrics are provided:<br>
+    </p>
+    <ul>
+      <li><b>Exact mention match - unweighted</b>: this metric is the
+        standard recall/precision/f-measure on mentions, in which a
+        match requires both an exact span match and a match between
+        MedDRA codes.<br>
+      </li>
+      <li><b>Overlap mention match - unweighted</b>: this metric is like
+        the exact mention match, except that the span match condition is
+        overlap rather than exact match.<br>
+      </li>
+      <li><b>Exact mention match, continuous - weighted</b>: this metric
+        is a version of the primary "back office" metric, restricted to
+        non-discontinuous mentions.<br>
+      </li>
+      <li><b>MedDRA retrieval - macro-averaged by label</b>: this metric
+        is a version of the first "front office" metric, macro-averaged
+        at the label rather than the section level.<br>
+      </li>
+      <li><b>Front office quality - label scope</b>: this metric is a
+        version of the second "front office" metric, where the scope of
+        the metric is the label rather than the section.<br>
+      </li>
+    </ul>
+    <h2>The summary spreadsheets</h2>
+    <p>The scorer generates summary spreadsheets at various levels of
+      aggregation.<br>
+    </p>
+    <ul>
+      <li>The "back office" mention match metrics are reported at the
+        section, label, section type, and corpus levels.</li>
+      <li>The <b>MedDRA retrieval - macro-averaged by section</b> and <b>Front
+
+          office quality - section scope</b> metrics are reported at the
+        section and corpus levels.</li>
+      <li>The <b>MedDRA retrieval - macro-averaged by label</b> and <b>Front
+
+          office quality - label scope</b> metrics are reported at the
+        label and corpus levels</li>
+    </ul>
+    <p>When your scores are returned to you, you'll receive summary
+      spreadsheets aggregated at the corpus and section type levels.<br>
+    </p>
+    <p>The summary spreadsheets contain the following columns:<br>
+    </p>
+    <ul>
+      <li>run: the name of the run</li>
+      <li>file_basename (in the section and label aggregations): the
+        basename of the XML file</li>
+      <li>section_type (in the section and section type aggregations):
+        the section type, either "adverse reactions", "warnings and
+        precautions", "boxed warnings", "warnings", or "precautions"</li>
+      <li>metric: one of the metrics listed above</li>
+      <li>match: the number of matches<br>
+      </li>
+      <li>clash: the number of clashes</li>
+      <li>missing: the number of missing<br>
+      </li>
+      <li>spurious: the number of spurious</li>
+      <li>precision: the precision<br>
+      </li>
+      <li>recall: the recall<br>
+      </li>
+      <li>f1: the balanced f-measure</li>
+    </ul>
+    <p>For some metrics, some of the columns don't make sense (e.g.,
+      match/clash/missing/spurious for the macro-averaged metrics).<br>
+    </p>
+    <h2>The detail spreadsheet</h2>
+    <p>The detail spreadsheet is a record of the mention pairs between
+      each gold and submission document as determined by the
+      Kuhn-Munkres, or Hungarian, bipartite set alignment algorithm. The
+      detail spreadsheet contains the following columns:<br>
+    </p>
+    <ul>
+      <li>run: the name of the run</li>
+      <li>basename: the basename of the XML file</li>
+      <li>section: the section type (see above)</li>
+      <li>match_type: one of "match" (perfect match), "clash" (paired
+        with conflicts between the two mentions), "missing" (unpaired
+        gold), "spurious" (unpaired submission), "ignored" (a submission
+        annotation which is found in a region that is marked to be
+        ignored)</li>
+      <li>clashes: if match_type is "clash", the value will be either
+        "meddraclash", "spanclash:&lt;float&gt;" where the float is the
+        overlap fraction, or a vertical-bar-delimited sequence of the
+        two</li>
+      <li>gold_start: the index of the beginning of the first span
+        associated with the gold mention (for "match", "clash",
+        "missing")</li>
+      <li>gold_end: the index of the end of the last span associated
+        with the gold mention (for "match", "clash", "missing")</li>
+      <li>gold_spans: a description of all the spans associated with the
+        gold mention, delimited by semicolon (for "match", "clash",
+        "missing")</li>
+      <li>gold_text: a space-concatenated sequence of substrings
+        selected by the spans associated with the gold mention (for
+        "match", "clash", "missing")</li>
+      <li>gold_PTs: a vertical-bar-delimined sequence of MedDRA
+        preferred term names associated with the gold mention (for
+        "match", "clash", "missing")</li>
+      <li>hyp_start: the index of the beginning of the first span
+        associated with the submission mention (for "match", "clash",
+        "spurious", "ignored")</li>
+      <li>hyp_end: the index of the end of the last span associated with
+        the submission mention (for "match", "clash", "spurious",
+        "ignored")</li>
+      <li>hyp_spans: a description of all the spans associated with the
+        submission mention, delimited by semicolon (for "match",
+        "clash", "spurious", "ignored")</li>
+      <li>hyp_text: a space-concatenated sequence of substrings selected
+        by the spans associated with the submission mention (for
+        "match", "clash", "spurious", "ignored")</li>
+      <li>hyp_PT: the MedDRA preferred term name associated with the
+        submission mention (for "match", "clash", "spurious", "ignored")</li>
+    </ul>
+    <h2>Example</h2>
+    <p>Let's say you've created an annotated set of submission documents
+      in /proj/ade_eval/my_submission. Further, let's assume you've
+      downloaded the MedDRA distribution and unzipped it in
+      /proj/meddra_20_1_english. Your gold standard documents are in
+      /proj/ade_eval/training_gold, and want to put the scoring
+      spreadsheet output in /proj/ade_eval/score_test. Finally, you
+      choose "mysub" as the name for your submission. You can score your
+      submission with the following command:</p>
+    <pre>$ python scripts/evaluate.py --medascii_dir /proj/meddra_20_1_english/MedAscii --csv_outdir /proj/ade_eval/score_test \<br>--detail_spreadsheets /proj/ade_eval/training_gold mysub /proj/ade_eval/my_submission<br></pre>
+  </body>
+</html>

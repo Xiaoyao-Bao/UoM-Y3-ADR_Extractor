@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="BLEPH_10">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Bacterial and fungal corneal ulcers have developed during treatment with sulfonamide ophthalmic preparations.
+
+
+
+ The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions.
+
+
+
+ Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see  WARNINGS  ).
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  Prolonged use of topical anti-bacterial agents may give rise to overgrowth of nonsusceptible organisms including fungi. Bacterial resistance to sulfonamides may also develop.
+
+
+
+ The effectiveness of sulfonamides may be reduced by the para-aminobenzoic acid present in purulent exudates.
+
+
+
+ Sensitization may recur when a sulfonamide is readministered irrespective of the route of administration, and cross-sensitivity between different sulfonamides may occur.
+
+
+
+ At the first sign of hypersensitivity, increase in purulent discharge, or aggravation of inflammation or pain, the patient should discontinue use of the medication and consult a physician (see  WARNINGS  ).
+
+
+
+    Information for Patients
+
+
+
+  To avoid contamination, do not touch tip of container to the eye, eyelid or any surface.
+
+
+
+    Drug Interactions
+
+
+
+  Sulfacetamide preparations are incompatible with silver preparations.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  No studies have been conducted in animals or in humans to evaluate the possibility of these effects with ocularly administered sulfacetamide. Rats appear to be especially susceptible to the goitrogenic effects of sulfonamides, and long-term oral administration of sulfonamides has resulted in thyroid malignancies in these animals.
+
+
+
+    Pregnancy
+
+
+
+  Animal reproduction studies have not been conducted with sulfonamide ophthalmic preparations. Kernicterus may occur in the newborn as a result of treatment of a pregnant woman at term with orally administered sulfonamides. There are no adequate and well controlled studies of sulfonamide ophthalmic preparations in pregnant women and it is not known whether topically applied sulfonamides can cause fetal harm when administered to a pregnant woman. This product should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+    Nursing Mothers
+
+
+
+  Systemically administered sulfonamides are capable of producing kernicterus in infants of lactating women. Because of the potential for the development of kernicterus in neonates, a decision should be made whether to discontinue nursing or discontinue the drug taking into account the importance of the drug to the mother.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in infants below the age of two months have not been established.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  FOR TOPICAL EYE USE ONLY - NOT FOR INJECTION.
+
+
+
+ FATALITIES HAVE OCCURRED, ALTHOUGH RARELY, DUE TO SEVERE REACTIONS TO SULFONAMIDES INCLUDING STEVENS-JOHNSON SYNDROME, TOXIC EPIDERMAL NECROLYSIS, FULMINANT HEPATIC NECROSIS, AGRANULOCYTOSIS, APLASTIC ANEMIA AND OTHER BLOOD DYSCRASIAS. Sensitizations may recur when a sulfonamide is readministered, irrespective of the route of administration. Sensitivity reactions have been reported in individuals with no prior history of sulfonamide hypersensitivity. At the first sign of hypersensitivity, skin rash or other serious reaction, discontinue use of this preparation.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="715" />
+    <IgnoredRegion len="17" name="heading" section="S2" start="841" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="941" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="1338" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1923" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2274" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

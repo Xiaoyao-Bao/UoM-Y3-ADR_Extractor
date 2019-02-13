@@ -1,10 +1,11 @@
 import re
 from nltk.tokenize import word_tokenize
 
-def my_tokenizer(list):
+
+def my_tokenizer(x):
     new = []
     temp = []
-    for l in list:
+    for l in x:
         if l.isalpha():
             temp.append(l)
         else:
@@ -18,11 +19,11 @@ def my_tokenizer(list):
     return new
 
 
-files = open("/Users/xyb/UoM-Y3-ADR_Extractor/split/train_sec_file_name.txt", "r").read().split('\n')
+files = open("/Users/xyb/UoM-Y3-ADR_Extractor/split/dev_sec_file_name.txt", "r").read().split('\n')
 for f in files:
     print(f)
-    label_file = open("/Users/xyb/UoM-Y3-ADR_Extractor/split/train_sec_label_wtRepDel/" + f, "r").read().split('\n')
-    text_file = open("/Users/xyb/UoM-Y3-ADR_Extractor/split/train_sec/" + f, "r").read()
+    label_file = open("/Users/xyb/UoM-Y3-ADR_Extractor/split/dev_sec_label_wtRepDel/" + f, "r").read().split('\n')
+    text_file = open("/Users/xyb/UoM-Y3-ADR_Extractor/split/dev_sec/" + f, "r").read()
     text_list = list(text_file)
     offset = 0
     for l in label_file:
@@ -73,6 +74,6 @@ for f in files:
                             i += 1
     new_text = ''.join(text_list)
     # print(new_text)
-    with open("/Users/xyb/UoM-Y3-ADR_Extractor/split/train_sec/" + f, "w") as nt:
+    with open("/Users/xyb/UoM-Y3-ADR_Extractor/split/dev_sec/" + f, "w") as nt:
         nt.write(new_text)
     # break

@@ -1,0 +1,309 @@
+  6 ADVERSE REACTIONS
+
+  The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
+
+ *     Lymphoma≠B-OSE_Labeled_AE  and Other  Malignancies≠B-OSE_Labeled_AE  [see  Boxed Warning  ,  Warnings and Precautions  (  5.2  )]  
+ *    Serious  Infections≠B-OSE_Labeled_AE  [see  Boxed Warning  ,  Warnings and Precautions  (  5.3  )]  
+ *     Polyoma≠B-OSE_Labeled_AE   Virus≠I-OSE_Labeled_AE   Infections≠I-OSE_Labeled_AE  [see  Boxed Warning  ,  Warnings and Precautions  (  5.4  )]  
+ *     CMV≠B-OSE_Labeled_AE   Infections≠I-OSE_Labeled_AE  [see  Boxed Warning  ,  Warnings and Precautions  (  5.5  )]  
+ *    New Onset  Diabetes≠B-OSE_Labeled_AE  After Transplant [see  Warnings and Precautions  (  5.6  )]  
+ *     Nephrotoxicity≠B-OSE_Labeled_AE  [see  Warnings and Precautions  (  5.7  )]  
+ *     Neurotoxicity≠B-OSE_Labeled_AE  [see  Warnings and Precautions  (  5.8  )]  
+ *     Hyperkalemia≠B-OSE_Labeled_AE  [see  Warnings and Precautions  (  5.9  )]  
+ *     Hypertension≠B-OSE_Labeled_AE  [see  Warnings and Precautions  (  5.10  )]  
+ *     Anaphylaxis≠B-OSE_Labeled_AE  with Prograf Injection [see  Warnings and Precautions  (  5.11  )]  
+ *     Myocardial≠B-OSE_Labeled_AE   Hypertrophy≠I-OSE_Labeled_AE  [see  Warnings and Precautions  (  5.15  )]  
+ *     Pure≠B-OSE_Labeled_AE   Red≠I-OSE_Labeled_AE   Cell≠I-OSE_Labeled_AE   Aplasia≠I-OSE_Labeled_AE  [see  Warnings and Precautions  (  5.17  )]  
+ *     Gastrointestinal≠B-OSE_Labeled_AE   Perforation≠I-OSE_Labeled_AE  [see  Warnings and Precautions  (  5.18  )]  
+   *     Kidney≠B-Not_AE_Candidate   Transplant≠I-Not_AE_Candidate : The most common adverse reactions ( >= 30%) were  infection≠B-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE ,  abnormal≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  hypomagnesemia≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  hypophosphatemia≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  asthenia≠B-OSE_Labeled_AE ,  pain≠B-OSE_Labeled_AE ,  hyperlipidemia≠B-OSE_Labeled_AE ,  hyperkalemia≠B-OSE_Labeled_AE ,  anemia≠B-OSE_Labeled_AE  (  6.1  ) 
+ *     Liver≠B-Not_AE_Candidate   Transplant≠I-Not_AE_Candidate : The most common adverse reactions (>= 40%) were  tremor≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  abnormal≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  paresthesia≠B-OSE_Labeled_AE ,  anemia≠B-OSE_Labeled_AE ,  pain≠B-OSE_Labeled_AE ,  fever≠B-OSE_Labeled_AE ,  asthenia≠B-OSE_Labeled_AE ,  hyperkalemia≠B-OSE_Labeled_AE ,  hypomagnesemia≠B-OSE_Labeled_AE , and  hyperglycemia≠B-OSE_Labeled_AE  (  6.1  ) 
+ *     Heart≠B-Not_AE_Candidate   Transplant≠I-Not_AE_Candidate : The most common adverse reactions ( >= 15%) were  abnormal≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE ,  diabetes≠B-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE ,  CMV≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  leukopenia≠B-OSE_Labeled_AE ,  infection≠B-OSE_Labeled_AE ,  anemia≠B-OSE_Labeled_AE ,  bronchitis≠B-OSE_Labeled_AE ,  pericardial≠B-OSE_Labeled_AE   effusion≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  and  hyperlipemia≠B-OSE_Labeled_AE  (  6.1  ) 
+      EXCERPT:     To report SUSPECTED ADVERSE REACTIONS, contact Astellas Pharma US, Inc at 1-800-727-7003 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+ 
+
+ 
+
+  6.1 Clinical Studies Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In addition, the clinical trials were not designed to establish comparative differences across study arms with regards to the adverse reactions discussed below.
+
+   Kidney Transplant  
+
+ The incidence of adverse reactions was determined in three randomized  kidney≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  trials. One of the trials used azathioprine (AZA) and corticosteroids and two of the trials used mycophenolate mofetil (MMF) and corticosteroids concomitantly for maintenance  immunosuppression≠B-NonOSE_AE .
+
+ Prograf-based  immunosuppression≠B-NonOSE_AE  in conjunction with azathioprine and corticosteroids following  kidney≠B-Not_AE_Candidate   transplantation≠I-Not_AE_Candidate  was assessed in trial where 205 patients received Prograf based  immunosuppression≠B-NonOSE_AE  and 207 patients received cyclosporine based  immunosuppression≠B-NonOSE_AE . The trial population had a mean age of 43 years (mean+/-sd was 43+/-13 years on Prograf and 44+/-12 years on cyclosporine arm), the distribution was 61% male, and the composition was White (58%), Black (25%), Hispanic (12%) and Other (5%). The 12 month  post≠B-NonOSE_AE  -≠I-NonOSE_AE  transplant≠I-NonOSE_AE  information from this trial is presented below.
+
+ The most common adverse reactions ( >= 30%) observed in Prograf-treated  kidney≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients are:  infection≠B-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE ,  abnormal≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  hypomagnesemia≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  hypophosphatemia≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  asthenia≠B-OSE_Labeled_AE ,  pain≠B-OSE_Labeled_AE ,  hyperlipidemia≠B-OSE_Labeled_AE ,  hyperkalemia≠B-OSE_Labeled_AE  and  anemia≠B-OSE_Labeled_AE .
+
+ Adverse reactions that occurred in >= 15% of  kidney≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients treated with Prograf in conjunction with azathioprine are presented below:
+
+ Table 4. Kidney Transplantation: Adverse Reactions Occurring in >= 15% of Patients Treated with Prograf in Conjunction with Azathioprine (AZA) 
+                                                         Prograf/AZA  (N=205)    Cyclosporine/AZA(N=207)     
+   Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE                                                                                             
+   Tremor≠B-OSE_Labeled_AE    Headache≠B-OSE_Labeled_AE    Insomnia≠B-OSE_Labeled_AE    Paresthesia≠B-OSE_Labeled_AE    Dizziness≠B-OSE_Labeled_AE      54%  44%  32%  23%  19%    34%  38%  30%  16%  16%     
+   Gastrointestinal≠B-NonOSE_AE                                                                                           
+   Diarrhea≠B-OSE_Labeled_AE    Nausea≠B-OSE_Labeled_AE    Constipation≠B-OSE_Labeled_AE    Vomiting≠B-OSE_Labeled_AE    Dyspepsia≠B-OSE_Labeled_AE     44%  38%  35%  29%  28%    41%  36%  43%  23%  20%     
+   Cardiovascular≠B-NonOSE_AE                                                                                             
+   Hypertension≠B-OSE_Labeled_AE    Chest≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                50%  19%               52%  13%                    
+   Urogenital≠B-NonOSE_AE                                                                                                 
+   Creatinine≠B-OSE_Labeled_AE   Increased≠I-OSE_Labeled_AE    Urinary≠B-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE           45%  34%               42%  35%                    
+   Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutritional≠I-NonOSE_AE                                                                                  
+   Hypophosphatemia≠B-OSE_Labeled_AE    Hypomagnesemia≠B-OSE_Labeled_AE    Hyperlipemia≠B-OSE_Labeled_AE    Hyperkalemia≠B-OSE_Labeled_AE    Diabetes≠B-OSE_Labeled_AE   Mellitus≠I-OSE_Labeled_AE    Hypokalemia≠B-OSE_Labeled_AE    Hyperglycemia≠B-OSE_Labeled_AE    Edema≠B-OSE_Labeled_AE     49%  34%  31%  31%  24%  22%  22%  18%    53%  17%  38%  32%  9%  25%  16%  19%    
+   Hemic≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE                                                                                        
+   Anemia≠B-OSE_Labeled_AE    Leukopenia≠B-OSE_Labeled_AE                                      30%  15%               24%  17%                    
+   Miscellaneous≠B-NonOSE_AE                                                                                              
+   Infection≠B-OSE_Labeled_AE    Peripheral≠B-OSE_Labeled_AE   Edema≠I-OSE_Labeled_AE    Asthenia≠B-OSE_Labeled_AE    Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE    Pain≠B-OSE_Labeled_AE    Fever≠B-OSE_Labeled_AE    Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE     45%  36%  34%  33%  32%  29%  24%    49%  48%  30%  31%  30%  29%  20%    
+   Respiratory≠B-NonOSE_AE   System≠I-NonOSE_AE                                                                                         
+   Dyspnea≠B-OSE_Labeled_AE    Cough≠B-OSE_Labeled_AE   Increased≠I-OSE_Labeled_AE                                22%  18%               18%  15%                    
+   Musculoskeletal≠B-NonOSE_AE                                                                                            
+   Arthralgia≠B-OSE_Labeled_AE                                              25%                    24%                         
+   Skin≠B-NonOSE_AE                                                                                                       
+   Rash≠B-OSE_Labeled_AE    Pruritus≠B-OSE_Labeled_AE                                          17%  15%               12%  7%                     
+         Two trials were conducted for Prograf-based  immunosuppression≠B-NonOSE_AE  in conjunction with MMF and corticosteroids. In the non-US trial (Study 1), the incidence of adverse reactions was based on 1195  kidney≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients that received Prograf (Group C, n=403), or one of two cyclosporine (CsA) regimens (Group A, n=384 and Group B, n=408) in combination with MMF and corticosteroids; all patients, except those in one of the two cyclosporine groups, also received induction with daclizumab. The trial population had a mean age of 46 years (range 17 to 76), the distribution was 65% male, and the composition was 93% Caucasian. The 12 month post-transplant information from this trial is presented below.
+ 
+
+ Adverse reactions that occurred in >= 10% of  kidney≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients treated with Prograf in conjunction with MMF in Study 1 [Note: This trial was conducted entirely outside of the United States. Such trials often report a lower incidence of adverse reactions in comparison to U.S. trials] are presented below:
+
+ Table 5. Kidney Transplantation: Adverse Reactions Occurring in >= 10% of Patients Treated with Prograf in Conjunction with MMF (Study 1) 
+ Key: Group A = CsA/MMF/CS, B = CsA/MMF/CS/Daclizumab, C= Tac/MMF/CS/DaclizumabCsA= Cyclosporine, CS = Corticosteroids, Tac = Tacrolimus, MMF = mycophenolate mofetil   
+  
+                                                            Prograf(Group C)    Cyclosporine(Group A)    Cyclosporine(Group B)    
+                                                            (N=403)       (N=384)            (N=408)          
+   Diarrhea≠B-OSE_Labeled_AE                                                   25%           16%                13%              
+   Urinary≠B-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE                                    24%           28%                24%              
+   Anemia≠B-OSE_Labeled_AE                                                     17%           19%                17%              
+   Hypertension≠B-OSE_Labeled_AE                                               13%           14%                12%              
+   Leukopenia≠B-OSE_Labeled_AE                                                 13%           10%                10%              
+   Edema≠B-OSE_Labeled_AE   Peripheral≠I-OSE_Labeled_AE                                           11%           12%                13%              
+   Hyperlipidemia≠B-OSE_Labeled_AE                                             10%           15%                13%              
+          In the U.S. trial (Study 2) with Prograf-based  immunosuppression≠B-NonOSE_AE  in conjunction with MMF and corticosteroids, 424  kidney≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients received Prograf (n=212) or cyclosporine (n=212) in combination with MMF 1 gram twice daily, basiliximab induction, and corticosteroids. The trial population had a mean age of 48 years (range 17 to 77), the distribution was 63% male, and the composition was White (74%), Black (20%), Asian (3%) and other (3%). The 12 month  post≠B-NonOSE_AE  -≠I-NonOSE_AE  transplant≠I-NonOSE_AE  information from this trial is presented below.
+ 
+
+ Adverse reactions that occurred in >=15% of  kidney≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients treated with Prograf in conjunction with MMF in Study 2 are presented below:
+
+ Table 6. Kidney Transplantation: Adverse Reactions Occurring in >= 15% of Patients Treated with Prograf in Conjunction with MMF (Study 2) 
+                                                                Prograf/MMF         Cyclosporine/MMF        
+                                                                (N=212)             (N=212)                 
+   Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                 
+   Diarrhea≠B-OSE_Labeled_AE                                                       44%                 26%                     
+   Nausea≠B-OSE_Labeled_AE                                                         39%                 47%                     
+   Constipation≠B-OSE_Labeled_AE                                                   36%                 41%                     
+   Vomiting≠B-OSE_Labeled_AE                                                       26%                 25%                     
+   Dyspepsia≠B-OSE_Labeled_AE                                                      18%                 15%                     
+                                                                                                            
+   Injury≠B-NonOSE_AE  ,≠I-NonOSE_AE   Poisoning≠I-NonOSE_AE  ,≠I-NonOSE_AE   and≠I-NonOSE_AE   Procedural≠I-NonOSE_AE   Complications≠I-NonOSE_AE                                                            
+   Post≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Procedural≠I-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                           29%                 27%                     
+   Incision≠B-OSE_Labeled_AE   Site≠I-OSE_Labeled_AE   Complication≠I-OSE_Labeled_AE                                     28%                 23%                     
+   Graft≠B-OSE_Labeled_AE   Dysfunction≠I-OSE_Labeled_AE                                              24%                 18%                     
+                                                                                                            
+   Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                         
+   Hypomagnesemia≠B-OSE_Labeled_AE                                                 28%                 22%                     
+   Hypophosphatemia≠B-OSE_Labeled_AE                                               28%                 21%                     
+   Hyperkalemia≠B-OSE_Labeled_AE                                                   26%                 19%                     
+   Hyperglycemia≠B-OSE_Labeled_AE                                                  21%                 15%                     
+   Hyperlipidemia≠B-OSE_Labeled_AE                                                 18%                 25%                     
+   Hypokalemia≠B-OSE_Labeled_AE                                                    16%                 18%                     
+                                                                                                            
+   Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                                   
+   Tremor≠B-OSE_Labeled_AE                                                         34%                 20%                     
+   Headache≠B-OSE_Labeled_AE                                                       24%                 25%                     
+                                                                                                            
+   Blood≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                                                                       
+   Anemia≠B-OSE_Labeled_AE                                                         30%                 28%                     
+   Leukopenia≠B-OSE_Labeled_AE                                                     16%                 12%                     
+                                                                                                            
+   Miscellaneous≠B-NonOSE_AE                                                                                              
+   Edema≠B-OSE_Labeled_AE   Peripheral≠I-OSE_Labeled_AE                                               35%                 46%                     
+   Hypertension≠B-OSE_Labeled_AE                                                   32%                 35%                     
+   Insomnia≠B-OSE_Labeled_AE                                                       30%                 21%                     
+   Urinary≠B-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE                                        26%                 22%                     
+   Blood≠B-OSE_Labeled_AE   Creatinine≠I-OSE_Labeled_AE   Increased≠I-OSE_Labeled_AE                                     23%                 23%                     
+         Less frequently observed adverse reactions in both  liver≠B-Not_AE_Candidate   transplantation≠I-Not_AE_Candidate  and  kidney≠B-Not_AE_Candidate   transplantation≠I-Not_AE_Candidate  patients are described under the subsection  Less Frequently Reported Adverse Reactions  .  Liver Transplantation  
+ 
+
+ There were two randomized comparative  liver≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  trials. In the U.S. trial, 263 adult and pediatric patients received tacrolimus and steroids and 266 patients received cyclosporine-based immunosuppressive regimen (CsA/AZA). The trial population had a mean age of 44 years (range 0.4 to70), the distribution was 52% male, and the composition was White (78%), Black (5%), Asian (2%), Hispanic (13%) and Other (2%). In the European trial, 270 patients received tacrolimus and steroids and 275 patients received CsA/AZA. The trial population had a mean age of 46 years (range 15 to 68), the distribution was 59% male, and the composition was White (95.4%), Black (1%), Asian (2%) and Other (2%).
+
+ The proportion of patients reporting more than one adverse event was > 99% in both the tacrolimus group and the CsA/AZA group. Precautions must be taken when comparing the incidence of adverse reactions in the U.S. trial to that in the European trial. The 12-month post-transplant information from the U.S. trial and from the European trial is presented below. The two trials also included different patient populations and patients were treated with immunosuppressive regimens of differing intensities. Adverse reactions reported in >=15% in tacrolimus patients (combined trial results) are presented below for the two controlled trials in  liver≠B-Not_AE_Candidate   transplantation≠I-Not_AE_Candidate .
+
+ The most common adverse reactions (>= 40%) observed in Prograf-treated  liver≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients are:  tremor≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  abnormal≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  paresthesia≠B-OSE_Labeled_AE ,  anemia≠B-OSE_Labeled_AE ,  pain≠B-OSE_Labeled_AE ,  fever≠B-OSE_Labeled_AE ,  asthenia≠B-OSE_Labeled_AE ,  hyperkalemia≠B-OSE_Labeled_AE ,  hypomagnesemia≠B-OSE_Labeled_AE , and  hyperglycemia≠B-OSE_Labeled_AE . These all occur with oral and IV administration of Prograf and some may respond to a reduction in dosing (e.g.,  tremor≠B-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  paresthesia≠B-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE ).  Diarrhea≠B-OSE_Labeled_AE  was sometimes associated with other  gastrointestinal≠B-OSE_Labeled_AE   complaints≠I-OSE_Labeled_AE  such as  nausea≠B-OSE_Labeled_AE  and  vomiting≠B-OSE_Labeled_AE .
+
+ Table 7. Liver Transplantation: Adverse Reactions Occurring in >= 15% of Patients Treated with Prograf 
+                        U.S. TRIAL            EUROPEAN TRIAL        
+  Prograf  (N=250)      Cyclosporine/AZA(N=250)    Prograf  (N=264)      Cyclosporine/AZA(N=265)    
+   Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE                                                                                                
+   Headache≠B-OSE_Labeled_AE    Insomnia≠B-OSE_Labeled_AE    Tremor≠B-OSE_Labeled_AE    Paresthesia≠B-OSE_Labeled_AE     64%  64%  56%  40%    60%  68%  46%  30%    37%  32%  48%  17%    26%  23%  32%  17%    
+   Gastrointestinal≠B-NonOSE_AE                                                                                              
+   Diarrhea≠B-OSE_Labeled_AE    Nausea≠B-OSE_Labeled_AE    LFT≠B-OSE_Labeled_AE   Abnormal≠I-OSE_Labeled_AE    Anorexia≠B-OSE_Labeled_AE    Vomiting≠B-OSE_Labeled_AE    Constipation≠B-OSE_Labeled_AE     72%  46%  36%  34%  27%  24%    47%  37%  30%  24%  15%  27%    37%  32%  6%  7%  14%  23%    27%  27%  5%  5%  11%  21%    
+   Cardiovascular≠B-NonOSE_AE                                                                                                
+   Hypertension≠B-OSE_Labeled_AE           47%                   56%                   38%                  43%                   
+   Urogenital≠B-NonOSE_AE                                                                                                    
+   Kidney≠B-OSE_Labeled_AE   Function≠I-OSE_Labeled_AE   Abnormal≠I-OSE_Labeled_AE     40%                   27%                   36%                  23%                   
+   Creatinine≠B-OSE_Labeled_AE   Increased≠I-OSE_Labeled_AE     39%                   25%                   24%                  19%                   
+   BUN≠B-OSE_Labeled_AE   Increased≠I-OSE_Labeled_AE          30%                   22%                   12%                  9%                    
+   Oliguria≠B-OSE_Labeled_AE               18%                   15%                   19%                  12%                   
+   Urinary≠B-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE     16%                   18%                   21%                  19%                   
+   Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutritional≠I-NonOSE_AE                                                                                            
+   Hypomagnesemia≠B-OSE_Labeled_AE    Hyperglycemia≠B-OSE_Labeled_AE    Hyperkalemia≠B-OSE_Labeled_AE    Hypokalemia≠B-OSE_Labeled_AE     48%  47%  45%  29%    45%  38%  26%  34%    16%  33%  13%  13%    9%  22%  9%  16%      
+   Hemic≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE                                                                                            
+   Anemia≠B-OSE_Labeled_AE    Leukocytosis≠B-OSE_Labeled_AE    Thrombocytopenia≠B-OSE_Labeled_AE     47%  32%  24%         38%  26%  20%         5%  8%  14%          1%  8%  19%           
+   Miscellaneous≠B-NonOSE_AE                                                                                                 
+   Pain≠B-OSE_Labeled_AE    Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE    Asthenia≠B-OSE_Labeled_AE    Fever≠B-OSE_Labeled_AE    Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE    Ascites≠B-OSE_Labeled_AE    Peripheral≠B-OSE_Labeled_AE   Edema≠I-OSE_Labeled_AE     63%  59%  52%  48%  30%  27%  26%    57%  54%  48%  56%  29%  22%  26%    24%  29%  11%  19%  17%  7%  12%    22%  22%  7%  22%  17%  8%  14%    
+   Respiratory≠B-NonOSE_AE   System≠I-NonOSE_AE                                                                                            
+   Pleural≠B-OSE_Labeled_AE   Effusion≠I-OSE_Labeled_AE    Dyspnea≠B-OSE_Labeled_AE    Atelectasis≠B-OSE_Labeled_AE     30%  29%  28%         32%  23%  30%         36%  5%  5%          35%  4%  4%           
+   Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Appendages≠I-NonOSE_AE                                                                                            
+   Pruritus≠B-OSE_Labeled_AE    Rash≠B-OSE_Labeled_AE         36%  24%              20%  19%              15%  10%             7%  4%                
+           Less frequently observed adverse reactions in both  liver≠B-Not_AE_Candidate   transplantation≠I-Not_AE_Candidate  and  kidney≠B-Not_AE_Candidate   transplantation≠I-Not_AE_Candidate  patients are described under the subsection  Less Frequently Reported Adverse Reactions  .   Heart≠B-Not_AE_Candidate   Transplantation≠I-Not_AE_Candidate   
+ 
+
+ The incidence of adverse reactions was determined based on two trials in primary orthotopic  heart≠B-Not_AE_Candidate   transplantation≠I-Not_AE_Candidate . In a trial conducted in Europe, 314 patients received a regimen of antibody induction, corticosteroids and azathioprine (AZA) in combination with Prograf (n=157) or cyclosporine (n=157) for 18 months. The trial population had a mean age of 51 years (range 18 to 65), the distribution was 82% male, and the composition was White (96%), Black (3%) and other (1%).
+
+ The most common adverse reactions ( >= 15%) observed in Prograf-treated  heart≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients are:  abnormal≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE ,  diabetes≠B-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE ,  CMV≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  tremor≠B-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  leukopenia≠B-OSE_Labeled_AE ,  infection≠B-OSE_Labeled_AE ,  anemia≠B-OSE_Labeled_AE ,  bronchitis≠B-OSE_Labeled_AE ,  pericardial≠B-OSE_Labeled_AE   effusion≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  and  hyperlipemia≠B-OSE_Labeled_AE .
+
+ Adverse reactions in  heart≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients in the European trial are presented below:
+
+ Table 8. Heart Transplantation: Adverse Reactions Occurring in >= 15% of Patients Treated with Prograf in Conjunction with Azathioprine (AZA) 
+                                                           Prograf/AZA  (n=157)     Cyclosporine/AZA   (n=157)    
+   Cardiovascular≠B-NonOSE_AE   System≠I-NonOSE_AE                                     
+   Hypertension≠B-OSE_Labeled_AE                                              62%                  69%                         
+   Pericardial≠B-OSE_Labeled_AE   Effusion≠I-OSE_Labeled_AE                                      15%                  14%                         
+   Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE                                           
+   CMV≠B-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE                                             32%                  30%                         
+   Infection≠B-OSE_Labeled_AE                                                 24%                  21%                         
+   Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutritional≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                       
+                                                                                                            
+   Diabetes≠B-OSE_Labeled_AE   Mellitus≠I-OSE_Labeled_AE                                         26%                  16%                         
+   Hyperglycemia≠B-OSE_Labeled_AE                                             23%                  17%                         
+   Hyperlipemia≠B-OSE_Labeled_AE                                              18%                  27%                         
+   Hemic≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   System≠I-NonOSE_AE                                
+   Anemia≠B-OSE_Labeled_AE                                                    50%                  36%                         
+   Leukopenia≠B-OSE_Labeled_AE                                                48%                  39%                         
+                                                                                                            
+   Urogenital≠B-NonOSE_AE   System≠I-NonOSE_AE                                         
+   Kidney≠B-OSE_Labeled_AE   Function≠I-OSE_Labeled_AE   Abnormal≠I-OSE_Labeled_AE                                  56%                  57%                         
+   Urinary≠B-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE                                   16%                  12%                         
+   Respiratory≠B-NonOSE_AE   System≠I-NonOSE_AE                                        
+   Bronchitis≠B-OSE_Labeled_AE                                                17%                  18%                         
+   Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE                                            
+   Tremor≠B-OSE_Labeled_AE                                                    15%                  6%                          
+         In the European trial, the cyclosporine trough concentrations were above the pre-defined target range (i.e., 100 to 200 ng/mL) at Day 122 and beyond in 32 to 68% of the patients in the cyclosporine treatment arm, whereas the tacrolimus trough concentrations were within the pre-defined target range (i.e., 5 to 15 ng/mL) in 74 to 86% of the patients in the tacrolimus treatment arm.
+ 
+
+ In a U.S. trial, the incidence of adverse reactions was based on 331  heart≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients that received corticosteroids and Prograf in combination with sirolimus (n=109), Prograf in combination with MMF (n=107) or cyclosporine modified in combination with MMF (n=115) for 1 year. The trial population had a mean age of 53 years (range 18 to 75), the distribution was 78% male, and the composition was White (83%), Black (13%) and other (4%).
+
+ Only selected targeted treatment-emergent adverse reactions were collected in the U.S.  heart≠B-Not_AE_Candidate   transplantation≠I-Not_AE_Candidate  trial. Those reactions that were reported at a rate of 15% or greater in patients treated with Prograf and MMF include the following: any target adverse reactions (99%),  hypertension≠B-OSE_Labeled_AE  (89%),  hyperglycemia≠B-OSE_Labeled_AE  requiring antihyperglycemic therapy (70%)  ,   hypertriglyceridemia≠B-OSE_Labeled_AE  (65%),  anemia≠B-OSE_Labeled_AE  ( hemoglobin≠B-OSE_Labeled_AE   <≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   g≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  dL≠I-OSE_Labeled_AE ) (65%),  fasting≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   glucose≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  4≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   mg≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  dL≠I-OSE_Labeled_AE  (on two separate occasions) (61%),  hypercholesterolemia≠B-OSE_Labeled_AE  (57%),  hyperlipidemia≠B-OSE_Labeled_AE  (34%),  WBCs≠B-OSE_Labeled_AE   <≠I-OSE_Labeled_AE  3≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   cells≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  mcL≠I-OSE_Labeled_AE  (34%), serious  bacterial≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  (30%),  magnesium≠B-OSE_Labeled_AE   <≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  2≠I-OSE_Labeled_AE   mEq≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  L≠I-OSE_Labeled_AE  (24%),  platelet≠B-OSE_Labeled_AE   count≠I-OSE_Labeled_AE   <≠I-OSE_Labeled_AE  7≠I-OSE_Labeled_AE  5≠I-OSE_Labeled_AE  ,≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   cells≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  mcL≠I-OSE_Labeled_AE  (19%), and other  opportunistic≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  (15%).
+
+ Other targeted treatment-emergent adverse reactions in Prograf-treated patients occurred at a rate of less than 15%, and include the following:  Cushingoid≠B-OSE_Labeled_AE   features≠I-OSE_Labeled_AE ,  impaired≠B-OSE_Labeled_AE   wound≠I-OSE_Labeled_AE   healing≠I-OSE_Labeled_AE ,  hyperkalemia≠B-OSE_Labeled_AE ,   Candida≠B-OSE_Labeled_AE    infection≠I-OSE_Labeled_AE , and  CMV≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  syndrome≠I-OSE_Labeled_AE .
+
+  
+
+   New Onset Diabetes After Transplant  
+
+   Kidney Transplant  
+
+  New≠B-NonOSE_AE   Onset≠I-NonOSE_AE   Diabetes≠I-NonOSE_AE   After≠I-NonOSE_AE   Transplant≠I-NonOSE_AE   (≠I-NonOSE_AE  NODAT≠I-NonOSE_AE ) is defined as a composite of  fasting≠B-NonOSE_AE   plasma≠I-NonOSE_AE   glucose≠I-NonOSE_AE   >≠I-NonOSE_AE  =≠I-NonOSE_AE  1≠I-NonOSE_AE  2≠I-NonOSE_AE  6≠I-NonOSE_AE   mg≠I-NonOSE_AE  /≠I-NonOSE_AE  dL≠I-NonOSE_AE ,  HbA≠B-NonOSE_AE  1≠I-NonOSE_AE  C≠I-NonOSE_AE  >≠I-NonOSE_AE  =≠I-NonOSE_AE   6≠I-NonOSE_AE  %≠I-NonOSE_AE , insulin use >= 30 days or oral  hypoglycemic≠B-NonOSE_AE   use≠I-NonOSE_AE . In a trial in  kidney≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients (Study 2),  NODAT≠B-OSE_Labeled_AE  was observed in 75% in the Prograf-treated and 61% in the Neoral-treated patients without pre-transplant history of  diabetes≠B-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate  (  Table 9  )  [see  Clinical Studies  (  14.1  )]  .
+
+ Table 9. Incidence of New Onset Diabetes After Transplant at 1 year in Kidney Transplant Recipients in a Phase 3 Trial (Study 2) 
+  Parameter                          Treatment Group                     
+  Prograf/MMF  (n = 212)             Neoral/MMF  (n = 212)               
+   NODAT≠B-OSE_Labeled_AE                               112/150 (75%)                       93/152 (61%)                        
+       Fasting≠B-OSE_Labeled_AE   Plasma≠I-OSE_Labeled_AE   Glucose≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  =≠I-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  2≠I-OSE_Labeled_AE  6≠I-OSE_Labeled_AE   mg≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  dL≠I-OSE_Labeled_AE     96/150 (64%)                        80/152 (53%)                        
+       HbA≠B-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  C≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  =≠I-OSE_Labeled_AE   6≠I-OSE_Labeled_AE  %≠I-OSE_Labeled_AE                     59/150 (39%)                        28/152 (18%)                        
+      Insulin Use >= 30 days         9/150 (6%)                          4/152 (3%)                          
+      Oral  Hypoglycemic≠B-NonOSE_AE   Use≠I-NonOSE_AE           15/150 (10%)                        5/152 (3%)                          
+         In early trials of Prograf,  Post≠B-NonOSE_AE  -≠I-NonOSE_AE  Transplant≠I-NonOSE_AE   Diabetes≠I-NonOSE_AE   Mellitus≠I-NonOSE_AE   (≠I-NonOSE_AE  PTDM≠I-NonOSE_AE ) was evaluated with a more limited criteria of "use of insulin for 30 or more consecutive days with < 5 day gap" in patients without a prior history of  insulin≠B-NonOSE_AE  -≠I-NonOSE_AE  dependent≠I-NonOSE_AE   diabetes≠I-NonOSE_AE   mellitus≠I-NonOSE_AE  or  non≠B-NonOSE_AE  -≠I-NonOSE_AE  insulin≠I-NonOSE_AE   dependent≠I-NonOSE_AE   diabetes≠I-NonOSE_AE   mellitus≠I-NonOSE_AE . Data are presented in Tables 10 to 13.  PTDM≠B-OSE_Labeled_AE  was reported in 20% of Prograf/Azathioprine (AZA)-treated  kidney≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients without pre-transplant history of  diabetes≠B-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate  in a Phase 3 trial (  Table 10  ). The median time to onset of  PTDM≠B-OSE_Labeled_AE  was 68 days. Insulin dependence was reversible in 15% of these  PTDM≠B-OSE_Labeled_AE  patients at one year and in 50% at 2 years  post≠B-NonOSE_AE  -≠I-NonOSE_AE  transplant≠I-NonOSE_AE . Black and Hispanic  kidney≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients were at an increased risk of development of  PTDM≠B-OSE_Labeled_AE  (  Table 11  ).
+ 
+
+ Table 10. Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 2 Years in Kidney Transplant Recipients in a Phase 3 Trial using Azathioprine (AZA) 
+  Status of  PTDM≠B-NonOSE_AE Use of insulin for 30 or more consecutive days, with < 5 day gap, without a prior history of  insulin≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  dependent≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate  or  non≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  insulin≠I-Not_AE_Candidate   dependent≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate .    Prograf/AZA            CsA/AZA               
+  Patients without pre-transplant history of  diabetes≠B-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate     151                    151                   
+  New onset  PTDM≠B-OSE_Labeled_AE , 1st Year                                     30/151 (20%)           6/151 (4%)            
+  Still  insulin≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  dependent≠I-OSE_Labeled_AE  at one year in those without prior history of  diabetes≠B-Not_AE_Candidate     25/151 (17%)           5/151 (3%)            
+  New onset  PTDM≠B-OSE_Labeled_AE  post 1 year                                   1                      0                     
+  Patients with  PTDM≠B-OSE_Labeled_AE  at 2 years                                16/151 (11%)           5/151 (3%)            
+        Table 11. Development of Post-Transplant Diabetes Mellitus by Race or Ethnicity and by Treatment Group During First Year Post Kidney Transplantation in a Phase 3 Trial 
+  Patient Race                  Patients Who Developed  PTDM≠B-NonOSE_AE Use of insulin for 30 or more consecutive days, with < 5 day gap, without a prior history of  insulin≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  dependent≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate  or  non≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  insulin≠I-Not_AE_Candidate   dependent≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate .    
+  Prograf                       Cyclosporine                          
+  Black                         15/41 (37%)                           3 (8%)                                
+  Hispanic                      5/17 (29%)                            1 (6%)                                
+  Caucasian                     10/82 (12%)                           1 (1%)                                
+  Other                         0/11 (0%)                             1 (10%)                               
+  Total                         30/151 (20%)                          6 (4%)                                
+           Liver Transplant  
+ 
+
+  Insulin≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  dependent≠I-OSE_Labeled_AE   PTDM≠I-OSE_Labeled_AE  was reported in 18% and 11% of Prograf-treated  liver≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients and was reversible in 45% and 31% of these patients at 1 year  post≠B-NonOSE_AE  -≠I-NonOSE_AE  transplant≠I-NonOSE_AE , in the U.S. and European randomized trials, respectively, (  Table 12  ).  Hyperglycemia≠B-OSE_Labeled_AE  was associated with the use of Prograf in 47% and 33% of  liver≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  recipients in the U.S. and European randomized trials, respectively, and may require treatment  [see  Adverse Reactions  (  6.1  )]  .
+
+ Table 12. Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Liver Transplant Recipients 
+  Status of  PTDM≠B-NonOSE_AE Use of insulin for 30 or more consecutive days, with < 5 day gap, without a prior history of  insulin≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  dependent≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate  or  non≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  insulin≠I-Not_AE_Candidate   dependent≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate .    US Trial              European Trial        
+  Prograf               Cyclosporine          Prograf               Cyclosporine          
+  Patients at riskPatients without pre-transplant history of  diabetes≠B-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate .    239                   236                   239                   249                   
+  New Onset  PTDM≠B-OSE_Labeled_AE         42 (18%)              30 (13%)              26 (11%)              12 (5%)               
+  Patients still on insulin at 1 year    23 (10%)              19 (8%)               18 (8%)               6 (2%)                
+             Heart Transplant  
+ 
+
+  Insulin≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  dependent≠I-OSE_Labeled_AE   PTDM≠I-OSE_Labeled_AE  was reported in 13% and 22% of Prograf-treated  heart≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients receiving mycophenolate mofetil (MMF) or azathioprine (AZA) and was reversible in 30% and 17% of these patients at one year  post≠B-NonOSE_AE  -≠I-NonOSE_AE  transplant≠I-NonOSE_AE , in the U.S. and European randomized trials, respectively (  Table 13  ).   Hyperglycemia≠B-OSE_Labeled_AE  defined as two  fasting≠B-OSE_Labeled_AE   plasma≠I-OSE_Labeled_AE   glucose≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE   >≠I-OSE_Labeled_AE  =≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  2≠I-OSE_Labeled_AE  6≠I-OSE_Labeled_AE   mg≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  dL≠I-OSE_Labeled_AE  was reported with the use of Prograf plus MMF or AZA in 32% and 35% of  heart≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  recipients in the U.S. and European randomized trials, respectively, and may require treatment  [see  Adverse Reactions  (  6.1  )]  .
+
+ Table 13. Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Heart Transplant Recipients 
+  Status of  PTDM≠B-NonOSE_AE Use of insulin for 30 or more consecutive days without a prior history of  insulin≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  dependent≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate  or  non≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  insulin≠I-Not_AE_Candidate   dependent≠I-Not_AE_Candidate   diabetes≠I-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate .    US Trial            European Trial          
+  Prograf/MMF     Cyclosporine/MMF    Prograf/AZA             Cyclosporine/AZA        
+  Patients at riskPatients without pre-transplant history of  diabetes≠B-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate .    75                  83                      132                     138                        
+  New Onset  PTDM≠B-OSE_Labeled_AE      10 (13%)            6 (7%)                  29 (22%)                5 (4%)                     
+  Patients still on insulin at 1 year 7-12 months for the U.S. trial.    7 (9%)              1 (1%)                  24 (18%)                4 (3%)                     
+             Less Frequently Reported Adverse Reactions (>3% and <15%)  
+ 
+
+ The following adverse reactions were reported in either  liver≠B-Not_AE_Candidate , kidney, and/or heart  transplant≠I-Not_AE_Candidate  recipients who were treated with tacrolimus in clinical trials.   Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE     [see  Warnings and Precautions  (  5.8  )]  
+
+  Abnormal≠B-OSE_Labeled_AE   dreams≠I-OSE_Labeled_AE ,  agitation≠B-OSE_Labeled_AE ,  amnesia≠B-OSE_Labeled_AE ,  anxiety≠B-OSE_Labeled_AE ,  confusion≠B-OSE_Labeled_AE ,  convulsion≠B-OSE_Labeled_AE ,  crying≠B-OSE_Labeled_AE ,  depression≠B-OSE_Labeled_AE ,  elevated≠B-OSE_Labeled_AE   mood≠I-OSE_Labeled_AE ,  emotional≠B-OSE_Labeled_AE   lability≠I-OSE_Labeled_AE ,  encephalopathy≠B-OSE_Labeled_AE ,  haemorrhagic≠B-OSE_Labeled_AE   stroke≠I-OSE_Labeled_AE ,  hallucinations≠B-OSE_Labeled_AE ,  hypertonia≠B-OSE_Labeled_AE ,  incoordination≠B-OSE_Labeled_AE ,  monoparesis≠B-OSE_Labeled_AE ,  myoclonus≠B-OSE_Labeled_AE ,  nerve≠B-OSE_Labeled_AE   compression≠I-OSE_Labeled_AE ,  nervousness≠B-OSE_Labeled_AE ,  neuralgia≠B-OSE_Labeled_AE ,  neuropathy≠B-OSE_Labeled_AE ,  paralysis≠B-OSE_Labeled_AE   flaccid≠I-OSE_Labeled_AE ,  psychomotor≠B-OSE_Labeled_AE   skills≠I-OSE_Labeled_AE   impaired≠I-OSE_Labeled_AE ,  psychosis≠B-OSE_Labeled_AE ,  quadriparesis≠B-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE ,  thinking≠B-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  vertigo≠B-OSE_Labeled_AE ,  writing≠B-OSE_Labeled_AE   impaired≠I-OSE_Labeled_AE    Special≠B-NonOSE_AE   Senses≠I-NonOSE_AE   
+
+  Abnormal≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE ,  amblyopia≠B-OSE_Labeled_AE ,  ear≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  otitis≠B-OSE_Labeled_AE   media≠I-OSE_Labeled_AE ,  tinnitus≠B-OSE_Labeled_AE    Gastrointestinal≠B-NonOSE_AE   
+
+  Cholangitis≠B-OSE_Labeled_AE ,  cholestatic≠B-OSE_Labeled_AE   jaundice≠I-OSE_Labeled_AE ,  duodenitis≠B-OSE_Labeled_AE ,  dysphagia≠B-OSE_Labeled_AE ,  esophagitis≠B-OSE_Labeled_AE ,  flatulence≠B-OSE_Labeled_AE ,  gastritis≠B-OSE_Labeled_AE ,  gastroesophagitis≠B-OSE_Labeled_AE ,  gastrointestinal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  GGT≠B-OSE_Labeled_AE   increase≠I-OSE_Labeled_AE ,  GI≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  GI≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE ,  hepatitis≠B-OSE_Labeled_AE ,  hepatitis≠B-OSE_Labeled_AE   granulomatous≠I-OSE_Labeled_AE ,  ileus≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  jaundice≠B-OSE_Labeled_AE ,  liver≠B-OSE_Labeled_AE   damage≠I-OSE_Labeled_AE ,  oesophagitis≠B-OSE_Labeled_AE   ulcerative≠I-OSE_Labeled_AE ,  oral≠B-OSE_Labeled_AE   moniliasis≠I-OSE_Labeled_AE ,  pancreatic≠B-OSE_Labeled_AE   pseudocyst≠I-OSE_Labeled_AE ,  rectal≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  stomatitis≠B-OSE_Labeled_AE    Cardiovascular≠B-NonOSE_AE   
+
+  Abnormal≠B-OSE_Labeled_AE   ECG≠I-OSE_Labeled_AE ,  angina≠B-OSE_Labeled_AE   pectoris≠I-OSE_Labeled_AE ,  arrhythmia≠B-OSE_Labeled_AE ,  atrial≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE ,  atrial≠B-OSE_Labeled_AE   flutter≠I-OSE_Labeled_AE ,  bradycardia≠B-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE ,  cardiopulmonary≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  cardiovascular≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  congestive≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  deep≠B-OSE_Labeled_AE   thrombophlebitis≠I-OSE_Labeled_AE ,  echocardiogram≠B-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  electrocardiogram≠B-OSE_Labeled_AE   QRS≠I-OSE_Labeled_AE   complex≠I-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  electrocardiogram≠B-OSE_Labeled_AE   ST≠I-OSE_Labeled_AE   segment≠I-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  heart≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  heart≠B-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  hemorrhage≠B-OSE_Labeled_AE ,  hypotension≠B-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   vascular≠I-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  phlebitis≠B-OSE_Labeled_AE ,  postural≠B-OSE_Labeled_AE   hypotension≠I-OSE_Labeled_AE ,  syncope≠B-OSE_Labeled_AE ,  tachycardia≠B-OSE_Labeled_AE ,  thrombosis≠B-OSE_Labeled_AE ,  vasodilatation≠B-OSE_Labeled_AE    Urogenital≠B-NonOSE_AE   
+
+  Acute≠B-OSE_Labeled_AE   kidney≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE   [see  Warnings and Precautions  (  5.7  )]  ,  albuminuria≠B-OSE_Labeled_AE ,  BK≠B-OSE_Labeled_AE   nephropathy≠I-OSE_Labeled_AE ,  bladder≠B-OSE_Labeled_AE   spasm≠I-OSE_Labeled_AE ,  cystitis≠B-OSE_Labeled_AE ,  dysuria≠B-OSE_Labeled_AE ,  hematuria≠B-OSE_Labeled_AE ,  hydronephrosis≠B-OSE_Labeled_AE ,  kidney≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  kidney≠B-OSE_Labeled_AE   tubular≠I-OSE_Labeled_AE   necrosis≠I-OSE_Labeled_AE ,  nocturia≠B-OSE_Labeled_AE ,  pyuria≠B-OSE_Labeled_AE ,  toxic≠B-OSE_Labeled_AE   nephropathy≠I-OSE_Labeled_AE ,  urge≠B-OSE_Labeled_AE   incontinence≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   frequency≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   incontinence≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE ,  vaginitis≠B-OSE_Labeled_AE    Metabolic≠B-NonOSE_AE  /≠I-NonOSE_AE  Nutritional≠I-NonOSE_AE   
+
+  Acidosis≠B-OSE_Labeled_AE ,  alkaline≠B-OSE_Labeled_AE   phosphatase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  alkalosis≠B-OSE_Labeled_AE ,  ALT≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  SGPT≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  AST≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  SGOT≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  bicarbonate≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  bilirubinemia≠B-OSE_Labeled_AE ,  dehydration≠B-OSE_Labeled_AE ,  GGT≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  gout≠B-OSE_Labeled_AE ,  healing≠B-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  hypercalcemia≠B-OSE_Labeled_AE ,  hypercholesterolemia≠B-OSE_Labeled_AE ,  hyperphosphatemia≠B-OSE_Labeled_AE ,  hyperuricemia≠B-OSE_Labeled_AE ,  hypervolemia≠B-OSE_Labeled_AE ,  hypocalcemia≠B-OSE_Labeled_AE ,  hypoglycemia≠B-OSE_Labeled_AE ,  hyponatremia≠B-OSE_Labeled_AE ,  hypoproteinemia≠B-OSE_Labeled_AE ,  lactic≠B-OSE_Labeled_AE   dehydrogenase≠I-OSE_Labeled_AE   increase≠I-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE    Endocrine≠B-NonOSE_AE   
+
+  Cushing≠B-OSE_Labeled_AE  '≠I-OSE_Labeled_AE  s≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE    Hemic≠B-NonOSE_AE  /≠I-NonOSE_AE  Lymphatic≠I-NonOSE_AE   
+
+  Coagulation≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  ecchymosis≠B-OSE_Labeled_AE ,  haematocrit≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  haemoglobin≠B-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  hypochromic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE ,  leukocytosis≠B-OSE_Labeled_AE ,  polycythemia≠B-OSE_Labeled_AE ,  prothrombin≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  serum≠B-OSE_Labeled_AE   iron≠I-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE    Miscellaneous≠B-NonOSE_AE   
+
+  Abdomen≠B-OSE_Labeled_AE   enlarged≠I-OSE_Labeled_AE ,  abscess≠B-OSE_Labeled_AE ,  accidental≠B-OSE_Labeled_AE   injury≠I-OSE_Labeled_AE ,  allergic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  cellulitis≠B-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE ,  fall≠B-OSE_Labeled_AE ,  feeling≠B-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  flu≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  generalized≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  hernia≠B-OSE_Labeled_AE ,  mobility≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  peritonitis≠B-OSE_Labeled_AE ,  photosensitivity≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  sepsis≠B-OSE_Labeled_AE ,  temperature≠B-OSE_Labeled_AE   intolerance≠I-OSE_Labeled_AE ,  ulcer≠B-OSE_Labeled_AE    Musculoskeletal≠B-NonOSE_AE   
+
+  Arthralgia≠B-OSE_Labeled_AE ,  cramps≠B-OSE_Labeled_AE ,  generalized≠B-OSE_Labeled_AE   spasm≠I-OSE_Labeled_AE ,  joint≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  leg≠B-OSE_Labeled_AE   cramps≠I-OSE_Labeled_AE ,  myalgia≠B-OSE_Labeled_AE ,  myasthenia≠B-OSE_Labeled_AE ,  osteoporosis≠B-OSE_Labeled_AE    Respiratory≠B-NonOSE_AE   
+
+  Asthma≠B-OSE_Labeled_AE ,  emphysema≠B-OSE_Labeled_AE ,  hiccups≠B-OSE_Labeled_AE ,  lung≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  lung≠B-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  pharyngitis≠B-OSE_Labeled_AE ,  pneumonia≠B-OSE_Labeled_AE ,  pneumothorax≠B-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  respiratory≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  rhinitis≠B-OSE_Labeled_AE ,  sinusitis≠B-OSE_Labeled_AE ,  voice≠B-OSE_Labeled_AE   alteration≠I-OSE_Labeled_AE    Skin≠B-NonOSE_AE   
+
+  Acne≠B-OSE_Labeled_AE ,  alopecia≠B-OSE_Labeled_AE ,  exfoliative≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ,  fungal≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ,  herpes≠B-OSE_Labeled_AE   simplex≠I-OSE_Labeled_AE ,  herpes≠B-OSE_Labeled_AE   zoster≠I-OSE_Labeled_AE ,  hirsutism≠B-OSE_Labeled_AE ,  neoplasm≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE   benign≠I-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   discoloration≠I-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  skin≠B-OSE_Labeled_AE   ulcer≠I-OSE_Labeled_AE ,  sweating≠B-OSE_Labeled_AE 
+
+   6.2 Postmarketing Adverse Reactions
+
+  The following adverse reactions have been reported from worldwide marketing experience with Prograf. Because these reactions are reported voluntarily from a population of uncertain size it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of the reporting, or (3) strength of causal connection to the drug.
+
+ Other reactions include:   Cardiovascular≠B-NonOSE_AE   
+
+  Atrial≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE ,  atrial≠B-OSE_Labeled_AE   flutter≠I-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   arrhythmia≠I-OSE_Labeled_AE ,  cardiac≠B-OSE_Labeled_AE   arrest≠I-OSE_Labeled_AE ,  electrocardiogram≠B-OSE_Labeled_AE   T≠I-OSE_Labeled_AE   wave≠I-OSE_Labeled_AE   abnormal≠I-OSE_Labeled_AE ,  flushing≠B-OSE_Labeled_AE ,  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE ,  myocardial≠B-OSE_Labeled_AE   ischaemia≠I-OSE_Labeled_AE ,  pericardial≠B-OSE_Labeled_AE   effusion≠I-OSE_Labeled_AE ,  QT≠B-OSE_Labeled_AE   prolongation≠I-OSE_Labeled_AE ,  Torsade≠B-OSE_Labeled_AE   de≠I-OSE_Labeled_AE   Pointes≠I-OSE_Labeled_AE ,  venous≠B-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE   deep≠I-OSE_Labeled_AE   limb≠I-OSE_Labeled_AE ,  ventricular≠B-OSE_Labeled_AE   extrasystoles≠I-OSE_Labeled_AE ,  ventricular≠B-OSE_Labeled_AE   fibrillation≠I-OSE_Labeled_AE ,  myocardial≠B-OSE_Labeled_AE   hypertrophy≠I-OSE_Labeled_AE   [see  Warnings and Precautions  (  5.15  )]  .   Gastrointestinal≠B-NonOSE_AE   
+
+  Bile≠B-OSE_Labeled_AE   duct≠I-OSE_Labeled_AE   stenosis≠I-OSE_Labeled_AE ,  colitis≠B-OSE_Labeled_AE ,  enterocolitis≠B-OSE_Labeled_AE ,  gastroenteritis≠B-OSE_Labeled_AE ,  gastrooesophageal≠B-OSE_Labeled_AE   reflux≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE ,  hepatic≠B-OSE_Labeled_AE   cytolysis≠I-OSE_Labeled_AE ,  hepatic≠B-OSE_Labeled_AE   necrosis≠I-OSE_Labeled_AE ,  hepatotoxicity≠B-OSE_Labeled_AE ,  impaired≠B-OSE_Labeled_AE   gastric≠I-OSE_Labeled_AE   emptying≠I-OSE_Labeled_AE ,  liver≠B-OSE_Labeled_AE   fatty≠I-OSE_Labeled_AE ,  mouth≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE ,  pancreatitis≠B-OSE_Labeled_AE   haemorrhagic≠I-OSE_Labeled_AE ,  pancreatitis≠B-OSE_Labeled_AE   necrotizing≠I-OSE_Labeled_AE ,  stomach≠B-OSE_Labeled_AE   ulcer≠I-OSE_Labeled_AE ,  venoocclusive≠B-OSE_Labeled_AE   liver≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE    Hemic≠B-NonOSE_AE  /≠I-NonOSE_AE  Lymphatic≠I-NonOSE_AE   
+
+  Agranulocytosis≠B-OSE_Labeled_AE ,  disseminated≠B-OSE_Labeled_AE   intravascular≠I-OSE_Labeled_AE   coagulation≠I-OSE_Labeled_AE ,  hemolytic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE ,  pancytopenia≠B-OSE_Labeled_AE ,  thrombocytopenic≠B-OSE_Labeled_AE   purpura≠I-OSE_Labeled_AE ,  thrombotic≠B-OSE_Labeled_AE   thrombocytopenic≠I-OSE_Labeled_AE   purpura≠I-OSE_Labeled_AE ,  pure≠B-OSE_Labeled_AE   red≠I-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   aplasia≠I-OSE_Labeled_AE   [see  Warnings and Precautions  (  5.17  )]     Infections≠B-NonOSE_AE   
+
+ Cases of  progressive≠B-OSE_Labeled_AE   multifocal≠I-OSE_Labeled_AE   leukoencephalopathy≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PML≠I-OSE_Labeled_AE ), sometimes  fatal≠B-NonOSE_AE ; - polyoma≠B-OSE_Labeled_AE   virus≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  associated≠I-OSE_Labeled_AE   nephropathy≠I-OSE_Labeled_AE  ,≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PVAN≠I-OSE_Labeled_AE ) including  graft≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE   [see  Warnings and Precautions  (  5.4  )]     Metabolic≠B-NonOSE_AE  /≠I-NonOSE_AE  Nutritional≠I-NonOSE_AE   
+
+  Glycosuria≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   amylase≠I-OSE_Labeled_AE  including  pancreatitis≠B-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE    Miscellaneous≠B-NonOSE_AE   
+
+  Feeling≠B-OSE_Labeled_AE   hot≠I-OSE_Labeled_AE  and cold,  feeling≠B-OSE_Labeled_AE   jittery≠I-OSE_Labeled_AE ,  hot≠B-OSE_Labeled_AE   flushes≠I-OSE_Labeled_AE ,  multi≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  organ≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  primary≠B-OSE_Labeled_AE   graft≠I-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   
+
+  Carpal≠B-OSE_Labeled_AE   tunnel≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  cerebral≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE ,  hemiparesis≠B-OSE_Labeled_AE ,  leukoencephalopathy≠B-OSE_Labeled_AE ,  mental≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  mutism≠B-OSE_Labeled_AE ,  posterior≠B-OSE_Labeled_AE   reversible≠I-OSE_Labeled_AE   encephalopathy≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PRES≠I-OSE_Labeled_AE )  [see  Warnings and Precautions  (  5.8  )]  ,  progressive≠B-OSE_Labeled_AE   multifocal≠I-OSE_Labeled_AE   leukoencephalopathy≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PML≠I-OSE_Labeled_AE )  [see  Warnings and Precautions  (  5.4  )]  ,  quadriplegia≠B-OSE_Labeled_AE ,  speech≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE ,  syncope≠B-OSE_Labeled_AE    Respiratory≠B-NonOSE_AE   
+
+  Acute≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   distress≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE ,  lung≠B-OSE_Labeled_AE   infiltration≠I-OSE_Labeled_AE ,  respiratory≠B-OSE_Labeled_AE   distress≠I-OSE_Labeled_AE ,  respiratory≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE    Skin≠B-NonOSE_AE   
+
+  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  toxic≠B-OSE_Labeled_AE   epidermal≠I-OSE_Labeled_AE   necrolysis≠I-OSE_Labeled_AE    Special≠B-NonOSE_AE   Senses≠I-NonOSE_AE   
+
+  Blindness≠B-OSE_Labeled_AE ,  blindness≠B-OSE_Labeled_AE   cortical≠I-OSE_Labeled_AE ,  hearing≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  including  deafness≠B-OSE_Labeled_AE ,  photophobia≠B-OSE_Labeled_AE    Urogenital≠B-NonOSE_AE   
+
+  Acute≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE ,  cystitis≠B-OSE_Labeled_AE   haemorrhagic≠I-OSE_Labeled_AE ,  hemolytic≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  uremic≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  micturition≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE 
+

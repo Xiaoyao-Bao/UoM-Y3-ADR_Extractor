@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="INTRAROSA">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   In four 12-week randomized, placebo-controlled clinical trials, the most common adverse reaction with an incidence &gt;= 2 percent was vaginal discharge. (  6.1  )
+
+
+
+ In one 52-week open-label clinical trial, the most common adverse reactions with an incidence &gt;= 2 percent were vaginal discharge and abnormal Pap smear. (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact AMAG Pharmaceuticals at 1-877-411-2510 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ In four (4) placebo-controlled, 12-week clinical trials [91% - White Caucasian non-Hispanic women, 7% - Black or African American women, and 2% - "Other" women, average age 58.8 years of age (range 40 to 80 years of age)], vaginal discharge is the most frequently reported treatment-emergent adverse reaction in the INTRAROSA treatment group with an incidence of &gt;= 2 percent and greater than reported in the placebo treatment group. There were 38 cases in 665 participating postmenopausal women (5.71 percent) in the INTRAROSA treatment group compared to 17 cases in 464 participating postmenopausal women (3.66 percent) in the placebo treatment group.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ In a 52-week non-comparative clinical trial [92% - White Caucasian non-Hispanic women, 6% - Black or African American women, and 2% - "Other" women, average age 57.9 years of age (range 43 to 75 years of age)], vaginal discharge and abnormal Pap smear at 52 weeks were the most frequently reported treatment-emergent adverse reaction in women receiving INTRAROSA with an incidence of &gt;= 2 percent. There were 74 cases of vaginal discharge (14.2 percent) and 11 cases of abnormal Pap smear (2.1 percent) in 521 participating postmenopausal women. The eleven (11) cases of abnormal Pap smear at 52 weeks include one (1) case of low-grade squamous intraepithelial lesion (LSIL), and ten (10) cases of atypical cells of undetermined significance (ASCUS).
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:   Current or Past History of Breast Cancer. (  5.1  )
+
+
+
+  
+ 
+
+   5.1 Current or Past History of Breast Cancer
+
+
+
+  Estrogen is a metabolite of prasterone. Use of exogenous estrogen is contraindicated in women with a known or suspected history of breast cancer. INTRAROSA has not been studied in women with a history of breast cancer.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="492" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="69" name="excerpt" section="S2" start="35" />
+    <IgnoredRegion len="44" name="heading" section="S2" start="111" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="522" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

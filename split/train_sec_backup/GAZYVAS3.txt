@@ -1,0 +1,117 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Infusion reactions: Premedicate patients with glucocorticoid, acetaminophen, and anti-histamine. Monitor patients closely during infusions. Interrupt or discontinue infusion for reactions. (  2.2  ,  5.3  ) 
+ *  Tumor Lysis Syndrome: Anticipate tumor lysis syndrome; premedicate with anti-hyperuricemics and adequate hydration especially for patients with high tumor burden and/or high circulating lymphocyte count. Correct electrolyte abnormalities, provide supportive care, and monitor renal function and fluid balance. (  5.4  ) 
+ *  Neutropenia: Monitor for infection. (  5.6  ) 
+ *  Thrombocytopenia: Monitor platelet counts and for bleeding. Management of hemorrhage may require blood product support. (  5.7  ) 
+ *  Immunization: Do not administer live virus vaccines prior to or during GAZYVA treatment. (  5.8  ) 
+    
+ 
+
+   5.1 Hepatitis B Virus Reactivation
+
+
+
+  Hepatitis B virus (HBV) reactivation, in some cases resulting in fulminant hepatitis, hepatic failure, and death, can occur in patients treated with anti-CD20 antibodies such as GAZYVA. HBV reactivation has been reported in patients who are hepatitis B surface antigen (HBsAg) positive and also in patients who are HBsAg negative but are hepatitis B core antibody (anti-HBc) positive. Reactivation has also occurred in patients who appear to have resolved hepatitis B infection (i.e., HBsAg negative, anti-HBc positive, and hepatitis B surface antibody [anti-HBs] positive).
+
+
+
+ HBV reactivation is defined as an abrupt increase in HBV replication manifesting as a rapid increase in serum HBV DNA level or detection of HBsAg in a person who was previously HBsAg negative and anti-HBc positive. Reactivation of HBV replication is often followed by hepatitis, i.e., increase in transaminase levels and, in severe cases, increase in bilirubin levels, liver failure, and death.
+
+
+
+ Screen all patients for HBV infection by measuring HBsAg and anti-HBc before initiating treatment with GAZYVA. For patients who show evidence of hepatitis B infection (HBsAg positive [regardless of antibody status] or HBsAg negative but anti-HBc positive), consult physicians with expertise in managing hepatitis B regarding monitoring and consideration for HBV antiviral therapy.
+
+
+
+ Monitor patients with evidence of current or prior HBV infection for clinical and laboratory signs of hepatitis or HBV reactivation during and for several months following treatment with GAZYVA. HBV reactivation has been reported for other CD20-directed cytolytic antibodies following completion of therapy.
+
+
+
+ In patients who develop reactivation of HBV while receiving GAZYVA, immediately discontinue GAZYVA and any concomitant chemotherapy and institute appropriate treatment. Resumption of GAZYVA in patients whose HBV reactivation resolves should be discussed with physicians with expertise in managing hepatitis B. Insufficient data exist regarding the safety of resuming GAZYVA in patients who develop HBV reactivation.
+
+
+
+    5.2 Progressive Multifocal Leukoencephalopathy
+
+
+
+  JC virus infection resulting in progressive multifocal leukoencephalopathy (PML), which can be fatal, was observed in patients treated with GAZYVA. Consider the diagnosis of PML in any patient presenting with new onset or changes to preexisting neurologic manifestations. Evaluation of PML includes, but is not limited to, consultation with a neurologist, brain MRI, and lumbar puncture. Discontinue GAZYVA therapy and consider discontinuation or reduction of any concomitant chemotherapy or immunosuppressive therapy in patients who develop PML.
+
+
+
+    5.3 Infusion Reactions
+
+
+
+  GAZYVA can cause severe and life-threatening infusion reactions. Two thirds of patients experienced a reaction to the first 1000 mg infused of GAZYVA. Infusion reactions can also occur with subsequent infusions. Symptoms may include hypotension, tachycardia, dyspnea, and respiratory symptoms (e.g., bronchospasm, larynx and throat irritation, wheezing, laryngeal edema). Other common symptoms include nausea, vomiting, diarrhea, hypertension, flushing, headache, pyrexia, and chills [see  Adverse Reactions (6.1)  ]  .
+
+
+
+ Premedicate patients with acetaminophen, antihistamine, and a glucocorticoid .  Institute medical management (e.g., glucocorticoids, epinephrine, bronchodilators, and/or oxygen) for infusion reactions as needed. Closely monitor patients during the entire infusion. Infusion reactions within 24 hours of receiving GAZYVA have occurred [see  Dosage and Administration (2)  ]  .
+
+
+
+ For patients with any Grade 4 infusion reactions, including but not limited to anaphylaxis, acute life-threatening respiratory symptoms, or other life-threatening infusion reaction: Stop the GAZYVA infusion. Permanently discontinue GAZYVA therapy.
+
+
+
+ For patients with Grade 1, 2, or 3 infusion reactions: Interrupt GAZYVA for Grade 3 reactions until resolution of symptoms. Interrupt or reduce the rate of the infusion for Grade 1 or 2 reactions and manage symptoms [see  Dosage and Administration (2)  ]  .
+
+
+
+  For patients with preexisting cardiac or pulmonary conditions, monitor more frequently throughout the infusion and the post-infusion period since they may be at greater risk of experiencing more severe reactions. Hypotension may occur as part of the GAZYVA infusion reaction. Consider withholding antihypertensive treatments for 12 hours prior to, during each GAZYVA infusion, and for the first hour after administration until blood pressure is stable. For patients at increased risk of hypertensive crisis, consider the benefits versus the risks of withholding their antihypertensive medication as is suggested here.  
+
+
+
+    5.4 Tumor Lysis Syndrome
+
+
+
+  Acute renal failure, hyperkalemia, hypocalcemia, hyperuricemia, and/or hyperphosphatemia from Tumor Lysis Syndrome (TLS) can occur within 12-24 hours after the first infusion. Patients with high tumor burden and/or high circulating lymphocyte count (> 25 * 10  9  /L) are at greater risk for TLS and should receive appropriate tumor lysis prophylaxis with anti-hyperuricemics (e.g., allopurinol) and hydration beginning 12-24 hours prior to the infusion of GAZYVA [see  Dosage and Administration (2.2)  ].  For treatment of TLS, correct electrolyte abnormalities, monitor renal function and fluid balance, and administer supportive care, including dialysis as indicated.
+
+
+
+    5.5 Infections
+
+
+
+   Serious bacterial, fungal, and new or reactivated viral infections can occur during and following GAZYVA therapy. Fatal infections have been reported with GAZYVA. Do not administer GAZYVA to patients with an active infection. Patients with a history of recurring or chronic infections may be at increased risk of infection.  
+
+
+
+    5.6 Neutropenia
+
+
+
+   GAZYVA in combination with chlorambucil caused Grade 3 or 4 neutropenia in 33% of patients in the trial. Patients with Grade 3 to 4 neutropenia should be monitored frequently with regular laboratory tests until resolution. Anticipate, evaluate, and treat any symptoms or signs of developing infection.  
+
+
+
+ Neutropenia can also be of late onset (occurring more than 28 days after completion of treatment) and/or prolonged (lasting longer than 28 days).
+
+
+
+ Patients with neutropenia are strongly recommended to receive antimicrobial prophylaxis throughout the treatment period. Antiviral and antifungal prophylaxis should be considered.
+
+
+
+    5.7 Thrombocytopenia
+
+
+
+   GAZYVA in combination with chlorambucil caused Grade 3 or 4 thrombocytopenia in 10% of patients in the trial. In 4% of patients, GAZYVA caused acute thrombocytopenia occurring within 24 hours after the GAZYVA infusion. Fatal hemorrhagic events during Cycle 1 have also been reported in patients treated with GAZYVA.  
+
+
+
+ Monitor all patients frequently for thrombocytopenia and hemorrhagic events, especially during the first cycle. In patients with Grade 3 or 4 thrombocytopenia, monitor platelet counts more frequently until resolution and consider subsequent dose delays of GAZYVA and chlorambucil or dose reductions of chlorambucil. Transfusion of blood products (i.e., platelet transfusion) may be necessary. Consider withholding concomitant medications which may increase bleeding risk (platelet inhibitors, anticoagulants), especially during the first cycle.
+
+
+
+    5.8 Immunization
+
+
+
+  The safety and efficacy of immunization with live or attenuated viral vaccines during or following GAZYVA therapy has not been studied. Immunization with live virus vaccines is not recommended during treatment and until B-cell recovery.

@@ -1,0 +1,17 @@
+
+
+    BOXED WARNING: WARNING: HEPATITIS B VIRUS REACTIVATION and PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY
+
+    WARNING: HEPATITIS B VIRUS REACTIVATION and PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY  
+
+    *   Hepatitis≠B-OSE_Labeled_AE   B≠I-OSE_Labeled_AE   Virus≠I-OSE_Labeled_AE  (HBV)  reactivation≠I-OSE_Labeled_AE , in some cases resulting in  fulminant≠B-NonOSE_AE   hepatitis≠I-NonOSE_AE ,  hepatic≠B-NonOSE_AE   failure≠I-NonOSE_AE , and  death≠B-NonOSE_AE , can occur in patients receiving CD20-directed cytolytic antibodies, including GAZYVA. Screen all patients for  HBV≠B-Not_AE_Candidate   infection≠I-Not_AE_Candidate  before treatment initiation. Monitor  HBV≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  positive≠I-Not_AE_Candidate   patients≠I-Not_AE_Candidate  during and after treatment with GAZYVA. Discontinue GAZYVA and concomitant medications in the event of  HBV≠B-NonOSE_AE   reactivation≠I-NonOSE_AE  [see Warnings and Precautions (5.1)]. 
+ *   Progressive≠B-OSE_Labeled_AE   Multifocal≠I-OSE_Labeled_AE   Leukoencephalopathy≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PML≠I-OSE_Labeled_AE ) including fatal  PML≠B-OSE_Labeled_AE , can occur in patients receiving GAZYVA [see Warnings and Precautions (5.2)]. 
+      EXCERPT:     WARNING: HEPATITIS B VIRUS REACTIVATION and PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY  
+ 
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+ *  Hepatitis B Virus (HBV) reactivation, in some cases resulting in fulminant hepatitis, hepatic failure, and death. (5.1) 
+ *  Progressive Multifocal Leukoencephalopathy (PML) resulting in death. (5.2) 

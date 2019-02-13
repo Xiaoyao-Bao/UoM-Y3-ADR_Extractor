@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PAREMYD">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Increased intraocular pressure has been reported following use of mydriatics. Transient stinging, dryness of the mouth, blurred vision, photophobia with or without corneal staining, tachycardia, headache, allergic reactions, nausea, vomiting, pallor and muscle rigidity have been reported with the use of tropicamide and/or hydroxyamphetamine hydrobromide, and thus may occur with PAREMYD  (r)  Solution. Central nervous system disturbances have also been reported. Psychotic reactions, behavioral disturbances, and vasomotor or cardiorespiratory collapse have been reported with the use of anticholinergic drugs.
+
+
+
+ Rare but serious cardiovascular events, including death due to myocardial infarction, ventricular fibrillation and significant hypotensive episodes have occurred shortly following PAREMYD  (r)  instillation.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  Patients with hypertension, hyperthyroidism, diabetes or cardiac disease (i.e., arrhythmias or chronic ischemic heart disease) should be monitored after instillation. The elderly and others in whom glaucoma or increased intraocular pressure may be encountered following administration of PAREMYD  (r)  Solution should also be monitored closely. To avoid inducing angle-closure glaucoma, an estimation of the depth of the angle of the anterior chamber should be made.
+
+
+
+    Information for Patients
+
+
+
+  Patients should be advised not to touch the dropper tip to any surface since this may contaminate the solution. Patients should be advised to use caution when driving or engaging in other hazardous activities while pupils are dilated. Patients may experience photophobia and/or blurred vision and should protect their eyes in bright illumination when pupils are dilated. Parents should be warned not to get this preparation in their child's mouth and to wash their own hands and the child's hands following administration.
+
+
+
+    Carcinogenesis, mutagenesis, impairment of fertility
+
+
+
+  No studies have been performed to evaluate the carcinogenic, mutagenic or impairment of fertility potential of PAREMYD  (r)  .
+
+
+
+    Pregnancy
+
+
+
+   Pregnancy Category C
+
+
+
+  Animal reproduction studies have not been conducted with PAREMYD  (r)  . It is also not known whether PAREMYD  (r)  can cause fetal harm when administered to a pregnant woman or can affect reproduction capability. PAREMYD  (r)  should be given to a pregnant woman only if clearly needed.
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when PAREMYD  (r)  is administered to a nursing woman.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in pediatric patients have not been established. PAREMYD  (r)  may rarely cause CNS disturbances which may be dangerous in infants and children. Psychotic reactions, behavioral disturbances and vasomotor or cardio-respiratory collapse in children have been reported with the use of anticholinergic drugs. (See   WARNINGS    ). Keep this and all medications out of the reach of children.
+
+
+
+    Geriatric Use
+
+
+
+  No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  For topical ophthalmic use only; not for injection.
+
+
+
+ There is evidence that mydriatics may produce a transient elevation of intraocular pressure in patients with open-angle glaucoma.
+
+
+
+ This preparation rarely may cause CNS disturbances which may be particularly dangerous in infants, children or the aged. Psychotic reactions, behavioral disturbances and vasomotor or cardio-respiratory collapse have been reported with the use of anticholinergic drugs.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="509" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="1069" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="1261" />
+    <IgnoredRegion len="20" name="heading" section="S2" start="1277" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1598" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="1817" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2255" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

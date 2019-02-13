@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="ZYKADIA">
+  <Text>
+    <Section id="S1" name="adverse reactions">      6          ADVERSE REACTIONS  
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *  Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.1)]  
+ *  Hepatotoxicity [see Warnings and Precautions (5.2)]  
+ *  Interstitial Lung Disease/Pneumonitis [see Warnings and Precautions (5.3)]  
+ *  QT Interval Prolongation [see Warnings and Precautions (5.4)  and  Clinical Pharmacology (12.2)]  
+ *  Hyperglycemia [see Warnings and Precautions (5.5)]  
+ *  Bradycardia [see Warnings and Precautions (5.6)  and  Clinical Pharmacology (12.2)  ]  
+ *  Pancreatitis  [see Warnings and Precautions (5.7)]  
+      EXCERPT:   The most common adverse reactions (incidence of at least 25%) in patients treated with ZYKADIA 750 mg fasted are diarrhea, nausea, fatigue, vomiting, abdominal pain, decreased appetite, and weight loss. (  6  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Novartis Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+    6.1          Clinical Trials Experience  
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The data in the Warnings and Precautions section reflect exposure to ZYKADIA 750 mg once daily under fasted conditions in 925 patients with ALK-positive NSCLC across seven clinical studies, including ASCEND-4 and ASCEND-1, described below, a randomized active-controlled study, two single arm studies, and two dose-escalation studies. The majority of patients enrolled in these studies had received prior treatment with chemotherapy and/or crizotinib for NSCLC. Among these 925 patients the most common adverse reactions (greater than or equal to 25% incidence) were diarrhea, nausea, fatigue, vomiting, abdominal pain, decreased appetite, and weight loss. Approximately 45% of patients initiating treatment with ZYKADIA 750 mg under fasted conditions had an adverse reaction that required at least one dose reduction and 66% of patients had an adverse reaction that required at least one dose interruption. The median time to first dose reduction due to any reason was 7 weeks.
+
+
+
+ In ASCEND-8, a dose optimization study, ZYKADIA 450 mg daily with food (N=89) was compared to 750 mg daily under fasted conditions (N=90) in both previously treated and untreated patients with ALK-positive NSCLC. The overall safety profile of ZYKADIA 450 mg with food was consistent with ZYKADIA 750 mg fasted, except for a reduction in gastrointestinal adverse reactions, while achieving comparable steady-state exposure  [see Clinical Pharmacology (12.3)]  . The incidence and severity of gastrointestinal adverse reactions (diarrhea 56%, nausea 45%, vomiting 35%) were reduced for patients treated with ZYKADIA 450 mg with food; the only Grade &gt;=3 adverse reaction was Grade 3 diarrhea in one patient (1.1%)  [see Gastrointestinal Adverse Reactions (5.1)]  . In patients treated with ZYKADIA 450 mg with food, 10% of patients had an adverse reaction that required at least one dose reduction and 42% of patients had an adverse reaction that required at least one dose interruption. The median time to first dose reduction due to any reason was 8 weeks.
+
+
+
+   Previously Untreated    ALK-P    ositive    M    etastatic NSCLC  
+
+
+
+ The safety evaluation of ZYKADIA is based on ASCEND-4, an open-label, randomized, active-controlled multicenter study of 376 previously untreated ALK-positive NSCLC patients. Patients received ZYKADIA 750 mg daily (N=189) under fasted conditions or chemotherapy plus maintenance chemotherapy (N=187). Chemotherapy regimens were pemetrexed (500 mg/m  2  ) plus investigator's choice of cisplatin (75 mg/m  2  ) or carboplatin (AUC of 5 - 6 mg*min/mL) administered every 21 days. Patients who completed 4 cycles of chemotherapy without progressive disease received pemetrexed (500 mg/m  2  ) as single-agent maintenance therapy every 21 days. 
+
+
+
+ The demographic characteristics of the study population were 57% female, median age 54 years (range: 22 to 81 years), 22% age 65 years or older, 54% White, 42% Asian, 2% Black, and 2% other races. Patients were enrolled in Europe (53%), Asia Pacific (42%), and South America (5%) regions. The majority of patients had adenocarcinoma (97%), never smoked (61%) and 32% had brain metastases at screening. The median duration of exposure to ZYKADIA was 18 months. 
+
+
+
+ Serious adverse reactions were reported in 72 patients (38%) treated with ZYKADIA. The most frequent serious adverse reactions were pneumonia (4%), pleural effusion (4%), vomiting (4%), nausea (3%), dyspnea (3%), hyperglycemia (3%), AST increased (2%), lung infection (2%), and pericardial effusion (2%). Among patients treated with ZYKADIA, dose interruptions due to adverse reactions occurred in 77%, dose reductions were required in 66%, and adverse reactions that led to discontinuation of therapy occurred in 12% of patients. The most frequent adverse reactions, reported in at least 10% of patients treated with ZYKADIA, that led to dose interruptions or reductions were: ALT increased (48%), AST increased (34%), vomiting (15%), blood creatinine increased (14%), GGT increased (13%), diarrhea (13%), and nausea (13%). The most frequent adverse reactions that led to discontinuation of ZYKADIA in 1% or more of patients in ASCEND-4 were blood creatinine increased (2.1%), amylase increased (1.1%), and lipase increased (1.1%). The following fatal adverse reactions occurred in 4 patients treated with ZYKADIA: myocardial infarction, respiratory tract infection, pneumonitis, and unknown cause.
+
+
+
+ Tables 3 and 4 summarize adverse reactions and laboratory abnormalities, respectively, in ASCEND-4.
+
+
+
+ Table 3: Adverse Reactions (&gt;10% for All NCI CTCAE* Grades or &gt;=2% for Grades 3-4) of Patients in ASCEND-4 
+                    ZYKADIA    N=189      Chemotherapy    N=175      a       
+                    All Grades       Grade 3-4        All Grades       Grade 3-4       
+                    %                %                %                %               
+   Gastrointestinal**                                                                         
+     Diarrhea     85               4.8              11               1.1               
+     Nausea       69               2.6              55               5                 
+     Vomiting     67               5                36               6                 
+     Abdominal pain  b    40               3.7              13               0                 
+     Constipation  20               0                22               0                 
+     Esophageal disorder  c    15               0.5              8                0.6               
+   G    eneral                                                                         
+     Fatigue  d    45               7                49               6                 
+     Non-cardiac chest pain  21               1.1              10               0.6               
+     Back pain    19               1.6              18               2.3               
+     Pain in extremity  13               0                7                0                 
+     Musculoskeletal pain  11               0.5              6                0.6               
+     Pruritus     11               0.5              5                0                 
+     Pyrexia      19               0                14               1.1               
+   Metabolism And Nutrition                                                                         
+     Decreased appetite  34               1.1              32               1.1               
+     Weight loss  24               3.7              15               0.6               
+   Respiratory                                                                         
+     Cough        25               0                17               0                 
+   Neurologic                                                                          
+     Headache     19               0.5              13               1.1               
+     Dizziness    12               1.1              10               0.6               
+   Skin                                                                                
+     Rash  e      21               1.1              8                0.6               
+   Cardiac                                                                             
+     Prolonged QT interval  12               2.6              1.1              0.6               
+     Pericarditis  f    4.2              1.6              2.3              1.1               
+ *National Cancer Institute Common Terminology Criteria for Adverse Events (version 4.03)**For frequency of gastrointestinal adverse reactions at the recommended dose of 450 mg with food, see  Gastrointestinal Adverse Reactions (5.1) and Clinical Trials Experience (6.1)  .  a  Twelve patients randomized to chemotherapy did not receive study drug.  b  Abdominal pain (abdominal pain, abdominal pain upper, abdominal discomfort, epigastric discomfort)  c  Esophageal disorder (dyspepsia, gastroesophageal reflux disease, dysphagia)  d  Fatigue (fatigue and asthenia)  e  Rash (rash, dermatitis acneiform, rash maculo-papular)  f  Pericarditis (pericardial effusion and pericarditis)   
+           Additional clinically significant adverse reactions occurring in 2% or more of patients treated with ZYKADIA 750 mg fasted included: vision disorder (4%; comprised of vision impairment, blurred vision, photopsia, accommodation disorder, presbyopia, reduced visual acuity, or vitreous floaters), bradycardia (4%), ILD/pneumonitis (2%), hepatotoxicity (2%) and renal failure (2%).
+ 
+
+ Table 4: Laboratory Abnormalities Occurring in &gt;10% (All NCI CTCAE Grades) of Patients in ASCEND-4 
+                    ZYKADIA    N=189      Chemotherapy    N=175      a       
+                    All Grades       Grade 3-4        All Grades       Grade 3-4       
+                    %                %                %                %               
+   Hematology                                                                          
+     Anemia       67               4.2              84               11                
+     Neutropenia  27               2.1              58               20                
+     Thrombocytopenia  16               1.0              38               4.6               
+   Chemistry                                                                           
+     Increased alanine transaminase (ALT)  91               34               65               3.4               
+     Increased aspartate transaminase (AST)  86               21               58               2.3               
+     Increased gamma-glutamyl transpeptidase (GGT)  84               49               67               10                
+     Increased alkaline phosphatase  81               12               47               1.7               
+     Increased creatinine  77               4.2              37               0.6               
+     Hyperglycemia  53               10               67               10                
+     Increased amylase  37               8                43               4.5               
+     Decreased phosphate  38               3.7              27               4.0               
+     Increased bilirubin (total)  15               0.5              6                0.6               
+     Increased lipase  b    13               6                7                0.6               
+   a  Twelve patients randomized to chemotherapy did not receive study drug.  b  In the ZYKADIA arm, no patients had baseline lipase laboratory assessments, 112 had post-baseline assessments. In the chemotherapy arm, one patient had baseline lipase laboratory assessments but no post-baseline assessment; 49 patients had post-baseline assessments.   
+             Previously Treated    ALK-Positive Metastatic NSCLC  
+ 
+
+ The safety evaluation of ZYKADIA is based on 255 ALK-positive patients in ASCEND-1 (246 patients with NSCLC and 9 patients with other cancers who received ZYKADIA at a dose of 750 mg daily under fasted conditions). The median duration of exposure to ZYKADIA was 6 months. The study population characteristics were: median age 53 years, age less than 65 (84%), female (53%), Caucasian (63%), Asian (34%), NSCLC adenocarcinoma histology (90%), never or former smoker (97%), ECOG PS 0 or 1 (89%), brain metastases (49%), and number of prior therapies 2 or more (67%).
+
+
+
+ Dose reductions due to adverse reactions occurred in 59% of patients treated with ZYKADIA. The most frequent adverse reactions, reported in at least 10% of patients, that led to dose reductions or interruptions were: increased ALT (29%), nausea (20%), increased AST (16%), diarrhea (16%), and vomiting (16%). Serious adverse drug reactions reported in 2% or more of patients in ASCEND-1 were convulsion, pneumonia, ILD/pneumonitis, dyspnea, dehydration, hyperglycemia, and nausea. Fatal adverse reactions in patients treated with ZYKADIA occurred in 5% of patients, consisting of: pneumonia (4 patients), respiratory failure, ILD/pneumonitis, pneumothorax, gastric hemorrhage, general physical health deterioration, pulmonary tuberculosis, cardiac tamponade, and sepsis (1 patient each). Discontinuation of therapy due to adverse reactions occurred in 10% of patients treated with ZYKADIA. The most frequent adverse drug reactions that led to discontinuation in 1% or more of patients in ASCEND-1 were pneumonia, ILD/pneumonitis, and decreased appetite.
+
+
+
+ Tables 5 and 6 summarize the common adverse reactions and laboratory abnormalities observed in ZYKADIA-treated patients.
+
+
+
+ Table 5: Adverse Reactions (&gt;10% for All NCI CTCAE* Grades or &gt;=2% for Grades 3-4) in ALK-Positive Patients Treated with ZYKADIA in ASCEND-1 
+                    ZYKADIA    N=255     
+                    All    G    rades      Grade 3-4       
+                    %                %               
+   Gastrointestinal**                                       
+       Diarrhea   86               6                 
+       Nausea     80               4                 
+       Vomiting   60               4                 
+       Abdominal pain  a    54               2                 
+       Constipation  29               0                 
+       Esophageal disorder  b    16               1                 
+   General                                           
+       Fatigue  c    52               5                 
+   Metabolism and    N    utrition                                       
+       Decreased appetite  34               1                 
+   Skin                                              
+       Rash  d    16               0                 
+   Respiratory                                       
+       Interstitial lung disease/pneumonitis  4                3                 
+ *National Cancer Institute Common Terminology Criteria for Adverse Events (version 4.03)**For frequency of gastrointestinal adverse reactions at the recommended dose of 450 mg with food, see  Gastrointestinal Adverse Reactions (5.1) and Clinical Trials Experience (6.1)  .  a  Abdominal pain (abdominal pain, upper abdominal pain, abdominal discomfort, epigastric discomfort)  b  Esophageal disorder (dyspepsia, gastroesophageal reflux disease, dysphagia)  c  Fatigue (fatigue, asthenia)  d  Rash (rash, maculopapular rash, acneiform dermatitis)   
+         Additional clinically significant adverse reactions occurring in 2% or more of patients treated with ZYKADIA 750 mg fasted included neuropathy (17%; comprised of paresthesia, muscular weakness, gait disturbance, peripheral neuropathy, hypoesthesia, peripheral sensory neuropathy, dysesthesia, neuralgia, peripheral motor neuropathy, hypotonia, or polyneuropathy), vision disorder (9%; comprised of vision impairment, blurred vision, photopsia, accommodation disorder, presbyopia, or reduced visual acuity), prolonged QT interval (4%), and bradycardia (3%).
+ 
+
+ Table 6: Key Laboratory Abnormalities Occurring in &gt;10% (All NCI CTCAE Grades) of ALK-Positive Patients Treated with ZYKADIA in ASCEND-1 
+                    ZYKADIA    N=255     
+                    All    G    rades      Grade 3-4       
+                    %                %               
+   Hematology                                        
+       Anemia     84               5                 
+   Chemistry                                         
+       Increased alanine transaminase (ALT)  80               27                
+       Increased aspartate transaminase (AST)  75               13                
+       Increased creatinine  58               2                 
+       Hyperglycemia  49               13                
+       Decreased phosphate  36               7                 
+       Increased lipase  28               10                
+       Increased bilirubin (total)  15               1                 
+</Section>
+    <Section id="S2" name="warnings and precautions">     5         WARNINGS AND PRECAUTIONS  
+
+
+
+   Data in the Warnings and Precautions section reflect the safety of ZYKADIA 750 mg daily under fasted conditions in 925 patients with ALK-positive NSCLC across a pool of seven clinical studies at systemic exposures similar to the recommended dose of 450 mg with food. In a dose optimization study (ASCEND-8), there were no clinically meaningful differences observed in the incidence of toxicities described in Warnings and Precautions between patients receiving 750 mg daily under fasted conditions and 450 mg with food, except for a reduction in gastrointestinal adverse reactions as described [see Gastrointestinal Adverse Reactions (5.1)]  .  
+
+
+
+    EXCERPT:    *   Gastrointestinal Adverse Reactions : ZYKADIA can cause gastrointestinal adverse reactions. If severe or intolerable, withhold if not responsive to antiemetics or antidiarrheals, then dose reduce ZYKADIA.  (  2.3  ,  5.1  ) 
+ *   Hepatotoxicity : ZYKADIA can cause hepatotoxicity. Monitor liver laboratory tests at least monthly. Withhold then dose reduce, or permanently discontinue ZYKADIA. (  2.3  ,  5.2  ) 
+ *   Interstitial Lung Disease (ILD)/Pneumonitis : Occurred in 2.4% of patients. Permanently discontinue ZYKADIA in patients diagnosed with treatment-related ILD/pneumonitis. (  2.3  ,  5.3  ) 
+ *   QT Interval Prolongation : ZYKADIA can cause QTc interval prolongation. Monitor electrocardiograms and electrolytes in patients with congestive heart failure, bradyarrhythmias, electrolyte abnormalities, or those who are taking medications that are known to prolong the QTc interval. Withhold then dose reduce, or permanently discontinue ZYKADIA. (  2.3  ,  5.4  ) 
+ *   Hyperglycemia : ZYKADIA can cause hyperglycemia. Monitor fasting glucose prior to treatment and periodically thereafter as clinically indicated. Initiate or optimize antihyperglycemic medications as indicated. Withhold then dose reduce, or permanently discontinue ZYKADIA. (  2.3  ,  5.5  ) 
+ *   Bradycardia : ZYKADIA can cause bradycardia. Monitor heart rate and blood pressure regularly. Withhold then dose reduce, or permanently discontinue ZYKADIA. (  2.3  ,  5.6  ) 
+ *   Pancreatitis : Elevations of lipase and/or amylase and pancreatitis can occur. Monitor lipase and amylase prior to treatment and periodically thereafter as clinically indicated. (  2.3  ,  5.7  ) 
+ *   Embryo-Fetal Toxicity : ZYKADIA can cause fetal harm. Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception. (  5.8  ,  8.1  ,  8.3  ) 
+    
+ 
+
+    5.1        Gastrointestinal Adverse Reactions  
+
+
+
+   Severe gastrointestinal toxicity occurred in patients treated with ZYKADIA 750 mg under fasted conditions. Diarrhea, nausea, vomiting, or abdominal pain occurred in 95% of 925 patients, including severe cases (Grade 3 or 4) in 14% of patients treated with ZYKADIA across clinical studies. Diarrhea, nausea, vomiting, or abdominal pain leading to dose interruptions or reductions occurred in 36% of patients and leading to treatment discontinuation occurred in 1.6% of patients.  
+
+
+
+  The incidence and severity of gastrointestinal adverse reactions were reduced for patients treated with ZYKADIA 450 mg with food in a dose optimization study (ASCEND-8). Diarrhea, nausea, vomiting, or abdominal pain occurred in 76% of 89 patients treated with ZYKADIA at the recommended dose of 450 mg with food. Of these, the majority experienced Grade 1 events (51%). One patient experienced Grade 3 diarrhea. No patients had diarrhea, nausea, vomiting, or abdominal pain that required dose reduction; 8% of patients had diarrhea or nausea that required at least one dose interruption  
+
+
+
+  Monitor and manage patients using standards of care, including antidiarrheals, antiemetics, or fluid replacement, as indicated. Based on the severity of the adverse drug reaction, withhold ZYKADIA with resumption at a reduced dose as described in Table 2 [see Dosage and Administration (2.   3   ) and   Adverse Reactions (6)].    
+
+
+
+     5.2         Hepatotoxicity  
+
+
+
+   Drug-induced hepatotoxicity occurred in patients treated with ZYKADIA. Elevations in alanine aminotransferase (ALT) greater than 5 times the upper limit of normal (ULN) occurred in 28% and elevations in aspartate aminotransferase (AST) greater than 5 times ULN occurred in 16% of 925 patients across clinical studies. Concurrent elevations in ALT greater than 3 times the ULN and total bilirubin greater than 2 times the ULN, with alkaline phosphatase less than 2 times the ULN occurred in 0.3% of patients across clinical studies. Approximately 1.0% of patients required permanent discontinuation due to hepatotoxicity.  
+
+
+
+  Monitor with liver laboratory tests including ALT, AST, and total bilirubin once a month and as clinically indicated, with more frequent testing in patients who develop transaminase elevations. Based on the severity of the adverse drug reaction, withhold ZYKADIA with resumption at a reduced dose, or permanently discontinue ZYKADIA as described in Table 2 [see Dosage and Administration (2.   3   )   and   Adverse Reactions (6)].    
+
+
+
+     5.3         Interstitial Lung Disease   (ILD)   /Pneumonitis  
+
+
+
+   Severe, life-threatening, or fatal ILD/pneumonitis occurred in patients treated with ZYKADIA. Across clinical studies, ILD/pneumonitis was reported in 2.4% of 925 patients treated with ZYKADIA. National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) Grade 3 or 4 ILD/pneumonitis was reported in 1.3% of patients, with fatal events reported in 0.2% of patients. Ten patients (1.1%) discontinued ZYKADIA across clinical studies due to ILD/pneumonitis.  
+
+
+
+  Monitor patients for pulmonary symptoms indicative of ILD/pneumonitis. Exclude other potential causes of ILD/pneumonitis, and permanently discontinue ZYKADIA in patients diagnosed with treatment-related ILD/pneumonitis [see Dosage and Administration (2.   3   )   and   Adverse Reactions (6)].    
+
+
+
+     5.4         QT Interval Prolongation  
+
+
+
+   QTc interval prolongation, which may lead to an increased risk for ventricular tachyarrhythmia (e.g., torsades de pointes) or sudden death, occurred in patients treated with ZYKADIA. Across clinical studies, 6% of 919 patients with at least one post-baseline ECG assessment experienced a QTc interval increase over baseline of greater than 60 msec. Approximately 1.3% of patients taking ZYKADIA 750 mg fasted were found to have a QTc greater than 500 msec. A pharmacokinetic/pharmacodynamic analysis suggested that ZYKADIA causes concentration-dependent increases in the QTc interval. Across clinical studies, 0.2% of patients discontinued ceritinib due to QTc prolongation.  
+
+
+
+  When possible, avoid use of ZYKADIA in patients with congenital long QT syndrome. Conduct periodic monitoring with electrocardiograms (ECGs) and electrolytes in patients with congestive heart failure, bradyarrhythmias, electrolyte abnormalities, or those who are taking medications that are known to prolong the QTc interval. Withhold ZYKADIA in patients who develop a QTc interval greater than 500 msec on at least 2 separate ECGs until the QTc interval is less than 481 msec or recovery to baseline if the QTc interval is greater than or equal to 481 msec, then resume ZYKADIA at a reduced dose as described in Table 2. Permanently discontinue ZYKADIA in patients who develop QTc interval prolongation in combination with torsades de pointes or polymorphic ventricular tachycardia or signs/symptoms of serious arrhythmia [see Dosage and Administration (2.   3   )   and   Clinical Pharmacology (12.2)].    
+
+
+
+     5.5         Hyperglycemia  
+
+
+
+   Hyperglycemia occurred in patients receiving ZYKADIA. Across clinical studies, CTCAE Grade 3 or 4 hyperglycemia, based on laboratory values, occurred in 13% of 925 patients. Monitor fasting serum glucose prior to the start of ZYKADIA treatment and periodically thereafter as clinically indicated. Initiate or optimize antihyperglycemic medications as indicated. Based on the severity of the adverse drug reaction, withhold ZYKADIA until hyperglycemia is adequately controlled, then resume ZYKADIA at a reduced dose as described in Table 2. If adequate hyperglycemic control cannot be achieved with optimal medical management, permanently discontinue ZYKADIA [see Dosage and Administration (2.   3   )   and   Adverse Reactions (6   )   ]   .    
+
+
+
+     5.6         Bradycardia  
+
+
+
+   Bradycardia occurred in patients receiving ZYKADIA. Across clinical studies, sinus bradycardia, defined as a heart rate of less than 50 beats per minute, was noted as a new finding in 1% of 925 patients. Bradycardia was reported as an adverse drug reaction in 1% of patients. No patient required discontinuation and 0.1% required interruption with subsequent dose reduction for bradycardia.  
+
+
+
+  Avoid using ZYKADIA in combination with other agents known to cause bradycardia (e.g., beta-blockers, non-dihydropyridine calcium channel blockers, clonidine, and digoxin) to the extent possible. Monitor heart rate and blood pressure regularly. In cases of symptomatic bradycardia that is not life-threatening, withhold ZYKADIA until recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above, evaluate the use of concomitant medications, and adjust the dose of ZYKADIA. Permanently discontinue ZYKADIA for life-threatening bradycardia if no contributing concomitant medication is identified; however, if associated with a concomitant medication known to cause bradycardia or hypotension, withhold ZYKADIA until recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above, and if the concomitant medication can be adjusted or discontinued, resume ZYKADIA at a reduced dose, as described in Table 2, upon recovery to asymptomatic bradycardia or to a heart rate of 60 bpm or above, with frequent monitoring [see Dosage and Administration (2.   3   )   and   Adverse Reactions (6)].    
+
+
+
+     5.7        Pancreati   tis  
+
+
+
+   Pancreatitis occurred in patients receiving ZYKADIA. Pancreatitis, including one fatality, occurred in less than 1% of patients receiving ZYKADIA in clinical studies. CTCAE Grade 3 or 4 elevations of amylase occurred in 7% of patients receiving ZYKADIA across clinical studies, while CTCAE Grade 3 or 4 elevations of lipase occurred in 14% of patients. Monitor lipase and amylase prior to the start of ZYKADIA treatment and periodically thereafter as clinically indicated. Based on the severity of the laboratory abnormalities, withhold ZYKADIA with resumption at a reduced dose as described in Table 2 [see Dosage and Administration (2.   3   )   and   Adverse Reactions (6)].    
+
+
+
+     5.   8         Embryo-Fetal Toxicity  
+
+
+
+   Based on its mechanism of action and findings in animal studies, ZYKADIA can cause fetal harm when administered to a pregnant woman. In animal studies, administration of ceritinib to rats and rabbits during organogenesis at maternal plasma exposures below the recommended human dose caused increases in skeletal anomalies in rats and rabbits. Advise pregnant women of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with ZYKADIA and for 6 months following completion of therapy. Based on the potential for genotoxicity, advise males with female partners of reproductive potential to use condoms during treatment with ZYKADIA and for 3 months following completion of therapy [see Use in Specific Populations (8.   1,   8.3) and Nonclinical Toxicology (13.1)]  .  
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="32" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="37" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="387" name="excerpt" section="S1" start="673" />
+    <IgnoredRegion len="1873" name="excerpt" section="S2" start="700" />
+    <IgnoredRegion len="43" name="heading" section="S1" start="1064" />
+    <IgnoredRegion len="48" name="heading" section="S2" start="2580" />
+    <IgnoredRegion len="29" name="heading" section="S2" start="4053" />
+    <IgnoredRegion len="63" name="heading" section="S2" start="5160" />
+    <IgnoredRegion len="39" name="heading" section="S2" start="6021" />
+    <IgnoredRegion len="28" name="heading" section="S2" start="7665" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="8453" />
+    <IgnoredRegion len="29" name="heading" section="S2" start="10006" />
+    <IgnoredRegion len="39" name="heading" section="S2" start="10731" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

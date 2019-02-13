@@ -1,0 +1,171 @@
+  6 ADVERSE REACTIONS
+
+  The following is discussed in more detail in other sections of the labeling:
+
+ *     Seizure≠B-OSE_Labeled_AE  [see  Warnings and Precautions  (  5.1  )]  
+ *     Posterior≠B-OSE_Labeled_AE   Reversible≠I-OSE_Labeled_AE   Encephalopathy≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PRES≠I-OSE_Labeled_AE ) [see  Warnings and Precautions  (  5.2  )]  
+      EXCERPT:   The most common adverse reactions (>= 10%) are asthenia/fatigue, back pain, decreased appetite, constipation, arthralgia, diarrhea, hot flush, upper respiratory tract infection, peripheral edema, dyspnea, musculoskeletal pain, weight decreased, headache, hypertension, and dizziness/vertigo. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Astellas Pharma US, Inc. at 1-800-727-7003 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+ Three randomized clinical trials enrolled patients with  metastatic≠B-Not_AE_Candidate   prostate≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  that has progressed on androgen deprivation therapy (GnRH therapy or bilateral orchiectomy), a disease setting that is also defined as  metastatic≠B-Not_AE_Candidate   CRPC≠I-Not_AE_Candidate . Two trials were placebo-controlled (Studies 1 and 2), and one trial was bicalutamide-controlled (Study 3). In Studies 1 and 2, patients received XTANDI 160 mg or placebo orally once daily. In Study 3, patients received XTANDI 160 mg or bicalutamide 50 mg orally once daily. All patients continued androgen deprivation therapy. Patients were allowed, but not required, to take glucocorticoids.
+
+ The most common adverse reactions (>= 10%) that occurred more commonly (>= 2% over placebo) in the XTANDI-treated patients from the two randomized placebo-controlled clinical trials were  asthenia≠B-OSE_Labeled_AE / fatigue≠B-OSE_Labeled_AE ,  back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE ,  arthralgia≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  hot≠B-OSE_Labeled_AE   flush≠I-OSE_Labeled_AE ,  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE ,  musculoskeletal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  hypertension≠B-OSE_Labeled_AE , and  dizziness≠B-OSE_Labeled_AE / vertigo≠B-OSE_Labeled_AE .
+
+   Study 1: XTANDI versus Placebo in Metastatic CRPC Following Chemotherapy  
+
+ Study 1 enrolled 1199 patients with  metastatic≠B-Not_AE_Candidate   CRPC≠I-Not_AE_Candidate  who had previously received docetaxel. The median duration of treatment was 8.3 months with XTANDI and 3.0 months with placebo. During the trial, 48% of patients on the XTANDI arm and 46% of patients on the placebo arm received glucocorticoids.
+
+ Grade 3 and higher adverse reactions were reported among 47% of XTANDI-treated patients and 53% of placebo-treated patients. Discontinuations due to adverse events were reported for 16% of XTANDI-treated patients and 18% of placebo-treated patients. The most common adverse reaction leading to treatment discontinuation was  seizure≠B-OSE_Labeled_AE , which occurred in 0.9% of the XTANDI-treated patients compared to none (0%) of the placebo-treated patients.  Table 1  shows adverse reactions reported in Study 1 that occurred at a >= 2% higher frequency in the XTANDI arm compared to the placebo arm.
+
+ Table 1. Adverse Reactions in Study 1 
+                                             XTANDI  N = 800    Placebo  N = 399    
+  Grade 1-4a  (%)                            Grade 3-4  (%)    Grade 1-4  (%)    Grade 3-4  (%)    
+   General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                           
+       Asthenic≠B-OSE_Labeled_AE   Conditions≠I-OSE_Labeled_AE b                   50.6             9.0              44.4             9.3              
+       Peripheral≠B-OSE_Labeled_AE   Edema≠I-OSE_Labeled_AE                        15.4             1.0              13.3             0.8              
+   Musculoskeletal≠B-NonOSE_AE   And≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE     
+       Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                               26.4             5.3              24.3             4.0              
+       Arthralgia≠B-OSE_Labeled_AE                              20.5             2.5              17.3             1.8              
+       Musculoskeletal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                    15.0             1.3              11.5             0.3              
+       Muscular≠B-OSE_Labeled_AE   Weakness≠I-OSE_Labeled_AE                       9.8              1.5              6.8              1.8              
+       Musculoskeletal≠B-OSE_Labeled_AE   Stiffness≠I-OSE_Labeled_AE               2.6              0.3              0.3              0.0              
+   Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                  
+       Diarrhea≠B-OSE_Labeled_AE                                21.8             1.1              17.5             0.3              
+   Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                          
+       Hot≠B-OSE_Labeled_AE   Flush≠I-OSE_Labeled_AE                               20.3             0.0              10.3             0.0              
+       Hypertension≠B-OSE_Labeled_AE                            6.4              2.1              2.8              1.3              
+   Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                    
+       Headache≠B-OSE_Labeled_AE                                12.1             0.9              5.5              0.0              
+       Dizziness≠B-OSE_Labeled_AE c                             9.5              0.5              7.5              0.5              
+       Spinal≠B-OSE_Labeled_AE   Cord≠I-OSE_Labeled_AE   Compression≠I-OSE_Labeled_AE      and  Cauda≠B-OSE_Labeled_AE   Equina≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE     7.4              6.6              4.5              3.8              
+       Paresthesia≠B-OSE_Labeled_AE                             6.6              0.0              4.5              0.0              
+       Mental≠B-OSE_Labeled_AE   Impairment≠I-OSE_Labeled_AE   Disordersd≠I-OSE_Labeled_AE            4.3              0.3              1.8              0.0              
+       Hypoesthesia≠B-OSE_Labeled_AE                            4.0              0.3              1.8              0.0              
+   Infections≠B-NonOSE_AE   And≠I-NonOSE_AE   Infestations≠I-NonOSE_AE                 
+       Upper≠B-OSE_Labeled_AE   Respiratory≠I-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE       Infection≠I-OSE_Labeled_AE e    10.9             0.0              6.5              0.3              
+       Lower≠B-OSE_Labeled_AE   Respiratory≠I-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE  And     Lung  Infection≠I-OSE_Labeled_AE f    8.5              2.4              4.8              1.3              
+   Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                       
+       Insomnia≠B-OSE_Labeled_AE                                8.8              0.0              6.0              0.5              
+       Anxiety≠B-OSE_Labeled_AE                                 6.5              0.3              4.0              0.0              
+   Renal≠B-NonOSE_AE   And≠I-NonOSE_AE   Urinary≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                 
+       Hematuria≠B-OSE_Labeled_AE                               6.9              1.8              4.5              1.0              
+       Pollakiuria≠B-OSE_Labeled_AE                             4.8              0.0              2.5              0.0              
+   Injury≠B-NonOSE_AE  ,≠I-NonOSE_AE   Poisoning≠I-NonOSE_AE   And≠I-NonOSE_AE   Procedural≠I-NonOSE_AE   Complications≠I-NonOSE_AE     
+       Fall≠B-OSE_Labeled_AE                                    4.6              0.3              1.3              0.0              
+       Non≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  pathologic≠I-OSE_Labeled_AE   Fractures≠I-OSE_Labeled_AE                4.0              1.4              0.8              0.3              
+   Skin≠B-NonOSE_AE   And≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE      
+       Pruritus≠B-OSE_Labeled_AE                                3.8              0.0              1.3              0.0              
+       Dry≠B-OSE_Labeled_AE   Skin≠I-OSE_Labeled_AE                                3.5              0.0              1.3              0.0              
+   Respiratory≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                       
+       Epistaxis≠B-OSE_Labeled_AE                               3.3              0.1              1.3              0.3              
+  a    CTCAE v4  b    Includes  asthenia≠B-OSE_Labeled_AE  and  fatigue≠B-OSE_Labeled_AE .  c    Includes  dizziness≠B-OSE_Labeled_AE  and  vertigo≠B-OSE_Labeled_AE .  d    Includes  amnesia≠B-OSE_Labeled_AE ,  memory≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE ,  cognitive≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE , and  disturbance≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   attention≠I-OSE_Labeled_AE .  e    Includes  nasopharyngitis≠B-OSE_Labeled_AE ,  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  sinusitis≠B-OSE_Labeled_AE ,  rhinitis≠B-OSE_Labeled_AE ,  pharyngitis≠B-OSE_Labeled_AE , and  laryngitis≠B-OSE_Labeled_AE .  f    Includes  pneumonia≠B-OSE_Labeled_AE ,  lower≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  bronchitis≠B-OSE_Labeled_AE , and  lung≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE .    
+             Study 2: XTANDI versus Placebo in Chemotherapy-naive Metastatic CRPC  
+ 
+
+ Study 2 enrolled 1717 patients with  metastatic≠B-Not_AE_Candidate   CRPC≠I-Not_AE_Candidate  who had not received prior  cytotoxic≠B-NonOSE_AE   chemotherapy≠I-NonOSE_AE , of whom 1715 received at least one dose of study drug. The median duration of treatment was 17.5 months with XTANDI and 4.6 months with placebo. Grade 3-4 adverse reactions were reported in 44% of XTANDI-treated patients and 37% of placebo-treated patients. Discontinuations due to adverse events were reported for 6% of XTANDI-treated patients and 6% of placebo-treated patients. The most common adverse reaction leading to treatment discontinuation was  fatigue≠B-OSE_Labeled_AE / asthenia≠B-OSE_Labeled_AE , which occurred in 1% of patients on each treatment arm.  Table 2  includes adverse reactions reported in Study 2 that occurred at a >= 2% higher frequency in the XTANDI arm compared to the placebo arm.
+
+ Table 2. Adverse Reactions in Study 2 
+                                              XTANDI    N = 871      Placebo    N = 844     
+   Grade 1-4  a      (%)                      Grade 3-4    (%)      Grade 1-4    (%)      Grade 3-4    (%)     
+  
+   General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                           
+       Asthenic≠B-OSE_Labeled_AE   Conditions≠I-OSE_Labeled_AE b                   46.9             3.4              33.0             2.8             
+       Peripheral≠B-OSE_Labeled_AE   Edema≠I-OSE_Labeled_AE                        11.5             0.2              8.2              0.4             
+   Musculoskeletal≠B-NonOSE_AE   And≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE     
+       Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                               28.6             2.5              22.4             3.0             
+       Arthralgia≠B-OSE_Labeled_AE                              21.4             1.6              16.1             1.1             
+   Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                  
+       Constipation≠B-OSE_Labeled_AE                            23.2             0.7              17.3             0.4             
+       Diarrhea≠B-OSE_Labeled_AE                                16.8             0.3              14.3             0.4             
+   Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                          
+       Hot≠B-OSE_Labeled_AE   Flush≠I-OSE_Labeled_AE                               18.0             0.1              7.8              0.0             
+       Hypertension≠B-OSE_Labeled_AE                            14.2             7.2              4.1              2.3             
+   Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                    
+       Dizziness≠B-OSE_Labeled_AE c                             11.3             0.3              7.1              0.0             
+       Headache≠B-OSE_Labeled_AE                                11.0             0.2              7.0              0.4             
+       Dysgeusia≠B-OSE_Labeled_AE                               7.6              0.1              3.7              0.0             
+       Mental≠B-OSE_Labeled_AE   Impairment≠I-OSE_Labeled_AE   Disordersd≠I-OSE_Labeled_AE            5.7              0.0              1.3              0.1             
+       Restless≠B-OSE_Labeled_AE   Legs≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE                  2.1              0.1              0.4              0.0             
+   Respiratory≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                       
+       Dyspneae≠B-OSE_Labeled_AE                                11.0             0.6              8.5              0.6             
+   Infections≠B-NonOSE_AE   And≠I-NonOSE_AE   Infestations≠I-NonOSE_AE                 
+       Upper≠B-OSE_Labeled_AE   Respiratory≠I-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE       Infection≠I-OSE_Labeled_AE f    16.4             0.0              10.5             0.0             
+       Lower≠B-OSE_Labeled_AE   Respiratory≠I-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE  And     Lung  Infection≠I-OSE_Labeled_AE g    7.9              1.5              4.7              1.1             
+   Psychiatric≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                       
+       Insomnia≠B-OSE_Labeled_AE                                8.2              0.1              5.7              0.0             
+   Renal≠B-NonOSE_AE   And≠I-NonOSE_AE   Urinary≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                 
+       Hematuria≠B-OSE_Labeled_AE                               8.8              1.3              5.8              1.3             
+   Injury≠B-NonOSE_AE  ,≠I-NonOSE_AE   Poisoning≠I-NonOSE_AE   And≠I-NonOSE_AE   Procedural≠I-NonOSE_AE   Complications≠I-NonOSE_AE     
+       Fall≠B-OSE_Labeled_AE                                    12.7             1.6              5.3              0.7             
+       Non≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Pathological≠I-OSE_Labeled_AE   Fracture≠I-OSE_Labeled_AE               8.8              2.1              3.0              1.1             
+   Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE          
+       Decreased≠B-OSE_Labeled_AE   Appetite≠I-OSE_Labeled_AE                      18.9             0.3              16.4             0.7             
+   Investigations≠B-NonOSE_AE                              
+       Weight≠B-OSE_Labeled_AE   Decreased≠I-OSE_Labeled_AE                        12.4             0.8              8.5              0.2             
+   Reproductive≠B-NonOSE_AE   System≠I-NonOSE_AE   and≠I-NonOSE_AE   Breast≠I-NonOSE_AE   disorders≠I-NonOSE_AE     
+       Gynecomastia≠B-OSE_Labeled_AE                            3.4              0.0              1.4              0.0             
+  a    CTCAE v4  b    Includes  asthenia≠B-OSE_Labeled_AE  and  fatigue≠B-OSE_Labeled_AE .  c    Includes  dizziness≠B-OSE_Labeled_AE  and  vertigo≠B-OSE_Labeled_AE .  d    Includes  amnesia≠B-OSE_Labeled_AE ,  memory≠B-OSE_Labeled_AE   impairment≠I-OSE_Labeled_AE ,  cognitive≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE , and  disturbance≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   attention≠I-OSE_Labeled_AE .  e    Includes  dyspnea≠B-OSE_Labeled_AE ,  exertional≠B-OSE_Labeled_AE   dyspnea≠I-OSE_Labeled_AE , and  dyspnea≠B-OSE_Labeled_AE   at≠I-OSE_Labeled_AE   rest≠I-OSE_Labeled_AE .  f    Includes  nasopharyngitis≠B-OSE_Labeled_AE ,  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  sinusitis≠B-OSE_Labeled_AE ,  rhinitis≠B-OSE_Labeled_AE ,  pharyngitis≠B-OSE_Labeled_AE , and  laryngitis≠B-OSE_Labeled_AE .  g    Includes  pneumonia≠B-OSE_Labeled_AE ,  lower≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  bronchitis≠B-OSE_Labeled_AE , and  lung≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE .    
+             Study 3: XTANDI versus Bicalutamide in Chemotherapy-naive Metastatic CRPC  
+ 
+
+ Study 3 enrolled 375 patients with  metastatic≠B-Not_AE_Candidate   CRPC≠I-Not_AE_Candidate  who had not received prior  cytotoxic≠B-NonOSE_AE   chemotherapy≠I-NonOSE_AE , of whom 372 received at least one dose of study drug.  The median duration of treatment was 11.6 months with XTANDI and 5.8 months with bicalutamide. Discontinuations with an adverse event as the primary reason were reported for 7.6% of XTANDI-treated patients and 6.3% of bicalutamide-treated patients. The most common adverse reactions leading to treatment discontinuation were  back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  and  pathological≠B-OSE_Labeled_AE   fracture≠I-OSE_Labeled_AE , which occurred in 3.8% of XTANDI-treated patients for each event and in 2.1% and 1.6% of bicalutamide-treated patients, respectively.  Table 3  shows overall and common adverse reactions (>= 10%) in XTANDI-treated patients.
+
+ Table 3. Adverse Reactions in Study 3 
+                                              XTANDI    (N=183)      Bicalutamide    (N=189)     
+   Grade 1-4  a      (%)                      Grade 3-4    (%)      Grade 1-4  a      (%)      Grade 3-4    (%)     
+  
+  Overall                                    94.0             38.8             94.2             37.6             
+   General≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                           
+       Asthenic≠B-OSE_Labeled_AE   Conditions≠I-OSE_Labeled_AE b                   31.7             1.6              22.8             1.1              
+   Musculoskeletal≠B-NonOSE_AE   And≠I-NonOSE_AE   Connective≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE     
+       Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                               19.1             2.7              18.0             1.6              
+       Musculoskeletal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE c                  16.4             1.1              14.3             0.5              
+   Vascular≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                          
+       Hot≠B-OSE_Labeled_AE   Flush≠I-OSE_Labeled_AE                               14.8             0                11.1             0                
+       Hypertension≠B-OSE_Labeled_AE                            14.2             7.1              7.4              4.2              
+   Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE                  
+       Nausea≠B-OSE_Labeled_AE                                  14.2             0                17.5             0                
+       Constipation≠B-OSE_Labeled_AE                            12.6             1.1              13.2             0.5              
+       Diarrhea≠B-OSE_Labeled_AE                                11.5             0                9.0              1.1              
+   Infections≠B-NonOSE_AE   And≠I-NonOSE_AE   Infestations≠I-NonOSE_AE                 
+       Upper≠B-OSE_Labeled_AE   Respiratory≠I-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE d     12.0             0                6.3              0.5              
+   Investigational≠B-NonOSE_AE                             
+       Weight≠B-OSE_Labeled_AE   Loss≠I-OSE_Labeled_AE                             10.9             0.5              7.9              0.5              
+  a    CTCAE v 4b    Including  asthenia≠B-OSE_Labeled_AE  and  fatigue≠B-OSE_Labeled_AE .c    Including  musculoskeletal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  and  pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE  d    Including  nasopharyngitis≠B-OSE_Labeled_AE ,  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  sinusitis≠B-OSE_Labeled_AE ,  rhinitis≠B-OSE_Labeled_AE ,  pharyngitis≠B-OSE_Labeled_AE , and  laryngitis≠B-OSE_Labeled_AE     
+             Laboratory Abnormalities  
+ 
+
+ In the two randomized placebo-controlled clinical trials, Grade 1-4  neutropenia≠B-OSE_Labeled_AE  occurred in 15% of patients treated with XTANDI (1% Grade 3-4) and in 6% of patients treated with placebo (0.5% Grade 3-4). The incidence of Grade 1-4  thrombocytopenia≠B-OSE_Labeled_AE  was 6% of patients treated with XTANDI (0.3% Grade 3-4) and 5% of patients treated with placebo (0.5% Grade 3-4). Grade 1-4  elevations≠B-NonOSE_AE   in≠I-NonOSE_AE   ALT≠I-NonOSE_AE  occurred in 10% of patients treated with XTANDI (0.2% Grade 3-4) and 16% of patients treated with placebo (0.2% Grade 3-4). Grade 1-4  elevations≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   bilirubin≠I-OSE_Labeled_AE  occurred in 3% of patients treated with XTANDI (0.1% Grade 3-4) and 2% of patients treated with placebo (no Grade 3-4).
+
+   Infections  
+
+ In Study 1, 1% of patients treated with XTANDI compared to 0.3% of patients treated with placebo  died≠B-NonOSE_AE  from  infections≠B-NonOSE_AE  or  sepsis≠B-NonOSE_AE . In Study 2, 1 patient in each treatment group (0.1%) had an  infection≠B-NonOSE_AE  resulting in  death≠B-NonOSE_AE .
+
+   Falls and Fall-related Injuries  
+
+ In the two randomized placebo-controlled clinical trials,  falls≠B-OSE_Labeled_AE  including  fall≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   injuries≠I-OSE_Labeled_AE , occurred in 9% of patients treated with XTANDI compared to 4% of patients treated with placebo.  Falls≠B-NonOSE_AE  were not associated with  loss≠B-NonOSE_AE   of≠I-NonOSE_AE   consciousness≠I-NonOSE_AE  or  seizure≠B-NonOSE_AE .  Fall≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   injuries≠I-OSE_Labeled_AE  were more severe in patients treated with XTANDI and included non-pathologic fractures, joint injuries, and hematomas.
+
+   Hypertension  
+
+ In the two randomized placebo-controlled trials,  hypertension≠B-OSE_Labeled_AE  was reported in 11% of patients receiving XTANDI and 4% of patients receiving placebo. No patients experienced  hypertensive≠B-NonOSE_AE   crisis≠I-NonOSE_AE . Medical history of  hypertension≠B-Not_AE_Candidate  was balanced between arms.  Hypertension≠B-OSE_Labeled_AE  led to study discontinuation in < 1% of patients in each arm.
+
+   6.2 Post-Marketing Experience
+
+  The following additional adverse reactions have been identified during post approval use of XTANDI. Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
+
+    Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE :   hypersensitivity≠B-OSE_Labeled_AE  ( tongue≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE ,  lip≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE , and  pharyngeal≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE )
+
+    Gastrointestinal≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :   vomiting≠B-OSE_Labeled_AE 
+
+    Neurological≠B-NonOSE_AE   Disorders≠I-NonOSE_AE :   posterior≠B-OSE_Labeled_AE   reversible≠I-OSE_Labeled_AE   encephalopathy≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PRES≠I-OSE_Labeled_AE )
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Subcutaneous≠I-NonOSE_AE   Tissue≠I-NonOSE_AE   Disorders≠I-NonOSE_AE :   rash≠B-OSE_Labeled_AE 
+

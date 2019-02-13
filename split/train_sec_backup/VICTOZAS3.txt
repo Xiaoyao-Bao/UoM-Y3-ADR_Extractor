@@ -1,0 +1,56 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *     Thyroid C-cell Tumors : See Boxed Warning  (5.1)  . 
+ *     Pancreatitis : Postmarketing reports, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis. Discontinue promptly if pancreatitis is suspected. Do not restart if pancreatitis is confirmed (  5.2  ). 
+ *     Never share a VICTOZA pen between patients, even if the needle is changed  (5.3)  . 
+ *     Serious Hypoglycemia : When VICTOZA is used with an insulin secretagogue (e.g. a sulfonylurea) or insulin, consider lowering the dose of the insulin secretagogue or insulin to reduce the risk of hypoglycemia  (5.4)  . 
+ *     Renal Impairment : Postmarketing, usually in association with nausea, vomiting, diarrhea, or dehydration which may sometimes require hemodialysis. Use caution when initiating or escalating doses of VICTOZA in patients with renal impairment  (5.5)  . 
+ *     Hypersensitivity : Postmarketing reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema). Discontinue VICTOZA and promptly seek medical advice  (5.6)  . 
+ *     Acute Gallbladder Disease : If cholelithiasis or cholecystitis are suspected, gallbladder studies are indicated  (5.7)  . 
+    
+ 
+
+   5.1 Risk of Thyroid C-cell Tumors
+
+  Liraglutide causes dose-dependent and treatment-duration-dependent thyroid C-cell tumors (adenomas and/or carcinomas) at clinically relevant exposures in both genders of rats and mice [see   Nonclinical Toxicology (13.1)    ]. Malignant thyroid C-cell carcinomas were detected in rats and mice. It is unknown whether VICTOZA will cause thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans, as the human relevance of liraglutide-induced rodent thyroid C-cell tumors has not been determined.
+
+ Cases of MTC in patients treated with VICTOZA have been reported in the postmarketing period; the data in these reports are insufficient to establish or exclude a causal relationship between MTC and VICTOZA use in humans.
+
+ VICTOZA is contraindicated in patients with a personal or family history of MTC or in patients with MEN 2. Counsel patients regarding the potential risk for MTC with the use of VICTOZA and inform them of symptoms of thyroid tumors (e.g. a mass in the neck, dysphagia, dyspnea, persistent hoarseness).
+
+ Routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of MTC in patients treated with VICTOZA. Such monitoring may increase the risk of unnecessary procedures, due to low test specificity for serum calcitonin and a high background incidence of thyroid disease. Significantly elevated serum calcitonin may indicate MTC and patients with MTC usually have calcitonin values >50 ng/L. If serum calcitonin is measured and found to be elevated, the patient should be further evaluated. Patients with thyroid nodules noted on physical examination or neck imaging should also be further evaluated.
+
+    
+
+    5.2 Pancreatitis
+
+   Based on spontaneous postmarketing reports, acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with VICTOZA. After initiation of VICTOZA, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting). If pancreatitis is suspected, VICTOZA should promptly be discontinued and appropriate management should be initiated. If pancreatitis is confirmed, VICTOZA should not be restarted.  
+
+  In glycemic control trials of VICTOZA, there have been 13 cases of pancreatitis among VICTOZA-treated patients and 1 case in a comparator (glimepiride) treated patient (2.7 vs. 0.5 cases per 1000 patient-years). Nine of the 13 cases with VICTOZA were reported as acute pancreatitis and four were reported as chronic pancreatitis. In one case in a VICTOZA-treated patient, pancreatitis, with necrosis, was observed and led to death; however clinical causality could not be established. Some patients had other risk factors for pancreatitis, such as a history of cholelithiasis or alcohol abuse.  
+
+  VICTOZA has been studied in a limited number of patients with a history of pancreatitis. It is unknown if patients with a history of pancreatitis are at higher risk for development of pancreatitis on VICTOZA  .
+
+    5.3 Never Share a VICTOZA Pen Between Patients
+
+  VICTOZA pens must never be shared between patients, even if the needle is changed. Pen-sharing poses a risk for transmission of blood-borne pathogens.
+
+    5.4 Use with Medications Known to Cause Hypoglycemia
+
+  Patients receiving VICTOZA in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin may have an increased risk of hypoglycemia. The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin [see  Dosage and Administration (2.2)  ,     Adverse Reactions (6.1)  ].  
+
+    5.5 Renal Impairment
+
+  VICTOZA has not been found to be directly nephrotoxic in animal studies or clinical trials.
+
+ There have been postmarketing reports of acute renal failure and worsening of chronic renal failure, which may sometimes require hemodialysis in VICTOZA-treated patients [see  Adverse Reactions (6.2)  ]  . Some of these events were reported in patients without known underlying renal disease. A majority of the reported events occurred in patients who had experienced nausea, vomiting, diarrhea, or dehydration [see  Adverse Reactions (6.1)  ]  . Some of the reported events occurred in patients receiving one or more medications known to affect renal function or hydration status. Altered renal function has been reversed in many of the reported cases with supportive treatment and discontinuation of potentially causative agents, including VICTOZA. Use caution when initiating or escalating doses of VICTOZA in patients with renal impairment [see  Use in Specific Populations (8.6)  ]  .
+
+     5.6 Hypersensitivity Reactions  
+
+   There have been postmarketing reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with VICTOZA. If a hypersensitivity reaction occurs, discontinue VICTOZA; treat promptly per standard of care, and monitor until signs and symptoms resolve. Do not use in patients with a previous hypersensitivity reaction to VICTOZA [see     Contraindications (4)     ].  
+
+  Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists. Use caution in a patient with a history of anaphylaxis or angioedema with another GLP-receptor agonist because it is unknown whether such patients will be predisposed to these reactions with VICTOZA.  
+
+     5.7 Acute Gallbladder Disease  
+
+   In the LEADER trial [see  Clinical Studies (14.2)  ]  , 3.1% of Victoza-treated patients versus 1.9% of placebo-treated patients reported an acute event of gallbladder disease, such as cholelithiasis or cholecystitis. The majority of events required hospitalization or cholecystectomy. If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.  
+

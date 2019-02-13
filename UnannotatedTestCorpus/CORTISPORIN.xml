@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CORTISPORIN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Neomycin occasionally causes skin sensitization. Ototoxicity and nephrotoxicity have also been reported. (See  WARNINGS  .) Adverse reactions have occurred with topical use of antibiotic combinations including neomycin, bacitracin, and polymyxin B. Exact incidence figures are not available since no denominator of treated patients is available. The reaction occurring most often is allergic sensitization. In one clinical study, using a 20% neomycin patch, neomycin-induced allergic skin reactions occurred in two of 2,175 (0.09%) individuals in the general population.  1  In another study, the incidence was found to be approximately 1%.  2  
+
+
+
+ The following local adverse reactions have been reported with topical corticosteroids, especially under occlusive dressings: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria.
+
+
+
+ When steroid preparations are used for long periods of time in intertriginous areas or over extensive body areas, with or without occlusive non-permeable dressings, striae may occur; also there exists the possibility of systemic side effects when steroid preparations are used over large areas or for a long period of time.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  As with other antibiotic preparations, prolonged use may result in overgrowth of nonsusceptible organisms, including fungi. Treatment should not be continued for longer than 7 days. If the infection is not improved after 1 week, cultures and susceptibility tests should be repeated to verify the identity of the organism and to determine whether therapy should be changed. Allergic cross-reactions may occur which could prevent the use of any or all of the aminoglycoside antibiotics for the treatment of future infections.
+
+
+
+ Use of steroids on infected areas should be supervised with care as anti-inflammatory steroids may encourage spread of infections. If this occurs, steroid therapy should be stopped and appropriate antibacterial drugs used. Generalized dermatological conditions may require systemic corticosteroid therapy.
+
+
+
+ Signs and symptoms of exogenous hyperadrenocorticism can occur with the use of topical corticosteroids, including adrenal suppression. Systemic absorption of topically applied steroids will be increased if extensive body surface areas are treated or if occlusive dressings are used. Under these circumstances, suitable precautions should be taken when long-term use is anticipated.
+
+
+
+    Information for Patients
+
+
+
+  If redness, irritation, swelling, or pain persists or increases, discontinue use and notify physician. Do not use in the eyes.
+
+
+
+    Laboratory Tests
+
+
+
+  Systemic effects of excessive levels of hydrocortisone may include a reduction in the number of circulating eosinophils and a decrease in urinary excretion of 17-hydroxycorticosteroids.
+
+
+
+    Carcinogenesis and Mutagenesis and Impairment of Fertility
+
+
+
+  Long-term studies in animals (rats, rabbits, mice) showed no evidence of carcinogenicity attributable to oral administration of corticosteroids.
+
+
+
+    Pregnancy
+
+
+
+     Teratogenic Effects    
+
+
+
+  Corticosteroids have been shown to be teratogenic in rabbits when applied topically at concentrations of 0.5% on days 6 to 18 of gestation and in mice when applied topically at a concentration of 15% on days 10 to 13 of gestation. There are no adequate and well-controlled studies in pregnant women. Corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+    Nursing Mothers
+
+
+
+  Hydrocortisone appears in human milk following oral administration of the drug. Since systemic absorption of hydrocortisone may occur when applied topically, caution should be exercised when CORTISPORIN Ointment is used by a nursing woman.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness in pediatric patients have not been established. Sufficient percutaneous absorption of hydrocortisone can occur in infants and children during prolonged use to cause cessation of growth, as well as other signs and symptoms of hyperadrenocorticism.
+
+
+
+    Geriatric Use
+
+
+
+  Clinical studies of Cortisporin Ointment did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between elderly and younger patients.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Neomycin can induce permanent sensorineural hearing loss due to cochlear damage, mainly destruction of hair cells in the organ of Corti. The risk of ototoxicity is greater with prolonged use.
+
+
+
+ Therapy with this product should be limited to 7 days of treatment. (See  INDICATIONS AND USAGE  .)
+
+
+
+ Neomycin sulfate may cause cutaneous sensitization. A precise incidence of hypersensitivity reactions (primarily skin rash) due to topical neomycin is not known. Discontinue promptly if sensitization or irritation occurs.
+
+
+
+ When using neomycin-containing products to control secondary infection in the chronic dermatoses, such as chronic otitis extema or stasis dermatitis, it should be borne in mind that the skin in these conditions is more liable than is normal skin to become sensitized to many substances, including neomycin. The manifestation of sensitization to neomycin is usually a low-grade reddening with swelling, dry scaling, and itching; it may be manifest simply as a failure to heal. Periodic examination for such signs is advisable, and the patient should be told to discontinue the product if they are observed. These symptoms regress quickly on withdrawing the medication. Neomycin-containing applications should be avoided for the patient thereafter.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="1262" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="1426" />
+    <IgnoredRegion len="58" name="heading" section="S2" start="1641" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="1857" />
+    <IgnoredRegion len="25" name="heading" section="S2" start="1873" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="2332" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2600" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2899" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

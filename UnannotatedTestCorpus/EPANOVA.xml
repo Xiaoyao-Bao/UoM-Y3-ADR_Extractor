@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="EPANOVA">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (incidence &gt;= 3% and greater than placebo) are diarrhea, nausea, abdominal pain or discomfort, and eructation. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact AstraZeneca at 1-800-236-9933 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ Adverse reactions reported by at least 3% of EPANOVA-treated individuals and with a higher incidence than placebo (olive oil), based on pooled data from two clinical trials of 6- and 12-week duration involving subjects with hypertriglyceridemia, are listed in  Table 1  .
+
+
+
+ Table 1. Adverse Reactions Occurring at Incidence &gt;=3% and Greater than Placebo in Placebo-Controlled Trials* 
+ * Trials included subjects with hypertriglyceridemia of varying severity.   
+  
+  Adverse Reaction                PlaceboN=314       EPANOVA 2g   N=315       EPANOVA 4g   N=315    
+  Diarrhea                        2%          7%                    15%                   
+  Nausea                          1%          4%                    6%                    
+  Abdominal pain or discomfort    2%          3%                    5%                    
+  Eructation                      &lt;1%         3%                    3%                    
+          In a pool of two longer-term (&gt;=52 weeks) placebo-controlled clinical trials involving 748 patients (376 EPANOVA 4 grams per day; 372 placebo) with chronic gastrointestinal disease, additional common adverse reactions reported more often by EPANOVA-treated patients included abdominal distension, constipation, vomiting, fatigue, nasopharyngitis, arthralgia, and dysguesia.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    In some patients, EPANOVA increases LDL-C levels. LDL-C levels should be monitored periodically during therapy with EPANOVA. (  5.1  ) 
+ *    In patients with hepatic impairment, monitor ALT and AST levels periodically during therapy (  5.1  ) 
+ *    EPANOVA should be used with caution in patients with known hypersensitivity to fish and/or shellfish. (  5.2  ) 
+    
+ 
+
+   5.1 Monitoring: Laboratory Tests
+
+
+
+  In some patients, EPANOVA increases LDL-C levels. LDL-C levels should be monitored periodically during therapy with EPANOVA.
+
+
+
+ In patients with hepatic impairment, alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels should be monitored periodically during therapy with EPANOVA.
+
+
+
+    5.2 Fish Allergy
+
+
+
+  EPANOVA contains polyunsaturated free fatty acids derived from fish oils. It is not known whether patients with allergies to fish and/or shellfish, are at increased risk of an allergic reaction to EPANOVA. EPANOVA should be used with caution in patients with known hypersensitivity to fish and/or shellfish.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="303" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="386" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="333" />
+    <IgnoredRegion len="32" name="heading" section="S2" start="429" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="777" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

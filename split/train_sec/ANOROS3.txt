@@ -1,0 +1,115 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    LABA increase the risk of asthma-related death. (  5.1  ) 
+ *    Do not initiate in acutely deteriorating COPD or to treat acute symptoms. (  5.2  ) 
+ *    Do not use in combination with an additional medicine containing LABA because of risk of overdose. (  5.3  ) 
+ *    If paradoxical bronchospasm occurs, discontinue ANORO ELLIPTA and institute alternative therapy. (  5.5  ) 
+ *    Use with caution in patients with cardiovascular disorders (  5.7  ) 
+ *    Use with caution in patients with convulsive disorders, thyrotoxicosis, diabetes mellitus, and ketoacidosis. (  5.8  ) 
+ *    Worsening of narrow-angle glaucoma may occur. Use with caution in patients with narrow-angle glaucoma and instruct patients to contact a physician immediately if symptoms occur. (  5.9  ) 
+ *    Worsening of urinary retention may occur. Use with caution in patients with prostatic hyperplasia or bladder-neck obstruction and instruct patients to contact a physician immediately if symptoms occur. (  5.10  ) 
+ *    Be alert to hypokalemia and hyperglycemia. (  5.11  ) 
+    
+ 
+
+   5.1 Asthma-Related Death
+
+
+
+    *    Data from a large placebo-controlled trial in subjects with  asthma≠B-Not_AE_Candidate  showed that LABA may increase the risk of  asthma≠B-NonOSE_AE -related  death≠B-NonOSE_AE . Data are not available to determine whether the rate of  death≠B-NonOSE_AE  in patients with  COPD≠B-Not_AE_Candidate  is increased by LABA. 
+ *    A 28-week, placebo-controlled, US trial comparing the safety of another LABA (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in  asthma≠B-NonOSE_AE -related  deaths≠B-NonOSE_AE  in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol vs. 3/13,179 in subjects treated with placebo; relative risk: 4.37 [95% CI: 1.25, 15.34]). The increased risk of  asthma≠B-OSE_Labeled_AE -related  death≠B-NonOSE_AE  is considered a class effect of LABA, including vilanterol, one of the active ingredients in ANORO ELLIPTA. 
+ *    No trial adequate to determine whether the rate of  asthma≠B-NonOSE_AE -related  death≠B-NonOSE_AE  is increased in subjects treated with ANORO ELLIPTA has been conducted. The safety and efficacy of ANORO ELLIPTA in patients with  asthma≠B-Not_AE_Candidate  have not been established. ANORO ELLIPTA is not indicated for the treatment of  asthma≠B-Not_AE_Candidate . 
+       5.2 Deterioration of Disease and Acute Episodes
+ 
+
+  ANORO ELLIPTA should not be initiated in patients during rapidly deteriorating or potentially life-threatening episodes of  COPD≠B-Not_AE_Candidate . ANORO ELLIPTA has not been studied in subjects with acutely deteriorating  COPD≠B-Not_AE_Candidate . The initiation of ANORO ELLIPTA in this setting is not appropriate.
+
+
+
+ ANORO ELLIPTA should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of  bronchospasm≠B-Not_AE_Candidate . ANORO ELLIPTA has not been studied in the relief of acute symptoms and extra doses should not be used for that purpose. Acute symptoms should be treated with an inhaled, short-acting beta2-agonist.
+
+
+
+ When beginning treatment with ANORO ELLIPTA, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs and to use them only for symptomatic relief of  acute≠B-NonOSE_AE   respiratory≠I-NonOSE_AE   symptoms≠I-NonOSE_AE . When prescribing ANORO ELLIPTA, the healthcare provider should also prescribe an inhaled, short-acting beta2-agonist and instruct the patient on how it should be used. Increasing inhaled, short-acting beta2-agonist use is a signal of deteriorating disease for which prompt medical attention is indicated.
+
+
+
+  COPD≠B-Not_AE_Candidate  may deteriorate acutely over a period of hours or chronically over several days or longer. If ANORO ELLIPTA no longer controls symptoms of  bronchoconstriction≠B-NonOSE_AE ; the patient's inhaled, short-acting beta2-agonist becomes less effective; or the patient needs more short-acting beta2-agonist than usual, these may be markers of deterioration of disease. In this setting a re-evaluation of the patient and the  COPD≠B-Not_AE_Candidate  treatment regimen should be undertaken at once. Increasing the daily dose of ANORO ELLIPTA beyond the recommended dose is not appropriate in this situation.
+
+
+
+    5.3 Excessive Use of ANORO ELLIPTA and Use With Other Long-Acting Beta2-Agonists
+
+
+
+  ANORO ELLIPTA should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medicines containing LABA, as an  overdose≠B-NonOSE_AE  may result. Clinically significant  cardiovascular≠B-NonOSE_AE   effects≠I-NonOSE_AE  and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs. Patients using ANORO ELLIPTA should not use another medicine containing a LABA (e.g., salmeterol, formoterol fumarate, arformoterol tartrate, indacaterol) for any reason.
+
+
+
+    5.4 Drug Interactions With Strong Cytochrome P450 3A4 Inhibitors
+
+
+
+  Caution should be exercised when considering the coadministration of ANORO ELLIPTA with long-term ketoconazole and other known strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ritonavir, clarithromycin, conivaptan, indinavir, itraconazole, lopinavir, nefazodone, nelfinavir, saquinavir, telithromycin, troleandomycin, voriconazole) because increased  cardiovascular≠B-NonOSE_AE   adverse≠I-NonOSE_AE   effects≠I-NonOSE_AE  may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)]  .
+
+
+
+    5.5 Paradoxical Bronchospasm
+
+
+
+  As with other inhaled medicines, ANORO ELLIPTA can produce  paradoxical≠B-OSE_Labeled_AE   bronchospasm≠I-OSE_Labeled_AE , which may be life threatening. If  paradoxical≠B-NonOSE_AE   bronchospasm≠I-NonOSE_AE  occurs following dosing with ANORO ELLIPTA, it should be treated immediately with an inhaled, short-acting bronchodilator; ANORO ELLIPTA should be discontinued immediately; and alternative therapy should be instituted.
+
+
+
+    5.6 Hypersensitivity Reactions
+
+
+
+   Hypersensitivity≠B-OSE_Labeled_AE  reactions may occur after administration of ANORO ELLIPTA. There have been reports of  anaphylactic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  in patients with severe  milk≠B-Not_AE_Candidate   protein≠I-Not_AE_Candidate   allergy≠I-Not_AE_Candidate  after inhalation of other powder products containing lactose; therefore, patients with severe  milk≠B-Not_AE_Candidate   protein≠I-Not_AE_Candidate   allergy≠I-Not_AE_Candidate  should not use ANORO ELLIPTA [see Contraindications (4)]  .
+
+
+
+    5.7 Cardiovascular Effects
+
+
+
+  Vilanterol, like other beta2-agonists, can produce a clinically significant  cardiovascular≠B-OSE_Labeled_AE   effect≠I-OSE_Labeled_AE  in some patients as measured by  increases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   pulse≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE , systolic or diastolic blood pressure, or symptoms [see Clinical Pharmacology (12.2)]  . If such effects occur, ANORO ELLIPTA may need to be discontinued. In addition, beta-agonists have been reported to produce  electrocardiographic≠B-OSE_Labeled_AE   changes≠I-OSE_Labeled_AE , such as  flattening≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   t≠I-OSE_Labeled_AE he T  wave≠I-OSE_Labeled_AE ,  prolongation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   QTc≠I-OSE_Labeled_AE   interval≠I-OSE_Labeled_AE , and  ST≠B-OSE_Labeled_AE   segment≠I-OSE_Labeled_AE   depression≠I-OSE_Labeled_AE , although the clinical significance of these findings is unknown.
+
+
+
+ Therefore, ANORO ELLIPTA should be used with caution in patients with  cardiovascular≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate , especially  coronary≠B-Not_AE_Candidate   insufficiency≠I-Not_AE_Candidate ,  cardiac≠B-Not_AE_Candidate   arrhythmias≠I-Not_AE_Candidate , and  hypertension≠B-Not_AE_Candidate .
+
+
+
+    5.8 Coexisting Conditions
+
+
+
+  ANORO ELLIPTA, like all medicines containing sympathomimetic amines, should be used with caution in patients with  convulsive≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate  or  thyrotoxicosis≠B-Not_AE_Candidate  and in those who are unusually responsive to sympathomimetic amines. Doses of the related beta2-adrenoceptor agonist albuterol, when administered intravenously, have been reported to aggravate preexisting  diabetes≠B-NonOSE_AE   mellitus≠I-NonOSE_AE  and  ketoacidosis≠B-NonOSE_AE .
+
+
+
+    5.9 Worsening of  Narrow≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Angle≠I-OSE_Labeled_AE   Glaucoma≠I-OSE_Labeled_AE 
+
+
+
+  ANORO ELLIPTA should be used with caution in patients with  narrow≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  angle≠I-Not_AE_Candidate   glaucoma≠I-Not_AE_Candidate . Prescribers and patients should be alert for signs and symptoms of  acute≠B-NonOSE_AE   narrow≠I-NonOSE_AE  -≠I-NonOSE_AE  angle≠I-NonOSE_AE   glaucoma≠I-NonOSE_AE  (e.g.,  eye≠B-NonOSE_AE   pain≠I-NonOSE_AE  or  discomfort≠B-NonOSE_AE ,  blurred≠B-NonOSE_AE   vision≠I-NonOSE_AE ,  visual≠B-NonOSE_AE   halos≠I-NonOSE_AE  or colored images in association with  red≠B-NonOSE_AE   eyes≠I-NonOSE_AE  from  conjunctival≠B-NonOSE_AE   congestion≠I-NonOSE_AE  and  corneal≠B-NonOSE_AE   edema≠I-NonOSE_AE ). Instruct patients to consult a physician immediately if any of these signs or symptoms develops.
+
+
+
+    5.10 Worsening of  Urinary≠B-OSE_Labeled_AE   Retention≠I-OSE_Labeled_AE 
+
+
+
+  ANORO ELLIPTA should be used with caution in patients with  urinary≠B-Not_AE_Candidate   retention≠I-Not_AE_Candidate . Prescribers and patients should be alert for signs and symptoms of  urinary≠B-NonOSE_AE   retention≠I-NonOSE_AE  (e.g.,  difficulty≠B-NonOSE_AE   passing≠I-NonOSE_AE   urine≠I-NonOSE_AE ,  painful≠B-NonOSE_AE   urination≠I-NonOSE_AE ), especially in patients with  prostatic≠B-Not_AE_Candidate   hyperplasia≠I-Not_AE_Candidate  or  bladder≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  neck≠I-Not_AE_Candidate   obstruction≠I-Not_AE_Candidate . Instruct patients to consult a physician immediately if any of these signs or symptoms develops .  
+
+
+
+    5.11 Hypokalemia and Hyperglycemia
+
+
+
+  Beta-adrenergic agonist medicines may produce significant  hypokalemia≠B-OSE_Labeled_AE  in some patients, possibly through intracellular shunting, which has the potential to produce adverse  cardiovascular≠B-NonOSE_AE   effects≠I-NonOSE_AE . The  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   potassium≠I-OSE_Labeled_AE  is usually transient, not requiring supplementation. Beta-agonist medicines may produce transient  hyperglycemia≠B-OSE_Labeled_AE  in some patients. In 4 clinical trials of 6-month duration evaluating ANORO ELLIPTA in subjects with  COPD≠B-Not_AE_Candidate , there was no evidence of a treatment effect on serum glucose or potassium.

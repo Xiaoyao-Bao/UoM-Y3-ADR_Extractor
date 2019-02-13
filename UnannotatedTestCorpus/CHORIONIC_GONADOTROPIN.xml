@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="CHORIONIC_GONADOTROPIN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS:
+
+  Headache, irritability, restlessness, depression, fatigue, edema, precocious puberty, gynecomastia and pain at the site of injection.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS:
+
+
+
+    General  
+
+
+
+  Induction of androgen secretion by HCG may induce precocious puberty in patients treated for cryptorchidism.  Therapy should be discontinued if signs of precocious puberty occur. 
+
+
+
+ Since androgens may cause fluid retention, HCG should be used with caution in patients with cardiac or renal disease, epilepsy, migraine or asthma.
+
+
+
+     Drug/Laboratory Test Interactions  
+
+
+
+  Chorionic gonadotropin may interfere with radioimmunoassay for gonadotropins, particularly luteinizing hormone.
+
+
+
+     Carcinogenesis, Mutagenesis, Impairment of Fertility  
+
+
+
+  Long-term studies in animals have not been performed to evaluate the carcinogenic or mutagenic potential of chorionic gonadotropin.
+
+
+
+     Pediatric Use  
+
+
+
+  Safety and effectiveness of chorionic gonadotropin in children below the age of four have not been established.
+
+
+
+     Pregnancy  
+
+
+
+    Teratogenic Effects: Pregnancy Category C    - Chorionic gonadotropin may cause fetal harm when administered to a pregnant woman.  Defects of forelimbs and central nervous system and alterations in sex ratio have been reported in mice receiving combined gonadotropin and chorionic gonadotropin therapy in dosages to induce superovulation. Multiple ovulations with resulting plural gestations (mostly twins) have been reported to occur in approximately 20% of pregnancies when conception has followed chorionic gonadotropin therapy.
+
+
+
+     Nursing Mothers  
+
+
+
+  It is not known whether chorionic gonadotropin is excreted in human milk.  Because many drugs are excreted in human milk, caution should be exercised when chorionic gonadotropin is administered to a nursing woman.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS:
+
+
+
+  HCG should be used in conjunction with human menopausal gonadotropins only by physicians experienced with infertility problems who are familiar with the criteria for patient selection, contraindications, warnings, precautions and adverse reactions described in the package insert for menotropins.  The principal serious adverse reactions are: (1) Ovarian hyperstimulation, a syndrome of sudden ovarian enlargement, ascites with or without pain and/or pleural effusion, (2) Rupture of ovarian cysts with resultant hemoperitoneum, (3) Multiple births and (4) Arterial thromboembolism.
+
+
+
+ Anaphylaxis and other hypersensitivity reactions have been reported with urinary-derived HCG products.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="18" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="12" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="9" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="10" name="heading" section="S2" start="23" />
+    <IgnoredRegion len="36" name="heading" section="S2" start="378" />
+    <IgnoredRegion len="55" name="heading" section="S2" start="539" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="739" />
+    <IgnoredRegion len="12" name="heading" section="S2" start="880" />
+    <IgnoredRegion len="18" name="heading" section="S2" start="1439" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="BUPHENYL">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  The assessment of clinical adverse events came from 206 patients treated with sodium phenylbutyrate. Adverse events (both clinical and laboratory) were not collected systematically in these patients, but were obtained from patient-visit reports by the 65 co-investigators. Causality of adverse effects is sometimes difficult to determine in this patient population because they may result from either the underlying disease, the patient's restricted diet, intercurrent illness, or BUPHENYL. Furthermore, the rates may be under-estimated because they were reported primarily by parent or guardian and not the patient.
+
+
+
+   Clinical Adverse Events
+
+  In female patients, the most common clinical adverse event reported was amenorrhea/menstrual dysfunction (irregular menstrual cycles), which occurred in 23% of the menstruating patients.
+
+
+
+ Decreased appetite occurred in 4% of all patients. Body odor (probably caused by the metabolite, phenylacetate) and bad taste or taste aversion were each reported in 3% of patients.
+
+
+
+ Other adverse events reported in 2% or fewer patients were:
+
+
+
+   Gastrointestinal  : abdominal pain, gastritis, nausea and vomiting; constipation, rectal bleeding, peptic ulcer disease, and pancreatitis each occurred in one patient.
+
+
+
+   Hematologic  : aplastic anemia and ecchymoses each occurred in one patient.
+
+
+
+   Cardiovascular  : arrhythmia and edema each occurred in one patient.
+
+
+
+   Renal  : renal tubular acidosis
+
+
+
+   Psychiatric  : depression
+
+
+
+   Skin  : rash
+
+
+
+   Miscellaneous  : headache, syncope, and weight gain
+
+
+
+ Neurotoxicity was reported in cancer patients receiving intravenous phenylacetate, 250-300 mg/kg/day for 14 days, repeated at 4-week intervals. Manifestations were predominately somnolence, fatigue, and lightheadedness; with less frequent -headache, dysgeusia, hypoacusis, disorientation, impaired memory, and exacerbation of a pre-existing neuropathy. These adverse events were mainly mild in severity. The acute onset and reversibility when the phenylacetate infusion was discontinued suggest a drug effect.
+
+
+
+   Laboratory Adverse Events
+
+  In patients with urea cycle disorders, the frequency of laboratory adverse events by body system were:
+
+
+
+   Metabolic  : acidosis (14%), alkalosis and hyperchloremia (each 7%), hypophosphatemia (6%), hyperuricemia and hyperphosphatemia (each 2%), and hypernatremia and hypokalemia (each 1%).
+
+
+
+   Nutritional  : hypoalbuminemia (11%) and decreased total protein (3%).
+
+
+
+   Hepatic  : increased alkaline phosphatase (6%), increased liver transaminases (4%), and hyperbilirubinemia (1%).
+
+
+
+   Hematologic  : anemia (9%), leukopenia and leukocytosis (each 4%), thrombocytopenia (3%), and thrombocytosis (1%).
+
+
+
+ The clinician is advised to routinely perform urinalysis, blood chemistry profiles, and hematologic tests.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  BUPHENYL should not be administered to patients with known hypersensitivity to sodium phenylbutyrate or any component of this preparation.
+
+
+
+ There have been published reports of hyperammonemia being induced by haloperidol and by valproic acid.
+
+
+
+    Neurotoxicity of phenylacetate in animals
+
+
+
+  When given subcutaneously to rat pups, 190-474 mg/kg phenylacetate caused decreased proliferation and increased loss of neurons, and it reduced CNS myelin. Cerebral synapse maturation was retarded, and the number of functioning nerve terminals in the cerebrum was reduced, which resulted in impaired brain growth. Prenatal exposure of rat pups to phenylacetate produced lesions in layer 5 of the cortical pyramidal cells; dendritic spines were longer and thinner than normal and reduced in number.
+
+
+
+    Information for Patients
+
+
+
+  The full text of the separate insert of information for patients is reprinted at the end of the labeling.
+
+
+
+    Laboratory Tests
+
+
+
+  Plasma levels of ammonia, arginine, branched-chain amino acids, and serum proteins should be maintained within normal limits, and plasma glutamine should be maintained at levels less than 1,000 umol/L. Serum drug levels of phenylbutyrate and its metabolites, phenylacetate and phenylacetylglutamine, should be monitored periodically.
+
+
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  Carcinogenicity, mutagenicity, and fertility studies of sodium phenylbutyrate have not been conducted.
+
+
+
+    Pregnancy
+
+
+
+  Animal reproduction studies have not been conducted with BUPHENYL. It is also not known whether BUPHENYL can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
+
+
+
+ BUPHENYL should be given to a pregnant woman only if clearly needed.
+
+
+
+    Nursing Mothers
+
+
+
+  It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when BUPHENYL is administered to a nursing woman.
+
+
+
+    Pediatric Use
+
+
+
+  The use of tablets for neonates, infants and children to the weight of 20 kg is not recommended. (See  Dosage and Administration  .)
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Each BUPHENYL Tablet contains 62 mg of sodium (9.2% w/w) (corresponding to 124 mg of sodium per gram of sodium phenylbutyrate [12.4% w/w]) and BUPHENYL Powder contains 11.7 grams of sodium per 100 grams of powder, corresponding to 125 mg of sodium per gram of sodium phenylbutyrate (12.4% w/w). BUPHENYL should be used with great care, if at all, in patients with congestive heart failure or severe renal insufficiency, and in clinical states in which there is sodium retention with edema.
+
+
+
+ Because BUPHENYL is metabolized in the liver and kidney, and phenylacetylglutamine is primarily excreted by the kidney, use caution when administering the drug to patients with hepatic or renal insufficiency or inborn errors of beta oxidation. Probenecid is known to inhibit the renal transport of many organic compounds, including hippuric acid, and may affect renal excretion of the conjugated product of BUPHENYL as well as its metabolite.
+
+
+
+ Use of corticosteroids may cause the breakdown of body protein and increase plasma ammonia levels.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="41" name="heading" section="S2" start="288" />
+    <IgnoredRegion len="23" name="heading" section="S1" start="648" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="840" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="983" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="1346" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="1514" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="1810" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="2024" />
+    <IgnoredRegion len="25" name="heading" section="S1" start="2110" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

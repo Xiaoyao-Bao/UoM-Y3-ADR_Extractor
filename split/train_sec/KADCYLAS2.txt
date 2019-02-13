@@ -1,0 +1,26 @@
+
+
+    BOXED WARNING: 
+
+    Do Not Substitute KADCYLA for or with Trastuzumab  
+
+
+
+   WARNING: HEPATOTOXICITY, CARDIAC TOXICITY, EMBRYO-FETAL TOXICITY  
+
+
+
+ *   Hepatotoxicity≠B-NonOSE_AE : Serious  hepatotoxicity≠B-OSE_Labeled_AE  has been reported, including  liver≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  and  death≠B-NonOSE_AE  in patients treated with KADCYLA. Monitor serum transaminases and bilirubin prior to initiation of KADCYLA treatment and prior to each KADCYLA dose. Reduce dose or discontinue KADCYLA as appropriate in cases of  increased≠B-NonOSE_AE   serum≠I-NonOSE_AE   transaminases≠I-NonOSE_AE  or total bilirubin. (2.2, 5.1) 
+ *   Cardiac≠B-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE : KADCYLA administration may lead to  reductions≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   left≠I-OSE_Labeled_AE   ventricular≠I-OSE_Labeled_AE   ejection≠I-OSE_Labeled_AE   fraction≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  LVEF≠I-OSE_Labeled_AE ). Evaluate left ventricular function in all patients prior to and during treatment with KADCYLA. Withhold treatment for clinically significant  decrease≠B-NonOSE_AE   in≠I-NonOSE_AE   left≠I-NonOSE_AE   ventricular≠I-NonOSE_AE   function≠I-NonOSE_AE . (2.2, 5.2) 
+ *   Embryo≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Fetal≠I-OSE_Labeled_AE   Toxicity≠I-OSE_Labeled_AE : Exposure to KADCYLA can result in  embryo≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  fetal≠I-OSE_Labeled_AE   death≠I-OSE_Labeled_AE  or  birth≠B-OSE_Labeled_AE   defects≠I-OSE_Labeled_AE . Advise patients of these risks and the need for effective contraception. (5.3, 8.1, 8.6) 
+      EXCERPT:     WARNING: HEPATOTOXICITY, CARDIAC TOXICITY, EMBRYO-FETAL TOXICITY  
+ 
+
+   See full prescribing information for complete boxed warning  
+
+
+
+ *  Do not substitute KADCYLA for or with trastuzumab. (2.1) 
+ *  Hepatotoxicity, liver failure and death have occurred in KADCYLA-treated patients. Monitor hepatic function prior to initiation and prior to each dose. Institute dose modifications or permanently discontinue as appropriate. (2.2, 5.1) 
+ *  KADCYLA may lead to reductions in left ventricular ejection fraction (LVEF). Assess LVEF prior to initiation. Monitor and withhold dosing or discontinue as appropriate. (2.2, 5.2) 
+ *  Can cause fetal harm. Advise women of potential risk to the fetus. (5.3, 8.1, 8.6) 

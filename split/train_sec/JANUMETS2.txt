@@ -1,0 +1,23 @@
+
+
+    BOXED WARNING: WARNING: LACTIC ACIDOSIS
+
+    WARNING: LACTIC ACIDOSIS  
+
+      Postmarketing cases of metformin-associated  lactic≠B-OSE_Labeled_AE   acidosis≠I-OSE_Labeled_AE  have resulted in  death≠B-NonOSE_AE ,  hypothermia≠B-NonOSE_AE ,  hypotension≠B-NonOSE_AE , and resistant  bradyarrhythmias≠B-NonOSE_AE . The onset of metformin-associated  lactic≠B-NonOSE_AE   acidosis≠I-NonOSE_AE  is often subtle, accompanied only by nonspecific symptoms such as  malaise≠B-NonOSE_AE ,  myalgias≠B-NonOSE_AE ,  respiratory≠B-NonOSE_AE   distress≠I-NonOSE_AE ,  somnolence≠B-NonOSE_AE , and  abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE . Metformin-associated  lactic≠B-OSE_Labeled_AE   acidosis≠I-OSE_Labeled_AE  was characterized by  elevated≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   lactate≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE  (>5 mmol/Liter),  anion≠B-OSE_Labeled_AE   gap≠I-OSE_Labeled_AE   acidosis≠I-OSE_Labeled_AE  (without evidence of  ketonuria≠B-NonOSE_AE  or  ketonemia≠B-NonOSE_AE ), an  increased≠B-OSE_Labeled_AE   lactate≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  pyruvate≠I-OSE_Labeled_AE   ratio≠I-OSE_Labeled_AE , and metformin plasma levels generally >5 mcg/mL   [see   Warnings and Precautions (5.1)  ]  .    
+
+     Risk factors for metformin-associated  lactic≠B-NonOSE_AE   acidosis≠I-NonOSE_AE  include  renal≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate , concomitant use of certain drugs (e.g., carbonic anhydrase inhibitors such as topiramate), age 65 years old or greater, having a radiological study with contrast, surgery and other procedures,  hypoxic≠B-Not_AE_Candidate   states≠I-Not_AE_Candidate  (e.g.,  acute≠B-Not_AE_Candidate   congestive≠I-Not_AE_Candidate   heart≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate ), excessive alcohol intake, and  hepatic≠B-Not_AE_Candidate   impairment≠I-Not_AE_Candidate .    
+
+     Steps to reduce the risk of and manage metformin-associated  lactic≠B-NonOSE_AE   acidosis≠I-NonOSE_AE  in these high risk groups are provided in the full prescribing information   [see   Dosage and Administration (2.2)  ,   Contraindications (4)  ,   Warnings and Precautions (5.1)  ,   Drug Interactions (7)  , and   Use in Specific Populations (8.6  ,   8.7  )]  .     
+
+     If metformin-associated  lactic≠B-NonOSE_AE   acidosis≠I-NonOSE_AE  is suspected, immediately discontinue JANUMET and institute general supportive measures in a hospital setting. Prompt hemodialysis is recommended   [see   Warnings and Precautions (5.1)  ]  .    
+
+   EXCERPT:     WARNING: LACTIC ACIDOSIS  
+
+     See full prescribing information for complete boxed warning  .            
+
+ *  Postmarketing cases of metformin-associated lactic acidosis have resulted in death, hypothermia, hypotension, and resistant bradyarrhythmias. Symptoms included malaise, myalgias, respiratory distress, somnolence, and abdominal pain. Laboratory abnormalities included elevated blood lactate levels, anion gap acidosis, increased lactate/pyruvate ratio, and metformin plasma levels generally >5 mcg/mL. (5.1) 
+ *  Risk factors include renal impairment, concomitant use of certain drugs, age >=65 years old, radiological studies with contrast, surgery and other procedures, hypoxic states, excessive alcohol intake, and hepatic impairment. Steps to reduce the risk of and manage metformin-associated lactic acidosis in these high risk groups are provided in the Full Prescribing Information. (5.1) 
+ *  If lactic acidosis is suspected, discontinue JANUMET and institute general supportive measures in a hospital setting. Prompt hemodialysis is recommended. (5.1) 
+    
+

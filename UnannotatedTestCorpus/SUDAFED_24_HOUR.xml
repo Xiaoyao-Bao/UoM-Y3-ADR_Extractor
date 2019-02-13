@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="SUDAFED_24_HOUR">
+  <Text>
+    <Section id="S1" name="warnings">    Warnings
+
+
+
+   Do not use  if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+
+
+
+    Ask a doctor before use if you have
+
+
+
+    *  heart disease 
+ *  high blood pressure 
+ *  thyroid disease 
+ *  diabetes 
+ *  trouble urinating due to an enlarged prostate gland 
+ *  had obstruction or narrowing of the bowel. Rarely, tablets of this kind may cause bowel obstruction (blockage), usually in people with severe narrowing of the bowel (esophagus, stomach or intestine). 
+       When using this product do not exceed recommended dosage  
+ 
+
+    Stop use and ask a doctor if
+
+
+
+    *  nervousness, dizziness, or sleeplessness occur 
+ *  symptoms do not improve within 7 days or occur with a fever 
+ *  you experience persistent abdominal pain or vomiting 
+       If pregnant or breast-feeding,  ask a health professional before use.
+ 
+
+    Keep out of reach of children.  In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="8" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="35" name="heading" section="S1" start="366" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="822" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,184 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Avoid use of XELJANZ during an active serious infection, including localized infections. (  5.1  ) 
+ *  Gastrointestinal Perforations - Use with caution in patients that may be at increased risk. (  5.3  ) 
+ *  Laboratory Monitoring -Recommended due to potential changes in lymphocytes, neutrophils, hemoglobin, liver enzymes and lipids. (  5.4  ) 
+ *  Immunizations - Live vaccines: Avoid use with XELJANZ. (  5.5  ) 
+    
+ 
+
+   5.1 Serious Infections
+
+
+
+   Serious and sometimes fatal  infections≠B-OSE_Labeled_AE  due to  bacterial≠I-OSE_Labeled_AE , mycobacterial, invasive fungal, viral, or other  opportunistic≠I-OSE_Labeled_AE  pathogens have been reported in  rheumatoid≠B-Not_AE_Candidate   arthritis≠I-Not_AE_Candidate  patients receiving XELJANZ. The most common serious  infections≠B-OSE_Labeled_AE  reported with XELJANZ included  pneumonia≠B-OSE_Labeled_AE ,  cellulitis≠B-OSE_Labeled_AE ,  herpes≠B-OSE_Labeled_AE   zoster≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE , and  diverticulitis≠B-OSE_Labeled_AE  [see  Adverse Reactions (6.1)  ]  . Among  opportunistic≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE ,  tuberculosis≠B-OSE_Labeled_AE  and other  mycobacterial≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE ,  cryptococcosis≠B-OSE_Labeled_AE ,  esophageal≠B-OSE_Labeled_AE   candidiasis≠I-OSE_Labeled_AE ,  pneumocystosis≠B-OSE_Labeled_AE ,  multidermatomal≠B-OSE_Labeled_AE   herpes≠I-OSE_Labeled_AE   zoster≠I-OSE_Labeled_AE ,  cytomegalovirus≠B-OSE_Labeled_AE , and  BK≠B-OSE_Labeled_AE   virus≠I-OSE_Labeled_AE  were reported with XELJANZ. Some patients have presented with disseminated rather than localized disease, and were often taking concomitant immunomodulating agents such as methotrexate or corticosteroids.  
+
+
+
+ Other serious  infections≠B-NonOSE_AE  that were not reported in clinical studies may also occur (e.g.,  histoplasmosis≠B-NonOSE_AE ,  coccidioidomycosis≠B-NonOSE_AE , and  listeriosis≠B-NonOSE_AE ).
+
+
+
+ Avoid use of XELJANZ in patients with an active, serious  infection≠B-Not_AE_Candidate , including  localized≠B-Not_AE_Candidate   infections≠I-Not_AE_Candidate . The risks and benefits of treatment should be considered prior to initiating XELJANZ in patients:
+
+
+
+ *  with  chronic≠B-Not_AE_Candidate  or recurrent  infection≠I-Not_AE_Candidate  
+ *  who have been  exposed≠B-Not_AE_Candidate   to≠I-Not_AE_Candidate   tuberculosis≠I-Not_AE_Candidate  
+ *  with a history of a serious or an  opportunistic≠B-Not_AE_Candidate   infection≠I-Not_AE_Candidate  
+ *  who have resided or traveled in areas of endemic  tuberculosis≠B-Not_AE_Candidate  or endemic  mycoses≠B-Not_AE_Candidate ; or 
+ *  with underlying conditions that may  predispose≠B-Not_AE_Candidate  them  to≠I-Not_AE_Candidate   infection≠I-Not_AE_Candidate . 
+    Patients should be closely monitored for the development of signs and symptoms of  infection≠B-NonOSE_AE  during and after treatment with XELJANZ. XELJANZ should be interrupted if a patient develops a serious  infection≠B-NonOSE_AE , an  opportunistic≠B-NonOSE_AE   infection≠I-NonOSE_AE , or  sepsis≠B-NonOSE_AE . A patient who develops a new  infection≠B-NonOSE_AE  during treatment with XELJANZ should undergo prompt and complete diagnostic testing appropriate for an  immunocompromised≠B-Not_AE_Candidate   patient≠I-Not_AE_Candidate ; appropriate antimicrobial therapy should be initiated, and the patient should be closely monitored.
+ 
+
+    Tuberculosis  
+
+
+
+ Patients should be evaluated and tested for latent or active  infection≠B-Not_AE_Candidate  prior to administration of XELJANZ.
+
+
+
+  Anti≠B-NonOSE_AE  -≠I-NonOSE_AE  tuberculosis≠I-NonOSE_AE   therapy≠I-NonOSE_AE  should also be considered prior to administration of XELJANZ in patients with a past history of  latent≠B-Not_AE_Candidate  or active  tuberculosis≠I-Not_AE_Candidate  in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for  latent≠B-NonOSE_AE   tuberculosis≠I-NonOSE_AE  but who have risk factors for  tuberculosis≠B-Not_AE_Candidate   infection≠I-Not_AE_Candidate . Consultation with a physician with expertise in the treatment of  tuberculosis≠B-NonOSE_AE  is recommended to aid in the decision about whether initiating  anti≠B-NonOSE_AE  -≠I-NonOSE_AE  tuberculosis≠I-NonOSE_AE   therapy≠I-NonOSE_AE  is appropriate for an individual patient.
+
+
+
+ Patients should be closely monitored for the development of signs and symptoms of  tuberculosis≠B-NonOSE_AE , including patients who tested negative for  latent≠B-NonOSE_AE   tuberculosis≠I-NonOSE_AE   infection≠I-NonOSE_AE  prior to initiating therapy.
+
+
+
+ Patients with  latent≠B-Not_AE_Candidate   tuberculosis≠I-Not_AE_Candidate  should be treated with standard antimycobacterial therapy before administering XELJANZ.
+
+
+
+    Viral Reactivation  
+
+
+
+   Viral≠B-OSE_Labeled_AE   reactivation≠I-OSE_Labeled_AE , including cases of  herpes≠B-OSE_Labeled_AE   virus≠I-OSE_Labeled_AE   reactivation≠I-OSE_Labeled_AE  (e.g.,  herpes≠B-OSE_Labeled_AE   zoster≠I-OSE_Labeled_AE ), were observed in clinical studies with XELJANZ. The impact of XELJANZ on chronic  viral≠B-NonOSE_AE   hepatitis≠I-NonOSE_AE   reactivation≠I-NonOSE_AE  is unknown. Patients who screened positive for  hepatitis≠B-Not_AE_Candidate   B≠I-Not_AE_Candidate  or C were excluded from clinical trials. Screening for  viral≠B-NonOSE_AE   hepatitis≠I-NonOSE_AE  should be performed in accordance with clinical guidelines before starting therapy with XELJANZ. The risk of  herpes≠B-OSE_Labeled_AE   zoster≠I-OSE_Labeled_AE  is increased in patients treated with XELJANZ and appears to be higher in patients treated with XELJANZ in Japan.  
+
+
+
+    5.2 Malignancy and Lymphoproliferative Disorders
+
+
+
+  Consider the risks and benefits of XELJANZ treatment prior to initiating therapy in patients with a known  malignancy≠B-Not_AE_Candidate  other than a successfully treated  non≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  melanoma≠I-Not_AE_Candidate   skin≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  NMSC≠I-Not_AE_Candidate ) or when considering continuing XELJANZ in patients who develop a  malignancy≠B-NonOSE_AE .  Malignancies≠B-OSE_Labeled_AE  were observed in clinical studies of XELJANZ [see  Adverse Reactions (6.1)  ].  
+
+
+
+ In the seven controlled  rheumatoid≠B-Not_AE_Candidate   arthritis≠I-Not_AE_Candidate  clinical studies, 11  solid≠B-OSE_Labeled_AE   cancers≠I-OSE_Labeled_AE  and one  lymphoma≠B-OSE_Labeled_AE  were diagnosed in 3328 patients receiving XELJANZ with or without DMARD, compared to 0  solid≠B-NonOSE_AE   cancers≠I-NonOSE_AE  and 0  lymphomas≠B-NonOSE_AE  in 809 patients in the placebo with or without DMARD group during the first 12 months of exposure.  Lymphomas≠B-OSE_Labeled_AE  and  solid≠B-OSE_Labeled_AE   cancers≠I-OSE_Labeled_AE  have also been observed in the long-term extension studies in  rheumatoid≠B-Not_AE_Candidate   arthritis≠I-Not_AE_Candidate  patients treated with XELJANZ.
+
+
+
+ In Phase 2B, controlled dose-ranging trials in de-novo   renal≠B-Not_AE_Candidate   transplant≠I-Not_AE_Candidate  patients, all of whom received induction therapy with basiliximab, high-dose corticosteroids, and mycophenolic acid products,  Epstein≠B-NonOSE_AE   Barr≠I-NonOSE_AE   Virus≠I-NonOSE_AE  -≠I-NonOSE_AE  associated≠I-NonOSE_AE  post-transplant  lymphoproliferative≠I-NonOSE_AE   disorder≠I-NonOSE_AE  was observed in 5 out of 218 patients treated with XELJANZ (2.3%) compared to 0 out of 111 patients treated with cyclosporine.
+
+
+
+    Non-Melanoma Skin Cancer  
+
+
+
+  Non≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  melanoma≠I-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE   cancers≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  NMSCs≠I-OSE_Labeled_AE ) have been reported in patients treated with XELJANZ. Periodic skin examination is recommended for patients who are at increased risk for  skin≠B-NonOSE_AE   cancer≠I-NonOSE_AE .
+
+
+
+    5.3 Gastrointestinal Perforations
+
+
+
+  Events of  gastrointestinal≠B-OSE_Labeled_AE   perforation≠I-OSE_Labeled_AE  have been reported in clinical studies with XELJANZ in  rheumatoid≠B-Not_AE_Candidate   arthritis≠I-Not_AE_Candidate  patients, although the role of  JAK≠B-NonOSE_AE   inhibition≠I-NonOSE_AE  in these events is not known.
+
+
+
+ XELJANZ should be used with caution in patients who may be at increased risk for  gastrointestinal≠B-Not_AE_Candidate   perforation≠I-Not_AE_Candidate  (e.g., patients with a history of  diverticulitis≠B-Not_AE_Candidate ). Patients presenting with new onset  abdominal≠B-NonOSE_AE   symptoms≠I-NonOSE_AE  should be evaluated promptly for early identification of  gastrointestinal≠B-NonOSE_AE   perforation≠I-NonOSE_AE  [see  Adverse Reactions (6.1)  ].  
+
+
+
+    5.4 Laboratory Abnormalities
+
+
+
+   Lymphocyte Abnormalities  
+
+
+
+ Treatment with XELJANZ was associated with initial  lymphocytosis≠B-OSE_Labeled_AE  at one month of exposure followed by a gradual  decrease≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   mean≠I-OSE_Labeled_AE   absolute≠I-OSE_Labeled_AE   lymphocyte≠I-OSE_Labeled_AE   counts≠I-OSE_Labeled_AE  below the baseline of approximately 10% during 12 months of therapy.  Lymphocyte≠B-OSE_Labeled_AE   counts≠I-OSE_Labeled_AE   less≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   5≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   cells≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  mm≠I-OSE_Labeled_AE    3≠I-OSE_Labeled_AE   were associated with an increased incidence of treated and serious  infections≠B-OSE_Labeled_AE .
+
+
+
+ Avoid initiation of XELJANZ treatment in patients with a  low≠B-Not_AE_Candidate   lymphocyte≠I-Not_AE_Candidate   count≠I-Not_AE_Candidate  (i.e., less than 500 cells/mm  3  ). In patients who develop a confirmed  absolute≠B-NonOSE_AE   lymphocyte≠I-NonOSE_AE   count≠I-NonOSE_AE   less≠I-NonOSE_AE   than≠I-NonOSE_AE   5≠I-NonOSE_AE  0≠I-NonOSE_AE  0≠I-NonOSE_AE   cells≠I-NonOSE_AE  /≠I-NonOSE_AE  mm≠I-NonOSE_AE    3≠I-NonOSE_AE   treatment with XELJANZ is not recommended.
+
+
+
+ Monitor lymphocyte counts at baseline and every 3 months thereafter. For recommended modifications based on lymphocyte counts see  Dosage and Administration (2.2)    .
+
+
+
+    Neutropenia  
+
+
+
+ Treatment with XELJANZ was associated with an increased incidence of  neutropenia≠B-OSE_Labeled_AE  (less than 2000 cells/mm  3  ) compared to placebo.
+
+
+
+ Avoid initiation of XELJANZ treatment in patients with a  low≠B-Not_AE_Candidate   neutrophil≠I-Not_AE_Candidate   count≠I-Not_AE_Candidate  (i.e.,  ANC≠B-Not_AE_Candidate   less≠I-Not_AE_Candidate   than≠I-Not_AE_Candidate   1≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate  0≠I-Not_AE_Candidate   cells≠I-Not_AE_Candidate  /≠I-Not_AE_Candidate  mm≠I-Not_AE_Candidate    3≠I-Not_AE_Candidate   ). For patients who develop a  persistent≠B-OSE_Labeled_AE   ANC≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   5≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   cells≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  mm≠I-OSE_Labeled_AE    3≠I-OSE_Labeled_AE   , interrupt XELJANZ dosing until ANC is greater than or equal to 1000 cells/mm  3  . In patients who develop an  ANC≠B-NonOSE_AE   less≠I-NonOSE_AE   than≠I-NonOSE_AE   5≠I-NonOSE_AE  0≠I-NonOSE_AE  0≠I-NonOSE_AE   cells≠I-NonOSE_AE  /≠I-NonOSE_AE  mm≠I-NonOSE_AE   3  , treatment with XELJANZ is not recommended.
+
+
+
+ Monitor neutrophil counts at baseline and after 4-8 weeks of treatment and every 3 months thereafter. For recommended modifications based on ANC results see  Dosage and Administration (2.2)    .
+
+
+
+     Anemia≠B-OSE_Labeled_AE   
+
+
+
+ Avoid initiation of XELJANZ treatment in patients with a  low≠B-Not_AE_Candidate   hemoglobin≠I-Not_AE_Candidate   level≠I-Not_AE_Candidate  (i.e. less than 9 g/dL). Treatment with XELJANZ should be interrupted in patients who develop  hemoglobin≠B-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE   less≠I-OSE_Labeled_AE   than≠I-OSE_Labeled_AE   8≠I-OSE_Labeled_AE   g≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  dL≠I-OSE_Labeled_AE  or whose  hemoglobin≠B-OSE_Labeled_AE   level≠I-OSE_Labeled_AE   drops≠I-OSE_Labeled_AE  greater than 2 g/dL on treatment.
+
+
+
+ Monitor hemoglobin at baseline and after 4-8 weeks of treatment and every 3 months thereafter. For recommended modifications based on hemoglobin results see  Dosage and Administration (2.2)    .
+
+
+
+    Liver Enzyme Elevations  
+
+
+
+ Treatment with XELJANZ was associated with an increased incidence of  liver≠B-OSE_Labeled_AE   enzyme≠I-OSE_Labeled_AE   elevation≠I-OSE_Labeled_AE  compared to placebo. Most of these abnormalities occurred in studies with background DMARD (primarily methotrexate) therapy.
+
+
+
+ Routine monitoring of liver tests and prompt investigation of the causes of  liver≠B-NonOSE_AE   enzyme≠I-NonOSE_AE   elevations≠I-NonOSE_AE  is recommended to identify potential cases of  drug≠B-NonOSE_AE  -≠I-NonOSE_AE  induced≠I-NonOSE_AE   liver≠I-NonOSE_AE   injury≠I-NonOSE_AE . If  drug≠B-NonOSE_AE  -≠I-NonOSE_AE  induced≠I-NonOSE_AE   liver≠I-NonOSE_AE   injury≠I-NonOSE_AE  is suspected, the administration of XELJANZ should be interrupted until this diagnosis has been excluded.
+
+
+
+    Lipid Elevations  
+
+
+
+ Treatment with XELJANZ was associated with  increases≠B-OSE_Labeled_AE  in lipid parameters including total cholesterol, low-density lipoprotein (LDL) cholesterol, and  high≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  density≠I-OSE_Labeled_AE   lipoprotein≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  HDL≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   cholesterol≠I-OSE_Labeled_AE . Maximum effects were generally observed within 6 weeks. The effect of these  lipid≠B-NonOSE_AE   parameter≠I-NonOSE_AE   elevations≠I-NonOSE_AE  on cardiovascular morbidity and  mortality≠B-NonOSE_AE  has not been determined.
+
+
+
+ Assessment of lipid parameters should be performed approximately 4-8 weeks following initiation of XELJANZ therapy.
+
+
+
+ Manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of  hyperlipidemia≠B-NonOSE_AE .
+
+
+
+    5.5 Vaccinations
+
+
+
+  No data are available on the response to vaccination or on the  secondary≠B-NonOSE_AE   transmission≠I-NonOSE_AE   of≠I-NonOSE_AE   infection≠I-NonOSE_AE   by≠I-NonOSE_AE   live≠I-NonOSE_AE   vaccines≠I-NonOSE_AE  to patients receiving XELJANZ. Avoid use of live vaccines concurrently with XELJANZ.
+
+
+
+ Update immunizations in agreement with current immunization guidelines prior to initiating XELJANZ therapy.

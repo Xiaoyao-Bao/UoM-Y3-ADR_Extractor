@@ -1,0 +1,81 @@
+   5 WARNINGS AND PRECAUTIONS
+
+   EXCERPT:    *  Acute Critical Illness: Potential benefit of treatment continuation should be weighed against the potential risk (  5.1  ) 
+ *  Prader-Willi syndrome in Children: Evaluate for signs of upper airway obstruction and sleep apnea before initiation of treatmentDiscontinue treatment if these signs occur (  5.2  ) 
+ *  Neoplasm: Monitor patients with preexisting tumors for progression or recurrence. Increased risk of a second neoplasm in childhood cancer survivors treated with somatropin in particular meningiomas in patients treated with radiation to the head for their first neoplasm (  5.3  ) 
+ *  Impaired Glucose Tolerance and Diabetes Mellitus: May be unmaskedPeriodically monitor glucose levels in all patients. Doses of concurrent antihyperglycemic drugs in diabetics may require adjustment (  5.4  ) 
+ *  Intracranial Hypertension: Exclude preexisting papilledema. May develop and is usually reversible after discontinuation or dose reduction (  5.5  ) 
+ *  Hypersensitivity: Serious hypersensitivity reactions may occur. In the event of an allergic reaction, seek prompt medical attention (  5.6  ) 
+ *  Fluid Retention (i.e., edema, arthralgia, carpal tunnel syndrome - especially in adults): May occur frequently. Reduce dose as necessary (  5.7  ) 
+ *  Hypoadrenalism: Monitor patients for reduced serum cortisol levels and/or need for glucocorticoid dose increases in those with known hypoadrenalism (  5.8  ) 
+ *  Hypothyroidism: May first become evident or worsen. Monitor thyroid function periodically (  5.9  ) 
+ *  Slipped Capital Femoral Epiphysis: May develop. Evaluate children with the onset of a limp or hip/knee pain (  5.10  ) 
+ *  Progression of Preexisting Scoliosis: Monitor any child with scoliosis for progression of the curve (  5.11  ) 
+ *  Pancreatitis: Consider pancreatitis in patients with persistent severe abdominal pain (  5.15  ) 
+    
+ 
+
+   5.1 Acute Critical Illness
+
+   Increased  mortality≠B-NonOSE_AE  in patients with  acute≠B-Not_AE_Candidate   critical≠I-Not_AE_Candidate   illness≠I-Not_AE_Candidate  due to complications following open heart surgery, abdominal surgery or multiple accidental trauma, or those with  acute≠B-Not_AE_Candidate   respiratory≠I-Not_AE_Candidate   failure≠I-Not_AE_Candidate  has been reported after treatment with pharmacologic  amounts of somatropin [see  Contraindications (4)  ].  Two placebo-controlled clinical trials in  non≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  growth≠I-Not_AE_Candidate   hormone≠I-Not_AE_Candidate   deficient≠I-Not_AE_Candidate  adult patients (n=522) with these conditions in intensive care units revealed a significant increase in  mortality≠B-NonOSE_AE  (42% vs. 19%) among somatropin-treated patients (doses 5.3-8 mg/day) compared to those receiving placebo. The safety of continuing somatropin treatment in patients receiving replacement  doses for approved indications who concurrently develop these illnesses has not been established. Therefore, the potential benefit of treatment continuation with somatropin in patients having  acute≠B-Not_AE_Candidate   critical≠I-Not_AE_Candidate   illnesses≠I-Not_AE_Candidate  should be weighed against the potential risk.  
+
+    5.2 Prader-Willi Syndrome in Children
+
+  There have been reports of  fatalities≠B-NonOSE_AE  after initiating therapy with somatropin in pediatric patients with  Prader≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  Willi≠I-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate  who had one or more of the following risk factors:  severe≠B-Not_AE_Candidate   obesity≠I-Not_AE_Candidate , history of  upper≠B-Not_AE_Candidate   airway≠I-Not_AE_Candidate   obstruction≠I-Not_AE_Candidate  or  sleep≠B-Not_AE_Candidate   apnea≠I-Not_AE_Candidate , or unidentified  respiratory≠B-Not_AE_Candidate   infection≠I-Not_AE_Candidate . Male patients with one or more of these factors may be at greater risk than females. Patients with  Prader≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  Willi≠I-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate  should be evaluated for signs of  upper≠B-NonOSE_AE   airway≠I-NonOSE_AE   obstruction≠I-NonOSE_AE  and  sleep≠B-NonOSE_AE   apnea≠I-NonOSE_AE  before initiation of treatment with somatropin. If during treatment with somatropin, patients show signs of  upper≠B-NonOSE_AE   airway≠I-NonOSE_AE   obstruction≠I-NonOSE_AE  (including onset of or  increased≠B-NonOSE_AE   snoring≠I-NonOSE_AE ) and/or new onset  sleep≠B-NonOSE_AE   apnea≠I-NonOSE_AE , treatment should be interrupted. All patients with  Prader≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  Willi≠I-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate  treated with somatropin should also have effective weight control and be monitored for signs of  respiratory≠B-NonOSE_AE   infection≠I-NonOSE_AE , which should be diagnosed as early as possible and treated aggressively [see  Contraindications (4)  ].  
+
+    5.3 Neoplasms
+
+  In childhood  cancer≠B-Not_AE_Candidate  survivors who were treated with radiation to the brain/head for their first  neoplasm≠B-Not_AE_Candidate  and who developed subsequent  GHD≠B-Not_AE_Candidate  and were treated with somatropin, an increased risk of a  second≠B-OSE_Labeled_AE   neoplasm≠I-OSE_Labeled_AE  has been reported.  Intracranial≠B-OSE_Labeled_AE   tumors≠I-OSE_Labeled_AE , in particular  meningiomas≠B-OSE_Labeled_AE , were the most common of these second  neoplasms≠B-NonOSE_AE . In adults, it is unknown whether there is any relationship between somatropin replacement therapy and  CNS≠B-NonOSE_AE   tumor≠I-NonOSE_AE   recurrence≠I-NonOSE_AE  [see  Contraindications (4)  ]  . Monitor all patients with a history of  GHD≠B-Not_AE_Candidate  secondary to an  intracranial≠B-Not_AE_Candidate   neoplasm≠I-Not_AE_Candidate  routinely while on somatropin therapy for progression or  recurrence≠B-NonOSE_AE   of≠I-NonOSE_AE   the≠I-NonOSE_AE   tumor≠I-NonOSE_AE .
+
+ Because children with certain rare genetic causes of  short≠B-Not_AE_Candidate   stature≠I-Not_AE_Candidate  have an increased risk of developing  malignancies≠B-NonOSE_AE , practitioners should thoroughly consider the risks and benefits of starting somatropin in these patients. If treatment with somatropin is initiated, these patients should be carefully monitored for development of  neoplasms≠B-NonOSE_AE .
+
+ Monitor patients on somatropin therapy carefully for  increased≠B-NonOSE_AE   growth≠I-NonOSE_AE , or potential malignant changes,  of≠I-NonOSE_AE   preexisting≠I-NonOSE_AE   nevi≠I-NonOSE_AE .
+
+    5.4  Impaired≠B-OSE_Labeled_AE   Glucose≠I-OSE_Labeled_AE   Tolerance≠I-OSE_Labeled_AE  and Diabetes Mellitus
+
+  Treatment with somatropin may  decrease≠B-OSE_Labeled_AE   insulin≠I-OSE_Labeled_AE   sensitivity≠I-OSE_Labeled_AE , particularly at higher doses in susceptible patients. As a result, previously undiagnosed  impaired≠B-Not_AE_Candidate   glucose≠I-Not_AE_Candidate   tolerance≠I-Not_AE_Candidate  and overt  diabetes≠B-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate  may be unmasked during somatropin treatment.  New≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  onset≠I-OSE_Labeled_AE   Type≠I-OSE_Labeled_AE   2≠I-OSE_Labeled_AE   diabetes≠I-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE  has been reported. Therefore, glucose levels should be monitored periodically in all patients treated with somatropin, especially in those with risk factors for  diabetes≠B-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate , such as  obesity≠B-Not_AE_Candidate ,  Turner≠B-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate , or a family history of  diabetes≠B-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate . Patients with preexisting  type≠B-Not_AE_Candidate   1≠I-Not_AE_Candidate  or type 2  diabetes≠I-Not_AE_Candidate   mellitus≠I-Not_AE_Candidate  or  impaired≠B-Not_AE_Candidate   glucose≠I-Not_AE_Candidate   tolerance≠I-Not_AE_Candidate  should be monitored closely during somatropin therapy. The doses of antihyperglycemic drugs (i.e., insulin or oral/injectable agents) may require adjustment when somatropin therapy is instituted in these patients.
+
+    5.5 Intracranial Hypertension
+
+   Intracranial≠B-OSE_Labeled_AE   hypertension≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  IH≠I-OSE_Labeled_AE ) with  papilledema≠B-NonOSE_AE ,  visual≠B-NonOSE_AE   changes≠I-NonOSE_AE ,  headache≠B-NonOSE_AE ,  nausea≠B-NonOSE_AE  and/or  vomiting≠B-NonOSE_AE  has been reported in a small number of patients treated with somatropin products. Symptoms usually occurred within the first eight (8) weeks after the initiation of somatropin therapy. In all reported cases,  IH≠B-NonOSE_AE  -≠I-NonOSE_AE  associated≠I-NonOSE_AE  signs and symptoms rapidly resolved after cessation of therapy or a reduction of the somatropin dose. Funduscopic examination should be performed routinely before initiating treatment with somatropin to exclude preexisting papilledema, and periodically during the course of somatropin therapy. If  papilledema≠B-NonOSE_AE  is observed by funduscopy during somatropin treatment, treatment should be stopped. If  somatropin≠B-NonOSE_AE  -≠I-NonOSE_AE  induced≠I-NonOSE_AE   IH≠I-NonOSE_AE  is diagnosed, treatment with somatropin can be restarted at a lower dose after  IH≠B-NonOSE_AE  -≠I-NonOSE_AE  associated≠I-NonOSE_AE  signs and symptoms have resolved. Patients with  Turner≠B-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate  and  Prader≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  Willi≠I-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate  may be at increased risk for the development of  IH≠B-OSE_Labeled_AE .
+
+    5.6 Severe Hypersensitivity
+
+   Serious  systemic≠B-OSE_Labeled_AE   hypersensitivity≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  including  anaphylactic≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  and  angioedema≠B-OSE_Labeled_AE  have been reported with post-marketing use of somatropin products. Patients and caregivers should be informed that such reactions are possible and that prompt medical attention should be sought if an allergic reaction occurs [see  Contraindications (4)  ].    
+
+    5.7 Fluid Retention
+
+   Fluid≠B-OSE_Labeled_AE   retention≠I-OSE_Labeled_AE  during somatropin replacement therapy in adults may occur. Clinical manifestations of  fluid≠B-NonOSE_AE   retention≠I-NonOSE_AE  (e.g.,  edema≠B-NonOSE_AE ,  arthralgia≠B-NonOSE_AE ,  myalgia≠B-NonOSE_AE ,  nerve≠B-NonOSE_AE   compression≠I-NonOSE_AE   syndromes≠I-NonOSE_AE  including  carpal≠B-NonOSE_AE   tunnel≠I-NonOSE_AE   syndrome≠I-NonOSE_AE / paraesthesias≠B-NonOSE_AE ) are usually transient and dose dependent.
+
+    5.8 Hypoadrenalism
+
+   Patients receiving somatropin therapy who have or are at risk for  pituitary≠B-Not_AE_Candidate   hormone≠I-Not_AE_Candidate   deficiency≠I-Not_AE_Candidate (s) may be at risk for  reduced≠B-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   cortisol≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE  and/or unmasking of  central≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  secondary≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   hypoadrenalism≠I-OSE_Labeled_AE . In addition, patients treated with glucocorticoid replacement for previously diagnosed  hypoadrenalism≠B-Not_AE_Candidate  may require an increase in their maintenance or  stress≠B-NonOSE_AE   doses≠I-NonOSE_AE  following initiation of somatropin treatment [see  Section 7.1, 11-beta Hydroxysteroid Dehydrogenase Type 1  ].    
+
+    5.9 Hypothyroidism
+
+  Undiagnosed/untreated  hypothyroidism≠B-Not_AE_Candidate  may prevent an optimal response to somatropin, in particular, the growth response in children. Patients with  Turner≠B-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate  have an inherently increased risk of developing  autoimmune≠B-NonOSE_AE   thyroid≠I-NonOSE_AE  disease and  primary≠B-NonOSE_AE   hypothyroidism≠I-NonOSE_AE . In patients with  growth≠B-Not_AE_Candidate   hormone≠I-Not_AE_Candidate   deficiency≠I-Not_AE_Candidate ,  central≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  secondary≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   hypothyroidism≠I-OSE_Labeled_AE  may first become evident or worsen during somatropin treatment. Therefore, patients treated with somatropin should have periodic thyroid function tests and thyroid hormone replacement therapy should be initiated or appropriately adjusted when indicated.
+
+    5.10 Slipped Capital Femoral Epiphyses in Pediatric Patients
+
+   Slipped≠B-OSE_Labeled_AE   capital≠I-OSE_Labeled_AE   femoral≠I-OSE_Labeled_AE   epiphyses≠I-OSE_Labeled_AE  may occur more frequently in patients with endocrine disorders (including  GHD≠B-Not_AE_Candidate  and  Turner≠B-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate ) or in patients undergoing  rapid≠B-NonOSE_AE   growth≠I-NonOSE_AE . Any pediatric patient with the onset of a  limp≠B-NonOSE_AE  or complaints of  hip≠B-NonOSE_AE  or knee  pain≠I-NonOSE_AE  during somatropin therapy should be carefully evaluated.
+
+    5.11 Progression of Preexisting Scoliosis in Pediatric Patients
+
+   Progression≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   scoliosis≠I-OSE_Labeled_AE  can occur in patients who experience  rapid≠B-NonOSE_AE   growth≠I-NonOSE_AE . Because somatropin  increases≠B-NonOSE_AE   growth≠I-NonOSE_AE   rate≠I-NonOSE_AE , patients with a history of  scoliosis≠B-Not_AE_Candidate  who are treated with somatropin should be monitored for progression of  scoliosis≠B-NonOSE_AE . However, somatropin has not been shown to increase the occurrence of  scoliosis≠B-NonOSE_AE .  Skeletal≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  including  scoliosis≠B-NonOSE_AE  are commonly seen in untreated  Turner≠B-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate  patients.  Scoliosis≠B-NonOSE_AE  is also commonly seen in untreated patients with  Prader≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  Willi≠I-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate . Physicians should be alert to these abnormalities, which may manifest during somatropin therapy.
+
+    5.12 Otitis Media and  Cardiovascular≠B-OSE_Labeled_AE   Disorders≠I-OSE_Labeled_AE  in Turner Syndrome
+
+  Patients with  Turner≠B-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate  should be evaluated carefully for  otitis≠B-NonOSE_AE   media≠I-NonOSE_AE  and other  ear≠B-NonOSE_AE   disorders≠I-NonOSE_AE  since these patients have an increased risk of  ear≠B-NonOSE_AE  and hearing  disorders≠I-NonOSE_AE . Somatropin treatment may increase the occurrence of  otitis≠B-OSE_Labeled_AE   media≠I-OSE_Labeled_AE  in patients with  Turner≠B-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate . In addition, patients with  Turner≠B-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate  should be monitored closely for  cardiovascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE  (e.g.,  stroke≠B-NonOSE_AE ,  aortic≠B-NonOSE_AE   aneurysm≠I-NonOSE_AE /dissection,  hypertension≠B-NonOSE_AE ) as these patients are also at risk for these conditions.
+
+    5.13 Lipoatrophy
+
+  When somatropin is administered subcutaneously at the same site over a long period of time,  tissue≠B-NonOSE_AE   atrophy≠I-NonOSE_AE  may result. This can be avoided by rotating the injection site [see  Dosage and Administration. (2.3)  ].  
+
+    5.14 Laboratory Tests
+
+  Serum levels of  inorganic≠B-OSE_Labeled_AE   phosphorus≠I-OSE_Labeled_AE , alkaline phosphatase, parathyroid hormone (PTH) and IGF-I may  increase≠I-OSE_Labeled_AE  during somatropin therapy.
+
+    5.15 Pancreatitis
+
+  Cases of  pancreatitis≠B-OSE_Labeled_AE  have been reported rarely in children and adults receiving somatropin treatment, with some evidence supporting a greater risk in children compared with adults. Published literature indicates that girls who have  Turner≠B-Not_AE_Candidate   syndrome≠I-Not_AE_Candidate  may be at greater risk than other somatropin-treated children.  Pancreatitis≠B-NonOSE_AE  should be considered in any somatropin-treated patient, especially a child, who develops persistent severe  abdominal≠B-NonOSE_AE   pain≠I-NonOSE_AE .
+

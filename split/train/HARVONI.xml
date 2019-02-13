@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoldLabel drug="HARVONI">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions (incidence greater than or equal to 10%, all grades) observed with treatment with HARVONI for 8, 12, or 24 weeks are fatigue and headache (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Gilead Sciences, Inc. at 1-800-GILEAD-5 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety assessment of HARVONI was based on pooled data from three Phase 3 clinical trials of subjects with genotype 1 chronic hepatitis C (CHC) with compensated liver disease (with and without cirrhosis) including 215, 539, and 326 subjects who received HARVONI for 8, 12 and 24 weeks, respectively  [see  Clinical Studies (14)  ].  
+
+
+
+ The proportion of subjects who permanently discontinued treatment due to adverse events was 0%, &lt;1%, and 1% for subjects receiving HARVONI for 8, 12, and 24 weeks, respectively.
+
+
+
+ The most common adverse reactions (&gt;=10%) were fatigue and headache in subjects treated with 8, 12, or 24 weeks of HARVONI.
+
+
+
+ Table 2 lists adverse reactions (adverse events assessed as causally related by the investigator, all grades) observed in &gt;=5% of subjects receiving 8, 12, or 24 weeks treatment with HARVONI in clinical trials. The majority of adverse reactions presented in Table 2 occurred at severity of grade 1. The side-by-side tabulation is to simplify presentation; direct comparison across trials should not be made due to differing trial designs.
+
+
+
+ Table 2 Adverse Reactions (All Grades) Reported in &gt;=5% of Subjects Receiving 8, 12, or 24 Weeks of Treatment with HARVONI 
+                                 HARVONI8 weeks             HARVONI12 weeks            HARVONI24 weeks        
+                                      N=215                      N=539                      N=326             
+  
+ Fatigue                               16%                        13%                        18%              
+ Headache                              11%                        14%                        17%              
+ Nausea                                6%                         7%                         9%               
+ Diarrhea                              4%                         3%                         7%               
+ Insomnia                              3%                         5%                         6%               
+              Laboratory Abnormalities  
+ 
+
+     Bilirubin Elevations:  Bilirubin elevations of greater than 1.5*ULN were observed in 3%, &lt;1%, and 2% of subjects treated with HARVONI for 8, 12, and 24 weeks, respectively.
+
+
+
+     Lipase Elevations:  Transient, asymptomatic lipase elevations of greater than 3*ULN were observed in &lt;1%, 2%, and 3% of subjects treated with HARVONI for 8, 12, and 24 weeks, respectively.
+
+
+
+     Creatine Kinase:  Creatine kinase was not assessed in Phase 3 trials of HARVONI. Isolated, asymptomatic creatine kinase elevations (Grade 3 or 4) have been previously reported in subjects treated with sofosbuvir in combination with ribavirin or peginterferon/ribavirin in other clinical trials.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post approval use of HARVONI. Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+     Cardiac Disorders  
+
+
+
+ Serious symptomatic bradycardia has been reported in patients taking amiodarone who initiate treatment with HARVONI  [See  Warnings and Precautions (5.1)  ,  Drug Interactions (7.2)  ]  
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Bradycardia with amiodarone coadministration: Serious symptomatic bradycardia may occur in patients taking amiodarone, particularly in patients also receiving beta blockers, or those with underlying cardiac comorbidities and/or advanced liver disease. Coadministration of amiodarone with HARVONI is not recommended. In patients without alternative, viable treatment options, cardiac monitoring is recommended. (  5.1  ,  6.2  ,  7.2  ) 
+ *  Use with other drugs containing sofosbuvir, including SOVALDI, is not recommended (  5.3  ) 
+    
+ 
+
+   5.1 Serious Symptomatic Bradycardia When Coadministered with Amiodarone
+
+
+
+   Postmarketing cases of symptomatic bradycardia, as well as fatal cardiac arrest and cases requiring pacemaker intervention, have been reported when amiodarone is coadministered with HARVONI. Bradycardia has generally occurred within hours to days, but cases have been observed up to 2 weeks after initiating HCV treatment. Patients also taking beta blockers, or those with underlying cardiac comorbidities and/or advanced liver disease may be at increased risk for symptomatic bradycardia with coadministration of amiodarone. Bradycardia generally resolved after discontinuation of HCV treatment. The mechanism for this effect is unknown.  
+
+
+
+  Coadministration of amiodarone with HARVONI is not recommended. For patients taking amiodarone who have no other alternative, viable treatment options and who will be coadministered HARVONI:  
+
+
+
+ *   Counsel patients about the risk of serious symptomatic bradycardia  
+ *   Cardiac monitoring in an in-patient setting for the first 48 hours of coadministration is recommended, after which outpatient or self-monitoring of the heart rate should occur on a daily basis through at least the first 2 weeks of treatment.  
+     Patients who are taking HARVONI who need to start amiodarone therapy due to no other alternative, viable treatment options should undergo similar cardiac monitoring as outlined above.  
+ 
+
+  Due to amiodarone's long half-life, patients discontinuing amiodarone just prior to starting HARVONI should also undergo similar cardiac monitoring as outlined above.  
+
+
+
+  Patients who develop signs or symptoms of bradycardia should seek medical evaluation immediately. Symptoms may include near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pains, confusion or memory problems [See  Adverse Reactions (6.2)  ,  Drug Interactions (7.2)  ]  .  
+
+
+
+    5.2 Risk of Reduced Therapeutic Effect Due to P-gp Inducers
+
+
+
+  The concomitant use of HARVONI and P-gp inducers (e.g., rifampin, St. John's wort) may significantly decrease ledipasvir and sofosbuvir plasma concentrations and may lead to a reduced therapeutic effect of HARVONI. Therefore, the use of HARVONI with P-gp inducers (e.g., rifampin or St. John's wort) is not recommended [see  Drug Interactions (7.2)  ]  .
+
+
+
+    5.3 Related Products Not Recommended
+
+
+
+  The use of HARVONI with other products containing sofosbuvir (SOVALDI  (r)  ) is not recommended.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="343" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="554" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="373" />
+    <IgnoredRegion len="71" name="heading" section="S2" start="597" />
+    <IgnoredRegion len="59" name="heading" section="S2" start="2562" />
+    <IgnoredRegion len="36" name="heading" section="S2" start="2989" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="3401" />
+  </IgnoredRegions>
+  <Mentions>
+    <Mention id="M1" len="35" reason="indication" section="S1" start="785" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Chronic hepatitis C genotype 1" meddra_llt_id="10076786" meddra_pt="Chronic hepatitis C" meddra_pt_id="10008912" />
+    </Mention>
+    <Mention id="M2" len="53" reason="preexisting_condition_or_risk_factor" section="S1" start="827" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Compensated cirrhosis" meddra_llt_id="10064844" meddra_pt="Hepatic cirrhosis" meddra_pt_id="10019641" />
+    </Mention>
+    <Mention id="M10" len="7" reason="from_drug_use" section="S1" start="1245" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Fatigue" meddra_llt_id="10016256" meddra_pt="Fatigue" meddra_pt_id="10016256" />
+    </Mention>
+    <Mention id="M11" len="8" reason="from_drug_use" section="S1" start="1257" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Headache" meddra_llt_id="10019211" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Mention>
+    <Mention id="M12" len="7" reason="from_drug_use" section="S1" start="2119" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Fatigue" meddra_llt_id="10016256" meddra_pt="Fatigue" meddra_pt_id="10016256" />
+    </Mention>
+    <Mention id="M13" len="8" reason="from_drug_use" section="S1" start="2230" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Headache" meddra_llt_id="10019211" meddra_pt="Headache" meddra_pt_id="10019211" />
+    </Mention>
+    <Mention id="M14" len="6" reason="from_drug_use" section="S1" start="2341" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Nausea" meddra_llt_id="10028813" meddra_pt="Nausea" meddra_pt_id="10028813" />
+    </Mention>
+    <Mention id="M15" len="8" reason="from_drug_use" section="S1" start="2452" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Diarrhea" meddra_llt_id="10012727" meddra_pt="Diarrhoea" meddra_pt_id="10012735" />
+    </Mention>
+    <Mention id="M16" len="8" reason="from_drug_use" section="S1" start="2563" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Insomnia" meddra_llt_id="10022437" meddra_pt="Insomnia" meddra_pt_id="10022437" />
+    </Mention>
+    <Mention id="M8" len="20" reason="general_term" section="S1" start="2722" type="NonOSE_AE">
+      <Normalization meddra_llt="Raised bilirubin" meddra_llt_id="10037805" meddra_pt="Blood bilirubin increased" meddra_pt_id="10005364" />
+    </Mention>
+    <Mention id="M17" len="20" reason="from_drug_use" section="S1" start="2745" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Raised bilirubin" meddra_llt_id="10037805" meddra_pt="Blood bilirubin increased" meddra_pt_id="10005364" />
+    </Mention>
+    <Mention id="M9" len="17" reason="general_term" section="S1" start="2903" type="NonOSE_AE">
+      <Normalization meddra_llt="Lipase increased" meddra_llt_id="10024574" meddra_pt="Lipase increased" meddra_pt_id="10024574" />
+    </Mention>
+    <Mention id="M18" len="17" reason="from_drug_use" section="S1" start="2947" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Lipase increased" meddra_llt_id="10024574" meddra_pt="Lipase increased" meddra_pt_id="10024574" />
+    </Mention>
+    <Mention id="M4" len="15" reason="general_term" section="S1" start="3100" type="NonOSE_AE">
+      <Normalization meddra_llt="Creatine kinase" meddra_llt_id="10011334" meddra_pt="Blood creatine phosphokinase" meddra_pt_id="10005467" />
+    </Mention>
+    <Mention id="M5" len="15" reason="AE_only_as_instruction" section="S1" start="3118" type="NonOSE_AE">
+      <Normalization meddra_llt="Creatine kinase" meddra_llt_id="10011334" meddra_pt="Blood creatine phosphokinase" meddra_pt_id="10005467" />
+    </Mention>
+    <Mention id="M6" len="26" reason="AE_from_drug_interaction" section="S1" start="3204" type="NonOSE_AE">
+      <Normalization meddra_llt="Creatine kinase high" meddra_llt_id="10011335" meddra_pt="Blood creatine phosphokinase increased" meddra_pt_id="10005470" />
+    </Mention>
+    <Mention id="M3" len="17" reason="general_term" section="S1" start="3741" type="NonOSE_AE">
+      <Normalization meddra_llt="Cardiac disorder" meddra_llt_id="10061024" meddra_pt="Cardiac disorder" meddra_pt_id="10061024" />
+    </Mention>
+    <Mention id="M7" len="11" reason="AE_from_drug_interaction" section="S1" start="3785" type="NonOSE_AE">
+      <Normalization meddra_llt="Bradycardia" meddra_llt_id="10006093" meddra_pt="Bradycardia" meddra_pt_id="10006093" />
+    </Mention>
+    <Mention id="M33" len="11" reason="AE_from_drug_interaction" section="S2" start="710" type="NonOSE_AE">
+      <Normalization meddra_llt="Bradycardia" meddra_llt_id="10006093" meddra_pt="Bradycardia" meddra_pt_id="10006093" />
+    </Mention>
+    <Mention id="M32" len="14" reason="AE_from_drug_interaction" section="S2" start="740" type="NonOSE_AE">
+      <Normalization meddra_llt="Arrest cardiac" meddra_llt_id="10003109" meddra_pt="Cardiac arrest" meddra_pt_id="10007515" />
+    </Mention>
+    <Mention id="M34" len="11" reason="AE_from_drug_interaction" section="S2" start="866" type="NonOSE_AE">
+      <Normalization meddra_llt="Bradycardia" meddra_llt_id="10006093" meddra_pt="Bradycardia" meddra_pt_id="10006093" />
+    </Mention>
+    <Mention id="M19" len="3" reason="indication" section="S2" start="983" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Hepatitis C" meddra_llt_id="10019744" meddra_pt="Hepatitis C" meddra_pt_id="10019744" />
+    </Mention>
+    <Mention id="M20" len="21" reason="preexisting_condition_or_risk_factor" section="S2" start="1059" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Cardiac disorder" meddra_llt_id="10061024" meddra_pt="Cardiac disorder" meddra_pt_id="10061024" />
+    </Mention>
+    <Mention id="M21" len="13" reason="preexisting_condition_or_risk_factor" section="S2" start="1097" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Chronic liver disease" meddra_llt_id="10008953" meddra_pt="Liver disorder" meddra_pt_id="10024670" />
+      <Normalization meddra_pt="Hepatotoxicity" meddra_pt_id="10019851" />
+    </Mention>
+    <Mention id="M35" len="23" reason="AE_from_drug_interaction" section="S2" start="1140" type="NonOSE_AE">
+      <Normalization meddra_llt="Bradycardia" meddra_llt_id="10006093" meddra_pt="Bradycardia" meddra_pt_id="10006093" />
+    </Mention>
+    <Mention id="M36" len="11" reason="AE_from_drug_interaction" section="S2" start="1201" type="NonOSE_AE">
+      <Normalization meddra_llt="Bradycardia" meddra_llt_id="10006093" meddra_pt="Bradycardia" meddra_pt_id="10006093" />
+    </Mention>
+    <Mention id="M22" len="3" reason="indication" section="S2" start="1257" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Hepatitis C" meddra_llt_id="10019744" meddra_pt="Hepatitis C" meddra_pt_id="10019744" />
+    </Mention>
+    <Mention id="M37" len="11" reason="AE_only_as_instruction" section="S2" start="1577" type="NonOSE_AE">
+      <Normalization meddra_llt="Bradycardia" meddra_llt_id="10006093" meddra_pt="Bradycardia" meddra_pt_id="10006093" />
+    </Mention>
+    <Mention id="M38" len="11" reason="AE_only_as_instruction" section="S2" start="2252" type="NonOSE_AE">
+      <Normalization meddra_llt="Bradycardia" meddra_llt_id="10006093" meddra_pt="Bradycardia" meddra_pt_id="10006093" />
+    </Mention>
+    <Mention id="M23" len="13" reason="AE_from_drug_interaction" section="S2" start="2329" type="NonOSE_AE">
+      <Normalization meddra_llt="Near fainting" meddra_llt_id="10066202" meddra_pt="Presyncope" meddra_pt_id="10036653" />
+    </Mention>
+    <Mention id="M24" len="8" reason="AE_from_drug_interaction" section="S2" start="2346" type="NonOSE_AE">
+      <Normalization meddra_llt="Fainting" meddra_llt_id="10016169" meddra_pt="Syncope" meddra_pt_id="10042772" />
+    </Mention>
+    <Mention id="M25" len="9" reason="AE_from_drug_interaction" section="S2" start="2356" type="NonOSE_AE">
+      <Normalization meddra_llt="Dizziness" meddra_llt_id="10013573" meddra_pt="Dizziness" meddra_pt_id="10013573" />
+    </Mention>
+    <Mention id="M26" len="15" reason="AE_from_drug_interaction" section="S2" start="2369" type="NonOSE_AE">
+      <Normalization meddra_llt="Lightheadedness" meddra_llt_id="10024492" meddra_pt="Dizziness" meddra_pt_id="10013573" />
+    </Mention>
+    <Mention id="M27" len="7" reason="AE_from_drug_interaction" section="S2" start="2386" type="NonOSE_AE">
+      <Normalization meddra_llt="Malaise" meddra_llt_id="10025482" meddra_pt="Malaise" meddra_pt_id="10025482" />
+    </Mention>
+    <Mention id="M28" len="8" reason="AE_from_drug_interaction" section="S2" start="2395" type="NonOSE_AE">
+      <Normalization meddra_llt="Weakness" meddra_llt_id="10047862" meddra_pt="Asthenia" meddra_pt_id="10003549" />
+    </Mention>
+    <Mention id="M39" len="19" reason="AE_from_drug_interaction" section="S2" start="2405" type="NonOSE_AE">
+      <Normalization meddra_llt="Tiredness" meddra_llt_id="10043890" meddra_pt="Fatigue" meddra_pt_id="10016256" />
+    </Mention>
+    <Mention id="M29" len="19" reason="AE_from_drug_interaction" section="S2" start="2426" type="NonOSE_AE">
+      <Normalization meddra_llt="Shortness of breath" meddra_llt_id="10040604" meddra_pt="Dyspnoea" meddra_pt_id="10013968" />
+    </Mention>
+    <Mention id="M30" len="11" reason="AE_from_drug_interaction" section="S2" start="2447" type="NonOSE_AE">
+      <Normalization meddra_llt="Pain chest" meddra_llt_id="10033387" meddra_pt="Chest pain" meddra_pt_id="10008479" />
+    </Mention>
+    <Mention id="M31" len="9" reason="AE_from_drug_interaction" section="S2" start="2460" type="NonOSE_AE">
+      <Normalization meddra_llt="Confusion" meddra_llt_id="10010300" meddra_pt="Confusional state" meddra_pt_id="10010305" />
+    </Mention>
+    <Mention id="M40" len="15" reason="AE_from_drug_interaction" section="S2" start="2473" type="NonOSE_AE">
+      <Normalization meddra_llt="Memory deficit" meddra_llt_id="10027171" meddra_pt="Memory impairment" meddra_pt_id="10027175" />
+    </Mention>
+  </Mentions>
+</GoldLabel>

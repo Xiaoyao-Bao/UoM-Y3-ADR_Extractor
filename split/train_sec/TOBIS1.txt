@@ -1,0 +1,88 @@
+    ADVERSE REACTIONS  
+
+  TOBI was generally well tolerated during two clinical studies in 258  cystic≠B-Not_AE_Candidate   fibrosis≠I-Not_AE_Candidate  patients ranging in age from 6 to 48 years. Patients received TOBI in alternating periods of 28 days on and 28 days off drug in addition to their standard  cystic≠B-Not_AE_Candidate   fibrosis≠I-Not_AE_Candidate  therapy for a total of 24 weeks.
+
+  Voice≠B-OSE_Labeled_AE   alteration≠I-OSE_Labeled_AE  and  tinnitus≠B-OSE_Labeled_AE  were the only adverse experiences reported by significantly more TOBI-treated patients. Thirty-three patients (13%) treated with TOBI complained of  voice≠B-OSE_Labeled_AE   alteration≠I-OSE_Labeled_AE  compared to 17 (7%) placebo patients.  Voice≠B-OSE_Labeled_AE   alteration≠I-OSE_Labeled_AE  was more common in the on-drug periods.
+
+ Eight patients from the TOBI group (3%) reported  tinnitus≠B-OSE_Labeled_AE  compared to no placebo patients. All episodes were transient, resolved without discontinuation of the TOBI treatment regimen, and were not associated with  loss≠B-NonOSE_AE   of≠I-NonOSE_AE   hearing≠I-NonOSE_AE  in audiograms.  Tinnitus≠B-NonOSE_AE  is one of the sentinel symptoms of  cochlear≠B-NonOSE_AE   toxicity≠I-NonOSE_AE , and patients with this symptom should be carefully monitored for high frequency  hearing≠B-NonOSE_AE   loss≠I-NonOSE_AE . The numbers of patients reporting  vestibular≠B-NonOSE_AE   adverse≠I-NonOSE_AE   experiences≠I-NonOSE_AE  such as  dizziness≠B-NonOSE_AE  were similar in the TOBI and placebo groups.
+
+ Nine (3%) patients in the TOBI group and nine (3%) patients in the placebo group had  increases≠B-NonOSE_AE   in≠I-NonOSE_AE   serum≠I-NonOSE_AE   creatinine≠I-NonOSE_AE  of at least 50% over baseline. In all nine patients in the TOBI group,  creatinine≠B-NonOSE_AE   decreased≠I-NonOSE_AE  at the next visit.
+
+ Table 1 lists the percent of patients with treatment-emergent adverse experiences (spontaneously reported and solicited) that occurred in >5% of TOBI patients during the two Phase III studies.
+
+ Table 1: Percent of Patients With Treatment Emergent Adverse Experiences Occurring in >5% of TOBI Patients 
+   1  Includes subjective complaints of  fever≠B-NonOSE_AE .   
+   2  Includes reported  decreases≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   pulmonary≠I-OSE_Labeled_AE   function≠I-OSE_Labeled_AE   tests≠I-OSE_Labeled_AE  or  decreased≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   volume≠I-OSE_Labeled_AE   on≠I-OSE_Labeled_AE   chest≠I-OSE_Labeled_AE   radiograph≠I-OSE_Labeled_AE  associated with intercurrent illness or study drug administration.   
+  
+   Adverse Event      TOBI    (n=258)    %      Placebo    (n=262)    %     
+  Cough≠B-NonOSE_AE   Increased≠I-NonOSE_AE   46.1             47.3              
+  Pharyngitis≠B-NonOSE_AE       38.0             39.3              
+  Sputum≠B-NonOSE_AE   Increased≠I-NonOSE_AE   37.6             39.7              
+  Asthenia≠B-NonOSE_AE          35.7             39.3              
+  Rhinitis≠B-OSE_Labeled_AE          34.5             33.6              
+  Dyspnea≠B-NonOSE_AE           33.7             38.5              
+  Fever≠B-NonOSE_AE   1         32.9             43.5              
+  Lung≠B-OSE_Labeled_AE   Disorder≠I-OSE_Labeled_AE     31.4             31.3              
+  Headache≠B-NonOSE_AE          26.7             32.1              
+  Chest≠B-NonOSE_AE   Pain≠I-NonOSE_AE        26.0             29.8              
+  Sputum≠B-OSE_Labeled_AE   Discoloration≠I-OSE_Labeled_AE   21.3             19.8              
+  Hemoptysis≠B-NonOSE_AE        19.4             23.7              
+  Anorexia≠B-NonOSE_AE          18.6             27.9              
+  Lung≠B-OSE_Labeled_AE   Function≠I-OSE_Labeled_AE   Decreased≠I-OSE_Labeled_AE   2    16.3             15.3              
+  Asthma≠B-NonOSE_AE            15.9             20.2              
+  Vomiting≠B-NonOSE_AE          14.0             22.1              
+  Abdominal≠B-NonOSE_AE   Pain≠I-NonOSE_AE    12.8             23.7              
+  Voice≠B-OSE_Labeled_AE   Alteration≠I-OSE_Labeled_AE   12.8             6.5               
+  Nausea≠B-NonOSE_AE            11.2             16.0              
+  Weight≠B-NonOSE_AE   Loss≠I-NonOSE_AE       10.1             15.3              
+  Pain≠B-NonOSE_AE              8.1              12.6              
+  Sinusitis≠B-NonOSE_AE         8.1              9.2               
+  Ear≠B-NonOSE_AE   Pain≠I-NonOSE_AE          7.4              8.8               
+  Back≠B-NonOSE_AE   Pain≠I-NonOSE_AE         7.0              8.0               
+  Epistaxis≠B-OSE_Labeled_AE         7.0              6.5               
+  Taste≠B-NonOSE_AE   Perversion≠I-NonOSE_AE   6.6              6.9               
+  Diarrhea≠B-NonOSE_AE          6.2              10.3              
+  Malaise≠B-OSE_Labeled_AE           6.2              5.3               
+  Lower≠B-NonOSE_AE   Respiratory≠I-NonOSE_AE   Tract≠I-NonOSE_AE   Infection≠I-NonOSE_AE   5.8              8.0               
+  Dizziness≠B-NonOSE_AE         5.8              7.6               
+  Hyperventilation≠B-NonOSE_AE   5.4              9.9               
+  Rash≠B-NonOSE_AE              5.4              6.1               
+         Adverse drug reactions (<5%) occurring more frequently with TOBI in the placebo-controlled studies and assessed as drug-related in >=1% of patients:
+ 
+
+    Ear≠B-NonOSE_AE   and≠I-NonOSE_AE   labyrinth≠I-NonOSE_AE   disorders≠I-NonOSE_AE   
+
+  Tinnitus≠B-OSE_Labeled_AE  (3.1%, vs 0% for placebo)
+
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE   
+
+  Myalgia≠B-OSE_Labeled_AE  (4.7%, vs 2.7% for placebo)
+
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE   
+
+  Laryngitis≠B-OSE_Labeled_AE  (4.3%, vs 3.1% for placebo)
+
+   Adverse drug reactions derived from spontaneous reports  
+
+ The following adverse reactions have been identified during postapproval use of TOBI. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+    Ear≠B-NonOSE_AE   and≠I-NonOSE_AE   labyrinth≠I-NonOSE_AE   disorders≠I-NonOSE_AE   
+
+  Hearing≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  (see WARNINGS - Ototoxicity)
+
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE   
+
+  Hypersensitivity≠B-OSE_Labeled_AE ,  pruritus≠B-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE 
+
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE   
+
+  Aphonia≠B-OSE_Labeled_AE ,  dysgeusia≠B-OSE_Labeled_AE 
+
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE  ,≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE   
+
+  Bronchospasm≠B-OSE_Labeled_AE  (see WARNINGS -  Bronchospasm≠B-OSE_Labeled_AE ),  oropharyngeal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE 
+
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutrition≠I-NonOSE_AE   Disorders≠I-NonOSE_AE   
+
+  Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE 
+

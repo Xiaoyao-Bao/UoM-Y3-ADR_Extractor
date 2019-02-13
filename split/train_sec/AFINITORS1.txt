@@ -2,12 +2,12 @@
 
   The following serious adverse reactions are discussed in greater detail in another section of the label  [see Warnings and Precautions (5)]  :
 
- *  Non-infectious pneumonitis [see Warnings and Precautions (5.1)] . 
- *  Infections [see Warnings and Precautions (5.2)] . 
- *  Angioedema with concomitant use of ACE inhibitors [see Warnings and Precautions (5.3)] . 
- *  Stomatitis [see Warnings and Precautions (5.4)] . 
- *  Renal failure [see Warnings and Precautions (5.5)] . 
- *  Impaired wound healing [see Warnings and Precautions (5.6)] . 
+ *   Non≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  infectious≠I-OSE_Labeled_AE   pneumonitis≠I-OSE_Labeled_AE  [see Warnings and Precautions (5.1)] . 
+ *   Infections≠B-OSE_Labeled_AE  [see Warnings and Precautions (5.2)] . 
+ *   Angioedema≠B-NonOSE_AE  with concomitant use of ACE inhibitors [see Warnings and Precautions (5.3)] . 
+ *   Stomatitis≠B-OSE_Labeled_AE  [see Warnings and Precautions (5.4)] . 
+ *   Renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  [see Warnings and Precautions (5.5)] . 
+ *   Impaired≠B-OSE_Labeled_AE   wound≠I-OSE_Labeled_AE   healing≠I-OSE_Labeled_AE  [see Warnings and Precautions (5.6)] . 
     Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.
  
 
@@ -23,157 +23,157 @@
 
   6.1     Clinical Study Experience in Advanced Hormone Receptor-Positive, HER2-Negative Breast Cancer
 
-  The efficacy and safety of AFINITOR (10 mg/day) plus exemestane (25 mg/day) (n=485) versus placebo plus exemestane (25 mg/day) (n=239) was evaluated in a randomized, controlled trial (BOLERO-2) in patients with advanced or metastatic hormone receptor-positive, HER2-negative breast cancer. The median age of patients was 61 years (range 28-93 years), and 75% were Caucasian. Safety results are based on a median follow-up of approximately 13 months.
+  The efficacy and safety of AFINITOR (10 mg/day) plus exemestane (25 mg/day) (n=485) versus placebo plus exemestane (25 mg/day) (n=239) was evaluated in a randomized, controlled trial (BOLERO-2) in patients with  advanced≠B-Not_AE_Candidate   or≠I-Not_AE_Candidate   metastatic≠I-Not_AE_Candidate   hormone≠I-Not_AE_Candidate   receptor≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  positive≠I-Not_AE_Candidate  ,≠I-Not_AE_Candidate   HER≠I-Not_AE_Candidate  2≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  negative≠I-Not_AE_Candidate   breast≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate . The median age of patients was 61 years (range 28-93 years), and 75% were Caucasian. Safety results are based on a median follow-up of approximately 13 months.
 
- The most common adverse reactions (incidence >=30%) were stomatitis, infections, rash, fatigue, diarrhea, and decreased appetite. The most common Grade 3/4 adverse reactions (incidence >=2%) were stomatitis, infections, hyperglycemia, fatigue, dyspnea, pneumonitis, and diarrhea. The most common laboratory abnormalities (incidence >=50%) were hypercholesterolemia, hyperglycemia, increased aspartate transaminase (AST), anemia, leukopenia, thrombocytopenia, lymphopenia, increased alanine transaminase (ALT), and hypertriglyceridemia. The most common Grade 3/4 laboratory abnormalities (incidence >= 3%) were lymphopenia, hyperglycemia, anemia, decreased potassium, increased AST, increased ALT, and thrombocytopenia.
+ The most common adverse reactions (incidence >=30%) were  stomatitis≠B-OSE_Labeled_AE ,  infections≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE , and  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE . The most common Grade 3/4 adverse reactions (incidence >=2%) were  stomatitis≠B-OSE_Labeled_AE ,  infections≠B-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE ,  pneumonitis≠B-OSE_Labeled_AE , and  diarrhea≠B-OSE_Labeled_AE . The most common laboratory abnormalities (incidence >=50%) were  hypercholesterolemia≠B-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   aspartate≠I-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  AST≠I-OSE_Labeled_AE ),  anemia≠B-OSE_Labeled_AE ,  leukopenia≠B-OSE_Labeled_AE ,  thrombocytopenia≠B-OSE_Labeled_AE ,  lymphopenia≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   alanine≠I-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  ALT≠I-OSE_Labeled_AE ), and  hypertriglyceridemia≠B-OSE_Labeled_AE . The most common Grade 3/4 laboratory abnormalities (incidence >= 3%) were  lymphopenia≠B-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  anemia≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   potassium≠I-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   AST≠I-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   ALT≠I-OSE_Labeled_AE , and  thrombocytopenia≠B-OSE_Labeled_AE .
 
- Fatal adverse reactions occurred more frequently in patients who received AFINITOR plus exemestane (2%) compared to patients on the placebo plus exemestane arm (0.4%). The rates of treatment-emergent adverse events resulting in permanent discontinuation were 24% and 5% for the AFINITOR plus exemestane and placebo plus exemestane treatment groups, respectively. Dose adjustments (interruptions or reductions) were more frequent among patients in the AFINITOR plus exemestane arm than in the placebo plus exemestane arm (63% versus 14%).
+  Fatal≠B-NonOSE_AE  adverse reactions occurred more frequently in patients who received AFINITOR plus exemestane (2%) compared to patients on the placebo plus exemestane arm (0.4%). The rates of treatment-emergent adverse events resulting in permanent discontinuation were 24% and 5% for the AFINITOR plus exemestane and placebo plus exemestane treatment groups, respectively. Dose adjustments (interruptions or reductions) were more frequent among patients in the AFINITOR plus exemestane arm than in the placebo plus exemestane arm (63% versus 14%).
 
  Table 2 compares the incidence of treatment-emergent adverse reactions reported with an incidence of >=10% for patients receiving AFINITOR 10 mg daily versus placebo.
 
  Table 2: Adverse Reactions Reported >=10% of Patients with Advanced HR+ BC* 
- Grading according to CTCAE Version 3.0  *  160 patients (33.2%) were exposed to AFINITOR therapy for a period of >= 32 weeks  a  Exemestane (25 mg/day)  b  Includes stomatitis, mouth ulceration, aphthous stomatitis, glossodynia, gingival pain, glossitis and lip ulceration  c  Includes all preferred terms within the 'infections and infestations' system organ class, the most common being nasopharyngitis (10%), urinary tract infection (10%), upper respiratory tract infection (5%), pneumonia (4%), bronchitis (4%), cystitis (3%), sinusitis (3%), and also including candidiasis (<1%), and sepsis (<1%), and hepatitis C (<1%).  d  Includes pneumonitis, interstitial lung disease, lung infiltration, and pulmonary fibrosis  e  Exposure to AFINITOR or placebo   
+ Grading according to CTCAE Version 3.0  *  160 patients (33.2%) were exposed to AFINITOR therapy for a period of >= 32 weeks  a  Exemestane (25 mg/day)  b  Includes  stomatitis≠B-OSE_Labeled_AE ,  mouth≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE ,  aphthous≠B-OSE_Labeled_AE   stomatitis≠I-OSE_Labeled_AE ,  glossodynia≠B-OSE_Labeled_AE ,  gingival≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  glossitis≠B-OSE_Labeled_AE  and  lip≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE   c  Includes all preferred terms within the  '≠B-NonOSE_AE  infections≠I-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE  '≠I-NonOSE_AE  system organ class, the most common being  nasopharyngitis≠B-OSE_Labeled_AE  (10%),  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  (10%),  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  (5%),  pneumonia≠B-OSE_Labeled_AE  (4%),  bronchitis≠B-OSE_Labeled_AE  (4%),  cystitis≠B-OSE_Labeled_AE  (3%),  sinusitis≠B-OSE_Labeled_AE  (3%), and also including  candidiasis≠B-OSE_Labeled_AE  (<1%), and  sepsis≠B-OSE_Labeled_AE  (<1%), and  hepatitis≠B-OSE_Labeled_AE   C≠I-OSE_Labeled_AE  (<1%).  d  Includes  pneumonitis≠B-OSE_Labeled_AE ,  interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE ,  lung≠B-OSE_Labeled_AE   infiltration≠I-OSE_Labeled_AE , and  pulmonary≠B-OSE_Labeled_AE   fibrosis≠I-OSE_Labeled_AE   e  Exposure to AFINITOR or placebo   
   
                     AFINITOR (10 mg/day)    + exemestane  a      N=482      Placebo    + exemestane  a      N=238     
                     All Grades       Grade 3          Grade 4          All Grades       Grade 3          Grade 4         
                     %                %                %                %                %                %               
    Any adverse reaction      100              41               9                90               22               5               
-   Gastrointestinal disorders     
-       Stomatitis  b    67               8                0                11               0.8              0                 
-       Diarrhea   33               2                0.2              18               0.8              0                 
-       Nausea     29               0.2              0.2              28               1                0                 
-       Vomiting   17               0.8              0.2              12               0.8              0                 
-       Constipation  14               0.4              0                13               0.4              0                 
-       Dry mouth  11               0                0                7                0                0                 
-   General disorders and administration site conditions     
-       Fatigue    36               4                0.4              27               1                0                 
-       Edema peripheral  19               1                0                6                0.4              0                 
-       Pyrexia    15               0.2              0                7                0.4              0                 
-       Asthenia   13               2                0.2              4                0                0                 
-   Infections and infestations     
-       Infections  c    50               4                1                25               2                0                 
-   Investigations     
-       Weight decreased  25               1                0                6                0                0                 
-   Metabolism and nutrition disorders     
-       Decreased appetite  30               1                0                12               0.4              0                 
-       Hyperglycemia  14               5                0.4              2                0.4              0                 
-   Musculoskeletal and connective tissue disorders     
-       Arthralgia  20               0.8              0                17               0                0                 
-       Back pain  14               0.2              0                10               0.8              0                 
-       Pain in extremity  9                0.4              0                11               2                0                 
-   Nervous system disorders     
-       Dysgeusia  22               0.2              0                6                0                0                 
-       Headache   21               0.4              0                14               0                0                 
-   Psychiatric disorders     
-       Insomnia   13               0.2              0                8                0                0                 
-   Respiratory, thoracic and mediastinal disorders     
-       Cough      24               0.6              0                12               0                0                 
-       Dyspnea    21               4                0.2              11               0.8              0.4               
-       Epistaxis  17               0                0                1                0                0                 
-       Pneumonitis  d    19               4                0.2              0.4              0                0                 
-   Skin and subcutaneous tissue disorders     
-       Rash       39               1                0                6                0                0                 
-       Pruritus   13               0.2              0                5                0                0                 
-       Alopecia   10               0                0                5                0                0                 
-   Vascular disorders     
-       Hot flush  6                0                0                14               0                0                 
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Stomatitis≠B-OSE_Labeled_AE   b    67               8                0                11               0.8              0                 
+        Diarrhea≠B-OSE_Labeled_AE    33               2                0.2              18               0.8              0                 
+        Nausea≠B-OSE_Labeled_AE      29               0.2              0.2              28               1                0                 
+        Vomiting≠B-OSE_Labeled_AE    17               0.8              0.2              12               0.8              0                 
+        Constipation≠B-OSE_Labeled_AE   14               0.4              0                13               0.4              0                 
+        Dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE   11               0                0                7                0                0                 
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE      
+        Fatigue≠B-OSE_Labeled_AE     36               4                0.4              27               1                0                 
+        Edema≠B-OSE_Labeled_AE   peripheral≠I-OSE_Labeled_AE   19               1                0                6                0.4              0                 
+        Pyrexia≠B-OSE_Labeled_AE     15               0.2              0                7                0.4              0                 
+        Asthenia≠B-OSE_Labeled_AE    13               2                0.2              4                0                0                 
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE      
+        Infections≠B-OSE_Labeled_AE   c    50               4                1                25               2                0                 
+    Investigations≠B-NonOSE_AE      
+        Weight≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   25               1                0                6                0                0                 
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   nutrition≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE   30               1                0                12               0.4              0                 
+        Hyperglycemia≠B-OSE_Labeled_AE   14               5                0.4              2                0.4              0                 
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Arthralgia≠B-OSE_Labeled_AE   20               0.8              0                17               0                0                 
+        Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   14               0.2              0                10               0.8              0                 
+        Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE   9                0.4              0                11               2                0                 
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Dysgeusia≠B-OSE_Labeled_AE   22               0.2              0                6                0                0                 
+        Headache≠B-OSE_Labeled_AE    21               0.4              0                14               0                0                 
+    Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Insomnia≠B-OSE_Labeled_AE    13               0.2              0                8                0                0                 
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Cough≠B-OSE_Labeled_AE       24               0.6              0                12               0                0                 
+        Dyspnea≠B-OSE_Labeled_AE     21               4                0.2              11               0.8              0.4               
+        Epistaxis≠B-OSE_Labeled_AE   17               0                0                1                0                0                 
+        Pneumonitis≠B-OSE_Labeled_AE   d    19               4                0.2              0.4              0                0                 
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Rash≠B-OSE_Labeled_AE        39               1                0                6                0                0                 
+        Pruritus≠B-OSE_Labeled_AE    13               0.2              0                5                0                0                 
+        Alopecia≠B-OSE_Labeled_AE    10               0                0                5                0                0                 
+    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Hot≠B-OSE_Labeled_AE   flush≠I-OSE_Labeled_AE   6                0                0                14               0                0                 
    Median duration of treatment  e        23.9 weeks       13.4 weeks      
-             Key observed laboratory abnormalities are presented in Table 3.
+             Key observed  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  are presented in Table 3.
  
 
  Table 3: Key Laboratory Abnormalities Reported in >=10% of Patients with Advanced HR+ BC 
- Grading according to CTCAE Version 3.0  a  Exemestane (25 mg/day)  b  Reflects corresponding adverse drug reaction reports of anemia, leukopenia, lymphopenia, neutropenia, and thrombocytopenia (collectively as pancytopenia), which occurred at lower frequency.   
+ Grading according to CTCAE Version 3.0  a  Exemestane (25 mg/day)  b  Reflects corresponding adverse drug reaction reports of  anemia≠B-OSE_Labeled_AE ,  leukopenia≠B-OSE_Labeled_AE ,  lymphopenia≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE , and  thrombocytopenia≠B-OSE_Labeled_AE  (collectively as  pancytopenia≠B-OSE_Labeled_AE ), which occurred at lower frequency.   
   
    Laboratory parameter      AFINITOR (10 mg/day)    + exemestane  a      N=482      Placebo    + exemestane  a      N=238     
                     All Grades       Grade 3          Grade 4          All Grades       Grade 3          Grade 4         
                     %                %                %                %                %                %               
-   Hematology  b       
- Hemoglobin decreased  68               6                0.6              40               0.8              0.4               
- WBC decreased    58               1                0                28               5                0.8               
- Platelets decreased  54               3                0.2              5                0                0.4               
- Lymphocytes decreased  54               11               0.6              37               5                0.8               
- Neutrophils decreased  31               2                0                11               0.8              0.8               
-   Clinical chemistry     
- Glucose increased  69               9                0.4              44               0.8              0.4               
- Cholesterol increased  70               0.6              0.2              38               0.8              0.8               
- Aspartate transaminase (AST) increased  69               4                0.2              45               3                0.4               
- Alanine transaminase (ALT) increased  51               4                0.2              29               5                0                 
- Triglycerides increased  50               0.8              0                26               0                0                 
- Albumin decreased  33               0.8              0                16               0.8              0                 
- Potassium decreased  29               4                0.2              7                1                0                 
- Creatinine increased  24               2                0.2              13               0                0                 
+    Hematology≠B-NonOSE_AE   b       
+  Hemoglobin≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   68               6                0.6              40               0.8              0.4               
+  WBC≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE     58               1                0                28               5                0.8               
+  Platelets≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   54               3                0.2              5                0                0.4               
+  Lymphocytes≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   54               11               0.6              37               5                0.8               
+  Neutrophils≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   31               2                0                11               0.8              0.8               
+    Clinical≠B-NonOSE_AE   chemistry≠I-NonOSE_AE      
+  Glucose≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   69               9                0.4              44               0.8              0.4               
+  Cholesterol≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   70               0.6              0.2              38               0.8              0.8               
+  Aspartate≠B-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  AST≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   69               4                0.2              45               3                0.4               
+  Alanine≠B-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  ALT≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   51               4                0.2              29               5                0                 
+  Triglycerides≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   50               0.8              0                26               0                0                 
+  Albumin≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   33               0.8              0                16               0.8              0                 
+  Potassium≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   29               4                0.2              7                1                0                 
+  Creatinine≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   24               2                0.2              13               0                0                 
                Topical Prophylaxis for Stomatitis  
  
 
- In a single arm study (SWISH; N=92) in postmenopausal women with hormone receptor-positive, HER2-negative breast cancer beginning AFINITOR (10 mg/day) plus exemestane (25 mg/day), patients started dexamethasone 0.5mg/5mL alcohol-free mouthwash (10 mL swished for 2 minutes and spat, 4 times daily for 8 weeks) concurrently with AFINITOR and exemestane. No food or drink was to be consumed for at least 1 hour after swishing and spitting the dexamethasone mouthwash. The primary objective of this study was to assess the incidence of Grade >= 2 stomatitis within 8 weeks. The incidence of Grade >= 2 stomatitis within 8 weeks was 2%, which was lower than the 33% reported in the BOLERO-2 trial. The incidence of Grade 1 stomatitis was 19%. No cases of Grade 3 or 4 stomatitis were reported. Oral candidiasis was reported in 2% of patients in this study compared to 0.2% in the BOLERO-2 trial.
+ In a single arm study (SWISH; N=92) in  postmenopausal≠B-Not_AE_Candidate  women with  hormone≠B-Not_AE_Candidate   receptor≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  positive≠I-Not_AE_Candidate  ,≠I-Not_AE_Candidate   HER≠I-Not_AE_Candidate  2≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  negative≠I-Not_AE_Candidate   breast≠I-Not_AE_Candidate   cancer≠I-Not_AE_Candidate  beginning AFINITOR (10 mg/day) plus exemestane (25 mg/day), patients started dexamethasone 0.5mg/5mL alcohol-free mouthwash (10 mL swished for 2 minutes and spat, 4 times daily for 8 weeks) concurrently with AFINITOR and exemestane. No food or drink was to be consumed for at least 1 hour after swishing and spitting the dexamethasone mouthwash. The primary objective of this study was to assess the incidence of Grade >= 2  stomatitis≠B-NonOSE_AE  within 8 weeks. The incidence of Grade >= 2  stomatitis≠B-OSE_Labeled_AE  within 8 weeks was 2%, which was lower than the 33% reported in the BOLERO-2 trial. The incidence of Grade 1  stomatitis≠B-OSE_Labeled_AE  was 19%. No cases of Grade 3 or 4  stomatitis≠B-NonOSE_AE  were reported.  Oral≠B-OSE_Labeled_AE   candidiasis≠I-OSE_Labeled_AE  was reported in 2% of patients in this study compared to 0.2% in the BOLERO-2 trial.
 
    6.2     Clinical Study Experience in Advanced Neuroendocrine Tumors
 
     Advanced Pancreatic Neuroendocrine Tumors (PNET)  
 
- In a randomized, controlled trial (RADIANT-3) of AFINITOR (n=204) versus placebo (n=203) in patients with advanced PNET the median age of patients was 58 years (range 20-87), 79% were White, and 55% were male. Patients on the placebo arm could cross over to open-label AFINITOR upon disease progression.
+ In a randomized, controlled trial (RADIANT-3) of AFINITOR (n=204) versus placebo (n=203) in patients with  advanced≠B-Not_AE_Candidate   PNET≠I-Not_AE_Candidate  the median age of patients was 58 years (range 20-87), 79% were White, and 55% were male. Patients on the placebo arm could cross over to open-label AFINITOR upon disease progression.
 
- The most common adverse reactions (incidence >= 30%) were stomatitis, rash, diarrhea, fatigue, edema, abdominal pain, nausea, fever, and headache. The most common Grade 3-4 adverse reactions (incidence >= 5%) were stomatitis and diarrhea. The most common laboratory abnormalities (incidence >= 50%) were decreased hemoglobin, hyperglycemia, alkaline phosphatase increased, hypercholesterolemia, bicarbonate decreased, and increased aspartate transaminase (AST). The most common Grade 3-4 laboratory abnormalities (incidence >= 3%) were hyperglycemia, lymphopenia, decreased hemoglobin, hypophosphatemia, increased alkaline phosphatase, neutropenia, increased aspartate transaminase (AST), potassium decreased, and thrombocytopenia.  Deaths during double-blind treatment where an adverse event was the primary cause occurred in seven patients on AFINITOR and one patient on placebo. Causes of death on the AFINITOR arm included one case of each of the following: acute renal failure, acute respiratory distress, cardiac arrest, death (cause unknown), hepatic failure, pneumonia, and sepsis. There was one death due to pulmonary embolism on the placebo arm. After cross-over to open-label AFINITOR, there were three additional deaths, one due to hypoglycemia and cardiac arrest in a patient with insulinoma, one due to myocardial infarction with congestive heart failure, and the other due to sudden death. The rates of treatment-emergent adverse events resulting in permanent discontinuation were 20% and 6% for the AFINITOR and placebo treatment groups, respectively. Dose delay or reduction was necessary in 61% of everolimus patients and 29% of placebo patients. Grade 3-4 renal failure occurred in six patients in the everolimus arm and three patients in the placebo arm. Thrombotic events included five patients with pulmonary embolus in the everolimus arm and one in the placebo arm as well as three patients with thrombosis in the everolimus arm and two in the placebo arm.
+ The most common adverse reactions (incidence >= 30%) were  stomatitis≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE ,  edema≠B-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  fever≠B-OSE_Labeled_AE , and  headache≠B-OSE_Labeled_AE . The most common Grade 3-4 adverse reactions (incidence >= 5%) were  stomatitis≠B-OSE_Labeled_AE  and  diarrhea≠B-OSE_Labeled_AE . The most common  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  (incidence >= 50%) were  decreased≠B-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  alkaline≠B-OSE_Labeled_AE   phosphatase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE ,  hypercholesterolemia≠B-OSE_Labeled_AE ,  bicarbonate≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE , and  increased≠B-OSE_Labeled_AE   aspartate≠I-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  AST≠I-OSE_Labeled_AE ). The most common Grade 3-4  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  (incidence >= 3%) were  hyperglycemia≠B-OSE_Labeled_AE ,  lymphopenia≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   hemoglobin≠I-OSE_Labeled_AE ,  hypophosphatemia≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   alkaline≠I-OSE_Labeled_AE   phosphatase≠I-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   aspartate≠I-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  AST≠I-OSE_Labeled_AE ),  potassium≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE , and  thrombocytopenia≠B-OSE_Labeled_AE .   Deaths≠B-NonOSE_AE  during double-blind treatment where an adverse event was the primary cause occurred in seven patients on AFINITOR and one patient on placebo. Causes of  death≠B-NonOSE_AE  on the AFINITOR arm included one case of each of the following:  acute≠B-NonOSE_AE   renal≠I-NonOSE_AE   failure≠I-NonOSE_AE ,  acute≠B-NonOSE_AE   respiratory≠I-NonOSE_AE   distress≠I-NonOSE_AE ,  cardiac≠B-NonOSE_AE   arrest≠I-NonOSE_AE ,  death≠B-NonOSE_AE  (cause unknown),  hepatic≠B-NonOSE_AE   failure≠I-NonOSE_AE ,  pneumonia≠B-NonOSE_AE , and  sepsis≠B-NonOSE_AE . There was one  death≠B-NonOSE_AE  due to  pulmonary≠B-NonOSE_AE   embolism≠I-NonOSE_AE  on the placebo arm. After cross-over to open-label AFINITOR, there were three additional  deaths≠B-NonOSE_AE , one due to  hypoglycemia≠B-NonOSE_AE  and  cardiac≠B-NonOSE_AE   arrest≠I-NonOSE_AE  in a patient with  insulinoma≠B-Not_AE_Candidate , one due to  myocardial≠B-NonOSE_AE   infarction≠I-NonOSE_AE  with  congestive≠B-NonOSE_AE   heart≠I-NonOSE_AE   failure≠I-NonOSE_AE , and the other due to  sudden≠B-NonOSE_AE   death≠I-NonOSE_AE . The rates of treatment-emergent adverse events resulting in permanent discontinuation were 20% and 6% for the AFINITOR and placebo treatment groups, respectively. Dose delay or reduction was necessary in 61% of everolimus patients and 29% of placebo patients. Grade 3-4  renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  occurred in six patients in the everolimus arm and three patients in the placebo arm.  Thrombotic≠B-OSE_Labeled_AE   events≠I-OSE_Labeled_AE  included five patients with  pulmonary≠B-OSE_Labeled_AE   embolus≠I-OSE_Labeled_AE  in the everolimus arm and one in the placebo arm as well as three patients with  thrombosis≠B-OSE_Labeled_AE  in the everolimus arm and two in the placebo arm.
 
  Table 4 compares the incidence of treatment-emergent adverse reactions reported with an incidence of >=10% for patients receiving AFINITOR 10 mg daily versus placebo. 
 
  Table 4:  Adverse Reactions Reported >=10% of Patients with Advanced PNET  
- Grading according to CTCAE Version 3.0  a   Includes stomatitis, aphthous stomatitis, gingival pain/swelling/ulceration, glossitis, glossodynia, lip ulceration, mouth ulceration, tongue ulceration, and mucosal inflammation.  b   Includes diarrhea, enteritis, enterocolitis, colitis, defecation urgency, and steatorrhea.  c  Includes pneumonitis, interstitial lung disease, pulmonary fibrosis and restrictive pulmonary disease.   
+ Grading according to CTCAE Version 3.0  a   Includes  stomatitis≠B-OSE_Labeled_AE ,  aphthous≠B-OSE_Labeled_AE   stomatitis≠I-OSE_Labeled_AE ,  gingival≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE /swelling/ulceration,  glossitis≠B-OSE_Labeled_AE ,  glossodynia≠B-OSE_Labeled_AE ,  lip≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE ,  mouth≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE ,  tongue≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE , and  mucosal≠B-OSE_Labeled_AE   inflammation≠I-OSE_Labeled_AE .  b   Includes  diarrhea≠B-OSE_Labeled_AE ,  enteritis≠B-OSE_Labeled_AE ,  enterocolitis≠B-OSE_Labeled_AE ,  colitis≠B-OSE_Labeled_AE ,  defecation≠B-OSE_Labeled_AE   urgency≠I-OSE_Labeled_AE , and  steatorrhea≠B-OSE_Labeled_AE .  c  Includes  pneumonitis≠B-OSE_Labeled_AE ,  interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   fibrosis≠I-OSE_Labeled_AE  and  restrictive≠B-OSE_Labeled_AE   pulmonary≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE .   
   
                     AFINITOR    N=204      Placebo    N=203     
                     All Grades       Grade 3          Grade 4          All Grades       Grade 3          Grade 4         
                     %                %                %                %                %                %               
    Any adverse reaction      100              49               13               98               32               8               
-   Gastrointestinal disorders     
-       Stomatitis  a    70               7                0                20               0                0                 
-       Diarrhea  b    50               5                0.5              25               3                0                 
-       Abdominal pain  36               4                0                32               6                1                 
-       Nausea     32               2                0                33               2                0                 
-       Vomiting   29               1                0                21               2                0                 
-       Constipation  14               0                0                13               0.5              0                 
-       Dry mouth  11               0                0                4                0                0                 
-   General disorders and administration site conditions     
-       Fatigue/malaise  45               3                0.5              27               2                0.5               
-       Edema (general and peripheral)  39               1                0.5              12               1                0                 
-       Fever      31               0.5              0.5              13               0.5              0                 
-       Asthenia   19               3                0                20               3                0                 
-   Infections and infestations     
-        Nasopharyngitis/rhinitis/URI  25               0                0                13               0                0                 
-       Urinary tract infection  16               0                0                6                0.5              0                 
-   Investigations     
-       Weight decreased  28               0.5              0                11               0                0                 
-   Metabolism and nutrition disorders     
-       Decreased appetite  30               1                0                18               1                0                 
-       Diabetes mellitus  10               2                0                0.5              0                0                 
-   Musculoskeletal and connective tissue disorders     
-       Arthralgia  15               1                0.5              7                0.5              0                 
-       Back pain  15               1                0                11               1                0                 
-       Pain in extremity  14               0.5              0                6                1                0                 
-       Muscle spasms  10               0                0                4                0                0                 
-   Nervous system disorders     
-       Headache/migraine  30               0.5              0                15               1                0                 
-       Dysgeusia  19               0                0                5                0                0                 
-       Dizziness  12               0.5              0                7                0                0                 
-   Psychiatric disorders     
-       Insomnia   14               0                0                8                0                0                 
-   Respiratory, thoracic and mediastinal disorders     
-       Cough/productive cough  25               0.5              0                13               0                0                 
-       Epistaxis  22               0                0                1                0                0                 
-       Dyspnea/dyspnea exertional  20               2                0.5              7                0.5              0                 
-       Pneumonitis  c    17               3                0.5              0                0                0                 
-       Oropharyngeal pain  11               0                0                6                0                0                 
-   Skin and subcutaneous disorders     
-       Rash       59               0.5              0                19               0                0                 
-       Nail disorders  22               0.5              0                2                0                0                 
-       Pruritus/pruritus generalized  21               0                0                13               0                0                 
-       Dry skin/xeroderma  13               0                0                6                0                0                 
-   Vascular disorders     
-       Hypertension  13               1                0                6                1                0                 
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Stomatitis≠B-OSE_Labeled_AE   a    70               7                0                20               0                0                 
+        Diarrhea≠B-OSE_Labeled_AE   b    50               5                0.5              25               3                0                 
+        Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   36               4                0                32               6                1                 
+        Nausea≠B-OSE_Labeled_AE      32               2                0                33               2                0                 
+        Vomiting≠B-OSE_Labeled_AE    29               1                0                21               2                0                 
+        Constipation≠B-OSE_Labeled_AE   14               0                0                13               0.5              0                 
+        Dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE   11               0                0                4                0                0                 
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE      
+        Fatigue≠B-OSE_Labeled_AE / malaise≠B-OSE_Labeled_AE   45               3                0.5              27               2                0.5               
+        Edema≠B-OSE_Labeled_AE  (general and  peripheral≠I-OSE_Labeled_AE )  39               1                0.5              12               1                0                 
+        Fever≠B-OSE_Labeled_AE       31               0.5              0.5              13               0.5              0                 
+        Asthenia≠B-OSE_Labeled_AE    19               3                0                20               3                0                 
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE      
+         Nasopharyngitis≠B-OSE_Labeled_AE / rhinitis≠B-OSE_Labeled_AE / URI≠B-OSE_Labeled_AE   25               0                0                13               0                0                 
+        Urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE   16               0                0                6                0.5              0                 
+    Investigations≠B-NonOSE_AE      
+        Weight≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   28               0.5              0                11               0                0                 
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   nutrition≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE   30               1                0                18               1                0                 
+        Diabetes≠B-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE   10               2                0                0.5              0                0                 
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Arthralgia≠B-OSE_Labeled_AE   15               1                0.5              7                0.5              0                 
+        Back≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   15               1                0                11               1                0                 
+        Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE   14               0.5              0                6                1                0                 
+        Muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE   10               0                0                4                0                0                 
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Headache≠B-OSE_Labeled_AE / migraine≠B-OSE_Labeled_AE   30               0.5              0                15               1                0                 
+        Dysgeusia≠B-OSE_Labeled_AE   19               0                0                5                0                0                 
+        Dizziness≠B-OSE_Labeled_AE   12               0.5              0                7                0                0                 
+    Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Insomnia≠B-OSE_Labeled_AE    14               0                0                8                0                0                 
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Cough≠B-OSE_Labeled_AE / productive≠B-OSE_Labeled_AE   cough≠I-OSE_Labeled_AE   25               0.5              0                13               0                0                 
+        Epistaxis≠B-OSE_Labeled_AE   22               0                0                1                0                0                 
+        Dyspnea≠B-OSE_Labeled_AE / dyspnea≠B-OSE_Labeled_AE   exertional≠I-OSE_Labeled_AE   20               2                0.5              7                0.5              0                 
+        Pneumonitis≠B-OSE_Labeled_AE   c    17               3                0.5              0                0                0                 
+        Oropharyngeal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   11               0                0                6                0                0                 
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Rash≠B-OSE_Labeled_AE        59               0.5              0                19               0                0                 
+        Nail≠B-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE   22               0.5              0                2                0                0                 
+        Pruritus≠B-OSE_Labeled_AE / pruritus≠B-OSE_Labeled_AE   generalized≠I-OSE_Labeled_AE   21               0                0                13               0                0                 
+        Dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE / xeroderma≠B-OSE_Labeled_AE   13               0                0                6                0                0                 
+    Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Hypertension≠B-OSE_Labeled_AE   13               1                0                6                1                0                 
    Median duration of treatment (wks)      37               16              
-             In female patients aged 18 to 55 years, irregular menstruation occurred in 5 of 46 (11%) AFINITOR-treated females and none of the 33 females in the placebo group.
+             In female patients aged 18 to 55 years,  irregular≠B-OSE_Labeled_AE   menstruation≠I-OSE_Labeled_AE  occurred in 5 of 46 (11%) AFINITOR-treated females and none of the 33 females in the placebo group.
  
 
- Key observed laboratory abnormalities are presented in Table 5. 
+ Key observed  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  are presented in Table 5. 
 
  Table 5:  Key Laboratory Abnormalities Reported in >=10% of Patients with Advanced PNET  
  Grading according to CTCAE Version 3.0   
@@ -181,300 +181,300 @@
    Laboratory parameter      AFINITOR    N=204      Placebo    N=203     
                     All Grades       Grade 3-4        All Grades       Grade 3-4       
                     %                %                %                %               
-   Hematology                                                                          
-       Hemoglobin decreased  86               15               63               1                 
-       Lymphocytes decreased  45               16               22               4                 
-       Platelets decreased  45               3                11               0                 
-       WBC decreased  43               2                13               0                 
-       Neutrophils decreased  30               4                17               2                 
+    Hematology≠B-NonOSE_AE                                                                           
+        Hemoglobin≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   86               15               63               1                 
+        Lymphocytes≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   45               16               22               4                 
+        Platelets≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   45               3                11               0                 
+        WBC≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   43               2                13               0                 
+        Neutrophils≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   30               4                17               2                 
                                                                                        
-   Clinical    chemistry                                                                         
-        Alkaline phosphatase increased  74               8                66               8                 
-       Glucose (fasting) increased  75               17               53               6                 
-       Cholesterol increased  66               0.5              22               0                 
-       Bicarbonate decreased  56               0                40               0                 
-       Aspartate transaminase (AST) increased  56               4                41               4                 
-       Alanine transaminase (ALT) increased  48               2                35               2                 
-       Phosphate decreased  40               10               14               3                 
-       Triglycerides increased  39               0                10               0                 
-       Calcium decreased  37               0.5              12               0                 
-       Potassium decreased  23               4                5                0                 
-       Creatinine increased  19               2                14               0                 
-       Sodium decreased  16               1                16               1                 
-       Albumin decreased  13               1                8                0                 
-       Bilirubin increased  10               1                14               2                 
-       Potassium increased  7                0                10               0.5               
+    Clinical≠B-NonOSE_AE      chemistry≠I-NonOSE_AE                                                                          
+         Alkaline≠B-OSE_Labeled_AE   phosphatase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   74               8                66               8                 
+        Glucose≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  fasting≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   75               17               53               6                 
+        Cholesterol≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   66               0.5              22               0                 
+        Bicarbonate≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   56               0                40               0                 
+        Aspartate≠B-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  AST≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   56               4                41               4                 
+        Alanine≠B-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  ALT≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   48               2                35               2                 
+        Phosphate≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   40               10               14               3                 
+        Triglycerides≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   39               0                10               0                 
+        Calcium≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   37               0.5              12               0                 
+        Potassium≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   23               4                5                0                 
+        Creatinine≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   19               2                14               0                 
+        Sodium≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   16               1                16               1                 
+        Albumin≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   13               1                8                0                 
+        Bilirubin≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   10               1                14               2                 
+        Potassium≠B-NonOSE_AE   increased≠I-NonOSE_AE   7                0                10               0.5               
              Unresectable, Locally Advanced or Metastatic, Well-Differentiated, Non-Functional Neuroendocrine Tumors of Gastrointestinal or Lung Origin  
  
 
- In a randomized, controlled trial (RADIANT-4) of AFINITOR (n=202 treated) versus placebo (n=98 treated) in patients with advanced non-functional NET of GI or lung origin, the median age of patients was 63 years (range 22-86), 76% were White, and 53% were female. The median duration of exposure to AFINITOR was 9.3 months; 64% of patients were treated for >= 6 months and 39% were treated for >= 12 months. AFINITOR was discontinued for adverse reactions in 29% of patients, dose reduction or delay was required in 70% of AFINITOR-treated patients.
+ In a randomized, controlled trial (RADIANT-4) of AFINITOR (n=202 treated) versus placebo (n=98 treated) in patients with  advanced≠B-Not_AE_Candidate   non≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  functional≠I-Not_AE_Candidate   NET≠I-Not_AE_Candidate  of GI or lung origin, the median age of patients was 63 years (range 22-86), 76% were White, and 53% were female. The median duration of exposure to AFINITOR was 9.3 months; 64% of patients were treated for >= 6 months and 39% were treated for >= 12 months. AFINITOR was discontinued for adverse reactions in 29% of patients, dose reduction or delay was required in 70% of AFINITOR-treated patients.
 
- Serious adverse reactions occurred in 42% of AFINITOR-treated patients and included 3 fatal events (cardiac failure, respiratory failure, and septic shock).
+ Serious adverse reactions occurred in 42% of AFINITOR-treated patients and included 3  fatal≠B-NonOSE_AE  events ( cardiac≠B-NonOSE_AE   failure≠I-NonOSE_AE ,  respiratory≠B-NonOSE_AE   failure≠I-NonOSE_AE , and  septic≠B-NonOSE_AE   shock≠I-NonOSE_AE ).
 
  Table 6 and Table 7 summarize the incidence of adverse reactions of AFINITOR occurring at an incidence of >=10% and at >=5% absolute incidence over placebo (all Grades) or >=2% higher incidence over placebo (Grade 3 and 4).
 
  Table 6: Adverse Reactions in >=10% of AFINITOR-Treated Patients with Non-Functional NET of Gastrointestinal or Lung Origin 
-     Grading according to NCI CTCAE Version 4.03  a  Includes stomatitis, mouth ulceration, aphthous stomatitis, gingival pain, glossitis, tongue ulceration and mucosal inflammation.  b  Urinary tract infection, nasopharyngitis, upper respiratory tract infection, lower respiratory tract infection (pneumonia, bronchitis), abscess, pyelonephritis, septic shock and viral myocarditis.  c  Includes pneumonitis and interstitial lung disease.   
+     Grading according to NCI CTCAE Version 4.03  a  Includes  stomatitis≠B-OSE_Labeled_AE ,  mouth≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE ,  aphthous≠B-OSE_Labeled_AE   stomatitis≠I-OSE_Labeled_AE ,  gingival≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  glossitis≠B-OSE_Labeled_AE ,  tongue≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE  and  mucosal≠B-OSE_Labeled_AE   inflammation≠I-OSE_Labeled_AE .  b   Urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  nasopharyngitis≠B-OSE_Labeled_AE ,  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  lower≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  ( pneumonia≠B-OSE_Labeled_AE ,  bronchitis≠B-OSE_Labeled_AE ),  abscess≠B-OSE_Labeled_AE ,  pyelonephritis≠B-OSE_Labeled_AE ,  septic≠B-OSE_Labeled_AE   shock≠I-OSE_Labeled_AE  and  viral≠B-OSE_Labeled_AE   myocarditis≠I-OSE_Labeled_AE .  c  Includes  pneumonitis≠B-OSE_Labeled_AE  and  interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE .   
   
                     AFINITOR    N=202      Placebo    N=98     
                     All Grades       Grade 3          Grade 4          All Grades       Grade 3          Grade 4         
                     %                %                %                %                %                %               
    Any adverse reaction      99               57               12               89               21               7               
-   Gastrointestinal disorders     
-       Stomatitis  a    63               9                0                22               0                0                 
-       Diarrhea   41               8                1                31               2                0                 
-       Nausea     26               3                1                17               1                0                 
-       Vomiting   15               4                0                12               2                0                 
-   General disorders and administration site conditions     
-       Peripheral edema  39               3                0                6                1                0                 
-       Fatigue    37               4                1                36               1                0                 
-       Asthenia   23               2                1                8                0                0                 
-       Pyrexia    23               1                1                8                0                0                 
-   Infections      
-       Infections  b    58               8                3                29               1                1                 
-   Investigations     
-       Decreased weight  22               1                0                17               1                0                 
-   Metabolism and nutrition disorders     
-       Decreased appetite  22               1                0                17               1                0                 
-   Nervous system disorders     
-       Dysgeusia  18               1                0                4                0                0                 
-   Respiratory, thoracic and mediastinal disorders     
-       Cough      27               0                0                20               0                0                 
-       Dyspnea    20               3                0                11               1                1                 
-       Pneumonitis  c    16               2                0                2                0                0                 
-       Epistaxis  13               1                0                3                0                0                 
-   Skin and subcutaneous disorders     
-       Rash       30               1                0                9                0                0                 
-       Pruritus   17               1                0                9                0                0                 
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Stomatitis≠B-OSE_Labeled_AE   a    63               9                0                22               0                0                 
+        Diarrhea≠B-OSE_Labeled_AE    41               8                1                31               2                0                 
+        Nausea≠B-OSE_Labeled_AE      26               3                1                17               1                0                 
+        Vomiting≠B-OSE_Labeled_AE    15               4                0                12               2                0                 
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE      
+        Peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE   39               3                0                6                1                0                 
+        Fatigue≠B-OSE_Labeled_AE     37               4                1                36               1                0                 
+        Asthenia≠B-OSE_Labeled_AE    23               2                1                8                0                0                 
+        Pyrexia≠B-OSE_Labeled_AE     23               1                1                8                0                0                 
+    Infections≠B-NonOSE_AE       
+        Infections≠B-OSE_Labeled_AE   b    58               8                3                29               1                1                 
+    Investigations≠B-NonOSE_AE      
+        Decreased≠B-OSE_Labeled_AE   weight≠I-OSE_Labeled_AE   22               1                0                17               1                0                 
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   nutrition≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE   22               1                0                17               1                0                 
+    Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Dysgeusia≠B-OSE_Labeled_AE   18               1                0                4                0                0                 
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Cough≠B-OSE_Labeled_AE       27               0                0                20               0                0                 
+        Dyspnea≠B-OSE_Labeled_AE     20               3                0                11               1                1                 
+        Pneumonitis≠B-OSE_Labeled_AE   c    16               2                0                2                0                0                 
+        Epistaxis≠B-OSE_Labeled_AE   13               1                0                3                0                0                 
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   disorders≠I-NonOSE_AE      
+        Rash≠B-OSE_Labeled_AE        30               1                0                9                0                0                 
+        Pruritus≠B-OSE_Labeled_AE    17               1                0                9                0                0                 
             Table 7: Laboratory Abnormalities in >=10% of AFINITOR-Treated Patients with Non-Functional NET of Gastrointestinal or Lung Origin 
      Grading according to NCI CTCAE Version 4.03   
   
                     AFINITOR    N=202      Placebo    N=98     
                     All Grades       Grade 3          Grade 4          All Grades       Grade 3          Grade 4         
                     %                %                %                %                %                %               
-   Hematology      
-       Anemia     81               5                0                41               2                0                 
-       Lymphopenia  66               15               2                32               2                0                 
-       Leukopenia  49               2                0                17               0                0                 
-       Thrombocytopenia  33               2                1                11               0                0                 
-       Neutropenia  32               2                0                15               3                0                 
-   Clinical chemistry     
-       Hypercholesterolemia  71               0                0                37               0                0                 
-       Elevated Aspartate transaminase (AST)  57               1                1                34               2                0                 
-       Hyperglycemia (fasting)  55               6                0                36               1                0                 
-       Elevated Alanine transaminase (ALT)  46               5                1                39               1                0                 
-       Hypophosphatemia  43               4                0                15               2                0                 
-       Hypertriglyceridemia  30               3                1                8                1                0                 
-       Hypokalemia  27               4                2                12               3                0                 
-       Hypoalbuminemia  18               0                0                8                0                0                 
+    Hematology≠B-NonOSE_AE       
+        Anemia≠B-OSE_Labeled_AE      81               5                0                41               2                0                 
+        Lymphopenia≠B-OSE_Labeled_AE   66               15               2                32               2                0                 
+        Leukopenia≠B-OSE_Labeled_AE   49               2                0                17               0                0                 
+        Thrombocytopenia≠B-OSE_Labeled_AE   33               2                1                11               0                0                 
+        Neutropenia≠B-OSE_Labeled_AE   32               2                0                15               3                0                 
+    Clinical≠B-NonOSE_AE   chemistry≠I-NonOSE_AE      
+        Hypercholesterolemia≠B-OSE_Labeled_AE   71               0                0                37               0                0                 
+        Elevated≠B-OSE_Labeled_AE   Aspartate≠I-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  AST≠I-OSE_Labeled_AE )  57               1                1                34               2                0                 
+        Hyperglycemia≠B-OSE_Labeled_AE  (fasting)  55               6                0                36               1                0                 
+        Elevated≠B-OSE_Labeled_AE   Alanine≠I-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  ALT≠I-OSE_Labeled_AE )  46               5                1                39               1                0                 
+        Hypophosphatemia≠B-OSE_Labeled_AE   43               4                0                15               2                0                 
+        Hypertriglyceridemia≠B-OSE_Labeled_AE   30               3                1                8                1                0                 
+        Hypokalemia≠B-OSE_Labeled_AE   27               4                2                12               3                0                 
+        Hypoalbuminemia≠B-OSE_Labeled_AE   18               0                0                8                0                0                 
                6.3     Clinical Study Experience in Advanced Renal Cell Carcinoma
-   The data described below reflect exposure to AFINITOR (n=274) and placebo (n=137) in a randomized, controlled trial (RECORD-1) in patients with metastatic renal cell carcinoma who received prior treatment with sunitinib and/or sorafenib. The median age of patients was 61 years (range 27-85), 88% were Caucasian, and 78% were male. The median duration of blinded study treatment was 141 days (range 19-451 days) for patients receiving AFINITOR and 60 days (range 21-295 days) for those receiving placebo.
+   The data described below reflect exposure to AFINITOR (n=274) and placebo (n=137) in a randomized, controlled trial (RECORD-1) in patients with  metastatic≠B-Not_AE_Candidate   renal≠I-Not_AE_Candidate   cell≠I-Not_AE_Candidate   carcinoma≠I-Not_AE_Candidate  who received prior treatment with sunitinib and/or sorafenib. The median age of patients was 61 years (range 27-85), 88% were Caucasian, and 78% were male. The median duration of blinded study treatment was 141 days (range 19-451 days) for patients receiving AFINITOR and 60 days (range 21-295 days) for those receiving placebo.
 
- The most common adverse reactions (incidence >=30%) were stomatitis, infections, asthenia, fatigue, cough, and diarrhea. The most common Grade 3-4 adverse reactions (incidence >=3%) were infections, dyspnea, fatigue, stomatitis, dehydration, pneumonitis, abdominal pain, and asthenia. The most common laboratory abnormalities (incidence >=50%) were anemia, hypercholesterolemia, hypertriglyceridemia, hyperglycemia, lymphopenia, and increased creatinine. The most common Grade 3-4 laboratory abnormalities (incidence >=3%) were lymphopenia, hyperglycemia, anemia, hypophosphatemia, and hypercholesterolemia. Deaths due to acute respiratory failure (0.7%), infection (0.7%), and acute renal failure (0.4%) were observed on the AFINITOR arm but none on the placebo arm. The rates of treatment-emergent adverse events (irrespective of causality) resulting in permanent discontinuation were 14% and 3% for the AFINITOR and placebo treatment groups, respectively. The most common adverse reactions (irrespective of causality) leading to treatment discontinuation were pneumonitis and dyspnea. Infections, stomatitis, and pneumonitis were the most common reasons for treatment delay or dose reduction. The most common medical interventions required during AFINITOR treatment were for infections, anemia, and stomatitis.
+ The most common adverse reactions (incidence >=30%) were  stomatitis≠B-OSE_Labeled_AE ,  infections≠B-OSE_Labeled_AE ,  asthenia≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE ,  cough≠B-OSE_Labeled_AE , and  diarrhea≠B-OSE_Labeled_AE . The most common Grade 3-4 adverse reactions (incidence >=3%) were  infections≠B-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE ,  fatigue≠B-OSE_Labeled_AE ,  stomatitis≠B-OSE_Labeled_AE ,  dehydration≠B-OSE_Labeled_AE ,  pneumonitis≠B-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE , and  asthenia≠B-OSE_Labeled_AE . The most common  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  (incidence >=50%) were  anemia≠B-OSE_Labeled_AE ,  hypercholesterolemia≠B-OSE_Labeled_AE ,  hypertriglyceridemia≠B-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  lymphopenia≠B-OSE_Labeled_AE , and  increased≠B-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE . The most common Grade 3-4  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  (incidence >=3%) were  lymphopenia≠B-OSE_Labeled_AE ,  hyperglycemia≠B-OSE_Labeled_AE ,  anemia≠B-OSE_Labeled_AE ,  hypophosphatemia≠B-OSE_Labeled_AE , and  hypercholesterolemia≠B-OSE_Labeled_AE .  Deaths≠B-NonOSE_AE  due to  acute≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  (0.7%),  infection≠B-OSE_Labeled_AE  (0.7%), and  acute≠B-OSE_Labeled_AE   renal≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  (0.4%) were observed on the AFINITOR arm but none on the placebo arm. The rates of treatment-emergent adverse events (irrespective of causality) resulting in permanent discontinuation were 14% and 3% for the AFINITOR and placebo treatment groups, respectively. The most common adverse reactions (irrespective of causality) leading to treatment discontinuation were  pneumonitis≠B-OSE_Labeled_AE  and  dyspnea≠B-OSE_Labeled_AE .  Infections≠B-OSE_Labeled_AE ,  stomatitis≠B-OSE_Labeled_AE , and  pneumonitis≠B-OSE_Labeled_AE  were the most common reasons for treatment delay or dose reduction. The most common medical interventions required during AFINITOR treatment were for  infections≠B-OSE_Labeled_AE ,  anemia≠B-OSE_Labeled_AE , and  stomatitis≠B-OSE_Labeled_AE .
 
  Table 8 compares the incidence of treatment-emergent adverse reactions reported with an incidence of >=10% for patients receiving AFINITOR 10 mg daily versus placebo. Within each MedDRA system organ class, the adverse reactions are presented in order of decreasing frequency.
 
  Table 8: Adverse Reactions Reported in at Least 10% of Patients with RCC and at a Higher Rate in the AFINITOR Arm than in the Placebo Arm 
- Grading according to CTCAE Version 3.0  a  Stomatitis (including aphthous stomatitis), and mouth and tongue ulceration.  b  Includes all preferred terms within the 'infections and infestations' system organ class, the most common being nasopharyngitis (6%), pneumonia (6%), urinary tract infection (5%), bronchitis (4%), and sinusitis (3%), and also including aspergillosis (<1%), candidiasis (<1%), and sepsis (<1%).  c  Includes pneumonitis, interstitial lung disease, lung infiltration, pulmonary alveolar hemorrhage, pulmonary toxicity, and alveolitis.   
+ Grading according to CTCAE Version 3.0  a   Stomatitis≠B-OSE_Labeled_AE  (including  aphthous≠B-OSE_Labeled_AE   stomatitis≠I-OSE_Labeled_AE ), and  mouth≠B-OSE_Labeled_AE  and tongue  ulceration≠I-OSE_Labeled_AE .  b  Includes all preferred terms within the  '≠B-NonOSE_AE  infections≠I-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE  '≠I-NonOSE_AE  system organ class, the most common being  nasopharyngitis≠B-OSE_Labeled_AE  (6%),  pneumonia≠B-OSE_Labeled_AE  (6%),  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  (5%),  bronchitis≠B-OSE_Labeled_AE  (4%), and  sinusitis≠B-OSE_Labeled_AE  (3%), and also including  aspergillosis≠B-OSE_Labeled_AE  (<1%),  candidiasis≠B-OSE_Labeled_AE  (<1%), and  sepsis≠B-OSE_Labeled_AE  (<1%).  c  Includes  pneumonitis≠B-OSE_Labeled_AE ,  interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE ,  lung≠B-OSE_Labeled_AE   infiltration≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   alveolar≠I-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE ,  pulmonary≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE , and  alveolitis≠B-OSE_Labeled_AE .   
   
                     AFINITOR    10 mg/day    N=274      Placebo    N=137     
                     All Grades       Grade 3          Grade 4          All Grades       Grade 3          Grade 4         
                     %                %                %                %                %                %               
    Any    a    dverse    r    eaction    97               52               13               93               23               5                 
-   Gastrointestinal    d    isorders     
-       Stomatitis  a    44               4                <1               8                0                0                 
-       Diarrhea   30               1                0                7                0                0                 
-       Nausea     26               1                0                19               0                0                 
-       Vomiting   20               2                0                12               0                0                 
-   Infections and    i    nfestations      b      37               7                3                18               1                0                 
-   General    d    isorders and    a    dministration    s    ite    c    onditions     
-       Asthenia   33               3                <1               23               4                0                 
-       Fatigue    31               5                0                27               3                <1                
-       Edema peripheral  25               <1               0                8                <1               0                 
-       Pyrexia    20               <1               0                9                0                0                 
-       Mucosal inflammation  19               1                0                1                0                0                 
-   Respiratory,    t    horacic and    m    ediastinal    d    isorders     
-       Cough      30               <1               0                16               0                0                 
-       Dyspnea    24               6                1                15               3                0                 
-       Epistaxis  18               0                0                0                0                0                 
-       Pneumonitis  c    14               4                0                0                0                0                 
-   Skin and    s    ubcutaneous    t    issue    d    isorders     
-       Rash       29               1                0                7                0                0                 
-       Pruritus   14               <1               0                7                0                0                 
-       Dry skin   13               <1               0                5                0                0                 
-   Metabolism and    n    utrition    d    isorders     
-       Anorexia   25               1                0                14               <1               0                 
-   Nervous    s    ystem    d    isorders     
-       Headache   19               <1               <1               9                <1               0                 
-       Dysgeusia  10               0                0                2                0                0                 
-   Musculoskeletal and    c    onnective    t    issue    d    isorders     
-       Pain in extremity  10               1                0                7                0                0                 
+    Gastrointestinal≠B-NonOSE_AE      d≠I-NonOSE_AE      isorders≠I-NonOSE_AE      
+        Stomatitis≠B-OSE_Labeled_AE   a    44               4                <1               8                0                0                 
+        Diarrhea≠B-OSE_Labeled_AE    30               1                0                7                0                0                 
+        Nausea≠B-OSE_Labeled_AE      26               1                0                19               0                0                 
+        Vomiting≠B-OSE_Labeled_AE    20               2                0                12               0                0                 
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE      i≠I-NonOSE_AE      nfestations≠I-NonOSE_AE       b      37               7                3                18               1                0                 
+    General≠B-NonOSE_AE      d≠I-NonOSE_AE      isorders≠I-NonOSE_AE   and≠I-NonOSE_AE      a≠I-NonOSE_AE      dministration≠I-NonOSE_AE      s≠I-NonOSE_AE      ite≠I-NonOSE_AE      c≠I-NonOSE_AE      onditions≠I-NonOSE_AE      
+        Asthenia≠B-OSE_Labeled_AE    33               3                <1               23               4                0                 
+        Fatigue≠B-OSE_Labeled_AE     31               5                0                27               3                <1                
+        Edema≠B-OSE_Labeled_AE   peripheral≠I-OSE_Labeled_AE   25               <1               0                8                <1               0                 
+        Pyrexia≠B-OSE_Labeled_AE     20               <1               0                9                0                0                 
+        Mucosal≠B-OSE_Labeled_AE   inflammation≠I-OSE_Labeled_AE   19               1                0                1                0                0                 
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE      t≠I-NonOSE_AE      horacic≠I-NonOSE_AE   and≠I-NonOSE_AE      m≠I-NonOSE_AE      ediastinal≠I-NonOSE_AE      d≠I-NonOSE_AE      isorders≠I-NonOSE_AE      
+        Cough≠B-OSE_Labeled_AE       30               <1               0                16               0                0                 
+        Dyspnea≠B-OSE_Labeled_AE     24               6                1                15               3                0                 
+        Epistaxis≠B-OSE_Labeled_AE   18               0                0                0                0                0                 
+        Pneumonitis≠B-OSE_Labeled_AE   c    14               4                0                0                0                0                 
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE      s≠I-NonOSE_AE      ubcutaneous≠I-NonOSE_AE      t≠I-NonOSE_AE      issue≠I-NonOSE_AE      d≠I-NonOSE_AE      isorders≠I-NonOSE_AE      
+        Rash≠B-OSE_Labeled_AE        29               1                0                7                0                0                 
+        Pruritus≠B-OSE_Labeled_AE    14               <1               0                7                0                0                 
+        Dry≠B-OSE_Labeled_AE   skin≠I-OSE_Labeled_AE    13               <1               0                5                0                0                 
+    Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE      n≠I-NonOSE_AE      utrition≠I-NonOSE_AE      d≠I-NonOSE_AE      isorders≠I-NonOSE_AE      
+        Anorexia≠B-OSE_Labeled_AE    25               1                0                14               <1               0                 
+    Nervous≠B-NonOSE_AE      s≠I-NonOSE_AE      ystem≠I-NonOSE_AE      d≠I-NonOSE_AE      isorders≠I-NonOSE_AE      
+        Headache≠B-OSE_Labeled_AE    19               <1               <1               9                <1               0                 
+        Dysgeusia≠B-OSE_Labeled_AE   10               0                0                2                0                0                 
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE      c≠I-NonOSE_AE      onnective≠I-NonOSE_AE      t≠I-NonOSE_AE      issue≠I-NonOSE_AE      d≠I-NonOSE_AE      isorders≠I-NonOSE_AE      
+        Pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE   10               1                0                7                0                0                 
    Medi    an    d    uration of    t    reatment (d)      141              60              
              Other notable adverse reactions occurring more frequently with AFINITOR than with placebo, but with an incidence of <10% include:
  
 
-       Gastrointestinal disorders: Abdominal pain (9%), dry mouth (8%), hemorrhoids (5%), dysphagia (4%)
+        Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  Abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (9%),  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE  (8%),  hemorrhoids≠B-OSE_Labeled_AE  (5%),  dysphagia≠B-OSE_Labeled_AE  (4%)
 
-       General disorders and administration site conditions: Weight decreased (9%), chest pain (5%), chills (4%), impaired wound healing (<1%)
+        General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE :  Weight≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE  (9%),  chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (5%),  chills≠B-OSE_Labeled_AE  (4%),  impaired≠B-OSE_Labeled_AE   wound≠I-OSE_Labeled_AE   healing≠I-OSE_Labeled_AE  (<1%)
 
-       Respiratory, thoracic and mediastinal disorders: Pleural effusion (7%), pharyngolaryngeal pain (4%), rhinorrhea (3%)
+        Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  Pleural≠B-OSE_Labeled_AE   effusion≠I-OSE_Labeled_AE  (7%),  pharyngolaryngeal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (4%),  rhinorrhea≠B-OSE_Labeled_AE  (3%)
 
-       Skin and subcutaneous tissue disorders: Hand-foot syndrome (reported as palmar-plantar erythrodysesthesia syndrome) (5%), nail disorder (5%), erythema (4%), onychoclasis (4%), skin lesion (4%), acneiform dermatitis (3%), angioedema (<1%)
+        Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  Hand≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  foot≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  (reported as  palmar≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  plantar≠I-OSE_Labeled_AE   erythrodysesthesia≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ) (5%),  nail≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE  (5%),  erythema≠B-OSE_Labeled_AE  (4%),  onychoclasis≠B-OSE_Labeled_AE  (4%),  skin≠B-OSE_Labeled_AE   lesion≠I-OSE_Labeled_AE  (4%),  acneiform≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE  (3%),  angioedema≠B-OSE_Labeled_AE  (<1%)
 
-       Metabolism and nutrition disorders: Exacerbation of pre-existing diabetes mellitus (2%), new onset of diabetes mellitus (<1%)
+        Metabolism≠B-NonOSE_AE   and≠I-NonOSE_AE   nutrition≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  Exacerbation≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   pre≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  existing≠I-OSE_Labeled_AE   diabetes≠I-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE  (2%),  new≠B-OSE_Labeled_AE   onset≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   diabetes≠I-OSE_Labeled_AE   mellitus≠I-OSE_Labeled_AE  (<1%)
 
-       Psychiatric disorders: Insomnia (9%)
+        Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  Insomnia≠B-OSE_Labeled_AE  (9%)
 
-       Nervous system disorders: Dizziness (7%), paresthesia (5%)
+        Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  Dizziness≠B-OSE_Labeled_AE  (7%),  paresthesia≠B-OSE_Labeled_AE  (5%)
 
-       Eye disorders: Eyelid edema (4%), conjunctivitis (2%)
+        Eye≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  Eyelid≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE  (4%),  conjunctivitis≠B-OSE_Labeled_AE  (2%)
 
-       Vascular disorders: Hypertension (4%), deep vein thrombosis (< 1%)
+        Vascular≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  Hypertension≠B-OSE_Labeled_AE  (4%),  deep≠B-OSE_Labeled_AE   vein≠I-OSE_Labeled_AE   thrombosis≠I-OSE_Labeled_AE  (< 1%)
 
-       Renal and urinary disorders: Renal failure (3%)
+        Renal≠B-NonOSE_AE   and≠I-NonOSE_AE   urinary≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  Renal≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  (3%)
 
-       Cardiac disorders: Tachycardia (3%), congestive cardiac failure (1%)
+        Cardiac≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  Tachycardia≠B-OSE_Labeled_AE  (3%),  congestive≠B-OSE_Labeled_AE   cardiac≠I-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  (1%)
 
-       Musculoskeletal and connective tissue disorders: Jaw pain (3%)
+        Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE :  Jaw≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (3%)
 
-       Hematologic disorders: Hemorrhage (3%)
+        Hematologic≠B-NonOSE_AE   disorders≠I-NonOSE_AE :  Hemorrhage≠B-OSE_Labeled_AE  (3%)
 
- Key laboratory abnormalities are presented in Table 9.
+ Key  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  are presented in Table 9.
 
  Table 9: Key Laboratory Abnormalities Reported in Patients with RCC at a Higher Rate in the AFINITOR Arm than the Placebo Arm 
- Grading according to CTCAE Version 3.0  a  Reflects corresponding adverse drug reaction reports of anemia, leukopenia, lymphopenia, neutropenia, and thrombocytopenia (collectively pancytopenia), which occurred at lower frequency.   
+ Grading according to CTCAE Version 3.0  a  Reflects corresponding adverse drug reaction reports of  anemia≠B-OSE_Labeled_AE ,  leukopenia≠B-OSE_Labeled_AE ,  lymphopenia≠B-OSE_Labeled_AE ,  neutropenia≠B-OSE_Labeled_AE , and  thrombocytopenia≠B-OSE_Labeled_AE  (collectively  pancytopenia≠B-OSE_Labeled_AE ), which occurred at lower frequency.   
   
    Laboratory    p    arameter      AFINITOR    10 mg/day    N=274      Placebo    N=137     
                     All Grades       Grade 3          Grade 4          All Grades       Grade 3          Grade 4         
                     %                %                %                %                %                %               
-   Hematology      a                                                                                                             
-       Hemoglobin decreased  92               12               1                79               5                <1                
-       Lymphocytes decreased  51               16               2                28               5                0                 
-       Platelets decreased  23               1                0                2                0                <1                
-       Neutrophils decreased  14               0                <1               4                0                0                 
-   Clinical    c    hemistry                                                                                                           
-       Cholesterol increased  77               4                0                35               0                0                 
-       Triglycerides increased  73               <1               0                34               0                0                 
-       Glucose increased  57               15               <1               25               1                0                 
-       Creatinine increased  50               1                0                34               0                0                 
-       Phosphate decreased  37               6                0                8                0                0                 
-       Aspartate transaminase (AST) increased  25               <1               <1               7                0                0                 
-       Alanine transaminase (ALT) increased  21               1                0                4                0                0                 
-       Bilirubin increased  3                <1               <1               2                0                0                 
+    Hematology≠B-NonOSE_AE       a                                                                                                             
+        Hemoglobin≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   92               12               1                79               5                <1                
+        Lymphocytes≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   51               16               2                28               5                0                 
+        Platelets≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   23               1                0                2                0                <1                
+        Neutrophils≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   14               0                <1               4                0                0                 
+    Clinical≠B-NonOSE_AE      c≠I-NonOSE_AE      hemistry≠I-NonOSE_AE                                                                                                            
+        Cholesterol≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   77               4                0                35               0                0                 
+        Triglycerides≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   73               <1               0                34               0                0                 
+        Glucose≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   57               15               <1               25               1                0                 
+        Creatinine≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   50               1                0                34               0                0                 
+        Phosphate≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE   37               6                0                8                0                0                 
+        Aspartate≠B-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  AST≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   25               <1               <1               7                0                0                 
+        Alanine≠B-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  ALT≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   21               1                0                4                0                0                 
+        Bilirubin≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   3                <1               <1               2                0                0                 
                6.4     Clinical Study Experience in Renal Angiomyolipoma with Tuberous Sclerosis Complex
-   The data described below are based on a randomized (2:1), double-blind, placebo-controlled trial (EXIST-2) of AFINITOR in 118 patients with renal angiomyolipoma as a feature of TSC (n=113) or sporadic lymphangioleiomyomatosis (n=5). The median age of patients was 31 years (range 18 to 61 years), 89% were Caucasian, and 34% were male. The median duration of blinded study treatment was 48 weeks (range 2 to 115 weeks) for patients receiving AFINITOR and 45 weeks (range 9 to 115 weeks) for those receiving placebo.
+   The data described below are based on a randomized (2:1), double-blind, placebo-controlled trial (EXIST-2) of AFINITOR in 118 patients with  renal≠B-Not_AE_Candidate   angiomyolipoma≠I-Not_AE_Candidate   as≠I-Not_AE_Candidate   a≠I-Not_AE_Candidate   feature≠I-Not_AE_Candidate   of≠I-Not_AE_Candidate   TSC≠I-Not_AE_Candidate  (n=113) or  sporadic≠B-Not_AE_Candidate   lymphangioleiomyomatosis≠I-Not_AE_Candidate  (n=5). The median age of patients was 31 years (range 18 to 61 years), 89% were Caucasian, and 34% were male. The median duration of blinded study treatment was 48 weeks (range 2 to 115 weeks) for patients receiving AFINITOR and 45 weeks (range 9 to 115 weeks) for those receiving placebo.
 
- The most common adverse reaction reported for AFINITOR (incidence >=30%) was stomatitis. The most common Grade 3-4 adverse reactions (incidence >=2%) were stomatitis and amenorrhea. The most common laboratory abnormalities (incidence >=50%) were hypercholesterolemia, hypertriglyceridemia, and anemia. The most common Grade 3-4 laboratory abnormality (incidence >=3%) was hypophosphatemia.
+ The most common adverse reaction reported for AFINITOR (incidence >=30%) was  stomatitis≠B-OSE_Labeled_AE . The most common Grade 3-4 adverse reactions (incidence >=2%) were  stomatitis≠B-OSE_Labeled_AE  and  amenorrhea≠B-OSE_Labeled_AE . The most common  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  (incidence >=50%) were  hypercholesterolemia≠B-OSE_Labeled_AE ,  hypertriglyceridemia≠B-OSE_Labeled_AE , and  anemia≠B-OSE_Labeled_AE . The most common Grade 3-4  laboratory≠B-NonOSE_AE   abnormality≠I-NonOSE_AE  (incidence >=3%) was  hypophosphatemia≠B-OSE_Labeled_AE .
 
- The rate of adverse reactions resulting in permanent discontinuation was 3.8% in the AFINITOR-treated patients. Adverse reactions leading to permanent discontinuation in the AFINITOR arm were hypersensitivity/angioedema/bronchospasm, convulsion, and hypophosphatemia. Dose adjustments (interruptions or reductions) due to adverse reactions occurred in 52% of AFINITOR-treated patients. The most common adverse reaction leading to AFINITOR dose adjustment was stomatitis.
+ The rate of adverse reactions resulting in permanent discontinuation was 3.8% in the AFINITOR-treated patients. Adverse reactions leading to permanent discontinuation in the AFINITOR arm were  hypersensitivity≠B-OSE_Labeled_AE / angioedema≠B-OSE_Labeled_AE / bronchospasm≠B-OSE_Labeled_AE ,  convulsion≠B-OSE_Labeled_AE , and  hypophosphatemia≠B-OSE_Labeled_AE . Dose adjustments (interruptions or reductions) due to adverse reactions occurred in 52% of AFINITOR-treated patients. The most common adverse reaction leading to AFINITOR dose adjustment was  stomatitis≠B-OSE_Labeled_AE .
 
- Table 10 compares the incidence of adverse reactions reported with an incidence of >=10% for patients receiving AFINITOR and occurring more frequently with AFINITOR than with placebo. Laboratory abnormalities are described separately in Table 11.
+ Table 10 compares the incidence of adverse reactions reported with an incidence of >=10% for patients receiving AFINITOR and occurring more frequently with AFINITOR than with placebo.  Laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  are described separately in Table 11.
 
  Table 10: Adverse Reactions Reported in >=10% of AFINITOR-treated Patients with Renal Angiomyolipoma 
- Grading according to CTCAE Version 3.0  a  Includes stomatitis, aphthous stomatitis, mouth ulceration, gingival pain, glossitis, and glossodynia.   
+ Grading according to CTCAE Version 3.0  a  Includes  stomatitis≠B-OSE_Labeled_AE ,  aphthous≠B-OSE_Labeled_AE   stomatitis≠I-OSE_Labeled_AE ,  mouth≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE ,  gingival≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  glossitis≠B-OSE_Labeled_AE , and  glossodynia≠B-OSE_Labeled_AE .   
   
                     AFINITOR         N=79      Placebo         N=39     
                     All Grades    %      Grade 3    %      Grade 4    %      All Grades    %      Grade 3    %      Grade 4    %     
    Any adverse reaction      100              25               5                97               8                5               
-   Gastrointestinal disorders                                                                                                           
-       Stomatitis  a    78               6                0                23               0                0                 
-       Vomiting   15               0                0                5                0                0                 
-       Diarrhea   14               0                0                5                0                0                 
-   General disorders and administration site conditions                                                                                                           
-       Peripheral edema  13               0                0                8                0                0                 
-   Infections and infestations                                                                                                           
-       Upper respiratory tract infection  11               0                0                5                0                0                 
-   Musculoskeletal and connective tissue disorders                                                                                                           
-       Arthralgia  13               0                0                5                0                0                 
-   Respiratory, thoracic and mediastinal disorders                                                                                                           
-       Cough      20               0                0                13               0                0                 
-   Skin and subcutaneous tissue disorders                                                                                                           
-       Acne       22               0                0                5                0                0                 
-             Amenorrhea occurred in 15% of AFINITOR-treated females (8 of 52) and 4% (1 of 26) of females in the placebo group. Other adverse reactions involving the female reproductive system were menorrhagia (10%), menstrual irregularities (10%), and vaginal hemorrhage (8%).
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                                            
+        Stomatitis≠B-OSE_Labeled_AE   a    78               6                0                23               0                0                 
+        Vomiting≠B-OSE_Labeled_AE    15               0                0                5                0                0                 
+        Diarrhea≠B-OSE_Labeled_AE    14               0                0                5                0                0                 
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE                                                                                                            
+        Peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE   13               0                0                8                0                0                 
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE                                                                                                            
+        Upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE   11               0                0                5                0                0                 
+    Musculoskeletal≠B-NonOSE_AE   and≠I-NonOSE_AE   connective≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                                            
+        Arthralgia≠B-OSE_Labeled_AE   13               0                0                5                0                0                 
+    Respiratory≠B-NonOSE_AE  ,≠I-NonOSE_AE   thoracic≠I-NonOSE_AE   and≠I-NonOSE_AE   mediastinal≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                                            
+        Cough≠B-OSE_Labeled_AE       20               0                0                13               0                0                 
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                                            
+        Acne≠B-OSE_Labeled_AE        22               0                0                5                0                0                 
+              Amenorrhea≠B-OSE_Labeled_AE  occurred in 15% of AFINITOR-treated females (8 of 52) and 4% (1 of 26) of females in the placebo group. Other adverse reactions involving the female reproductive system were  menorrhagia≠B-OSE_Labeled_AE  (10%),  menstrual≠B-OSE_Labeled_AE   irregularities≠I-OSE_Labeled_AE  (10%), and  vaginal≠B-OSE_Labeled_AE   hemorrhage≠I-OSE_Labeled_AE  (8%).
  
 
- The following additional adverse reactions occurred in less than 10% of AFINITOR-treated patients: epistaxis (9%), decreased appetite (6%), otitis media (6%), depression (5%), abnormal taste (5%), increased blood luteinizing hormone (LH) levels (4%), increased blood follicle stimulating hormone (FSH) levels (3%), hypersensitivity (3%), ovarian cyst (3%), pneumonitis (1%), and angioedema (1%).
+ The following additional adverse reactions occurred in less than 10% of AFINITOR-treated patients:  epistaxis≠B-OSE_Labeled_AE  (9%),  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE  (6%),  otitis≠B-OSE_Labeled_AE   media≠I-OSE_Labeled_AE  (6%),  depression≠B-OSE_Labeled_AE  (5%),  abnormal≠B-OSE_Labeled_AE   taste≠I-OSE_Labeled_AE  (5%),  increased≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   luteinizing≠I-OSE_Labeled_AE   hormone≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  LH≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE  (4%),  increased≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   follicle≠I-OSE_Labeled_AE   stimulating≠I-OSE_Labeled_AE   hormone≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  FSH≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE  (3%),  hypersensitivity≠B-OSE_Labeled_AE  (3%),  ovarian≠B-OSE_Labeled_AE   cyst≠I-OSE_Labeled_AE  (3%),  pneumonitis≠B-OSE_Labeled_AE  (1%), and  angioedema≠B-OSE_Labeled_AE  (1%).
 
  Table 11: Key Laboratory Abnormalities Reported in AFINITOR-treated Patients with Renal Angiomyolipoma 
  Grading according to CTCAE Version 3.0   
   
                     AFINITOR         N=79      Placebo         N=39     
                     All Grades    %      Grade 3    %      Grade 4    %      All Grades    %      Grade 3    %      Grade 4    %     
-   Hematology                                                                                                            
-       Anemia     61               0                0                49               0                0                 
-       Leucopenia  37               0                0                21               0                0                 
-       Neutropenia  25               0                1                26               0                0                 
-       Lymphopenia  20               1                0                8                0                0                 
-       Thrombocytopenia  19               0                0                3                0                0                 
+    Hematology≠B-NonOSE_AE                                                                                                             
+        Anemia≠B-OSE_Labeled_AE      61               0                0                49               0                0                 
+        Leucopenia≠B-OSE_Labeled_AE   37               0                0                21               0                0                 
+        Neutropenia≠B-NonOSE_AE   25               0                1                26               0                0                 
+        Lymphopenia≠B-OSE_Labeled_AE   20               1                0                8                0                0                 
+        Thrombocytopenia≠B-OSE_Labeled_AE   19               0                0                3                0                0                 
                                                                                                                          
-   Clinical chemistry                                                                                                           
-       Hypercholesterolemia  85               1                0                46               0                0                 
-       Hypertriglyceridemia  52               0                0                10               0                0                 
-       Hypophosphatemia  49               5                0                15               0                0                 
-       Alkaline phosphatase increased  32               1                0                10               0                0                 
-       Elevated aspartate transaminase (AST)  23               1                0                8                0                0                 
-       Elevated alanine transaminase (ALT)  20               1                0                15               0                0                 
-       Fasting hyperglycemia  14               0                0                8                0                0                 
-             Updated safety information from 112 patients treated with AFINITOR for a median duration of 3.9 years identified the following additional adverse reactions and key laboratory abnormalities: increased partial thromboplastin time (63%), increased prothrombin time (40%), decreased fibrinogen (38%), urinary tract infection (31%), proteinuria (18%), abdominal pain (16%), pruritus (12%), gastroenteritis (12%), myalgia (11%), and pneumonia (10%).
+    Clinical≠B-NonOSE_AE   chemistry≠I-NonOSE_AE                                                                                                            
+        Hypercholesterolemia≠B-OSE_Labeled_AE   85               1                0                46               0                0                 
+        Hypertriglyceridemia≠B-OSE_Labeled_AE   52               0                0                10               0                0                 
+        Hypophosphatemia≠B-OSE_Labeled_AE   49               5                0                15               0                0                 
+        Alkaline≠B-OSE_Labeled_AE   phosphatase≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE   32               1                0                10               0                0                 
+        Elevated≠B-OSE_Labeled_AE   aspartate≠I-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  AST≠I-OSE_Labeled_AE )  23               1                0                8                0                0                 
+        Elevated≠B-OSE_Labeled_AE   alanine≠I-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  ALT≠I-OSE_Labeled_AE )  20               1                0                15               0                0                 
+        Fasting≠B-OSE_Labeled_AE   hyperglycemia≠I-OSE_Labeled_AE   14               0                0                8                0                0                 
+             Updated safety information from 112 patients treated with AFINITOR for a median duration of 3.9 years identified the following additional adverse reactions and key  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE :  increased≠B-OSE_Labeled_AE   partial≠I-OSE_Labeled_AE   thromboplastin≠I-OSE_Labeled_AE   time≠I-OSE_Labeled_AE  (63%),  increased≠B-OSE_Labeled_AE   prothrombin≠I-OSE_Labeled_AE   time≠I-OSE_Labeled_AE  (40%),  decreased≠B-OSE_Labeled_AE   fibrinogen≠I-OSE_Labeled_AE  (38%),  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  (31%),  proteinuria≠B-OSE_Labeled_AE  (18%),  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (16%),  pruritus≠B-OSE_Labeled_AE  (12%),  gastroenteritis≠B-OSE_Labeled_AE  (12%),  myalgia≠B-OSE_Labeled_AE  (11%), and  pneumonia≠B-OSE_Labeled_AE  (10%).
  
 
    6.5     Clinical Study Experience in Subependymal Giant Cell Astrocytoma with Tuberous Sclerosis Complex
 
-  The data described below are based on a randomized (2:1), double-blind, placebo-controlled trial (EXIST-1) of AFINITOR in 117 patients with subependymal giant cell astrocytoma (SEGA) and tuberous sclerosis complex (TSC). The median age of patients was 9.5 years (range 0.8 to 26 years), 93% were Caucasian, and 57% were male. The median duration of blinded study treatment was 52 weeks (range 24 to 89 weeks) for patients receiving AFINITOR and 47 weeks (range 14 to 88 weeks) for those receiving placebo.
+  The data described below are based on a randomized (2:1), double-blind, placebo-controlled trial (EXIST-1) of AFINITOR in 117 patients with  subependymal≠B-Not_AE_Candidate   giant≠I-Not_AE_Candidate   cell≠I-Not_AE_Candidate   astrocytoma≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  SEGA≠I-Not_AE_Candidate  )≠I-Not_AE_Candidate   and≠I-Not_AE_Candidate   tuberous≠I-Not_AE_Candidate   sclerosis≠I-Not_AE_Candidate   complex≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  TSC≠I-Not_AE_Candidate ). The median age of patients was 9.5 years (range 0.8 to 26 years), 93% were Caucasian, and 57% were male. The median duration of blinded study treatment was 52 weeks (range 24 to 89 weeks) for patients receiving AFINITOR and 47 weeks (range 14 to 88 weeks) for those receiving placebo.
 
- The most common adverse reactions reported for AFINITOR (incidence >= 30%) were stomatitis and respiratory tract infection. The most common Grade 3-4 adverse reactions (incidence >=2%) were stomatitis, pyrexia, pneumonia, gastroenteritis, aggression, agitation, and amenorrhea. The most common key laboratory abnormalities (incidence >=50%) were hypercholesterolemia and elevated partial thromboplastin time. The most common Grade 3-4 laboratory abnormality (incidence >=3%) was neutropenia.
+ The most common adverse reactions reported for AFINITOR (incidence >= 30%) were  stomatitis≠B-OSE_Labeled_AE  and  respiratory≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE . The most common Grade 3-4 adverse reactions (incidence >=2%) were  stomatitis≠B-OSE_Labeled_AE ,  pyrexia≠B-OSE_Labeled_AE ,  pneumonia≠B-OSE_Labeled_AE ,  gastroenteritis≠B-OSE_Labeled_AE ,  aggression≠B-OSE_Labeled_AE ,  agitation≠B-OSE_Labeled_AE , and  amenorrhea≠B-OSE_Labeled_AE . The most common key  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  (incidence >=50%) were  hypercholesterolemia≠B-OSE_Labeled_AE  and  elevated≠B-OSE_Labeled_AE   partial≠I-OSE_Labeled_AE   thromboplastin≠I-OSE_Labeled_AE   time≠I-OSE_Labeled_AE . The most common Grade 3-4  laboratory≠B-NonOSE_AE   abnormality≠I-NonOSE_AE  (incidence >=3%) was  neutropenia≠B-OSE_Labeled_AE .
 
- There were no adverse reactions resulting in permanent discontinuation. Dose adjustments (interruptions or reductions) due to adverse reactions occurred in 55% of AFINITOR-treated patients. The most common adverse reaction leading to AFINITOR dose adjustment was stomatitis.
+ There were no adverse reactions resulting in permanent discontinuation. Dose adjustments (interruptions or reductions) due to adverse reactions occurred in 55% of AFINITOR-treated patients. The most common adverse reaction leading to AFINITOR dose adjustment was  stomatitis≠B-OSE_Labeled_AE .
 
- Table 12 compares the incidence of adverse reactions reported with an incidence of >=10% for patients receiving AFINITOR and occurring more frequently with AFINITOR than with placebo. Laboratory abnormalities are described separately in Table 13.
+ Table 12 compares the incidence of adverse reactions reported with an incidence of >=10% for patients receiving AFINITOR and occurring more frequently with AFINITOR than with placebo.  Laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  are described separately in Table 13.
 
  Table 12: Adverse Reactions Reported in >= 10% of AFINITOR-treated Patients with SEGA in EXIST-1 
- Grading according to CTCAE Version 3.0  a  Includes mouth ulceration, stomatitis, and lip ulceration  b  Includes respiratory tract infection, upper respiratory tract infection, and respiratory tract infection viral  c  Includes gastroenteritis, gastroenteritis viral, and gastrointestinal infection  d  Includes agitation, anxiety, panic attack, aggression, abnormal behavior, and obsessive compulsive disorder  e  Includes rash, rash generalized, rash macular, rash maculo-papular, rash papular, dermatitis allergic, and urticaria   
+ Grading according to CTCAE Version 3.0  a  Includes  mouth≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE ,  stomatitis≠B-OSE_Labeled_AE , and  lip≠B-OSE_Labeled_AE   ulceration≠I-OSE_Labeled_AE   b  Includes  respiratory≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE , and  respiratory≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE   viral≠I-OSE_Labeled_AE   c  Includes  gastroenteritis≠B-OSE_Labeled_AE ,  gastroenteritis≠B-OSE_Labeled_AE   viral≠I-OSE_Labeled_AE , and  gastrointestinal≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE   d  Includes  agitation≠B-OSE_Labeled_AE ,  anxiety≠B-OSE_Labeled_AE ,  panic≠B-OSE_Labeled_AE   attack≠I-OSE_Labeled_AE ,  aggression≠B-OSE_Labeled_AE ,  abnormal≠B-OSE_Labeled_AE   behavior≠I-OSE_Labeled_AE , and  obsessive≠B-OSE_Labeled_AE   compulsive≠I-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE   e  Includes  rash≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   generalized≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   macular≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   maculo≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  papular≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   papular≠I-OSE_Labeled_AE ,  dermatitis≠B-OSE_Labeled_AE   allergic≠I-OSE_Labeled_AE , and  urticaria≠B-OSE_Labeled_AE    
   
                     AFINITOR    N=78      Placebo    N=39     
                     All Grades    %      Grade 3    %      Grade 4    %      All Grades    %      Grade 3    %      Grade 4    %     
-   Any adverse reaction      97               36               3                92               23               3               
-   Gastrointestinal disorders                                                                                                           
-       Stomatitis  a    62               9                0                26               3                0                 
-       Vomiting   22               1                0                13               0                0                 
-       Diarrhea   17               0                0                5                0                0                 
-       Constipation  10               0                0                3                0                0                 
-   Infections and infestations                                                                                                           
-       Respiratory tract infection  b    31               1                1                23               0                0                 
-       Gastroenteritis  c    10               4                1                3                0                0                 
-       Pharyngitis streptococcal  10               0                0                3                0                0                 
-   General disorders and administration site conditions                                                                                                           
-       Pyrexia    23               6                0                18               3                0                 
-       Fatigue    14               0                0                3                0                0                 
-   Psychiatric disorders                                                                                                           
-       Anxiety, aggression or other behavioral disturbance  d    21               5                0                3                0                0                 
-   Skin and subcutaneous tissue disorders                                                                                                           
-       Rash  e    21               0                0                8                0                0                 
-       Acne       10               0                0                5                0                0                 
-             Amenorrhea occurred in 17% of AFINITOR-treated females aged 10 to 55 years (3 of 18) and none of the females in the placebo group. For this same group of AFINITOR-treated females, the following menstrual abnormalities were reported: dysmenorrhea (6%), menorrhagia (6%), metrorrhagia (6%), and unspecified menstrual irregularity (6%).
+    Any≠B-NonOSE_AE   adverse≠I-NonOSE_AE   reaction≠I-NonOSE_AE       97               36               3                92               23               3               
+    Gastrointestinal≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                                            
+        Stomatitis≠B-OSE_Labeled_AE   a    62               9                0                26               3                0                 
+        Vomiting≠B-OSE_Labeled_AE    22               1                0                13               0                0                 
+        Diarrhea≠B-OSE_Labeled_AE    17               0                0                5                0                0                 
+        Constipation≠B-OSE_Labeled_AE   10               0                0                3                0                0                 
+    Infections≠B-NonOSE_AE   and≠I-NonOSE_AE   infestations≠I-NonOSE_AE                                                                                                            
+        Respiratory≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE   b    31               1                1                23               0                0                 
+        Gastroenteritis≠B-OSE_Labeled_AE   c    10               4                1                3                0                0                 
+        Pharyngitis≠B-OSE_Labeled_AE   streptococcal≠I-OSE_Labeled_AE   10               0                0                3                0                0                 
+    General≠B-NonOSE_AE   disorders≠I-NonOSE_AE   and≠I-NonOSE_AE   administration≠I-NonOSE_AE   site≠I-NonOSE_AE   conditions≠I-NonOSE_AE                                                                                                            
+        Pyrexia≠B-OSE_Labeled_AE     23               6                0                18               3                0                 
+        Fatigue≠B-OSE_Labeled_AE     14               0                0                3                0                0                 
+    Psychiatric≠B-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                                            
+        Anxiety≠B-OSE_Labeled_AE ,  aggression≠B-OSE_Labeled_AE  or other  behavioral≠B-OSE_Labeled_AE   disturbance≠I-OSE_Labeled_AE   d    21               5                0                3                0                0                 
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   subcutaneous≠I-NonOSE_AE   tissue≠I-NonOSE_AE   disorders≠I-NonOSE_AE                                                                                                            
+        Rash≠B-OSE_Labeled_AE   e    21               0                0                8                0                0                 
+        Acne≠B-OSE_Labeled_AE        10               0                0                5                0                0                 
+              Amenorrhea≠B-OSE_Labeled_AE  occurred in 17% of AFINITOR-treated females aged 10 to 55 years (3 of 18) and none of the females in the placebo group. For this same group of AFINITOR-treated females, the following  menstrual≠B-OSE_Labeled_AE   abnormalities≠I-OSE_Labeled_AE  were reported:  dysmenorrhea≠B-OSE_Labeled_AE  (6%),  menorrhagia≠B-OSE_Labeled_AE  (6%),  metrorrhagia≠B-OSE_Labeled_AE  (6%), and  unspecified≠B-OSE_Labeled_AE   menstrual≠I-OSE_Labeled_AE   irregularity≠I-OSE_Labeled_AE  (6%).
  
 
- The following additional adverse reactions occurred in less than 10% of AFINITOR-treated patients: nausea (8%), pain in extremity (8%), insomnia (6%), pneumonia (6%), epistaxis (5%), hypersensitivity (3%), increased blood luteinizing hormone (LH) levels (1%) and pneumonitis (1%).
+ The following additional adverse reactions occurred in less than 10% of AFINITOR-treated patients:  nausea≠B-OSE_Labeled_AE  (8%),  pain≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   extremity≠I-OSE_Labeled_AE  (8%),  insomnia≠B-OSE_Labeled_AE  (6%),  pneumonia≠B-OSE_Labeled_AE  (6%),  epistaxis≠B-OSE_Labeled_AE  (5%),  hypersensitivity≠B-OSE_Labeled_AE  (3%),  increased≠B-OSE_Labeled_AE   blood≠I-OSE_Labeled_AE   luteinizing≠I-OSE_Labeled_AE   hormone≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  LH≠I-OSE_Labeled_AE  )≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE  (1%) and  pneumonitis≠B-OSE_Labeled_AE  (1%).
 
  Table 13: Key Laboratory Abnormalities Reported in AFINITOR-treated Patients with SEGA in EXIST-1 
  Grading according to CTCAE Version 3.0   
   
                     AFINITOR    N=78      Placebo    N=39     
                     All Grades    %      Grade 3    %      Grade 4    %      All Grades    %      Grade 3    %      Grade 4    %     
-   Hematology                                                                                                            
-       Elevated partial thromboplastin time  72               3                0                44               5                0                 
-       Neutropenia  46               9                0                41               3                0                 
-       Anemia     41               0                0                21               0                0                 
-   Clinical chemistry                                                                                                           
-       Hypercholesterolemia  81               0                0                39               0                0                 
-       Elevated aspartate transaminase (AST)  33               0                0                0                0                0                 
-       Hypertriglyceridemia  27               0                0                15               0                0                 
-       Elevated alanine transaminase (ALT)  18               0                0                3                0                0                 
-       Hypophosphatemia  9                1                0                3                0                0                 
-             Updated safety information from 111 patients treated with AFINITOR for a median duration of 47 months identified the following additional notable adverse reactions and key laboratory abnormalities: decreased appetite (14%), hyperglycemia (13%), hypertension (11%), urinary tract infection (9%), decreased fibrinogen (8%), cellulitis (6%), abdominal pain (5%), decreased weight (5%), elevated creatinine (5%), and azospermia (1%).
+    Hematology≠B-NonOSE_AE                                                                                                             
+        Elevated≠B-OSE_Labeled_AE   partial≠I-OSE_Labeled_AE   thromboplastin≠I-OSE_Labeled_AE   time≠I-OSE_Labeled_AE   72               3                0                44               5                0                 
+        Neutropenia≠B-OSE_Labeled_AE   46               9                0                41               3                0                 
+        Anemia≠B-OSE_Labeled_AE      41               0                0                21               0                0                 
+    Clinical≠B-NonOSE_AE   chemistry≠I-NonOSE_AE                                                                                                            
+        Hypercholesterolemia≠B-OSE_Labeled_AE   81               0                0                39               0                0                 
+        Elevated≠B-OSE_Labeled_AE   aspartate≠I-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  AST≠I-OSE_Labeled_AE )  33               0                0                0                0                0                 
+        Hypertriglyceridemia≠B-OSE_Labeled_AE   27               0                0                15               0                0                 
+        Elevated≠B-OSE_Labeled_AE   alanine≠I-OSE_Labeled_AE   transaminase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  ALT≠I-OSE_Labeled_AE )  18               0                0                3                0                0                 
+        Hypophosphatemia≠B-OSE_Labeled_AE   9                1                0                3                0                0                 
+             Updated safety information from 111 patients treated with AFINITOR for a median duration of 47 months identified the following additional notable adverse reactions and key  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE :  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE  (14%),  hyperglycemia≠B-OSE_Labeled_AE  (13%),  hypertension≠B-OSE_Labeled_AE  (11%),  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  (9%),  decreased≠B-OSE_Labeled_AE   fibrinogen≠I-OSE_Labeled_AE  (8%),  cellulitis≠B-OSE_Labeled_AE  (6%),  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE  (5%),  decreased≠B-OSE_Labeled_AE   weight≠I-OSE_Labeled_AE  (5%),  elevated≠B-OSE_Labeled_AE   creatinine≠I-OSE_Labeled_AE  (5%), and  azospermia≠B-OSE_Labeled_AE  (1%).
  
 
    6.6     Postmarketing Experience
 
-  The following adverse reactions have been identified during post approval use of AFINITOR. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure: acute pancreatitis, cholecystitis, cholelithiasis, arterial thrombotic events, reflex sympathetic dystrophy, and cardiac failure with some cases reported with pulmonary hypertension (including pulmonary arterial hypertension) as a secondary event.
+  The following adverse reactions have been identified during post approval use of AFINITOR. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure:  acute≠B-OSE_Labeled_AE   pancreatitis≠I-OSE_Labeled_AE ,  cholecystitis≠B-OSE_Labeled_AE ,  cholelithiasis≠B-OSE_Labeled_AE ,  arterial≠B-OSE_Labeled_AE   thrombotic≠I-OSE_Labeled_AE   events≠I-OSE_Labeled_AE ,  reflex≠B-OSE_Labeled_AE   sympathetic≠I-OSE_Labeled_AE   dystrophy≠I-OSE_Labeled_AE , and  cardiac≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE  with some cases reported with  pulmonary≠B-NonOSE_AE   hypertension≠I-NonOSE_AE  (including  pulmonary≠B-NonOSE_AE   arterial≠I-NonOSE_AE   hypertension≠I-NonOSE_AE ) as a secondary event.
 

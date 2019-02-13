@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="PANDEL">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:    Most frequent adverse reactions include burning, stinging, rash, papulovesicular rash, redness, itching, moderate paresthesia, and contact dermatitis. (  6  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    PharmaDerm(r), A division of Fougera Pharmaceuticals Inc. at 1-800-645-9833    or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ The most frequent adverse reactions reported for PANDEL during clinical trials were application site reactions, including burning in 4, stinging in 2, and moderate paresthesia in 1 out of 226 subjects.
+
+
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during postapproval use of PANDEL because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ These adverse reactions are as follows:
+
+
+
+   Skin and Subcutaneous Tissue Disorders:  rash, papulovesicular rash
+
+
+
+   Application Site Reactions  : dryness, erythema, pruritus, allergic contact dermatitis.
+
+
+
+ The following local adverse reactions are reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infections, skin atrophy, striae, and miliaria.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+  EXCERPT:    PANDEL can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency during or after treatment. (  5.1  )
+
+
+
+  Cushing's syndrome, hyperglycemia, and unmasking of latent diabetes mellitus can result from systemic absorption of topical corticosteroids. (  5.1  )
+
+
+
+  Use of topical corticosteroids may require periodic evaluation for HPA axis suppression. (  5.1  )
+
+
+
+  High potency corticosteroids, large treatment surface area, prolong use, use of occlusion dressings, altered skin barrier, liver failure and young age may predispose patients to HPA axis suppression. (  5.1  )
+
+
+
+  Modify use if HPA axis suppression develops. (  5.1  )
+
+
+
+  Pediatric patients may be more susceptible to systemic toxicity. (  5.1  ,  8.4  )
+
+
+
+ 
+
+
+
+   5.1 Hypothalamic-Pituitary-Adrenal (HPA) Axis Suppression and Other Unwanted Systemic Glucocorticoid Effects
+
+
+
+  PANDEL can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency. This may occur during or after withdrawal of treatment. Factors that predispose to HPA axis suppression include the use of high-potency corticosteroids, large treatment surface areas, prolonged use, use of occlusive dressings, altered skin barrier, liver failure, and young age.
+
+
+
+ Use of topical corticosteroids may require periodic evaluation for HPA axis suppression. Evaluation for HPA axis suppression may be done by using the adrenocorticotropic hormone (ACTH) stimulation test.
+
+
+
+ If HPA axis suppression is documented, gradually withdraw the drug, reduce the frequency of application, or substitute with a less potent corticosteroid. If signs and symptoms of steroid withdrawal occur, supplemental systemic corticosteroids may be required. Recovery of HPA axis function is generally prompt and complete upon discontinuation of the drug.
+
+
+
+ In a trial including 15 evaluable subjects 18 years of age or older with psoriasis or atopic dermatitis affecting more than 20% of body surface area, 1 subject (6.7%) had ACTH stimulation test results suggestive of adrenal suppression after treatment with PANDEL twice daily for 21 days. Recovery of HPA axis suppression for this subject is unknown [ see Clinical Pharmacology (   12.2    )  ].
+
+
+
+ Systemic effects of topical corticosteroids may also manifest as Cushing's syndrome, hyperglycemia, and unmasking latent diabetes mellitus.
+
+
+
+ Patients applying a topical steroid to a large surface area or to areas under occlusion should be evaluated periodically for evidence of HPA-axis suppression.
+
+
+
+ Pediatric patients may be more susceptible to systemic toxicity due to their larger skin surface to body mass ratios [see Use in Specific Populations (   8.4    )]  .
+
+
+
+    5.2 Allergic Contact Dermatitis
+
+
+
+  Allergic contact dermatitis with corticosteroids is usually diagnosed by observing a failure to heal rather than noting a clinical exacerbation, as observed with most topical products not containing corticosteroids. If irritation develops, discontinue PANDEL and institute appropriate therapy.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="366" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="785" name="excerpt" section="S2" start="35" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="396" />
+    <IgnoredRegion len="108" name="heading" section="S2" start="827" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="915" />
+    <IgnoredRegion len="31" name="heading" section="S2" start="2814" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="NORFLEX">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  Adverse reactions of orphenadrine are mainly due to the mild anti-cholinergic action of orphenadrine, and are usually associated with higher dosage. Dryness of the mouth is usually the first adverse effect to appear. When the daily dose is increased, possible adverse effects include: tachycardia, palpitation, urinary hesitancy or retention, blurred vision, dilatation of pupils, increased ocular tension, weakness, nausea, vomiting, headache, dizziness, constipation, drowsiness, hypersensitivity reactions, pruritus, hallucinations, agitation, tremor, gastric irritation, and rarely urticaria and other dermatoses. Infrequently, an elderly patient may experience some degree of mental confusion. These adverse reactions can usually be eliminated by reduction in dosage. Very rare cases of aplastic anemia associated with the use of orphenadrine tablets have been reported. No causal relationship has been established.
+
+
+
+ Rare instances of anaphylactic reaction have been reported associated with the intramuscular injection of Norflex Injection.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+  Confusion, anxiety and tremors have been reported in few patients receiving propoxyphene and orphenadrine concomitantly. As these symptoms may be simply due to an additive effect, reduction of dosage and/or discontinuation of one or both agents is recommended in such cases.
+
+
+
+ Orphenadrine citrate should be used with caution in patients with tachycardia, cardiac decompensation, coronary insufficiency, cardiac arrhythmias.
+
+
+
+ Safety of continuous long-term therapy with orphenadrine has not been established. Therefore, if orphenadrine is prescribed for prolonged use, periodic monitoring of blood, urine and liver function values is recommended.
+
+
+
+    PREGNANCY
+
+
+
+  Pregnancy Category C. Animal reproduction studies have not been conducted with Norflex. It is also not know whether Norflex can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Norflex should be given to a pregnant woman only if clearly needed.
+
+
+
+    PEDIATRIC USE
+
+
+
+  Safety and effectiveness in pediatric patients have not been established.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  Some patients may experience transient episodes of light-headedness, dizziness or syncope. Norflex may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or driving a motor vehicle; ambulatory patients should therefore be cautioned accordingly.
+
+
+
+ Norflex Injection contains sodium bisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people. The overall prevalence of sulfite sensitivity in the general population is unknown and probably low. Sulfite sensitivity is seen more frequently in asthmatic than nonasthmatic people.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="680" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="990" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

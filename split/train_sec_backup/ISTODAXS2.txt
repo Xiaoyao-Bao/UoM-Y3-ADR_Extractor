@@ -1,0 +1,65 @@
+    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Myelosuppression: ISTODAX can cause thrombocytopenia, leukopenia (neutropenia and lymphopenia), and anemia; monitor blood counts during treatment with ISTODAX; interrupt and/or modify the dose as necessary (  2.2  ). 
+ *  Infections: Fatal and serious infections. Reactivation of DNA viruses (Epstein Barr and hepatitis B). Consider monitoring and prophylaxis in patients with evidence of prior hepatitis B (  5.2  ). 
+ *  Electrocardiographic (ECG) changes: Consider cardiovascular monitoring in patients with congenital long QT syndrome, a history of significant cardiovascular disease, and patients taking medicinal products that lead to significant QT prolongation. Ensure that potassium and magnesium are within the normal range before administration of ISTODAX (  5.3  ). 
+ *  Tumor lysis syndrome: Patients with advanced stage disease and/or high tumor burden are at greater risk and should be closely monitored and appropriate precautions taken (  5.4  ). 
+ *  Embryo-fetal toxicity: ISTODAX may cause fetal harm when administered to a pregnant woman. Advise women of potential hazard to the fetus and to avoid pregnancy while receiving ISTODAX (  5.5  ,  8.1  ). 
+    
+ 
+
+   5.1 Myelosuppression
+
+
+
+  Treatment with ISTODAX can cause thrombocytopenia, leukopenia (neutropenia and lymphopenia), and anemia. Monitor blood counts regularly during treatment with ISTODAX, and modify the dose as necessary [see  Dosage and Administration (2.2)  and  Adverse Reactions (6)  ].  
+
+
+
+    5.2 Infections
+
+
+
+   Fatal and serious infections, including pneumonia, sepsis, and viral reactivation, including Epstein Barr and hepatitis B viruses, have been reported in clinical trials with ISTODAX. These can occur during treatment and within 30 days after treatment. The risk of life threatening infections may be greater in patients with a history of prior treatment with monoclonal antibodies directed against lymphocyte antigens and in patients with disease involvement of the bone marrow [see  Adverse Reactions (6)  ].    
+
+
+
+  Reactivation of hepatitis B virus infection has occurred in 1% of PTCL patients in clinical trials in Western populations [see  Adverse Reactions (6)  ]  . In patients with evidence of prior hepatitis B infection, consider monitoring for reactivation, and consider antiviral prophylaxis.  
+
+
+
+  Reactivation of Epstein Barr viral infection leading to liver failure has occurred in a trial of patients with relapsed or refractory extranodal NK/T-cell lymphoma. In one case, ganciclovir prophylaxis failed to prevent Epstein Barr viral reactivation.  
+
+
+
+    5.3 Electrocardiographic Changes
+
+
+
+  Several treatment-emergent morphological changes in ECGs (including T-wave and ST-segment changes) have been reported in clinical studies. The clinical significance of these changes is unknown [see  Adverse Reactions (6)  ].  
+
+
+
+ In patients with congenital long QT syndrome, patients with a history of significant cardiovascular disease, and patients taking anti-arrhythmic medicines or medicinal products that lead to significant QT prolongation, consider cardiovascular monitoring of ECGs at baseline and periodically during treatment.
+
+
+
+ Confirm that potassium and magnesium levels are within normal range before administration of ISTODAX [see  Adverse Reactions (6)  ].  
+
+
+
+    5.4 Tumor Lysis Syndrome
+
+
+
+  Tumor lysis syndrome (TLS) has been reported to occur in 1% of patients with tumor stage CTCL and 2% of patients with Stage III/IV PTCL. Patients with advanced stage disease and/or high tumor burden may be at greater risk, should be closely monitored, and managed as appropriate.
+
+
+
+    5.5 Use in Pregnancy
+
+
+
+  There are no adequate and well-controlled studies of ISTODAX in pregnant women. However, based on its mechanism of action and findings in animals, ISTODAX may cause fetal harm when administered to a pregnant woman. In an animal reproductive study, romidepsin was embryocidal and resulted in adverse effects on the developing fetus at exposures below those in patients at the recommended dose of 14 mg/m  2  /week. If this drug is used during pregnancy, or if the patient becomes pregnant while taking ISTODAX, the patient should be apprised of the potential hazard to the fetus [see  Use in Specific Populations (8.1)  ]  .

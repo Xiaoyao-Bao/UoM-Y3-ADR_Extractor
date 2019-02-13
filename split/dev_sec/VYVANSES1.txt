@@ -1,0 +1,145 @@
+  6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+ *  Known  hypersensitivity≠B-OSE_Labeled_AE  to amphetamine products or other ingredients of VYVANSE [see  Contraindications (4)  ]  
+ *   Hypertensive≠B-NonOSE_AE   Crisis≠I-NonOSE_AE  When Used Concomitantly with Monoamine Oxidase Inhibitors [see  Contraindications (4)  and  Drug Interactions (7.1)  ]  
+ *   Drug≠B-OSE_Labeled_AE   Dependence≠I-OSE_Labeled_AE  [see  Boxed Warning  ,  Warnings and Precautions (5.1)  , and  Drug Abuse and Dependence (9.2  ,  9.3)  ]  
+ *  Serious  Cardiovascular≠B-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.2)  ]  
+ *   Blood≠B-OSE_Labeled_AE   Pressure≠I-OSE_Labeled_AE  and Heart Rate  Increases≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.3)  ]  
+ *   Psychiatric≠B-OSE_Labeled_AE   Adverse≠I-OSE_Labeled_AE   Reactions≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.4)  ]  
+ *   Suppression≠B-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   Growth≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.5)  ]  
+ *   Peripheral≠B-OSE_Labeled_AE   Vasculopathy≠I-OSE_Labeled_AE , including  Raynaud≠B-OSE_Labeled_AE  '≠I-OSE_Labeled_AE  s≠I-OSE_Labeled_AE   phenomenon≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.6)  ]  
+ *   Serotonin≠B-NonOSE_AE   Syndrome≠I-NonOSE_AE  [see  Warnings and Precautions (5.7)  ]  
+      EXCERPT:   Most common adverse reactions (incidence >=5% and at a rate at least twice placebo) in children, adolescents, and/or adults with ADHD were anorexia, anxiety, decreased appetite, decreased weight, diarrhea, dizziness, dry mouth, irritability, insomnia, nausea, upper abdominal pain, and vomiting (  6.1  )
+ 
+
+ Most common adverse reactions (incidence >= 5% and at a rate at least twice placebo) in adults with BED were dry mouth, insomnia, decreased appetite, increased heart rate, constipation, feeling jittery, and anxiety (  6.1  )
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Shire US Inc. at 1-800-828-2088 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+ 
+
+  6.1 Clinical Trial Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+      Attention≠B-Not_AE_Candidate   Deficit≠I-Not_AE_Candidate   Hyperactivity≠I-Not_AE_Candidate   Disorder≠I-Not_AE_Candidate   
+
+ The safety data in this section is based on data from the 4-week parallel-group controlled clinical studies of VYVANSE in pediatric and adult patients with  ADHD≠B-Not_AE_Candidate   [see  Clinical Studies (14.1)  ]  .
+
+     Adverse Reactions Associated with Discontinuation of Treatment in ADHD Clinical Trials  
+
+ In the controlled trial in patients ages 6 to 12 years (Study 1), 8% (18/218) of VYVANSE-treated patients discontinued due to adverse reactions compared to 0% (0/72) of placebo-treated patients. The most frequently reported adverse reactions (1% or more and twice rate of placebo) were  ECG≠B-OSE_Labeled_AE   voltage≠I-OSE_Labeled_AE   criteria≠I-OSE_Labeled_AE   for≠I-OSE_Labeled_AE   ventricular≠I-OSE_Labeled_AE   hypertrophy≠I-OSE_Labeled_AE ,  tic≠B-OSE_Labeled_AE ,  vomiting≠B-OSE_Labeled_AE ,  psychomotor≠B-OSE_Labeled_AE   hyperactivity≠I-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE  and  rash≠B-OSE_Labeled_AE  [2 instances for each adverse reaction, i.e., 2/218 (1%)]. Less frequently reported adverse reactions (less than 1% or less than twice rate of placebo) included  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE ,  weight≠B-OSE_Labeled_AE   decreased≠I-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  somnolence≠B-OSE_Labeled_AE ,  logorrhea≠B-OSE_Labeled_AE ,  chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  anger≠B-OSE_Labeled_AE  and  hypertension≠B-OSE_Labeled_AE .
+
+ In the controlled trial in patients ages 13 to 17 years (Study 4), 3% (7/233) of VYVANSE-treated patients discontinued due to adverse reactions compared to 1% (1/77) of placebo-treated patients. The most frequently reported adverse reactions (1% or more and twice rate of placebo) were  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE  (2/233; 1%) and  insomnia≠B-OSE_Labeled_AE  (2/233; 1%). Less frequently reported adverse reactions (less than 1% or less than twice rate of placebo) included  irritability≠B-OSE_Labeled_AE ,  dermatillomania≠B-OSE_Labeled_AE ,  mood≠B-OSE_Labeled_AE   swings≠I-OSE_Labeled_AE , and  dyspnea≠B-OSE_Labeled_AE .
+
+ In the controlled adult trial (Study 7), 6% (21/358) of VYVANSE-treated patients discontinued due to adverse reactions compared to 2% (1/62) of placebo-treated patients. The most frequently reported adverse reactions (1% or more and twice rate of placebo) were  insomnia≠B-OSE_Labeled_AE  (8/358; 2%),  tachycardia≠B-OSE_Labeled_AE  (3/358; 1%),  irritability≠B-OSE_Labeled_AE  (2/358; 1%),  hypertension≠B-OSE_Labeled_AE  (4/358; 1%),  headache≠B-OSE_Labeled_AE  (2/358; 1%),  anxiety≠B-OSE_Labeled_AE  (2/358; 1%), and  dyspnea≠B-OSE_Labeled_AE  (3/358; 1%). Less frequently reported adverse reactions (less than 1% or less than twice rate of placebo) included  palpitations≠B-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  agitation≠B-OSE_Labeled_AE ,  depression≠B-OSE_Labeled_AE ,  paranoia≠B-OSE_Labeled_AE  and  restlessness≠B-OSE_Labeled_AE .
+
+     Adverse Reactions Occurring at an Incidence of >=5% or More Among VYVANSE Treated Patients with ADHD in Clinical Trials  
+
+ The most common adverse reactions (incidence >=5% and at a rate at least twice placebo) reported in children, adolescents, and/or adults were  anorexia≠B-OSE_Labeled_AE ,  anxiety≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   weight≠I-OSE_Labeled_AE ,  diarrhea≠B-OSE_Labeled_AE ,  dizziness≠B-OSE_Labeled_AE ,  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE ,  irritability≠B-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  upper≠B-OSE_Labeled_AE   abdominal≠I-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE , and  vomiting≠B-OSE_Labeled_AE .
+
+     Adverse Reactions Occurring at an Incidence of 2% or More Among VYVANSE Treated Patients with ADHD in Clinical Trials  
+
+ Adverse reactions reported in the controlled trials in pediatric patients ages 6 to 12 years (Study 1), adolescent patients ages 13 to 17 years (Study 4), and adult patients (Study 7) treated with VYVANSE or placebo are presented in Tables 1, 2, and 3 below.
+
+ Table 1 Adverse Reactions Reported by 2% or More of Children (Ages 6 to 12 Years) with ADHD Taking VYVANSE and at least Twice the Incidence in Patients Taking Placebo in a 4-Week Clinical Trial (Study 1) 
+                                                     VYVANSE(n=218)                  Placebo(n=72)          
+  
+  Decreased≠B-OSE_Labeled_AE   Appetite≠I-OSE_Labeled_AE                                   39%                             4%                     
+  Insomnia≠B-OSE_Labeled_AE                                             22%                             3%                     
+  Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE   Upper≠I-OSE_Labeled_AE                                 12%                             6%                     
+  Irritability≠B-OSE_Labeled_AE                                         10%                             0%                     
+  Vomiting≠B-OSE_Labeled_AE                                             9%                              4%                     
+  Weight≠B-OSE_Labeled_AE   Decreased≠I-OSE_Labeled_AE                                     9%                              1%                     
+  Nausea≠B-OSE_Labeled_AE                                               6%                              3%                     
+  Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE                                            5%                              0%                     
+  Dizziness≠B-OSE_Labeled_AE                                            5%                              0%                     
+  Affect≠B-OSE_Labeled_AE   lability≠I-OSE_Labeled_AE                                      3%                              0%                     
+  Rash≠B-OSE_Labeled_AE                                                 3%                              0%                     
+  Pyrexia≠B-OSE_Labeled_AE                                              2%                              1%                     
+  Somnolence≠B-OSE_Labeled_AE                                           2%                              1%                     
+  Tic≠B-OSE_Labeled_AE                                                  2%                              0%                     
+  Anorexia≠B-OSE_Labeled_AE                                             2%                              0%                     
+        Table 2 Adverse Reactions Reported by 2% or More of Adolescent (Ages 13 to 17 Years) Patients with ADHD Taking VYVANSE and at least Twice the Incidence in Patients Taking Placebo in a 4-Week Clinical Trial (Study 4) 
+                                                     VYVANSE(n=233)                  Placebo(n=77)          
+  
+  Decreased≠B-OSE_Labeled_AE   Appetite≠I-OSE_Labeled_AE                                   34%                             3%                     
+  Insomnia≠B-OSE_Labeled_AE                                             13%                             4%                     
+  Weight≠B-OSE_Labeled_AE   Decreased≠I-OSE_Labeled_AE                                     9%                              0%                     
+  Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE                                            4%                              1%                     
+  Palpitations≠B-OSE_Labeled_AE                                         2%                              1%                     
+  Anorexia≠B-OSE_Labeled_AE                                             2%                              0%                     
+  Tremor≠B-OSE_Labeled_AE                                               2%                              0%                     
+        Table 3 Adverse Reactions Reported by 2% or More of Adult Patients with ADHD Taking VYVANSE and at least Twice the Incidence in Patients Taking Placebo in a 4-Week Clinical Trial (Study 7) 
+                                                     VYVANSE(n=358)                  Placebo(n=62)          
+  
+  Decreased≠B-OSE_Labeled_AE   Appetite≠I-OSE_Labeled_AE                                   27%                             2%                     
+  Insomnia≠B-OSE_Labeled_AE                                             27%                             8%                     
+  Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE                                            26%                             3%                     
+  Diarrhea≠B-OSE_Labeled_AE                                             7%                              0%                     
+  Nausea≠B-OSE_Labeled_AE                                               7%                              0%                     
+  Anxiety≠B-OSE_Labeled_AE                                              6%                              0%                     
+  Anorexia≠B-OSE_Labeled_AE                                             5%                              0%                     
+  Feeling≠B-OSE_Labeled_AE   Jittery≠I-OSE_Labeled_AE                                      4%                              0%                     
+  Agitation≠B-OSE_Labeled_AE                                            3%                              0%                     
+  Increased≠B-OSE_Labeled_AE   Blood≠I-OSE_Labeled_AE   Pressure≠I-OSE_Labeled_AE                             3%                              0%                     
+  Hyperhidrosis≠B-OSE_Labeled_AE                                        3%                              0%                     
+  Restlessness≠B-OSE_Labeled_AE                                         3%                              0%                     
+  Decreased≠B-OSE_Labeled_AE   Weight≠I-OSE_Labeled_AE                                     3%                              0%                     
+  Dyspnea≠B-OSE_Labeled_AE                                              2%                              0%                     
+  Increased≠B-OSE_Labeled_AE   Heart≠I-OSE_Labeled_AE   Rate≠I-OSE_Labeled_AE                                 2%                              0%                     
+  Tremor≠B-OSE_Labeled_AE                                               2%                              0%                     
+  Palpitations≠B-OSE_Labeled_AE                                         2%                              0%                     
+         In addition, in the adult population  erectile≠B-OSE_Labeled_AE   dysfunction≠I-OSE_Labeled_AE  was observed in 2.6% of males on VYVANSE and 0% on placebo;  decreased≠B-OSE_Labeled_AE   libido≠I-OSE_Labeled_AE  was observed in 1.4% of subjects on VYVANSE and 0% on placebo.
+ 
+
+     Weight Loss and Slowing Growth Rate in Pediatric Patients with ADHD  
+
+ In a controlled trial of VYVANSE in children ages 6 to 12 years (Study 1), mean  weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  from baseline after 4 weeks of therapy was -0.9, -1.9, and -2.5 pounds, respectively, for patients receiving 30 mg, 50 mg, and 70 mg of VYVANSE, compared to a 1 pound  weight≠B-NonOSE_AE   gain≠I-NonOSE_AE  for patients receiving placebo. Higher doses were associated with greater  weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  with 4 weeks of treatment. Careful follow-up for weight in children ages 6 to 12 years who received VYVANSE over 12 months suggests that consistently medicated children (i.e. treatment for 7 days per week throughout the year) have a  slowing≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   growth≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE , measured by body weight as demonstrated by an age- and sex-normalized mean change from baseline in percentile, of -13.4 over 1 year (average percentiles at baseline and 12 months were 60.9 and 47.2, respectively). In a 4-week controlled trial of VYVANSE in adolescents ages 13 to 17 years, mean  weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  from baseline to endpoint was -2.7, -4.3, and -4.8 lbs., respectively, for patients receiving 30 mg, 50 mg, and 70 mg of VYVANSE, compared to a 2.0 pound  weight≠B-NonOSE_AE   gain≠I-NonOSE_AE  for patients receiving placebo.
+
+ Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated children (i.e. treatment for 7 days per week throughout the year) have a temporary  slowing≠B-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   growth≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE  (on average, a total of about  2≠B-OSE_Labeled_AE   cm≠I-OSE_Labeled_AE   less≠I-OSE_Labeled_AE   growth≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   height≠I-OSE_Labeled_AE  and  2≠B-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  7≠I-OSE_Labeled_AE   kg≠I-OSE_Labeled_AE   less≠I-OSE_Labeled_AE   growth≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   weight≠I-OSE_Labeled_AE  over 3 years), without evidence of growth rebound during this period of development. In a controlled trial of amphetamine (d- to l-enantiomer ratio of 3:1) in adolescents, mean  weight≠B-OSE_Labeled_AE   change≠I-OSE_Labeled_AE  from baseline within the initial 4 weeks of therapy was -1.1 pounds and -2.8 pounds, respectively, for patients receiving 10 mg and 20 mg of amphetamine. Higher doses were associated with greater  weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  within the initial 4 weeks of treatment  [see  Warnings and Precautions (5.5)  ]  .
+
+     Weight Loss in Adults with ADHD  
+
+ In the controlled adult trial (Study 7), mean  weight≠B-OSE_Labeled_AE   loss≠I-OSE_Labeled_AE  after 4 weeks of therapy was 2.8 pounds, 3.1 pounds, and 4.3 pounds, for patients receiving final doses of 30 mg, 50 mg, and 70 mg of VYVANSE, respectively, compared to a mean  weight≠B-NonOSE_AE   gain≠I-NonOSE_AE  of 0.5 pounds for patients receiving placebo.
+
+      Binge≠B-Not_AE_Candidate   Eating≠I-Not_AE_Candidate   Disorder≠I-Not_AE_Candidate   
+
+ The safety data in this section is based on data from two 12 week parallel group, flexible-dose, placebo-controlled studies in adults with  BED≠B-Not_AE_Candidate   [see  Clinical Studies 14.2  ]  . Patients with cardiovascular risk factors other than  obesity≠B-Not_AE_Candidate  and smoking were excluded.
+
+     Adverse Reactions Associated with Discontinuation of Treatment in BED Clinical Trials  
+
+ In controlled trials of patients ages 18 to 55 years, 5.1% (19/373) of VYVANSE-treated patients discontinued due to adverse reactions compared to 2.4% (9/372) of placebo-treated patients. No single adverse reaction led to discontinuation in 1% or more of VYVANSE-treated patients. Less commonly reported adverse reactions (less than 1% or less than twice rate of placebo) included  increased≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE ,  headache≠B-OSE_Labeled_AE ,  abdominal≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE   upper≠I-OSE_Labeled_AE ,  dyspnea≠B-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  irritability≠B-OSE_Labeled_AE ,  feeling≠B-OSE_Labeled_AE   jittery≠I-OSE_Labeled_AE  and  anxiety≠B-OSE_Labeled_AE .
+
+ The most common adverse reactions (incidence >=5% and at a rate at least twice placebo) reported in adults were  dry≠B-OSE_Labeled_AE   mouth≠I-OSE_Labeled_AE ,  insomnia≠B-OSE_Labeled_AE ,  decreased≠B-OSE_Labeled_AE   appetite≠I-OSE_Labeled_AE ,  increased≠B-OSE_Labeled_AE   heart≠I-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE ,  feeling≠B-OSE_Labeled_AE   jittery≠I-OSE_Labeled_AE , and  anxiety≠B-OSE_Labeled_AE .
+
+ Adverse reactions reported in the pooled controlled trials in adult patients (Study 11 and 12) treated with VYVANSE or placebo are presented in Table 4 below.
+
+ Table 4 Adverse Reactions Reported by 2% or More of Adult Patients with BED Taking VYVANSE and at least Twice the Incidence in Patients Taking Placebo in 12-Week Clinical Trials (Study 11 and 12) 
+                                                             VYVANSE(N=373)             Placebo(N=372)      
+  
+  Dry≠B-OSE_Labeled_AE   Mouth≠I-OSE_Labeled_AE                                                         36%                         7%            
+  Insomnia≠B-OSE_Labeled_AE  [note: Includes all preferred terms containing the word  "≠B-OSE_Labeled_AE  insomnia≠I-OSE_Labeled_AE ."]                20%                         8%            
+  Decreased≠B-OSE_Labeled_AE   Appetite≠I-OSE_Labeled_AE                                                 8%                         2%            
+  Increased≠B-OSE_Labeled_AE   Heart≠I-OSE_Labeled_AE   Rate≠I-OSE_Labeled_AE  [note: Includes the preferred terms " heart≠B-OSE_Labeled_AE   rate≠I-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE " and " tachycardia≠B-OSE_Labeled_AE ."]                 7%                         1%            
+  Feeling≠B-OSE_Labeled_AE   Jittery≠I-OSE_Labeled_AE                                                    6%                         1%            
+  Constipation≠B-OSE_Labeled_AE                                                       6%                         1%            
+  Anxiety≠B-OSE_Labeled_AE                                                            5%                         1%            
+  Diarrhea≠B-OSE_Labeled_AE                                                           4%                         2%            
+  Decreased≠B-OSE_Labeled_AE   Weight≠I-OSE_Labeled_AE                                                   4%                         0%            
+  Hyperhidrosis≠B-OSE_Labeled_AE                                                      4%                         0%            
+  Vomiting≠B-OSE_Labeled_AE                                                           2%                         1%            
+  Gastroenteritis≠B-OSE_Labeled_AE                                                    2%                         1%            
+  Paresthesia≠B-OSE_Labeled_AE                                                        2%                         1%            
+  Pruritis≠B-OSE_Labeled_AE                                                           2%                         1%            
+  Upper≠B-OSE_Labeled_AE   Abdominal≠I-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                               2%                         0%            
+  Energy≠B-OSE_Labeled_AE   Increased≠I-OSE_Labeled_AE                                                   2%                         0%            
+  Urinary≠B-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE                                            2%                         0%            
+  Nightmare≠B-OSE_Labeled_AE                                                          2%                         0%            
+  Restlessness≠B-OSE_Labeled_AE                                                       2%                         0%            
+  Oropharyngeal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                                 2%                         0%            
+           6.2 Postmarketing Experience
+   The following adverse reactions have been identified during post approval use of VYVANSE. Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure. These events are as follows:  cardiomyopathy≠B-OSE_Labeled_AE ,  mydriasis≠B-OSE_Labeled_AE ,  diplopia≠B-OSE_Labeled_AE ,  difficulties≠B-OSE_Labeled_AE   with≠I-OSE_Labeled_AE   visual≠I-OSE_Labeled_AE   accommodation≠I-OSE_Labeled_AE ,  blurred≠B-OSE_Labeled_AE   vision≠I-OSE_Labeled_AE ,  eosinophilic≠B-OSE_Labeled_AE   hepatitis≠I-OSE_Labeled_AE ,  anaphylactic≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE ,  hypersensitivity≠B-OSE_Labeled_AE ,  dyskinesia≠B-OSE_Labeled_AE ,  dysgeusia≠B-OSE_Labeled_AE ,  tics≠B-OSE_Labeled_AE ,  bruxism≠B-OSE_Labeled_AE ,  depression≠B-OSE_Labeled_AE ,  dermatillomania≠B-OSE_Labeled_AE ,  alopecia≠B-OSE_Labeled_AE ,  aggression≠B-OSE_Labeled_AE ,  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE ,  chest≠B-OSE_Labeled_AE   pain≠I-OSE_Labeled_AE ,  angioedema≠B-OSE_Labeled_AE ,  urticaria≠B-OSE_Labeled_AE ,  seizures≠B-OSE_Labeled_AE ,  libido≠B-OSE_Labeled_AE   changes≠I-OSE_Labeled_AE ,  frequent≠B-OSE_Labeled_AE  or prolonged  erections≠I-OSE_Labeled_AE ,  constipation≠B-OSE_Labeled_AE , and  rhabdomyolysis≠B-OSE_Labeled_AE .
+

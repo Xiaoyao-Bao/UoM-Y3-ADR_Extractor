@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoldLabel drug="LUZU">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   The most common adverse reactions observed in clinical trials were application site reactions, which occurred in less than 1% of subjects. (  6.1  ).
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice.
+
+
+
+ In three Phase 3 clinical trials, 616 subjects were exposed to LUZU Cream, 1%: 305 with interdigital tinea pedis and 311 subjects with tinea cruris. Subjects with interdigital tinea pedis or tinea cruris applied LUZU Cream, 1% or vehicle cream once daily for 14 days or 7 days, respectively, to affected and adjacent areas. During clinical trials with LUZU Cream, 1%, the most common adverse reactions were application site reactions which occurred in less than 1% of subjects in both the LUZU and vehicle arms. Most adverse reactions were mild in severity.
+
+
+
+   6.2 Post-Marketing Experience
+
+  The following adverse reactions have been identified during postmarketing use of luliconazole cream, 1%: contact dermatitis and cellulitis. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="331" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="361" />
+    <IgnoredRegion len="29" name="heading" section="S1" start="1228" />
+  </IgnoredRegions>
+  <Mentions>
+    <Mention id="M3" len="24" reason="indication" section="S1" start="752" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Tinea pedis" meddra_llt_id="10043873" meddra_pt="Tinea pedis" meddra_pt_id="10043873" />
+    </Mention>
+    <Mention id="M1" len="12" reason="indication" section="S1" start="799" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Tinea cruris" meddra_llt_id="10043868" meddra_pt="Tinea cruris" meddra_pt_id="10043868" />
+    </Mention>
+    <Mention id="M4" len="24" reason="indication" section="S1" start="827" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Tinea pedis" meddra_llt_id="10043873" meddra_pt="Tinea pedis" meddra_pt_id="10043873" />
+    </Mention>
+    <Mention id="M2" len="12" reason="indication" section="S1" start="855" type="Not_AE_Candidate">
+      <Normalization meddra_llt="Tinea cruris" meddra_llt_id="10043868" meddra_pt="Tinea cruris" meddra_pt_id="10043868" />
+    </Mention>
+    <Mention id="M5" len="26" reason="from_drug_use" section="S1" start="1071" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Application site reaction" meddra_llt_id="10003055" meddra_pt="Application site reaction" meddra_pt_id="10003055" />
+    </Mention>
+    <Mention id="M6" len="18" reason="from_drug_use" section="S1" start="1366" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Contact dermatitis" meddra_llt_id="10010790" meddra_pt="Dermatitis contact" meddra_pt_id="10012442" />
+    </Mention>
+    <Mention id="M7" len="10" reason="from_drug_use" section="S1" start="1389" type="OSE_Labeled_AE">
+      <Normalization meddra_llt="Cellulitis" meddra_llt_id="10007882" meddra_pt="Cellulitis" meddra_pt_id="10007882" />
+    </Mention>
+  </Mentions>
+</GoldLabel>

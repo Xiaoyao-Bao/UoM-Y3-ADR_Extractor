@@ -1,0 +1,52 @@
+    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in other sections of the labeling:
+
+
+
+ *  Serious  skin≠B-OSE_Labeled_AE  and hypersensitivity  reactions≠I-OSE_Labeled_AE  [see  Warnings and Precautions (5.1)  ]  
+ *   Neuropsychiatric≠B-OSE_Labeled_AE   Events≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.2)   ] 
+      EXCERPT:   Most common adverse reaction (incidence >2%) is diarrhea (  6  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact BioCryst Pharmaceuticals, Inc. at 1-844-273-2327 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ In five randomized, double-blind, controlled trials, 1,399 subjects with acute uncomplicated  influenza≠B-Not_AE_Candidate  received a single dose of RAPIVAB, administered intravenously or intramuscularly, at doses up to 600 mg. Among the 664 subjects receiving RAPIVAB 600 mg (intravenous or intramuscular), the most commonly observed adverse reaction was  diarrhea≠B-OSE_Labeled_AE , occurring at a rate of 8% versus 7% in subjects receiving placebo. No subject receiving RAPIVAB 600 mg experienced a serious adverse event and less than 1% discontinued study because of an adverse reaction.
+
+
+
+ Clinically significant  laboratory≠B-NonOSE_AE   abnormalities≠I-NonOSE_AE  (DAIDS Grade 2-4) listed in Table 2 occurred more frequently in subjects treated with RAPIVAB 600 mg (intravenous or intramuscular) than placebo. Only events occurring at >=2% are included.
+
+
+
+ Table 2: Laboratory Abnormalities Occurring in >=2% of Subjects Treated with RAPIVAB 600 mg 
+ Laboratory Parameter Abnormality                            RAPIVAB 600 mg                Placebo          
+  
+    Alanine≠B-OSE_Labeled_AE   Aminotransferase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  >≠I-OSE_Labeled_AE   2≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  5≠I-OSE_Labeled_AE   *≠I-OSE_Labeled_AE   ULN≠I-OSE_Labeled_AE )                      (N=654)3%                  (N=430)2%         
+    Serum≠B-OSE_Labeled_AE   Glucose≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  >≠I-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  6≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   mg≠I-OSE_Labeled_AE  /≠I-OSE_Labeled_AE  dL≠I-OSE_Labeled_AE )                                 (N=660)5%                  (N=433)3%         
+    Creatine≠B-OSE_Labeled_AE   Phosphokinase≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  >≠I-OSE_Labeled_AE  =≠I-OSE_Labeled_AE   6≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   *≠I-OSE_Labeled_AE   ULN≠I-OSE_Labeled_AE )                       (N=654)4%                  (N=431)2%         
+    Neutrophils≠B-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  <≠I-OSE_Labeled_AE   1≠I-OSE_Labeled_AE  .≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE   *≠I-OSE_Labeled_AE  1≠I-OSE_Labeled_AE  0≠I-OSE_Labeled_AE    9≠I-OSE_Labeled_AE    /≠I-OSE_Labeled_AE  L≠I-OSE_Labeled_AE )                            (N=654)8%                  (N=430)6%         
+         In a subset of subjects with serious  influenza≠B-Not_AE_Candidate  requiring hospitalization treated with RAPIVAB 600 mg as monotherapy (N=101) the following adverse reactions were also reported more frequently with RAPIVAB as compared to placebo:  constipation≠B-OSE_Labeled_AE  (4% versus 2%),  insomnia≠B-OSE_Labeled_AE  (3% versus 0%),  AST≠B-OSE_Labeled_AE   increased≠I-OSE_Labeled_AE  (3% versus 2%), and  hypertension≠B-OSE_Labeled_AE  (2% versus 0%).
+ 
+
+   6.2 Postmarketing Experience
+
+  The following additional adverse reactions have been identified during postapproval use of RAPIVAB in Japan. Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+  Dermatologic≠B-NonOSE_AE :  Stevens≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  Johnson≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE ,  exfoliative≠B-OSE_Labeled_AE   dermatitis≠I-OSE_Labeled_AE ,  rash≠B-OSE_Labeled_AE   [see  Warnings and Precautions (5.1)  ]  
+
+
+
+  Psychiatric≠B-NonOSE_AE :  abnormal≠B-OSE_Labeled_AE   behavior≠I-OSE_Labeled_AE ,  hallucination≠B-OSE_Labeled_AE   [see  Warnings and Precautions (5.2)  ]  

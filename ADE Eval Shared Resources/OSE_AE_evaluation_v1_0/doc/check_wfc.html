@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- Copyright (C) 2018 The MITRE Corporation. See the toplevel
+file LICENSE.txt for license terms. -->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html;
+      charset=windows-1252">
+    <title>ADE Eval: Wellformedness Checker</title>
+    <link href="css/doc.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <h1>Wellformedness Checker</h1>
+    <p>You can check the wellformedness of a directory of documents in
+      the ADE Eval XML format using this tool.<br>
+    </p>
+    <h2>Usage<br>
+    </h2>
+    <pre>$ python scripts/check_wfc.py --help<br>usage: check_wfc.py [-h] [--medascii_dir MEDASCII_DIR] [--raise_error] {ose_gold,ose_submission} xml_dir<br><br>positional arguments:<br>  {ose_gold,ose_submission}<br>                        the type of the corpus<br>  xml_dir               a directory of XML documents in the format appropriate to the corpus type<br><br>optional arguments:<br>  -h, --help            show this help message and exit<br>  --medascii_dir MEDASCII_DIR<br>                        the MedAscii directory of your MedDRA 20.1 data distribution. When provided, the corpus reader will <br>                        perform MedDRA wellformedness checking.<br>  --raise_error         if present, raise a Python error rather than warning and continuing when an error is encountered<br></pre>
+    <p>If you're participating in this evaluation, you'll likely have a
+      subscription to <a href="https://www.meddra.org">MedDRA</a>. If
+      you want the wellformedness checker to check the MedDRA
+      normalizations in the files in the XML document directory,
+      download the MedDRA 20.1 English data distribution, unzip it, and
+      provide the path to the MedAscii subdirectory to the
+      wellformedness checker as described above.<br>
+    </p>
+    <h2>Example</h2>
+    <p>Let's say you've created an annotated set of submission documents
+      in /proj/ade_eval/my_submission. Further, let's assume you've
+      downloaded the MedDRA distribution and unzipped it in
+      /proj/meddra_20_1_english. You can check the wellformedness with
+      the following command:<br>
+    </p>
+    <pre>$ python scripts/check_wfc.py --medascii_dir /proj/meddra_20_1_english/MedAscii ose_submission /proj/ade_eval/my_submission<br></pre>
+  </body>
+</html>

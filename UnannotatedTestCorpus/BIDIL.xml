@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="BIDIL">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  EXCERPT:   Most common adverse reactions (&gt;= 5% more on BiDil than on placebo) were headache and dizziness (  6.1  )
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Arbor Pharmaceuticals, LLC at 1-866-516-4950 or FDA at 1-800-FDA-1088 or    www.fda.gov/medwatch.  
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
+
+
+ BiDil has been evaluated for safety in 517 heart failure patients in A-HeFT. A total of 317 of these patients received BiDil for at least 6 months, and 220 received BiDil for at least 12 months. In A-HeFT, 21% of the patients discontinued BiDil for adverse reactions compared to 12% who discontinued placebo. Overall, adverse reactions were more common in BiDil -treated than in placebo-treated patients. Table 1 lists adverse reactions reported with an incidence, after rounding, &gt;= 2% higher on BiDil than on placebo in A-HeFT, regardless of causality. The most common reasons for discontinuing BiDil in the A-HeFT trial was headache (7%).
+
+
+
+ Table 1. Adverse Reactions Occurring in the A-HeFT Study in &gt;= 2% of Patients Treated with BiDil. 
+                                                           BiDil(N=517)%             Placebo(N=527)%        
+  
+ Headache                                                       50                         21               
+ Dizziness                                                      32                         14               
+ Asthenia                                                       14                         11               
+ Nausea                                                         10                          6               
+ Hypotension                                                     8                          4               
+ Sinusitis                                                       4                          2               
+ Ventricular tachycardia                                         4                          2               
+ Paresthesia                                                     4                          2               
+ Vomiting                                                        4                          2               
+ Amblyopia                                                       3                          1               
+         In the V-HeFT I and II clinical studies, a total of 587 patients with heart failure were treated with the combination of isosorbide dinitrate and hydralazine hydrochloride. The type, pattern, frequency and severity of adverse reactions reported in these studies were similar to those reported in A-HeFT, described above and no unusual adverse reactions were reported.
+ 
+
+   6.2 Postmarketing Experience
+
+  The following adverse reactions have been identified during post-approval use of BiDil  .  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+     Use of BiDil:  The following adverse reactions have been identified with use of BiDil.
+
+
+
+ *      Cardiac Disorders: Palpitations 
+ *      Ear and labyrinth disorders: Tinnitus, vertigo 
+ *      Eye Disorders: Eyelid edema, vision blurred 
+ *      Gastrointestinal Disorders: Abdominal discomfort, constipation 
+ *      General Disorders and Administration Site Conditions: Facial pain, flushing, chest discomfort, chest pain, peripheral edema 
+ *      Musculoskeletal and Connective Tissue Disorders: Pain in extremity, myalgia 
+ *      Nervous Disorders: Dysgeusia, hypoaesthesia, migraine, syncope 
+ *      Renal and Urinary Disorders: Chromaturia, pulmonary renal syndrome 
+ *      Respiratory, Thoracic and Mediastinal Disorders: Dyspnea 
+ *      Reproductive System and Breast Disorders: Erectile dysfunction 
+ *      Skin and Subcutaneous Tissue Disorders: Erythema, hyperhidrosis, pruritus, face swelling 
+        Use of Hydralazine Hydrochloride or Isosorbide Dinitrate:  The following reactions have been reported with use of either hydralazine hydrochloride or isosorbide dinitrate.
+ 
+
+ *      Blood and Lymphatic System Disorders: Blood dyscrasias, agranulocytosis, purpura, eosinophilia, splenomegaly. 
+ *      Eye Disorders: Lacrimation, conjunctivitis. 
+ *      Gastrointestinal Disorders: Paralytic ileus. 
+ *      Hepatobiliary Disorders: Hepatitis. 
+ *      Psychiatric Disorders: Psychotic reactions, disorientation. 
+ *      Renal and Urinary Disorders: Difficulty in urination. 
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  May cause symptomatic hypotension (  5.1  ) 
+ *   Symptomatic Lupus Erythematosus Syndromes: Consider discontinuation if clinically appropriate (  5.2  ) 
+ *   Myocardial ischemia and angina (   5.3  ) 
+ *   Peripheral Neuritis : May be treated with Pyridoxine (  5.4  ) 
+    
+ 
+
+   5.1 Hypotension
+
+
+
+  Symptomatic hypotension, particularly with upright posture, may occur with even small doses of BiDil. Hypotension is most likely to occur in patients who have been volume or salt depleted; correct prior to initiation of BiDil [see  Adverse Reactions (6.1)  ]  .
+
+
+
+    5.2 Systemic Lupus Erythematosus
+
+
+
+  Hydralazine hydrochloride has been reported to cause a drug-induced systemic lupus erythematosus (SLE) syndrome. Symptoms and signs usually regress when hydralazine hydrochloride is discontinued.
+
+
+
+    5.3 Worsening Ischemic Heart Disease
+
+
+
+  Hydralazine hydrochloride can cause tachycardia and hypotension potentially leading to myocardial ischemia and angina, particularly in patients with hypertrophic cardiomyopathy.
+
+
+
+    5.4 Peripheral Neuritis
+
+
+
+  Hydralazine hydrochloride has been associated with peripheral neuritis, evidenced by paresthesia, numbness, and tingling, which may be related to an antipyridoxine effect. Pyridoxine should be added to BiDil therapy if such symptoms develop.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="275" name="excerpt" section="S1" start="26" />
+    <IgnoredRegion len="292" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="305" />
+    <IgnoredRegion len="15" name="heading" section="S2" start="335" />
+    <IgnoredRegion len="32" name="heading" section="S2" start="625" />
+    <IgnoredRegion len="36" name="heading" section="S2" start="866" />
+    <IgnoredRegion len="23" name="heading" section="S2" start="1093" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="2940" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

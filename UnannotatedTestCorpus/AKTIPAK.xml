@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="AKTIPAK">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  During clinical trials, 550 acne patients were studied. Of these patients, 236 were treated with Aktipak   TM  . The most frequently reported adverse event considered at least possibly related was dry skin (7.6%) as compared to Vehicle (3.9%). Application site reactions (stinging, burning sensation, tingling, erythema) were reported in 2.5% of patients versus 1.3% of Vehicle patients. Blepharitis, pruritus and photosensitivity reactions were reported in &lt;2% of patients who used the dual pouch product.
+
+
+
+
+                             Treatment Group Summaries    Number of Patients (%)     
+   COSTART Term              Aktipak   TM      N = 236      Aktipak   TM      Vehicle    N = 153      Benzamycin    Topical Gel    N = 121      Benzamycin    Topical Gel Vehicle    N = 40     
+  
+  DRY SKIN                  18 (7.6%)        6 (3.9%)         6 (5.0%)          0                      
+  APPLICATION SITE REACTION(stinging, erythema, and burning)    6 (2.5%)         2 (1.3%)         1 (0.8%)          0                      
+  BLEPHARITIS               4 (1.7%)         1 (0.7%)         0                 1 (2.5%)               
+  PRURITUS                  4 (1.7%)         2 (1.3%)         3 (2.5%)          0                      
+  PHOTOSENSITIVITY REACTION(Sunburn, stinging with sun exposure)    3 (1.3%)         0                0                 0                      
+  PEELING                   1 (0.5%)         1 (0.7%)         0                 0                      
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General
+
+
+
+  For topical use only; not for ophthalmic use. Concomitant topical acne therapy should be used with caution because a possible cumulative irritancy effect may occur, especially with the use of peeling, desquamating or abrasive agents. If severe irritation develops, discontinue use and institute appropriate therapy.
+
+
+
+ The use of antibiotic agents may be associated with the overgrowth of nonsusceptible organisms. If this occurs, discontinue use and take appropriate measures.
+
+
+
+ Avoid contact with eyes and all mucous membranes.
+
+
+
+    Information for Patients
+
+
+
+  Patients using Aktipak   TM  should receive the following information and instructions:
+
+
+
+  1.   Patients should be informed that they will need to mix this medication prior to use. The medication will be dispensed in one foil pouch which contains medication in two separated compartments.  2.   The contents must be mixed thoroughly by the patient (in the palm of the hand), prior to application.3.   Patients should apply the product immediately after mixing, then the hands should be washed.4.   Do not mix or apply near an open flame.5.   Aktipak  TM  may bleach hair or colored fabric.6.   Excessive or prolonged exposure to sunlight should be limited. To minimize exposure to sunlight, a hat or other clothing should be worn.7.   This medication is to be used as directed by a physician. It is for external use only. Avoid contact with the eyes, mouth, and all mucous membranes as this product may be irritating.8.   Patients should report to their physician any signs of local adverse reactions.9.   This medication should not be used for any disorder other than that for which it was prescribed.10. Patients should not use any other topical acne preparation unless otherwise directed by physician.11. Patients should be instructed to review the instructions for use on the product carton.12. This medication should be stored at room temperature away from heat and any open flame.
+ 
+
+    Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+
+
+  The combination of benzoyl peroxide and erythromycin in Aktipak    TM    has not been evaluated for its carcinogenic or mutagenic potential or for its effects on fertility.
+
+
+
+ Benzoyl peroxide has been shown to be a tumor promoter and progression agent in a number of animal studies. The clinical significance of this is unknown.
+
+
+
+ Benzoyl peroxide in acetone at doses of 5 and 10 mg administered twice per week induced skin tumors in transgenic Tg.AC mice in a study using 20 weeks of topical treatment.
+
+
+
+ Benzoyl peroxide has been found to cause DNA strand breaks in a variety of mammalian cell types, to be mutagenic in Salmonella typhimurium  tests by some but not all investigators, and to cause sister chromatid exchanges in Chinese hamster ovary cells.
+
+
+
+ No animal studies have been performed to evaluate the carcinogenic potential or effects on fertility of topical erythromycin. However, long-term (2-year) oral studies in rats with erythromycin base and erythromycin ethylsuccinate and in rats and mice with erythromycin stearate did not provide evidence of tumorigenicity.
+
+
+
+ The genotoxicity of erythromycin stearate has been evaluated in the Salmonella typhimurium  reverse mutation assay, the mouse L5178Y lymphoma cell assay, and for sister chromatid exchanges and chromosomal aberrations in CHO cells. These studies indicated that erythromycin stearate was not genotoxic.
+
+
+
+ There was no apparent effect on male or female fertility in rats fed erythromycin base at levels up to 0.25% of diet.
+
+
+
+    Pregnancy
+
+
+
+    Teratogenic Effects: Pregnancy CATEGORY C  
+
+
+
+  Animal reproduction studies have not been conducted with Aktipak   TM  or benzoyl peroxide.
+
+
+
+ There was no evidence of teratogenicity or any other adverse effect on reproduction in female rats fed erythromycin base (up to 0.25% diet) prior to and during mating, during gestation and through weaning of two successive litters.
+
+
+
+ There are no well-controlled trials in pregnant women with Aktipak   TM  . It is also not known whether Aktipak   TM  can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity. Aktipak   TM  should be given to a pregnant woman only if clearly needed.
+
+
+
+    Nursing Women
+
+
+
+  It is not known whether the ingredients of Aktipak    TM    are excreted in human milk after topical application. However, erythromycin is excreted in human milk following oral and parenteral erythromycin administration. Therefore, caution should be exercised when erythromycin is administered to a nursing woman.
+
+
+
+    Pediatric Use
+
+
+
+  Safety and effectiveness of this product in pediatric patients below 12 years of age have not been established.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="7" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="24" name="heading" section="S2" start="575" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="2001" />
+    <IgnoredRegion len="9" name="heading" section="S2" start="3584" />
+    <IgnoredRegion len="44" name="heading" section="S2" start="3600" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="4277" />
+    <IgnoredRegion len="13" name="heading" section="S2" start="4617" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,272 @@
+  6 ADVERSE REACTIONS
+
+  The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
+
+ *   Infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.1)   ] 
+ *   Mucocutaneous≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.2)   ] 
+ *   Hepatitis≠B-OSE_Labeled_AE   B≠I-OSE_Labeled_AE   reactivation≠I-OSE_Labeled_AE  with  fulminant≠B-OSE_Labeled_AE   hepatitis≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.3)   ] 
+ *   Progressive≠B-OSE_Labeled_AE   multifocal≠I-OSE_Labeled_AE   leukoencephalopathy≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.4)   ] 
+ *   Tumor≠B-OSE_Labeled_AE   lysis≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.5)   ] 
+ *   Infections≠B-OSE_Labeled_AE  [ see  Warnings and Precautions (5.6)   ] 
+ *   Cardiac≠B-OSE_Labeled_AE   arrhythmias≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.7)   ] 
+ *   Renal≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.8)   ] 
+ *   Bowel≠B-OSE_Labeled_AE  obstruction and  perforation≠I-OSE_Labeled_AE  [ see  Warnings and Precautions (5.9)   ] 
+    The most common adverse reactions of Rituxan (incidence >= 25%) observed in clinical trials of patients with  NHL≠B-Not_AE_Candidate  were  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE ,  fever≠B-OSE_Labeled_AE ,  lymphopenia≠B-OSE_Labeled_AE ,  chills≠B-OSE_Labeled_AE ,  infection≠B-OSE_Labeled_AE , and  asthenia≠B-OSE_Labeled_AE .
+ 
+
+ The most common adverse reactions of Rituxan (incidence >= 25%) observed in clinical trials of patients with  CLL≠B-Not_AE_Candidate  were:  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  and  neutropenia≠B-OSE_Labeled_AE .
+
+   EXCERPT:   Most common adverse reactions in clinical trials were:
+
+ *  NHL (>= 25%): infusion reactions, fever, lymphopenia, chills, infection and asthenia (  6.1  ). 
+ *  CLL (>= 25%): infusion reactions and neutropenia (  6.1  ). 
+ *  RA (>= 10%): upper respiratory tract infection, nasopharyngitis, urinary tract infection, and bronchitis (other important adverse reactions include infusion reactions, serious infections, and cardiovascular events) (  6.2  ). 
+ *  GPA and MPA (>=15 %): infections, nausea, diarrhea, headache, muscle spasms, anemia, peripheral edema (other important adverse reactions include infusion reactions) (  6.3  ). 
+      To report SUSPECTED ADVERSE REACTIONS, contact Genentech at 1-888-835-2555 or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch  .  
+ 
+
+ 
+
+  6.1 Clinical Trials Experience in Lymphoid Malignancies
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+ The data described below reflect exposure to Rituxan in 2783 patients, with exposures ranging from a single infusion up to 2 years. Rituxan was studied in both single-arm and controlled trials (n=356 and n=2427). The population included 1180 patients with low grade or  follicular≠B-Not_AE_Candidate   lymphoma≠I-Not_AE_Candidate , 927 patients with  DLBCL≠B-Not_AE_Candidate , and 676 patients with  CLL≠B-Not_AE_Candidate . Most  NHL≠B-Not_AE_Candidate  patients received Rituxan as an infusion of 375 mg/m  2  per infusion, given as a single agent weekly for up to 8 doses, in combination with chemotherapy for up to 8 doses, or following chemotherapy for up to 16 doses.  CLL≠B-Not_AE_Candidate  patients received Rituxan 375 mg/m  2  as an initial infusion followed by 500 mg/m  2  for up to 5 doses, in combination with fludarabine and cyclophosphamide. Seventy-one percent of  CLL≠B-Not_AE_Candidate  patients received 6 cycles and 90% received at least 3 cycles of Rituxan-based therapy.
+
+     Infusion Reactions  
+
+ In the majority of patients with  NHL≠B-Not_AE_Candidate ,  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  consisting of  fever≠B-NonOSE_AE ,  chills≠B-NonOSE_AE / rigors≠B-NonOSE_AE ,  nausea≠B-NonOSE_AE ,  pruritus≠B-NonOSE_AE ,  angioedema≠B-NonOSE_AE ,  hypotension≠B-NonOSE_AE ,  headache≠B-NonOSE_AE ,  bronchospasm≠B-NonOSE_AE ,  urticaria≠B-NonOSE_AE ,  rash≠B-NonOSE_AE ,  vomiting≠B-NonOSE_AE ,  myalgia≠B-NonOSE_AE ,  dizziness≠B-NonOSE_AE , or  hypertension≠B-NonOSE_AE  occurred during the first Rituxan infusion.  Infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  typically occurred within 30 to 120 minutes of beginning the first infusion and resolved with slowing or interruption of the Rituxan infusion and with supportive care (diphenhydramine, acetaminophen, and intravenous saline). The incidence of  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  was highest during the first infusion (77%) and decreased with each subsequent infusion. [  See  Boxed Warning  ,  Warnings and Precautions (5.1)    ]. In patients with previously untreated follicular  NHL≠B-Not_AE_Candidate  or previously untreated  DLBCL≠B-Not_AE_Candidate , who did not experience a Grade 3 or 4  infusion≠B-NonOSE_AE  -≠I-NonOSE_AE  related≠I-NonOSE_AE   reaction≠I-NonOSE_AE  in Cycle 1 and received a 90-minute infusion of Rituxan at Cycle 2, the incidence of Grade 3-4  infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  on the day of, or day after the infusion was 1.1% (95% CI [0.3%, 2.8%]). For Cycles 2-8, the incidence of Grade 3-4  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  on the day of or day after the 90-minute infusion, was 2.8% (95% CI [1.3%, 5.0%]). [  See  Warnings and Precautions (5.1)  ,  Clinical Studies (14.4)    ].
+
+   Infections
+
+ Serious  infections≠B-OSE_Labeled_AE  (NCI CTCAE Grade 3 or 4), including  sepsis≠B-OSE_Labeled_AE , occurred in less than 5% of patients with  NHL≠B-Not_AE_Candidate  in the single-arm studies. The overall incidence of  infections≠B-OSE_Labeled_AE  was 31% ( bacterial≠I-OSE_Labeled_AE  19%, viral 10%, unknown 6%, and fungal 1%). [  See  Warnings and Precautions (5.4)  ,  (5.5)  ,  (5.6)    ].
+
+ In randomized, controlled studies where Rituxan was administered following chemotherapy for the treatment of follicular or low-grade  NHL≠B-Not_AE_Candidate , the rate of  infection≠B-OSE_Labeled_AE  was higher among patients who received Rituxan. In  diffuse≠B-Not_AE_Candidate   large≠I-Not_AE_Candidate   B≠I-Not_AE_Candidate  -≠I-Not_AE_Candidate  cell≠I-Not_AE_Candidate   lymphoma≠I-Not_AE_Candidate  patients,  viral≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE  occurred more frequently in those who received Rituxan.
+
+     Cytopenias and hypogammaglobulinemia  
+
+ In patients with  NHL≠B-Not_AE_Candidate  receiving rituximab monotherapy, NCI-CTC Grade 3 and 4  cytopenias≠B-OSE_Labeled_AE  were reported in 48% of patients. These included  lymphopenia≠B-OSE_Labeled_AE  (40%),  neutropenia≠B-OSE_Labeled_AE  (6%),  leukopenia≠B-OSE_Labeled_AE  (4%),  anemia≠B-OSE_Labeled_AE  (3%), and  thrombocytopenia≠B-OSE_Labeled_AE  (2%). The median duration of  lymphopenia≠B-OSE_Labeled_AE  was 14 days (range, 1-588 days) and of  neutropenia≠B-OSE_Labeled_AE  was 13 days (range, 2-116 days). A single occurrence of transient  aplastic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE  ( pure≠B-OSE_Labeled_AE   red≠I-OSE_Labeled_AE   cell≠I-OSE_Labeled_AE   aplasia≠I-OSE_Labeled_AE ) and two occurrences of  hemolytic≠B-OSE_Labeled_AE   anemia≠I-OSE_Labeled_AE  following Rituxan therapy occurred during the single-arm studies.
+
+ In studies of monotherapy, Rituxan-induced  B≠B-NonOSE_AE  -≠I-NonOSE_AE  cell≠I-NonOSE_AE   depletion≠I-NonOSE_AE  occurred in 70% to 80% of patients with  NHL≠B-Not_AE_Candidate .  Decreased≠B-OSE_Labeled_AE  IgM and  IgG≠I-OSE_Labeled_AE   serum≠I-OSE_Labeled_AE   levels≠I-OSE_Labeled_AE  occurred in 14% of these patients.
+
+ In  CLL≠B-Not_AE_Candidate  trials, the frequency of prolonged  neutropenia≠B-OSE_Labeled_AE  and late-onset  neutropenia≠B-OSE_Labeled_AE  was higher in patients treated with R-FC compared to patients treated with FC. Prolonged  neutropenia≠B-NonOSE_AE  is defined as Grade 3-4  neutropenia≠B-NonOSE_AE  that has not resolved between 24 and 42 days after the last dose of study treatment. Late-onset  neutropenia≠B-NonOSE_AE  is defined as Grade 3-4  neutropenia≠B-NonOSE_AE  starting at least 42 days after the last treatment dose.
+
+ In patients with previously untreated  CLL≠B-Not_AE_Candidate , the frequency of prolonged  neutropenia≠B-OSE_Labeled_AE  was 8.5% for patients who received R-FC (n=402) and 5.8% for patients who received FC (n=398). In patients who did not have prolonged  neutropenia≠B-NonOSE_AE , the frequency of late-onset  neutropenia≠B-OSE_Labeled_AE  was 14.8% of 209 patients who received R-FC and 4.3% of 230 patients who received FC.
+
+ For patients with previously treated  CLL≠B-Not_AE_Candidate , the frequency of prolonged  neutropenia≠B-OSE_Labeled_AE  was 24.8% for patients who received R-FC (n=274) and 19.1% for patients who received FC (n=274). In patients who did not have prolonged  neutropenia≠B-NonOSE_AE , the frequency of late-onset  neutropenia≠B-OSE_Labeled_AE  was 38.7% in 160 patients who received R-FC and 13.6% of 147 patients who received FC.
+
+     Relapsed or Refractory, Low-Grade NHL  
+
+ Adverse reactions in  Table 1  occurred in 356 patients with relapsed or refractory, low-grade or follicular, CD20-positive, B-cell  NHL≠B-Not_AE_Candidate  treated in single-arm studies of Rituxan administered as a single agent [  See  Clinical Studies (14.1)    ]. Most patients received Rituxan 375 mg/m  2  weekly for 4 doses.
+
+ Table 1 Incidence of Adverse Reactions in >= 5% of Patients with Relapsed or Refractory, Low-Grade or Follicular NHL, Receiving Single-agent Rituxan (N=356)Adverse reactions observed up to 12 months following Rituxan.,Adverse reactions graded for severity by NCI-CTC criteria. 
+                                                   All Grades (%)                Grade 3 and 4 (%)          
+  
+ Any Adverse Reactions                                   99                              57                 
+    Body≠B-NonOSE_AE   as≠I-NonOSE_AE   a≠I-NonOSE_AE   Whole≠I-NonOSE_AE                                        86                              10                 
+    Fever≠B-OSE_Labeled_AE                                                  53                              1                  
+    Chills≠B-OSE_Labeled_AE                                                 33                              3                  
+    Infection≠B-OSE_Labeled_AE                                              31                              4                  
+    Asthenia≠B-OSE_Labeled_AE                                               26                              1                  
+    Headache≠B-OSE_Labeled_AE                                               19                              1                  
+    Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                         14                              1                  
+    Pain≠B-OSE_Labeled_AE                                                   12                              1                  
+    Back≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE                                              10                              1                  
+    Throat≠B-OSE_Labeled_AE   Irritation≠I-OSE_Labeled_AE                                      9                               0                  
+    Flushing≠B-OSE_Labeled_AE                                               5                               0                  
+    Heme≠B-NonOSE_AE   and≠I-NonOSE_AE   Lymphatic≠I-NonOSE_AE   System≠I-NonOSE_AE                              67                              48                 
+    Lymphopenia≠B-OSE_Labeled_AE                                            48                              40                 
+    Leukopenia≠B-OSE_Labeled_AE                                             14                              4                  
+    Neutropenia≠B-OSE_Labeled_AE                                            14                              6                  
+    Thrombocytopenia≠B-OSE_Labeled_AE                                       12                              2                  
+    Anemia≠B-OSE_Labeled_AE                                                 8                               3                  
+    Skin≠B-NonOSE_AE   and≠I-NonOSE_AE   Appendages≠I-NonOSE_AE                                    44                              2                  
+    Night≠B-OSE_Labeled_AE   Sweats≠I-OSE_Labeled_AE                                           15                              1                  
+    Rash≠B-OSE_Labeled_AE                                                   15                              1                  
+    Pruritus≠B-OSE_Labeled_AE                                               14                              1                  
+    Urticaria≠B-OSE_Labeled_AE                                              8                               1                  
+    Respiratory≠B-NonOSE_AE   System≠I-NonOSE_AE                                     38                              4                  
+    Increased≠B-OSE_Labeled_AE   Cough≠I-OSE_Labeled_AE                                        13                              1                  
+    Rhinitis≠B-OSE_Labeled_AE                                               12                              1                  
+    Bronchospasm≠B-OSE_Labeled_AE                                           8                               1                  
+    Dyspnea≠B-OSE_Labeled_AE                                                7                               1                  
+    Sinusitis≠B-OSE_Labeled_AE                                              6                               0                  
+    Metabolic≠B-NonOSE_AE   and≠I-NonOSE_AE   Nutritional≠I-NonOSE_AE   Disorders≠I-NonOSE_AE                    38                              3                  
+    Angioedema≠B-OSE_Labeled_AE                                             11                              1                  
+    Hyperglycemia≠B-OSE_Labeled_AE                                          9                               1                  
+    Peripheral≠B-OSE_Labeled_AE   Edema≠I-OSE_Labeled_AE                                       8                               0                  
+    LDH≠B-OSE_Labeled_AE   Increase≠I-OSE_Labeled_AE                                           7                               0                  
+    Digestive≠B-NonOSE_AE   System≠I-NonOSE_AE                                       37                              2                  
+    Nausea≠B-OSE_Labeled_AE                                                 23                              1                  
+    Diarrhea≠B-OSE_Labeled_AE                                               10                              1                  
+    Vomiting≠B-OSE_Labeled_AE                                               10                              1                  
+    Nervous≠B-NonOSE_AE   System≠I-NonOSE_AE                                         32                              1                  
+    Dizziness≠B-OSE_Labeled_AE                                              10                              1                  
+    Anxiety≠B-OSE_Labeled_AE                                                5                               1                  
+    Musculoskeletal≠B-NonOSE_AE   System≠I-NonOSE_AE                                 26                              3                  
+    Myalgia≠B-OSE_Labeled_AE                                                10                              1                  
+    Arthralgia≠B-OSE_Labeled_AE                                             10                              1                  
+    Cardiovascular≠B-NonOSE_AE   System≠I-NonOSE_AE                                  25                              3                  
+    Hypotension≠B-OSE_Labeled_AE                                            10                              1                  
+    Hypertension≠B-OSE_Labeled_AE                                           6                               1                  
+         In these single-arm Rituxan studies,  bronchiolitis≠B-OSE_Labeled_AE   obliterans≠I-OSE_Labeled_AE  occurred during and up to 6 months after Rituxan infusion.
+ 
+
+     Previously Untreated, Low-Grade or Follicular, NHL  
+
+ In Study 4, patients in the R-CVP arm experienced a higher incidence of  infusional≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  and  neutropenia≠B-OSE_Labeled_AE  compared to patients in the CVP arm. The following adverse reactions occurred more frequently ( >= 5%) in patients receiving R-CVP compared to CVP alone:  rash≠B-OSE_Labeled_AE  (17% vs. 5%),  cough≠B-OSE_Labeled_AE  (15% vs. 6%),  flushing≠B-OSE_Labeled_AE  (14% vs. 3%),  rigors≠B-OSE_Labeled_AE  (10% vs. 2%),  pruritus≠B-OSE_Labeled_AE  (10% vs. 1%),  neutropenia≠B-OSE_Labeled_AE  (8% vs. 3%), and  chest≠B-OSE_Labeled_AE   tightness≠I-OSE_Labeled_AE  (7% vs. 1%). [  See  Clinical Studies (14.2)    ].
+
+ In Study 5, detailed safety data collection was limited to serious adverse reactions, Grade >= 2  infections≠B-NonOSE_AE , and Grade >= 3 adverse reactions. In patients receiving Rituxan as single-agent maintenance therapy following Rituxan plus chemotherapy,  infections≠B-OSE_Labeled_AE  were reported more frequently compared to the observation arm (37% vs. 22%). Grade 3-4 adverse reactions occurring at a higher incidence (>= 2%) in the Rituxan group were  infections≠B-OSE_Labeled_AE  (4% vs. 1%) and  neutropenia≠B-OSE_Labeled_AE  (4% vs. <1%).
+
+ In Study 6, the following adverse reactions were reported more frequently ( >= 5%) in patients receiving Rituxan following CVP compared to patients who received no further therapy:  fatigue≠B-OSE_Labeled_AE  (39% vs. 14%),  anemia≠B-OSE_Labeled_AE  (35% vs. 20%),  peripheral≠B-OSE_Labeled_AE   sensory≠I-OSE_Labeled_AE   neuropathy≠I-OSE_Labeled_AE  (30% vs. 18%),  infections≠B-OSE_Labeled_AE  (19% vs. 9%),  pulmonary≠B-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  (18% vs. 10%),  hepato≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  biliary≠I-OSE_Labeled_AE   toxicity≠I-OSE_Labeled_AE  (17% vs. 7%),  rash≠B-OSE_Labeled_AE  and/or  pruritus≠B-OSE_Labeled_AE  (17% vs. 5%),  arthralgia≠B-OSE_Labeled_AE  (12% vs. 3%), and  weight≠B-OSE_Labeled_AE   gain≠I-OSE_Labeled_AE  (11% vs. 4%).  Neutropenia≠B-OSE_Labeled_AE  was the only Grade 3 or 4 adverse reaction that occurred more frequently ( >= 2%) in the Rituxan arm compared with those who received no further therapy (4% vs. 1%). [  See  Clinical Studies (14.3)    ].
+
+     DLBCL  
+
+ In Studies 7 and 8, [  see  Clinical Studies (14.3)    ], the following adverse reactions, regardless of severity, were reported more frequently ( >= 5%) in patients age >= 60 years receiving R-CHOP as compared to CHOP alone:  pyrexia≠B-OSE_Labeled_AE  (56% vs. 46%),  lung≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE  (31% vs. 24%),  cardiac≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE  (29% vs. 21%), and  chills≠B-OSE_Labeled_AE  (13% vs. 4%). Detailed safety data collection in these studies was primarily limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
+
+ In Study 8, a review of  cardiac≠B-NonOSE_AE   toxicity≠I-NonOSE_AE  determined that  supraventricular≠B-OSE_Labeled_AE   arrhythmias≠I-OSE_Labeled_AE  or  tachycardia≠B-OSE_Labeled_AE  accounted for most of the difference in  cardiac≠B-OSE_Labeled_AE   disorders≠I-OSE_Labeled_AE  (4.5% for R-CHOP vs. 1.0% for CHOP).
+
+ The following Grade 3 or 4 adverse reactions occurred more frequently among patients in the R-CHOP arm compared with those in the CHOP arm:  thrombocytopenia≠B-OSE_Labeled_AE  (9% vs. 7%) and  lung≠B-OSE_Labeled_AE   disorder≠I-OSE_Labeled_AE  (6% vs. 3%). Other Grade 3 or 4 adverse reactions occurring more frequently among patients receiving R-CHOP were  viral≠B-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE  (Study 8),  neutropenia≠B-OSE_Labeled_AE  (Studies 8 and 9), and  anemia≠B-OSE_Labeled_AE  (Study 9).
+
+     CLL  
+
+ The data below reflect exposure to Rituxan in combination with fludarabine and cyclophosphamide in 676 patients with  CLL≠B-Not_AE_Candidate  in Study 11 or Study 12 [  See  Clinical Studies (14.5)    ]. The age range was 30-83 years and 71% were men. Detailed safety data collection in Study 11 was limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
+
+  Infusion≠B-NonOSE_AE  -≠I-NonOSE_AE  related≠I-NonOSE_AE   adverse≠I-NonOSE_AE   reactions≠I-NonOSE_AE  were defined by any of the following adverse events occurring during or within 24 hours of the start of infusion:  nausea≠B-NonOSE_AE ,  pyrexia≠B-NonOSE_AE ,  chills≠B-NonOSE_AE ,  hypotension≠B-NonOSE_AE ,  vomiting≠B-NonOSE_AE , and  dyspnea≠B-NonOSE_AE .
+
+ In Study 11, the following Grade 3 and 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients:  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (9% in R-FC arm),  neutropenia≠B-OSE_Labeled_AE  (30% vs. 19%),  febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE  (9% vs. 6%),  leukopenia≠B-OSE_Labeled_AE  (23% vs. 12%), and  pancytopenia≠B-OSE_Labeled_AE  (3% vs. 1%).
+
+ In Study 12, the following Grade 3 or 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients:  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (7% in R-FC arm),  neutropenia≠B-OSE_Labeled_AE  (49% vs. 44%),  febrile≠B-OSE_Labeled_AE   neutropenia≠I-OSE_Labeled_AE  (15% vs. 12%),  thrombocytopenia≠B-OSE_Labeled_AE  (11% vs. 9%),  hypotension≠B-OSE_Labeled_AE  (2% vs. 0%), and  hepatitis≠B-OSE_Labeled_AE   B≠I-OSE_Labeled_AE  (2% vs. < 1%). Fifty-nine percent of R-FC-treated patients experienced an  infusion≠B-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE  of any severity.
+
+   6.2 Clinical Trials Experience in Rheumatoid Arthritis
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+ The data presented below reflect the experience in 2578  RA≠B-Not_AE_Candidate  patients treated with Rituxan in controlled and long-term studies with a total exposure of 5014 patient-years.
+
+ Among all exposed patients, adverse reactions reported in greater than 10% of patients include  infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE ,  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  nasopharyngitis≠B-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE , and  bronchitis≠B-OSE_Labeled_AE .
+
+ In placebo-controlled studies, patients received 2 * 500 mg or 2 * 1000 mg intravenous infusions of Rituxan or placebo, in combination with methotrexate, during a 24-week period. From these studies, 938 patients treated with Rituxan (2 * 1000 mg) or placebo have been pooled (see  Table 2  ). Adverse reactions reported in >= 5% of patients were  hypertension≠B-OSE_Labeled_AE ,  nausea≠B-OSE_Labeled_AE ,  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infection≠I-OSE_Labeled_AE ,  arthralgia≠B-OSE_Labeled_AE ,  pyrexia≠B-OSE_Labeled_AE  and  pruritus≠B-OSE_Labeled_AE  (see  Table 2  ). The rates and types of adverse reactions in patients who received Rituxan 2 * 500 mg were similar to those observed in patients who received Rituxan 2 * 1000 mg.
+
+ Table 2These data are based on 938 patients treated in Phase 2 and 3 studies of Rituxan (2 * 1000 mg) or placebo administered in combination with methotrexate. Incidence of All Adverse ReactionsCoded using MedDRA. Occurring in >= 2% and at Least 1% Greater than Placebo Among Rheumatoid Arthritis Patients in Clinical Studies Up to Week 24 (Pooled) 
+ Preferred Term                               Placebo + MTXN=398n (%)         Rituxan + MTXN=540n (%)       
+  
+  Hypertension≠B-OSE_Labeled_AE                                           21 (5)                          43 (8)               
+  Nausea≠B-OSE_Labeled_AE                                                 19 (5)                          41 (8)               
+  Upper≠B-OSE_Labeled_AE   Respiratory≠I-OSE_Labeled_AE   Tract≠I-OSE_Labeled_AE   Infection≠I-OSE_Labeled_AE                      23 (6)                          37 (7)               
+  Arthralgia≠B-OSE_Labeled_AE                                             14 (4)                          31 (6)               
+  Pyrexia≠B-OSE_Labeled_AE                                                8 (2)                           27 (5)               
+  Pruritus≠B-OSE_Labeled_AE                                               5 (1)                           26 (5)               
+  Chills≠B-OSE_Labeled_AE                                                 9 (2)                           16 (3)               
+  Dyspepsia≠B-OSE_Labeled_AE                                             3 ( < 1)                         16 (3)               
+  Rhinitis≠B-OSE_Labeled_AE                                               6 (2)                           14 (3)               
+  Paresthesia≠B-OSE_Labeled_AE                                           3 ( < 1)                         12 (2)               
+  Urticaria≠B-OSE_Labeled_AE                                             3 ( < 1)                         12 (2)               
+  Abdominal≠B-OSE_Labeled_AE   Pain≠I-OSE_Labeled_AE   Upper≠I-OSE_Labeled_AE                                   4 (1)                           11 (2)               
+  Throat≠B-OSE_Labeled_AE   Irritation≠I-OSE_Labeled_AE                                      0 (0)                           11 (2)               
+  Anxiety≠B-OSE_Labeled_AE                                                5 (1)                           9 (2)                
+  Migraine≠B-OSE_Labeled_AE                                              2 ( < 1)                         9 (2)                
+  Asthenia≠B-OSE_Labeled_AE                                              1 ( < 1)                         9 (2)                
+             Infusion Reactions  
+ 
+
+ In the Rituxan  RA≠B-Not_AE_Candidate  pooled placebo-controlled studies, 32% of Rituxan-treated patients experienced an adverse reaction during or within 24 hours following their first infusion, compared to 23% of placebo-treated patients receiving their first infusion. The incidence of adverse reactions during the 24-hour period following the second infusion, Rituxan or placebo, decreased to 11% and 13%, respectively. Acute  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  (manifested by  fever≠B-NonOSE_AE ,  chills≠B-NonOSE_AE ,  rigors≠B-NonOSE_AE ,  pruritus≠B-NonOSE_AE ,  urticaria≠B-NonOSE_AE / rash≠B-NonOSE_AE ,  angioedema≠B-NonOSE_AE ,  sneezing≠B-NonOSE_AE ,  throat≠B-NonOSE_AE   irritation≠I-NonOSE_AE ,  cough≠B-NonOSE_AE , and/or  bronchospasm≠B-NonOSE_AE , with or without associated  hypotension≠B-NonOSE_AE  or  hypertension≠B-NonOSE_AE ) were experienced by 27% of Rituxan-treated patients following their first infusion, compared to 19% of placebo-treated patients receiving their first placebo infusion. The incidence of these acute  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  following the second infusion of Rituxan or placebo decreased to 9% and 11%, respectively. Serious acute  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  were experienced by < 1% of patients in either treatment group. Acute  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  required dose modification (stopping, slowing, or interruption of the infusion) in 10% and 2% of patients receiving rituximab or placebo, respectively, after the first course. The proportion of patients experiencing acute  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  decreased with subsequent courses of Rituxan. The administration of intravenous glucocorticoids prior to Rituxan infusions reduced the incidence and severity of such reactions, however, there was no clear benefit from the administration of oral glucocorticoids for the prevention of acute  infusion≠B-NonOSE_AE   reactions≠I-NonOSE_AE . Patients in clinical studies also received antihistamines and acetaminophen prior to Rituxan infusions.
+
+     Infections  
+
+ In the pooled, placebo-controlled studies, 39% of patients in the Rituxan group experienced an  infection≠B-OSE_Labeled_AE  of any type compared to 34% of patients in the placebo group. The most common  infections≠B-OSE_Labeled_AE  were  nasopharyngitis≠B-OSE_Labeled_AE ,  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE ,  bronchitis≠B-OSE_Labeled_AE , and  sinusitis≠B-OSE_Labeled_AE .
+
+ The incidence of serious  infections≠B-OSE_Labeled_AE  was 2% in the Rituxan-treated patients and 1% in the placebo group.
+
+ In the experience with Rituxan in 2578  RA≠B-Not_AE_Candidate  patients, the rate of serious  infections≠B-OSE_Labeled_AE  was 4.31 per 100 patient years. The most common serious  infections≠B-OSE_Labeled_AE  ( >= 0.5%) were  pneumonia≠B-OSE_Labeled_AE  or  lower≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE ,  cellulitis≠B-OSE_Labeled_AE  and  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE .  Fatal≠B-NonOSE_AE  serious  infections≠B-OSE_Labeled_AE  included  pneumonia≠B-OSE_Labeled_AE ,  sepsis≠B-OSE_Labeled_AE  and  colitis≠B-OSE_Labeled_AE . Rates of serious  infection≠B-NonOSE_AE  remained stable in patients receiving subsequent courses. In 185 Rituxan-treated  RA≠B-Not_AE_Candidate  patients with active disease, subsequent treatment with a biologic DMARD, the majority of which were TNF antagonists, did not appear to increase the rate of serious  infection≠B-NonOSE_AE . Thirteen serious  infections≠B-OSE_Labeled_AE  were observed in 186.1 patient years (6.99 per 100 patient years) prior to exposure and 10 were observed in 182.3 patient years (5.49 per 100 patient years) after exposure.
+
+     Cardiac Adverse Reactions  
+
+ In the pooled, placebo-controlled studies, the proportion of patients with serious  cardiovascular≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  was 1.7% and 1.3% in the Rituxan and placebo treatment groups, respectively. Three cardiovascular  deaths≠B-NonOSE_AE  occurred during the double-blind period of the  RA≠B-Not_AE_Candidate  studies including all rituximab regimens (3/769 = 0.4%) as compared to none in the placebo treatment group (0/389).
+
+ In the experience with Rituxan in 2578  RA≠B-Not_AE_Candidate  patients, the rate of serious  cardiac≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  was 1.93 per 100 patient years. The rate of  myocardial≠B-OSE_Labeled_AE   infarction≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  MI≠I-OSE_Labeled_AE ) was 0.56 per 100 patient years (28 events in 26 patients), which is consistent with  MI≠B-NonOSE_AE  rates in the general  RA≠B-Not_AE_Candidate  population. These rates did not increase over three courses of Rituxan.
+
+ Since patients with  RA≠B-Not_AE_Candidate  are at increased risk for  cardiovascular≠B-NonOSE_AE   events≠I-NonOSE_AE  compared with the general population, patients with  RA≠B-Not_AE_Candidate  should be monitored throughout the infusion and Rituxan should be discontinued in the event of a serious or life-threatening  cardiac≠B-NonOSE_AE   event≠I-NonOSE_AE .
+
+     Hypophosphatemia and hyperuricemia  
+
+ In the pooled, placebo-controlled studies, newly-occurring  hypophosphatemia≠B-OSE_Labeled_AE  ( < 2.0 mg/dl) was observed in 12% (67/540) of patients on Rituxan versus 10% (39/398) of patients on placebo.  Hypophosphatemia≠B-OSE_Labeled_AE  was more common in patients who received corticosteroids. Newly-occurring  hyperuricemia≠B-OSE_Labeled_AE  (>10 mg/dl) was observed in 1.5% (8/540) of patients on Rituxan versus 0.3% (1/398) of patients on placebo.
+
+ In the experience with Rituxan in  RA≠B-Not_AE_Candidate  patients, newly-occurring  hypophosphatemia≠B-OSE_Labeled_AE  was observed in 21% (528/2570) of patients and newly-occurring  hyperuricemia≠B-OSE_Labeled_AE  was observed in 2% (56/2570) of patients. The majority of the observed  hypophosphatemia≠B-OSE_Labeled_AE  occurred at the time of the infusions and was transient.
+
+     Retreatment in Patients with RA  
+
+ In the experience with Rituxan in  RA≠B-Not_AE_Candidate  patients, 2578 patients have been exposed to Rituxan and have received up to 10 courses of Rituxan in  RA≠B-Not_AE_Candidate  clinical trials, with 1890, 1043, and 425 patients having received at least two, three, and four courses, respectively. Most of the patients who received additional courses did so 24 weeks or more after the previous course and none were retreated sooner than 16 weeks. The rates and types of adverse reactions reported for subsequent courses of Rituxan were similar to rates and types seen for a single course of Rituxan.
+
+ In RA Study 2, where all patients initially received Rituxan, the safety profile of patients who were retreated with Rituxan was similar to those who were retreated with placebo [  See  Clinical Studies (14.6)  , and  Dosage and Administration (2.5)    ].
+
+   6.3 Clinical Trials Experience in Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+ The data presented below reflect the experience in 197 patients with  GPA≠B-Not_AE_Candidate  and  MPA≠B-Not_AE_Candidate  treated with Rituxan or cyclophosphamide in a single controlled study, which was conducted in two phases: a 6 month randomized, double-blind, double-dummy, active-controlled remission induction phase and an additional 12 month remission maintenance phase. In the 6-month remission induction phase, 197 patients with  GPA≠B-Not_AE_Candidate  and  MPA≠B-Not_AE_Candidate  were randomized to either Rituxan 375 mg/ m  2  once weekly for 4 weeks plus glucocorticoids, or oral cyclophosphamide 2 mg/kg daily (adjusted for renal function, white blood cell count, and other factors) plus glucocorticoids to induce remission. Once remission was achieved or at the end of the 6 month remission induction period, the cyclophosphamide group received azathioprine to maintain remission. The Rituxan group did not receive additional therapy to maintain remission. The primary analysis was at the end of the 6 month remission induction period and the safety results for this period are described below.
+
+ Adverse reactions presented below in  Table 3  were adverse events which occurred at a rate of greater than or equal to 10% in the Rituxan group. This table reflects experience in 99 GPA and  MPA≠B-Not_AE_Candidate  patients treated with Rituxan, with a total of 47.6 patient-years of observation and 98  GPA≠B-Not_AE_Candidate  and  MPA≠B-Not_AE_Candidate  patients treated with cyclophosphamide, with a total of 47.0 patient-years of observation.  Infection≠B-OSE_Labeled_AE  was the most common category of adverse events reported (47-62%) and is discussed below.
+
+ Table 3 Incidence of All Adverse Reactions Occurring in >= 10% of Rituxan-treated GPA and MPA Patients in the Clinical Study Up to Month 6The study design allowed for crossover or treatment by best medical judgment, and 13 patients in each treatment group received a second therapy during the 6 month study period. 
+ Preferred Term                                   RituxanN=99n (%)           CyclophosphamideN=98n (%)      
+  
+  Nausea≠B-OSE_Labeled_AE                                                18 (18%)                        20 (20%)              
+  Diarrhea≠B-OSE_Labeled_AE                                              17 (17%)                        12 (12%)              
+  Headache≠B-OSE_Labeled_AE                                              17 (17%)                        19 (19%)              
+  Muscle≠B-OSE_Labeled_AE   spasms≠I-OSE_Labeled_AE                                         17 (17%)                        15 (15%)              
+  Anemia≠B-OSE_Labeled_AE                                                16 (16%)                        20 (20%)              
+  Peripheral≠B-OSE_Labeled_AE   edema≠I-OSE_Labeled_AE                                      16 (16%)                         6 (6%)               
+  Insomnia≠B-OSE_Labeled_AE                                              14 (14%)                        12 (12%)              
+  Arthralgia≠B-OSE_Labeled_AE                                            13 (13%)                         9 (9%)               
+  Cough≠B-OSE_Labeled_AE                                                 13 (13%)                        11 (11%)              
+  Fatigue≠B-OSE_Labeled_AE                                               13 (13%)                        21 (21%)              
+  Increased≠B-OSE_Labeled_AE   ALT≠I-OSE_Labeled_AE                                         13 (13%)                        15 (15%)              
+  Hypertension≠B-OSE_Labeled_AE                                          12 (12%)                         5 (5%)               
+  Epistaxis≠B-OSE_Labeled_AE                                             11 (11%)                         6 (6%)               
+  Dyspnea≠B-OSE_Labeled_AE                                               10 (10%)                        11 (11%)              
+  Leukopenia≠B-OSE_Labeled_AE                                            10 (10%)                        26 (27%)              
+  Rash≠B-OSE_Labeled_AE                                                  10 (10%)                        17 (17%)              
+             Infusion Reactions  
+ 
+
+  Infusion≠B-NonOSE_AE  -≠I-NonOSE_AE  related≠I-NonOSE_AE   reactions≠I-NonOSE_AE  in the active-controlled, double-blind study were defined as any adverse event occurring within 24 hours of an infusion and considered to be infusion-related by investigators. Among the 99 patients treated with Rituxan, 12% experienced at least one  infusion≠B-OSE_Labeled_AE   related≠I-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE , compared with 11% of the 98 patients in the cyclophosphamide group.  Infusion≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  related≠I-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE  included  cytokine≠B-OSE_Labeled_AE   release≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  flushing≠B-OSE_Labeled_AE ,  throat≠B-OSE_Labeled_AE   irritation≠I-OSE_Labeled_AE , and  tremor≠B-OSE_Labeled_AE . In the Rituxan group, the proportion of patients experiencing an  infusion≠B-OSE_Labeled_AE   related≠I-OSE_Labeled_AE   reaction≠I-OSE_Labeled_AE  was 12%, 5%, 4%, and 1% following the first, second, third, and fourth infusions, respectively. Patients were pre-medicated with antihistamine and acetaminophen before each Rituxan infusion and were on background oral corticosteroids which may have mitigated or masked an  infusion≠B-NonOSE_AE   reaction≠I-NonOSE_AE ; however, there is insufficient evidence to determine whether premedication diminishes the frequency or severity of  infusion≠B-NonOSE_AE   reactions≠I-NonOSE_AE .
+
+     Infections  
+
+ In the active-controlled, double-blind study, 62% (61/99) of patients in the Rituxan group experienced an  infection≠B-OSE_Labeled_AE  of any type compared to 47% (46/98) patients in the cyclophosphamide group by Month 6. The most common  infections≠B-OSE_Labeled_AE  in the Rituxan group were  upper≠B-OSE_Labeled_AE   respiratory≠I-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE ,  urinary≠B-OSE_Labeled_AE   tract≠I-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE , and  herpes≠B-OSE_Labeled_AE   zoster≠I-OSE_Labeled_AE .
+
+ The incidence of serious  infections≠B-OSE_Labeled_AE  was 11% in the Rituxan-treated patients and 10% in the cyclophosphamide treated patients, with rates of approximately 25 and 28 per 100 patient-years, respectively. The most common serious infection was  pneumonia≠B-OSE_Labeled_AE .
+
+     Hypogammaglobulinemia  
+
+  Hypogammaglobulinemia≠B-OSE_Labeled_AE  ( IgA≠B-OSE_Labeled_AE , IgG or IgM  below≠I-OSE_Labeled_AE   the≠I-OSE_Labeled_AE   lower≠I-OSE_Labeled_AE   limit≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   normal≠I-OSE_Labeled_AE ) has been observed in patients with  GPA≠B-Not_AE_Candidate  and  MPA≠B-Not_AE_Candidate  treated with Rituxan. At 6 months, in the Rituxan group, 27%, 58% and 51% of patients with normal immunoglobulin levels at baseline, had  low≠B-OSE_Labeled_AE   IgA≠I-OSE_Labeled_AE , IgG and IgM levels, respectively compared to 25%, 50% and 46% in the cyclophosphamide group.
+
+     Retreatment in Patients with GPA and MPA  
+
+ In the active-controlled, double-blind study, subsequent courses of Rituxan were allowed for patients experiencing a relapse of disease. The limited data preclude any conclusions regarding the safety of subsequent courses of Rituxan with  GPA≠B-Not_AE_Candidate  and  MPA≠B-Not_AE_Candidate  [  See  Dosage and Administration (2.6)  , and  Warnings and Precautions (5.14)    ].
+
+   6.4 Immunogenicity
+
+  As with all therapeutic proteins, there is a potential for  immunogenicity≠B-OSE_Labeled_AE . The observed incidence of  antibody≠B-NonOSE_AE  (including neutralizing a ntibody≠B-NonOSE_AE  )≠I-NonOSE_AE    positivity≠I-NonOSE_AE  ≠≠I-NonOSE_AE I-NonOSE_AE  in an assay is highly dependent on several factors including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   Rituxan≠I-NonOSE_AE  with the incidence of  antibodies≠B-NonOSE_AE   to≠I-NonOSE_AE   other≠I-NonOSE_AE   products≠I-NonOSE_AE  may be misleading.
+
+ Using an ELISA assay,  anti≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  human≠I-OSE_Labeled_AE   anti≠I-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  chimeric≠I-OSE_Labeled_AE   antibody≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  HACA≠I-OSE_Labeled_AE ) was detected in 4 of 356 (1.1%) patients with low-grade or follicular  NHL≠B-Not_AE_Candidate  receiving single-agent Rituxan. Three of the four patients had an objective clinical response.
+
+ A total of 273/2578 (11%) patients with  RA≠B-Not_AE_Candidate  tested  positive≠B-OSE_Labeled_AE   for≠I-OSE_Labeled_AE   HACA≠I-OSE_Labeled_AE  at any time after receiving Rituxan.  HACA≠B-NonOSE_AE  positivity was not associated with increased  infusion≠B-NonOSE_AE   reactions≠I-NonOSE_AE  or other adverse reactions. Upon further treatment, the proportions of patients with  infusion≠B-NonOSE_AE   reactions≠I-NonOSE_AE  were similar between  HACA≠B-NonOSE_AE   positive≠I-NonOSE_AE  and negative patients, and most reactions were mild to moderate. Four  HACA≠B-OSE_Labeled_AE   positive≠I-OSE_Labeled_AE  patients had serious  infusion≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE , and the temporal relationship between  HACA≠B-NonOSE_AE   positivity≠I-NonOSE_AE  and  infusion≠B-NonOSE_AE   reaction≠I-NonOSE_AE  was variable.
+
+ A total of 23/99 (23%) Rituxan-treated patients with  GPA≠B-Not_AE_Candidate  and  MPA≠B-Not_AE_Candidate  tested  positive≠B-OSE_Labeled_AE   for≠I-OSE_Labeled_AE   HACA≠I-OSE_Labeled_AE  by 18 months. The clinical relevance of  HACA≠B-NonOSE_AE   formation≠I-NonOSE_AE  in Rituxan-treated patients is unclear.
+
+   6.5 Postmarketing Experience
+
+  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to Rituxan.
+
+ *   Hematologic≠B-NonOSE_AE : prolonged  pancytopenia≠B-OSE_Labeled_AE ,  marrow≠B-OSE_Labeled_AE   hypoplasia≠I-OSE_Labeled_AE , Grade 3-4 prolonged or late-onset  neutropenia≠B-OSE_Labeled_AE ,  hyperviscosity≠B-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE   in≠I-OSE_Labeled_AE   Waldenstrom≠I-OSE_Labeled_AE  '≠I-OSE_Labeled_AE  s≠I-OSE_Labeled_AE   macroglobulinemia≠I-OSE_Labeled_AE , prolonged  hypogammaglobulinemia≠B-OSE_Labeled_AE  [ See  Warnings and Precautions (5.6)   ]. 
+ *   Cardiac≠B-NonOSE_AE :  fatal≠B-NonOSE_AE   cardiac≠B-OSE_Labeled_AE   failure≠I-OSE_Labeled_AE . 
+ *   Immune≠B-NonOSE_AE  /≠I-NonOSE_AE  Autoimmune≠I-NonOSE_AE   Events≠I-NonOSE_AE :  uveitis≠B-OSE_Labeled_AE ,  optic≠B-OSE_Labeled_AE   neuritis≠I-OSE_Labeled_AE ,  systemic≠B-OSE_Labeled_AE   vasculitis≠I-OSE_Labeled_AE ,  pleuritis≠B-OSE_Labeled_AE ,  lupus≠B-OSE_Labeled_AE  -≠I-OSE_Labeled_AE  like≠I-OSE_Labeled_AE   syndrome≠I-OSE_Labeled_AE ,  serum≠B-OSE_Labeled_AE   sickness≠I-OSE_Labeled_AE ,  polyarticular≠B-OSE_Labeled_AE   arthritis≠I-OSE_Labeled_AE , and  vasculitis≠B-OSE_Labeled_AE  with  rash≠B-OSE_Labeled_AE . 
+ *   Infection≠B-NonOSE_AE :  viral≠B-OSE_Labeled_AE   infections≠I-OSE_Labeled_AE , including  progressive≠B-OSE_Labeled_AE   multifocal≠I-OSE_Labeled_AE   leukoencephalopathy≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PML≠I-OSE_Labeled_AE ), increase in  fatal≠B-NonOSE_AE   infections≠B-OSE_Labeled_AE  in  HIV≠B-Not_AE_Candidate  -≠I-Not_AE_Candidate  associated≠I-Not_AE_Candidate   lymphoma≠I-Not_AE_Candidate , and a reported increased incidence of Grade 3 and 4  infections≠B-OSE_Labeled_AE  [ See  Warnings and Precautions (5.6)   ]. 
+ *   Neoplasia≠B-NonOSE_AE :  disease≠B-OSE_Labeled_AE   progression≠I-OSE_Labeled_AE   of≠I-OSE_Labeled_AE   Kaposi≠I-OSE_Labeled_AE  '≠I-OSE_Labeled_AE  s≠I-OSE_Labeled_AE   sarcoma≠I-OSE_Labeled_AE . 
+ *   Skin≠B-NonOSE_AE : severe  mucocutaneous≠B-OSE_Labeled_AE   reactions≠I-OSE_Labeled_AE . 
+ *   Gastrointestinal≠B-NonOSE_AE :  bowel≠B-OSE_Labeled_AE   obstruction≠I-OSE_Labeled_AE  and perforation. 
+ *   Pulmonary≠B-NonOSE_AE :  fatal≠B-NonOSE_AE   bronchiolitis≠B-OSE_Labeled_AE   obliterans≠I-OSE_Labeled_AE  and  fatal≠B-NonOSE_AE   interstitial≠B-OSE_Labeled_AE   lung≠I-OSE_Labeled_AE   disease≠I-OSE_Labeled_AE . 
+ *   Nervous≠B-NonOSE_AE   system≠I-NonOSE_AE :  Posterior≠B-OSE_Labeled_AE   Reversible≠I-OSE_Labeled_AE   Encephalopathy≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  PRES≠I-OSE_Labeled_AE ) /  Reversible≠B-OSE_Labeled_AE   Posterior≠I-OSE_Labeled_AE   Leukoencephalopathy≠I-OSE_Labeled_AE   Syndrome≠I-OSE_Labeled_AE   (≠I-OSE_Labeled_AE  RPLS≠I-OSE_Labeled_AE ). 
+

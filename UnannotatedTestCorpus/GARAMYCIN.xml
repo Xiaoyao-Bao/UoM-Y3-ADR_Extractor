@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="GARAMYCIN">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS:
+
+  Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations.
+
+
+
+ The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects, and conjunctival hyperemia.
+
+
+
+ Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura, and hallucinations.
+
+
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Fera Pharmaceuticals, LLC at (414) 434-6604, Monday-Friday 9am-5pm EST, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  .
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+     
+ 
+
+    General:
+
+
+
+  Prolonged use of topical antibiotics may give rise to overgrowth of non-susceptible organisms including fungi.  Bacterial resistance to gentamicin may also develop.  If purulent discharge, inflammation or pain becomes aggravated, the patient should discontinue use of the medication and consult a physician.
+
+
+
+ If irritation or hypersensitivity to any component of the drug develops, the patient should discontinue use of this preparation, and appropriate therapy should be instituted.
+
+
+
+    Information For Patients:
+
+
+
+   To avoid contamination, do not touch tip of container to the eye, eyelid, or any surface.  
+ 
+
+    Carcinogenesis, Mutagenesis and Impairment of Fertility:
+
+
+
+   There are no published carcinogenicity or impairment of fertility studies on gentamicin.  Aminoglycoside antibiotics have been found to be non-mutagenic.  
+ 
+
+    Pregnancy:
+
+
+
+     Pregnancy Category C:      Gentamicin has been shown to depress body weights, kidney weights, and median glomerular counts in newborn rats when administered systemically to pregnant rats in daily doses approximately 500 times the maximum recommended ophthalmic human dose.  There are no adequate and well-controlled studies in pregnant women.  Gentamicin should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.  
+ 
+
+    Pediatric Use:
+
+
+
+   Safety and effectiveness in neonates have not been established.  
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS:
+
+
+
+    NOT FOR INJECTION INTO THE EYE.    Gentamicin Sulfate Ophthalmic Solution is not for injection.  It should never be injected subconjunctivally, nor should it be directly introduced into the anterior chamber of the eye.  
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="18" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="9" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S2" start="32" />
+    <IgnoredRegion len="25" name="heading" section="S2" start="540" />
+    <IgnoredRegion len="56" name="heading" section="S2" start="671" />
+    <IgnoredRegion len="10" name="heading" section="S2" start="897" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="1385" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="E_Z_PAQUE">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6   ADVERSE REACTIONS
+
+  The following adverse reactions have been identified from spontaneous reporting or clinical studies of barium sulfate administered orally. Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or to establish a causal relationship to drug exposure
+
+
+
+ *  Nausea, vomiting, diarrhea and abdominal cramping 
+ *  Serious adverse reactions and fatalities include aspiration pneumonitis, barium sulfate impaction, intestinal perforation with consequent peritonitis and granuloma formation, vasovagal and syncopal episodes 
+      EXCERPT:   Common adverse reactions include nausea, vomiting, diarrhea and abdominal cramping (  6  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact Bracco Diagnostics Inc at 1-800-257-5181 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch  
+
+
+
+ 
+</Section>
+    <Section id="S2" name="warnings and precautions">    5   WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Hypersensitivity reactions: Emergency equipment and trained personnel should be immediately available (  5.1  ) 
+ *  Intra-abdominal barium leakage: May occur in conditions such as GI fistula, ulcer, inflammatory bowel disease, appendicitis or diverticulitis, severe stenosis or obstructing lesions of the GI tract (  5.2  ) 
+ *  Delayed GI transit and obstruction: Patients should maintain adequate hydration in days following a barium sulfate procedure to avoid obstruction or impaction caused by baroliths (  5.3  ) 
+ *  Aspiration pneumonitis: Patients with history of food aspiration or with swallowing disorders are at increased risk. (  5.4  ) 
+    
+ 
+
+   5.1 Hypersensitivity Reactions
+
+
+
+  Barium sulfate preparations contain a number of excipients, including natural and artificial flavors and may induce serious hypersensitivity reactions. The manifestations include hypotension, bronchospasm and other respiratory impairments, dermal reactions including rashes, urticaria, and itching. A history of bronchial asthma, atopy, or a previous reaction to a contrast agent may increase the risk for hypersensitivity reactions. Emergency equipment and trained personnel should be immediately available for treatment of a hypersensitivity reaction.
+
+
+
+    5.2 Intra-abdominal Barium Leakage
+
+
+
+  The use of E-Z-PAQUE is contraindicated in patients at high risk of perforation of the GI tract [see Contraindications (  4  )].  Administration of E-Z-PAQUE may result in leakage of barium from the GI tract in the presence of conditions such as carcinomas, GI fistula, inflammatory bowel disease, gastric or duodenal ulcer, appendicitis, diverticulitis, and in patients with a severe stenosis at any level of the GI tract, especially distal to the stomach. Barium leakage has been associated with peritonitis and granuloma formation.
+
+
+
+    5.3 Delayed Gastrointestinal Transit and Obstruction
+
+
+
+  Orally administered barium sulfate may accumulate proximal to a constricting lesion of the colon, causing obstruction or impaction with development of baroliths (inspissated barium associated with feces) and may cause abdominal pain, appendicitis, bowel obstruction, or rarely perforation. Patients with the following conditions are at higher risk for developing obstruction or baroliths: severe stenosis at any level of the GI tract, impaired GI motility, electrolyte imbalance, dehydration, on a low residue diet, on medications that delay GI motility, constipation, cystic fibrosis, Hirschsprung disease, and the elderly [see Use in Specific Populations (  8.4  ,  8.5  )].  To reduce the risk of delayed GI transit and obstruction, patients should maintain adequate hydration during and in the days following a barium sulfate procedure. Consider the administration of laxatives.
+
+
+
+    5.4 Aspiration Pneumonitis
+
+
+
+  The use of E-Z-PAQUE is contraindicated in patients at high risk of aspiration [see Contraindications (  4  )]  . Oral administration of barium is associated with aspiration pneumonitis, especially in patients with a history of food aspiration or with compromised swallowing mechanism. Vomiting following oral administration of barium sulfate may lead to aspiration pneumonitis. In patients at risk for aspiration, begin the procedure with a small ingested volume of E-Z-PAQUE. Discontinue administration of E-Z-PAQUE immediately if aspiration is suspected.
+
+
+
+    5.5 Systemic Embolization
+
+
+
+  Barium sulfate products may occasionally intravasate into the venous drainage of the large bowel and enter the circulation as a "barium embolus" leading to potentially fatal complications which include systemic and pulmonary embolism, disseminated intravascular coagulation, septicemia and prolonged severe hypotension. Although this complication is exceedingly uncommon after oral administration of a barium sulfate suspension, monitor patients for potential intravasation when administering barium sulfate.
+
+
+
+    5.6 Risk with Hereditary Fructose Intolerance
+
+
+
+  E-Z-PAQUE contains sorbitol which may cause severe symptoms if ingested by patients with hereditary fructose intolerance. Severe symptoms may include the following: vomiting, hypoglycemia, jaundice, hemorrhage, hepatomegaly, hyperuricemia, and kidney failure. Before administration of E-Z-PAQUE assess patients for a history of hereditary fructose intolerance and avoid use in these patients.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="21" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="28" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="672" name="excerpt" section="S2" start="38" />
+    <IgnoredRegion len="252" name="excerpt" section="S1" start="645" />
+    <IgnoredRegion len="30" name="heading" section="S2" start="717" />
+    <IgnoredRegion len="34" name="heading" section="S2" start="1314" />
+    <IgnoredRegion len="52" name="heading" section="S2" start="1896" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="2844" />
+    <IgnoredRegion len="25" name="heading" section="S2" start="3441" />
+    <IgnoredRegion len="45" name="heading" section="S2" start="3988" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

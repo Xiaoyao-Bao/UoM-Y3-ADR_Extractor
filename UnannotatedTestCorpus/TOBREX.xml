@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="TOBREX">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS:
+
+  The most frequent adverse reactions to TOBREX  (r)  Ophthalmic Solution are hypersensitivity and localized ocular toxicity, including lid itching and swelling, and conjunctival erythema. These reactions occur in less than three of 100 patients treated with TOBREX  (r)  . Similar reactions may occur with the topical use of other aminoglycoside antibiotics. Other adverse reactions have not been reported from TOBREX  (r)  (tobramycin ophthalmic solution) 0.3% therapy; however, if topical ocular tobramycin is administered concomitantly with systemic aminoglycoside antibiotics, care should be taken to monitor the total serum concentration.
+</Section>
+    <Section id="S2" name="precautions">    PRECAUTIONS
+
+
+
+   General:
+
+
+
+  As with other antibiotic preparations, prolonged use may result in overgrowth of nonsusceptible organisms, including fungi. If superinfection occurs, appropriate therapy should be initiated. Cross-sensitivity to other aminoglycoside antibiotics may occur; if hypersensitivity develops with this product, discontinue use and institute appropriate therapy. Patients should be advised not to wear contact lenses if they have signs and symptoms of bacterial ocular infection.
+
+
+
+    Information for Patients:
+
+
+
+  Do not touch dropper tip to any surface, as this may contaminate the solution.
+
+
+
+    Pregnancy:
+
+
+
+  Reproduction studies in three types of animals at doses up to thirty-three times the normal human systemic dose have revealed no evidence of impaired fertility or harm to the fetus due to tobramycin. There are, however, no adequate and well-controlled studies in pregnant women. Because animal studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+
+
+
+    Nursing Mothers:
+
+
+
+  Because of the potential for adverse reactions in nursing infants from TOBREX  (r)  , a decision should be made whether to discontinue nursing the infant or discontinue the drug, taking into account the importance of the drug to the mother.
+
+
+
+    Pediatric Use:
+
+
+
+  Safety and effectiveness in pediatric patients below the age of 2 months has not been established.
+
+
+
+    Geriatric Use:
+
+
+
+  No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+</Section>
+    <Section id="S3" name="warnings">    WARNINGS
+
+
+
+  FOR TOPICAL OPHTHALMIC USE ONLY. NOT FOR INJECTION INTO THE EYE. Sensitivity to topically applied aminoglycosides may occur in some patients. If a sensitivity reaction to TOBREX  (r)  (tobramycin ophthalmic solution) 0.3% occurs, discontinue use.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="18" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="11" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S3" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S2" start="22" />
+    <IgnoredRegion len="25" name="heading" section="S2" start="515" />
+    <IgnoredRegion len="10" name="heading" section="S2" start="632" />
+    <IgnoredRegion len="16" name="heading" section="S2" start="1068" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="1338" />
+    <IgnoredRegion len="14" name="heading" section="S2" start="1464" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

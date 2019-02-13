@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="LEVOPHED">
+  <Text>
+    <Section id="S1" name="adverse reactions">    ADVERSE REACTIONS
+
+  The following reactions can occur:
+
+
+
+     Body As A Whole:    Ischemic injury due to potent vasoconstrictor action and tissue hypoxia.
+
+
+
+     Cardiovascular System:    Bradycardia, probably as a reflex result of a rise in blood pressure, arrhythmias, and stress cardiomyopathy.
+
+
+
+     Nervous System:    Anxiety, transient headache.
+
+
+
+     Respiratory System:    Respiratory difficulty.
+
+
+
+     Skin and Appendages:    Extravasation necrosis at injection site.
+
+
+
+ Prolonged administration of any potent vasopressor may result in plasma volume depletion which should be continuously corrected by appropriate fluid and electrolyte replacement therapy. If plasma volumes are not corrected, hypotension may recur when LEVOPHED is discontinued, or blood pressure may be maintained at the risk of severe peripheral and visceral vasoconstriction (e.g., decreased renal perfusion) with diminution in blood flow and tissue perfusion with subsequent tissue hypoxia and lactic acidosis and possible ischemic injury. Gangrene of extremities has been rarely reported.
+
+
+
+ Overdoses or conventional doses in hypersensitive persons (e.g., hyperthyroid patients) cause severe hypertension with violent headache, photophobia, stabbing retrosternal pain, pallor, intense sweating, and vomiting.
+</Section>
+    <Section id="S2" name="warnings">    WARNINGS
+
+
+
+  LEVOPHED should be used with extreme caution in patients receiving monoamine oxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe, prolonged hypertension may result.
+
+
+
+ LEVOPHED Bitartrate Injection contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people. The overall prevalence of sulfite sensitivity in the general population is unknown. Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="17" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="8" name="heading" section="S2" start="4" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

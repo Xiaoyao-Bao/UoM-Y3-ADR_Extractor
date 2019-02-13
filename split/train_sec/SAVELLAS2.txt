@@ -1,0 +1,20 @@
+
+
+    BOXED WARNING: WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS 
+
+  WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS 
+
+    Savella is a selective serotonin and norepinephrine reuptake inhibitor (SNRI), similar to some drugs used for the treatment of  depression≠B-Not_AE_Candidate  and other  psychiatric≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate . Antidepressants increased the risk compared to placebo of  suicidal≠B-OSE_Labeled_AE   thinking≠I-OSE_Labeled_AE  and behavior ( suicidality≠B-OSE_Labeled_AE ) in children, adolescents, and young adults in short-term studies of  major≠B-Not_AE_Candidate   depressive≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate   (≠I-Not_AE_Candidate  MDD≠I-Not_AE_Candidate ) and other  psychiatric≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate . Anyone considering the use of such drugs in a child, adolescent, or young adult must balance this risk with the clinical need. Short-term studies did not show an increase in the risk of  suicidality≠B-NonOSE_AE  with antidepressants compared to placebo in adults beyond age 24; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older.  Depression≠B-Not_AE_Candidate  and certain other  psychiatric≠B-Not_AE_Candidate   disorders≠I-Not_AE_Candidate  are themselves associated with increases in the risk of  suicide≠B-NonOSE_AE . Patients of all ages who are started on Savella should be monitored appropriately and observed closely for clinical worsening,  suicidality≠B-NonOSE_AE , or  unusual≠B-NonOSE_AE   changes≠I-NonOSE_AE   in≠I-NonOSE_AE   behavior≠I-NonOSE_AE . Families and caregivers should be advised of the need for close observation and communication with the prescriber. Savella is not approved for use in the treatment of  major≠B-Not_AE_Candidate   depressive≠I-Not_AE_Candidate   disorder≠I-Not_AE_Candidate . Savella is not approved for use in pediatric patients   [see Indications and Usage (  1  ), Warnings and Precautions (  5.1  ), Use in Specific Populations (  8.4  )]    . 
+
+
+
+   EXCERPT:   WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS
+
+
+
+   See full prescribing information for complete boxed warning.  
+
+
+
+ *  Increased risk of suicidal ideation, thinking, and behavior in children, adolescents, and young adults taking antidepressants for major depressive disorder (MDD) and other psychiatric disorders (5.1). 
+ *  Savella is not approved for use in pediatric patients (1, 8.4). 

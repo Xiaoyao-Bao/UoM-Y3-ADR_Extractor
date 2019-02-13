@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubmissionLabel drug="OLUX">
+  <Text>
+    <Section id="S1" name="adverse reactions">    6 ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+
+
+ *    Effects on Endocrine System [see  Warnings and Precautions (5.1)  ]  
+ *    Ophthalmic Adverse Reactions [see  Warnings and Precautions (5.2)  ]  
+      EXCERPT:   Most common adverse reactions (&gt;= 4%) are application site burning and other application site reactions. (  6.1  )
+ 
+
+   To report SUSPECTED ADVERSE REACTIONS, contact    Mylan at 1-877-446-3679 (1-877-4-INFO-RX)    or FDA at 1-800-FDA-1088 or  www.fda.gov/medwatch.    
+
+
+
+ 
+
+  6.1 Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+
+
+ In a controlled clinical trial involving 188 subjects with psoriasis of the scalp, there were no localized scalp adverse reactions reported in the subjects treated with OLUX Foam. In 2 controlled clinical trials with OLUX Foam in 360 subjects with psoriasis of non-scalp regions, localized adverse events that occurred in the subjects treated with OLUX Foam included application site burning (10%), application site dryness (&lt;1%), and other application site reactions (4%).
+
+
+
+ In larger controlled trials with other clobetasol propionate formulations, the most frequently reported local adverse reactions have included burning, stinging, irritation, pruritus, erythema, folliculitis, cracking and fissuring of the skin, numbness of the fingers, skin atrophy, and telangiectasia (all less than 2%).
+
+
+
+   6.2 Postmarketing Experience
+
+  Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+ Local adverse reactions to topical corticosteroids may include: striae, itching, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, hypertrichosis, and miliaria.
+
+
+
+ Ophthalmic adverse reactions may include: cataracts, glaucoma, increased intraocular pressure, and central serous chorioretinopathy.
+</Section>
+    <Section id="S2" name="warnings and precautions">    5 WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *    OLUX Foam can cause reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency during and after withdrawal of treatment. Risk factors include the use of high-potency topical corticosteroid, use over a large surface area or to areas under occlusion, prolonged use, altered skin barrier, liver failure, and use in pediatric patients. Modify use should HPA axis suppression develop. (  5.1  ,  8.4  ) 
+ *    OLUX Foam may increase the risk of cataract and glaucoma. If visual symptoms occur, consider referral to an ophthalmologist. (  5.2  ) 
+ *    OLUX Foam is flammable. Avoid fire, flame, or smoking during and immediately following application. (  5.4  ) 
+    
+ 
+
+   5.1 Effects on Endocrine System
+
+
+
+  OLUX Foam can cause reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency. This may occur during treatment or after withdrawal of treatment. Factors that predispose a patient to HPA axis suppression include the use of high-potency steroids, large treatment surface areas, prolonged use, use of occlusive dressings, altered skin barrier, liver failure, and young age. Evaluation for HPA axis suppression may be done by using the adrenocorticotropic hormone (ACTH) stimulation test.
+
+
+
+ In a trial evaluating the effects of OLUX Foam on the HPA axis, 13 subjects applied OLUX Foam to at least 20% of involved body surface area for 14 days. HPA axis suppression was identified in 5 out of 13 subjects (38%) [ see  Clinical Pharmacology (12.2)    ] .  
+
+
+
+ If HPA axis suppression is documented, gradually withdraw the drug, reduce the frequency of application, or substitute with a less potent corticosteroid.
+
+
+
+ Cushing's syndrome and hyperglycemia may also occur due to the systemic effects of the topical corticosteroid. These complications are rare and generally occur after prolonged exposure to excessively large doses, especially of high-potency topical corticosteroids.
+
+
+
+ Pediatric patients may be more susceptible to systemic toxicity due to their larger skin surface to body mass ratios [ see  Use in Specific Populations (8.4)    ].
+
+
+
+    5.2 Ophthalmic Adverse Reactions
+
+
+
+   Use of topical corticosteroids, including OLUX Foam, may increase the risks of glaucoma and posterior subcapsular cataract. Glaucoma and cataracts have been reported in postmarketing experience with the use of topical corticosteroid products, including topical clobetasol products.  
+
+
+
+  Avoid contact of OLUX Foam with eyes. Advise patients to report any visual symptoms and consider referral to an ophthalmologist for evaluation.  
+
+
+
+    5.3 Allergic Contact Dermatitis
+
+
+
+  Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation. Such an observation should be corroborated with appropriate diagnostic patch testing.
+
+
+
+    5.4 Flammable Contents
+
+
+
+  OLUX Foam is flammable. Avoid fire, flame, or smoking during and immediately following application.
+</Section>
+  </Text>
+  <IgnoredRegions>
+    <IgnoredRegion len="19" name="heading" section="S1" start="4" />
+    <IgnoredRegion len="26" name="heading" section="S2" start="4" />
+    <IgnoredRegion len="710" name="excerpt" section="S2" start="36" />
+    <IgnoredRegion len="287" name="excerpt" section="S1" start="287" />
+    <IgnoredRegion len="30" name="heading" section="S1" start="578" />
+    <IgnoredRegion len="31" name="heading" section="S2" start="753" />
+    <IgnoredRegion len="28" name="heading" section="S1" start="1694" />
+    <IgnoredRegion len="32" name="heading" section="S2" start="2209" />
+    <IgnoredRegion len="31" name="heading" section="S2" start="2690" />
+    <IgnoredRegion len="22" name="heading" section="S2" start="2963" />
+  </IgnoredRegions>
+  <Mentions>
+    </Mentions>
+</SubmissionLabel>

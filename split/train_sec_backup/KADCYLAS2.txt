@@ -1,0 +1,26 @@
+
+
+    BOXED WARNING: 
+
+    Do Not Substitute KADCYLA for or with Trastuzumab  
+
+
+
+   WARNING: HEPATOTOXICITY, CARDIAC TOXICITY, EMBRYO-FETAL TOXICITY  
+
+
+
+ *  Hepatotoxicity: Serious hepatotoxicity has been reported, including liver failure and death in patients treated with KADCYLA. Monitor serum transaminases and bilirubin prior to initiation of KADCYLA treatment and prior to each KADCYLA dose. Reduce dose or discontinue KADCYLA as appropriate in cases of increased serum transaminases or total bilirubin. (2.2, 5.1) 
+ *  Cardiac Toxicity: KADCYLA administration may lead to reductions in left ventricular ejection fraction (LVEF). Evaluate left ventricular function in all patients prior to and during treatment with KADCYLA. Withhold treatment for clinically significant decrease in left ventricular function. (2.2, 5.2) 
+ *  Embryo-Fetal Toxicity: Exposure to KADCYLA can result in embryo-fetal death or birth defects. Advise patients of these risks and the need for effective contraception. (5.3, 8.1, 8.6) 
+      EXCERPT:     WARNING: HEPATOTOXICITY, CARDIAC TOXICITY, EMBRYO-FETAL TOXICITY  
+ 
+
+   See full prescribing information for complete boxed warning  
+
+
+
+ *  Do not substitute KADCYLA for or with trastuzumab. (2.1) 
+ *  Hepatotoxicity, liver failure and death have occurred in KADCYLA-treated patients. Monitor hepatic function prior to initiation and prior to each dose. Institute dose modifications or permanently discontinue as appropriate. (2.2, 5.1) 
+ *  KADCYLA may lead to reductions in left ventricular ejection fraction (LVEF). Assess LVEF prior to initiation. Monitor and withhold dosing or discontinue as appropriate. (2.2, 5.2) 
+ *  Can cause fetal harm. Advise women of potential risk to the fetus. (5.3, 8.1, 8.6) 
